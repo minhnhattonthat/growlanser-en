@@ -92,6 +92,15 @@
 - asm/vwf.asm hooks both jals: pair codes (tools/enfont.py, PAIR 0x800 + i<<7 + j) are drawn as two proportional
   glyphs from font/en12.txt, game glyphs 12 px wide; the printer gets back s6 = ceil(x / 12). The texel x resyncs
   to col*12 when the column, row or canvas changes. Code + English font sit in font cells 0x6A0-0x7CA.
+- **Typewriter** (verified, `tools/debug/vwflog.lua` exec hooks): dialogue goes through the print wrapper
+  0x8006777C (a0 x col, a1 y row, a2 width, a3 height, stack: &dx, &dy, ...). With gp+0x87E = 1 (set at
+  0x80065120) the caller at 0x800654B4 (and its twin after 0x800658E8) prints ONE code per frame into a 1x1-column
+  window at the cursor (gp+0x84A + gp+0x838, gp+0x852 + gp+0x83C) and adds the columns used, so the glyph routine
+  always sees col 0 and each pair sat in its own 12 px cell (clipped past 12 px: "brow n"). Otherwise it prints the
+  rest of the page at once (0x800655C8 / 0x80065A4C: x = window left, width = whole window, dx = &gp+0x838).
+  vwf.asm branches both typewriters to the page-at-once path: text appears a page, or up to the next wait code, at
+  a time (the message-speed option no longer changes anything). A wait code mid-line resumes at the column, not the
+  pixel (up to 11 px gap): keep waits at line ends in the English.
 - EXE string tables: the u16 arrays and getters stay; strings go in a heap (tools/insert.py `Heap`: the original
   string blocks plus free kanji cells 0x11C-0x69F minus the icon/button cells), anywhere within 128 KB above the
   table's base (u16 word offsets).

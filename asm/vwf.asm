@@ -31,6 +31,15 @@ FREE_END   equ 0x80100A0E        ; end of the font (cell 0x7CB)
 .org 0x8006F4AC
     nop                          ; was addiu s6, s6, 2
 
+; Dialogue typewriter (gp+0x87E = 1): it prints one code per frame through a 1-column window at the cursor column
+; and adds the columns used, so every pair sat in its own 12 px cell (clipped when wider). Take the game's own
+; page-at-once path instead (the one it uses when 0x87E = 0): the printer then draws whole lines and the VWF runs
+; across them. Text appears a page (or up to the next wait code) at a time. docs/re/text.md "Typewriter".
+.org 0x80065444
+    b       0x800655C8           ; was bne s0, v1, 0x800655C8 (s0 = gp+0x87E, v1 = 1)
+.org 0x800658F0
+    b       0x80065A4C           ; was bne s0, v1, 0x80065A4C (second typewriter, same test)
+
 .org FREE_START
 ; Windows draw interleaved (typewriter text beside a name tag), so the x is kept per canvas: 4 slots of
 ; (canvas base1, texel x, last col returned, last row), replaced round-robin.
