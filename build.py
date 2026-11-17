@@ -1,7 +1,8 @@
 """build.py: rebuild both discs from the unpacked trees, with patched files swapped in.
 
   python -X utf8 build.py              -> build/disc{1,2}/ (Redump file names, original .cue copied)
-  python -X utf8 build.py --identity   -> no patches into work/ident/, exit 1 unless every track's SHA-1 equals rom.sha1
+  python -X utf8 build.py --marker     -> marker build (phase 5: every line = its id + filler)
+  python -X utf8 build.py --identity  -> no patches into work/ident/, exit 1 unless every track's SHA-1 equals rom.sha1
 
 Steps: check the dump (rom.sha1), unpack with dumpsxiso if work/discN/tree is missing (never written to), write a
 layout with absolute paths (patched files point at build/discN/files/), run mkpsxiso, split disc 2's single image
@@ -108,14 +109,24 @@ def sha1(path):
         return hashlib.file_digest(f, "sha1").hexdigest()
 
 
-def patches(disc):
+def patches(disc, mode):
     """Patched files for this disc, {ISO name: bytes}. Both discs share data files and EXE (one translation)."""
-    return {}
+    import insert
+    if mode not in _patched:
+        _patched[mode] = insert.patched(mode)
+    files = dict(_patched[mode])
+    if disc == 2:
+        files["SLPS_023.81"] = files.pop("SLPS_023.80")
+    return files
+
+
+_patched = {}
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--identity", action="store_true", help="build with no patches and compare to rom.sha1")
+    ap.add_argument("--marker", action="store_true", help="marker build: every line replaced by its id + filler")
     args = ap.parse_args()
     check_rom.check()
     if args.identity:
@@ -130,7 +141,7 @@ def main():
                 print(f"{'ok  ' if ok else 'DIFF'} {got}  {path.name}")
         sys.exit(1 if bad else 0)
     for disc in DISCS:
-        for path in build_disc(disc, ROOT / f"build/disc{disc}", patches(disc)):
+        for path in build_disc(disc, ROOT / f"build/disc{disc}", patches(disc, "marker" if args.marker else "en")):
             print(f"{sha1(path)}  {path.relative_to(ROOT).as_posix()}")
 
 
