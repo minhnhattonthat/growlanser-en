@@ -2,9 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate: not started (phase 5 done 2026-11-18; width gate in docs/windows.md, fit lint
-  `tools/fit.py`). Last build: 2026-11-18 `build.py --marker`, both discs (disc 1 bin sha1 6818b3d7...), smoke ok
-  on both, 63/63 warps landed (work/qa/marker2), dialogue VWF clean across pages (work/qa/nt_c).
+- **Phase:** 6. Translate in progress (2026-11-18): wave 0 (b001-b017: EXE tables, MSYS descriptions) and the
+  dialogue pilot (b018-b020, scenes 0-2) translated, reviewed, merged; b021-b204 (dialogue) running through
+  `tools/tl_run.py pipeline` (codex exec, -j 8). Last build: 2026-11-18 `build.py --marker` (phase 5), smoke ok.
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
     `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
@@ -49,9 +49,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
     tests/test_fit.py, part of check: every `en` must fit; guesses only warn). New warps gear_items/equip/status/
     spell (check-menu item 0 fills the lists). Non-text: exe.sys.0000-0004 kept JP (`insert.KEEP_JP`, full-width
     punctuation still in the font); exe.places.0006 is `{s:0010}` (the player's territory name): copy as-is.
-- **Next (phase 6, translate):** follow the skill's references/translation.md (batches work/tl/, translator and
-  reviewer agent types, glossary.md, D1-D8 in docs/decisions.md). Budgets: docs/windows.md; every batch must pass
-  `tools/fit.py`. English must wrap by hand ({n}), max 3 lines per {p} page in dialogue; no `# @ \ ^ \` { | }`.
+- **Phase 6 setup (done):** `tools/batches.py` (split / check / merge / wrap; translators write running English,
+  the wrapper adds {n} by pixel width and {p} every 3 lines in dialogue; checks codes incl. `[XXXX]` icons, glossary,
+  honorifics after glossary names, fit lint), `tools/tl_run.py` (codex exec read-only per batch: translate -> check
+  (3 fix rounds) -> review (docs/reviewer-brief.md) -> fix Critical/Important -> merge; Minors -> docs/polish.md;
+  `run.lock` = one runner at a time; logs work/tl/log, reviews work/tl/reviews), `tools/termscan.py` (terms pass;
+  82 terms added to glossary). docs/translator-brief.md, docs/style-reference.md, docs/synopsis.md (codex, from
+  per-scene summaries in docs/scenes/), D9-D11. Item names are hard-capped at 96 px: 15 key items shortened in b003
+  (e.g. "[02A4]Search Warrant", "Palsy Ward Tome"); widen the item field in phase 7 if possible, then restore.
+- **Next (phase 6):** when the runner ends, `python -X utf8 tools/tl_run.py status` + work/tl/wave1.log: re-run
+  failed batches (`tl_run.py pipeline bNNN ..`, fix by hand when codex can't fit), merge NEW TERM reports
+  (work/tl/bNNN.report.txt) into glossary.md, `tools/check.py`, commit, push. Phase 6 done when every batch is
+  merged (work/tl/bNNN.done) and check passes.
 - **Before phase 7 (engine, found in phase 5):** MSYS descriptions have almost no slack (one 4-line ruler in
   items, or 3 rulers in magic+skills, overflow `insert.MSYS_LIMIT`): grow the subfiles (sector table 0x8001273C,
   count table 0x800126BC, load buffers 0x80117B98 / 0x80141778). SCEN entries grow with English: find the scene

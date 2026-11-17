@@ -247,6 +247,20 @@ def main(argv):
         return 0
     if argv[:1] != ["pipeline"] or not names:
         sys.exit(__doc__)
+    lock = TL / "run.lock"  # one runner at a time: two would translate and merge the same batches
+    if lock.exists():
+        pid = lock.read_text().strip()
+        alive = subprocess.run(["tasklist", "/FI", f"PID eq {pid}"], capture_output=True, text=True).stdout
+        if pid in alive:
+            sys.exit(f"another tl_run pipeline is running (pid {pid}, {lock})")
+    lock.write_text(str(__import__("os").getpid()))
+    try:
+        return run(names, jobs)
+    finally:
+        lock.unlink(missing_ok=True)
+
+
+def run(names, jobs):
     failed = 0
     with ThreadPoolExecutor(jobs) as ex:
         for res in ex.map(pipeline, names):

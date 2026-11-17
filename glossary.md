@@ -108,5 +108,77 @@ alternatives); an Avoid spelling fails.
 | 傭兵 | mercenary | | | |
 | エルム | Elm | | currency ("75 Elm") | |
 
+## Terms pass before wave 1 (codex proposal from tools/termscan.py, controller-checked 2026-11-18)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| パワーストーン | Power Stone | | | |
+| インペリアル・ナイツ | Imperial Knights | | the order | |
+| シャドー・ナイツ | Shadow Knights | | | |
+| ナイト・マスター | Knight Master | | | |
+| マスタークラス | Master Class | | tournament rank | |
+| ビギナークラス | Beginner Class | | | |
+| ジュニアクラス | Junior Class | | | |
+| ノーマルクラス | Normal Class | | | |
+| エキスパート | Expert | | Expert Class rank | |
+| エクセレントクラス | Excellent Class | | | |
+| グレートクラス | Great Class | | | |
+| ヒーロークラス | Hero Class | | | |
+| チャンピオンクラス | Champion Class | | | |
+| レジェンドクラス | Legend Class | | | |
+| フレッシュマン | Freshman | | | |
+| コロシアム | Coliseum | | | |
+| フリーバトル | Free Battle | | | |
+| クリアノ | Kuriano | | herb (クリアノ草 Kuriano Herb) | |
+| ブレーム | Brehm | | volcano (ブレーム火山 Brehm Volcano) | Blame |
+| アルト | Alto | | | |
+| ダンジョンマン | Dungeon Man | | | |
+| グレッグ | Greg | | | |
+| アイテムショップ・ココ | Coco's Item Shop | | | |
+| プロミス・ペンダント | Promise Pendant | | | |
+| バーバラ | Barbara | | | |
+| ノストリッジ | Nostridge | | | |
+| マホガク定食 | Academy Special | | | |
+| 魔水晶鉱山～概略～ | The Magic Crystal Mine: An Overview | | book title | |
+| 大戦の謎 | Mysteries of the Great War | | book title | |
+| 古代遺跡とその出土品 | Ancient Ruins and Their Artifacts | | book title | |
+| 水晶鉱山調査隊派遣記録 | Crystal Mine Expedition Dispatch Records | | book title | |
+| 迷いの森遺跡調査報告 | Lost Forest Ruins Survey Report | | book title | |
+| 聖なる土 | Holy Soil | | | |
+| スターロード | Star Road | | | |
+| ＬＬＭ魔法教室 | LLM Magic School | | | |
+| 地震雲 | earthquake cloud | | | |
+| バズロック | Bazrock | | | |
+| マジックジャマー | Magic Jammer | | | |
+| ニコラ | Nicola | | | |
+| プロキンス | Prokins | | | |
+| 三国大陸 | Three Kingdoms Continent | | | |
+| 回復薬 | healing potion | | | |
+| 秘伝書 | Secret Manual | | | |
+| マホガク | Academy | | students' slang for the Magic Academy | |
+| マーナ | Marna | | | |
+| マジックタイム | Magic Time | | | |
+| アダル | Adal | | | |
+| ハウエル | Howell | | | |
+| ワイワイランド | Waiwai Land | | | |
+| ワクワクランド | Wakuwaku Land | | | |
+| 賢者の石 | Sage's Stone | | item name fits 96 px | Philosopher's Stone |
+| フライシェベルグ | Fleischeberg | | | |
+| ヘルブリンディ | Helblindi | | | |
+| マジックロック | Magic Lock | | | |
+| シビレ玉 | Paralysis Orb | | | |
+| フレッシュゴーレム | Flesh Golem | | | |
+| 魔法の眼 | Magic Eye | | | |
+| グローランサー | Growlanser | | | |
+| 謎の洞窟探索記 | Exploring the Mysterious Cave | | book title | |
+| 透明化薬 | Invisibility Potion | | | |
+| 温泉通行許可証 | Spa Pass | | item name fits 96 px | |
+| ゼメキス | Zemekis | | | |
+| ジョニー・カルテット | Johnny Quartet | | | |
+| カラジューム | Caladium | | | |
+| ムスカリ | Muscari | | | |
+| グローランド | Growland | | | |
+| ラファガ | Rafaga | | | |
+| エンジェルリング | Angel Ring | | | |
+
 ## Decisions from earlier batches
 - (none yet)
