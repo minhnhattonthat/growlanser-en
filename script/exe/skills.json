@@ -9,385 +9,385 @@
   {
    "id": "exe.skills.0000",
    "jp": "クリティカル１",
-   "en": "",
+   "en": "Critical 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0001",
    "jp": "クリティカル２",
-   "en": "",
+   "en": "Critical 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0002",
    "jp": "クリティカル３",
-   "en": "",
+   "en": "Critical 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0003",
    "jp": "毒攻撃１",
-   "en": "",
+   "en": "Poison Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0004",
    "jp": "毒攻撃２",
-   "en": "",
+   "en": "Poison Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0005",
    "jp": "毒攻撃３",
-   "en": "",
+   "en": "Poison Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0006",
    "jp": "猛毒攻撃１",
-   "en": "",
+   "en": "Venom Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0007",
    "jp": "猛毒攻撃２",
-   "en": "",
+   "en": "Venom Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0008",
    "jp": "猛毒攻撃３",
-   "en": "",
+   "en": "Venom Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0009",
    "jp": "マヒ攻撃１",
-   "en": "",
+   "en": "Paralysis Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0010",
    "jp": "マヒ攻撃２",
-   "en": "",
+   "en": "Paralysis Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0011",
    "jp": "マヒ攻撃３",
-   "en": "",
+   "en": "Paralysis Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0012",
    "jp": "石化攻撃１",
-   "en": "",
+   "en": "Petrify Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0013",
    "jp": "石化攻撃２",
-   "en": "",
+   "en": "Petrify Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0014",
    "jp": "石化攻撃３",
-   "en": "",
+   "en": "Petrify Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0015",
    "jp": "腕つぶし",
-   "en": "",
+   "en": "Arm Crush",
    "term": "null"
   },
   {
    "id": "exe.skills.0016",
    "jp": "ソウルクラッシュ",
-   "en": "",
+   "en": "Soul Crush",
    "term": "null"
   },
   {
    "id": "exe.skills.0017",
    "jp": "全周囲攻撃１",
-   "en": "",
+   "en": "All-Around Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0018",
    "jp": "全周囲攻撃２",
-   "en": "",
+   "en": "All-Around Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0019",
    "jp": "全周囲攻撃３",
-   "en": "",
+   "en": "All-Around Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0020",
    "jp": "連続攻撃１",
-   "en": "",
+   "en": "Chain Attack 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0021",
    "jp": "連続攻撃２",
-   "en": "",
+   "en": "Chain Attack 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0022",
    "jp": "連続攻撃３",
-   "en": "",
+   "en": "Chain Attack 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0023",
    "jp": "盗む１",
-   "en": "",
+   "en": "Steal 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0024",
    "jp": "盗む２",
-   "en": "",
+   "en": "Steal 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0025",
    "jp": "盗む３",
-   "en": "",
+   "en": "Steal 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0026",
    "jp": "硬直延長",
-   "en": "",
+   "en": "Longer Stun",
    "term": "null"
   },
   {
    "id": "exe.skills.0027",
    "jp": "解毒能力",
-   "en": "",
+   "en": "Detoxification",
    "term": "null"
   },
   {
    "id": "exe.skills.0028",
    "jp": "マヒ無効化",
-   "en": "",
+   "en": "Paralysis Immunity",
    "term": "null"
   },
   {
    "id": "exe.skills.0029",
    "jp": "石化無効化",
-   "en": "",
+   "en": "Petrify Immunity",
    "term": "null"
   },
   {
    "id": "exe.skills.0030",
    "jp": "デス無効化",
-   "en": "",
+   "en": "Death Immunity",
    "term": "null"
   },
   {
    "id": "exe.skills.0031",
    "jp": "魔力吸収",
-   "en": "",
+   "en": "Magic Absorption",
    "term": "null"
   },
   {
    "id": "exe.skills.0032",
    "jp": "分身",
-   "en": "",
+   "en": "Mirror Image",
    "term": "null"
   },
   {
    "id": "exe.skills.0033",
    "jp": "カウンター１",
-   "en": "",
+   "en": "Counter 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0034",
    "jp": "カウンター２",
-   "en": "",
+   "en": "Counter 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0035",
    "jp": "カウンター３",
-   "en": "",
+   "en": "Counter 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0036",
    "jp": "スペルターニング",
-   "en": "",
+   "en": "Spell Turning",
    "term": "null"
   },
   {
    "id": "exe.skills.0037",
    "jp": "硬直短縮",
-   "en": "",
+   "en": "Shorter Stun",
    "term": "null"
   },
   {
    "id": "exe.skills.0038",
    "jp": "詠唱時間短縮",
-   "en": "",
+   "en": "Faster Casting",
    "term": "null"
   },
   {
    "id": "exe.skills.0039",
    "jp": "道具実行時間短縮",
-   "en": "",
+   "en": "Faster Item Use",
    "term": "null"
   },
   {
    "id": "exe.skills.0040",
    "jp": "リジェネレート",
-   "en": "",
+   "en": "Regenerate",
    "term": "null"
   },
   {
    "id": "exe.skills.0041",
    "jp": "超リジェネレート",
-   "en": "",
+   "en": "Super Regenerate",
    "term": "null"
   },
   {
    "id": "exe.skills.0042",
    "jp": "ＭＰ回復",
-   "en": "",
+   "en": "MP Recovery",
    "term": "null"
   },
   {
    "id": "exe.skills.0043",
    "jp": "俊足１",
-   "en": "",
+   "en": "Fleetfoot 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0044",
    "jp": "俊足２",
-   "en": "",
+   "en": "Fleetfoot 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0045",
    "jp": "俊足３",
-   "en": "",
+   "en": "Fleetfoot 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0046",
    "jp": "水上移動",
-   "en": "",
+   "en": "Water Walking",
    "term": "null"
   },
   {
    "id": "exe.skills.0047",
    "jp": "飛行",
-   "en": "",
+   "en": "Flight",
    "term": "null"
   },
   {
    "id": "exe.skills.0048",
    "jp": "壁抜け",
-   "en": "",
+   "en": "Wall Passing",
    "term": "null"
   },
   {
    "id": "exe.skills.0049",
    "jp": "ＨＰアップ１",
-   "en": "",
+   "en": "HP Up 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0050",
    "jp": "ＨＰアップ２",
-   "en": "",
+   "en": "HP Up 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0051",
    "jp": "ＨＰアップ３",
-   "en": "",
+   "en": "HP Up 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0052",
    "jp": "ＭＰアップ１",
-   "en": "",
+   "en": "MP Up 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0053",
    "jp": "ＭＰアップ２",
-   "en": "",
+   "en": "MP Up 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0054",
    "jp": "ＭＰアップ３",
-   "en": "",
+   "en": "MP Up 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0055",
    "jp": "魔力アップ１",
-   "en": "",
+   "en": "Magic Power Up 1",
    "term": "null"
   },
   {
    "id": "exe.skills.0056",
    "jp": "魔力アップ２",
-   "en": "",
+   "en": "Magic Power Up 2",
    "term": "null"
   },
   {
    "id": "exe.skills.0057",
    "jp": "魔力アップ３",
-   "en": "",
+   "en": "Magic Power Up 3",
    "term": "null"
   },
   {
    "id": "exe.skills.0058",
    "jp": "Ｓ異常無効",
-   "en": "",
+   "en": "Status Immunity",
    "term": "null"
   },
   {
    "id": "exe.skills.0059",
    "jp": "完全攻撃",
-   "en": "",
+   "en": "Perfect Attack",
    "term": "null"
   },
   {
    "id": "exe.skills.0060",
    "jp": "全アップ",
-   "en": "",
+   "en": "All Stats Up",
    "term": "null"
   },
   {
    "id": "exe.skills.0061",
    "jp": "全毒攻撃",
-   "en": "",
+   "en": "All-Poison Attack",
    "term": "null"
   },
   {
    "id": "exe.skills.0062",
    "jp": "断",
-   "en": "",
+   "en": "Sever",
    "term": "null"
   },
   {
    "id": "exe.skills.0063",
    "jp": "セ",
-   "en": "",
+   "en": "Se",
    "term": "null"
   }
  ]

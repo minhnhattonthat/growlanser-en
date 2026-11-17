@@ -9,661 +9,661 @@
   {
    "id": "exe.names.0000",
    "jp": "ＰＬＡＹＥＲ",
-   "en": "",
+   "en": "PLAYER",
    "term": "null"
   },
   {
    "id": "exe.names.0001",
    "jp": "ルイセ",
-   "en": "",
+   "en": "Luise",
    "term": "null"
   },
   {
    "id": "exe.names.0002",
    "jp": "ウォレス",
-   "en": "",
+   "en": "Wallace",
    "term": "null"
   },
   {
    "id": "exe.names.0003",
    "jp": "アリオスト",
-   "en": "",
+   "en": "Ariost",
    "term": "null"
   },
   {
    "id": "exe.names.0004",
    "jp": "エリオット",
-   "en": "",
+   "en": "Elliot",
    "term": "null"
   },
   {
    "id": "exe.names.0005",
    "jp": "ゼノス",
-   "en": "",
+   "en": "Xenos",
    "term": "null"
   },
   {
    "id": "exe.names.0006",
    "jp": "ミーシャ",
-   "en": "",
+   "en": "Misha",
    "term": "null"
   },
   {
    "id": "exe.names.0007",
    "jp": "カレン",
-   "en": "",
+   "en": "Karen",
    "term": "null"
   },
   {
    "id": "exe.names.0008",
    "jp": "ジュリアン",
-   "en": "",
+   "en": "Julian",
    "term": "null"
   },
   {
    "id": "exe.names.0009",
    "jp": "ジュリア",
-   "en": "",
+   "en": "Julia",
    "term": "null"
   },
   {
    "id": "exe.names.0010",
    "jp": "ティピ",
-   "en": "",
+   "en": "Tippi",
    "term": "null"
   },
   {
    "id": "exe.names.0011",
    "jp": "アルカディウス王",
-   "en": "",
+   "en": "King Alcadius",
    "term": "null"
   },
   {
    "id": "exe.names.0012",
    "jp": "ＭＹ[01C2]ＣＩＴＹ",
-   "en": "",
+   "en": "MY[01C2]CITY",
    "term": "null"
   },
   {
    "id": "exe.names.0013",
    "jp": "魔術師サンドラ",
-   "en": "",
+   "en": "Magician Sandra",
    "term": "null"
   },
   {
    "id": "exe.names.0014",
    "jp": "送魔線技師",
-   "en": "",
+   "en": "Mana Line Engineer",
    "term": "null"
   },
   {
    "id": "exe.names.0015",
    "jp": "ブラッドレー副学院長",
-   "en": "",
+   "en": "Vice Headmaster Bradley",
    "term": "null"
   },
   {
    "id": "exe.names.0016",
    "jp": "アイリーン",
-   "en": "",
+   "en": "Irene",
    "term": "null"
   },
   {
    "id": "exe.names.0017",
    "jp": "レティシア姫",
-   "en": "",
+   "en": "Princess Leticia",
    "term": "null"
   },
   {
    "id": "exe.names.0018",
    "jp": "王母アンジェラ",
-   "en": "",
+   "en": "Queen Mother Angela",
    "term": "null"
   },
   {
    "id": "exe.names.0019",
    "jp": "女王ステラ",
-   "en": "",
+   "en": "Queen Stella",
    "term": "null"
   },
   {
    "id": "exe.names.0020",
    "jp": "オスカー・リーヴス",
-   "en": "",
+   "en": "Oscar Reeves",
    "term": "null"
   },
   {
    "id": "exe.names.0021",
    "jp": "アーネスト・ライエル",
-   "en": "",
+   "en": "Ernest Lyell",
    "term": "null"
   },
   {
    "id": "exe.names.0022",
    "jp": "リシャール",
-   "en": "",
+   "en": "Richard",
    "term": "null"
   },
   {
    "id": "exe.names.0023",
    "jp": "リシャール王",
-   "en": "",
+   "en": "King Richard",
    "term": "null"
   },
   {
    "id": "exe.names.0024",
    "jp": "ガムラン",
-   "en": "",
+   "en": "Gamlan",
    "term": "null"
   },
   {
    "id": "exe.names.0025",
    "jp": "ランザック国王",
-   "en": "",
+   "en": "King of Ranzak",
    "term": "null"
   },
   {
    "id": "exe.names.0026",
    "jp": "ベルナード将軍",
-   "en": "",
+   "en": "General Bernard",
    "term": "null"
   },
   {
    "id": "exe.names.0027",
    "jp": "ブロンソン将軍",
-   "en": "",
+   "en": "General Bronson",
    "term": "null"
   },
   {
    "id": "exe.names.0028",
    "jp": "ウェーバー将軍",
-   "en": "",
+   "en": "General Weber",
    "term": "null"
   },
   {
    "id": "exe.names.0029",
    "jp": "ヴェンツェル",
-   "en": "",
+   "en": "Wenzel",
    "term": "null"
   },
   {
    "id": "exe.names.0030",
    "jp": "変身ヴェンツェル",
-   "en": "",
+   "en": "Transformed Wenzel",
    "term": "null"
   },
   {
    "id": "exe.names.0031",
    "jp": "シエラ",
-   "en": "",
+   "en": "Sierra",
    "term": "null"
   },
   {
    "id": "exe.names.0032",
    "jp": "ベルガー",
-   "en": "",
+   "en": "Berger",
    "term": "null"
   },
   {
    "id": "exe.names.0033",
    "jp": "エリオット父",
-   "en": "",
+   "en": "Elliot's Father",
    "term": "null"
   },
   {
    "id": "exe.names.0034",
    "jp": "エリオット母",
-   "en": "",
+   "en": "Elliot's Mother",
    "term": "null"
   },
   {
    "id": "exe.names.0035",
    "jp": "父親",
-   "en": "",
+   "en": "Father",
    "term": "null"
   },
   {
    "id": "exe.names.0036",
    "jp": "母親",
-   "en": "",
+   "en": "Mother",
    "term": "null"
   },
   {
    "id": "exe.names.0037",
    "jp": "店主",
-   "en": "",
+   "en": "Shopkeeper",
    "term": "null"
   },
   {
    "id": "exe.names.0038",
    "jp": "旅人",
-   "en": "",
+   "en": "Traveler",
    "term": "null"
   },
   {
    "id": "exe.names.0039",
    "jp": "侍女",
-   "en": "",
+   "en": "Lady-in-Waiting",
    "term": "null"
   },
   {
    "id": "exe.names.0040",
    "jp": "オヤジ",
-   "en": "",
+   "en": "Old Man",
    "term": "null"
   },
   {
    "id": "exe.names.0041",
    "jp": "看護婦長",
-   "en": "",
+   "en": "Head Nurse",
    "term": "null"
   },
   {
    "id": "exe.names.0042",
    "jp": "看護婦",
-   "en": "",
+   "en": "Nurse",
    "term": "null"
   },
   {
    "id": "exe.names.0043",
    "jp": "患者",
-   "en": "",
+   "en": "Patient",
    "term": "null"
   },
   {
    "id": "exe.names.0044",
    "jp": "医者",
-   "en": "",
+   "en": "Doctor",
    "term": "null"
   },
   {
    "id": "exe.names.0045",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "exe.names.0046",
    "jp": "マクスウェル学院長",
-   "en": "",
+   "en": "Headmaster Maxwell",
    "term": "null"
   },
   {
    "id": "exe.names.0047",
    "jp": "ブラッドレー学院長",
-   "en": "",
+   "en": "Headmaster Bradley",
    "term": "null"
   },
   {
    "id": "exe.names.0048",
    "jp": "学院長秘書",
-   "en": "",
+   "en": "Headmaster's Secretary",
    "term": "null"
   },
   {
    "id": "exe.names.0049",
    "jp": "副学院長秘書",
-   "en": "",
+   "en": "Vice Headmaster Secretary",
    "term": "null"
   },
   {
    "id": "exe.names.0050",
    "jp": "教授",
-   "en": "",
+   "en": "Professor",
    "term": "null"
   },
   {
    "id": "exe.names.0051",
    "jp": "魔法学院生徒",
-   "en": "",
+   "en": "Magic Academy Student",
    "term": "null"
   },
   {
    "id": "exe.names.0052",
    "jp": "魔導技師",
-   "en": "",
+   "en": "Magic Engineer",
    "term": "null"
   },
   {
    "id": "exe.names.0053",
    "jp": "エレナ",
-   "en": "",
+   "en": "Elena",
    "term": "null"
   },
   {
    "id": "exe.names.0054",
    "jp": "レダ",
-   "en": "",
+   "en": "Leda",
    "term": "null"
   },
   {
    "id": "exe.names.0055",
    "jp": "好事家",
-   "en": "",
+   "en": "Collector",
    "term": "null"
   },
   {
    "id": "exe.names.0056",
    "jp": "作業員",
-   "en": "",
+   "en": "Worker",
    "term": "null"
   },
   {
    "id": "exe.names.0057",
    "jp": "番兵",
-   "en": "",
+   "en": "Sentry",
    "term": "null"
   },
   {
    "id": "exe.names.0058",
    "jp": "兵士",
-   "en": "",
+   "en": "Soldier",
    "term": "null"
   },
   {
    "id": "exe.names.0059",
    "jp": "警備兵",
-   "en": "",
+   "en": "Guard",
    "term": "null"
   },
   {
    "id": "exe.names.0060",
    "jp": "盗掘者",
-   "en": "",
+   "en": "Tomb Robber",
    "term": "null"
   },
   {
    "id": "exe.names.0061",
    "jp": "開催責任者",
-   "en": "",
+   "en": "Organizer",
    "term": "null"
   },
   {
    "id": "exe.names.0062",
    "jp": "パートナー",
-   "en": "",
+   "en": "Partner",
    "term": "null"
   },
   {
    "id": "exe.names.0063",
    "jp": "闘技大会参加者",
-   "en": "",
+   "en": "Tournament Entrant",
    "term": "null"
   },
   {
    "id": "exe.names.0064",
    "jp": "ローランディア軍司令官",
-   "en": "",
+   "en": "Rolandia Army Commander",
    "term": "null"
   },
   {
    "id": "exe.names.0065",
    "jp": "ローランディア兵隊長",
-   "en": "",
+   "en": "Rolandia Captain",
    "term": "null"
   },
   {
    "id": "exe.names.0066",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "exe.names.0067",
    "jp": "輸送兵長",
-   "en": "",
+   "en": "Transport Captain",
    "term": "null"
   },
   {
    "id": "exe.names.0068",
    "jp": "輸送兵",
-   "en": "",
+   "en": "Transport Soldier",
    "term": "null"
   },
   {
    "id": "exe.names.0069",
    "jp": "輸送用動物",
-   "en": "",
+   "en": "Pack Animal",
    "term": "null"
   },
   {
    "id": "exe.names.0070",
    "jp": "バーンシュタイン軍司令官",
-   "en": "",
+   "en": "Burnstein Army Commander",
    "term": "null"
   },
   {
    "id": "exe.names.0071",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
+   "en": "Burnstein Captain",
    "term": "null"
   },
   {
    "id": "exe.names.0072",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "exe.names.0073",
    "jp": "ランザック軍司令官",
-   "en": "",
+   "en": "Ranzak Army Commander",
    "term": "null"
   },
   {
    "id": "exe.names.0074",
    "jp": "ランザック兵隊長",
-   "en": "",
+   "en": "Ranzak Captain",
    "term": "null"
   },
   {
    "id": "exe.names.0075",
    "jp": "ランザック兵",
-   "en": "",
+   "en": "Ranzak Soldier",
    "term": "null"
   },
   {
    "id": "exe.names.0076",
    "jp": "村長",
-   "en": "",
+   "en": "Village Chief",
    "term": "null"
   },
   {
    "id": "exe.names.0077",
    "jp": "村人",
-   "en": "",
+   "en": "Villager",
    "term": "null"
   },
   {
    "id": "exe.names.0078",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "exe.names.0079",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "term": "null"
   },
   {
    "id": "exe.names.0080",
    "jp": "オズワルド",
-   "en": "",
+   "en": "Oswald",
    "term": "null"
   },
   {
    "id": "exe.names.0081",
    "jp": "盗賊頭",
-   "en": "",
+   "en": "Bandit Chief",
    "term": "null"
   },
   {
    "id": "exe.names.0082",
    "jp": "盗賊",
-   "en": "",
+   "en": "Bandit",
    "term": "null"
   },
   {
    "id": "exe.names.0083",
    "jp": "覆面の男",
-   "en": "",
+   "en": "Masked Man",
    "term": "null"
   },
   {
    "id": "exe.names.0084",
    "jp": "仮面騎士",
-   "en": "",
+   "en": "Masked Knight",
    "term": "null"
   },
   {
    "id": "exe.names.0085",
    "jp": "ユング",
-   "en": "",
+   "en": "Jung",
    "term": "null"
   },
   {
    "id": "exe.names.0086",
    "jp": "ゲーヴ",
-   "en": "",
+   "en": "Gev",
    "term": "null"
   },
   {
    "id": "exe.names.0087",
    "jp": "部下",
-   "en": "",
+   "en": "Subordinate",
    "term": "null"
   },
   {
    "id": "exe.names.0088",
    "jp": "大鷲",
-   "en": "",
+   "en": "Giant Eagle",
    "term": "null"
   },
   {
    "id": "exe.names.0089",
    "jp": "モンスター使い",
-   "en": "",
+   "en": "Monster Tamer",
    "term": "null"
   },
   {
    "id": "exe.names.0090",
    "jp": "モンスター",
-   "en": "",
+   "en": "Monster",
    "term": "null"
   },
   {
    "id": "exe.names.0091",
    "jp": "バーンシュタイン工作兵",
-   "en": "",
+   "en": "Burnstein Saboteur",
    "term": "null"
   },
   {
    "id": "exe.names.0092",
    "jp": "馬車",
-   "en": "",
+   "en": "Carriage",
    "term": "null"
   },
   {
    "id": "exe.names.0093",
    "jp": "マスター・ガーディアン",
-   "en": "",
+   "en": "Master Guardian",
    "term": "null"
   },
   {
    "id": "exe.names.0094",
    "jp": "ガーディアン",
-   "en": "",
+   "en": "Guardian",
    "term": "null"
   },
   {
    "id": "exe.names.0095",
    "jp": "？？？？",
-   "en": "",
+   "en": "????",
    "term": "null"
   },
   {
    "id": "exe.names.0096",
    "jp": "グレンガル",
-   "en": "",
+   "en": "Grengal",
    "term": "null"
   },
   {
    "id": "exe.names.0097",
    "jp": "ゲヴェル",
-   "en": "",
+   "en": "Gevel",
    "term": "null"
   },
   {
    "id": "exe.names.0098",
    "jp": "ラルフ",
-   "en": "",
+   "en": "Ralph",
    "term": "null"
   },
   {
    "id": "exe.names.0099",
    "jp": "ニック",
-   "en": "",
+   "en": "Nick",
    "term": "null"
   },
   {
    "id": "exe.names.0100",
    "jp": "謎の男",
-   "en": "",
+   "en": "Mysterious Man",
    "term": "null"
   },
   {
    "id": "exe.names.0101",
    "jp": "行商人",
-   "en": "",
+   "en": "Peddler",
    "term": "null"
   },
   {
    "id": "exe.names.0102",
    "jp": "ダグラス卿",
-   "en": "",
+   "en": "Lord Douglas",
    "term": "null"
   },
   {
    "id": "exe.names.0103",
    "jp": "デカゲル",
-   "en": "",
+   "en": "Giant Gel",
    "term": "null"
   },
   {
    "id": "exe.names.0104",
    "jp": "副官",
-   "en": "",
+   "en": "Adjutant",
    "term": "null"
   },
   {
    "id": "exe.names.0105",
    "jp": "ジーナ",
-   "en": "",
+   "en": "Gina",
    "term": "null"
   },
   {
    "id": "exe.names.0106",
    "jp": "選手",
-   "en": "",
+   "en": "Contestant",
    "term": "null"
   },
   {
    "id": "exe.names.0107",
    "jp": "市長",
-   "en": "",
+   "en": "Mayor",
    "term": "null"
   },
   {
    "id": "exe.names.0108",
    "jp": "目",
-   "en": "",
+   "en": "Eye",
    "term": "null"
   },
   {
    "id": "exe.names.0109",
    "jp": "爪",
-   "en": "",
+   "en": "Claw",
    "term": "null"
   }
  ]

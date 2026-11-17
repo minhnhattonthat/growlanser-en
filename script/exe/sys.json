@@ -39,1123 +39,1123 @@
   {
    "id": "exe.sys.0005",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "null"
   },
   {
    "id": "exe.sys.0006",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "null"
   },
   {
    "id": "exe.sys.0007",
    "jp": "攻撃方法",
-   "en": "",
+   "en": "Attack Method",
    "term": "null"
   },
   {
    "id": "exe.sys.0008",
    "jp": "魔法制限",
-   "en": "",
+   "en": "Magic Restrictions",
    "term": "null"
   },
   {
    "id": "exe.sys.0009",
    "jp": "優先魔法",
-   "en": "",
+   "en": "Magic Priority",
    "term": "null"
   },
   {
    "id": "exe.sys.0010",
    "jp": "アイテム",
-   "en": "",
+   "en": "Items",
    "term": "null"
   },
   {
    "id": "exe.sys.0011",
    "jp": "確実に",
-   "en": "",
+   "en": "Play It Safe",
    "term": "null"
   },
   {
    "id": "exe.sys.0012",
    "jp": "騎士道精神",
-   "en": "",
+   "en": "Chivalry",
    "term": "null"
   },
   {
    "id": "exe.sys.0013",
    "jp": "回避重視",
-   "en": "",
+   "en": "Prioritize Evasion",
    "term": "null"
   },
   {
    "id": "exe.sys.0014",
    "jp": "全力",
-   "en": "",
+   "en": "Full Power",
    "term": "null"
   },
   {
    "id": "exe.sys.0015",
    "jp": "普通",
-   "en": "",
+   "en": "Normal",
    "term": "null"
   },
   {
    "id": "exe.sys.0016",
    "jp": "控えめ",
-   "en": "",
+   "en": "Conservative",
    "term": "null"
   },
   {
    "id": "exe.sys.0017",
    "jp": "使用禁止",
-   "en": "",
+   "en": "Do Not Use",
    "term": "null"
   },
   {
    "id": "exe.sys.0018",
    "jp": "攻撃優先",
-   "en": "",
+   "en": "Prioritize Attack",
    "term": "null"
   },
   {
    "id": "exe.sys.0019",
    "jp": "援護優先",
-   "en": "",
+   "en": "Prioritize Support",
    "term": "null"
   },
   {
    "id": "exe.sys.0020",
    "jp": "回復優先",
-   "en": "",
+   "en": "Prioritize Healing",
    "term": "null"
   },
   {
    "id": "exe.sys.0021",
    "jp": "制限無し",
-   "en": "",
+   "en": "No Restrictions",
    "term": "null"
   },
   {
    "id": "exe.sys.0022",
    "jp": "回復のみ",
-   "en": "",
+   "en": "Healing Only",
    "term": "null"
   },
   {
    "id": "exe.sys.0023",
    "jp": "すべて装備中です。",
-   "en": "",
+   "en": "All are currently equipped.",
    "term": "null"
   },
   {
    "id": "exe.sys.0024",
    "jp": "未使用",
-   "en": "",
+   "en": "Unused",
    "term": "null"
   },
   {
    "id": "exe.sys.0025",
    "jp": "破損データ",
-   "en": "",
+   "en": "Corrupted Data",
    "term": "null"
   },
   {
    "id": "exe.sys.0026",
    "jp": "セーブデータがありません。",
-   "en": "",
+   "en": "There is no save data.",
    "term": "null"
   },
   {
    "id": "exe.sys.0027",
    "jp": "２ブロック以上の空きがありません",
-   "en": "",
+   "en": "Fewer than two free blocks remain.",
    "term": "null"
   },
   {
    "id": "exe.sys.0028",
    "jp": "接続されていません。",
-   "en": "",
+   "en": "Not connected.",
    "term": "null"
   },
   {
    "id": "exe.sys.0029",
    "jp": "初期化されていません。",
-   "en": "",
+   "en": "Not formatted.",
    "term": "null"
   },
   {
    "id": "exe.sys.0030",
    "jp": "接続されました。",
-   "en": "",
+   "en": "Connected.",
    "term": "null"
   },
   {
    "id": "exe.sys.0031",
    "jp": "調べています。",
-   "en": "",
+   "en": "Checking...",
    "term": "null"
   },
   {
    "id": "exe.sys.0032",
    "jp": "本体にさわらないでください。",
-   "en": "",
+   "en": "Do not touch the console.",
    "term": "null"
   },
   {
    "id": "exe.sys.0033",
    "jp": "います。しばらくお待ちください。",
-   "en": "",
+   "en": "... Please wait.",
    "term": "null"
   },
   {
    "id": "exe.sys.0034",
    "jp": "セーブしています。",
-   "en": "",
+   "en": "Saving...",
    "term": "null"
   },
   {
    "id": "exe.sys.0035",
    "jp": "ロードしています。",
-   "en": "",
+   "en": "Loading...",
    "term": "null"
   },
   {
    "id": "exe.sys.0036",
    "jp": "セーブに失敗しました。",
-   "en": "",
+   "en": "Save failed.",
    "term": "null"
   },
   {
    "id": "exe.sys.0037",
    "jp": "ロードに失敗しました。",
-   "en": "",
+   "en": "Load failed.",
    "term": "null"
   },
   {
    "id": "exe.sys.0038",
    "jp": "破損データはロードできません。",
-   "en": "",
+   "en": "Corrupted data cannot be loaded.",
    "term": "null"
   },
   {
    "id": "exe.sys.0039",
    "jp": "セーブデータを上書きします。",
-   "en": "",
+   "en": "The save data will be overwritten.",
    "term": "null"
   },
   {
    "id": "exe.sys.0040",
    "jp": "セーブデータを作成します。",
-   "en": "",
+   "en": "New save data will be created.",
    "term": "null"
   },
   {
    "id": "exe.sys.0041",
    "jp": "セーブデータをロードします。",
-   "en": "",
+   "en": "The save data will be loaded.",
    "term": "null"
   },
   {
    "id": "exe.sys.0042",
    "jp": "よろしいですか？",
-   "en": "",
+   "en": "Proceed?",
    "term": "null"
   },
   {
    "id": "exe.sys.0043",
    "jp": "差込口１のメモリーカードが初期化",
-   "en": "",
+   "en": "The Memory Card in slot 1 has not been",
    "term": "null"
   },
   {
    "id": "exe.sys.0044",
    "jp": "されていません。初期化しますか？",
-   "en": "",
+   "en": "formatted. Format it now?",
    "term": "null"
   },
   {
    "id": "exe.sys.0045",
    "jp": "メモリーカードを初期化中です。",
-   "en": "",
+   "en": "Formatting the Memory Card...",
    "term": "null"
   },
   {
    "id": "exe.sys.0046",
    "jp": "初期化に失敗しました。",
-   "en": "",
+   "en": "Formatting failed.",
    "term": "null"
   },
   {
    "id": "exe.sys.0047",
    "jp": "セーブを終了しました。",
-   "en": "",
+   "en": "Save complete.",
    "term": "null"
   },
   {
    "id": "exe.sys.0048",
    "jp": "ロードを終了しました。",
-   "en": "",
+   "en": "Load complete.",
    "term": "null"
   },
   {
    "id": "exe.sys.0049",
    "jp": "初期化を終了しました。",
-   "en": "",
+   "en": "Formatting complete.",
    "term": "null"
   },
   {
    "id": "exe.sys.0050",
    "jp": "現在使える魔法がありません。",
-   "en": "",
+   "en": "No magic is currently available.",
    "term": "null"
   },
   {
    "id": "exe.sys.0051",
    "jp": "魔法もスキルもおぼえていません。",
-   "en": "",
+   "en": "No magic or skills have been learned.",
    "term": "null"
   },
   {
    "id": "exe.sys.0052",
    "jp": "なにも持っていません。",
-   "en": "",
+   "en": "You are not carrying anything.",
    "term": "null"
   },
   {
    "id": "exe.sys.0053",
    "jp": "装備中です",
-   "en": "",
+   "en": "Equipped",
    "term": "null"
   },
   {
    "id": "exe.sys.0054",
    "jp": "ここでよろしいですか？{n}　・はい{n}　・いいえ",
-   "en": "",
+   "en": "Is this location all right?{n}- Yes{n}- No",
    "term": "null"
   },
   {
    "id": "exe.sys.0055",
    "jp": "魔法の詠唱が終わりました。{n}発動しますか？",
-   "en": "",
+   "en": "The incantation is complete.{n}Cast the spell?",
    "term": "null"
   },
   {
    "id": "exe.sys.0056",
    "jp": "これでよろしいですか？{n}　・はい{n}　・いいえ",
-   "en": "",
+   "en": "Is this all right?{n}- Yes{n}- No",
    "term": "null"
   },
   {
    "id": "exe.sys.0057",
    "jp": "！",
-   "en": "",
+   "en": "!",
    "term": "null"
   },
   {
    "id": "exe.sys.0058",
    "jp": "{FFEA}の発動",
-   "en": "",
+   "en": "Cast {FFEA}",
    "term": "null"
   },
   {
    "id": "exe.sys.0059",
    "jp": "{FFEA}の詠唱",
-   "en": "",
+   "en": "Chant {FFEA}",
    "term": "null"
   },
   {
    "id": "exe.sys.0060",
    "jp": "{FFE8}の使用",
-   "en": "",
+   "en": "Use {FFE8}",
    "term": "null"
   },
   {
    "id": "exe.sys.0061",
    "jp": "{FFE8}の装着",
-   "en": "",
+   "en": "Equip {FFE8}",
    "term": "null"
   },
   {
    "id": "exe.sys.0062",
    "jp": "魔法",
-   "en": "",
+   "en": "Magic",
    "term": "null"
   },
   {
    "id": "exe.sys.0063",
    "jp": "道具",
-   "en": "",
+   "en": "Items",
    "term": "null"
   },
   {
    "id": "exe.sys.0064",
    "jp": "装備",
-   "en": "",
+   "en": "Equipment",
    "term": "null"
   },
   {
    "id": "exe.sys.0065",
    "jp": "ステータス",
-   "en": "",
+   "en": "Status",
    "term": "null"
   },
   {
    "id": "exe.sys.0066",
    "jp": "戦略",
-   "en": "",
+   "en": "Strategy",
    "term": "null"
   },
   {
    "id": "exe.sys.0067",
    "jp": "システム",
-   "en": "",
+   "en": "System",
    "term": "null"
   },
   {
    "id": "exe.sys.0068",
    "jp": "テレポートの目的地を指定してください。",
-   "en": "",
+   "en": "Select a teleport destination.",
    "term": "null"
   },
   {
    "id": "exe.sys.0069",
    "jp": "名前の入力　かなカナ英字消去決定",
-   "en": "",
+   "en": "Enter Name  Hiragana Katakana Latin Delete OK",
    "term": "null"
   },
   {
    "id": "exe.sys.0070",
    "jp": "あいうえおがぎぐげご",
-   "en": "",
+   "en": "a i u e o ga gi gu ge go",
    "term": "null"
   },
   {
    "id": "exe.sys.0071",
    "jp": "かきくけこざじずぜぞ",
-   "en": "",
+   "en": "ka ki ku ke ko za ji zu ze zo",
    "term": "null"
   },
   {
    "id": "exe.sys.0072",
    "jp": "さしすせそだぢづでど",
-   "en": "",
+   "en": "sa shi su se so da ji zu de do",
    "term": "null"
   },
   {
    "id": "exe.sys.0073",
    "jp": "たちつてとばびぶべぼ",
-   "en": "",
+   "en": "ta chi tsu te to ba bi bu be bo",
    "term": "null"
   },
   {
    "id": "exe.sys.0074",
    "jp": "なにぬねのぱぴぷぺぽ",
-   "en": "",
+   "en": "na ni nu ne no pa pi pu pe po",
    "term": "null"
   },
   {
    "id": "exe.sys.0075",
    "jp": "はひふへほ　っゃゅょ",
-   "en": "",
+   "en": "ha hi fu he ho  (small: tsu ya yu yo)",
    "term": "null"
   },
   {
    "id": "exe.sys.0076",
    "jp": "まみむめもぁぃぅぇぉ",
-   "en": "",
+   "en": "ma mi mu me mo (small: a i u e o)",
    "term": "null"
   },
   {
    "id": "exe.sys.0077",
    "jp": "やゐゆゑよー゛゜　　",
-   "en": "",
+   "en": "ya wi yu we yo - Voiced Semi-voiced",
    "term": "null"
   },
   {
    "id": "exe.sys.0078",
    "jp": "らりるれろ、。・　　",
-   "en": "",
+   "en": "ra ri ru re ro , . -",
    "term": "null"
   },
   {
    "id": "exe.sys.0079",
    "jp": "わ　を　ん　　　　　",
-   "en": "",
+   "en": "wa  wo  n",
    "term": "null"
   },
   {
    "id": "exe.sys.0080",
    "jp": "アイウエオガギグゲゴ",
-   "en": "",
+   "en": "A I U E O GA GI GU GE GO",
    "term": "null"
   },
   {
    "id": "exe.sys.0081",
    "jp": "カキクケコザジズゼゾ",
-   "en": "",
+   "en": "KA KI KU KE KO ZA JI ZU ZE ZO",
    "term": "null"
   },
   {
    "id": "exe.sys.0082",
    "jp": "サシスセソダヂヅデド",
-   "en": "",
+   "en": "SA SHI SU SE SO DA JI ZU DE DO",
    "term": "null"
   },
   {
    "id": "exe.sys.0083",
    "jp": "タチツテトバビブベボ",
-   "en": "",
+   "en": "TA CHI TSU TE TO BA BI BU BE BO",
    "term": "null"
   },
   {
    "id": "exe.sys.0084",
    "jp": "ナニヌネノパピプペポ",
-   "en": "",
+   "en": "NA NI NU NE NO PA PI PU PE PO",
    "term": "null"
   },
   {
    "id": "exe.sys.0085",
    "jp": "ハヒフヘホヴッャュョ",
-   "en": "",
+   "en": "HA HI FU HE HO VU (small: TSU YA YU YO)",
    "term": "null"
   },
   {
    "id": "exe.sys.0086",
    "jp": "マミムメモァィゥェォ",
-   "en": "",
+   "en": "MA MI MU ME MO (small: A I U E O)",
    "term": "null"
   },
   {
    "id": "exe.sys.0087",
    "jp": "ヤヰユヱヨー゛゜　　",
-   "en": "",
+   "en": "YA WI YU WE YO - Voiced Semi-voiced",
    "term": "null"
   },
   {
    "id": "exe.sys.0088",
    "jp": "ラリルレロ、。・　　",
-   "en": "",
+   "en": "RA RI RU RE RO , . -",
    "term": "null"
   },
   {
    "id": "exe.sys.0089",
    "jp": "ワ　ヲ　ン　　　　　",
-   "en": "",
+   "en": "WA  WO  N",
    "term": "null"
   },
   {
    "id": "exe.sys.0090",
    "jp": "ＡＢＣＤＥＦＧＨＩＪ",
-   "en": "",
+   "en": "ABCDEFGHIJ",
    "term": "null"
   },
   {
    "id": "exe.sys.0091",
    "jp": "ＫＬＭＮＯＰＱＲＳＴ",
-   "en": "",
+   "en": "KLMNOPQRST",
    "term": "null"
   },
   {
    "id": "exe.sys.0092",
    "jp": "ＵＶＷＸＹＺ　　　　",
-   "en": "",
+   "en": "UVWXYZ",
    "term": "null"
   },
   {
    "id": "exe.sys.0093",
    "jp": "ａｂｃｄｅｆｇｈｉｊ",
-   "en": "",
+   "en": "abcdefghij",
    "term": "null"
   },
   {
    "id": "exe.sys.0094",
    "jp": "ｋｌｍｎｏｐｑｒｓｔ",
-   "en": "",
+   "en": "klmnopqrst",
    "term": "null"
   },
   {
    "id": "exe.sys.0095",
    "jp": "ｕｖｗｘｙｚ　　　　",
-   "en": "",
+   "en": "uvwxyz",
    "term": "null"
   },
   {
    "id": "exe.sys.0096",
    "jp": "０１２３４５６７８９",
-   "en": "",
+   "en": "0123456789",
    "term": "null"
   },
   {
    "id": "exe.sys.0097",
    "jp": "＋－％＆！？♪～（）",
-   "en": "",
+   "en": "+-%&!?♪-()",
    "term": "null"
   },
   {
    "id": "exe.sys.0098",
    "jp": "．，：；‘’／＼￣＿",
-   "en": "",
+   "en": ".,:;''/ Backslash Overline _",
    "term": "null"
   },
   {
    "id": "exe.sys.0099",
    "jp": "＾ゝ＜＞≦≧＠　　　",
-   "en": "",
+   "en": "Caret Repeat < > <= >= At",
    "term": "null"
   },
   {
    "id": "exe.sys.0100",
    "jp": "これでよろしいですか？",
-   "en": "",
+   "en": "Is this all right?",
    "term": "null"
   },
   {
    "id": "exe.sys.0101",
    "jp": "この名前は使用できません。",
-   "en": "",
+   "en": "This name cannot be used.",
    "term": "null"
   },
   {
    "id": "exe.sys.0102",
    "jp": "　　　　　　　　　{FFEE}成長率表示{FFF1}{n}{s:0000}の成長度合いを示したグラフです。{n}外側に近いパラメータほど、より高く成長します。",
-   "en": "",
+   "en": "{FFEE}Growth Rates{FFF1}{n}This graph shows {s:0000}'s growth potential.{n}Stats farther out have higher growth rates.",
    "term": "null"
   },
   {
    "id": "exe.sys.0103",
    "jp": "ＨＰ倍率{n}ＭＰ倍率{n}　体力{n}　知力{n}移動力{n}防御力{n}攻撃力",
-   "en": "",
+   "en": "HP Multiplier{n}MP Multiplier{n}Vitality{n}Intelligence{n}Movement{n}Defense{n}Attack",
    "term": "null"
   },
   {
    "id": "exe.sys.0104",
    "jp": "いくつ買いたいんだい？",
-   "en": "",
+   "en": "How many would you like to buy?",
    "term": "null"
   },
   {
    "id": "exe.sys.0105",
    "jp": "おいくつお売りしましょうか？",
-   "en": "",
+   "en": "How many shall I sell you?",
    "term": "null"
   },
   {
    "id": "exe.sys.0106",
    "jp": "いくつ欲しいんだ？",
-   "en": "",
+   "en": "How many do you want?",
    "term": "null"
   },
   {
    "id": "exe.sys.0107",
    "jp": "いくつ欲しいのかのぅ？",
-   "en": "",
+   "en": "How many would you like, eh?",
    "term": "null"
   },
   {
    "id": "exe.sys.0108",
    "jp": "おいくつお買い求めになられますか？",
-   "en": "",
+   "en": "How many would you care to purchase?",
    "term": "null"
   },
   {
    "id": "exe.sys.0109",
    "jp": "それで、いくつ欲しいの？",
-   "en": "",
+   "en": "So, how many would you like?",
    "term": "null"
   },
   {
    "id": "exe.sys.0110",
    "jp": "これでいいかい？",
-   "en": "",
+   "en": "Is that all right?",
    "term": "null"
   },
   {
    "id": "exe.sys.0111",
    "jp": "これでいいな？",
-   "en": "",
+   "en": "That'll do, right?",
    "term": "null"
   },
   {
    "id": "exe.sys.0112",
    "jp": "これでよいかのぅ？",
-   "en": "",
+   "en": "Will that do, eh?",
    "term": "null"
   },
   {
    "id": "exe.sys.0113",
    "jp": "これで構わないかしら？",
-   "en": "",
+   "en": "Would that be all right, dear?",
    "term": "null"
   },
   {
    "id": "exe.sys.0114",
    "jp": "またおいで～。待ってるよ～。",
-   "en": "",
+   "en": "Come agaaain! I'll be waiting!",
    "term": "null"
   },
   {
    "id": "exe.sys.0115",
    "jp": "またどうぞ、お越しください。",
-   "en": "",
+   "en": "Please do visit us again.",
    "term": "null"
   },
   {
    "id": "exe.sys.0116",
    "jp": "じゃあな。",
-   "en": "",
+   "en": "See ya.",
    "term": "null"
   },
   {
    "id": "exe.sys.0117",
    "jp": "また来ておくれ。",
-   "en": "",
+   "en": "Do come back, now.",
    "term": "null"
   },
   {
    "id": "exe.sys.0118",
    "jp": "ありがとうございました！{n}またどうぞ、お越しください。",
-   "en": "",
+   "en": "Thank you very much!{n}Please do visit us again.",
    "term": "null"
   },
   {
    "id": "exe.sys.0119",
    "jp": "また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
+   "en": "Come back, all right?{n}I'll be waiting with a lovely smile.",
    "term": "null"
   },
   {
    "id": "exe.sys.0120",
    "jp": "これからもスキマ屋をよろしくね。",
-   "en": "",
+   "en": "Visit Sukima Shop!",
    "term": "null"
   },
   {
    "id": "exe.sys.0121",
    "jp": "サウンド{n}ＢＧＭ{n}効果音{n}メニュー音声{n}メッセージ音声{n}メッセージ速度{n}コマンド説明表示{n}戦闘時範囲確認{n}ティピの可能性",
-   "en": "",
+   "en": "Sound{n}Background Music{n}Sound Effects{n}Menu Voices{n}Dialogue Voices{n}Text Speed{n}Command Help{n}Confirm Range{n}Tippi's Potential",
    "term": "null"
   },
   {
    "id": "exe.sys.0122",
    "jp": "ＯＮ",
-   "en": "",
+   "en": "ON",
    "term": "null"
   },
   {
    "id": "exe.sys.0123",
    "jp": "ＯＦＦ",
-   "en": "",
+   "en": "OFF",
    "term": "null"
   },
   {
    "id": "exe.sys.0124",
    "jp": "ステレオ",
-   "en": "",
+   "en": "Stereo",
    "term": "null"
   },
   {
    "id": "exe.sys.0125",
    "jp": "モノラル",
-   "en": "",
+   "en": "Monaural",
    "term": "null"
   },
   {
    "id": "exe.sys.0126",
    "jp": "高速",
-   "en": "",
+   "en": "Fast",
    "term": "null"
   },
   {
    "id": "exe.sys.0127",
    "jp": "通常",
-   "en": "",
+   "en": "Normal",
    "term": "null"
   },
   {
    "id": "exe.sys.0128",
    "jp": "ノーマルティピ",
-   "en": "",
+   "en": "Normal Tippi",
    "term": "null"
   },
   {
    "id": "exe.sys.0129",
    "jp": "顔面肥大化",
-   "en": "",
+   "en": "Enlarged Face",
    "term": "null"
   },
   {
    "id": "exe.sys.0130",
    "jp": "ロケッティピ",
-   "en": "",
+   "en": "Rocket Tippi",
    "term": "null"
   },
   {
    "id": "exe.sys.0131",
    "jp": "ティピキーック！",
-   "en": "",
+   "en": "Tippi Kiiick!",
    "term": "null"
   },
   {
    "id": "exe.sys.0132",
    "jp": "ねこみみティピ",
-   "en": "",
+   "en": "Cat-Eared Tippi",
    "term": "null"
   },
   {
    "id": "exe.sys.0133",
    "jp": "矢印",
-   "en": "",
+   "en": "Arrow",
    "term": "null"
   },
   {
    "id": "exe.sys.0134",
    "jp": "長ティピ",
-   "en": "",
+   "en": "Long Tippi",
    "term": "null"
   },
   {
    "id": "exe.sys.0135",
    "jp": "踊る！ティピ",
-   "en": "",
+   "en": "Dancing Tippi",
    "term": "null"
   },
   {
    "id": "exe.sys.0136",
    "jp": "未知数",
-   "en": "",
+   "en": "Unknown",
    "term": "null"
   },
   {
    "id": "exe.sys.0137",
    "jp": "を入手！",
-   "en": "",
+   "en": "obtained!",
    "term": "null"
   },
   {
    "id": "exe.sys.0138",
    "jp": "）",
-   "en": "",
+   "en": ")",
    "term": "null"
   },
   {
    "id": "exe.sys.0139",
    "jp": "－",
-   "en": "",
+   "en": "-",
    "term": "null"
   },
   {
    "id": "exe.sys.0140",
    "jp": "今は使えません。",
-   "en": "",
+   "en": "Cannot be used now.",
    "term": "null"
   },
   {
    "id": "exe.sys.0141",
    "jp": "つかう",
-   "en": "",
+   "en": "Use",
    "term": "null"
   },
   {
    "id": "exe.sys.0142",
    "jp": "装備する",
-   "en": "",
+   "en": "Equip",
    "term": "null"
   },
   {
    "id": "exe.sys.0143",
    "jp": "移動する",
-   "en": "",
+   "en": "Move",
    "term": "null"
   },
   {
    "id": "exe.sys.0144",
    "jp": "送る",
-   "en": "",
+   "en": "Send",
    "term": "null"
   },
   {
    "id": "exe.sys.0145",
    "jp": "はずす",
-   "en": "",
+   "en": "Remove",
    "term": "null"
   },
   {
    "id": "exe.sys.0146",
    "jp": "戦闘方針",
-   "en": "",
+   "en": "Battle Tactics",
    "term": "null"
   },
   {
    "id": "exe.sys.0147",
    "jp": "隊列変更",
-   "en": "",
+   "en": "Change Formation",
    "term": "null"
   },
   {
    "id": "exe.sys.0148",
    "jp": "セーブ",
-   "en": "",
+   "en": "Save",
    "term": "null"
   },
   {
    "id": "exe.sys.0149",
    "jp": "ロード",
-   "en": "",
+   "en": "Load",
    "term": "null"
   },
   {
    "id": "exe.sys.0150",
    "jp": "コンフィグ",
-   "en": "",
+   "en": "Settings",
    "term": "null"
   },
   {
    "id": "exe.sys.0151",
    "jp": "アイテム整理",
-   "en": "",
+   "en": "Organize Items",
    "term": "null"
   },
   {
    "id": "exe.sys.0152",
    "jp": "中身",
-   "en": "",
+   "en": "Contents",
    "term": "null"
   },
   {
    "id": "exe.sys.0153",
    "jp": "区分",
-   "en": "",
+   "en": "Category",
    "term": "null"
   },
   {
    "id": "exe.sys.0154",
    "jp": "ユーザーズ",
-   "en": "",
+   "en": "Custom",
    "term": "null"
   },
   {
    "id": "exe.sys.0155",
    "jp": "アクセサリー",
-   "en": "",
+   "en": "Accessories",
    "term": "null"
   },
   {
    "id": "exe.sys.0156",
    "jp": "防具",
-   "en": "",
+   "en": "Armor",
    "term": "null"
   },
   {
    "id": "exe.sys.0157",
    "jp": "武器",
-   "en": "",
+   "en": "Weapons",
    "term": "null"
   },
   {
    "id": "exe.sys.0158",
    "jp": "移動",
-   "en": "",
+   "en": "Move",
    "term": "null"
   },
   {
    "id": "exe.sys.0159",
    "jp": "名前順",
-   "en": "",
+   "en": "By Name",
    "term": "null"
   },
   {
    "id": "exe.sys.0160",
    "jp": "ＡＴ／ＤＦ順",
-   "en": "",
+   "en": "By AT/DF",
    "term": "null"
   },
   {
    "id": "exe.sys.0161",
    "jp": "数量順",
-   "en": "",
+   "en": "By Quantity",
    "term": "null"
   },
   {
    "id": "exe.sys.0162",
    "jp": "マップ確認",
-   "en": "",
+   "en": "View Map",
    "term": "null"
   },
   {
    "id": "exe.sys.0163",
    "jp": "戦闘再開",
-   "en": "",
+   "en": "Resume Battle",
    "term": "null"
   },
   {
    "id": "exe.sys.0164",
    "jp": "攻撃",
-   "en": "",
+   "en": "Attack",
    "term": "null"
   },
   {
    "id": "exe.sys.0165",
    "jp": "護衛",
-   "en": "",
+   "en": "Escort",
    "term": "null"
   },
   {
    "id": "exe.sys.0166",
    "jp": "自動",
-   "en": "",
+   "en": "Auto",
    "term": "null"
   },
   {
    "id": "exe.sys.0167",
    "jp": "防御",
-   "en": "",
+   "en": "Defend",
    "term": "null"
   },
   {
    "id": "exe.sys.0168",
    "jp": "使用",
-   "en": "",
+   "en": "Use",
    "term": "null"
   },
   {
    "id": "exe.sys.0169",
    "jp": "購入＆装備",
-   "en": "",
+   "en": "Buy & Equip",
    "term": "null"
   },
   {
    "id": "exe.sys.0170",
    "jp": "購入する",
-   "en": "",
+   "en": "Buy",
    "term": "null"
   },
   {
    "id": "exe.sys.0171",
    "jp": "やめる",
-   "en": "",
+   "en": "Cancel",
    "term": "null"
   },
   {
    "id": "exe.sys.0172",
    "jp": "売る",
-   "en": "",
+   "en": "Sell",
    "term": "null"
   },
   {
    "id": "exe.sys.0173",
    "jp": "数量変更",
-   "en": "",
+   "en": "Change Quantity",
    "term": "null"
   },
   {
    "id": "exe.sys.0174",
    "jp": "ＤＩＳＣ　１に交換してください",
-   "en": "",
+   "en": "Please insert Disc 1.",
    "term": "null"
   },
   {
    "id": "exe.sys.0175",
    "jp": "ＤＩＳＣ　２に交換してください",
-   "en": "",
+   "en": "Please insert Disc 2.",
    "term": "null"
   },
   {
    "id": "exe.sys.0176",
    "jp": "チェック中です",
-   "en": "",
+   "en": "Checking...",
    "term": "null"
   },
   {
    "id": "exe.sys.0177",
    "jp": "チェックを終了しました",
-   "en": "",
+   "en": "Check complete.",
    "term": "null"
   },
   {
    "id": "exe.sys.0178",
    "jp": "ＤＩＳＣが違います",
-   "en": "",
+   "en": "Wrong disc.",
    "term": "null"
   },
   {
    "id": "exe.sys.0179",
    "jp": "{FFE8}を外す",
-   "en": "",
+   "en": "Remove {FFE8}",
    "term": "null"
   },
   {
    "id": "exe.sys.0180",
    "jp": "差込口１のメモリーカードに",
-   "en": "",
+   "en": "On the memory card in slot 1",
    "term": "null"
   },
   {
    "id": "exe.sys.0181",
    "jp": "差込口１にメモリーカードが",
-   "en": "",
+   "en": "The memory card in slot 1",
    "term": "null"
   },
   {
    "id": "exe.sys.0182",
    "jp": "差込口１のメモリーカードが",
-   "en": "",
+   "en": "The memory card in slot 1",
    "term": "null"
   },
   {
    "id": "exe.sys.0183",
    "jp": "差込口１のメモリーカードを",
-   "en": "",
+   "en": "The memory card in slot 1",
    "term": "null"
   },
   {
    "id": "exe.sys.0184",
    "jp": "差込口１のメモリーカードを調べて",
-   "en": "",
+   "en": "Check the memory card in slot 1",
    "term": "null"
   },
   {
    "id": "exe.sys.0185",
    "jp": "脱出しますか？{n}　・はい{n}　・いいえ",
-   "en": "",
+   "en": "Escape?{n}- Yes{n}- No",
    "term": "null"
   },
   {
    "id": "exe.sys.0186",
    "jp": "ＧＬカード{FFEB}をＧＥＴ！",
-   "en": "",
+   "en": "Got GL Card {FFEB}!",
    "term": "null"
   },
   {
    "id": "exe.sys.0187",
    "jp": "ＧＬカード{FFEB}のダブり[01BE]",
-   "en": "",
+   "en": "Duplicate GL Card {FFEB}[01BE]",
    "term": "null"
   },
   {
    "id": "exe.sys.0188",
    "jp": "少し男前になった！！",
-   "en": "",
+   "en": "Became a little more handsome!!",
    "term": "null"
   },
   {
    "id": "exe.sys.0189",
    "jp": "％",
-   "en": "",
+   "en": "%",
    "term": "null"
   },
   {
    "id": "exe.sys.0190",
    "jp": "メモリーカードのチェックに",
-   "en": "",
+   "en": "Memory card check",
    "term": "null"
   },
   {
    "id": "exe.sys.0191",
    "jp": "失敗しました。",
-   "en": "",
+   "en": "failed.",
    "term": "null"
   }
  ]

@@ -9,2143 +9,2143 @@
   {
    "id": "exe.items.0000",
    "jp": "青銅の剣",
-   "en": "",
+   "en": "Bronze Sword",
    "term": "null"
   },
   {
    "id": "exe.items.0001",
    "jp": "グラディウス",
-   "en": "",
+   "en": "Gladius",
    "term": "null"
   },
   {
    "id": "exe.items.0002",
    "jp": "ブロードソード",
-   "en": "",
+   "en": "Broadsword",
    "term": "null"
   },
   {
    "id": "exe.items.0003",
    "jp": "フィランギ",
-   "en": "",
+   "en": "Firangi",
    "term": "null"
   },
   {
    "id": "exe.items.0004",
    "jp": "シェルオープナー",
-   "en": "",
+   "en": "Shell Opener",
    "term": "null"
   },
   {
    "id": "exe.items.0005",
    "jp": "アイスブレード",
-   "en": "",
+   "en": "Ice Blade",
    "term": "null"
   },
   {
    "id": "exe.items.0006",
    "jp": "雷鳴剣",
-   "en": "",
+   "en": "Thunder Sword",
    "term": "null"
   },
   {
    "id": "exe.items.0007",
    "jp": "メイジスローター",
-   "en": "",
+   "en": "Mage Slayer",
    "term": "null"
   },
   {
    "id": "exe.items.0008",
    "jp": "フルンチング",
-   "en": "",
+   "en": "Hrunting",
    "term": "null"
   },
   {
    "id": "exe.items.0009",
    "jp": "光の魔剣",
-   "en": "",
+   "en": "Light Spellblade",
    "term": "null"
   },
   {
    "id": "exe.items.0010",
    "jp": "妖魔刀",
-   "en": "",
+   "en": "Demon Blade",
    "term": "null"
   },
   {
    "id": "exe.items.0011",
    "jp": "グラム",
-   "en": "",
+   "en": "Gram",
    "term": "null"
   },
   {
    "id": "exe.items.0012",
    "jp": "レーヴァテイン",
-   "en": "",
+   "en": "Laevateinn",
    "term": "null"
   },
   {
    "id": "exe.items.0013",
    "jp": "ランドグリーズ",
-   "en": "",
+   "en": "Randgriz",
    "term": "null"
   },
   {
    "id": "exe.items.0014",
    "jp": "レギンレイヴ",
-   "en": "",
+   "en": "Reginleif",
    "term": "null"
   },
   {
    "id": "exe.items.0015",
    "jp": "ボウガン",
-   "en": "",
+   "en": "Bowgun",
    "term": "null"
   },
   {
    "id": "exe.items.0016",
    "jp": "クロスボウ",
-   "en": "",
+   "en": "Crossbow",
    "term": "null"
   },
   {
    "id": "exe.items.0017",
    "jp": "クレインクイン",
-   "en": "",
+   "en": "Cranequin",
    "term": "null"
   },
   {
    "id": "exe.items.0018",
    "jp": "ダーイナールヴ",
-   "en": "",
+   "en": "Dainalv",
    "term": "null"
   },
   {
    "id": "exe.items.0019",
    "jp": "鉄の杖",
-   "en": "",
+   "en": "Iron Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0020",
    "jp": "ワンド",
-   "en": "",
+   "en": "Wand",
    "term": "null"
   },
   {
    "id": "exe.items.0021",
    "jp": "メイジスタッフ",
-   "en": "",
+   "en": "Mage Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0022",
    "jp": "ウィザードロッド",
-   "en": "",
+   "en": "Wizard Rod",
    "term": "null"
   },
   {
    "id": "exe.items.0023",
    "jp": "理力の杖",
-   "en": "",
+   "en": "Force Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0024",
    "jp": "ゼメキスの杖",
-   "en": "",
+   "en": "Zemekis's Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0025",
    "jp": "ヒーリングロッド",
-   "en": "",
+   "en": "Healing Rod",
    "term": "null"
   },
   {
    "id": "exe.items.0026",
    "jp": "風神の杖",
-   "en": "",
+   "en": "Wind God's Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0027",
    "jp": "ヴィトの杖",
-   "en": "",
+   "en": "Vito's Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0028",
    "jp": "スファーヴニル",
-   "en": "",
+   "en": "Svafnir",
    "term": "null"
   },
   {
    "id": "exe.items.0029",
    "jp": "スヴァンニロッド",
-   "en": "",
+   "en": "Svanni Rod",
    "term": "null"
   },
   {
    "id": "exe.items.0030",
    "jp": "アルヴィースの杖",
-   "en": "",
+   "en": "Alviss's Staff",
    "term": "null"
   },
   {
    "id": "exe.items.0031",
    "jp": "グレートソード",
-   "en": "",
+   "en": "Greatsword",
    "term": "null"
   },
   {
    "id": "exe.items.0032",
    "jp": "クレイモア",
-   "en": "",
+   "en": "Claymore",
    "term": "null"
   },
   {
    "id": "exe.items.0033",
    "jp": "ベルセルクの剛剣",
-   "en": "",
+   "en": "Berserker Blade",
    "term": "null"
   },
   {
    "id": "exe.items.0034",
    "jp": "シャドーブレイド",
-   "en": "",
+   "en": "Shadow Blade",
    "term": "null"
   },
   {
    "id": "exe.items.0035",
    "jp": "ギンナルの剣",
-   "en": "",
+   "en": "Ginnar's Sword",
    "term": "null"
   },
   {
    "id": "exe.items.0036",
    "jp": "リーヴェイグ",
-   "en": "",
+   "en": "Liveig",
    "term": "null"
   },
   {
    "id": "exe.items.0037",
    "jp": "エクスカリバー",
-   "en": "",
+   "en": "Excalibur",
    "term": "null"
   },
   {
    "id": "exe.items.0038",
    "jp": "石槍",
-   "en": "",
+   "en": "Stone Spear",
    "term": "null"
   },
   {
    "id": "exe.items.0039",
    "jp": "フォーク",
-   "en": "",
+   "en": "Fork",
    "term": "null"
   },
   {
    "id": "exe.items.0040",
    "jp": "パルチザン",
-   "en": "",
+   "en": "Partisan",
    "term": "null"
   },
   {
    "id": "exe.items.0041",
    "jp": "幸運の槍",
-   "en": "",
+   "en": "Lucky Spear",
    "term": "null"
   },
   {
    "id": "exe.items.0042",
    "jp": "ズフタフ",
-   "en": "",
+   "en": "Dubthach",
    "term": "null"
   },
   {
    "id": "exe.items.0043",
    "jp": "グングニル",
-   "en": "",
+   "en": "Gungnir",
    "term": "null"
   },
   {
    "id": "exe.items.0044",
    "jp": "精霊カード",
-   "en": "",
+   "en": "Spirit Card",
    "term": "null"
   },
   {
    "id": "exe.items.0045",
    "jp": "ゴーレムカード",
-   "en": "",
+   "en": "Golem Card",
    "term": "null"
   },
   {
    "id": "exe.items.0046",
    "jp": "死神のカード",
-   "en": "",
+   "en": "Reaper Card",
    "term": "null"
   },
   {
    "id": "exe.items.0047",
    "jp": "フェアリーカード",
-   "en": "",
+   "en": "Fairy Card",
    "term": "null"
   },
   {
    "id": "exe.items.0048",
    "jp": "大天使のカード",
-   "en": "",
+   "en": "Archangel Card",
    "term": "null"
   },
   {
    "id": "exe.items.0049",
    "jp": "プリンセスカード",
-   "en": "",
+   "en": "Princess Card",
    "term": "null"
   },
   {
    "id": "exe.items.0050",
    "jp": "ブーメランソード",
-   "en": "",
+   "en": "Boomerang Sword",
    "term": "null"
   },
   {
    "id": "exe.items.0051",
    "jp": "ダブルエッジ",
-   "en": "",
+   "en": "Double Edge",
    "term": "null"
   },
   {
    "id": "exe.items.0052",
    "jp": "ブラッディクロス",
-   "en": "",
+   "en": "Bloody Cross",
    "term": "null"
   },
   {
    "id": "exe.items.0053",
    "jp": "ロヴァルブレード",
-   "en": "",
+   "en": "Roval Blade",
    "term": "null"
   },
   {
    "id": "exe.items.0054",
    "jp": "レイスラッシャー",
-   "en": "",
+   "en": "Ray Slasher",
    "term": "null"
   },
   {
    "id": "exe.items.0055",
    "jp": "ミョルヴィルム",
-   "en": "",
+   "en": "Myoruvirumu",
    "term": "null"
   },
   {
    "id": "exe.items.0056",
    "jp": "ナックルガード",
-   "en": "",
+   "en": "Knuckle Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0057",
    "jp": "アイアンナックル",
-   "en": "",
+   "en": "Iron Knuckles",
    "term": "null"
   },
   {
    "id": "exe.items.0058",
    "jp": "ブラスターハンド",
-   "en": "",
+   "en": "Blaster Hand",
    "term": "null"
   },
   {
    "id": "exe.items.0059",
    "jp": "炎の拳",
-   "en": "",
+   "en": "Fist of Flame",
    "term": "null"
   },
   {
    "id": "exe.items.0060",
    "jp": "プラズマハンド",
-   "en": "",
+   "en": "Plasma Hand",
    "term": "null"
   },
   {
    "id": "exe.items.0061",
    "jp": "破魔の拳",
-   "en": "",
+   "en": "Demonbane Fist",
    "term": "null"
   },
   {
    "id": "exe.items.0062",
    "jp": "カイザーナックル",
-   "en": "",
+   "en": "Kaiser Knuckles",
    "term": "null"
   },
   {
    "id": "exe.items.0063",
    "jp": "修羅の拳",
-   "en": "",
+   "en": "Asura Fist",
    "term": "null"
   },
   {
    "id": "exe.items.0064",
    "jp": "メタルヴァジュラ",
-   "en": "",
+   "en": "Metal Vajra",
    "term": "null"
   },
   {
    "id": "exe.items.0065",
    "jp": "メテオライターム",
-   "en": "",
+   "en": "Meteorite Arm",
    "term": "null"
   },
   {
    "id": "exe.items.0066",
    "jp": "クロロホルム",
-   "en": "",
+   "en": "Chloroform",
    "term": "null"
   },
   {
    "id": "exe.items.0067",
    "jp": "サルファレイト",
-   "en": "",
+   "en": "Sulfalate",
    "term": "null"
   },
   {
    "id": "exe.items.0068",
    "jp": "ハイドロゲン",
-   "en": "",
+   "en": "Hydrogen",
    "term": "null"
   },
   {
    "id": "exe.items.0069",
    "jp": "クロライデイト",
-   "en": "",
+   "en": "Chloridate",
    "term": "null"
   },
   {
    "id": "exe.items.0070",
    "jp": "ニトレイト",
-   "en": "",
+   "en": "Nitrate",
    "term": "null"
   },
   {
    "id": "exe.items.0071",
    "jp": "トリニトレイト",
-   "en": "",
+   "en": "Trinitrate",
    "term": "null"
   },
   {
    "id": "exe.items.0072",
    "jp": "エイトムの光",
-   "en": "",
+   "en": "Atom's Light",
    "term": "null"
   },
   {
    "id": "exe.items.0073",
    "jp": "幻影の細身剣",
-   "en": "",
+   "en": "Phantom Rapier",
    "term": "null"
   },
   {
    "id": "exe.items.0074",
    "jp": "レイピア",
-   "en": "",
+   "en": "Rapier",
    "term": "null"
   },
   {
    "id": "exe.items.0075",
    "jp": "ヴェルダン",
-   "en": "",
+   "en": "Verdan",
    "term": "null"
   },
   {
    "id": "exe.items.0076",
    "jp": "フランベルジュ",
-   "en": "",
+   "en": "Flamberge",
    "term": "null"
   },
   {
    "id": "exe.items.0077",
    "jp": "エストック",
-   "en": "",
+   "en": "Estoc",
    "term": "null"
   },
   {
    "id": "exe.items.0078",
    "jp": "マインドブラスト",
-   "en": "",
+   "en": "Mind Blast",
    "term": "null"
   },
   {
    "id": "exe.items.0079",
    "jp": "イーヴァルディ",
-   "en": "",
+   "en": "Ivaldi",
    "term": "null"
   },
   {
    "id": "exe.items.0080",
    "jp": "バトルアックス",
-   "en": "",
+   "en": "Battle Axe",
    "term": "null"
   },
   {
    "id": "exe.items.0081",
    "jp": "ハルバード",
-   "en": "",
+   "en": "Halberd",
    "term": "null"
   },
   {
    "id": "exe.items.0082",
    "jp": "暗黒の戦斧",
-   "en": "",
+   "en": "Dark Battle Axe",
    "term": "null"
   },
   {
    "id": "exe.items.0083",
    "jp": "ヴァルタムアクス",
-   "en": "",
+   "en": "Valtam Axe",
    "term": "null"
   },
   {
    "id": "exe.items.0084",
    "jp": "かなづち",
-   "en": "",
+   "en": "Hammer",
    "term": "null"
   },
   {
    "id": "exe.items.0085",
    "jp": "メイス",
-   "en": "",
+   "en": "Mace",
    "term": "null"
   },
   {
    "id": "exe.items.0086",
    "jp": "ビッグハンマー",
-   "en": "",
+   "en": "Big Hammer",
    "term": "null"
   },
   {
    "id": "exe.items.0087",
    "jp": "ミョルニル",
-   "en": "",
+   "en": "Mjolnir",
    "term": "null"
   },
   {
    "id": "exe.items.0088",
    "jp": "破滅の鉄槌",
-   "en": "",
+   "en": "Hammer of Ruin",
    "term": "null"
   },
   {
    "id": "exe.items.0089",
    "jp": "グリトニル",
-   "en": "",
+   "en": "Glitnir",
    "term": "null"
   },
   {
    "id": "exe.items.0090",
    "jp": "スヴェル",
-   "en": "",
+   "en": "Svel",
    "term": "null"
   },
   {
    "id": "exe.items.0091",
    "jp": "レイプダル",
-   "en": "",
+   "en": "Reipdar",
    "term": "null"
   },
   {
    "id": "exe.items.0092",
    "jp": "ヴィンダル",
-   "en": "",
+   "en": "Vindar",
    "term": "null"
   },
   {
    "id": "exe.items.0093",
    "jp": "インジェクター",
-   "en": "",
+   "en": "Injector",
    "term": "null"
   },
   {
    "id": "exe.items.0094",
    "jp": "チェーンウィップ",
-   "en": "",
+   "en": "Chain Whip",
    "term": "null"
   },
   {
    "id": "exe.items.0095",
    "jp": "スタンウィップ",
-   "en": "",
+   "en": "Stun Whip",
    "term": "null"
   },
   {
    "id": "exe.items.0096",
    "jp": "ビフレスト",
-   "en": "",
+   "en": "Bifrost",
    "term": "null"
   },
   {
    "id": "exe.items.0097",
    "jp": "クロース",
-   "en": "",
+   "en": "Cloth",
    "term": "null"
   },
   {
    "id": "exe.items.0098",
    "jp": "厚手の服",
-   "en": "",
+   "en": "Thick Clothes",
    "term": "null"
   },
   {
    "id": "exe.items.0099",
    "jp": "毛皮のコート",
-   "en": "",
+   "en": "Fur Coat",
    "term": "null"
   },
   {
    "id": "exe.items.0100",
    "jp": "ソフトレザー",
-   "en": "",
+   "en": "Soft Leather",
    "term": "null"
   },
   {
    "id": "exe.items.0101",
    "jp": "スタデッドレザー",
-   "en": "",
+   "en": "Studded Leather",
    "term": "null"
   },
   {
    "id": "exe.items.0102",
    "jp": "バフコート",
-   "en": "",
+   "en": "Buff Coat",
    "term": "null"
   },
   {
    "id": "exe.items.0103",
    "jp": "エプロンドレス",
-   "en": "",
+   "en": "Apron Dress",
    "term": "null"
   },
   {
    "id": "exe.items.0104",
    "jp": "バトルジャケット",
-   "en": "",
+   "en": "Battle Jacket",
    "term": "null"
   },
   {
    "id": "exe.items.0105",
    "jp": "サイバーウェア",
-   "en": "",
+   "en": "Cyberwear",
    "term": "null"
   },
   {
    "id": "exe.items.0106",
    "jp": "メタルジャケット",
-   "en": "",
+   "en": "Metal Jacket",
    "term": "null"
   },
   {
    "id": "exe.items.0107",
    "jp": "ミラージュガード",
-   "en": "",
+   "en": "Mirage Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0108",
    "jp": "スペルガード",
-   "en": "",
+   "en": "Spell Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0109",
    "jp": "ドラゴンガード",
-   "en": "",
+   "en": "Dragon Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0110",
    "jp": "デュエルガード",
-   "en": "",
+   "en": "Duel Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0111",
    "jp": "ブレイブガード",
-   "en": "",
+   "en": "Brave Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0112",
    "jp": "スプリガンガード",
-   "en": "",
+   "en": "Spriggan Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0113",
    "jp": "ロイヤルガード",
-   "en": "",
+   "en": "Royal Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0114",
    "jp": "ファイナルガード",
-   "en": "",
+   "en": "Final Guard",
    "term": "null"
   },
   {
    "id": "exe.items.0115",
    "jp": "チェインメイル",
-   "en": "",
+   "en": "Chainmail",
    "term": "null"
   },
   {
    "id": "exe.items.0116",
    "jp": "ブレストプレート",
-   "en": "",
+   "en": "Breastplate",
    "term": "null"
   },
   {
    "id": "exe.items.0117",
    "jp": "漆黒の鎧",
-   "en": "",
+   "en": "Jet-Black Armor",
    "term": "null"
   },
   {
    "id": "exe.items.0118",
    "jp": "オーラプレート",
-   "en": "",
+   "en": "Aura Plate",
    "term": "null"
   },
   {
    "id": "exe.items.0119",
    "jp": "ナイツの鎧",
-   "en": "",
+   "en": "Knight's Armor",
    "term": "null"
   },
   {
    "id": "exe.items.0120",
    "jp": "ヴァルキリーの鎧",
-   "en": "",
+   "en": "Valkyrie's Armor",
    "term": "null"
   },
   {
    "id": "exe.items.0121",
    "jp": "カオスアーマー",
-   "en": "",
+   "en": "Chaos Armor",
    "term": "null"
   },
   {
    "id": "exe.items.0122",
    "jp": "レザースーツ",
-   "en": "",
+   "en": "Leather Suit",
    "term": "null"
   },
   {
    "id": "exe.items.0123",
    "jp": "コンバットレザー",
-   "en": "",
+   "en": "Combat Leather",
    "term": "null"
   },
   {
    "id": "exe.items.0124",
    "jp": "エンハンスレザー",
-   "en": "",
+   "en": "Enhanced Leather",
    "term": "null"
   },
   {
    "id": "exe.items.0125",
    "jp": "フェンリルレザー",
-   "en": "",
+   "en": "Fenrir Leather",
    "term": "null"
   },
   {
    "id": "exe.items.0126",
    "jp": "ウィザードローブ",
-   "en": "",
+   "en": "Wizard Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0127",
    "jp": "エルヴンローブ",
-   "en": "",
+   "en": "Elven Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0128",
    "jp": "大地のローブ",
-   "en": "",
+   "en": "Earth Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0129",
    "jp": "ホーリーローブ",
-   "en": "",
+   "en": "Holy Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0130",
    "jp": "神秘の法衣",
-   "en": "",
+   "en": "Mystic Vestments",
    "term": "null"
   },
   {
    "id": "exe.items.0131",
    "jp": "マスターガーブ",
-   "en": "",
+   "en": "Master Garb",
    "term": "null"
   },
   {
    "id": "exe.items.0132",
    "jp": "賢者のガーブ",
-   "en": "",
+   "en": "Sage's Garb",
    "term": "null"
   },
   {
    "id": "exe.items.0133",
    "jp": "天女の羽衣",
-   "en": "",
+   "en": "Celestial Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0134",
    "jp": "封魔の祭衣",
-   "en": "",
+   "en": "Spellseal Robes",
    "term": "null"
   },
   {
    "id": "exe.items.0135",
    "jp": "聖女のドレス",
-   "en": "",
+   "en": "Saint's Dress",
    "term": "null"
   },
   {
    "id": "exe.items.0136",
    "jp": "ミラードレス",
-   "en": "",
+   "en": "Mirror Dress",
    "term": "null"
   },
   {
    "id": "exe.items.0137",
    "jp": "癒しのドレス",
-   "en": "",
+   "en": "Healing Dress",
    "term": "null"
   },
   {
    "id": "exe.items.0138",
    "jp": "精霊王の羽衣",
-   "en": "",
+   "en": "Spirit King Robe",
    "term": "null"
   },
   {
    "id": "exe.items.0139",
    "jp": "グローシュドレス",
-   "en": "",
+   "en": "Grosch Dress",
    "term": "null"
   },
   {
    "id": "exe.items.0140",
    "jp": "レザーブーツ",
-   "en": "",
+   "en": "Leather Boots",
    "term": "null"
   },
   {
    "id": "exe.items.0141",
    "jp": "フェザーブーツ",
-   "en": "",
+   "en": "Feather Boots",
    "term": "null"
   },
   {
    "id": "exe.items.0142",
    "jp": "ヴィーザルブーツ",
-   "en": "",
+   "en": "Vidar Boots",
    "term": "null"
   },
   {
    "id": "exe.items.0143",
    "jp": "バンダナ",
-   "en": "",
+   "en": "Bandana",
    "term": "null"
   },
   {
    "id": "exe.items.0144",
    "jp": "サレット",
-   "en": "",
+   "en": "Sallet",
    "term": "null"
   },
   {
    "id": "exe.items.0145",
    "jp": "浄化のリボン",
-   "en": "",
+   "en": "Purifying Ribbon",
    "term": "null"
   },
   {
    "id": "exe.items.0146",
    "jp": "フロントキャップ",
-   "en": "",
+   "en": "Front Cap",
    "term": "null"
   },
   {
    "id": "exe.items.0147",
    "jp": "白銀のティアラ",
-   "en": "",
+   "en": "Silver Tiara",
    "term": "null"
   },
   {
    "id": "exe.items.0148",
    "jp": "光のヴェール",
-   "en": "",
+   "en": "Veil of Light",
    "term": "null"
   },
   {
    "id": "exe.items.0149",
    "jp": "クラウン",
-   "en": "",
+   "en": "Crown",
    "term": "null"
   },
   {
    "id": "exe.items.0150",
    "jp": "ミラーピアス",
-   "en": "",
+   "en": "Mirror Earrings",
    "term": "null"
   },
   {
    "id": "exe.items.0151",
    "jp": "クレセントピアス",
-   "en": "",
+   "en": "Crescent Studs",
    "term": "null"
   },
   {
    "id": "exe.items.0152",
    "jp": "タリスマン",
-   "en": "",
+   "en": "Talisman",
    "term": "null"
   },
   {
    "id": "exe.items.0153",
    "jp": "アルスィオーブ",
-   "en": "",
+   "en": "Alsi Orb",
    "term": "null"
   },
   {
    "id": "exe.items.0154",
    "jp": "アミュレット",
-   "en": "",
+   "en": "Amulet",
    "term": "null"
   },
   {
    "id": "exe.items.0155",
    "jp": "星屑のオーブ",
-   "en": "",
+   "en": "Stardust Orb",
    "term": "null"
   },
   {
    "id": "exe.items.0156",
    "jp": "聖母の首飾り",
-   "en": "",
+   "en": "Madonna Necklace",
    "term": "null"
   },
   {
    "id": "exe.items.0157",
    "jp": "インバルオーブ",
-   "en": "",
+   "en": "Invincible Orb",
    "term": "null"
   },
   {
    "id": "exe.items.0158",
    "jp": "ニュートラライズ",
-   "en": "",
+   "en": "Neutralize",
    "term": "null"
   },
   {
    "id": "exe.items.0159",
    "jp": "インターセプター",
-   "en": "",
+   "en": "Interceptor",
    "term": "null"
   },
   {
    "id": "exe.items.0160",
    "jp": "エルダーシンボル",
-   "en": "",
+   "en": "Elder Symbol",
    "term": "null"
   },
   {
    "id": "exe.items.0161",
    "jp": "ヘルブリンディ",
-   "en": "",
+   "en": "Helblindi",
    "term": "null"
   },
   {
    "id": "exe.items.0162",
    "jp": "苦行者の首飾り",
-   "en": "",
+   "en": "Ascetic's Necklace",
    "term": "null"
   },
   {
    "id": "exe.items.0163",
    "jp": "加護の腕輪",
-   "en": "",
+   "en": "Warding Bracelet",
    "term": "null"
   },
   {
    "id": "exe.items.0164",
    "jp": "リーヴバングル",
-   "en": "",
+   "en": "Lif Bangle",
    "term": "null"
   },
   {
    "id": "exe.items.0165",
    "jp": "ラウリンの指輪",
-   "en": "",
+   "en": "Laurin's Ring",
    "term": "null"
   },
   {
    "id": "exe.items.0166",
    "jp": "炎のルーン",
-   "en": "",
+   "en": "Flame Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0167",
    "jp": "氷のルーン",
-   "en": "",
+   "en": "Ice Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0168",
    "jp": "大地のルーン",
-   "en": "",
+   "en": "Earth Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0169",
    "jp": "風のルーン",
-   "en": "",
+   "en": "Wind Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0170",
    "jp": "稲妻のルーン",
-   "en": "",
+   "en": "Lightning Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0171",
    "jp": "神聖のルーン",
-   "en": "",
+   "en": "Holy Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0172",
    "jp": "暗黒のルーン",
-   "en": "",
+   "en": "Dark Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0173",
    "jp": "精神のルーン",
-   "en": "",
+   "en": "Mind Rune",
    "term": "null"
   },
   {
    "id": "exe.items.0174",
    "jp": "ペガサスの翼",
-   "en": "",
+   "en": "Pegasus Wing",
    "term": "null"
   },
   {
    "id": "exe.items.0175",
    "jp": "エンジェルリング",
-   "en": "",
+   "en": "Angel Ring",
    "term": "null"
   },
   {
    "id": "exe.items.0176",
    "jp": "回復薬",
-   "en": "",
+   "en": "Healing Potion",
    "term": "null"
   },
   {
    "id": "exe.items.0177",
    "jp": "秘伝の傷薬",
-   "en": "",
+   "en": "Secret Salve",
    "term": "null"
   },
   {
    "id": "exe.items.0178",
    "jp": "賢者の石",
-   "en": "",
+   "en": "Sage's Stone",
    "term": "null"
   },
   {
    "id": "exe.items.0179",
    "jp": "アンブローシア",
-   "en": "",
+   "en": "Ambrosia",
    "term": "null"
   },
   {
    "id": "exe.items.0180",
    "jp": "毒消し草",
-   "en": "",
+   "en": "Antidote Herb",
    "term": "null"
   },
   {
    "id": "exe.items.0181",
    "jp": "気付け薬",
-   "en": "",
+   "en": "Smelling Salts",
    "term": "null"
   },
   {
    "id": "exe.items.0182",
    "jp": "ヘンルーダ",
-   "en": "",
+   "en": "Rue",
    "term": "null"
   },
   {
    "id": "exe.items.0183",
    "jp": "パナシア",
-   "en": "",
+   "en": "Panacea",
    "term": "null"
   },
   {
    "id": "exe.items.0184",
    "jp": "ネクタル",
-   "en": "",
+   "en": "Nectar",
    "term": "null"
   },
   {
    "id": "exe.items.0185",
    "jp": "ＧＬチップス",
-   "en": "",
+   "en": "GL Chips",
    "term": "null"
   },
   {
    "id": "exe.items.0186",
    "jp": "シビレ玉",
-   "en": "",
+   "en": "Paralysis Orb",
    "term": "null"
   },
   {
    "id": "exe.items.0187",
    "jp": "ファイアニル",
-   "en": "",
+   "en": "Fire Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0188",
    "jp": "アイスニル",
-   "en": "",
+   "en": "Ice Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0189",
    "jp": "アースニル",
-   "en": "",
+   "en": "Earth Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0190",
    "jp": "ウィンドニル",
-   "en": "",
+   "en": "Wind Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0191",
    "jp": "サンダーニル",
-   "en": "",
+   "en": "Thunder Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0192",
    "jp": "マテリアルニル",
-   "en": "",
+   "en": "Material Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0193",
    "jp": "ホーリーニル",
-   "en": "",
+   "en": "Holy Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0194",
    "jp": "ダークニル",
-   "en": "",
+   "en": "Dark Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0195",
    "jp": "マインドニル",
-   "en": "",
+   "en": "Mind Nil",
    "term": "null"
   },
   {
    "id": "exe.items.0196",
    "jp": "力のリンゴ",
-   "en": "",
+   "en": "Power Apple",
    "term": "null"
   },
   {
    "id": "exe.items.0197",
    "jp": "忍耐のリンゴ",
-   "en": "",
+   "en": "Endurance Apple",
    "term": "null"
   },
   {
    "id": "exe.items.0198",
    "jp": "生命のリンゴ",
-   "en": "",
+   "en": "Life Apple",
    "term": "null"
   },
   {
    "id": "exe.items.0199",
    "jp": "知恵のリンゴ",
-   "en": "",
+   "en": "Wisdom Apple",
    "term": "null"
   },
   {
    "id": "exe.items.0200",
    "jp": "天使の涙",
-   "en": "",
+   "en": "Angel's Tear",
    "term": "null"
   },
   {
    "id": "exe.items.0201",
    "jp": "ダンディーブック",
-   "en": "",
+   "en": "Dandy Book",
    "term": "null"
   },
   {
    "id": "exe.items.0202",
    "jp": "祝福の鐘",
-   "en": "",
+   "en": "Bell of Blessing",
    "term": "null"
   },
   {
    "id": "exe.items.0203",
    "jp": "秘伝書",
-   "en": "",
+   "en": "Secret Manual",
    "term": "null"
   },
   {
    "id": "exe.items.0204",
    "jp": "大地の魔導書",
-   "en": "",
+   "en": "Earth Grimoire",
    "term": "null"
   },
   {
    "id": "exe.items.0205",
    "jp": "召喚の魔導書",
-   "en": "",
+   "en": "Summon Grimoire",
    "term": "null"
   },
   {
    "id": "exe.items.0206",
    "jp": "奇跡の魔導書",
-   "en": "",
+   "en": "Miracle Grimoire",
    "term": "null"
   },
   {
    "id": "exe.items.0207",
    "jp": "マヒ回避奥義の書",
-   "en": "",
+   "en": "Palsy Ward Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0208",
    "jp": "石化回避奥義の書",
-   "en": "",
+   "en": "Stone Ward Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0209",
    "jp": "即死回避奥義の書",
-   "en": "",
+   "en": "Death Ward Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0210",
    "jp": "反撃斬奥義の書",
-   "en": "",
+   "en": "Riposte Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0211",
    "jp": "連続斬奥義の書",
-   "en": "",
+   "en": "Chain Slash Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0212",
    "jp": "全殺斬奥義の書",
-   "en": "",
+   "en": "Omnislash Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0213",
    "jp": "ＨＰ増幅奥義の書",
-   "en": "",
+   "en": "HP Boost Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0214",
    "jp": "ＭＰ増幅奥義の書",
-   "en": "",
+   "en": "MP Boost Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0215",
    "jp": "魔力増幅奥義の書",
-   "en": "",
+   "en": "Magic Boost Tome",
    "term": "null"
   },
   {
    "id": "exe.items.0216",
    "jp": "ティピの可能性１",
-   "en": "",
+   "en": "Tippi's Potential 1",
    "term": "null"
   },
   {
    "id": "exe.items.0217",
    "jp": "ティピの可能性２",
-   "en": "",
+   "en": "Tippi's Potential 2",
    "term": "null"
   },
   {
    "id": "exe.items.0218",
    "jp": "ティピの可能性３",
-   "en": "",
+   "en": "Tippi's Potential 3",
    "term": "null"
   },
   {
    "id": "exe.items.0219",
    "jp": "ティピの可能性４",
-   "en": "",
+   "en": "Tippi's Potential 4",
    "term": "null"
   },
   {
    "id": "exe.items.0220",
    "jp": "ティピの可能性５",
-   "en": "",
+   "en": "Tippi's Potential 5",
    "term": "null"
   },
   {
    "id": "exe.items.0221",
    "jp": "ティピの可能性６",
-   "en": "",
+   "en": "Tippi's Potential 6",
    "term": "null"
   },
   {
    "id": "exe.items.0222",
    "jp": "ティピの可能性７",
-   "en": "",
+   "en": "Tippi's Potential 7",
    "term": "null"
   },
   {
    "id": "exe.items.0223",
    "jp": "テ八",
-   "en": "",
+   "en": "Te8",
    "term": "null"
   },
   {
    "id": "exe.items.0224",
    "jp": "テ九",
-   "en": "",
+   "en": "Te9",
    "term": "null"
   },
   {
    "id": "exe.items.0225",
    "jp": "テ十",
-   "en": "",
+   "en": "Te10",
    "term": "null"
   },
   {
    "id": "exe.items.0226",
    "jp": "サウンドテスト",
-   "en": "",
+   "en": "Sound Test",
    "term": "null"
   },
   {
    "id": "exe.items.0227",
    "jp": "シエラの指輪",
-   "en": "",
+   "en": "Sierra's Ring",
    "term": "null"
   },
   {
    "id": "exe.items.0228",
    "jp": "魔法の眼",
-   "en": "",
+   "en": "Magic Eye",
    "term": "null"
   },
   {
    "id": "exe.items.0229",
    "jp": "サンドラの研究書",
-   "en": "",
+   "en": "Sandra's Study",
    "term": "null"
   },
   {
    "id": "exe.items.0230",
    "jp": "重要図書閲覧許可",
-   "en": "",
+   "en": "Rare Books Pass",
    "term": "null"
   },
   {
    "id": "exe.items.0231",
    "jp": "旅行券",
-   "en": "",
+   "en": "Travel Voucher",
    "term": "null"
   },
   {
    "id": "exe.items.0232",
    "jp": "花束",
-   "en": "",
+   "en": "Bouquet",
    "term": "null"
   },
   {
    "id": "exe.items.0233",
    "jp": "プロミス[028B][028C][028D][028E]",
-   "en": "",
+   "en": "Promise[028B][028C][028D][028E]",
    "term": "null"
   },
   {
    "id": "exe.items.0234",
    "jp": "フェザリアンの薬",
-   "en": "",
+   "en": "Featherian Cure",
    "term": "null"
   },
   {
    "id": "exe.items.0235",
    "jp": "花冠",
-   "en": "",
+   "en": "Flower Crown",
    "term": "null"
   },
   {
    "id": "exe.items.0236",
    "jp": "クリアノ草",
-   "en": "",
+   "en": "Kuriano Herb",
    "term": "null"
   },
   {
    "id": "exe.items.0237",
    "jp": "透明化薬",
-   "en": "",
+   "en": "Invisibility Potion",
    "term": "null"
   },
   {
    "id": "exe.items.0238",
    "jp": "再生制御キー",
-   "en": "",
+   "en": "Regeneration Key",
    "term": "null"
   },
   {
    "id": "exe.items.0239",
    "jp": "形見のナイフ",
-   "en": "",
+   "en": "Keepsake Knife",
    "term": "null"
   },
   {
    "id": "exe.items.0240",
    "jp": "魔水晶のかけら",
-   "en": "",
+   "en": "Magic Crystal Chip",
    "term": "null"
   },
   {
    "id": "exe.items.0241",
    "jp": "赤いピアス",
-   "en": "",
+   "en": "Red Earring",
    "term": "null"
   },
   {
    "id": "exe.items.0242",
    "jp": "マジックジャマー",
-   "en": "",
+   "en": "Magic Jammer",
    "term": "null"
   },
   {
    "id": "exe.items.0243",
    "jp": "聖なる土",
-   "en": "",
+   "en": "Holy Soil",
    "term": "null"
   },
   {
    "id": "exe.items.0244",
    "jp": "カレンの髪の毛",
-   "en": "",
+   "en": "Karen's Hair",
    "term": "null"
   },
   {
    "id": "exe.items.0245",
    "jp": "秘石制御装置",
-   "en": "",
+   "en": "Gem Control Unit",
    "term": "null"
   },
   {
    "id": "exe.items.0246",
    "jp": "[0298]南の遺跡",
-   "en": "",
+   "en": "[0298]Southern Ruins",
    "term": "null"
   },
   {
    "id": "exe.items.0247",
    "jp": "[0298]温泉通行許可証",
-   "en": "",
+   "en": "[0298]Spa Pass",
    "term": "null"
   },
   {
    "id": "exe.items.0248",
    "jp": "[0298]ランザック行商",
-   "en": "",
+   "en": "[0298]Ranzak Peddler",
    "term": "null"
   },
   {
    "id": "exe.items.0249",
    "jp": "[0298]ランザック正規",
-   "en": "",
+   "en": "[0298]Ranzak Official",
    "term": "null"
   },
   {
    "id": "exe.items.0250",
    "jp": "[0298]水晶鉱山立入",
-   "en": "",
+   "en": "[0298]Mine Entry",
    "term": "null"
   },
   {
    "id": "exe.items.0251",
    "jp": "[0298]ダグラス領通行",
-   "en": "",
+   "en": "[0298]Douglas Pass",
    "term": "null"
   },
   {
    "id": "exe.items.0252",
    "jp": "[02A4]立入検査依頼書",
-   "en": "",
+   "en": "[02A4]Search Warrant",
    "term": "null"
   },
   {
    "id": "exe.items.0253",
    "jp": "[02A4]援軍要請",
-   "en": "",
+   "en": "[02A4]Call for Troops",
    "term": "null"
   },
   {
    "id": "exe.items.0254",
    "jp": "[02A4]ランザック王へ",
-   "en": "",
+   "en": "[02A4]To Ranzak King",
    "term": "null"
   },
   {
    "id": "exe.items.0255",
    "jp": "[02A4]ランザックから",
-   "en": "",
+   "en": "[02A4]From Ranzak",
    "term": "null"
   },
   {
    "id": "exe.items.0256",
    "jp": "[02A4]実習終了証明",
-   "en": "",
+   "en": "[02A4]Training Diploma",
    "term": "null"
   },
   {
    "id": "exe.items.0257",
    "jp": "[02A4]王母へ",
-   "en": "",
+   "en": "[02A4]To Angela",
    "term": "null"
   },
   {
    "id": "exe.items.0258",
    "jp": "[02A4]ダグラス卿から",
-   "en": "",
+   "en": "[02A4]From Douglas",
    "term": "null"
   },
   {
    "id": "exe.items.0259",
    "jp": "[02A4]もう１通の手紙",
-   "en": "",
+   "en": "[02A4]Another Letter",
    "term": "null"
   },
   {
    "id": "exe.items.0260",
    "jp": "牢の鍵１",
-   "en": "",
+   "en": "Cell Key 1",
    "term": "null"
   },
   {
    "id": "exe.items.0261",
    "jp": "牢の鍵３",
-   "en": "",
+   "en": "Cell Key 3",
    "term": "null"
   },
   {
    "id": "exe.items.0262",
    "jp": "パワーストーン",
-   "en": "",
+   "en": "Power Stone",
    "term": "null"
   },
   {
    "id": "exe.items.0263",
    "jp": "[0298]水晶鉱山通行証",
-   "en": "",
+   "en": "[0298]Mine Pass",
    "term": "null"
   },
   {
    "id": "exe.items.0264",
    "jp": "Ｍ２",
-   "en": "",
+   "en": "M2",
    "term": "null"
   },
   {
    "id": "exe.items.0265",
    "jp": "ア６８",
-   "en": "",
+   "en": "A68",
    "term": "null"
   },
   {
    "id": "exe.items.0266",
    "jp": "ア６９",
-   "en": "",
+   "en": "A69",
    "term": "null"
   },
   {
    "id": "exe.items.0267",
    "jp": "ア７０",
-   "en": "",
+   "en": "A70",
    "term": "null"
   },
   {
    "id": "exe.items.0268",
    "jp": "ア７１",
-   "en": "",
+   "en": "A71",
    "term": "null"
   },
   {
    "id": "exe.items.0269",
    "jp": "ア７２",
-   "en": "",
+   "en": "A72",
    "term": "null"
   },
   {
    "id": "exe.items.0270",
    "jp": "ア７３",
-   "en": "",
+   "en": "A73",
    "term": "null"
   },
   {
    "id": "exe.items.0271",
    "jp": "ア７４",
-   "en": "",
+   "en": "A74",
    "term": "null"
   },
   {
    "id": "exe.items.0272",
    "jp": "ア７５",
-   "en": "",
+   "en": "A75",
    "term": "null"
   },
   {
    "id": "exe.items.0273",
    "jp": "ア７６",
-   "en": "",
+   "en": "A76",
    "term": "null"
   },
   {
    "id": "exe.items.0274",
    "jp": "ア７７",
-   "en": "",
+   "en": "A77",
    "term": "null"
   },
   {
    "id": "exe.items.0275",
    "jp": "ア７８",
-   "en": "",
+   "en": "A78",
    "term": "null"
   },
   {
    "id": "exe.items.0276",
    "jp": "ア７９",
-   "en": "",
+   "en": "A79",
    "term": "null"
   },
   {
    "id": "exe.items.0277",
    "jp": "ア８０",
-   "en": "",
+   "en": "A80",
    "term": "null"
   },
   {
    "id": "exe.items.0278",
    "jp": "ア８１",
-   "en": "",
+   "en": "A81",
    "term": "null"
   },
   {
    "id": "exe.items.0279",
    "jp": "ア８２",
-   "en": "",
+   "en": "A82",
    "term": "null"
   },
   {
    "id": "exe.items.0280",
    "jp": "ア８３",
-   "en": "",
+   "en": "A83",
    "term": "null"
   },
   {
    "id": "exe.items.0281",
    "jp": "ア８４",
-   "en": "",
+   "en": "A84",
    "term": "null"
   },
   {
    "id": "exe.items.0282",
    "jp": "ア８５",
-   "en": "",
+   "en": "A85",
    "term": "null"
   },
   {
    "id": "exe.items.0283",
    "jp": "ア８６",
-   "en": "",
+   "en": "A86",
    "term": "null"
   },
   {
    "id": "exe.items.0284",
    "jp": "ア８７",
-   "en": "",
+   "en": "A87",
    "term": "null"
   },
   {
    "id": "exe.items.0285",
    "jp": "ア８８",
-   "en": "",
+   "en": "A88",
    "term": "null"
   },
   {
    "id": "exe.items.0286",
    "jp": "ア８９",
-   "en": "",
+   "en": "A89",
    "term": "null"
   },
   {
    "id": "exe.items.0287",
    "jp": "ア９０",
-   "en": "",
+   "en": "A90",
    "term": "null"
   },
   {
    "id": "exe.items.0288",
    "jp": "ア９１",
-   "en": "",
+   "en": "A91",
    "term": "null"
   },
   {
    "id": "exe.items.0289",
    "jp": "ア９２",
-   "en": "",
+   "en": "A92",
    "term": "null"
   },
   {
    "id": "exe.items.0290",
    "jp": "ア９３",
-   "en": "",
+   "en": "A93",
    "term": "null"
   },
   {
    "id": "exe.items.0291",
    "jp": "ア９４",
-   "en": "",
+   "en": "A94",
    "term": "null"
   },
   {
    "id": "exe.items.0292",
    "jp": "ア９５",
-   "en": "",
+   "en": "A95",
    "term": "null"
   },
   {
    "id": "exe.items.0293",
    "jp": "ア９６",
-   "en": "",
+   "en": "A96",
    "term": "null"
   },
   {
    "id": "exe.items.0294",
    "jp": "ア９７",
-   "en": "",
+   "en": "A97",
    "term": "null"
   },
   {
    "id": "exe.items.0295",
    "jp": "ア９８",
-   "en": "",
+   "en": "A98",
    "term": "null"
   },
   {
    "id": "exe.items.0296",
    "jp": "ア９９",
-   "en": "",
+   "en": "A99",
    "term": "null"
   },
   {
    "id": "exe.items.0297",
    "jp": "ア００",
-   "en": "",
+   "en": "A00",
    "term": "null"
   },
   {
    "id": "exe.items.0298",
    "jp": "ア０１",
-   "en": "",
+   "en": "A01",
    "term": "null"
   },
   {
    "id": "exe.items.0299",
    "jp": "ア０２",
-   "en": "",
+   "en": "A02",
    "term": "null"
   },
   {
    "id": "exe.items.0300",
    "jp": "ア０３",
-   "en": "",
+   "en": "A03",
    "term": "null"
   },
   {
    "id": "exe.items.0301",
    "jp": "ア０４",
-   "en": "",
+   "en": "A04",
    "term": "null"
   },
   {
    "id": "exe.items.0302",
    "jp": "ア０５",
-   "en": "",
+   "en": "A05",
    "term": "null"
   },
   {
    "id": "exe.items.0303",
    "jp": "ア０６",
-   "en": "",
+   "en": "A06",
    "term": "null"
   },
   {
    "id": "exe.items.0304",
    "jp": "ア０７",
-   "en": "",
+   "en": "A07",
    "term": "null"
   },
   {
    "id": "exe.items.0305",
    "jp": "ア０８",
-   "en": "",
+   "en": "a08",
    "term": "null"
   },
   {
    "id": "exe.items.0306",
    "jp": "ア０９",
-   "en": "",
+   "en": "a09",
    "term": "null"
   },
   {
    "id": "exe.items.0307",
    "jp": "ア１０",
-   "en": "",
+   "en": "a10",
    "term": "null"
   },
   {
    "id": "exe.items.0308",
    "jp": "ア１１",
-   "en": "",
+   "en": "a11",
    "term": "null"
   },
   {
    "id": "exe.items.0309",
    "jp": "ア１２",
-   "en": "",
+   "en": "a12",
    "term": "null"
   },
   {
    "id": "exe.items.0310",
    "jp": "ア１３",
-   "en": "",
+   "en": "a13",
    "term": "null"
   },
   {
    "id": "exe.items.0311",
    "jp": "Ｍ２β",
-   "en": "",
+   "en": "M2 Beta",
    "term": "null"
   },
   {
    "id": "exe.items.0312",
    "jp": "Ａ１",
-   "en": "",
+   "en": "A1",
    "term": "null"
   },
   {
    "id": "exe.items.0313",
    "jp": "Ａ２",
-   "en": "",
+   "en": "A2",
    "term": "null"
   },
   {
    "id": "exe.items.0314",
    "jp": "Ａ３",
-   "en": "",
+   "en": "A3",
    "term": "null"
   },
   {
    "id": "exe.items.0315",
    "jp": "Ａ４",
-   "en": "",
+   "en": "A4",
    "term": "null"
   },
   {
    "id": "exe.items.0316",
    "jp": "Ａ５",
-   "en": "",
+   "en": "A5",
    "term": "null"
   },
   {
    "id": "exe.items.0317",
    "jp": "Ａ６",
-   "en": "",
+   "en": "A6",
    "term": "null"
   },
   {
    "id": "exe.items.0318",
    "jp": "Ａ７",
-   "en": "",
+   "en": "A7",
    "term": "null"
   },
   {
    "id": "exe.items.0319",
    "jp": "Ａ８",
-   "en": "",
+   "en": "A8",
    "term": "null"
   },
   {
    "id": "exe.items.0320",
    "jp": "Ａ９",
-   "en": "",
+   "en": "A9",
    "term": "null"
   },
   {
    "id": "exe.items.0321",
    "jp": "Ａ１０",
-   "en": "",
+   "en": "A10",
    "term": "null"
   },
   {
    "id": "exe.items.0322",
    "jp": "Ａ１１",
-   "en": "",
+   "en": "A11",
    "term": "null"
   },
   {
    "id": "exe.items.0323",
    "jp": "Ａ１２",
-   "en": "",
+   "en": "A12",
    "term": "null"
   },
   {
    "id": "exe.items.0324",
    "jp": "Ａ１３",
-   "en": "",
+   "en": "A13",
    "term": "null"
   },
   {
    "id": "exe.items.0325",
    "jp": "Ａ１４",
-   "en": "",
+   "en": "A14",
    "term": "null"
   },
   {
    "id": "exe.items.0326",
    "jp": "Ａ１５",
-   "en": "",
+   "en": "A15",
    "term": "null"
   },
   {
    "id": "exe.items.0327",
    "jp": "Ａ１６",
-   "en": "",
+   "en": "A16",
    "term": "null"
   },
   {
    "id": "exe.items.0328",
    "jp": "Ａ１７",
-   "en": "",
+   "en": "A17",
    "term": "null"
   },
   {
    "id": "exe.items.0329",
    "jp": "Ａ１８",
-   "en": "",
+   "en": "A18",
    "term": "null"
   },
   {
    "id": "exe.items.0330",
    "jp": "Ａ１９",
-   "en": "",
+   "en": "A19",
    "term": "null"
   },
   {
    "id": "exe.items.0331",
    "jp": "Ａ２０",
-   "en": "",
+   "en": "A20",
    "term": "null"
   },
   {
    "id": "exe.items.0332",
    "jp": "Ｄ１",
-   "en": "",
+   "en": "D1",
    "term": "null"
   },
   {
    "id": "exe.items.0333",
    "jp": "Ｄ２",
-   "en": "",
+   "en": "D2",
    "term": "null"
   },
   {
    "id": "exe.items.0334",
    "jp": "Ｄ３",
-   "en": "",
+   "en": "D3",
    "term": "null"
   },
   {
    "id": "exe.items.0335",
    "jp": "Ｄ４",
-   "en": "",
+   "en": "D4",
    "term": "null"
   },
   {
    "id": "exe.items.0336",
    "jp": "Ｄ５",
-   "en": "",
+   "en": "D5",
    "term": "null"
   },
   {
    "id": "exe.items.0337",
    "jp": "Ｄ６",
-   "en": "",
+   "en": "D6",
    "term": "null"
   },
   {
    "id": "exe.items.0338",
    "jp": "Ｄ７",
-   "en": "",
+   "en": "D7",
    "term": "null"
   },
   {
    "id": "exe.items.0339",
    "jp": "Ｄ８",
-   "en": "",
+   "en": "D8",
    "term": "null"
   },
   {
    "id": "exe.items.0340",
    "jp": "Ｄ９",
-   "en": "",
+   "en": "D9",
    "term": "null"
   },
   {
    "id": "exe.items.0341",
    "jp": "Ｄ１０",
-   "en": "",
+   "en": "D10",
    "term": "null"
   },
   {
    "id": "exe.items.0342",
    "jp": "Ｄ１１",
-   "en": "",
+   "en": "D11",
    "term": "null"
   },
   {
    "id": "exe.items.0343",
    "jp": "Ｄ１２",
-   "en": "",
+   "en": "D12",
    "term": "null"
   },
   {
    "id": "exe.items.0344",
    "jp": "Ｄ１３",
-   "en": "",
+   "en": "D13",
    "term": "null"
   },
   {
    "id": "exe.items.0345",
    "jp": "Ｄ１４",
-   "en": "",
+   "en": "D14",
    "term": "null"
   },
   {
    "id": "exe.items.0346",
    "jp": "Ｄ１５",
-   "en": "",
+   "en": "D15",
    "term": "null"
   },
   {
    "id": "exe.items.0347",
    "jp": "Ｄ１６",
-   "en": "",
+   "en": "D16",
    "term": "null"
   },
   {
    "id": "exe.items.0348",
    "jp": "Ｄ１７",
-   "en": "",
+   "en": "D17",
    "term": "null"
   },
   {
    "id": "exe.items.0349",
    "jp": "Ｄ１８",
-   "en": "",
+   "en": "D18",
    "term": "null"
   },
   {
    "id": "exe.items.0350",
    "jp": "Ｄ１９",
-   "en": "",
+   "en": "D19",
    "term": "null"
   },
   {
    "id": "exe.items.0351",
    "jp": "Ｄ２０",
-   "en": "",
+   "en": "D20",
    "term": "null"
   },
   {
    "id": "exe.items.0352",
    "jp": "Ｄ２１",
-   "en": "",
+   "en": "D21",
    "term": "null"
   },
   {
    "id": "exe.items.0353",
    "jp": "Ｄ２２",
-   "en": "",
+   "en": "D22",
    "term": "null"
   },
   {
    "id": "exe.items.0354",
    "jp": "Ｄ２３",
-   "en": "",
+   "en": "D23",
    "term": "null"
   },
   {
    "id": "exe.items.0355",
    "jp": "Ｄ２４",
-   "en": "",
+   "en": "D24",
    "term": "null"
   },
   {
    "id": "exe.items.0356",
    "jp": "Ｄ２５",
-   "en": "",
+   "en": "D25",
    "term": "null"
   }
  ]

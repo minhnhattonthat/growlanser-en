@@ -9,385 +9,385 @@
   {
    "id": "exe.magic.0000",
    "jp": "テレポート",
-   "en": "",
+   "en": "Teleport",
    "term": "null"
   },
   {
    "id": "exe.magic.0001",
    "jp": "ファイアーボール",
-   "en": "",
+   "en": "Fireball",
    "term": "null"
   },
   {
    "id": "exe.magic.0002",
    "jp": "ブリザード",
-   "en": "",
+   "en": "Blizzard",
    "term": "null"
   },
   {
    "id": "exe.magic.0003",
    "jp": "トルネード",
-   "en": "",
+   "en": "Tornado",
    "term": "null"
   },
   {
    "id": "exe.magic.0004",
    "jp": "サンダー",
-   "en": "",
+   "en": "Thunder",
    "term": "null"
   },
   {
    "id": "exe.magic.0005",
    "jp": "アースクエイク",
-   "en": "",
+   "en": "Earthquake",
    "term": "null"
   },
   {
    "id": "exe.magic.0006",
    "jp": "ホーリーライト",
-   "en": "",
+   "en": "Holy Light",
    "term": "null"
   },
   {
    "id": "exe.magic.0007",
    "jp": "ＭＰドレイン",
-   "en": "",
+   "en": "MP Drain",
    "term": "null"
   },
   {
    "id": "exe.magic.0008",
    "jp": "デス",
-   "en": "",
+   "en": "Death",
    "term": "null"
   },
   {
    "id": "exe.magic.0009",
    "jp": "マジックアロー",
-   "en": "",
+   "en": "Magic Arrow",
    "term": "null"
   },
   {
    "id": "exe.magic.0010",
    "jp": "ソウルフォース",
-   "en": "",
+   "en": "Soul Force",
    "term": "null"
   },
   {
    "id": "exe.magic.0011",
    "jp": "メテオ",
-   "en": "",
+   "en": "Meteor",
    "term": "null"
   },
   {
    "id": "exe.magic.0012",
    "jp": "スリープ",
-   "en": "",
+   "en": "Sleep",
    "term": "null"
   },
   {
    "id": "exe.magic.0013",
    "jp": "サイレンス",
-   "en": "",
+   "en": "Silence",
    "term": "null"
   },
   {
    "id": "exe.magic.0014",
    "jp": "スロー",
-   "en": "",
+   "en": "Slow",
    "term": "null"
   },
   {
    "id": "exe.magic.0015",
    "jp": "バインド",
-   "en": "",
+   "en": "Bind",
    "term": "null"
   },
   {
    "id": "exe.magic.0016",
    "jp": "ルスト",
-   "en": "",
+   "en": "Rust",
    "term": "null"
   },
   {
    "id": "exe.magic.0017",
    "jp": "ウィークネス",
-   "en": "",
+   "en": "Weakness",
    "term": "null"
   },
   {
    "id": "exe.magic.0018",
    "jp": "フィア",
-   "en": "",
+   "en": "Fear",
    "term": "null"
   },
   {
    "id": "exe.magic.0019",
    "jp": "アタック",
-   "en": "",
+   "en": "Attack",
    "term": "null"
   },
   {
    "id": "exe.magic.0020",
    "jp": "グローアタック",
-   "en": "",
+   "en": "Grow Attack",
    "term": "null"
   },
   {
    "id": "exe.magic.0021",
    "jp": "プロテクト",
-   "en": "",
+   "en": "Protect",
    "term": "null"
   },
   {
    "id": "exe.magic.0022",
    "jp": "グロープロテクト",
-   "en": "",
+   "en": "Grow Protect",
    "term": "null"
   },
   {
    "id": "exe.magic.0023",
    "jp": "レジスト",
-   "en": "",
+   "en": "Resist",
    "term": "null"
   },
   {
    "id": "exe.magic.0024",
    "jp": "グローレジスト",
-   "en": "",
+   "en": "Grow Resist",
    "term": "null"
   },
   {
    "id": "exe.magic.0025",
    "jp": "インビジビリティ",
-   "en": "",
+   "en": "Invisibility",
    "term": "null"
   },
   {
    "id": "exe.magic.0026",
    "jp": "マジックシェル",
-   "en": "",
+   "en": "Magic Shell",
    "term": "null"
   },
   {
    "id": "exe.magic.0027",
    "jp": "クイック",
-   "en": "",
+   "en": "Quick",
    "term": "null"
   },
   {
    "id": "exe.magic.0028",
    "jp": "キュア",
-   "en": "",
+   "en": "Cure",
    "term": "null"
   },
   {
    "id": "exe.magic.0029",
    "jp": "ヒーリング",
-   "en": "",
+   "en": "Healing",
    "term": "null"
   },
   {
    "id": "exe.magic.0030",
    "jp": "グローキュア",
-   "en": "",
+   "en": "Grow Cure",
    "term": "null"
   },
   {
    "id": "exe.magic.0031",
    "jp": "グローヒーリング",
-   "en": "",
+   "en": "Grow Healing",
    "term": "null"
   },
   {
    "id": "exe.magic.0032",
    "jp": "ファイン",
-   "en": "",
+   "en": "Fine",
    "term": "null"
   },
   {
    "id": "exe.magic.0033",
    "jp": "レイズ",
-   "en": "",
+   "en": "Raise",
    "term": "null"
   },
   {
    "id": "exe.magic.0034",
    "jp": "単デ",
-   "en": "",
+   "en": "Single De",
    "term": "null"
   },
   {
    "id": "exe.magic.0035",
    "jp": "テ２",
-   "en": "",
+   "en": "Te2",
    "term": "null"
   },
   {
    "id": "exe.magic.0036",
    "jp": "のぶ",
-   "en": "",
+   "en": "Nobu",
    "term": "null"
   },
   {
    "id": "exe.magic.0037",
    "jp": "最ゲブ",
-   "en": "",
+   "en": "Final Ge Bu",
    "term": "null"
   },
   {
    "id": "exe.magic.0038",
    "jp": "最ヴブ",
-   "en": "",
+   "en": "Final Ve Bu",
    "term": "null"
   },
   {
    "id": "exe.magic.0039",
    "jp": "最ヴレ",
-   "en": "",
+   "en": "Final Ve Re",
    "term": "null"
   },
   {
    "id": "exe.magic.0040",
    "jp": "接地",
-   "en": "",
+   "en": "Ground Contact",
    "term": "null"
   },
   {
    "id": "exe.magic.0041",
    "jp": "デ地",
-   "en": "",
+   "en": "De Ground",
    "term": "null"
   },
   {
    "id": "exe.magic.0042",
    "jp": "時波",
-   "en": "",
+   "en": "Time Wave",
    "term": "null"
   },
   {
    "id": "exe.magic.0043",
    "jp": "時指",
-   "en": "",
+   "en": "Time Target",
    "term": "null"
   },
   {
    "id": "exe.magic.0044",
    "jp": "爆",
-   "en": "",
+   "en": "Explosion",
    "term": "null"
   },
   {
    "id": "exe.magic.0045",
    "jp": "ゲ変",
-   "en": "",
+   "en": "Ge Change",
    "term": "null"
   },
   {
    "id": "exe.magic.0046",
    "jp": "Ｐ発",
-   "en": "",
+   "en": "P Trigger",
    "term": "null"
   },
   {
    "id": "exe.magic.0047",
    "jp": "横ゲ",
-   "en": "",
+   "en": "Side Ge",
    "term": "null"
   },
   {
    "id": "exe.magic.0048",
    "jp": "マロ",
-   "en": "",
+   "en": "Maro",
    "term": "null"
   },
   {
    "id": "exe.magic.0049",
    "jp": "最ゲレ",
-   "en": "",
+   "en": "Final Ge Re",
    "term": "null"
   },
   {
    "id": "exe.magic.0050",
    "jp": "お",
-   "en": "",
+   "en": "o",
    "term": "null"
   },
   {
    "id": "exe.magic.0051",
    "jp": "か",
-   "en": "",
+   "en": "ka",
    "term": "null"
   },
   {
    "id": "exe.magic.0052",
    "jp": "き",
-   "en": "",
+   "en": "ki",
    "term": "null"
   },
   {
    "id": "exe.magic.0053",
    "jp": "く",
-   "en": "",
+   "en": "ku",
    "term": "null"
   },
   {
    "id": "exe.magic.0054",
    "jp": "け",
-   "en": "",
+   "en": "ke",
    "term": "null"
   },
   {
    "id": "exe.magic.0055",
    "jp": "こ",
-   "en": "",
+   "en": "ko",
    "term": "null"
   },
   {
    "id": "exe.magic.0056",
    "jp": "さ",
-   "en": "",
+   "en": "sa",
    "term": "null"
   },
   {
    "id": "exe.magic.0057",
    "jp": "し",
-   "en": "",
+   "en": "shi",
    "term": "null"
   },
   {
    "id": "exe.magic.0058",
    "jp": "す",
-   "en": "",
+   "en": "su",
    "term": "null"
   },
   {
    "id": "exe.magic.0059",
    "jp": "せ",
-   "en": "",
+   "en": "se",
    "term": "null"
   },
   {
    "id": "exe.magic.0060",
    "jp": "そ",
-   "en": "",
+   "en": "so",
    "term": "null"
   },
   {
    "id": "exe.magic.0061",
    "jp": "た",
-   "en": "",
+   "en": "ta",
    "term": "null"
   },
   {
    "id": "exe.magic.0062",
    "jp": "ち",
-   "en": "",
+   "en": "chi",
    "term": "null"
   },
   {
    "id": "exe.magic.0063",
    "jp": "つ",
-   "en": "",
+   "en": "tsu",
    "term": "null"
   }
  ]
