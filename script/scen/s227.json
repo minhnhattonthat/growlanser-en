@@ -1,0 +1,16 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 507,
+ "at": "0x174",
+ "pad": 2,
+ "refs": "0",
+ "entries": [
+  {
+   "id": "scen227.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

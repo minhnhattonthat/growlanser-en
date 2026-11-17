@@ -48,17 +48,34 @@
   MAP, SCEN, XATBL, MSYS, FTIM, SND, NEFF, ... (names at EXE 0xE0128, code 0x800181F0); read requests are 12-byte
   records at 0x80191120 handled by 0x8001835C (type switch via jump table 0x8001038C). Hook here for scene warps.
 
-## EXE text (guess on structure, verified content by decoding)
-- 0xE2000-0xE8000: system messages, memory-card prompts, config menu, character/enemy names, skill, item, place
-  names, item descriptions (some). Strings end with FFFF; no absolute pointers to them exist (searched), blocks are
-  preceded by u16 tables of **word** offsets (e.g. 0xE3300..0xE3372 ascending 0x216..0x278). Base and every table:
-  phase 4.
-- 0xE8004-0xE85C8: word dictionary for F4xx codes ("その代償として", "といわれる", ...), FFFF-terminated.
-- 0xE0000-0xE1FFF: tables only (noise in the scan).
+## EXE text (verified: disassembly of the getters, `tools/extract.py --check` rebuilds every table byte-identical)
+- 10 string tables tile 0xE2138-0xE85C8 exactly (test `Script.test_exe_range_covered`; 2-byte zero pads at E22C2,
+  E310E, E55BA, E722A). Each has a getter at 0x80070C04-0x80071094: `if i < count: return base + 2*table[i]`
+  (u16 **word** offsets), else entry 0 of the sys table. Table list with file offsets: `EXE_TABLES` in
+  `tools/extract.py` (sys, names, units, classes, magic, skills, items, help, places, dict).
+  RAM = file + 0x8000F800.
+- Special cases in the getters: names/units slots 0, 0x10, 0x131 return RAM buffers 0x8019431A / 0x80194308 (player
+  and custom names); places slot 6 returns a RAM buffer too (the renamable town, scene 67).
+- `dict` (0xE722C, 256 entries) is the F4xx dictionary: {F4xx} expands to entry xx (verified: item descriptions read
+  naturally when expanded, e.g. F4C1 = "で、", F4BA = "。{n}"). Its first entries are long phrases, the rest words.
+- No code builds an address inside the pools other than through the getters (lui/addiu scan; the only extra hit,
+  0xE3130 = names table slot 0x10, is a table read). So the pools can be resized or moved by re-pointing the 10
+  getters' (table, base) pairs (phase 5).
+- 0xE2000-0xE2138: pointer data (0x800Fxxxx words); 0xE0000-0xE1FFF: tables; scans elsewhere find only noise.
 
-## MSYS.DAT
-- Item/equipment descriptions at ~0x42A00+, preceded by a u16 offset table, text uses F4xx dictionary codes.
-  The rest of MSYS.DAT (2.4 MB) is mostly graphics. Structure: phase 4.
+## MSYS.DAT (verified: `tools/extract.py --check`, test `Script.test_msys_range_covered`)
+- 3 text sections in the SCEN section format (u32 size, u16 byte offsets, strings): 0x42800 items (268
+  descriptions), 0x47800 magic (35), 0x485BC skills (173: skill descriptions, then appendix CG titles, extras, voice
+  cast). They tile 0x42800-0x49E14 (zero to 0x47800 after the first, zero 0x49E14-0x4A000). Text uses F4xx codes.
+  No text elsewhere in the file. How the game finds each section (no u32 0x42800/0x485BC in the EXE): phase 5;
+  section 3 directly follows section 2, so growing section 2 moves section 3.
+- The rest of MSYS.DAT (2.4 MB) is graphics.
+
+## Script (phase 4; `script/*/*.json`, format in the `tools/extract.py` docstring)
+- Section padding rule (all 245 + 3 sections): after the last string, at least one FFFF, then FFFF to a 4-byte size
+  (`textsec.pad_for`).
+- Every SCEN string with no offset pointing at it (2,859) is a choice line read on past its question, incl. 5
+  "　{FFEE}キャンセル{FFF1}" cancel options in scene 67.
 
 ## Free space
 - Disc: files can grow (dumpsxiso/mkpsxiso rebuild re-lays the LBAs; the game finds files by CdSearchFile, so moved

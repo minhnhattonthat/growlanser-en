@@ -14,7 +14,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Original discs: `rom/` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Disc 2 has an audio track 2.
 - Emulator: `tools/pcsx/` (PCSX-Redux nightly 31789.20261117, `$SKILL/scripts/fetch_emu.py pcsx`; BIOS `tools/bios/scph5500.bin` via `fetch_emu.py psx-bios`). Disc tools: `tools/mkpsxiso/` (mkpsxiso/dumpsxiso v2.30, github.com/Lameguy64/mkpsxiso), `tools/armips/` (v0.11.0). All gitignored; re-fetch on a fresh clone. Savestates: `work/states/`.
 - Unpacked discs: `work/disc{1,2}/tree/` + `layout.xml` (`dumpsxiso -x tree -s layout.xml <cue>`). Both discs share byte-identical data files and EXE (`SLPS_023.80` == `SLPS_023.81`).
-- Text: `script/` (TSV). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and licences: `docs/fonts.md`.
+- Text: `script/{scen,msys,exe}/*.json` (jp + en per entry; `python -X utf8 tools/extract.py` writes missing files only, `--check` = matches disc + rebuilds byte-identical). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

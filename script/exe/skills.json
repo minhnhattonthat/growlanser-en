@@ -1,0 +1,394 @@
+{
+ "file": "SLPS_023.80",
+ "form": "table",
+ "table": "0xE5244",
+ "base": "0xE52C4",
+ "end": "0xE55BA",
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63",
+ "entries": [
+  {
+   "id": "exe.skills.0000",
+   "jp": "クリティカル１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0001",
+   "jp": "クリティカル２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0002",
+   "jp": "クリティカル３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0003",
+   "jp": "毒攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0004",
+   "jp": "毒攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0005",
+   "jp": "毒攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0006",
+   "jp": "猛毒攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0007",
+   "jp": "猛毒攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0008",
+   "jp": "猛毒攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0009",
+   "jp": "マヒ攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0010",
+   "jp": "マヒ攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0011",
+   "jp": "マヒ攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0012",
+   "jp": "石化攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0013",
+   "jp": "石化攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0014",
+   "jp": "石化攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0015",
+   "jp": "腕つぶし",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0016",
+   "jp": "ソウルクラッシュ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0017",
+   "jp": "全周囲攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0018",
+   "jp": "全周囲攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0019",
+   "jp": "全周囲攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0020",
+   "jp": "連続攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0021",
+   "jp": "連続攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0022",
+   "jp": "連続攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0023",
+   "jp": "盗む１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0024",
+   "jp": "盗む２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0025",
+   "jp": "盗む３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0026",
+   "jp": "硬直延長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0027",
+   "jp": "解毒能力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0028",
+   "jp": "マヒ無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0029",
+   "jp": "石化無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0030",
+   "jp": "デス無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0031",
+   "jp": "魔力吸収",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0032",
+   "jp": "分身",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0033",
+   "jp": "カウンター１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0034",
+   "jp": "カウンター２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0035",
+   "jp": "カウンター３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0036",
+   "jp": "スペルターニング",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0037",
+   "jp": "硬直短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0038",
+   "jp": "詠唱時間短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0039",
+   "jp": "道具実行時間短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0040",
+   "jp": "リジェネレート",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0041",
+   "jp": "超リジェネレート",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0042",
+   "jp": "ＭＰ回復",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0043",
+   "jp": "俊足１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0044",
+   "jp": "俊足２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0045",
+   "jp": "俊足３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0046",
+   "jp": "水上移動",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0047",
+   "jp": "飛行",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0048",
+   "jp": "壁抜け",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0049",
+   "jp": "ＨＰアップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0050",
+   "jp": "ＨＰアップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0051",
+   "jp": "ＨＰアップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0052",
+   "jp": "ＭＰアップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0053",
+   "jp": "ＭＰアップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0054",
+   "jp": "ＭＰアップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0055",
+   "jp": "魔力アップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0056",
+   "jp": "魔力アップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0057",
+   "jp": "魔力アップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0058",
+   "jp": "Ｓ異常無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0059",
+   "jp": "完全攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0060",
+   "jp": "全アップ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0061",
+   "jp": "全毒攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0062",
+   "jp": "断",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "exe.skills.0063",
+   "jp": "セ",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

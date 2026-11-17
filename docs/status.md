@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4. Extract not started (phase 3 identity build done 2026-11-18). Last build: 2026-11-18, no patches,
-  byte-identical to rom.sha1 (all 3 tracks), smoke ok on build/disc1.
+- **Phase:** 5. Engine spike and marker build not started (phase 4 extract done 2026-11-18). Last build:
+  2026-11-18, no patches, byte-identical to rom.sha1 (all 3 tracks), smoke ok on build/disc1.
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
     `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
@@ -26,9 +26,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     writes `build/discN/layout.xml` with absolute sources (patched files go to `build/discN/files/` via `patches()`),
     runs mkpsxiso, splits disc 2 at track 2's INDEX 00 into the Redump Track 1/2 bins, copies the original cue.
     `build.py --identity` (test `tests/test_rom.py` Identity) proves all 3 tracks byte-identical, ~6 s.
-- **Next (phase 4, extract):** extract SCEN.DAT scene text, EXE and MSYS strings (formats in docs/re/text.md;
-  `tools/scen.py` codec + roundtrip test exist) to `script/` TSV; roundtrip every string to the original bytes; coverage
-  test over the text ranges on the original files. Fill `build.py` `patches()` in phase 5 (same files for both discs).
+  - Phase 4 extract: `tools/extract.py` -> `script/scen/sNNN.json` (245 scenes), `script/msys/{items,magic,skills}`,
+    `script/exe/<table>` (10 EXE string tables); 27,177 entries (247 empty, 2,859 `unref` choice lines). Pool
+    codec `tools/textsec.py` (split / build section or table, pad rule). Tests (`tests/test_text.py` Script):
+    script/ matches the disc and every pool rebuilds byte-identical from `jp`; EXE 0xE2138-0xE85C8 and MSYS
+    0x42800-0x49E14 fully covered, no text outside; pad rule; disc 2 text files identical to disc 1.
+- **Next (phase 5, engine spike + marker build):** `extract.pool_bytes(doc, "en")` rebuilds a pool from English;
+  wire it into `build.py` `patches()` (SCEN entries regrow -> rewrite the SCEN.DAT sector table; MSYS sections:
+  find how the game locates them first; EXE pools: re-point the 10 getters if they move or grow). VWF/font decision,
+  marker build `[id]` per entry, width gate. Non-text candidates to confirm in the marker build: exe.sys.0000-0004
+  (single punctuation / ‥‥, maybe kinsoku or padding), exe.dict (F4xx dictionary: English can drop F4 codes and
+  write words out), names/units slots 0, 0x10, 0x131 and places slot 6 (RAM buffers, never drawn from the table).
 - **Debug-tool gaps to grow later (phase 8):** disc 2 story points (休暇8明け on, Gevel, after, celebration;
   parked `#-` lines in scenes.txt, attempts and next ideas in docs/re/debug.md "Disc 2"); title LOAD/APPENDIX
   need a memory-card fixture; shop, inn, save screen in the field, level-up, game over, endings
