@@ -6,7 +6,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Build:    `python -X utf8 build.py` -> build/disc1/*.cue, build/disc2/*.cue (checks the dump against `rom.sha1` first) (not written yet: phase 3)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py "rom/Growlanser (Japan) (Disc 1).cue" --out work/qa/smoke --frames 2400 --mash 30 --mash-key start --smoke --sheet` (swap in the build's .cue)
-- Warp:     `python -X utf8 $SKILL/scripts/emu.py <cue> --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.txt`; phase 2; never ask the user to play to a scene)
+- Warp:     `python -X utf8 $SKILL/scripts/emu.py <cue> --out work/qa/w --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 4500 --sheet` (scenes: `tools/debug/scenes.txt`, or `SCENE='scene N [area A sub S]'`; voice is forced off; notes `docs/re/debug.md`; never ask the user to play to a scene). All: `python -X utf8 tools/debug/warp_all.py [NAME..] [--cue C] [--states]`
 - Release:  `python -X utf8 tools/release.py` (xdelta per .bin + verify; never publish without the user) (phase 9)
 - Clean:    `python -X utf8 tools/clean.py`
 

@@ -8,6 +8,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from dat import entries, SECTOR  # noqa: E402
+import scen  # noqa: E402
 
 ram = open(sys.argv[1], "rb").read()
 d = open(sys.argv[2] if len(sys.argv) > 2 else "work/disc1/tree/SCEN.DAT", "rb").read()
@@ -21,6 +22,13 @@ for i, (s, n) in enumerate(entries(d)):
         continue
     j = ram.find(probe)
     if j < 0:
+        # the header and script mutate at run time; the text section doesn't
+        ts = scen.text_section(e)
+        if ts and ts[1] > 64:
+            k = ram.find(e[ts[0]:ts[0] + min(ts[1], 512)])
+            if k >= 0:
+                print(f"entry {i} text at 0x{0x80000000 + k:08X} (entry start ~0x{0x80000000 + k - ts[0]:08X}, "
+                      f"header changed)")
         continue
     same = ram[j:j + len(body)] == body
     k = j + len(body)

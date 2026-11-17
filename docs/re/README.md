@@ -13,4 +13,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | text.md | encoding, font, control codes, SCEN.DAT / EXE / MSYS.DAT text containers, scene load, file reads, free space | encoding, font, SCEN, scene load verified; EXE/MSYS tables, free space guessed |
+| debug.md | scene/map ids, scene-change VM ops, New Game warp patch, developers' check menu (scene 18), title flag, voice-off bit | warp verified on screen (`tools/debug/warp_all.py`); VM op lengths partly |
 | graphics.md | graphics-text survey: Japanese graphics G1-G8 with sources | static sweep done (MSYS, MAP, TIM files, EXE, FMV samples); on-screen checks of mid-game screens in phase 2/8 |

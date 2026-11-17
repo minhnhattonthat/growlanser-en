@@ -2,27 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 2. Debug tool not started (phase 1 recon done 2026-11-17). Last build: none.
+- **Phase:** 3. Identity build not started (phase 2 debug tool done 2026-11-17). Last build: none.
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
-    `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`.
-    Not proven: GUI keyboard input (needs a human; headless only).
-  - Phase 1 text recon (docs/re/text.md): u16 glyph-index encoding, EXE font 12x12 1bpp at 0xE85C8, `tbl/jp.tbl`,
-    control codes, SCEN.DAT archive + scene text format (roundtrip test), EXE name/item/system text, F4xx dictionary,
-    MSYS.DAT item descriptions. Scene load in RAM (entries N-280, N, N+280 back-to-back from 0x80128B98), CD file
-    table + read-request handler (0x8001835C), free-space notes.
-  - Phase 1 graphics survey (docs/re/graphics.md): static sweep of MSYS.DAT, MAP.DAT (2133 pages), TIM files, EXE,
-    FMV samples. Japanese graphics G1-G8: title katakana + キャリアソフト (MAP 1161), affinity/element kanji (MSYS
-    0x9100), appendix menu (MSYS 0x7C000), credits cast/staff (MAP 1257), kana atlas (MAP 1257 ~0x80000, name entry?),
-    unknown atlas (MAP 1151), FMV logo subtitle (both STRs). Most UI art is already English.
-- **Next (phase 2, debug tool):**
-  1. Scene warp: hook the read-request handler 0x8001835C / scene-load path (docs/re/text.md "File reads") to load
-     a chosen SCEN entry N (280-559) from a cold boot; write `tools/debug/warp.lua` + `tools/debug/scenes.txt`.
-  2. Scene list must include: title, new game, name entry, field + menu screens (status, item, magic, equip,
-     config, save/load, shop), battle HUD, level-up, game over, each chapter card, ending, credits, appendix room.
-     Use them to confirm G2-G7 on screen (graphics.md "Still open"). Savestates: work/qa/ng/s00N000.sstate (frame
-     3000 = first dialogue, scene 280); title state work/qa/vram_title/title.sstate.
-  3. Phase 4 leftovers: EXE u16 word-offset tables (base per block), MSYS.DAT text table layout (0x42800, 0x47800).
+    `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
+    (ends on CONFIG), New Game route `tools/routes/newgame.txt`. Not proven: GUI keyboard input (headless only).
+  - Phase 1 recon: docs/re/text.md (encoding, font, tbl, control codes, SCEN.DAT, EXE/MSYS text, scene load, file
+    reads), docs/re/graphics.md (Japanese graphics G1-G8).
+  - Phase 2 debug tool (docs/re/debug.md): `tools/debug/warp.lua` warps from a cold boot to any scene id (RAM patch
+    of the New Game code: scene request 0x80113D66, map area/sub), forces voice off (headless XA voice hang), detects
+    the title by RAM (gp+0x28C = 8). Scene 18 is the developers' check menu: story points (仕官話し, 休暇1-11明け,
+    Gevel, after, celebration), 16 event checkpoints, 14 event battles, 5 dungeons, face/unit/param/name screens.
+    `tools/debug/scenes.txt` (63 active entries) covers title + config, New Game prologue + home, the check menu
+    screens incl. name entry, story points 仕官話し..休暇7明け, all 16 event checkpoints, 14 event battles,
+    5 dungeons, the field menu (Select) with each top-level item, save screen and config. `tools/debug/warp_all.py`
+    runs them all (proof shots in work/qa/warp/<name>/final.png, sheet*.png, results.tsv; `--states` regenerates
+    work/states/). Last run 2026-11-18: 63/63 landed, every proof shot read (sheets 1-4).
+  - Recon helpers: `tools/scendump.py` (scene text / summary), `tools/scenelinks.py` (scene-change ops 78/7A, noisy),
+    `tools/vmstatic.py` + `tools/vmops.py` + `tools/debug/vmtrace.lua` (VM op lengths), `tools/debug/reqlog.lua`,
+    `scenelog.lua` (CD request / scene-load traces, need --debugger).
+- **Next (phase 3, identity build):** unpack with dumpsxiso (`work/disc{1,2}/tree` + layout.xml exist), repack with
+  mkpsxiso, byte-identical to the original bins (both discs, disc 2 CD-DA track), as a test; then `build.py`.
+- **Debug-tool gaps to grow later (phase 8):** disc 2 story points (休暇8明け on, Gevel, after, celebration;
+  parked `#-` lines in scenes.txt, attempts and next ideas in docs/re/debug.md "Disc 2"); title LOAD/APPENDIX
+  need a memory-card fixture; shop, inn, save screen in the field, level-up, game over, endings
+  (the check menu's 祝賀会以降 / "誰と成功した？" flow), credits, arena (闘技大会), FC check details. Field-menu
+  submenu items are reached by index; confirm which index is which when the menu is translated. Scene ids warped
+  directly (`SCENE='scene N'`) run on the New Game map unless area/sub is given; correct maps per scene need a
+  full VM parse (op lengths partly known).
 - **Open bugs:** none.
 - **Waiting on the user:** nothing (all once-per-project questions answered in docs/decisions.md).
 - **Engine notes for phase 5:** every glyph is a 12 px cell and codes are 16-bit, so English text costs 2 bytes/letter
