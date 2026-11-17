@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 3. Identity build not started (phase 2 debug tool done 2026-11-17). Last build: none.
+- **Phase:** 4. Extract not started (phase 3 identity build done 2026-11-18). Last build: 2026-11-18, no patches,
+  byte-identical to rom.sha1 (all 3 tracks), smoke ok on build/disc1.
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
     `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
@@ -21,8 +22,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Recon helpers: `tools/scendump.py` (scene text / summary), `tools/scenelinks.py` (scene-change ops 78/7A, noisy),
     `tools/vmstatic.py` + `tools/vmops.py` + `tools/debug/vmtrace.lua` (VM op lengths), `tools/debug/reqlog.lua`,
     `scenelog.lua` (CD request / scene-load traces, need --debugger).
-- **Next (phase 3, identity build):** unpack with dumpsxiso (`work/disc{1,2}/tree` + layout.xml exist), repack with
-  mkpsxiso, byte-identical to the original bins (both discs, disc 2 CD-DA track), as a test; then `build.py`.
+  - Phase 3 identity build: `build.py` unpacks with dumpsxiso if `work/discN/tree` is missing (tree is never written),
+    writes `build/discN/layout.xml` with absolute sources (patched files go to `build/discN/files/` via `patches()`),
+    runs mkpsxiso, splits disc 2 at track 2's INDEX 00 into the Redump Track 1/2 bins, copies the original cue.
+    `build.py --identity` (test `tests/test_rom.py` Identity) proves all 3 tracks byte-identical, ~6 s.
+- **Next (phase 4, extract):** extract SCEN.DAT scene text, EXE and MSYS strings (formats in docs/re/text.md;
+  `tools/scen.py` codec + roundtrip test exist) to `script/` TSV; roundtrip every string to the original bytes; coverage
+  test over the text ranges on the original files. Fill `build.py` `patches()` in phase 5 (same files for both discs).
 - **Debug-tool gaps to grow later (phase 8):** disc 2 story points (休暇8明け on, Gevel, after, celebration;
   parked `#-` lines in scenes.txt, attempts and next ideas in docs/re/debug.md "Disc 2"); title LOAD/APPENDIX
   need a memory-card fixture; shop, inn, save screen in the field, level-up, game over, endings
