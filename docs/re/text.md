@@ -40,7 +40,13 @@
   section as the ordered list of all terminated strings and re-point offsets by string index.
 - 10 offsets in entry 329 point 2 bytes into a string (past a leading FD00): record (string, delta).
 - 25,557 strings in 245 entries (~24,113 referenced). Entries 0-155 / 560-715: no text (other data).
-- Load buffer size for a scene: unknown yet (phase 5: find the read size / RAM area before growing entries).
+- Scene load (verified: `tools/scenram.py` on a RAM dump of scene 280, work/qa/ram_scene): entries N-280, N and
+  N+280 load together. Entry 0 at 0x80128B98 (0x318 B), entry 280 right after it at 0x80128EC0 (0x6260 B), 0xA79 zero
+  bytes, other data from 0x8012FB99; entry 560 at 0x80146778. Packed back-to-back, so allocation looks dynamic
+  (guess). Largest scene entry: 308, 14 sectors (28 KB). Phase 5: find the allocator / cap before growing entries.
+- File reads (verified by disassembly): CdSearchFile fills a CdlFILE table at 0x80190328 (0x18 B each) for
+  MAP, SCEN, XATBL, MSYS, FTIM, SND, NEFF, ... (names at EXE 0xE0128, code 0x800181F0); read requests are 12-byte
+  records at 0x80191120 handled by 0x8001835C (type switch via jump table 0x8001038C). Hook here for scene warps.
 
 ## EXE text (guess on structure, verified content by decoding)
 - 0xE2000-0xE8000: system messages, memory-card prompts, config menu, character/enemy names, skill, item, place
@@ -53,6 +59,13 @@
 ## MSYS.DAT
 - Item/equipment descriptions at ~0x42A00+, preceded by a u16 offset table, text uses F4xx dictionary codes.
   The rest of MSYS.DAT (2.4 MB) is mostly graphics. Structure: phase 4.
+
+## Free space
+- Disc: files can grow (dumpsxiso/mkpsxiso rebuild re-lays the LBAs; the game finds files by CdSearchFile, so moved
+  files are found by name - verified only by reading the code at 0x800181F0, prove with the phase 3 identity build).
+- EXE (t_addr 0x80010000, t_size 0x104000 -> ends 0x80114000): no proven free space. Zero runs `tools/zeroruns.py`:
+  0x80111A45 len 0x106B, 0x80113B26 len 0x4DA, 0x80112DE0 len 0x421 - may be runtime data (guess): write-watch before
+  use. RAM 0x80114000-0x80128B98 is BSS/heap below the scene load area (guess). Phase 5 decides where VWF code goes.
 
 ## No text found
 - MAP.DAT, MAGD.BIN, UPD.UPD, XATBL.DAT, FTIM.DAT, NEFF.BIN, SND.DAT: `tools/scantext.py` finds only noise.

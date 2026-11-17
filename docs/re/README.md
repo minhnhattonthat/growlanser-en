@@ -12,5 +12,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| text.md | encoding, font, control codes, SCEN.DAT / EXE / MSYS.DAT text containers | encoding, font, SCEN verified; EXE/MSYS tables guessed |
-| graphics.md | graphics-text survey | in progress (raw TIMs swept; MSYS/MAP graphics and menu VRAM pending) |
+| text.md | encoding, font, control codes, SCEN.DAT / EXE / MSYS.DAT text containers, scene load, file reads, free space | encoding, font, SCEN, scene load verified; EXE/MSYS tables, free space guessed |
+| graphics.md | graphics-text survey: Japanese graphics G1-G8 with sources | static sweep done (MSYS, MAP, TIM files, EXE, FMV samples); on-screen checks of mid-game screens in phase 2/8 |
