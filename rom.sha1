@@ -1,2 +1,4 @@
-# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# SHA-1 of the supported dump (Redump: Growlanser (Japan), SLPS-02380/02381), sha1sum format. One line per file.
+78a595317b9ed3a7d6bbdcff48f6144cbff38a48  rom/Growlanser (Japan) (Disc 1).bin
+572dae9c95a84fe93ec209f7fcffa745bb57014d  rom/Growlanser (Japan) (Disc 2) (Track 1).bin
+485017be606e6b517760076c9b05ceba89f5cdba  rom/Growlanser (Japan) (Disc 2) (Track 2).bin
