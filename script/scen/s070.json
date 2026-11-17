@@ -1189,25 +1189,25 @@
   {
    "id": "scen070.0193",
    "jp": "‥‥装置は順調に動いている。{n}おかげでゲヴェルたちも下民どもを殺しまくっている。{p}確かに我々は人間に比べて数が少ない。{n}だがこの偉大な力がある。{p}たいした力を持たない下民が、{n}我々グローシアンにたてつくとは愚の骨頂だ。{p}それにしても気にかかるのは、{n}グローシアンでありながら{n}下民に味方しようとする連中の存在だ。{p}奴らはゲヴェルが我々の前では{n}真の力を発揮できないことを知っている。{n}これを逆手に取られたら‥‥。{p}すぐにでも新型を完成させなければならない‥‥。",
-   "en": "",
+   "en": "...The device is functioning smoothly. Thanks to it, the{n}Gevel creatures are slaughtering the lowborn in{n}droves.{p}It is true that we are fewer in number than humans.{n}But we possess this magnificent power.{p}For powerless lowborn to defy us Growsians is folly of{n}the highest order.{p}Still, one thing troubles me: those who would side with{n}the lowborn despite being Growsians themselves.{p}They know that Gevel cannot unleash its true power in{n}our presence. If they were to turn that against us...{p}We must complete the new model without delay...",
    "term": "end"
   },
   {
    "id": "scen070.0194",
    "jp": "『{FFEF}新型ゲヴェルの開発に向けて{FFF1}』{n}現行型生体兵器であるゲヴェルの弱点は、魔法である。{p}ゲヴェルは自らが魔法を使うことは出来ない。{n}また魔法への耐性も設計値を下回る。{p}これは我々グローシアンに危害を加えないようにする{n}ための処理が悪影響を及ぼしていると思われる。{p}現行型でも、一般人が使用する魔法には{n}十分な耐性を持つが、{n}新型では改善するべきポイントである。",
-   "en": "",
+   "en": "'{FFEF}Toward the Development of a New Gevel Model{FFF1}' The{n}weakness of our current biological weapon, Gevel, is{n}magic.{p}Gevel cannot use magic itself. Its resistance to magic{n}also falls below design specifications.{p}This appears to be an adverse effect of the{n}modifications intended to prevent it from harming us{n}Growsians.{p}Even the current model has sufficient resistance to{n}magic used by ordinary humans, but this is an area to{n}improve in the new model.",
    "term": "end"
   },
   {
    "id": "scen070.0195",
    "jp": "コラ！{n}ここまで来て、どこへ行くのよ！",
-   "en": "",
+   "en": "Hey! We've come all this way! Where do you think you're{n}going?!",
    "term": "end"
   },
   {
    "id": "scen070.0196",
    "jp": "不思議な力によって、かき消された‥‥。",
-   "en": "",
+   "en": "It was dispelled by a mysterious power...",
    "term": "end"
   }
  ]

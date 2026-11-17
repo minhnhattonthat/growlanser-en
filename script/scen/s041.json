@@ -15,1914 +15,1914 @@
   {
    "id": "scen041.0001",
    "jp": "選手",
-   "en": "",
+   "en": "Contestant",
    "term": "null"
   },
   {
    "id": "scen041.0002",
    "jp": "闘技大会参加者",
-   "en": "",
+   "en": "Tournament Entrant",
    "term": "null"
   },
   {
    "id": "scen041.0003",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "scen041.0004",
    "jp": "案内標識",
-   "en": "",
+   "en": "Signpost",
    "term": "null"
   },
   {
    "id": "scen041.0005",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen041.0006",
    "jp": "店主",
-   "en": "",
+   "en": "Shopkeeper",
    "term": "null"
   },
   {
    "id": "scen041.0007",
    "jp": "花売り",
-   "en": "",
+   "en": "Flower Seller",
    "term": "null"
   },
   {
    "id": "scen041.0008",
    "jp": "番兵",
-   "en": "",
+   "en": "Sentry",
    "term": "null"
   },
   {
    "id": "scen041.0009",
    "jp": "受付員",
-   "en": "",
+   "en": "Receptionist",
    "term": "null"
   },
   {
    "id": "scen041.0010",
    "jp": "張り紙",
-   "en": "",
+   "en": "Notice",
    "term": "null"
   },
   {
    "id": "scen041.0011",
    "jp": "バーバラ",
-   "en": "",
+   "en": "Barbara",
    "term": "null"
   },
   {
    "id": "scen041.0012",
    "jp": "グランシル",
-   "en": "",
+   "en": "Grancil",
    "term": "end"
   },
   {
    "id": "scen041.0013",
    "jp": "{FFF3}{v:0038}‥‥‥。",
-   "en": "",
+   "en": "{FFF3}{v:0038}...",
    "term": "end"
   },
   {
    "id": "scen041.0014",
    "jp": "{v:0039}どうしたの、{s:0002}さん？",
-   "en": "",
+   "en": "{v:0039}What's wrong, {s:0002}?",
    "term": "end"
   },
   {
    "id": "scen041.0015",
    "jp": "‥‥{v:003A}見舞いが必要なのは、{n}{s:0005}の方かも知れないな‥‥。",
-   "en": "",
+   "en": "...{v:003A}Maybe {s:0005} is the one who needs a{n}visit...",
    "term": "end"
   },
   {
    "id": "scen041.0016",
    "jp": "{v:003B}妹さんがこんな事になっちゃったんだもんね。{n}{s:0005}さんを元気づけるためにも、{n}お見舞いに来てあげようね？",
-   "en": "",
+   "en": "{v:003B}With what's happened to his sister and all... Let's come{n}and visit to cheer {s:0005} up too, okay?",
    "term": "end"
   },
   {
    "id": "scen041.0017",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル{s:00BA}会～",
-   "en": "",
+   "en": "{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BA} Association--",
    "term": "end"
   },
   {
    "id": "scen041.0018",
    "jp": "{v:0010}誰だい？",
-   "en": "",
+   "en": "{v:0010}Who's there?",
    "term": "end"
   },
   {
    "id": "scen041.0019",
    "jp": "{v:0011}あら、{s:0005}さん。",
-   "en": "",
+   "en": "{v:0011}Oh, {s:0005}.",
    "term": "end"
   },
   {
    "id": "scen041.0020",
    "jp": "{v:0012}よぉ、久しぶりだな。{n}何だい、やっぱり闘技大会に出場するつもりか？",
-   "en": "",
+   "en": "{v:0012}Hey, long time no see. So, you're entering the{n}tournament after all?",
    "term": "end"
   },
   {
    "id": "scen041.0021",
    "jp": "{v:0013}闘技大会？",
-   "en": "",
+   "en": "{v:0013}Tournament?",
    "term": "end"
   },
   {
    "id": "scen041.0022",
    "jp": "{v:0014}何だ、知らないのか。{p}{v:0015}闘技大会で優勝できれば、賞品の他に、{n}武官として抜擢される事も多いって聞いてな。{n}俺もそれにかけている。{p}{v:0016}受付はこの街でやっているから、{n}参加してみちゃどうだい？{n}もっとも、優勝は俺様がいただくがな。",
-   "en": "",
+   "en": "{v:0014}What, you haven't heard?{p}{v:0015}I hear tournament champions often get picked to{n}serve as military officers, on top of winning a prize.{n}That's what I'm counting on.{p}{v:0016}They're taking entries here in town. Why don't you give{n}it a shot? Of course, the championship's mine.",
    "term": "end"
   },
   {
    "id": "scen041.0023",
    "jp": "{v:0017}優勝の賞品って何なの？",
-   "en": "",
+   "en": "{v:0017}What's the prize for winning?",
    "term": "end"
   },
   {
    "id": "scen041.0024",
    "jp": "{v:0018}エキスパートの部は覚えてないが、{n}フレッシュマンの部は確かバーンシュタイン王国に{n}ある温泉街、コムスプリングスへの旅行券だったな。{p}{v:0019}ま、それよりも俺は仕官{s:0127}当てだから関係ないけどな。",
-   "en": "",
+   "en": "{v:0018}I don't remember the Expert division prize, but I think{n}the Freshman prize is a Travel Voucher to Comsprings,{n}a hot spring town in the Kingdom of Burnstein.{p}{v:0019}Well, I've got my {s:0127} on a military post,{n}so the prize doesn't matter to me.",
    "term": "end"
   },
   {
    "id": "scen041.0025",
    "jp": "{v:001A}へぇ、温泉ねぇ。{p}{v:001B}そういえば、{s:0007}さんは元気？",
-   "en": "",
+   "en": "{v:001A}Ooh, hot springs.{p}{v:001B}Speaking of which, how's {s:0007}?",
    "term": "end"
   },
   {
    "id": "scen041.0026",
    "jp": "{v:0016}受付はこの街でやっているから、{n}参加してみちゃどうだい？{n}もっとも、優勝は俺様がいただくがな。",
-   "en": "",
+   "en": "{v:0016}They're taking entries here in town. Why don't you give{n}it a shot? Of course, the championship's mine.",
    "term": "end"
   },
   {
    "id": "scen041.0027",
    "jp": "{v:0023}そういえば、{s:0007}さんは元気？",
-   "en": "",
+   "en": "{v:0023}Speaking of which, how's {s:0007}?",
    "term": "end"
   },
   {
    "id": "scen041.0028",
    "jp": "{v:001C}それなら登録してきたよ。",
-   "en": "",
+   "en": "{v:001C}I've already signed up.",
    "term": "end"
   },
   {
    "id": "scen041.0029",
    "jp": "{v:001D}優勝者は武官として抜擢される事が{n}多いらしいからな。{n}お前もそれが狙いか？{p}{v:001E}だけど、優勝は俺様がいただくぜ。",
-   "en": "",
+   "en": "{v:001D}I hear champions often get picked to serve as military{n}officers. Is that what you're after too?{p}{v:001E}But the championship's mine.",
    "term": "end"
   },
   {
    "id": "scen041.0030",
    "jp": "{v:001F}優勝賞品って温泉旅行だってね★",
-   "en": "",
+   "en": "{v:001F}I hear the grand prize is a trip to the hot springs!",
    "term": "end"
   },
   {
    "id": "scen041.0031",
    "jp": "{v:0020}そうらしいな。{p}{v:0021}ま、それよりも俺は仕官{s:0127}当てだから関係ないけどな。",
-   "en": "",
+   "en": "{v:0020}So I hear.{p}{v:0021}Well, I've got my {s:0127} on a military post,{n}so the prize doesn't matter to me.",
    "term": "end"
   },
   {
    "id": "scen041.0032",
    "jp": "{v:0022}ふ～ん。{p}{v:0023}そういえば、{s:0007}さんは元気？",
-   "en": "",
+   "en": "{v:0022}Hmm.{p}{v:0023}Speaking of which, how's {s:0007}?",
    "term": "end"
   },
   {
    "id": "scen041.0033",
    "jp": "{v:0024}ああ。{n}今はいないけどな。",
-   "en": "",
+   "en": "{v:0024}She's fine. She's not here right now, though.",
    "term": "end"
   },
   {
    "id": "scen041.0034",
    "jp": "{v:0025}どうしたの？",
-   "en": "",
+   "en": "{v:0025}Where'd she go?",
    "term": "end"
   },
   {
    "id": "scen041.0035",
    "jp": "{v:0026}薬に使う薬草を採りに、南の森へ出かけたよ。{p}{v:0027}ま、この街に来たら、遠慮なく寄ってくれ。{n}じゃあな。",
-   "en": "",
+   "en": "{v:0026}She went to the southern forest to gather herbs for{n}medicine.{p}{v:0027}Well, drop by whenever you're in town. See ya.",
    "term": "end"
   },
   {
    "id": "scen041.0036",
    "jp": "風のうわさで聞いたぞ。{n}騎士になったそうじゃないか？{n}さすが、闘技大会で優勝するだけはあるな。",
-   "en": "",
+   "en": "I heard through the grapevine. You've become a knight,{n}eh? Just what I'd expect from a tournament champion.",
    "term": "end"
   },
   {
    "id": "scen041.0037",
    "jp": "ほぉ、以前よりも顔が引き締まっているな。{n}これからも、おごらずに精進していけよ。",
-   "en": "",
+   "en": "Oh, you look more determined than before. Keep working{n}hard, and don't let it go to your head.",
    "term": "end"
   },
   {
    "id": "scen041.0038",
    "jp": "ん？{n}その顔‥‥。{p}おお、君か！{n}優勝おめでとう。",
-   "en": "",
+   "en": "Hm? That face...{p}Oh, it's you! Congratulations on winning.",
    "term": "end"
   },
   {
    "id": "scen041.0039",
    "jp": "それにしても、{n}フレッシュマンがエキスパートに勝つなんて、{n}珍しい試合を見せてもらったよ。",
-   "en": "",
+   "en": "A Freshman beating an Expert, though... Now that was a{n}match you don't see every day.",
    "term": "end"
   },
   {
    "id": "scen041.0040",
    "jp": "くっそう！{n}あの魔法使い、むかつくぜ！{n}人の獲物を横取りしやがって！{p}魔法を唱え終えたまま、じっとしてるから{n}どうも変だなとは思ったんだ。",
-   "en": "",
+   "en": "Damn it! That mage really ticks me off! Stealing my prey{n}like that!{p}I thought something was fishy when he finished{n}chanting his spell and just stood there.",
    "term": "end"
   },
   {
    "id": "scen041.0041",
    "jp": "えっ？{n}きれいな人がこっちに来なかったかって？{FFFB}{n}いや、見てないなぁ‥‥。",
-   "en": "",
+   "en": "Huh? Did a beautiful woman come this way?{FFFB}No, I{n}haven't seen her...",
    "term": "end"
   },
   {
    "id": "scen041.0042",
    "jp": "おや、買い物かい？{n}このグランシルは、なんでもそろってるからな。",
-   "en": "",
+   "en": "Oh, shopping? You can find just about anything here in{n}Grancil.",
    "term": "end"
   },
   {
    "id": "scen041.0043",
    "jp": "おや、買い物かい？{n}このグランシルは、なんでもそろってるからな。{p}‥‥だが、ちょっと値が張るから、{n}今の君たちには、まだ早すぎると思うなぁ。{n}もっとお金に余裕ができてから来るといいよ。",
-   "en": "",
+   "en": "Oh, shopping? You can find just about anything here in{n}Grancil.{p}...But it's rather expensive, so I think it's a little too{n}soon for you. Come back when you have more money{n}to spare.",
    "term": "end"
   },
   {
    "id": "scen041.0044",
    "jp": "えっ、何を楽しそうにしているかって？{n}もうすぐ闘技場前の広場で、{n}{FFEF}フリーマーケット{FFF1}が開かれるのよ♪",
-   "en": "",
+   "en": "Hm? What am I so excited about? There's going to be a{n}{FFEF}flea market{FFF1} in the square in front of the arena soon♪",
    "term": "end"
   },
   {
    "id": "scen041.0045",
    "jp": "あのね、ここの家には{n}{s:0005}と{s:0007}っていう、{n}とっても仲の良い兄妹が住んでいるのよ。",
-   "en": "",
+   "en": "You know, a brother and sister named {s:0005}{n}and {s:0007} live here. They're ever so close.",
    "term": "end"
   },
   {
    "id": "scen041.0046",
    "jp": "ここの家に住んでいる兄妹のお兄さんは、{n}この街でもかなり有名な剣士で、{n}{s:0005}っていう名前なの。",
-   "en": "",
+   "en": "The older brother who lives here is quite a famous{n}swordsman in this town. His name is{n}{s:0005}.",
    "term": "end"
   },
   {
    "id": "scen041.0047",
    "jp": "ここの家に住んでいる兄妹の妹さんは、{n}{s:003A}顔負けの薬草の知識があるのよ。",
-   "en": "",
+   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put {s:003A} to{n}shame.",
    "term": "end"
   },
   {
    "id": "scen041.0048",
    "jp": "{v:007C}お待たせ！",
-   "en": "",
+   "en": "{v:007C}Thanks for waiting!",
    "term": "end"
   },
   {
    "id": "scen041.0049",
    "jp": "{v:007D}よ、話は終わったか？",
-   "en": "",
+   "en": "{v:007D}Hey. Finished talking?",
    "term": "end"
   },
   {
    "id": "scen041.0050",
    "jp": "{v:007E}うん。",
-   "en": "",
+   "en": "{v:007E}Yep.",
    "term": "end"
   },
   {
    "id": "scen041.0051",
    "jp": "{v:007F}そうか。{n}さて、これでコムスプリングスへ行く準備もできたし、{n}いよいよフェザリアンの情報を聞き出せるな。",
-   "en": "",
+   "en": "{v:007F}Good. Well, we're ready to go to Comsprings now. We{n}can finally get some information on the Featherians.",
    "term": "end"
   },
   {
    "id": "scen041.0052",
    "jp": "闘技大会はさすがに参加者の面構えが違うよ。{n}怖くて外を歩けないって。",
-   "en": "",
+   "en": "The tournament contestants sure are a fierce-looking{n}bunch. I'm too scared to walk outside!",
    "term": "end"
   },
   {
    "id": "scen041.0053",
    "jp": "来年の闘技大会が楽しみだ。{n}もちろん君たちも出るんだろう？",
-   "en": "",
+   "en": "I'm looking forward to next year's tournament. You'll be{n}entering too, of course?",
    "term": "end"
   },
   {
    "id": "scen041.0054",
    "jp": "もう少ししたら、コロシアムで{n}１年に１度の闘技大会が開かれるんだ。{n}通常のフリーバトルとは迫力が違うぞ！{p}私としては闘技大会より後に開かれる、{n}フリーマーケットの方に興味があるんだがね。",
-   "en": "",
+   "en": "The annual tournament will be held at the Coliseum{n}soon. It's far more exciting than the usual Free Battle!{p}Personally, though, I'm more interested in the flea{n}market held after the tournament.",
    "term": "end"
   },
   {
    "id": "scen041.0055",
    "jp": "　　　　　　{FFEC}闘技場入り口{FFED}{n}　　　　　～{FFEE}このまま右へお進み下さい{FFF1}～",
-   "en": "",
+   "en": "{FFEC}Arena Entrance{FFED}{n}{FFEE}Please continue to the right{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0056",
    "jp": "{v:0037}つもる話もあるだろう。{n}俺は先に行っている。{p}{v:0038}そうだな。{n}街の入り口あたりで待っている。",
-   "en": "",
+   "en": "{v:0037}You've probably got a lot to catch up on. I'll go on{n}ahead.{p}{v:0038}Let's see... I'll wait near the town entrance.",
    "term": "end"
   },
   {
    "id": "scen041.0057",
    "jp": "{v:0039}気を遣わせてしまったようだな。{n}後で礼を言っておいてくれ。",
-   "en": "",
+   "en": "{v:0039}It seems he was being considerate of us. Please thank{n}him for me later.",
    "term": "end"
   },
   {
    "id": "scen041.0058",
    "jp": "{v:003A}ところで{s:0008}、本当に迷いはなくなったの？",
-   "en": "",
+   "en": "{v:003A}So, {s:0008}, are you really sure of yourself{n}now?",
    "term": "end"
   },
   {
    "id": "scen041.0059",
    "jp": "{v:003B}ああ。{n}今までの私は、父に誉められるために{n}剣術をみがいていた。{p}{v:003C}確かにインペリアル・ナイトになることは{n}名誉なことだが、本来は国と民を守るということだ。{n}私はそれを{s:0127}指してみたい。",
-   "en": "",
+   "en": "{v:003B}Yes. Until now, I honed my swordsmanship to win my{n}father's praise.{p}{v:003C}Becoming an Imperial Knight is certainly an honor, but{n}its true purpose is to protect the country and its{n}people. That is the goal I want to keep my {s:0127}{p}on.",
    "term": "end"
   },
   {
    "id": "scen041.0060",
    "jp": "{s:0008}に何か言いますか？",
-   "en": "",
+   "en": "Say something to {s:0008}?",
    "term": "end"
   },
   {
    "id": "scen041.0061",
    "jp": "・諦めずにがんばるよう励ます",
-   "en": "",
+   "en": "・Encourage perseverance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0062",
    "jp": "・{s:0008}ならなれると素直に賛同する",
-   "en": "",
+   "en": "・Agree that {s:0008} can become one",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0063",
    "jp": "・何も言わない",
-   "en": "",
+   "en": "・Say nothing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0064",
    "jp": "{v:003D}そうよね。難しいことかも知れないけど‥‥。",
-   "en": "",
+   "en": "{v:003D}That's right. It might be hard, but...",
    "term": "end"
   },
   {
    "id": "scen041.0065",
    "jp": "{v:003E}ああ、元よりそのつもりだ。",
-   "en": "",
+   "en": "{v:003E}Yes. That was my intention all along.",
    "term": "end"
   },
   {
    "id": "scen041.0066",
    "jp": "{v:003F}そうそう。だって大会の優勝者でしょ？",
-   "en": "",
+   "en": "{v:003F}Exactly! You're the tournament champion, after all!",
    "term": "end"
   },
   {
    "id": "scen041.0067",
    "jp": "{v:0040}そう簡単なものじゃないけれどな。{n}インペリアル・ナイトには、{n}心技体全てに秀でた者しか叙任されないんだ。{p}{v:0041}剣術だけじゃなく、他の部分も己をみがかないとな。",
-   "en": "",
+   "en": "{v:0040}It is not quite that simple. Only those who excel in mind,{n}skill, and body are appointed Imperial Knights.{p}{v:0041}I must improve more than just my swordsmanship.",
    "term": "end"
   },
   {
    "id": "scen041.0068",
    "jp": "‥‥{v:0042}冗談じゃなく、本気だぞ？",
-   "en": "",
+   "en": "...{v:0042}I am not joking. I mean it, you know?",
    "term": "end"
   },
   {
    "id": "scen041.0069",
    "jp": "{v:0043}がんばってね、{s:0008}さん！",
-   "en": "",
+   "en": "{v:0043}Good luck, {s:0008} -san!",
    "term": "end"
   },
   {
    "id": "scen041.0070",
    "jp": "{v:0044}アタシも応援するからね！",
-   "en": "",
+   "en": "{v:0044}I'll be rooting for you too!",
    "term": "end"
   },
   {
    "id": "scen041.0071",
    "jp": "{v:0045}ありがとう。{p}{v:0046}ところで優勝の賞品はコムスプリングスだって？",
-   "en": "",
+   "en": "{v:0045}Thank you.{p}{v:0046}By the way, I hear your prize for winning is a trip to{n}Comsprings?",
    "term": "end"
   },
   {
    "id": "scen041.0072",
    "jp": "{v:0047}そうだよ！{n}あ、ひょっとして、一緒に行きたいの？",
-   "en": "",
+   "en": "{v:0047}Yep! Oh, do you want to come with us?",
    "term": "end"
   },
   {
    "id": "scen041.0073",
    "jp": "‥‥{v:0048}いやいや、そんなわけじゃない。{p}{v:0049}それに私はバーンシュタイン王国の人間だ。{n}何度か行ったこともあるしな。",
-   "en": "",
+   "en": "...{v:0048}No, no, that is not what I meant.{p}{v:0049}Besides, I am from the Kingdom of Burnstein. I have{n}been there a few times.",
    "term": "end"
   },
   {
    "id": "scen041.0074",
    "jp": "{v:004A}ちぇっ！{n}羨ましがると思ったのにな。",
-   "en": "",
+   "en": "{v:004A}Aww! I thought you'd be jealous.",
    "term": "end"
   },
   {
    "id": "scen041.0075",
    "jp": "{v:004B}ハハッ。{n}とにかく、楽しんでくるといい。{p}{v:004C}さて、そろそろ私も戻らないと。{n}また会えるといいな。",
-   "en": "",
+   "en": "{v:004B}Haha. In any case, enjoy yourselves.{p}{v:004C}Well, I should be getting back. I hope we meet again.",
    "term": "end"
   },
   {
    "id": "scen041.0076",
    "jp": "{v:004D}そうだね。",
-   "en": "",
+   "en": "{v:004D}Me too.",
    "term": "end"
   },
   {
    "id": "scen041.0077",
    "jp": "{v:004E}あ、ちょっと待って！",
-   "en": "",
+   "en": "{v:004E}Oh, wait a second!",
    "term": "end"
   },
   {
    "id": "scen041.0078",
    "jp": "{v:004F}どうした？",
-   "en": "",
+   "en": "{v:004F}What is it?",
    "term": "end"
   },
   {
    "id": "scen041.0079",
    "jp": "ローランディア軍に仕官したんだって？{n}へぇ～、やっぱり優勝者だけあるね。",
-   "en": "",
+   "en": "I hear you've joined the Rolandia army as an officer?{n}Wow, just what I'd expect from a champion.",
    "term": "end"
   },
   {
    "id": "scen041.0080",
    "jp": "闘技大会で街がにぎわうのはいいんだけどね。{n}ちょっと騒がしすぎるんだよな。",
-   "en": "",
+   "en": "It's nice that the tournament brings the town to life,{n}but it gets a little too noisy.",
    "term": "end"
   },
   {
    "id": "scen041.0081",
    "jp": "この街にいれば安全だよ。{p}何でかって？{n}だってここにはたくさんの猛者がいるんだよ。{n}いざとなったら守ってもらうさ。",
-   "en": "",
+   "en": "You're safe as long as you stay in this town.{p}Why? We've got plenty of mighty fighters here. If{n}trouble comes, I'll let them protect me.",
    "term": "end"
   },
   {
    "id": "scen041.0082",
    "jp": "君がフレッシュマンの優勝者なんだって？{n}確かに一{s:0127}見たときから、{n}何か凄いパワーを感じていたんだよ。",
-   "en": "",
+   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught my{n}{s:0127}.",
    "term": "end"
   },
   {
    "id": "scen041.0083",
    "jp": "みんなこの柱を送魔線って呼んでるだろ？{n}でも本当は集魔柱ってのが、正式な名前なんだ。{p}送魔線って呼び方は、まだケーブルでグローシュを{n}転送してた頃の名残なんだ。{n}ま、どうでもいい話だけどね。",
-   "en": "",
+   "en": "Everyone calls these pillars mana lines, right? But their{n}proper name is actually \"mana collection pillars.\"{p}The name \"mana line\" is left over from when they still{n}used cables to transfer Grosh. Well, not that it matters{n}much.",
    "term": "end"
   },
   {
    "id": "scen041.0084",
    "jp": "そこの建物は、コロシアムの運営事務所よ。{n}今は闘技大会の受付をしているわ。",
-   "en": "",
+   "en": "That building is the Coliseum management office. They're{n}taking tournament registrations now.",
    "term": "end"
   },
   {
    "id": "scen041.0085",
    "jp": "ああ、かっこいい戦士さまは来ないかしら？",
-   "en": "",
+   "en": "Ah, I wonder if a handsome warrior will come along...",
    "term": "end"
   },
   {
    "id": "scen041.0086",
    "jp": "え？{n}騎士になった？",
-   "en": "",
+   "en": "Huh? You've become a knight?",
    "term": "end"
   },
   {
    "id": "scen041.0087",
    "jp": "‥‥ふ、ふ～ん、まあまあ、すごいじゃない。{n}す、少しだけ見直してあげるわ‥‥。",
-   "en": "",
+   "en": "...O-oh, really? Well, that's rather impressive. I-I suppose{n}I think a little more highly of you now...",
    "term": "end"
   },
   {
    "id": "scen041.0088",
    "jp": "ああ、{s:0008}様こそ私の理想だわ。{n}うっとり‥‥。",
-   "en": "",
+   "en": "Ah, {s:0008} -sama is everything I've ever{n}dreamed of. *sigh*...",
    "term": "end"
   },
   {
    "id": "scen041.0089",
    "jp": "あっ！？{n}あなた{s:0008}様にまぐれで勝っちゃった人ね！{p}言っておきますけどね、この次はないわよ、絶対に！",
-   "en": "",
+   "en": "Oh?! You're the one who beat {s:0008} -sama{n}by sheer luck!{p}I'm warning you, it won't happen again! Absolutely not!",
    "term": "end"
   },
   {
    "id": "scen041.0090",
    "jp": "きゃっ、{s:0008}様だわ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Eek! It's {s:0008} -sama{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0091",
    "jp": "そこの建物は、コロシアムの運営事務所よ。{n}闘技大会が始まる頃には、そこで受付を行うから{n}私はかっこいい戦士さまを探すつもりなの{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "That building is the Coliseum management office. They'll{n}take registrations there when the tournament is{n}about to begin, so I'll be on the lookout for handsome{p}warriors{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0092",
    "jp": "ふう‥‥。{n}私は戦争よりも妻の方が恐ろしく感じるのだ。{n}‥‥どうしよう。",
-   "en": "",
+   "en": "*sigh*... My wife frightens me more than the war does.{n}...What am I going to do?",
    "term": "end"
   },
   {
    "id": "scen041.0093",
    "jp": "う～ん‥‥みやげを買うだけなのに、{n}こんなにかかってしまった。{p}妻になんと言い訳しようかな‥‥。",
-   "en": "",
+   "en": "Hmm... All I did was buy souvenirs, and it's taken me this{n}long.{p}What excuse can I give my wife...?",
    "term": "end"
   },
   {
    "id": "scen041.0094",
    "jp": "大会も終わったし、{n}なにかみやげでも買って帰るかな‥‥。",
-   "en": "",
+   "en": "Now that the tournament's over, perhaps I'll buy a{n}souvenir or two and head home...",
    "term": "end"
   },
   {
    "id": "scen041.0095",
    "jp": "ここで売っている武器は、間接攻撃武器が多い。{n}これさえあれば、相手の間合いに入ることなく{n}攻撃することができるのだが‥‥。{p}‥‥‥かなり高価なのが問題だ‥‥。{n}街のそばにいる{s:00F2}じゃ、いくら倒しても{n}ここまで貯まりそうにない‥‥。",
-   "en": "",
+   "en": "Many of the weapons sold here are ranged weapons.{n}With one of those, I could attack without stepping{n}within my opponent's reach...{p}...The trouble is, they're quite expensive. No matter how{n}many {s:00F2} I defeat near town, I doubt I{n}could save up that much...",
    "term": "end"
   },
   {
    "id": "scen041.0096",
    "jp": "武器に頼るのは良くないが、実力を発揮するには{n}それなりのものが必要だ。{p}特にここは遠くから攻撃できる間接攻撃武器が多い。{n}これさえあれば、相手の攻撃を受ける前に{n}敵を倒すことができる。{p}‥‥‥ちょっとずるいが、それも戦術だ。",
-   "en": "",
+   "en": "Relying on weapons is unwise, but you need decent{n}equipment to make the most of your abilities.{p}This shop has plenty of ranged weapons in particular.{n}With one of those, you can defeat an enemy from a{n}distance before they can attack you.{p}...It's a little unfair, but that's a tactic too.",
    "term": "end"
   },
   {
    "id": "scen041.0097",
    "jp": "{v:0027}ようお出でなさった。{n}ここでは、いろんな道具を扱っておるんじゃ。",
-   "en": "",
+   "en": "{v:0027}Welcome, welcome. I carry all sorts of items here, you{n}see.",
    "term": "end"
   },
   {
    "id": "scen041.0098",
    "jp": "{v:0028}それで何のご用かのぉ？",
-   "en": "",
+   "en": "{v:0028}Now then, what can I do for you, eh?",
    "term": "end"
   },
   {
    "id": "scen041.0099",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0100",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0101",
    "jp": "他にも用はあるかのぉ？",
-   "en": "",
+   "en": "Anything else you need, eh?",
    "term": "end"
   },
   {
    "id": "scen041.0102",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0103",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0104",
    "jp": "{v:0031}また来ておくれ。",
-   "en": "",
+   "en": "{v:0031}Do come again, now.",
    "term": "end"
   },
   {
    "id": "scen041.0105",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
    "id": "scen041.0106",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
+   "en": "{v:0041}So, are you here to buy or sell?",
    "term": "end"
   },
   {
    "id": "scen041.0107",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0108",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0109",
    "jp": "で、他にも何かある？",
-   "en": "",
+   "en": "So, anything else?",
    "term": "end"
   },
   {
    "id": "scen041.0110",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0111",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0112",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
+   "en": "{v:004B}Come back, won't you? I'll have a lovely smile waiting for{n}you.",
    "term": "end"
   },
   {
    "id": "scen041.0113",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
+   "en": "{v:000C}Welcome. We carry a wide range of equipment.",
    "term": "end"
   },
   {
    "id": "scen041.0114",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
+   "en": "{v:000E}Would you like to make a purchase, or do you have{n}something to sell?",
    "term": "end"
   },
   {
    "id": "scen041.0115",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0116",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0117",
    "jp": "他にもご用はおありですか？",
-   "en": "",
+   "en": "Is there anything else I can do for you?",
    "term": "end"
   },
   {
    "id": "scen041.0118",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0119",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0120",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
+   "en": "{v:0018}Please do visit us again.",
    "term": "end"
   },
   {
    "id": "scen041.0121",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen041.0122",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
+   "en": "{v:0034}Would you like to buy something today, or are you here{n}to sell?",
    "term": "end"
   },
   {
    "id": "scen041.0123",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0124",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0125",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
+   "en": "Is there anything else you need?",
    "term": "end"
   },
   {
    "id": "scen041.0126",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0127",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0128",
    "jp": "人気の商品を仕入れたんですよ。{n}是非、ごらんになって下さい。",
-   "en": "",
+   "en": "We've just stocked a popular item. Please do take a{n}look.",
    "term": "end"
   },
   {
    "id": "scen041.0129",
    "jp": "近々、人気のペンダントを仕入れますので、{n}のぞいてみて下さいね。",
-   "en": "",
+   "en": "We'll be getting some popular pendants in soon, so do{n}stop by.",
    "term": "end"
   },
   {
    "id": "scen041.0130",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
    "id": "scen041.0131",
    "jp": "‥‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen041.0132",
    "jp": "{v:0050}ねぇ、お兄ちゃん。{n}これ、買って！",
-   "en": "",
+   "en": "{v:0050}Hey, Big Brother. Will you buy this for me?",
    "term": "end"
   },
   {
    "id": "scen041.0133",
    "jp": "{FB00}{v:0051}何を言い出すかと思えば‥‥。",
-   "en": "",
+   "en": "{FB00}{v:0051}So that's what this is about...",
    "term": "end"
   },
   {
    "id": "scen041.0134",
    "jp": "{v:0052}あ、何か勘違いしてるぅ～。{n}ちゃんと意味があるんだよ。",
-   "en": "",
+   "en": "{v:0052}Oh, you've got the wrong idea! There's a reason, you{n}know.",
    "term": "end"
   },
   {
    "id": "scen041.0135",
    "jp": "{v:0053}で、何が欲しいの？",
-   "en": "",
+   "en": "{v:0053}So, what do you want?",
    "term": "end"
   },
   {
    "id": "scen041.0136",
    "jp": "{v:0054}これ、これ。{n}{FFF0}プロミス・ペンダント{FFF1}！",
-   "en": "",
+   "en": "{v:0054}This, right here. A {FFF0}Promise Pendant{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen041.0137",
    "jp": "{v:0055}プロミス・ペンダント？",
-   "en": "",
+   "en": "{v:0055}A Promise Pendant?",
    "term": "end"
   },
   {
    "id": "scen041.0138",
    "jp": "{v:0056}このペンダントに誓いを立てるの。{n}そしてその誓いを実行できたとき、{n}望みが叶うんだって。{p}{v:0057}学院の女の子の間で流行ってるんだ。",
-   "en": "",
+   "en": "{v:0056}You make a vow on this pendant. They say that when{n}you fulfill your vow, your wish comes true.{p}{v:0057}They're popular with the girls at the Academy.",
    "term": "end"
   },
   {
    "id": "scen041.0139",
    "jp": "{v:0058}面白そうだな。",
-   "en": "",
+   "en": "{v:0058}That sounds interesting.",
    "term": "end"
   },
   {
    "id": "scen041.0140",
    "jp": "{v:0059}すまない、それを１つ‥‥いや２つ売ってくれ。",
-   "en": "",
+   "en": "{v:0059}Excuse me. I would like one... No, two of those, please.",
    "term": "end"
   },
   {
    "id": "scen041.0141",
    "jp": "{v:005A}ちょっと、{s:0008}！",
-   "en": "",
+   "en": "{v:005A}Hey, {s:0008}!",
    "term": "end"
   },
   {
    "id": "scen041.0142",
    "jp": "{v:005B}優勝の賞金があるからな。{n}君たちが優勝したお祝いだ。",
-   "en": "",
+   "en": "{v:005B}I have my prize money, after all. Think of it as a gift to{n}celebrate your victory.",
    "term": "end"
   },
   {
    "id": "scen041.0143",
    "jp": "　{n}　　{s:0001}は『{FFEF}プロミス[028B][028C][028D][028E]{FFF1}』を貰った！",
-   "en": "",
+   "en": "{s:0001} received a '{FFEF}Promise[028B][028C][028D][028E]{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen041.0144",
    "jp": "{v:005D}ありがとう、{s:0008}さん。",
-   "en": "",
+   "en": "{v:005D}Thank you, {s:0008} -san.",
    "term": "end"
   },
   {
    "id": "scen041.0145",
    "jp": "{v:005E}ねぇ、{s:0008}さんはどんな誓いをたてるの？",
-   "en": "",
+   "en": "{v:005E}So, {s:0008} -san, what kind of vow will you{n}make?",
    "term": "end"
   },
   {
    "id": "scen041.0146",
    "jp": "{v:005F}私はこのペンダントにナイトになることを誓おう。",
-   "en": "",
+   "en": "{v:005F}I shall vow upon this pendant to become a knight.",
    "term": "end"
   },
   {
    "id": "scen041.0147",
    "jp": "{v:0060}それで、望みは？",
-   "en": "",
+   "en": "{v:0060}And your wish?",
    "term": "end"
   },
   {
    "id": "scen041.0148",
    "jp": "{v:0061}そうだな。{n}『{FFEF}もう一度、みんなと会えるように{FFF1}』{n}これが私の望みだ。",
-   "en": "",
+   "en": "{v:0061}Let me see. '{FFEF}May I meet all of you again{FFF1}.' That is my{n}wish.",
    "term": "end"
   },
   {
    "id": "scen041.0149",
    "jp": "{v:0062}なんだか控えめな望みね。",
-   "en": "",
+   "en": "{v:0062}That's a pretty modest wish.",
    "term": "end"
   },
   {
    "id": "scen041.0150",
    "jp": "{v:0063}君は何を誓うんだい？",
-   "en": "",
+   "en": "{v:0063}What will you vow to do?",
    "term": "end"
   },
   {
    "id": "scen041.0151",
    "jp": "{FFF6}{FFF3}{v:0064}う～ん‥‥。",
-   "en": "",
+   "en": "{FFF6}{FFF3}{v:0064}Hmm...",
    "term": "end"
   },
   {
    "id": "scen041.0152",
    "jp": "{v:0065}あ、そうだ！",
-   "en": "",
+   "en": "{v:0065}Oh, I know!",
    "term": "end"
   },
   {
    "id": "scen041.0153",
    "jp": "{v:0066}わたし、お兄ちゃんを泣かせてみせる！",
-   "en": "",
+   "en": "{v:0066}I'm going to make Big Brother cry!",
    "term": "end"
   },
   {
    "id": "scen041.0154",
    "jp": "{FB00}‥{FE1E}‥{FE1E}{v:0067}あのね‥‥。",
-   "en": "",
+   "en": "{FB00}.{FE1E}..{FE1E}{v:0067}Now, listen...",
    "term": "end"
   },
   {
    "id": "scen041.0155",
    "jp": "{v:0068}だって、わたし、お兄ちゃんの涙って{n}見たことないんだよ？{n}わたしのことは泣き虫っていじめるのに‥‥。",
-   "en": "",
+   "en": "{v:0068}But I've never seen Big Brother cry, you know? And he{n}teases me for being a crybaby...",
    "term": "end"
   },
   {
    "id": "scen041.0156",
    "jp": "{v:0069}ハハハ‥‥。{p}{v:006A}いいんじゃないかな？{n}それで、何を望むんだい？",
-   "en": "",
+   "en": "{v:0069}Hahaha...{p}{v:006A}That sounds fine to me. And what is your wish?",
    "term": "end"
   },
   {
    "id": "scen041.0157",
    "jp": "{v:006B}ええと、『{FFEF}みんなが幸せになれますように{FFF1}』かな？",
-   "en": "",
+   "en": "{v:006B}Um... '{FFEF}May everyone be happy{FFF1},' I think?",
    "term": "end"
   },
   {
    "id": "scen041.0158",
    "jp": "{v:006C}今度はずいぶん大きく出たな‥‥。",
-   "en": "",
+   "en": "{v:006C}Now that is quite an ambitious wish...",
    "term": "end"
   },
   {
    "id": "scen041.0159",
    "jp": "{v:006D}やっぱり、変かな‥‥？",
-   "en": "",
+   "en": "{v:006D}Is it strange after all...?",
    "term": "end"
   },
   {
    "id": "scen041.0160",
    "jp": "{v:006E}アンタ、今すぐ泣きなさいよ。{n}それでみんなが幸せになれるんだから。",
-   "en": "",
+   "en": "{v:006E}Hey, you! Start crying right now! Then everyone can be{n}happy!",
    "term": "end"
   },
   {
    "id": "scen041.0161",
    "jp": "泣きますか？",
-   "en": "",
+   "en": "Will you cry?",
    "term": "end"
   },
   {
    "id": "scen041.0162",
    "jp": "・泣く",
-   "en": "",
+   "en": "・Cry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0163",
    "jp": "・笑う",
-   "en": "",
+   "en": "・Laugh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0164",
    "jp": "・困る",
-   "en": "",
+   "en": "・Look troubled",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0165",
    "jp": "・絶対に泣かない！",
-   "en": "",
+   "en": "・Absolutely refuse to cry!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0166",
    "jp": "{v:006F}ああ、ダメだよ！{n}わたしがやらないと意味がないんだから！",
-   "en": "",
+   "en": "{v:006F}Oh, no! That won't do! It doesn't count unless I'm the{n}one who makes him cry!",
    "term": "end"
   },
   {
    "id": "scen041.0167",
    "jp": "{v:0070}チェッ！",
-   "en": "",
+   "en": "{v:0070}Hmph!",
    "term": "end"
   },
   {
    "id": "scen041.0168",
    "jp": "{v:0071}笑ってどうすんのよ！",
-   "en": "",
+   "en": "{v:0071}What's laughing going to do?!",
    "term": "end"
   },
   {
    "id": "scen041.0169",
    "jp": "‥‥{v:0072}アタシが悪かったわ。{p}{v:0073}でも、とりあえずアタシは、{n}{s:0001}ちゃんの味方をするからね？",
-   "en": "",
+   "en": "...{v:0072}Okay, my fault.{p}{v:0073}But just so you know, I'm taking {s:0001}{n}-chan's side!",
    "term": "end"
   },
   {
    "id": "scen041.0170",
    "jp": "{v:0074}イ・ジ・ワ・ルね、アンタ！",
-   "en": "",
+   "en": "{v:0074}You are such a MEA-NY!",
    "term": "end"
   },
   {
    "id": "scen041.0171",
    "jp": "{v:0075}わたし、絶対にお兄ちゃんを泣かせてみせるからね？{n}覚悟して！",
-   "en": "",
+   "en": "{v:0075}I'm going to make you cry, Big Brother! Just you wait!",
    "term": "end"
   },
   {
    "id": "scen041.0172",
    "jp": "{v:0076}大変なことになったな。{n}彼女の意志は固そうだ。注意してくれよ。",
-   "en": "",
+   "en": "{v:0076}You are in trouble now. She seems quite determined.{n}Watch yourself.",
    "term": "end"
   },
   {
    "id": "scen041.0173",
    "jp": "{v:0077}さて、今度こそ戻らなくてはならないから。{n}次に会うときまでにナイトになれるように、{n}がんばるよ。",
-   "en": "",
+   "en": "{v:0077}Well, I really must get back this time. I'll work hard to{n}become a knight before we meet again.",
    "term": "end"
   },
   {
    "id": "scen041.0174",
    "jp": "{v:0078}そうだね。{n}そのナイトになれたら、{n}ペンダントの力で会えるもんね！",
-   "en": "",
+   "en": "{v:0078}Right! Once you're a knight, we can meet through the{n}pendant's power!",
    "term": "end"
   },
   {
    "id": "scen041.0175",
    "jp": "{v:0079}がんばってね、{s:0008}さん！",
-   "en": "",
+   "en": "{v:0079}Good luck, {s:0008} -san!",
    "term": "end"
   },
   {
    "id": "scen041.0176",
    "jp": "{v:007A}みんなも元気でな。",
-   "en": "",
+   "en": "{v:007A}Take care, all of you.",
    "term": "end"
   },
   {
    "id": "scen041.0177",
    "jp": "{v:007B}さ、お兄ちゃん。{n}わたし達も行きましょ。{n}{s:0002}さんが待ってるよ！",
-   "en": "",
+   "en": "{v:007B}Come on, Big Brother. Let's go, too. {s:0002}{n}-san is waiting!",
    "term": "end"
   },
   {
    "id": "scen041.0178",
    "jp": "南へ行くときは気をつけた方がいいぜ。{n}毒を持った{s:00F2}が多いからな。",
-   "en": "",
+   "en": "Watch yourself if you're heading south. You'll run into{n}one venomous {s:00F2} after another down{n}there.",
    "term": "end"
   },
   {
    "id": "scen041.0179",
    "jp": "やあ、どうだいローザリアでの評判は？",
-   "en": "",
+   "en": "Hey, how's your reputation in Rosaria?",
    "term": "end"
   },
   {
    "id": "scen041.0180",
    "jp": "君、ローザリアの人だったんだね？{n}試合を見せて貰ったよ。",
-   "en": "",
+   "en": "So you're from Rosaria? I watched your match.",
    "term": "end"
   },
   {
    "id": "scen041.0181",
    "jp": "おや、君はどこの田舎から出てきたんだい？",
-   "en": "",
+   "en": "Well, what backwater did you come from?",
    "term": "end"
   },
   {
    "id": "scen041.0182",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
    "term": "end"
   },
   {
    "id": "scen041.0183",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
    "id": "scen041.0184",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0185",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0186",
    "jp": "まだ何か用か？",
-   "en": "",
+   "en": "Need anything else?",
    "term": "end"
   },
   {
    "id": "scen041.0187",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0188",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0189",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
+   "en": "{v:0025}See ya.",
    "term": "end"
   },
   {
    "id": "scen041.0190",
    "jp": "私はお花を売っています、るるる～♪",
-   "en": "",
+   "en": "I sell flowers, la la la♪",
    "term": "end"
   },
   {
    "id": "scen041.0191",
    "jp": "かわいい花束はいかがですか～♪",
-   "en": "",
+   "en": "Would you like a lovely bouquet?♪",
    "term": "end"
   },
   {
    "id": "scen041.0192",
    "jp": "・買う",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0193",
    "jp": "・買わない",
-   "en": "",
+   "en": "・Don't buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0194",
    "jp": "また来て下さいね～♪",
-   "en": "",
+   "en": "Do come again♪",
    "term": "end"
   },
   {
    "id": "scen041.0195",
    "jp": "闘技場前広場",
-   "en": "",
+   "en": "Arena Square",
    "term": "end"
   },
   {
    "id": "scen041.0196",
    "jp": "{v:003C}うわ～、大きいね。",
-   "en": "",
+   "en": "{v:003C}Wow, it's huge!",
    "term": "end"
   },
   {
    "id": "scen041.0197",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "",
+   "en": "{v:003D}Well, fighters come here from all over the continent.",
    "term": "end"
   },
   {
    "id": "scen041.0198",
    "jp": "{v:003E}{s:0002}さんも出たことがあるの？",
-   "en": "",
+   "en": "{v:003E}Have you competed here too, {s:0002} -san?",
    "term": "end"
   },
   {
    "id": "scen041.0199",
    "jp": "{v:003F}かなり昔のことだがな。{n}あの頃は両{s:0127}も右腕も自前だった。",
-   "en": "",
+   "en": "{v:003F}A long time ago. Back then, my left and right {s:0127}{n}and my right arm were still my own.",
    "term": "end"
   },
   {
    "id": "scen041.0200",
    "jp": "{v:0040}それで、出場した結果は？",
-   "en": "",
+   "en": "{v:0040}So, how did you do?",
    "term": "end"
   },
   {
    "id": "scen041.0201",
    "jp": "{v:0041}エキスパート部門で優勝を３回している‥‥。",
-   "en": "",
+   "en": "{v:0041}Won the Expert division three times...",
    "term": "end"
   },
   {
    "id": "scen041.0202",
    "jp": "{v:0042}ええっ！すごい！{n}どこからかスカウトされなかった？",
-   "en": "",
+   "en": "{v:0042}What?! That's amazing! Didn't anyone try to recruit you?",
    "term": "end"
   },
   {
    "id": "scen041.0203",
    "jp": "{v:0043}バーンシュタイン王国やランザック王国なんか{n}すぐに飛んできたが、性に合わなくてな。{n}結局、傭兵団にいた。",
-   "en": "",
+   "en": "{v:0043}Burnstein and Ranzak were among the kingdoms that{n}came running. Wasn't the life for me. Stayed with the{n}mercenary company in the end.",
    "term": "end"
   },
   {
    "id": "scen041.0204",
    "jp": "{v:0044}もったいない‥‥。",
-   "en": "",
+   "en": "{v:0044}What a waste...",
    "term": "end"
   },
   {
    "id": "scen041.0205",
    "jp": "{v:0045}だが、後悔はしてないぜ。",
-   "en": "",
+   "en": "{v:0045}Never regretted it, though.",
    "term": "end"
   },
   {
    "id": "scen041.0206",
    "jp": "{v:0046}ここでは毎日のように猛者たちの腕試しが{n}行われているんだ。{p}{v:0047}今は年に一度の大会の準備中だから入れないけどね。{n}大会が終わればいつも通りになるよ。",
-   "en": "",
+   "en": "{v:0046}Strong fighters test their skills here almost every day.{p}{v:0047}You can't go in now. They're preparing for the annual{n}tournament. Things will be back to normal once it's{n}over.",
    "term": "end"
   },
   {
    "id": "scen041.0207",
    "jp": "大会が終わったばかりだから、{n}しばらくの間、閉鎖だよ。",
-   "en": "",
+   "en": "The tournament just ended, so we're closed for a{n}while.",
    "term": "end"
   },
   {
    "id": "scen041.0208",
    "jp": "もう若くもないし、衰えを感じるよ。",
-   "en": "",
+   "en": "I'm not young anymore. I can feel myself slowing down.",
    "term": "end"
   },
   {
    "id": "scen041.0209",
    "jp": "今年もさっぱりだったな。{n}もう若くもないし、衰えを感じるよ。",
-   "en": "",
+   "en": "Another lousy showing this year. I'm not young{n}anymore. I can feel myself slowing down.",
    "term": "end"
   },
   {
    "id": "scen041.0210",
    "jp": "もうじき闘技大会か‥‥。{n}次こそは、上位に‥‥。",
-   "en": "",
+   "en": "The tournament's almost here... This time, I'll place{n}higher...",
    "term": "end"
   },
   {
    "id": "scen041.0211",
    "jp": "一昨年、フレッシュマン部門では準決勝まで{n}進んだんだがな。{n}去年のエキスパートでは全然上に行けなかった。{p}‥‥やはり、甘くはない。",
-   "en": "",
+   "en": "Two years ago, I made it to the semifinals in the{n}Freshman division. Last year, I didn't get anywhere in{n}Expert.{p}...It's every bit as tough as they say.",
    "term": "end"
   },
   {
    "id": "scen041.0212",
    "jp": "いくら修行して強くなったと思っても、{n}上には上がいるものだ。",
-   "en": "",
+   "en": "No matter how hard you train or how strong you think{n}you've become, there's always someone stronger.",
    "term": "end"
   },
   {
    "id": "scen041.0213",
    "jp": "今年はみっちり修行を積んできたからな。{n}簡単には負けないぜ！",
-   "en": "",
+   "en": "I've trained hard this year. I won't go down easy!",
    "term": "end"
   },
   {
    "id": "scen041.0214",
    "jp": "大会前に闘技場の下見に来たんだ。{p}‥‥武者震いするぜ。",
-   "en": "",
+   "en": "Came to look the arena over before the tournament.{p}...I'm shaking with excitement.",
    "term": "end"
   },
   {
    "id": "scen041.0215",
    "jp": "２回戦負けだったけど、{n}強い奴と戦えて俺は満足だ。",
-   "en": "",
+   "en": "I lost in the second round, but I got to fight someone{n}strong. That's good enough for me.",
    "term": "end"
   },
   {
    "id": "scen041.0216",
    "jp": "毎日身体を鍛えているか？{n}なまった身体は、簡単には元に戻らないぞ。",
-   "en": "",
+   "en": "You keeping in shape every day? Let yourself get{n}rusty, and getting back into shape won't be easy.",
    "term": "end"
   },
   {
    "id": "scen041.0217",
    "jp": "優勝は無理でも、強い奴と戦えればいいのさ！{n}お前も俺と戦うか？",
-   "en": "",
+   "en": "Even if I can't win the championship, I'm happy as long{n}as I get a good fight! You want to take me on, too?",
    "term": "end"
   },
   {
    "id": "scen041.0218",
    "jp": "来年は俺も闘技大会に出てみようかな？{n}月に１度は運動をかかしてないし‥‥。{n}優勝は無理でも、準優勝くらいなら‥‥。",
-   "en": "",
+   "en": "Maybe I'll enter the tournament next year. I never{n}miss my monthly workout... Winning might be a stretch,{n}but second place...",
    "term": "end"
   },
   {
    "id": "scen041.0219",
    "jp": "{s:0005}は今回、調子が悪かったみたいだな。{n}本調子ならきっと優勝していたよ。",
-   "en": "",
+   "en": "Looks like {s:0005} was off his game this{n}time. At his best, he'd have won for sure.",
    "term": "end"
   },
   {
    "id": "scen041.0220",
    "jp": "今年の大会には{s:0005}が参加するらしいぞ。{n}地元出身だし、俺も応援しなくっちゃ。{p}ん？　君も出るのかい？{n}だったら運営事務所に受付があるから、{n}そこで登録して来ないとな。",
-   "en": "",
+   "en": "I hear {s:0005} is entering this year's{n}tournament. He's a local, so I've got to cheer him on.{p}Hm? You're entering, too? Then you'll need to register{n}at the reception desk in the administration office.",
    "term": "end"
   },
   {
    "id": "scen041.0221",
    "jp": "来年は全部あんたたちに賭けるからな。{n}今から期待してるぜ！",
-   "en": "",
+   "en": "Next year, I'm betting everything on you lot. I'm{n}counting on you!",
    "term": "end"
   },
   {
    "id": "scen041.0222",
    "jp": "闘技大会が始まると、{n}すぐに小遣いがなくなるんだよな‥‥。{p}えっ、なんでなくなるかって？{n}それは言えない‥‥。",
-   "en": "",
+   "en": "Once the tournament starts, my spending money{n}disappears in no time...{p}Huh? Where does it all go? Can't tell you that...",
    "term": "end"
   },
   {
    "id": "scen041.0223",
    "jp": "どう？{n}すっかり普通の女の子に見えるでしょ？",
-   "en": "",
+   "en": "Well? I look just like an ordinary girl now, don't I?",
    "term": "end"
   },
   {
    "id": "scen041.0224",
    "jp": "それより今は、フリーマーケットに興味があるの！{n}もうじき、この場所にはいろんな品物が並ぶのよ！{n}‥‥ふふふ、たのしみ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "I'm much more interested in the flea market right now!{n}Soon this whole place will be full of all sorts of things{n}for sale! ...Hee hee, I can't wait{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0225",
    "jp": "闘技大会が終わったら気が抜けちゃった‥‥。{n}しばらくは普通の女の子に戻るわ。",
-   "en": "",
+   "en": "Now that the tournament's over, I've lost all my{n}drive... I'll go back to being an ordinary girl for a while.",
    "term": "end"
   },
   {
    "id": "scen041.0226",
    "jp": "私、闘技大会の{s:0120}なんだ。{n}こう見えても、けっこう強いのよ。{p}驚いた？{n}‥‥ふふふ。",
-   "en": "",
+   "en": "I'm a tournament {s:0120}, you know. I may{n}not look it, but I'm quite strong.{p}Surprised? ...Hee hee.",
    "term": "end"
   },
   {
    "id": "scen041.0227",
    "jp": "コロシアム運営事務所",
-   "en": "",
+   "en": "Coliseum Administration Office",
    "term": "end"
   },
   {
    "id": "scen041.0228",
    "jp": "闘技大会の参加受付だよ。君も参加する気かい？",
-   "en": "",
+   "en": "This is tournament registration. Thinking of entering,{n}too?",
    "term": "end"
   },
   {
    "id": "scen041.0229",
    "jp": "まだ準備中だから、{n}しばらくしたら、またここへおいで。",
-   "en": "",
+   "en": "We're still getting ready. Come back in a little while.",
    "term": "end"
   },
   {
    "id": "scen041.0230",
    "jp": "そうだね。{n}観戦するだけでも面白いからね。",
-   "en": "",
+   "en": "Fair enough. Just watching is fun, too.",
    "term": "end"
   },
   {
    "id": "scen041.0231",
    "jp": "調子はどうだい？",
-   "en": "",
+   "en": "How are you doing?",
    "term": "end"
   },
   {
    "id": "scen041.0232",
    "jp": "優勝したそうだね。{n}おめでとう。",
-   "en": "",
+   "en": "I hear you won the championship. Congratulations.",
    "term": "end"
   },
   {
    "id": "scen041.0233",
    "jp": "がんばっておいで。",
-   "en": "",
+   "en": "Go give it your best.",
    "term": "end"
   },
   {
    "id": "scen041.0234",
    "jp": "闘技大会の参加受付だよ。{p}登録は済んでいるって？{n}もう始まるから、急いでコロシアムに{n}行ったほうがいいよ。",
-   "en": "",
+   "en": "This is tournament registration.{p}You're already registered? It's about to begin, so you'd{n}better hurry to the Coliseum.",
    "term": "end"
   },
   {
    "id": "scen041.0235",
    "jp": "闘技大会の参加受付だよ。",
-   "en": "",
+   "en": "This is tournament registration.",
    "term": "end"
   },
   {
    "id": "scen041.0236",
    "jp": "お兄さんも参加するかい？",
-   "en": "",
+   "en": "Will you be entering too, young man?",
    "term": "end"
   },
   {
    "id": "scen041.0237",
    "jp": "{v:0001}そうこなくっちゃ！",
-   "en": "",
+   "en": "{v:0001}That's more like it!",
    "term": "end"
   },
   {
    "id": "scen041.0238",
    "jp": "{v:0002}もう、お兄ちゃんったら。",
-   "en": "",
+   "en": "{v:0002}Oh, Big Brother...",
    "term": "end"
   },
   {
    "id": "scen041.0239",
    "jp": "{v:0003}ここに名前を書いて‥‥。{p}{v:0004}おや、あなたは初参加だね。{n}それならフレッシュマンの部になるよ。{n}登録は２名だから、そっちの女の子でいいね？",
-   "en": "",
+   "en": "{v:0003}Write your name here...{p}{v:0004}Oh, this is your first time entering. That puts you in the{n}Freshman division. You'll need to register as a pair. The{n}girl with you will be your partner, then?",
    "term": "end"
   },
   {
    "id": "scen041.0240",
    "jp": "{v:0005}えっ！？",
-   "en": "",
+   "en": "{v:0005}What?!",
    "term": "end"
   },
   {
    "id": "scen041.0241",
    "jp": "{v:0006}フレッシュマンの部の優勝賞品は、{n}温泉街への旅行チケットだ！{p}{v:0007}しかも場所は、バーンシュタイン王国の{n}コムスプリングス。{p}{v:0008}夏は王侯貴族の避暑地として、{n}冬は身体を暖める温泉として、{n}一生に一度は行ってみたい、あこがれの街だ！{p}{v:0009}めったにないチャンスだから、{n}優勝狙って、がんばりな！",
-   "en": "",
+   "en": "{v:0006}The prize for winning the Freshman division is a travel{n}ticket to a hot spring town!{p}{v:0007}And that town is Comsprings, in the Kingdom of{n}Burnstein.{p}{v:0008}A summer retreat for royalty and nobles, with hot{n}springs to warm you in winter! It's the town everyone{n}dreams of visiting at least once!{p}{v:0009}Chances like this don't come often. Aim for the{n}championship and give it your best!",
    "term": "end"
   },
   {
    "id": "scen041.0242",
    "jp": "‥‥{v:000A}だ、ダメだよ、わたしなんか‥‥。",
-   "en": "",
+   "en": "...{v:000A}N-no, I couldn't... Someone like me...",
    "term": "end"
   },
   {
    "id": "scen041.0243",
    "jp": "{v:000B}温泉旅行だって♪{n}がんばってね、{s:0001}ちゃん★",
-   "en": "",
+   "en": "{v:000B}A hot spring trip!♪ Give it your best, {s:0001}{n}-chan!",
    "term": "end"
   },
   {
    "id": "scen041.0244",
    "jp": "‥‥{v:000C}そんなぁ‥‥。",
-   "en": "",
+   "en": "...{v:000C}But... I can't...",
    "term": "end"
   },
   {
    "id": "scen041.0245",
    "jp": "{v:000D}おいおい、優勝すれば{n}コムスプリングスへ行けるんだぞ？{n}こんなチャンスを放っておく手はないじゃないか。{p}{v:000E}この２人をフレッシュマンの部に登録してくれ。",
-   "en": "",
+   "en": "{v:000D}Now, hold on. Win this, and we get to go to{n}Comsprings. We can't let a chance like that slip by.{p}{v:000E}Sign these two up for the Freshman division.",
    "term": "end"
   },
   {
    "id": "scen041.0246",
    "jp": "{v:000F}妹の{s:0001}さんと２人だね。{p}{v:0010}はい。登録したよ。{p}{v:0011}もう始まるから、急いでコロシアムに{n}行ったほうがいいよ。",
-   "en": "",
+   "en": "{v:000F}You and your sister, {s:0001} -san, then.{p}{v:0010}There. You're registered.{p}{v:0011}It's about to begin, so you'd better hurry to the{n}Coliseum.",
    "term": "end"
   },
   {
    "id": "scen041.0247",
    "jp": "グランシルは都会じゃろ？{n}ローランディアで１番、栄えてると思うんじゃが{n}どうかのう？{p}ず～っと昔、グランシルはこの辺りで栄えた{n}国家だったらしくてのう。{n}おそらくその名残じゃろう。",
-   "en": "",
+   "en": "Grancil's quite a city, eh? I'd say it's the most{n}prosperous in Rolandia. What do you think?{p}Long, long ago, Grancil was apparently a thriving nation{n}hereabouts. I suppose what you see now is a remnant{n}of those days.",
    "term": "end"
   },
   {
    "id": "scen041.0248",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "",
+   "en": "{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the challenge{n}yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0249",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
+   "en": "If you wish to stay with us, please sign the register{n}here.",
    "term": "end"
   },
   {
    "id": "scen041.0250",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {
    "id": "scen041.0251",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
+   "en": "Thank you for staying with us. Have a safe journey.",
    "term": "end"
   },
   {
    "id": "scen041.0252",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
+   "en": "Sir...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
    "id": "scen041.0253",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
+   "en": "We look forward to your next visit.",
    "term": "end"
   },
   {
    "id": "scen041.0254",
    "jp": "私はこう見えてもオペラ歌手なのよ。{n}ただ、いい劇場がなくて、公演が出来ないのよ。{n}あなた、どこかいい場所を知らない？",
-   "en": "",
+   "en": "I may not look it, but I'm an opera singer. I just can't{n}find a suitable theater, so I haven't been able to{n}perform. Do you know a good place?",
    "term": "end"
   },
   {
    "id": "scen041.0255",
    "jp": "バーバラに公演を依頼しますか？",
-   "en": "",
+   "en": "Ask Barbara to perform?",
    "term": "end"
   },
   {
    "id": "scen041.0256",
    "jp": "私を雇ってくれるの？{n}手付け金は１０００エルムでいいわ。",
-   "en": "",
+   "en": "You'd like to hire me? A deposit of 1,000 Elm will do.",
    "term": "end"
   },
   {
    "id": "scen041.0257",
    "jp": "・やっぱりやめる",
-   "en": "",
+   "en": "・Change your mind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0258",
    "jp": "・公演を依頼する",
-   "en": "",
+   "en": "・Request a performance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0259",
    "jp": "場所は？{n}‥‥{s:0010}ね？",
-   "en": "",
+   "en": "Where? ...{s:0010}, is it?",
    "term": "end"
   },
   {
    "id": "scen041.0260",
    "jp": "お金をためて、また誘ってね。",
-   "en": "",
+   "en": "Save up some money and ask me again, dear.",
    "term": "end"
   },
   {
    "id": "scen041.0261",
    "jp": "あら、残念だわ。",
-   "en": "",
+   "en": "Oh, what a shame.",
    "term": "end"
   },
   {
    "id": "scen041.0262",
    "jp": "歌の邪魔をしないで！",
-   "en": "",
+   "en": "Don't interrupt my singing!",
    "term": "end"
   },
   {
    "id": "scen041.0263",
    "jp": "{s:0005}の家",
-   "en": "",
+   "en": "{s:0005}'s House",
    "term": "end"
   },
   {
    "id": "scen041.0264",
    "jp": "失礼しま～す。",
-   "en": "",
+   "en": "Hello? Coming in!",
    "term": "end"
   },
   {
    "id": "scen041.0265",
    "jp": "‥‥{v:0028}{s:0007}‥‥。",
-   "en": "",
+   "en": "...{v:0028}{s:0007}...",
    "term": "end"
   },
   {
    "id": "scen041.0266",
    "jp": "{v:0029}お{s:003A}さんは何だって？",
-   "en": "",
+   "en": "{v:0029}What did the {s:003A} say?",
    "term": "end"
   },
   {
    "id": "scen041.0267",
    "jp": "{v:002A}どうやら刃に毒が塗ってあったらしい。{n}毒自体は珍しいものじゃなく、{n}すでに解毒剤を飲ませたが‥‥。",
-   "en": "",
+   "en": "{v:002A}Seems the blade was coated with poison. The poison{n}itself isn't anything unusual. They've already given her{n}an antidote, but...",
    "term": "end"
   },
   {
    "id": "scen041.0268",
    "jp": "{v:002B}{FFF5}出来るだけ早く手術しないと、{n}危険な状態だって‥‥。",
-   "en": "",
+   "en": "{v:002B}{FFF5}They said she's in danger unless they operate as soon{n}as possible...",
    "term": "end"
   },
   {
    "id": "scen041.0269",
    "jp": "{v:002C}{s:0007}さん、かわいそう‥‥。",
-   "en": "",
+   "en": "{v:002C}Poor {s:0007} -san...",
    "term": "end"
   },
   {
    "id": "scen041.0270",
    "jp": "‥‥{v:002D}礼を言うよ。{n}もし君たちがいなければ、{n}{s:0007}は死んでいたかも知れない。",
-   "en": "",
+   "en": "...{v:002D}I owe you my thanks. If you hadn't been there, {s:0007}{n}might have died.",
    "term": "end"
   },
   {
    "id": "scen041.0271",
    "jp": "{v:002E}そんな‥‥。",
-   "en": "",
+   "en": "{v:002E}You don't have to thank us...",
    "term": "end"
   },
   {
    "id": "scen041.0272",
    "jp": "‥‥{v:002F}うむ。{n}俺たちがもう少し早く通りかかっていれば、{n}こんな事にはならなかったかもしれん。",
-   "en": "",
+   "en": "...{v:002F}Hmm. If we'd come along a little sooner, this might{n}never have happened.",
    "term": "end"
   },
   {
    "id": "scen041.0273",
    "jp": "{v:0030}しかし、あの男は何者なんだ？{n}どうして彼女を斬ったりしたのか‥‥。",
-   "en": "",
+   "en": "{v:0030}But who was that man? Why would he cut her down...?",
    "term": "end"
   },
   {
    "id": "scen041.0274",
    "jp": "{v:0031}犯人は王都の西で{s:0007}さんを襲ったあいつだよ。{n}ねぇ、何か心当たりはないの？",
-   "en": "",
+   "en": "{v:0031}It was the same guy who attacked {s:0007}{n}-san west of the royal capital. Hey, do you have any{n}idea what this could be about?",
    "term": "end"
   },
   {
    "id": "scen041.0275",
    "jp": "{v:0032}最近、あの連中が{s:0007}を狙っていたのは確かだ。{n}だが、どう考えても心当たりはない‥‥。",
-   "en": "",
+   "en": "{v:0032}Those people have definitely been after {s:0007}{n}lately. But no matter how I look at it, I can't think of a{n}reason...",
    "term": "end"
   },
   {
    "id": "scen041.0276",
    "jp": "{v:0033}{s:0005}さん‥‥。",
-   "en": "",
+   "en": "{v:0033}{s:0005} -san...",
    "term": "end"
   },
   {
    "id": "scen041.0277",
    "jp": "{v:0034}ああ、大丈夫だ。{p}{v:0035}よかったら、暇なときにでも{n}見舞いに来てくれないか？",
-   "en": "",
+   "en": "{v:0034}Yeah, I'm all right.{p}{v:0035}Would you come visit her when you have some time?",
    "term": "end"
   },
   {
    "id": "scen041.0278",
    "jp": "{v:0036}うん！{n}また来るよ！",
-   "en": "",
+   "en": "{v:0036}Of course! We'll be back!",
    "term": "end"
   },
   {
    "id": "scen041.0279",
    "jp": "‥‥{v:0037}ありがとう。",
-   "en": "",
+   "en": "...{v:0037}Thank you.",
    "term": "end"
   },
   {
    "id": "scen041.0280",
    "jp": "どこ行くつもり？",
-   "en": "",
+   "en": "Where do you think you're going?",
    "term": "end"
   },
   {
    "id": "scen041.0281",
    "jp": "{s:0005}さん、いないね？{n}闘技大会は終わったのに‥‥。",
-   "en": "",
+   "en": "{s:0005} -san isn't here, is he? But the{n}tournament's over...",
    "term": "end"
   },
   {
    "id": "scen041.0282",
    "jp": "{s:0007}さんもいないよ！？",
-   "en": "",
+   "en": "{s:0007} -san isn't here either?!",
    "term": "end"
   },
   {
    "id": "scen041.0283",
    "jp": "いったい、どこへ行ったんだろう？",
-   "en": "",
+   "en": "Where could they have gone?",
    "term": "end"
   },
   {
    "id": "scen041.0284",
    "jp": "アンタねぇ。{n}今はそっとしておいてあげないとダメでしょ？",
-   "en": "",
+   "en": "Hey, you! You're supposed to give her some peace and{n}quiet right now!",
    "term": "end"
   },
   {
    "id": "scen041.0285",
    "jp": "早く元気になってね、{s:0007}さん。",
-   "en": "",
+   "en": "Get well soon, {s:0007} -san.",
    "term": "end"
   },
   {
    "id": "scen041.0286",
    "jp": "お見舞いに花束を置いていきますか？",
-   "en": "",
+   "en": "Leave a bouquet as a get-well gift?",
    "term": "end"
   },
   {
    "id": "scen041.0287",
    "jp": "{FFF3}‥‥‥‥。",
-   "en": "",
+   "en": "{FFF3}......",
    "term": "end"
   },
   {
    "id": "scen041.0288",
    "jp": "　{n}　　　　　　　{FFEF}ヘアブラシ{FFF1}がある。",
-   "en": "",
+   "en": "There is a {FFEF}Hairbrush{FFF1} here.",
    "term": "end"
   },
   {
    "id": "scen041.0289",
    "jp": "{v:0037}これ、{s:0007}さんのだよね？{n}長い髪が残ってる‥‥。",
-   "en": "",
+   "en": "{v:0037}This belongs to {s:0007} -san, right? There{n}are some long hairs still in it...",
    "term": "end"
   },
   {
    "id": "scen041.0290",
    "jp": "{v:0038}この髪で{s:0007}さんの呪いが解けるのね？",
-   "en": "",
+   "en": "{v:0038}We can use this hair to lift {s:0007} -san's{n}curse, right?",
    "term": "end"
   },
   {
    "id": "scen041.0291",
    "jp": "　{n}　　　　『{FFEF}{s:0007}の髪の毛{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}{s:0007}'s Hair{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen041.0292",
    "jp": "{s:0007}の使っているドレッサーだ。{n}高価なものではないが、化粧品などがある。",
-   "en": "",
+   "en": "This is the dresser {s:0007} uses. It's{n}nothing expensive, but there are cosmetics and other{n}things on it.",
    "term": "end"
   },
   {
    "id": "scen041.0293",
    "jp": "俺の力が必要ってわけだな？",
-   "en": "",
+   "en": "So you need my strength?",
    "term": "end"
   },
   {
    "id": "scen041.0294",
    "jp": "‥‥手伝って欲しいのか？",
-   "en": "",
+   "en": "...You want my help?",
    "term": "end"
   },
   {
    "id": "scen041.0295",
    "jp": "どうするの？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen041.0296",
    "jp": "・{s:0005}をメンバーに加える",
-   "en": "",
+   "en": "・Add {s:0005} to the party",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0297",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add him for now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0298",
    "jp": "でも、{s:0004}君は外せないし‥‥。",
-   "en": "",
+   "en": "But we can't leave {s:0004} -kun out...",
    "term": "end"
   },
   {
    "id": "scen041.0299",
    "jp": "僕が外れるしかないね。",
-   "en": "",
+   "en": "I suppose I'll have to step out.",
    "term": "end"
   },
   {
    "id": "scen041.0300",
    "jp": "私が外れるしかありませんね。",
-   "en": "",
+   "en": "It seems I must be the one to step out.",
    "term": "end"
   },
   {
    "id": "scen041.0301",
    "jp": "うるる‥‥。{n}アタシが外れるんですねぇ‥‥。",
-   "en": "",
+   "en": "Sniff... So I'm the one being left out...",
    "term": "end"
   },
   {
    "id": "scen041.0302",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
+   "en": "But we can't take any more people. Someone has to{n}leave the party.",
    "term": "end"
   },
   {
    "id": "scen041.0303",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
+   "en": "Who will you remove from the party?",
    "term": "end"
   },
   {
    "id": "scen041.0304",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0305",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen041.0306",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
+   "en": "Reclaim {s:FFEE}'s equipment?",
    "term": "end"
   },
   {
    "id": "scen041.0307",
    "jp": "　{n}　　　　　　{FFEF}{s:0005}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}{s:0005} joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen041.0308",
    "jp": "がんばらせて、もらうぜ。",
-   "en": "",
+   "en": "I'll give it all I've got.",
    "term": "end"
   },
   {
    "id": "scen041.0309",
    "jp": "なんだ、違うのかよ。",
-   "en": "",
+   "en": "What, that's not it?",
    "term": "end"
   },
   {
    "id": "scen041.0310",
    "jp": "‥‥そうか‥‥",
-   "en": "",
+   "en": "...I see...",
    "term": "end"
   },
   {
    "id": "scen041.0311",
    "jp": "{s:0007}さんが寝ているんだから、{n}静かに外に出ようよ‥‥。",
-   "en": "",
+   "en": "{s:0007} is sleeping, so let's slip outside{n}quietly...",
    "term": "end"
   },
   {
    "id": "scen041.0312",
    "jp": "お兄ちゃん！{n}{s:0002}さんを残して、どうするつもり？",
-   "en": "",
+   "en": "Big Brother! What are you doing, leaving {s:0002}{n}behind?",
    "term": "end"
   },
   {
    "id": "scen041.0313",
    "jp": "おい？{n}街を見て回るんじゃないのか？",
-   "en": "",
+   "en": "Hey. Weren't we going to look around town?",
    "term": "end"
   }
  ]

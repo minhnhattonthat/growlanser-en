@@ -15,337 +15,337 @@
   {
    "id": "scen024.0001",
    "jp": "ルイセ",
-   "en": "",
+   "en": "Luise",
    "term": "null"
   },
   {
    "id": "scen024.0002",
    "jp": "ティピ",
-   "en": "",
+   "en": "Tippi",
    "term": "null"
   },
   {
    "id": "scen024.0003",
    "jp": "ウォレス",
-   "en": "",
+   "en": "Wallace",
    "term": "null"
   },
   {
    "id": "scen024.0004",
    "jp": "ミーシャ",
-   "en": "",
+   "en": "Misha",
    "term": "null"
   },
   {
    "id": "scen024.0005",
    "jp": "魔法学院生徒",
-   "en": "",
+   "en": "Magic Academy Student",
    "term": "null"
   },
   {
    "id": "scen024.0006",
    "jp": "吟遊詩人",
-   "en": "",
+   "en": "Bard",
    "term": "null"
   },
   {
    "id": "scen024.0007",
    "jp": "アリオスト",
-   "en": "",
+   "en": "Ariost",
    "term": "null"
   },
   {
    "id": "scen024.0008",
    "jp": "行商人",
-   "en": "",
+   "en": "Peddler",
    "term": "null"
   },
   {
    "id": "scen024.0009",
    "jp": "警備兵",
-   "en": "",
+   "en": "Guard",
    "term": "null"
   },
   {
    "id": "scen024.0010",
    "jp": "送魔線技師",
-   "en": "",
+   "en": "Mana Line Engineer",
    "term": "null"
   },
   {
    "id": "scen024.0011",
    "jp": "{v:0000}ここがわたしが通ってる魔法学院だよ。{n}お兄ちゃん、学院について詳しく聞きたい？",
-   "en": "",
+   "en": "{v:0000}This is the Magic Academy I attend. Would you like to{n}hear more about it, Big Brother?",
    "term": "end"
   },
   {
    "id": "scen024.0012",
    "jp": "{v:0001}ここはね、ローランディア王国と{n}バーンシュタイン王国が共同で作った学校なんだよ。",
-   "en": "",
+   "en": "{v:0001}You see, the kingdoms of Rolandia and Burnstein{n}founded this school together.",
    "term": "end"
   },
   {
    "id": "scen024.0013",
    "jp": "{v:0002}へぇ。{n}どうして２つの国が共同したの？",
-   "en": "",
+   "en": "{v:0002}Huh. Why did two countries team up?",
    "term": "end"
   },
   {
    "id": "scen024.0014",
    "jp": "{v:0003}知識の独占を防ぐためだって言ってたよ。{n}魔法は便利だけど、危険なものだから、{n}それを集中して管理するのがこの学院の目的なの。",
-   "en": "",
+   "en": "{v:0003}They said it was to keep either country from{n}monopolizing knowledge. Magic is useful, but it's{n}dangerous, too. The Academy's purpose is to manage it{p}all in one place.",
    "term": "end"
   },
   {
    "id": "scen024.0015",
    "jp": "{v:0004}なるほど。",
-   "en": "",
+   "en": "{v:0004}I see.",
    "term": "end"
   },
   {
    "id": "scen024.0016",
    "jp": "{v:0005}ここで研究されて{n}新しく見つかった魔法とか技術は、{n}両国に報告されるんだ。{p}{v:0006}そして基本的には学院が許可したもの以外は、{n}外に持ち出してはいけないことになってるの。",
-   "en": "",
+   "en": "{v:0005}Any new magic or technology discovered through{n}research here is reported to both kingdoms.{p}{v:0006}And as a rule, nothing can be taken outside without{n}the Academy's permission.",
    "term": "end"
   },
   {
    "id": "scen024.0017",
    "jp": "{v:0007}学校というよりは、研究機関だな。",
-   "en": "",
+   "en": "{v:0007}More a research institute than a school, then.",
    "term": "end"
   },
   {
    "id": "scen024.0018",
    "jp": "{v:0008}ふふっ、そうだね。",
-   "en": "",
+   "en": "{v:0008}Hee hee, that's right.",
    "term": "end"
   },
   {
    "id": "scen024.0019",
    "jp": "{v:0009}それじゃ、中に入ろうか。",
-   "en": "",
+   "en": "{v:0009}Shall we go inside, then?",
    "term": "end"
   },
   {
    "id": "scen024.0020",
    "jp": "魔法学院",
-   "en": "",
+   "en": "Magic Academy",
    "term": "end"
   },
   {
    "id": "scen024.0021",
    "jp": "ちょっと、どこへ行く気よ？",
-   "en": "",
+   "en": "Hey! Where do you think you're going?",
    "term": "end"
   },
   {
    "id": "scen024.0022",
    "jp": "{v:000A}お兄さま～っ！",
-   "en": "",
+   "en": "{v:000A}Big Brotherrr!",
    "term": "end"
   },
   {
    "id": "scen024.0023",
    "jp": "{v:000B}お仕事大変ですね。{n}何かあったら、遠慮なく呼んでくださいね。{p}{v:000C}それじゃ、失礼します。",
-   "en": "",
+   "en": "{v:000B}Your work must be so demanding. If you need{n}anything, please don't hesitate to call me!{p}{v:000C}Well, I'll be going now.",
    "term": "end"
   },
   {
    "id": "scen024.0024",
    "jp": "{v:000D}何なのかしら、あの娘‥‥。",
-   "en": "",
+   "en": "{v:000D}What's with that girl...?",
    "term": "end"
   },
   {
    "id": "scen024.0025",
    "jp": "{v:0069}あ～、楽しかった♪{n}今度はどこ行くの？",
-   "en": "",
+   "en": "{v:0069}Ahh, that was fun♪ Where are we going next?",
    "term": "end"
   },
   {
    "id": "scen024.0026",
    "jp": "{FFF3}{FB00}{FE1E}{FFF4}{v:006A}あのね、ミーシャ‥‥。",
-   "en": "",
+   "en": "{FFF3}{FB00}{FE1E}{FFF4}{v:006A}Um, Misha...",
    "term": "end"
   },
   {
    "id": "scen024.0027",
    "jp": "{v:006B}ちょっと！",
-   "en": "",
+   "en": "{v:006B}Wait!",
    "term": "end"
   },
   {
    "id": "scen024.0028",
    "jp": "{v:006C}どうしたの、アリオストさん？",
-   "en": "",
+   "en": "{v:006C}What's wrong, Ariost-san?",
    "term": "end"
   },
   {
    "id": "scen024.0029",
    "jp": "{v:006D}ちょっと、黙って‥‥。{p}{FFF6}{FFF3}‥{FE1E}‥{FE1E}‥{FE1E}‥。{n}{FC02}{FFF7}{FFF4}{v:006E}あれは‥‥。",
-   "en": "",
+   "en": "{v:006D}Be quiet for a moment...{p}{FFF6}{FFF3}...{FE1E}...{FE1E}...{FE1E}... {FC02}{FFF7}{FFF4}{v:006E}That's...",
    "term": "end"
   },
   {
    "id": "scen024.0030",
    "jp": "{v:006F}歌声‥‥か？",
-   "en": "",
+   "en": "{v:006F}Singing...?",
    "term": "end"
   },
   {
    "id": "scen024.0031",
    "jp": "{v:0070}えっ？{n}何か聞こえるの？",
-   "en": "",
+   "en": "{v:0070}Huh? You can hear something?",
    "term": "end"
   },
   {
    "id": "scen024.0032",
    "jp": "‥‥{v:0071}間違いない！",
-   "en": "",
+   "en": "...{v:0071}There's no mistaking it!",
    "term": "end"
   },
   {
    "id": "scen024.0033",
    "jp": "{v:0072}アリオストさん！",
-   "en": "",
+   "en": "{v:0072}Ariost-san!",
    "term": "end"
   },
   {
    "id": "scen024.0034",
    "jp": "{v:0073}ねぇ、ウォレスさん、何か聞こえるの？",
-   "en": "",
+   "en": "{v:0073}Say, Wallace-san, can you hear something?",
    "term": "end"
   },
   {
    "id": "scen024.0035",
    "jp": "{v:0074}歌声だ。{n}聞こえないか？",
-   "en": "",
+   "en": "{v:0074}Singing. Can't you hear it?",
    "term": "end"
   },
   {
    "id": "scen024.0036",
    "jp": "{FB00}{v:0075}ウォレスさんって、耳がいいんだ。",
-   "en": "",
+   "en": "{FB00}{v:0075}You've got sharp ears, Wallace-san.",
    "term": "end"
   },
   {
    "id": "scen024.0037",
    "jp": "{v:0076}とにかく、行ってみようよ。",
-   "en": "",
+   "en": "{v:0076}Anyway, let's go and see.",
    "term": "end"
   },
   {
    "id": "scen024.0038",
    "jp": "ここは研究に向いてていいよね～。{n}グローシアン遺跡やフェザリアン遺跡が{n}そばにあるし、水晶鉱山もそこそこ近いし。{p}それにローランディアとバーンシュタインの{n}国境沿いでもあるから、学院の立地条件としては{n}まさに最高って感じだな～。",
-   "en": "",
+   "en": "This is a great place for research, isn't it? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away, either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
    "term": "end"
   },
   {
    "id": "scen024.0039",
    "jp": "私は薬学を専攻しているから、{n}メディス村とラシェルにしか、用はないけどね。",
-   "en": "",
+   "en": "I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
    "term": "end"
   },
   {
    "id": "scen024.0040",
    "jp": "この前、効能の研究だって、{n}コムスプリングスへ遊びに行ってなかったっけ？",
-   "en": "",
+   "en": "Didn't you go off to Comsprings for fun the other day,{n}claiming you were researching its health benefits?",
    "term": "end"
   },
   {
    "id": "scen024.0041",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "",
+   "en": "How rude! Hot springs are a perfectly valid subject of{n}research!",
    "term": "end"
   },
   {
    "id": "scen024.0042",
    "jp": "机にかじりつくだけが学問ではないと思うの。{n}やっぱり外に出ていろいろな経験を積まないと。{n}でも、この学院ってば勉強ばっかりで‥‥。",
-   "en": "",
+   "en": "I don't think learning is just about sitting at a desk.{n}You need to get outside and experience things, too.{n}But this Academy is all study, study, study...",
    "term": "end"
   },
   {
    "id": "scen024.0043",
    "jp": "って言うかさ～。{n}魔法の才能がある人間を押し込めて、{n}管理してるんじゃないの？{p}教授とかもさ～、アブナイ奴いるからな～。{n}ま、俺は魔法の勉強が出来ればいいや。",
-   "en": "",
+   "en": "Or maybe they're just keeping everyone with a talent{n}for magic cooped up here so they can control us?{p}Some of the professors are pretty dangerous{n}characters, too. Oh well. As long as I get to study{n}magic, I'm happy.",
    "term": "end"
   },
   {
    "id": "scen024.0044",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "",
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
    "term": "end"
   },
   {
    "id": "scen024.0045",
    "jp": "でも、今は戦争やってるし‥‥。{n}ああ、勉強にも身が入らなくなる～。",
-   "en": "",
+   "en": "But there's a war going on now... Ahh, I can't even{n}concentrate on my studies!",
    "term": "end"
   },
   {
    "id": "scen024.0046",
    "jp": "でも、今は怪物が暴れてるし‥‥。{n}ああ、勉強にも身が入らなくなる～。",
-   "en": "",
+   "en": "But monsters are running wild now... Ahh, I can't even{n}concentrate on my studies!",
    "term": "end"
   },
   {
    "id": "scen024.0047",
    "jp": "結局は何がしたいのよ、アンタは‥‥[01BE]",
-   "en": "",
+   "en": "What DO you want to do, then...?[01BE]",
    "term": "end"
   },
   {
    "id": "scen024.0048",
    "jp": "ん？{n}君たちはグローシアンなのかい？{p}最近、よく魔法学院にグローシアンが来るものでね。{n}てっきりそうだと思ったんだが、違うようだね。",
-   "en": "",
+   "en": "Hmm? Are you Growsians?{p}We've had so many Growsians visiting the Magic Academy{n}lately. I assumed you were, too, but it seems I was{n}mistaken.",
    "term": "end"
   },
   {
    "id": "scen024.0049",
    "jp": "ルイセちゃんはグローシアンだよ。",
-   "en": "",
+   "en": "Luise-chan is a Growsian.",
    "term": "end"
   },
   {
    "id": "scen024.0050",
    "jp": "そうだったね。",
-   "en": "",
+   "en": "Oh, that's right.",
    "term": "end"
   },
   {
    "id": "scen024.0051",
    "jp": "ん？{n}最近、よく見かける顔だな。{n}まさかここの学生じゃないよね？",
-   "en": "",
+   "en": "Hmm? I've seen you around a lot lately. You're not{n}students here, are you?",
    "term": "end"
   },
   {
    "id": "scen024.0052",
    "jp": "武器が欲しいんだけど、{n}ワンドにするかカードにするか悩むなぁ‥‥。{p}カードは遠くにいる敵に攻撃できるし、{n}ワンドは魔法の威力を強くするし‥‥。{n}ワンドカードなんて売ってないかなぁ‥‥。",
-   "en": "",
+   "en": "I want a weapon, but I can't decide between a Wand{n}and Cards...{p}Cards can hit distant enemies, but a Wand makes your{n}magic stronger... I wonder if anyone sells Wand Cards...",
    "term": "end"
   },
   {
    "id": "scen024.0053",
    "jp": "‥‥{v:0077}小鳥の声がささやくよ。{n}‥‥風の音がささやくよ。{n}‥‥月の光は優しくて‥‥。",
-   "en": "",
+   "en": "...{v:0077}The little birds whisper.{n}...The wind whispers.{n}...The moonlight is gentle...",
    "term": "end"
   },
   {
    "id": "scen024.0054",
    "jp": "{v:0078}すみません！{n}その歌‥‥。",
-   "en": "",
+   "en": "{v:0078}Excuse me! That song...",
    "term": "end"
   },
   {
    "id": "scen024.0055",
    "jp": "{v:0079}な、何だ。{n}歌の邪魔をしないでくれ。",
-   "en": "",
+   "en": "{v:0079}W-what is it? Please don't interrupt my singing.",
    "term": "end"
   },
   {
    "id": "scen024.0056",
    "jp": "{v:007A}その歌をどこで知ったのですか？",
-   "en": "",
+   "en": "{v:007A}Where did you learn that song?",
    "term": "end"
   },
   {

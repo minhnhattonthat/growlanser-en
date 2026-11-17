@@ -1,6 +1,7 @@
 """tl_run.py: run translation batches through `codex exec` (no subagents in an Orca worker; translation.md §Review).
 
-    python -X utf8 tools/tl_run.py pipeline [bNNN ..|--all] [-j 6]   translate -> check -> review -> fix -> merge
+    python -X utf8 tools/tl_run.py pipeline [bNNN ..|--all] [-j 6] [--lock NAME]   translate -> check -> review
+                                                                      -> fix -> merge
     python -X utf8 tools/tl_run.py synopsis [-j 6]                    scene summaries -> docs/synopsis.md draft
     python -X utf8 tools/tl_run.py status                             per-batch state
 
@@ -44,7 +45,8 @@ def codex(prompt, tag):
             r = subprocess.run([shutil.which("codex"), "exec", "-s", "read-only", "--skip-git-repo-check", "-o",
                                 str(out), "-"], input=prompt, text=True, encoding="utf-8", cwd=ROOT,
                                capture_output=True, timeout=3600)
-            (LOG / f"{tag}.stderr.txt").write_text((r.stderr or "")[-4000:], encoding="utf-8")
+            (LOG / f"{tag}.stderr.txt").write_text((r.stderr or "")[-4000:] + f"\n[rc {r.returncode}] stdout tail:\n"
+                                                    + (r.stdout or "")[-2000:], encoding="utf-8")
         except subprocess.TimeoutExpired:
             pass
         if out.exists() and out.stat().st_size:
@@ -247,7 +249,9 @@ def main(argv):
         return 0
     if argv[:1] != ["pipeline"] or not names:
         sys.exit(__doc__)
-    lock = TL / "run.lock"  # one runner at a time: two would translate and merge the same batches
+    # one runner at a time: two would translate and merge the same batches. `--lock NAME` = a second runner, only
+    # when the first can no longer write (e.g. its codex calls fail) or the batch sets are disjoint
+    lock = TL / (argv[argv.index("--lock") + 1] if "--lock" in argv else "run.lock")
     if lock.exists():
         pid = lock.read_text().strip()
         alive = subprocess.run(["tasklist", "/FI", f"PID eq {pid}"], capture_output=True, text=True).stdout

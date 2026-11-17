@@ -27,7 +27,7 @@
   {
    "id": "scen029.0003",
    "jp": "バイト店員",
-   "en": "Part-Time Shop Assistant",
+   "en": "Part-Time Clerk",
    "term": "null"
   },
   {
@@ -373,7 +373,7 @@
   {
    "id": "scen029.0059",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 - Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -548,49 +548,49 @@
   {
    "id": "scen029.0087",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "・7F - Headmaster's Office",
+   "en": "・7F Headmaster's Office",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0088",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "・6F - Pharmaceutical Research",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0089",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "・5F - Special Collections Reading Room",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0090",
    "jp": "・４Ｆ　図書室",
-   "en": "・4F - Library",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0091",
    "jp": "・３Ｆ　講義室",
-   "en": "・3F - Lecture Rooms",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0092",
    "jp": "・１Ｆ　学食",
-   "en": "・1F - Cafeteria",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0093",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 - Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -743,49 +743,49 @@
   {
    "id": "scen029.0118",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "・7F - Headmaster's Office",
+   "en": "・7F Headmaster's Office",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0119",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "・6F - Pharmaceutical Research",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0120",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "・5F - Special Collections Reading Room",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0121",
    "jp": "・４Ｆ　図書室",
-   "en": "・4F - Library",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0122",
    "jp": "・２Ｆ　講義室",
-   "en": "・2F - Lecture Rooms",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0123",
    "jp": "・１Ｆ　学食",
-   "en": "・1F - Cafeteria",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0124",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 - Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -884,49 +884,49 @@
   {
    "id": "scen029.0140",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "・7F - Headmaster's Office",
+   "en": "・7F Headmaster's Office",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0141",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "・6F - Pharmaceutical Research",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0142",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "・5F - Special Collections Reading Room",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0143",
    "jp": "・３Ｆ　講義室",
-   "en": "・3F - Lecture Rooms",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0144",
    "jp": "・２Ｆ　講義室",
-   "en": "・2F - Lecture Rooms",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0145",
    "jp": "・１Ｆ　学食",
-   "en": "・1F - Cafeteria",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen029.0146",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 - Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -1133,7 +1133,7 @@
   {
    "id": "scen029.0179",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -1238,7 +1238,7 @@
   {
    "id": "scen029.0195",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -1463,7 +1463,7 @@
   {
    "id": "scen029.0231",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -2010,7 +2010,7 @@
   {
    "id": "scen029.0321",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "・5F Special Collections Reading Room",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
    "unref": true
   },
@@ -2045,7 +2045,7 @@
   {
    "id": "scen029.0326",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "・B1 Special Research Laboratories",
+   "en": "・B1 Special Research Labs",
    "term": "end",
    "unref": true
   },
@@ -2095,7 +2095,7 @@
   {
    "id": "scen029.0334",
    "jp": "魔法学院・特別研究室フロア",
-   "en": "Magic Academy - Special Research Laboratories",
+   "en": "Magic Academy - Special Research Labs",
    "term": "end"
   },
   {
@@ -2128,7 +2128,7 @@
   {
    "id": "scen029.0339",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "・5F Special Collections Reading Room",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
    "unref": true
   },

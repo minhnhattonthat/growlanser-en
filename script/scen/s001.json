@@ -949,13 +949,13 @@
   {
    "id": "scen001.0154",
    "jp": "ここは南大通り商店街です。",
-   "en": "This is the South Main Street Shopping District.",
+   "en": "This is the South Avenue Shopping District.",
    "term": "end"
   },
   {
    "id": "scen001.0155",
    "jp": "ここは南大通り商店街です。{n}お店の改装が終われば、にぎやかになりますよ。",
-   "en": "This is the South Main Street Shopping District. It'll be{n}lively here once the shops finish their renovations.",
+   "en": "This is the South Avenue Shopping District. It'll be{n}lively here once the shops finish their renovations.",
    "term": "end"
   },
   {

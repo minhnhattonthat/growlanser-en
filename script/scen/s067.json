@@ -15,1209 +15,1209 @@
   {
    "id": "scen067.0001",
    "jp": "管理人",
-   "en": "",
+   "en": "Caretaker",
    "term": "null"
   },
   {
    "id": "scen067.0002",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen067.0003",
    "jp": "女性客",
-   "en": "",
+   "en": "Female Guest",
    "term": "null"
   },
   {
    "id": "scen067.0004",
    "jp": "旅人",
-   "en": "",
+   "en": "Traveler",
    "term": "null"
   },
   {
    "id": "scen067.0005",
    "jp": "ダンジョンマン",
-   "en": "",
+   "en": "Dungeon Man",
    "term": "null"
   },
   {
    "id": "scen067.0006",
    "jp": "観光客",
-   "en": "",
+   "en": "Tourist",
    "term": "null"
   },
   {
    "id": "scen067.0007",
    "jp": "女性姉",
-   "en": "",
+   "en": "Older Sister",
    "term": "null"
   },
   {
    "id": "scen067.0008",
    "jp": "女性妹",
-   "en": "",
+   "en": "Younger Sister",
    "term": "null"
   },
   {
    "id": "scen067.0009",
    "jp": "男性客",
-   "en": "",
+   "en": "Male Guest",
    "term": "null"
   },
   {
    "id": "scen067.0010",
    "jp": "ボート乗り場係員",
-   "en": "",
+   "en": "Boat Dock Attendant",
    "term": "null"
   },
   {
    "id": "scen067.0011",
    "jp": "{s:0000}の領地",
-   "en": "",
+   "en": "{s:0000}'s Estate",
    "term": "end"
   },
   {
    "id": "scen067.0012",
    "jp": "{v:0000}ここがそうなの？{n}何にもない所だよ？",
-   "en": "",
+   "en": "{v:0000}This is the place? There's nothing here!",
    "term": "end"
   },
   {
    "id": "scen067.0013",
    "jp": "{v:0001}お待ちしておりました、ご主人様。{n}ここはあなたがつくる街です。{n}何なりとお申し付け下さい。",
-   "en": "",
+   "en": "{v:0001}I have been awaiting your arrival, my lord. This is the{n}town you will build. I am at your command.",
    "term": "end"
   },
   {
    "id": "scen067.0014",
    "jp": "{v:0002}何なりとって、何を言えばいいのかな？",
-   "en": "",
+   "en": "{v:0002}At your command? What are we supposed to ask for?",
    "term": "end"
   },
   {
    "id": "scen067.0015",
    "jp": "{v:0003}手順は簡単でございます。{p}{v:0004}まず、ご主人様がおつくりになりたい施設を{n}お選びください。{p}{v:0005}そして施設をつくるのに必要な資金を{n}払っていただきます。{p}{v:0006}後は私の方で業者などを手配し、すぐに施設を{n}つくらせます。{p}{v:0007}また施設の運営などにかかる人件費は、運営で得た{n}収益から行います。{p}{v:0008}出来上がった施設は増改築を行うことで、{n}更に良い施設へと発展します。",
-   "en": "",
+   "en": "{v:0003}The procedure is quite simple.{p}{v:0004}First, my lord, please select the facility you wish to{n}build.{p}{v:0005}Next, you will pay the funds required for its{n}construction.{p}{v:0006}I will then arrange for contractors and have the{n}facility built at once.{p}{v:0007}Staff wages and other operating expenses will be{n}covered by the facility's earnings.{p}{v:0008}Once built, facilities can be developed further through{n}expansion and renovation.",
    "term": "end"
   },
   {
    "id": "scen067.0016",
    "jp": "{v:0009}もう一度、ご説明いたしましょうか？",
-   "en": "",
+   "en": "{v:0009}Shall I explain once more?",
    "term": "end"
   },
   {
    "id": "scen067.0017",
    "jp": "{v:000A}では最初に、この街の名前をお決め下さい。",
-   "en": "",
+   "en": "{v:000A}Now, to begin, please choose a name for this town.",
    "term": "end"
   },
   {
    "id": "scen067.0018",
    "jp": "ねぇ、ねぇ、お兄さま{FFF0}♥{FFF1}{FFFB}{n}街の名前って、みんなで決めませんかぁ？",
-   "en": "",
+   "en": "Oh, Big Brother{FFF0}♥{FFF1}{FFFB} Couldn't we all choose the town's{n}name together?",
    "term": "end"
   },
   {
    "id": "scen067.0019",
    "jp": "{FB00}ちょ、ちょっと、ミーシャ！",
-   "en": "",
+   "en": "{FB00}W-wait a minute, Misha!",
    "term": "end"
   },
   {
    "id": "scen067.0020",
    "jp": "あら、いい考えだと思いますが‥‥。",
-   "en": "",
+   "en": "Oh, I think that is a lovely idea...",
    "term": "end"
   },
   {
    "id": "scen067.0021",
    "jp": "{FB00}カレンさんまで‥‥。",
-   "en": "",
+   "en": "{FB00}You too, Karen-san...?",
    "term": "end"
   },
   {
    "id": "scen067.0022",
    "jp": "むふふっ♪{n}何だか面白そ～！",
-   "en": "",
+   "en": "Hehehe♪ This sounds like fuuun!",
    "term": "end"
   },
   {
    "id": "scen067.0023",
    "jp": "ま、{s:0000}の街だ。{n}お前が納得する方法で選べばいいさ。",
-   "en": "",
+   "en": "Well, it's your town, {s:0000}. Choose{n}however you like.",
    "term": "end"
   },
   {
    "id": "scen067.0024",
    "jp": "街の名前はどうしますか？",
-   "en": "",
+   "en": "How will you choose the town's name?",
    "term": "end"
   },
   {
    "id": "scen067.0025",
    "jp": "・必ずみんなの候補から選ぶ",
-   "en": "",
+   "en": "・Promise to use one of their suggestions.",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0026",
    "jp": "・とりあえず、みんなの意見を聞く",
-   "en": "",
+   "en": "・Hear their suggestions first.",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0027",
    "jp": "・断固、自分で決める",
-   "en": "",
+   "en": "・Insist on choosing it yourself.",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0028",
    "jp": "どれにしますか？",
-   "en": "",
+   "en": "Which will you choose?",
    "term": "end"
   },
   {
    "id": "scen067.0029",
    "jp": "・{FFEF}カラジューム{FFF1}（ミーシャ）",
-   "en": "",
+   "en": "・{FFEF}Caladium{FFF1} (Misha)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0030",
    "jp": "・{FFEF}ムスカリ{FFF1}（ミーシャ）",
-   "en": "",
+   "en": "・{FFEF}Muscari{FFF1} (Misha)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0031",
    "jp": "・{FFEF}グローランド{FFF1}（カレン）",
-   "en": "",
+   "en": "・{FFEF}Growland{FFF1} (Karen)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0032",
    "jp": "・{FFEF}ワイワイランド{FFF1}（ルイセ）",
-   "en": "",
+   "en": "・{FFEF}Waiwai Land{FFF1} (Luise)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0033",
    "jp": "・{FFEF}ワクワクランド{FFF1}（ルイセ）",
-   "en": "",
+   "en": "・{FFEF}Wakuwaku Land{FFF1} (Luise)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0034",
    "jp": "・{FFEF}{s:0000}{FFF1}（ウォレス）",
-   "en": "",
+   "en": "・{FFEF}{s:0000}{FFF1} (Wallace)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0035",
    "jp": "・{FFEF}ティピちゃん王国{FFF1}",
-   "en": "",
+   "en": "・{FFEF}Kingdom of Tippi-chan{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0036",
    "jp": "カラジューム",
-   "en": "",
+   "en": "Caladium",
    "term": "end"
   },
   {
    "id": "scen067.0037",
    "jp": "うふふっ！{n}嬉しいですぅ♪",
-   "en": "",
+   "en": "Heehee! I'm so happyyy♪",
    "term": "end"
   },
   {
    "id": "scen067.0038",
    "jp": "ムスカリ",
-   "en": "",
+   "en": "Muscari",
    "term": "end"
   },
   {
    "id": "scen067.0039",
    "jp": "グローランド",
-   "en": "",
+   "en": "Growland",
    "term": "end"
   },
   {
    "id": "scen067.0040",
    "jp": "選んでもらえて光栄です。",
-   "en": "",
+   "en": "I'm honored you chose my suggestion.",
    "term": "end"
   },
   {
    "id": "scen067.0041",
    "jp": "ワイワイランド",
-   "en": "",
+   "en": "Waiwai Land",
    "term": "end"
   },
   {
    "id": "scen067.0042",
    "jp": "ほ、本当にいいのかなぁ‥‥。",
-   "en": "",
+   "en": "A-are you really sure about this...?",
    "term": "end"
   },
   {
    "id": "scen067.0043",
    "jp": "ワクワクランド",
-   "en": "",
+   "en": "Wakuwaku Land",
    "term": "end"
   },
   {
    "id": "scen067.0044",
    "jp": "{s:0000}",
-   "en": "",
+   "en": "{s:0000}",
    "term": "end"
   },
   {
    "id": "scen067.0045",
    "jp": "後悔してねぇならいいさ‥‥。",
-   "en": "",
+   "en": "Long as you don't regret it...",
    "term": "end"
   },
   {
    "id": "scen067.0046",
    "jp": "ティピちゃん王国",
-   "en": "",
+   "en": "Kingdom of Tippi-chan",
    "term": "end"
   },
   {
    "id": "scen067.0047",
    "jp": "じょ、冗談だったのにぃ～‥‥。{FFFB}{n}{FB00}でも、ちょっと嬉しいかも‥‥♪",
-   "en": "",
+   "en": "I-I was only jooooking...{FFFB}{FB00} But... maybe I'm a little happy{n}about it...♪",
    "term": "end"
   },
   {
    "id": "scen067.0048",
    "jp": "どれにしますか？",
-   "en": "",
+   "en": "Which will you choose?",
    "term": "end"
   },
   {
    "id": "scen067.0049",
    "jp": "・{FFEF}カラジューム{FFF1}（ミーシャ）",
-   "en": "",
+   "en": "・{FFEF}Caladium{FFF1} (Misha)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0050",
    "jp": "・{FFEF}ムスカリ{FFF1}（ミーシャ）",
-   "en": "",
+   "en": "・{FFEF}Muscari{FFF1} (Misha)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0051",
    "jp": "・{FFEF}グローランド{FFF1}（カレン）",
-   "en": "",
+   "en": "・{FFEF}Growland{FFF1} (Karen)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0052",
    "jp": "・{FFEF}ワイワイランド{FFF1}（ルイセ）",
-   "en": "",
+   "en": "・{FFEF}Waiwai Land{FFF1} (Luise)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0053",
    "jp": "・{FFEF}ワクワクランド{FFF1}（ルイセ）",
-   "en": "",
+   "en": "・{FFEF}Wakuwaku Land{FFF1} (Luise)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0054",
    "jp": "・{FFEF}{s:0000}{FFF1}（ウォレス）",
-   "en": "",
+   "en": "・{FFEF}{s:0000}{FFF1} (Wallace)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0055",
    "jp": "・{FFEF}ティピちゃん王国{FFF1}",
-   "en": "",
+   "en": "・{FFEF}Kingdom of Tippi-chan{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0056",
    "jp": "・自分で考える",
-   "en": "",
+   "en": "・Think of a name yourself.",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0057",
    "jp": "ちぇっ！{n}つまんないのぉ～！",
-   "en": "",
+   "en": "Hmph! You're no fuuun!",
    "term": "end"
   },
   {
    "id": "scen067.0058",
    "jp": "{v:000F}施設を増改築なさるのですね。{n}どの施設になさいますか？",
-   "en": "",
+   "en": "{v:000F}You wish to expand or renovate a facility? Which{n}facility shall it be?",
    "term": "end"
   },
   {
    "id": "scen067.0059",
    "jp": "・劇場",
-   "en": "",
+   "en": "・Theater",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0060",
    "jp": "・展示場",
-   "en": "",
+   "en": "・Exhibition Hall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0061",
    "jp": "・レストラン",
-   "en": "",
+   "en": "・Restaurant",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0062",
    "jp": "・公園",
-   "en": "",
+   "en": "・Park",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0063",
    "jp": "　{FFEE}キャンセル{FFF1}",
-   "en": "",
+   "en": "{FFEE}Cancel{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0064",
    "jp": "劇場は増改築というより、{n}新しい楽団や劇団を雇うことです。{p}この大陸を冒険したときに出会った{n}音楽家たちを誘ってみて下さい。",
-   "en": "",
+   "en": "Improving the theater means hiring new orchestras or{n}theatrical troupes, rather than expanding or{n}renovating the building.{p}Please try inviting musicians you have met on your{n}adventures across the continent.",
    "term": "end"
   },
   {
    "id": "scen067.0065",
    "jp": "展示場は増改築というより、{n}新しい芸術家の作品を展示することです。{p}この大陸を冒険したときに出会った{n}芸術家たちを誘ってみて下さい。",
-   "en": "",
+   "en": "Improving the exhibition hall means displaying works by{n}new artists, rather than expanding or renovating the{n}building.{p}Please try inviting artists you have met on your{n}adventures across the continent.",
    "term": "end"
   },
   {
    "id": "scen067.0066",
    "jp": "レストランの店舗には、まだ空きがあります。{n}あなたが料理人を探してくれば、新店舗が開店します。",
-   "en": "",
+   "en": "There are still vacant restaurant spaces. If you find{n}more chefs, new restaurants can open.",
    "term": "end"
   },
   {
    "id": "scen067.0067",
    "jp": "湖にボート小屋をつくることが出来ます。",
-   "en": "",
+   "en": "We can build a boathouse on the lake.",
    "term": "end"
   },
   {
    "id": "scen067.0068",
    "jp": "ボート小屋をつくるには５００エルム必要です。",
-   "en": "",
+   "en": "Building a boathouse will cost 500 Elm.",
    "term": "end"
   },
   {
    "id": "scen067.0069",
    "jp": "・ボート小屋をつくらない",
-   "en": "",
+   "en": "・Do not build a boathouse",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0070",
    "jp": "・ボート小屋をつくる",
-   "en": "",
+   "en": "・Build a boathouse",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0071",
    "jp": "お金が足りないようですね。{n}ひとまず中止しましょう。",
-   "en": "",
+   "en": "It seems you do not have enough money. Let us put{n}this on hold for now.",
    "term": "end"
   },
   {
    "id": "scen067.0072",
    "jp": "{v:000B}何をいたしましょうか、ご主人様？",
-   "en": "",
+   "en": "{v:000B}What shall I do for you, my lord?",
    "term": "end"
   },
   {
    "id": "scen067.0073",
    "jp": "・施設をつくる",
-   "en": "",
+   "en": "・Build facilities",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0074",
    "jp": "・施設を増改築する",
-   "en": "",
+   "en": "・Expand or renovate facilities",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0075",
    "jp": "　{FFEE}キャンセル{FFF1}",
-   "en": "",
+   "en": "{FFEE}Cancel{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0076",
    "jp": "{v:000C}施設をつくられるのですね。{n}どの施設になさいますか？",
-   "en": "",
+   "en": "{v:000C}You wish to build a facility, then. Which would you like?",
    "term": "end"
   },
   {
    "id": "scen067.0077",
    "jp": "・劇場",
-   "en": "",
+   "en": "・Theater",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0078",
    "jp": "・展示場",
-   "en": "",
+   "en": "・Exhibition hall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0079",
    "jp": "・レストラン",
-   "en": "",
+   "en": "・Restaurants",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0080",
    "jp": "・公園",
-   "en": "",
+   "en": "・Park",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0081",
    "jp": "　{FFEE}キャンセル{FFF1}",
-   "en": "",
+   "en": "{FFEE}Cancel{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0082",
    "jp": "劇場をつくるには１２００エルム必要になりますが？",
-   "en": "",
+   "en": "Building a theater will cost 1,200 Elm. Is that{n}acceptable?",
    "term": "end"
   },
   {
    "id": "scen067.0083",
    "jp": "・劇場をつくらない",
-   "en": "",
+   "en": "・Do not build a theater",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0084",
    "jp": "・劇場をつくる",
-   "en": "",
+   "en": "・Build a theater",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0085",
    "jp": "では、建物の手配はお任せ下さい。{n}劇団や楽団はあなたのお好みの方を雇い入れて下さい。",
-   "en": "",
+   "en": "Then leave the construction arrangements to me. Please{n}hire whichever theater troupe or musical ensemble you{n}prefer.",
    "term": "end"
   },
   {
    "id": "scen067.0086",
    "jp": "展示場をつくるには１２００エルム必要になりますが？",
-   "en": "",
+   "en": "Building an exhibition hall will cost 1,200 Elm. Is that{n}acceptable?",
    "term": "end"
   },
   {
    "id": "scen067.0087",
    "jp": "・展示場をつくらない",
-   "en": "",
+   "en": "・Do not build an exhibition hall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0088",
    "jp": "・展示場をつくる",
-   "en": "",
+   "en": "・Build an exhibition hall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0089",
    "jp": "では、展示を行うための芸術家を探して下さい。{n}建物はこちらで手配しておきます。",
-   "en": "",
+   "en": "Then please find artists to exhibit their work. I will{n}arrange for the building.",
    "term": "end"
   },
   {
    "id": "scen067.0090",
    "jp": "レストランをつくるには{n}７００エルム必要になりますが？",
-   "en": "",
+   "en": "Building the restaurants will cost 700 Elm. Is that{n}acceptable?",
    "term": "end"
   },
   {
    "id": "scen067.0091",
    "jp": "・レストランをつくらない",
-   "en": "",
+   "en": "・Do not build restaurants",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0092",
    "jp": "・レストランをつくる",
-   "en": "",
+   "en": "・Build restaurants",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0093",
    "jp": "かしこまりました。{n}レストラン街と料理人を１人用意しておきます。{n}その他の料理人はご自分でお探し下さい。",
-   "en": "",
+   "en": "Certainly. I will arrange for a restaurant district and{n}one chef. Please find any additional chefs yourself.",
    "term": "end"
   },
   {
    "id": "scen067.0094",
    "jp": "国王からの好意で、公園施設の初期投資は無料です。",
-   "en": "",
+   "en": "Thanks to the King's generosity, the initial construction{n}of the park facilities is free.",
    "term": "end"
   },
   {
    "id": "scen067.0095",
    "jp": "{v:0014}いつでも、お声をかけて下さい。",
-   "en": "",
+   "en": "{v:0014}Please call on me whenever you wish.",
    "term": "end"
   },
   {
    "id": "scen067.0096",
    "jp": "{v:0010}かしこまりました。{n}早速手配いたします。",
-   "en": "",
+   "en": "{v:0010}Certainly. I will make the arrangements at once.",
    "term": "end"
   },
   {
    "id": "scen067.0097",
    "jp": "{v:000E}その施設はすでにつくられております。",
-   "en": "",
+   "en": "{v:000E}That facility has already been built.",
    "term": "end"
   },
   {
    "id": "scen067.0098",
    "jp": "{v:0011}その施設はまだつくられておりません。",
-   "en": "",
+   "en": "{v:0011}That facility has not yet been built.",
    "term": "end"
   },
   {
    "id": "scen067.0099",
    "jp": "{v:0012}その施設はもう、十分でしょう。{n}他のものになさって下さい。",
-   "en": "",
+   "en": "{v:0012}That facility needs no further improvements. Please{n}choose something else.",
    "term": "end"
   },
   {
    "id": "scen067.0100",
    "jp": "それじゃ、まず、ミーシャから！",
-   "en": "",
+   "en": "All right, Misha first!",
    "term": "end"
   },
   {
    "id": "scen067.0101",
    "jp": "花の名前ですけど、『カラジューム』ってどうですか？{n}『喜び』って意味なんです。{p}他には『明るい未来』って意味の『ムスカリ』ってのもありますけど。",
-   "en": "",
+   "en": "It's a flower's name, but how about 'Caladium'? It means{n}'joy.'{p}There's also 'Muscari,' which means 'a bright future.'",
    "term": "end"
   },
   {
    "id": "scen067.0102",
    "jp": "へぇ、なるほどねぇ‥‥。{p}それじゃ、カレンさんは？",
-   "en": "",
+   "en": "Ohhh, I see...{p}How about you, Karen-san?",
    "term": "end"
   },
   {
    "id": "scen067.0103",
    "jp": "そうですね。{n}これから発展して行く街ですから、{n}『グローランド』とかはいかがですか？",
-   "en": "",
+   "en": "Let me see. Since this town will keep growing, how{n}about 'Growland'?",
    "term": "end"
   },
   {
    "id": "scen067.0104",
    "jp": "へぇ、育つ街かぁ‥‥。{p}次、ルイセちゃんね。",
-   "en": "",
+   "en": "Ohhh, a growing town...{p}You're next, Luise-chan.",
    "term": "end"
   },
   {
    "id": "scen067.0105",
    "jp": "えっと‥‥。{FFFB}{n}ワイワイランドとか、ワクワクランドとか‥‥。",
-   "en": "",
+   "en": "Um...{FFFB}Maybe Waiwai Land, or Wakuwaku Land...",
    "term": "end"
   },
   {
    "id": "scen067.0106",
    "jp": "なんのヒネリもないわねぇ‥‥。",
-   "en": "",
+   "en": "Not much imagination there...",
    "term": "end"
   },
   {
    "id": "scen067.0107",
    "jp": "‥‥う～‥‥。",
-   "en": "",
+   "en": "...Uuugh...",
    "term": "end"
   },
   {
    "id": "scen067.0108",
    "jp": "それじゃ、次はウォレスさんね！",
-   "en": "",
+   "en": "All right, Wallace-san, you're next!",
    "term": "end"
   },
   {
    "id": "scen067.0109",
    "jp": "あん？{n}俺もかぁ？{p}‥‥お前の名前、そのまま『{s:0000}』とかでいいんじゃねぇのか？",
-   "en": "",
+   "en": "Huh? Me too?{p}...Why not just name it after you? '{s:0000}'{n}should do.",
    "term": "end"
   },
   {
    "id": "scen067.0110",
    "jp": "つ{FE1E}ま{FE1E}ん{FE1E}な{FE1E}い{FE1E}～！",
-   "en": "",
+   "en": "B{FE1E}o{FE1E}r{FE1E}i{FE1E}n{FE1E}g!",
    "term": "end"
   },
   {
    "id": "scen067.0111",
    "jp": "それじゃ、ティピちゃんはどんなのがいいと思う？",
-   "en": "",
+   "en": "Then what name would you like, Tippi-chan?",
    "term": "end"
   },
   {
    "id": "scen067.0112",
    "jp": "決まってるじゃない！",
-   "en": "",
+   "en": "Isn't it obvious?!",
    "term": "end"
   },
   {
    "id": "scen067.0113",
    "jp": "{FFEC}ティピちゃん王国{FFED}よ！",
-   "en": "",
+   "en": "The {FFEC}Kingdom of Tippi-chan{FFED}!",
    "term": "end"
   },
   {
    "id": "scen067.0114",
    "jp": "で、どうする？",
-   "en": "",
+   "en": "So, what'll it be?",
    "term": "end"
   },
   {
    "id": "scen067.0115",
    "jp": "{s:0010}",
-   "en": "",
+   "en": "{s:0010}",
    "term": "end"
   },
   {
    "id": "scen067.0116",
    "jp": "あぁ、バーバラ様の歌が聴けるなんて！",
-   "en": "",
+   "en": "Ah, to think I can hear Barbara-sama sing!",
    "term": "end"
   },
   {
    "id": "scen067.0117",
    "jp": "ここのレストラン、けっこ～イケテル！",
-   "en": "",
+   "en": "The restaurants here are pretty great!",
    "term": "end"
   },
   {
    "id": "scen067.0118",
    "jp": "徐々に発展しているようだな。{n}この先が楽しみな街だ。",
-   "en": "",
+   "en": "The town seems to be growing steadily. I look forward{n}to seeing its future.",
    "term": "end"
   },
   {
    "id": "scen067.0119",
    "jp": "こんなところに、{n}これほど整地された場所があったとは‥‥。{n}先が楽しみだ。",
-   "en": "",
+   "en": "To think there was such well-prepared land out here... I{n}look forward to seeing what comes of it.",
    "term": "end"
   },
   {
    "id": "scen067.0120",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『犬も歩けば散歩忘れず』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB}'Every dog has its... daily walk!'{FFFB}I am the{n}much-talked-about {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen067.0121",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『サルも木から降ず、カッパの皮算用』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB}'Don't count your monkeys before they{n}fall from the tree!'{FFFB}I am the much-talked-about {FFF0}Dungeon{n}Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen067.0122",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『あなたのハートに迷宮の罠』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB}'A labyrinth's snare for your heart!'{FFFB}I am{n}the much-talked-about {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen067.0123",
    "jp": "‥‥ムッ！{n}同行人を連れているではないか！{p}同行人がやられたら、即ゲームオーバーだぞ！{n}そんな状態で中へ入らせると思うか！{n}同行人がいないときに、再度来るがよい！",
-   "en": "",
+   "en": "...Hmm! You have someone under your escort!{p}If your charge falls, it is an immediate game over! Do{n}you think I would let you enter like that?! Return when{n}you have no one to escort!",
    "term": "end"
   },
   {
    "id": "scen067.0124",
    "jp": "さあ、未知への扉は開かれた。{n}いざ、入らん！",
-   "en": "",
+   "en": "Now, the door to the unknown stands open. Onward!",
    "term": "end"
   },
   {
    "id": "scen067.0125",
    "jp": "ちなみに注意事項を言っておいた方がいいかな？",
-   "en": "",
+   "en": "By the way, shall I explain the precautions?",
    "term": "end"
   },
   {
    "id": "scen067.0126",
    "jp": "ダンジョンは次のような構造になっている。{n}・４×４の部屋でつくられたフロアを５回。{n}・５×５の部屋でつくられたフロアを４回。{n}・６×６の部屋でつくられたフロアを５回。{n}計１４フロアを駆け抜けて、ダンジョン制覇だ！{p}ちなみにダンジョンはランダムで選ばれ、{n}また君たちが出現する部屋の位置もランダムだ。{p}またダンジョン内で手に入れたアイテムは、{n}何が出るかわからない。{n}すでに９個持っていた場合は増えない。{n}またお金が手にはいることもあるからな。{n}何も増えていないからといって慌てるなよ。{p}次にモンスターとの戦いだが、{n}彼らも、いつ、どこに出現するかわからない。{n}上手くいけば一度も戦わずに宝をゲットできる。{n}また、あるモンスターは倒さずにいると{n}すぐに逃げ出してしまうらしい。",
-   "en": "",
+   "en": "The dungeon is laid out as follows: five floors of 4 by 4{n}rooms, four floors of 5 by 5 rooms, and five floors of{n}6 by 6 rooms. Race through all 14 floors to conquer{p}the dungeon!{p}The dungeon is chosen at random, as is the room{n}where you appear.{p}You never know what items you will find inside. If you{n}already have nine of an item, you will not gain another.{n}You may also receive money, so do not panic if your item{p}count has not gone up.{p}As for fighting monsters, there is no telling when or{n}where they will appear, either. With luck, you can get{n}treasure without fighting even once. I also hear that{p}certain monsters will quickly flee if you do not defeat{n}them.",
    "term": "end"
   },
   {
    "id": "scen067.0127",
    "jp": "さぁ！{n}危険とロマンが待っているダンジョンへ行け！",
-   "en": "",
+   "en": "Now! Enter the dungeon, where danger and adventure{n}await!",
    "term": "end"
   },
   {
    "id": "scen067.0128",
    "jp": "ならば、進むがよい！{n}いざ、ダンジョンへ！",
-   "en": "",
+   "en": "Then advance! Into the dungeon!",
    "term": "end"
   },
   {
    "id": "scen067.0129",
    "jp": "{v:000B}何をいたしましょうか、ご主人様？",
-   "en": "",
+   "en": "{v:000B}What shall I do for you, my lord?",
    "term": "end"
   },
   {
    "id": "scen067.0130",
    "jp": "・施設を増改築する",
-   "en": "",
+   "en": "・Expand or renovate facilities",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0131",
    "jp": "・街の名前を変更する（有料）",
-   "en": "",
+   "en": "・Rename the town (fee required)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0132",
    "jp": "　{FFEE}キャンセル{FFF1}",
-   "en": "",
+   "en": "{FFEE}Cancel{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0133",
    "jp": "{v:000B}何をいたしましょうか、ご主人様？",
-   "en": "",
+   "en": "{v:000B}What shall I do for you, my lord?",
    "term": "end"
   },
   {
    "id": "scen067.0134",
    "jp": "・施設をつくる",
-   "en": "",
+   "en": "・Build facilities",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0135",
    "jp": "・施設を増改築する",
-   "en": "",
+   "en": "・Expand or renovate facilities",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0136",
    "jp": "・街の名前を変更する（有料）",
-   "en": "",
+   "en": "・Rename the town (fee required)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0137",
    "jp": "　{FFEE}キャンセル{FFF1}",
-   "en": "",
+   "en": "{FFEE}Cancel{FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0138",
    "jp": "街名変更の手数料は１００エルムですが{n}よろしいですか？",
-   "en": "",
+   "en": "The fee for renaming the town is 100 Elm. Is that{n}acceptable?",
    "term": "end"
   },
   {
    "id": "scen067.0139",
    "jp": "・このままでいい",
-   "en": "",
+   "en": "・Keep the current name",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0140",
    "jp": "・変更する",
-   "en": "",
+   "en": "・Change the name",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0141",
    "jp": "承知しました。",
-   "en": "",
+   "en": "Understood.",
    "term": "end"
   },
   {
    "id": "scen067.0142",
    "jp": "どうやら所持金が足りないようです。",
-   "en": "",
+   "en": "It appears you do not have enough money.",
    "term": "end"
   },
   {
    "id": "scen067.0143",
    "jp": "ここには何が出来るのかしら？",
-   "en": "",
+   "en": "I wonder what they'll build here.",
    "term": "end"
   },
   {
    "id": "scen067.0144",
    "jp": "ジョニー・カルテットだって！",
-   "en": "",
+   "en": "They're called the Johnny Quartet!",
    "term": "end"
   },
   {
    "id": "scen067.0145",
    "jp": "なんだかスカした名前ね～！",
-   "en": "",
+   "en": "What a snooty name!",
    "term": "end"
   },
   {
    "id": "scen067.0146",
    "jp": "あ～、バーバラ様{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Ahhh, Barbara-sama{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen067.0147",
    "jp": "アタシもあんな大人になりたい～！",
-   "en": "",
+   "en": "I wanna be just like her when I grow up!",
    "term": "end"
   },
   {
    "id": "scen067.0148",
    "jp": "何だっけ？{n}『三国大陸』だっけ？{n}面白かったぁ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "What was it called? 'Three Kingdoms Continent'? That{n}was so much fun{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen067.0149",
    "jp": "みんなにウワサしよ～っと！",
-   "en": "",
+   "en": "I'm gonna tell everyone about it!",
    "term": "end"
   },
   {
    "id": "scen067.0150",
    "jp": "何か出来たみたいだから、{n}せっかく来たのに‥‥。",
-   "en": "",
+   "en": "It looked like they'd built something, so I came all this{n}way...",
    "term": "end"
   },
   {
    "id": "scen067.0151",
    "jp": "何にもやってないんだもん！{n}がっかりよねぇ～！",
-   "en": "",
+   "en": "But there's nothing on! What a letdown!",
    "term": "end"
   },
   {
    "id": "scen067.0152",
    "jp": "現在は、『ジョニー・カルテット』の{n}演奏会が行われている。",
-   "en": "",
+   "en": "A concert by the 'Johnny Quartet' is currently in{n}progress.",
    "term": "end"
   },
   {
    "id": "scen067.0153",
    "jp": "現在は歌姫『バーバラ』のオペラが行われている。",
-   "en": "",
+   "en": "An opera starring the diva 'Barbara' is currently in{n}progress.",
    "term": "end"
   },
   {
    "id": "scen067.0154",
    "jp": "現在は劇団『三国大陸』による{n}演劇が行われている。",
-   "en": "",
+   "en": "A play by the 'Three Kingdoms Continent' theater{n}troupe is currently in progress.",
    "term": "end"
   },
   {
    "id": "scen067.0155",
    "jp": "現在は、まったく公演が行われていない。",
-   "en": "",
+   "en": "There are currently no performances.",
    "term": "end"
   },
   {
    "id": "scen067.0156",
    "jp": "歌手とか役者さんを探さないとダメね。",
-   "en": "",
+   "en": "We'll have to find some singers or actors.",
    "term": "end"
   },
   {
    "id": "scen067.0157",
    "jp": "芸術をたしなむのも騎士のつとめよね？{p}でも、今は仕事中だからダメね！{n}次の休暇に来ましょ★",
-   "en": "",
+   "en": "Appreciating the arts is part of a knight's duty, right?{p}But we're working now, so no go! Let's come back on{n}our next vacation!",
    "term": "end"
   },
   {
    "id": "scen067.0158",
    "jp": "まだ何もできてないのね‥‥。",
-   "en": "",
+   "en": "They haven't built anything yet...",
    "term": "end"
   },
   {
    "id": "scen067.0159",
    "jp": "やった！{n}今日は絵画展ね！",
-   "en": "",
+   "en": "Yay! There's a painting exhibition today!",
    "term": "end"
   },
   {
    "id": "scen067.0160",
    "jp": "私は絵画の方が好きなの‥‥。",
-   "en": "",
+   "en": "I prefer paintings, myself...",
    "term": "end"
   },
   {
    "id": "scen067.0161",
    "jp": "ここの画家は女性なんだって。{n}でも力強いタッチが心の強さを感じさせるわ。",
-   "en": "",
+   "en": "I hear the painter here is a woman. Still, those bold{n}brushstrokes really show her inner strength.",
    "term": "end"
   },
   {
    "id": "scen067.0162",
    "jp": "建物だけあったって‥‥。",
-   "en": "",
+   "en": "What's the use of just having a building...?",
    "term": "end"
   },
   {
    "id": "scen067.0163",
    "jp": "芸術っていったら、やっぱり造形だろ！",
-   "en": "",
+   "en": "When it comes to art, nothing beats sculpture!",
    "term": "end"
   },
   {
    "id": "scen067.0164",
    "jp": "造形家と画家の作品を展示できます。",
-   "en": "",
+   "en": "We can exhibit works by a sculptor or a painter.",
    "term": "end"
   },
   {
    "id": "scen067.0165",
    "jp": "どちらの作品展を行いますか？",
-   "en": "",
+   "en": "Whose work would you like to exhibit?",
    "term": "end"
   },
   {
    "id": "scen067.0166",
    "jp": "・造形家アダル作品展",
-   "en": "",
+   "en": "・Exhibition by Adal the sculptor",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0167",
    "jp": "・画家マーナ作品展",
-   "en": "",
+   "en": "・Exhibition by Marna the painter",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0168",
    "jp": "造形家アダルの作品展を行います。",
-   "en": "",
+   "en": "We will exhibit works by Adal the sculptor.",
    "term": "end"
   },
   {
    "id": "scen067.0169",
    "jp": "画家マーナの作品展を行います。",
-   "en": "",
+   "en": "We will exhibit works by Marna the painter.",
    "term": "end"
   },
   {
    "id": "scen067.0170",
    "jp": "現在は造形家アダルの作品展を行っています。",
-   "en": "",
+   "en": "We are currently exhibiting works by Adal the sculptor.",
    "term": "end"
   },
   {
    "id": "scen067.0171",
    "jp": "現在は画家マーナの作品展を行っています。",
-   "en": "",
+   "en": "We are currently exhibiting works by Marna the{n}painter.",
    "term": "end"
   },
   {
    "id": "scen067.0172",
    "jp": "まだ展示品がないようだ‥‥。",
-   "en": "",
+   "en": "There seems to be nothing on display yet...",
    "term": "end"
   },
   {
    "id": "scen067.0173",
    "jp": "どこからか芸術家を連れてこないとダメだね★",
-   "en": "",
+   "en": "We'll have to find an artist somewhere and bring them{n}here!",
    "term": "end"
   },
   {
    "id": "scen067.0174",
    "jp": "彼女とはここで出会ったんだ。{n}もう一目惚れってやつさ！{n}この公園をつくってくれた人に感謝だよ！{p}なっ？",
-   "en": "",
+   "en": "This is where I met her. It was love at first sight! I'm{n}grateful to whoever built this park!{p}Right, sweetheart?",
    "term": "end"
   },
   {
    "id": "scen067.0175",
    "jp": "‥‥ぽっ。",
-   "en": "",
+   "en": "...*blush*",
    "term": "end"
   },
   {
    "id": "scen067.0176",
    "jp": "‥‥もじ、もじ‥‥。",
-   "en": "",
+   "en": "...*fidget, fidget*...",
    "term": "end"
   },
   {
    "id": "scen067.0177",
    "jp": "これは、{s:0000}様。{n}ボート遊びをなさりたいのですか？",
-   "en": "",
+   "en": "Ah, Lord {s:0000}. Would you care to go{n}boating?",
    "term": "end"
   },
   {
    "id": "scen067.0178",
    "jp": "ボートに乗りますか？",
-   "en": "",
+   "en": "Would you like to take a boat out?",
    "term": "end"
   },
   {
    "id": "scen067.0179",
    "jp": "ボート遊び～★{p}って行きたいところだけど、{n}楽しむのは休暇だけにしましょ！",
-   "en": "",
+   "en": "Let's go boating!{p}...Is what I'd love to say, but let's save the fun for our{n}vacation!",
    "term": "end"
   },
   {
    "id": "scen067.0180",
    "jp": "そうそう！{n}今は仕事中だもんね！{n}休暇の時に遊びましょ！",
-   "en": "",
+   "en": "That's right! We're working now! Let's have fun when{n}we're on vacation!",
    "term": "end"
   },
   {
    "id": "scen067.0181",
    "jp": "水がすんでいて、気持ちよさそうね。{n}ボートに乗ってお昼寝でもしようかしら？",
-   "en": "",
+   "en": "The water is so clear. It looks lovely. Perhaps I'll take a{n}boat out and have a nap.",
    "term": "end"
   },
   {
    "id": "scen067.0182",
    "jp": "‥‥いい眺めだ。",
-   "en": "",
+   "en": "...A fine view.",
    "term": "end"
   },
   {
    "id": "scen067.0183",
    "jp": "こんな眺めのいいところで食事が出来るなんて★{n}う～ん、ぜいたくだわ♪",
-   "en": "",
+   "en": "Getting to eat with a view like this... Mmm, what a{n}luxury♪",
    "term": "end"
   },
   {
    "id": "scen067.0184",
    "jp": "おいしいもの、だ～い好き{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "I looove good food{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen067.0185",
    "jp": "友達に食べ物情報にするどい娘がいてね、{n}その娘に聞いて来たのよ。",
-   "en": "",
+   "en": "A friend of mine always knows where to find good food.{n}She's the one who told me about this place.",
    "term": "end"
   },
   {
    "id": "scen067.0186",
    "jp": "ここに高級レストランが出来たって聞いて、{n}ためていたお金をもって食べにきたのよ。",
-   "en": "",
+   "en": "I heard a fancy restaurant had opened here, so I{n}brought the money I'd been saving and came to eat.",
    "term": "end"
   },
   {
    "id": "scen067.0187",
    "jp": "素敵なカフェだね{FFF0}♥{FFF1}{p}でも、今は仕事中よ！{n}ここでくつろぐのは休暇の時だけにしようね。",
-   "en": "",
+   "en": "What a lovely cafe{FFF0}♥{FFF1}{p}But we're working now! Let's save relaxing here for{n}our vacation.",
    "term": "end"
   },
   {
    "id": "scen067.0188",
    "jp": "落ち着いた雰囲気のお店ね{FFF0}♥{FFF1}{p}でも、今は仕事中よ！{n}ここで味わうのは休暇の時だけにしようね。",
-   "en": "",
+   "en": "This place has such a peaceful atmosphere{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for our{n}vacation.",
    "term": "end"
   },
   {
    "id": "scen067.0189",
    "jp": "う～ん、高級そうなレストラン{FFF0}♥{FFF1}{p}でも、今は仕事中よ！{n}ここで味わうのは休暇の時だけにしようね。",
-   "en": "",
+   "en": "Ooh, this restaurant looks fancy{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for our{n}vacation.",
    "term": "end"
   },
   {
    "id": "scen067.0190",
    "jp": "レストラン{n}　『カステロ・モリッツ』",
-   "en": "",
+   "en": "Restaurant 'Castello Moritz'",
    "term": "end"
   },
   {
    "id": "scen067.0191",
    "jp": "和食{n}　『五月』",
-   "en": "",
+   "en": "Japanese Cuisine 'Satsuki'",
    "term": "end"
   },
   {
    "id": "scen067.0192",
    "jp": "カフェ{n}　『サン・ジョルノ』",
-   "en": "",
+   "en": "Cafe 'San Giorno'",
    "term": "end"
   },
   {
    "id": "scen067.0193",
    "jp": "せっかく湖があるのに、{n}眺めているだけなんてもったいないと思わない？",
-   "en": "",
+   "en": "We've got this whole lake! Don't you think it's a waste to{n}just look at it?",
    "term": "end"
   }
  ]

@@ -171,13 +171,13 @@
   {
    "id": "scen004.0027",
    "jp": "{v:004C}いらっしゃいませ。{n}スキマ屋へようこそ。",
-   "en": "{v:004C}Hello, and welcome to the Sukima Shop.",
+   "en": "{v:004C}Hello, and welcome to the Nook Shop.",
    "term": "end"
   },
   {
    "id": "scen004.0028",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "{v:0054}Keep coming back to the Sukima Shop!",
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen004.0036",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore! Sukima Shop",
+   "en": "Bargains galore! Nook Shop",
    "term": "end"
   },
   {

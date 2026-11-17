@@ -15,226 +15,226 @@
   {
    "id": "scen060.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen060.0002",
    "jp": "ヴェンツェル",
-   "en": "",
+   "en": "Wenzel",
    "term": "null"
   },
   {
    "id": "scen060.0003",
    "jp": "レティシア姫",
-   "en": "",
+   "en": "Princess Leticia",
    "term": "null"
   },
   {
    "id": "scen060.0004",
    "jp": "申し訳ございません。{n}お戻り下さい。",
-   "en": "",
+   "en": "My apologies. Please turn back.",
    "term": "end"
   },
   {
    "id": "scen060.0005",
    "jp": "扉には鍵がかかっている。{n}どうやら入れないようだ。",
-   "en": "",
+   "en": "The door is locked. There seems to be no way in.",
    "term": "end"
   },
   {
    "id": "scen060.0006",
    "jp": "ここから先へはお通しできません。{n}お戻り下さい。",
-   "en": "",
+   "en": "I cannot let you pass. Please turn back.",
    "term": "end"
   },
   {
    "id": "scen060.0007",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "",
+   "en": "It's locked!",
    "term": "end"
   },
   {
    "id": "scen060.0008",
    "jp": "{v:00C3}マイ＝ロード‥‥。",
-   "en": "",
+   "en": "{v:00C3}My Lord...",
    "term": "end"
   },
   {
    "id": "scen060.0009",
    "jp": "{v:00C4}あ、{s:0008}、ドレスに着替えたんだ！",
-   "en": "",
+   "en": "{v:00C4}Oh, {s:0008}, you changed into a dress!",
    "term": "end"
   },
   {
    "id": "scen060.0010",
    "jp": "{v:00C5}こんな時でもなければ、{n}この服に袖を通すことがなさそうで‥‥。{n}申し訳ありません。",
-   "en": "",
+   "en": "{v:00C5}I thought I might never have another occasion to{n}wear it... Forgive me.",
    "term": "end"
   },
   {
    "id": "scen060.0011",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen060.0012",
    "jp": "・似合っていると言う",
-   "en": "",
+   "en": "・Say it suits her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen060.0013",
    "jp": "・似合わないと言う",
-   "en": "",
+   "en": "・Say it does not suit her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen060.0014",
    "jp": "・何も思わないと言う",
-   "en": "",
+   "en": "・Say you have no opinion",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen060.0015",
    "jp": "{v:00C6}マイ＝ロードに褒めていただけるなんて、光栄です。",
-   "en": "",
+   "en": "{v:00C6}I am honored by your compliment, My Lord.",
    "term": "end"
   },
   {
    "id": "scen060.0016",
    "jp": "{v:00CD}せっかくだから、手ぐらい握ってあげなさいよ。",
-   "en": "",
+   "en": "{v:00CD}Come on, at least take her hand while you've got the{n}chance.",
    "term": "end"
   },
   {
    "id": "scen060.0017",
    "jp": "‥‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen060.0018",
    "jp": "{v:00C7}踊りませんか、マイ＝ロード。",
-   "en": "",
+   "en": "{v:00C7}Will you dance with me, My Lord?",
    "term": "end"
   },
   {
    "id": "scen060.0019",
    "jp": "{v:00C8}へぇ、けっこう上手いじゃん‥‥。",
-   "en": "",
+   "en": "{v:00C8}Huh, you're pretty good at this...",
    "term": "end"
   },
   {
    "id": "scen060.0020",
    "jp": "{v:00C9}一人の殿方を独占できる幸せとは、{n}こういう時なのでしょうね。",
-   "en": "",
+   "en": "{v:00C9}So this must be the happiness of having a gentleman{n}all to oneself.",
    "term": "end"
   },
   {
    "id": "scen060.0021",
    "jp": "{v:00CA}あまり長い間、主賓が席を外すのも問題ですね。{n}そろそろ戻りましょう。{p}{v:00CB}私は着替えてから戻りますので、ここで。{p}{v:00CC}楽しいひとときをありがとうございました。",
-   "en": "",
+   "en": "{v:00CA}It would not do for the guest of honor to be absent{n}for too long. We should return.{p}{v:00CB}I shall change before I rejoin you, so we must part{n}here.{p}{v:00CC}Thank you for such a lovely time.",
    "term": "end"
   },
   {
    "id": "scen060.0022",
    "jp": "{s:0004}をよろしくお願いします。",
-   "en": "",
+   "en": "Please take good care of {s:0004}.",
    "term": "end"
   },
   {
    "id": "scen060.0023",
    "jp": "{v:000D}うわ～♪",
-   "en": "",
+   "en": "{v:000D}Woooow♪",
    "term": "end"
   },
   {
    "id": "scen060.0024",
    "jp": "{v:000E}すご～い‥‥。",
-   "en": "",
+   "en": "{v:000E}Amaazing...",
    "term": "end"
   },
   {
    "id": "scen060.0025",
    "jp": "{v:000F}何だか足がすくんじゃいそう‥‥。",
-   "en": "",
+   "en": "{v:000F}My knees feel like they're going to give way...",
    "term": "end"
   },
   {
    "id": "scen060.0026",
    "jp": "{v:0010}{s:0002}！",
-   "en": "",
+   "en": "{v:0010}{s:0002}!",
    "term": "end"
   },
   {
    "id": "scen060.0027",
    "jp": "{v:0011}その声、ウェーバーか？",
-   "en": "",
+   "en": "{v:0011}That voice... Weber?",
    "term": "end"
   },
   {
    "id": "scen060.0028",
    "jp": "{v:0012}ああ。{n}ランザック王国を代表して、私が招かれたんだ。{p}{v:0013}しかし、驚いたな。{n}お前たちが{s:0116}を倒すとは。",
-   "en": "",
+   "en": "{v:0012}Yes. I was invited to represent the Kingdom of Ranzak.{p}{v:0013}Still, I was astonished to hear that you defeated{n}{s:0116}.",
    "term": "end"
   },
   {
    "id": "scen060.0029",
    "jp": "{v:0014}まあな。{p}{v:0015}それより、隊長が見つかったんだ！",
-   "en": "",
+   "en": "{v:0014}Yeah, we did.{p}{v:0015}More importantly, we found the captain!",
    "term": "end"
   },
   {
    "id": "scen060.0030",
    "jp": "{v:0016}何？{p}{FC04}{v:0017}よし、向こうで詳しい話を聞かせてもらおうか。",
-   "en": "",
+   "en": "{v:0016}What?{p}{FC04}{v:0017}Come, let us go over there. I want to hear everything.",
    "term": "end"
   },
   {
    "id": "scen060.0031",
    "jp": "{v:0018}やぁ、みなさん！{n}元気そうですね。",
-   "en": "",
+   "en": "{v:0018}Hello, everyone! You're all looking well.",
    "term": "end"
   },
   {
    "id": "scen060.0032",
    "jp": "{v:0019}{s:0004}王も、お元気そうで何よりです。",
-   "en": "",
+   "en": "{v:0019}We are glad to see you in good health as well, King{n}{s:0004}.",
    "term": "end"
   },
   {
    "id": "scen060.0033",
    "jp": "{v:001A}そんな堅苦しい挨拶は抜きですよ！{n}さ、楽しんでいって下さい。{p}{v:001B}僕が案内しますよ。",
-   "en": "",
+   "en": "{v:001A}There's no need for such formal greetings! Please,{n}enjoy yourselves.{p}{v:001B}I'll show you around.",
    "term": "end"
   },
   {
    "id": "scen060.0034",
    "jp": "{v:001C}{s:0006}、行こう！",
-   "en": "",
+   "en": "{v:001C}{s:0006}, let's go!",
    "term": "end"
   },
   {
    "id": "scen060.0035",
    "jp": "{v:001D}うん。",
-   "en": "",
+   "en": "{v:001D}Okay.",
    "term": "end"
   },
   {
    "id": "scen060.0036",
    "jp": "{v:001E}我々も行かないか？{n}せっかくの料理を食い損ねるぞ？",
-   "en": "",
+   "en": "{v:001E}Shall we go, too? We'll miss out on all that food.",
    "term": "end"
   },
   {
    "id": "scen060.0037",
    "jp": "{v:001F}え～っ！{n}それはヤバイよぉ！{n}行こう、行こう！",
-   "en": "",
+   "en": "{v:001F}Whaaat?! We can't let that happen! Come on, let's go!",
    "term": "end"
   },
   {
@@ -1001,619 +1001,619 @@
   {
    "id": "scen060.0164",
    "jp": "{v:0082}え～っ！{n}コイツ、そんなに大した奴じゃないよ？",
-   "en": "",
+   "en": "{v:0082}Whaaat?! This guy's not THAT impressive, you know!",
    "term": "end"
   },
   {
    "id": "scen060.0165",
    "jp": "{s:000B}を黙らせますか？",
-   "en": "",
+   "en": "Silence {s:000B}?",
    "term": "end"
   },
   {
    "id": "scen060.0166",
    "jp": "{v:0083}ったいなぁ！{n}突つかないでよ！",
-   "en": "",
+   "en": "{v:0083}Owww! Quit poking me!",
    "term": "end"
   },
   {
    "id": "scen060.0167",
    "jp": "{v:0084}クックックッ‥‥。{n}本当、大した奴だよ。",
-   "en": "",
+   "en": "{v:0084}Heh heh heh... You really are something.",
    "term": "end"
   },
   {
    "id": "scen060.0168",
    "jp": "{v:0085}いやいや。{n}本当に、大した奴だよ。",
-   "en": "",
+   "en": "{v:0085}No, no. You really are something.",
    "term": "end"
   },
   {
    "id": "scen060.0169",
    "jp": "{v:0086}どうした？{n}料理が口に合わないのか？",
-   "en": "",
+   "en": "{v:0086}What's wrong? Food not to your liking?",
    "term": "end"
   },
   {
    "id": "scen060.0170",
    "jp": "{v:009B}あなた達にはいろいろとお世話になりましたね。",
-   "en": "",
+   "en": "{v:009B}You have done so much for us.",
    "term": "end"
   },
   {
    "id": "scen060.0171",
    "jp": "{v:009D}楽しんでいって下さい。",
-   "en": "",
+   "en": "{v:009D}Please enjoy yourselves.",
    "term": "end"
   },
   {
    "id": "scen060.0172",
    "jp": "{v:009F}こうしてバーンシュタインの方々と一緒に{n}パーティーが出来るのも、{n}あなた達のおかげですね。",
-   "en": "",
+   "en": "{v:009F}It is thanks to you that we can celebrate together{n}with the people of Burnstein like this.",
    "term": "end"
   },
   {
    "id": "scen060.0173",
    "jp": "{v:00A1}こうしていられるのも、あなた達のおかげですね。",
-   "en": "",
+   "en": "{v:00A1}We owe it to you that we can be here like this.",
    "term": "end"
   },
   {
    "id": "scen060.0174",
    "jp": "{v:00CF}あなた達は偉業を成し遂げました。{n}しかし、それに慢心してはいけませんよ。",
-   "en": "",
+   "en": "{v:00CF}You have accomplished a great feat. But you must not{n}grow conceited.",
    "term": "end"
   },
   {
    "id": "scen060.0175",
    "jp": "{v:00A3}えっと、まんしん‥‥？",
-   "en": "",
+   "en": "{v:00A3}Um, con... ceited?",
    "term": "end"
   },
   {
    "id": "scen060.0176",
    "jp": "{v:00A4}おごり高ぶることです。{n}何事も謙虚でなければなりません。",
-   "en": "",
+   "en": "{v:00A4}It means becoming proud and arrogant. You must{n}remain humble in all things.",
    "term": "end"
   },
   {
    "id": "scen060.0177",
    "jp": "{v:00A5}は、はぁ‥‥？",
-   "en": "",
+   "en": "{v:00A5}Uh, r-right...?",
    "term": "end"
   },
   {
    "id": "scen060.0178",
    "jp": "{v:00A6}あまり羽{s:0127}を外してはダメですよ。",
-   "en": "",
+   "en": "{v:00A6}Keep a watchful {s:0127} on yourselves. Do{n}not get too carried away.",
    "term": "end"
   },
   {
    "id": "scen060.0179",
    "jp": "{v:00A8}ああ、君たちは{s:0002}の‥‥。{p}{FC04}{v:00A9}まだ{s:00BA}なのに、{n}あの{s:0116}を倒すとは恐れ入ったぞ。{p}{FC04}{v:00AB}何にしても、君たちに救われた。{n}ありがとう。",
-   "en": "",
+   "en": "{v:00A8}Ah, you are {s:0002}'s...{p}{FC04}{v:00A9}You are still such a young {s:00BA}, yet you{n}defeated {s:0116}. I am impressed.{p}{FC04}{v:00AB}In any case, you saved us. Thank you.",
    "term": "end"
   },
   {
    "id": "scen060.0180",
    "jp": "{v:00AC}君たちに救われたよ。{n}ありがとう。",
-   "en": "",
+   "en": "{v:00AC}You saved us. Thank you.",
    "term": "end"
   },
   {
    "id": "scen060.0181",
    "jp": "{v:00AE}おお、君たちか。{n}実は今度の理事会で、{n}私が正式に学院長になることが決まりそうなんだ。",
-   "en": "",
+   "en": "{v:00AE}Oh, there you are. As it happens, the next board{n}meeting will likely make my appointment as Headmaster{n}official.",
    "term": "end"
   },
   {
    "id": "scen060.0182",
    "jp": "{v:00AF}へぇ！{n}おめでとうっ！{p}{v:00B0}ところで、{s:0015}さんはどう？",
-   "en": "",
+   "en": "{v:00AF}Wow! Congratulations!{p}{v:00B0}By the way, how's {s:0015}?",
    "term": "end"
   },
   {
    "id": "scen060.0183",
    "jp": "{v:00B1}それは私の方が聞きたいよ。{n}{s:0001}君はどうやってグローシュを取り戻したんだね？",
-   "en": "",
+   "en": "{v:00B1}I would like to know that myself. How did {s:0001}{n}regain her Grosh?",
    "term": "end"
   },
   {
    "id": "scen060.0184",
    "jp": "{v:00B2}えっ？{n}プロミス・ペンダントじゃない？",
-   "en": "",
+   "en": "{v:00B2}Huh? Wasn't it the Promise Pendant?",
    "term": "end"
   },
   {
    "id": "scen060.0185",
    "jp": "{v:00B3}本当にそれだけなのか‥‥。",
-   "en": "",
+   "en": "{v:00B3}Was that really all there was to it...?",
    "term": "end"
   },
   {
    "id": "scen060.0186",
    "jp": "{v:00B4}それじゃね、人の持つ奇跡の力だ★",
-   "en": "",
+   "en": "{v:00B4}Then it was the power people have to work miracles!",
    "term": "end"
   },
   {
    "id": "scen060.0187",
    "jp": "‥‥{v:00B5}奇跡の力か‥‥。",
-   "en": "",
+   "en": "...{v:00B5}The power to work miracles...",
    "term": "end"
   },
   {
    "id": "scen060.0188",
    "jp": "{v:00B6}さっきの回答は信憑性に欠けるよ。",
-   "en": "",
+   "en": "{v:00B6}Your earlier answer is hardly credible.",
    "term": "end"
   },
   {
    "id": "scen060.0189",
    "jp": "{v:00B7}お前たちには世話になった。{n}あらためて礼を言わせてもらう。",
-   "en": "",
+   "en": "{v:00B7}You have done much for me. Allow me to thank you{n}once again.",
    "term": "end"
   },
   {
    "id": "scen060.0190",
    "jp": "{v:00B8}でも、つらかったでしょ？",
-   "en": "",
+   "en": "{v:00B8}But it was hard on you, wasn't it?",
    "term": "end"
   },
   {
    "id": "scen060.0191",
    "jp": "‥‥{v:00B9}まあな。{p}{v:00BA}だが、気にしないでくれ。{n}{s:001B}様が昔のように戻られただけで十分だ。",
-   "en": "",
+   "en": "...{v:00B9}Yes, it was.{p}{v:00BA}But do not concern yourselves. It is enough that Lord{n}{s:001B} is himself again.",
    "term": "end"
   },
   {
    "id": "scen060.0192",
    "jp": "{v:00BB}{s:001B}様のことは、気にしないでくれ。",
-   "en": "",
+   "en": "{v:00BB}Do not concern yourselves about Lord{n}{s:001B}.",
    "term": "end"
   },
   {
    "id": "scen060.0193",
    "jp": "{v:00BC}やぁ、君たちには何度お礼を言っても、{n}言い足りないね。",
-   "en": "",
+   "en": "{v:00BC}Ah, I could thank you a hundred times, and it would{n}still not be enough.",
    "term": "end"
   },
   {
    "id": "scen060.0194",
    "jp": "{v:00BD}でも、親友だったあの偽の王様、{n}牢屋に入れられちゃったんでしょ‥‥。",
-   "en": "",
+   "en": "{v:00BD}But that false king was your best friend, and they put{n}him in prison, didn't they...?",
    "term": "end"
   },
   {
    "id": "scen060.0195",
    "jp": "{v:00BE}生きているなら、それだけでいいさ。{p}{v:00BF}２人のどちらかが敵になれば、どちらかが生き残る。{n}そして生き残った方が陛下を最後まで守る。{p}{v:00C0}それがアーネストと話し合って決めていたことだ。{n}その誓いは果たせたしね。",
-   "en": "",
+   "en": "{v:00BE}As long as he is alive, that is enough.{p}{v:00BF}If the two of us ended up on opposite sides, one of us{n}would survive. The survivor would protect His Majesty{n}to the very end.{p}{v:00C0}That was what Ernest and I agreed upon. And we{n}fulfilled that vow.",
    "term": "end"
   },
   {
    "id": "scen060.0196",
    "jp": "{v:00C1}君たちには感謝しているよ。{p}{v:00C2}さ、今は楽しもう。",
-   "en": "",
+   "en": "{v:00C1}I am grateful to you.{p}{v:00C2}Come, let us enjoy ourselves for now.",
    "term": "end"
   },
   {
    "id": "scen060.0197",
    "jp": "どうぞお楽しみ下さい。",
-   "en": "",
+   "en": "Please enjoy yourselves.",
    "term": "end"
   },
   {
    "id": "scen060.0198",
    "jp": "{v:0000}　　　　　　{FFEE}クックックックッ！{n}　　　　　　愚かな人間どもめ‥‥！{FFF1}",
-   "en": "",
+   "en": "{v:0000}{FFEE}Heh heh heh heh! Foolish humans...!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0199",
    "jp": "{v:0001}何！？{n}この声？{n}どこから聞こえるの？",
-   "en": "",
+   "en": "{v:0001}What?! That voice! Where's it coming from?",
    "term": "end"
   },
   {
    "id": "scen060.0200",
    "jp": "{v:0002}　　　　　{FFEE}聞こえるか、愚かな人間ども！{FFF1}",
-   "en": "",
+   "en": "{v:0002}{FFEE}Can you hear me, foolish humans?!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0201",
    "jp": "{v:0003}やっぱり聞こえる！{n}どこから！？",
-   "en": "",
+   "en": "{v:0003}There it is again! Where's it coming from?!",
    "term": "end"
   },
   {
    "id": "scen060.0202",
    "jp": "{v:0004}頭の中に直接‥‥。{n}この波動は‥‥グローシュ！？{p}‥‥{v:0005}グローシアンの技術なの！？",
-   "en": "",
+   "en": "{v:0004}Directly into my mind... These waves... Grosh?!{p}...{v:0005}Is this a Growsian technique?!",
    "term": "end"
   },
   {
    "id": "scen060.0203",
    "jp": "{v:0006}すごいなぁ、こんな技術を持っていたのか‥‥。",
-   "en": "",
+   "en": "{v:0006}Amazing... I had no idea they possessed such a{n}technique...",
    "term": "end"
   },
   {
    "id": "scen060.0204",
    "jp": "{v:0007}感心してる場合かよ！",
-   "en": "",
+   "en": "{v:0007}This ain't the time to be impressed!",
    "term": "end"
   },
   {
    "id": "scen060.0205",
    "jp": "{v:0008}{FFEE}ついに‥‥私はついに、すべての力を取り戻した！{n}　　　　もう人間のふりをする必要はない！{n}　　　　　覚悟しろ、愚かな人間ども！{FFF1}",
-   "en": "",
+   "en": "{v:0008}{FFEE}At last... At last, I have regained all my power! I no{n}longer need to pretend to be human! Prepare{n}yourselves, foolish humans!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0206",
    "jp": "‥‥{v:0009}この声‥御師様‥‥？",
-   "en": "",
+   "en": "...{v:0009}That voice... My teacher...?",
    "term": "end"
   },
   {
    "id": "scen060.0207",
    "jp": "‥{v:000A}{s:0022}‥‥。",
-   "en": "",
+   "en": "...{v:000A}{s:0022}...",
    "term": "end"
   },
   {
    "id": "scen060.0208",
    "jp": "{v:000B}{FFEE}　　　　　　我が名は{s:0022}。{n}　　　　　キング・オブ・グローシアン。{n}　　　　　お前たちの支配者たる存在だ。{FFF1}",
-   "en": "",
+   "en": "{v:000B}{FFEE}My name is {s:0022}. King of the Growsians.{n}Your rightful ruler.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0209",
    "jp": "{v:000C}支配者だと！？",
-   "en": "",
+   "en": "{v:000C}Our ruler?!",
    "term": "end"
   },
   {
    "id": "scen060.0210",
    "jp": "{v:000D}{FFEE}　　　{s:0116}を倒して浮かれているようだが、{n}　　　我が能力をあの程度と一緒にするなよ。{n}　　　いわば、あれは旧型なのだからな！{FFF1}",
-   "en": "",
+   "en": "{v:000D}{FFEE}You seem quite elated at having defeated{n}{s:0116}, but do not mistake that paltry{n}strength for the measure of my power. That was{p}merely an obsolete model, so to speak!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0211",
    "jp": "{v:000E}それじゃ、あのフェザリアンが言ってた？",
-   "en": "",
+   "en": "{v:000E}Then, is this what that Featherian was talking about?",
    "term": "end"
   },
   {
    "id": "scen060.0212",
    "jp": "{v:000F}{FFEE}これから、この{s:0022}様の支配が始まるのだ！{n}　　　　　　まずは手始めに、{n}　　このランザック王城を吹き飛ばしてくれる！{FFF1}",
-   "en": "",
+   "en": "{v:000F}{FFEE}Now begins the reign of the great {s:0022}!{n}And for my first act, I shall blow this royal castle of{n}Ranzak to pieces!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0213",
    "jp": "{v:0010}な、何！？",
-   "en": "",
+   "en": "{v:0010}W-what?!",
    "term": "end"
   },
   {
    "id": "scen060.0214",
    "jp": "{v:0011}待て、ウェーバー！",
-   "en": "",
+   "en": "{v:0011}Wait, Weber!",
    "term": "end"
   },
   {
    "id": "scen060.0215",
    "jp": "{v:0012}止めるな、{s:0002}！",
-   "en": "",
+   "en": "{v:0012}Don't stop me, {s:0002}!",
    "term": "end"
   },
   {
    "id": "scen060.0216",
    "jp": "{v:0013}今から急いでも、{n}お前が向こうに帰るまでに、{n}どれくらいかかると思ってるんだ？",
-   "en": "",
+   "en": "{v:0013}Even if you leave right now, how long do you think it'll{n}take you to get back there?",
    "term": "end"
   },
   {
    "id": "scen060.0217",
    "jp": "‥‥{v:0014}くっ！{n}しかし、このまま黙っているわけには‥‥。",
-   "en": "",
+   "en": "...{v:0014}Damn! But I can't just stand here and do nothing...",
    "term": "end"
   },
   {
    "id": "scen060.0218",
    "jp": "{v:0015}アタシ達と一緒に行きましょう！",
-   "en": "",
+   "en": "{v:0015}Come with us!",
    "term": "end"
   },
   {
    "id": "scen060.0219",
    "jp": "{v:0016}わたしのテレポートで、すぐに送ってあげられます。",
-   "en": "",
+   "en": "{v:0016}I can get you there right away with my Teleport.",
    "term": "end"
   },
   {
    "id": "scen060.0220",
    "jp": "{v:0017}よし！{n}俺たちと一緒に行こう、ウェーバー。",
-   "en": "",
+   "en": "{v:0017}Right! Come with us, Weber.",
    "term": "end"
   },
   {
    "id": "scen060.0221",
    "jp": "{v:0018}すまない‥‥。",
-   "en": "",
+   "en": "{v:0018}I owe you...",
    "term": "end"
   },
   {
    "id": "scen060.0222",
    "jp": "　{n}　　{FFF0}一緒に戦うメンバーを選んで下さい。{FFF1}",
-   "en": "",
+   "en": "{FFF0}Choose who will fight alongside you.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen060.0223",
    "jp": "{v:001A}アタシを連れてってくれますか！{n}お兄さまのお役に立ちたいの！",
-   "en": "",
+   "en": "{v:001A}Will you take me with you?! I want to help you, Big{n}Brother!",
    "term": "end"
   },
   {
    "id": "scen060.0224",
    "jp": "{s:0006}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0006} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0225",
    "jp": "{v:001B}{s:0006}、がんばるであります！",
-   "en": "",
+   "en": "{v:001B}{s:0006}, reporting for duty! I'll do my best,{n}sir!",
    "term": "end"
   },
   {
    "id": "scen060.0226",
    "jp": "‥‥{v:001C}そうですか‥‥。{n}でも、アタシの力が必要になったら、{n}いつでも声をかけて下さいね！",
-   "en": "",
+   "en": "...{v:001C}Oh, I see... But if you need my help, just say the word!",
    "term": "end"
   },
   {
    "id": "scen060.0227",
    "jp": "{v:001D}僕もご一緒していいのかな？",
-   "en": "",
+   "en": "{v:001D}Would it be all right if I joined you?",
    "term": "end"
   },
   {
    "id": "scen060.0228",
    "jp": "{s:0003}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0003} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0229",
    "jp": "{v:001E}きっと奴を倒せば、真の平和が訪れる。{n}さぁ、がんばろう！",
-   "en": "",
+   "en": "{v:001E}I'm sure true peace will come once we defeat him. Come{n}on, let's give it our all!",
    "term": "end"
   },
   {
    "id": "scen060.0230",
    "jp": "‥‥{v:001F}そうか、仕方ないな。{n}少しはここに残って様子を見るよ。{p}{v:0020}僕の力が必要なら、いつでも呼びに来てくれ。",
-   "en": "",
+   "en": "...{v:001F}I see. Well, it can't be helped. I'll stay here a little while{n}and see how things go.{p}{v:0020}Come and get me whenever you need my help.",
    "term": "end"
   },
   {
    "id": "scen060.0231",
    "jp": "{v:0021}私を連れて行って下さい！",
-   "en": "",
+   "en": "{v:0021}Please take me with you!",
    "term": "end"
   },
   {
    "id": "scen060.0232",
    "jp": "{s:0007}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0007} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0233",
    "jp": "{v:0022}これ以上、不幸な人は増やさせません！",
-   "en": "",
+   "en": "{v:0022}I will not let anyone else suffer!",
    "term": "end"
   },
   {
    "id": "scen060.0234",
    "jp": "‥‥{v:0023}そうですか。",
-   "en": "",
+   "en": "...{v:0023}I see.",
    "term": "end"
   },
   {
    "id": "scen060.0235",
    "jp": "{v:0024}俺も連れてけ！{n}あんな奴、俺が葬ってやるぜ！",
-   "en": "",
+   "en": "{v:0024}Take me along, too! I'll put that bastard in his grave!",
    "term": "end"
   },
   {
    "id": "scen060.0236",
    "jp": "{s:0005}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0005} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0237",
    "jp": "{v:0025}よっしゃ！",
-   "en": "",
+   "en": "{v:0025}All right!",
    "term": "end"
   },
   {
    "id": "scen060.0238",
    "jp": "‥‥{v:0026}チッ！{n}今回は譲ってやるよ‥‥。",
-   "en": "",
+   "en": "...{v:0026}Tch! I'll let you have this one...",
    "term": "end"
   },
   {
    "id": "scen060.0239",
    "jp": "{v:0027}みんなの幸せを守りたいんです！{n}僕を連れていってくれませんか？",
-   "en": "",
+   "en": "{v:0027}I want to protect everyone's happiness! Will you take me{n}with you?",
    "term": "end"
   },
   {
    "id": "scen060.0240",
    "jp": "{s:0004}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0004} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0241",
    "jp": "{v:0028}僕、がんばります！",
-   "en": "",
+   "en": "{v:0028}I'll do my best!",
    "term": "end"
   },
   {
    "id": "scen060.0242",
    "jp": "‥‥{v:0029}そうですか。がんばって下さいね。",
-   "en": "",
+   "en": "...{v:0029}I see. Please give it your all.",
    "term": "end"
   },
   {
    "id": "scen060.0243",
    "jp": "{v:002A}国王として、できるかぎりのことをします。{n}まずは軍隊を動かして、{n}みなさんのバックアップをしますね。",
-   "en": "",
+   "en": "{v:002A}As King, I will do everything I can. First, I will mobilize{n}the army to support you.",
    "term": "end"
   },
   {
    "id": "scen060.0244",
    "jp": "{v:002B}私も‥私も連れて行ってくれぬか？",
-   "en": "",
+   "en": "{v:002B}I, too... Will you take me with you as well?",
    "term": "end"
   },
   {
    "id": "scen060.0245",
    "jp": "{s:0008}をパーティーに加えますか？",
-   "en": "",
+   "en": "Add {s:0008} to the party?",
    "term": "end"
   },
   {
    "id": "scen060.0246",
    "jp": "{v:002C}ありがとう。{n}命の限り、戦い抜くつもりだ。",
-   "en": "",
+   "en": "{v:002C}Thank you. I intend to fight to my last breath.",
    "term": "end"
   },
   {
    "id": "scen060.0247",
    "jp": "‥‥{v:002D}そうか。{n}共に闘えず、残念だ‥‥。",
-   "en": "",
+   "en": "...{v:002D}I see. I regret that we cannot fight together...",
    "term": "end"
   },
   {
    "id": "scen060.0248",
    "jp": "{v:002E}私はライエルやリーヴスと、{s:00E7}を率いて戦う。{n}構わず先に行ってくれ。",
-   "en": "",
+   "en": "{v:002E}I shall lead our {s:00E7} soldiers into battle{n}alongside Lyell and Reeves. Go on ahead without us.",
    "term": "end"
   },
   {
    "id": "scen060.0249",
    "jp": "まさか{s:0022}が‥‥。",
-   "en": "",
+   "en": "To think that {s:0022} would...",
    "term": "end"
   },
   {
    "id": "scen060.0250",
    "jp": "何ということでしょう。{n}やっと平和が訪れたというのに‥‥。",
-   "en": "",
+   "en": "How could this happen? Peace had finally come...",
    "term": "end"
   },
   {
    "id": "scen060.0251",
    "jp": "頼みますよ‥‥。",
-   "en": "",
+   "en": "We are counting on you...",
    "term": "end"
   },
   {
    "id": "scen060.0252",
    "jp": "さぁ、早くランザックへ向かおう！",
-   "en": "",
+   "en": "Come on, let's hurry to Ranzak!",
    "term": "end"
   },
   {
    "id": "scen060.0253",
    "jp": "うぅ‥‥。{n}こんな事がいつまで続くのだ‥‥。",
-   "en": "",
+   "en": "Ugh... How long must this go on...?",
    "term": "end"
   },
   {
    "id": "scen060.0254",
    "jp": "{s:0022}め‥‥。",
-   "en": "",
+   "en": "Curse you, {s:0022}...",
    "term": "end"
   },
   {
    "id": "scen060.0255",
    "jp": "クッ‥‥。",
-   "en": "",
+   "en": "Damn...",
    "term": "end"
   },
   {
    "id": "scen060.0256",
    "jp": "これから我々はどうなるんだ‥‥。",
-   "en": "",
+   "en": "What will become of us now...?",
    "term": "end"
   },
   {
    "id": "scen060.0257",
    "jp": "やっと{s:0116}がいなくなったのに‥‥。",
-   "en": "",
+   "en": "And we had finally rid ourselves of{n}{s:0116}...",
    "term": "end"
   },
   {
    "id": "scen060.0258",
    "jp": "なんて事だ‥‥。",
-   "en": "",
+   "en": "How terrible...",
    "term": "end"
   },
   {
    "id": "scen060.0259",
    "jp": "{v:002F}どうやら決まったみてぇだな。",
-   "en": "",
+   "en": "{v:002F}Looks like you've made up your minds.",
    "term": "end"
   },
   {
    "id": "scen060.0260",
    "jp": "{v:0030}{s:0001}ちゃん！",
-   "en": "",
+   "en": "{v:0030}{s:0001}!",
    "term": "end"
   },
   {
    "id": "scen060.0261",
    "jp": "{v:0031}うん！{FFFB}{n}{v:0032}テレポートするよ！",
-   "en": "",
+   "en": "{v:0031}Right!{FFFB} {v:0032}Here goes Teleport!",
    "term": "end"
   },
   {
    "id": "scen060.0262",
    "jp": "‥‥{v:0033}頼みますよ。",
-   "en": "",
+   "en": "...{v:0033}We are counting on you.",
    "term": "end"
   },
   {
    "id": "scen060.0263",
    "jp": "ランザック王城が危ない",
-   "en": "",
+   "en": "Ranzak's royal castle is in danger.",
    "term": "end"
   },
   {
    "id": "scen060.0264",
    "jp": "どこへ行くつもりだい？",
-   "en": "",
+   "en": "Where are you going?",
    "term": "end"
   },
   {
    "id": "scen060.0265",
    "jp": "お兄ちゃん！{n}今はそれどこじゃないでよ！",
-   "en": "",
+   "en": "Big Brother! This isn't the time for that!",
    "term": "end"
   },
   {
    "id": "scen060.0266",
    "jp": "不思議な力でかき消された‥‥",
-   "en": "",
+   "en": "Dispelled by a mysterious power...",
    "term": "end"
   }
  ]

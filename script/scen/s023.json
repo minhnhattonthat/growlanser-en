@@ -801,523 +801,523 @@
   {
    "id": "scen023.0132",
    "jp": "彼女の絵を買い取りますか？",
-   "en": "",
+   "en": "Buy her paintings?",
    "term": "end"
   },
   {
    "id": "scen023.0133",
    "jp": "えっ！{n}あなた、展示場を持っているの？{n}それじゃ、私の絵を展示させてね！{p}これで絵が売れれば、{n}この村の経済を助けることが出来るわ！{n}人に頼んで、絵を送らせるわね！",
-   "en": "",
+   "en": "What?! You have an exhibition hall? Then please let me{n}display my paintings there!{p}If they sell, I can help the village's economy! I'll have{n}someone deliver them!",
    "term": "end"
   },
   {
    "id": "scen023.0134",
    "jp": "見てくれ、こんなに大きい野菜が取れたよ。",
-   "en": "",
+   "en": "Look at the size of these vegetables we harvested!",
    "term": "end"
   },
   {
    "id": "scen023.0135",
    "jp": "肥料を工夫したかいがあったね。",
-   "en": "",
+   "en": "All that work on the fertilizer paid off, didn't it?",
    "term": "end"
   },
   {
    "id": "scen023.0136",
    "jp": "ああ、土地に合った肥料ってあるんだな。{n}アリオストさんの助言のおかげさ。",
-   "en": "",
+   "en": "Yeah, seems different soils need different fertilizers.{n}It's all thanks to Ariost-san's advice.",
    "term": "end"
   },
   {
    "id": "scen023.0137",
    "jp": "いえ、苦労して配分を変えたのは、{n}僕じゃなくてあなたでしょう？",
-   "en": "",
+   "en": "Oh, no. You're the one who worked so hard to get the{n}proportions right, aren't you?",
    "term": "end"
   },
   {
    "id": "scen023.0138",
    "jp": "ここの畑では薬草も栽培しているだ。{n}あんたら、キュアって魔法を覚えたら{n}薬草なんて必要ねぇって思ってるだろ？{p}んだがな、魔法は詠唱時間が必要だ。{n}急いで回復させたい時は、{n}すぐに使えるアイテムの方が便利なんだな。{p}だから、見かけたら{n}いっぱい買っといた方がいいぞ。",
-   "en": "",
+   "en": "We grow medicinal herbs in these fields, too. You reckon{n}you won't need herbs once you've learned that Cure{n}spell, don't ya?{p}Thing is, magic takes time to cast. When you need to{n}heal in a hurry, items are handier. You can use 'em{n}right away.{p}So when you see some for sale, stock up.",
    "term": "end"
   },
   {
    "id": "scen023.0139",
    "jp": "立派な村になったものですねぇ‥‥。",
-   "en": "",
+   "en": "What a fine village this has become...",
    "term": "end"
   },
   {
    "id": "scen023.0140",
    "jp": "そうじゃのぉ‥‥。",
-   "en": "",
+   "en": "Indeed it has, eh...",
    "term": "end"
   },
   {
    "id": "scen023.0141",
    "jp": "おお、アリオスト。{n}お主は村の誇りじゃよ。",
-   "en": "",
+   "en": "Ah, Ariost. You're the pride of our village, my boy.",
    "term": "end"
   },
   {
    "id": "scen023.0142",
    "jp": "ふふふ、おじいさんったらそればっかり‥‥。",
-   "en": "",
+   "en": "Hee hee, you say that every time, dear...",
    "term": "end"
   },
   {
    "id": "scen023.0143",
    "jp": "それに引き替え、うちのバカ息子は{n}グランシルなんぞへ行きおって‥‥。",
-   "en": "",
+   "en": "And then there's that fool son of ours, running off to{n}Grancil of all places...",
    "term": "end"
   },
   {
    "id": "scen023.0144",
    "jp": "きっと彼も、いつか戻ってきますよ。",
-   "en": "",
+   "en": "I'm sure he'll come back someday, too.",
    "term": "end"
   },
   {
    "id": "scen023.0145",
    "jp": "そうじゃな。{n}帰ってきたら村を見て腰を抜かすじゃろ。",
-   "en": "",
+   "en": "Aye. When he comes back and sees the village, he'll fall{n}over in surprise.",
    "term": "end"
   },
   {
    "id": "scen023.0146",
    "jp": "立派な村になったものじゃ‥‥。",
-   "en": "",
+   "en": "What a fine village this has become, eh...",
    "term": "end"
   },
   {
    "id": "scen023.0147",
    "jp": "ほんとにねぇ‥‥。",
-   "en": "",
+   "en": "It certainly has, dear...",
    "term": "end"
   },
   {
    "id": "scen023.0148",
    "jp": "俺もアリオストさんみたいに頭よくなりたいなぁ～。",
-   "en": "",
+   "en": "I wanna be smart like Ariost-san, too!",
    "term": "end"
   },
   {
    "id": "scen023.0149",
    "jp": "頭の善し悪しじゃないさ。{n}人の役に立とうと思ったら{n}しっかり勉強するんだよ。",
-   "en": "",
+   "en": "It isn't a matter of how clever you are. If you want to{n}help people, study hard.",
    "term": "end"
   },
   {
    "id": "scen023.0150",
    "jp": "うん、俺もがんばるよ！",
-   "en": "",
+   "en": "Yeah, I'll do my best!",
    "term": "end"
   },
   {
    "id": "scen023.0151",
    "jp": "無理無理！{n}アリオストさんと比べるなんて笑っちゃうわ。",
-   "en": "",
+   "en": "Not a chance! You think you can compare to Ariost-san?{n}That's a laugh!",
    "term": "end"
   },
   {
    "id": "scen023.0152",
    "jp": "ちきしょー！",
-   "en": "",
+   "en": "Damn it!",
    "term": "end"
   },
   {
    "id": "scen023.0153",
    "jp": "人間、力ばっかりじゃダメよね。{n}誰かさんみたいに。",
-   "en": "",
+   "en": "There's more to life than being strong. Someone here{n}could stand to learn that.",
    "term": "end"
   },
   {
    "id": "scen023.0154",
    "jp": "なんだと！",
-   "en": "",
+   "en": "What was that?!",
    "term": "end"
   },
   {
    "id": "scen023.0155",
    "jp": "こらこら、けんかはいけないよ。{n}子供のうちはしっかり遊んで体を鍛えるのも大切さ。",
-   "en": "",
+   "en": "Now, now, no fighting. When you're children, playing and{n}building your strength is important, too.",
    "term": "end"
   },
   {
    "id": "scen023.0156",
    "jp": "アリオストさんってやっぱり素敵だわ‥‥。",
-   "en": "",
+   "en": "Ariost-san really is wonderful...",
    "term": "end"
   },
   {
    "id": "scen023.0157",
    "jp": "{v:0010}やぁ、どうしたんだい？",
-   "en": "",
+   "en": "{v:0010}Hello. What's the matter?",
    "term": "end"
   },
   {
    "id": "scen023.0158",
    "jp": "{v:0011}学院長の秘書さんを見なかった？",
-   "en": "",
+   "en": "{v:0011}Have you seen the Headmaster's secretary?",
    "term": "end"
   },
   {
    "id": "scen023.0159",
    "jp": "{v:0012}ああ、見かけたよ。{n}それで、声をかけたけど無視されてしまったよ。{n}聞こえなかったのかな？{p}{v:0013}それになんだか急いでるみたいだったよ。",
-   "en": "",
+   "en": "{v:0012}Yes, I saw her. I called out, but she ignored me.{n}Perhaps she didn't hear me?{p}{v:0013}She seemed to be in a hurry, too.",
    "term": "end"
   },
   {
    "id": "scen023.0160",
    "jp": "{v:0014}それで、どっちへ行ったんだ？",
-   "en": "",
+   "en": "{v:0014}Which way did she go?",
    "term": "end"
   },
   {
    "id": "scen023.0161",
    "jp": "{v:0015}西の、王都の方へ行ったけど？{n}何かあったのかい？",
-   "en": "",
+   "en": "{v:0015}West, toward the royal capital. Has something{n}happened?",
    "term": "end"
   },
   {
    "id": "scen023.0162",
    "jp": "アリオストをパーティーに加えますか？",
-   "en": "",
+   "en": "Add Ariost to the party?",
    "term": "end"
   },
   {
    "id": "scen023.0163",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
+   "en": "{v:0015}But that would make too many of us. Someone will have{n}to leave the party.",
    "term": "end"
   },
   {
    "id": "scen023.0164",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
    "id": "scen023.0165",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0166",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0167",
    "jp": "カレンの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Karen's equipment?",
    "term": "end"
   },
   {
    "id": "scen023.0168",
    "jp": "{v:001A}お願いお兄さま、アタシを外さないで！{p}{v:001B}アタシはおじさまに会って、本当の事を知りたいの！",
-   "en": "",
+   "en": "{v:001A}Please, Big Brother, don't leave me behind!{p}{v:001B}I want to see Uncle and find out the truth!",
    "term": "end"
   },
   {
    "id": "scen023.0169",
    "jp": "　{n}　　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen023.0170",
    "jp": "{v:0017}喜んで参加させてもらうよ。",
-   "en": "",
+   "en": "{v:0017}I'd be happy to join you.",
    "term": "end"
   },
   {
    "id": "scen023.0171",
    "jp": "{v:0018}アリオストさんがいれば心強いもんね。",
-   "en": "",
+   "en": "{v:0018}Having you with us is reassuring, Ariost-san.",
    "term": "end"
   },
   {
    "id": "scen023.0172",
    "jp": "{v:0019}はは、そんなことはないさ。",
-   "en": "",
+   "en": "{v:0019}Haha, you give me too much credit.",
    "term": "end"
   },
   {
    "id": "scen023.0173",
    "jp": "{v:001C}そうかい？{n}僕の力が必要ならいつでも会いに来てくれ。{n}力になるよ。",
-   "en": "",
+   "en": "{v:001C}Is that so? Come and see me anytime you need me. I'll{n}help however I can.",
    "term": "end"
   },
   {
    "id": "scen023.0174",
    "jp": "{v:001D}ありがとう、アリオストさん。",
-   "en": "",
+   "en": "{v:001D}Thank you, Ariost-san.",
    "term": "end"
   },
   {
    "id": "scen023.0175",
    "jp": "がんばって下さいね。",
-   "en": "",
+   "en": "Good luck to you.",
    "term": "end"
   },
   {
    "id": "scen023.0176",
    "jp": "がんばって下さい★",
-   "en": "",
+   "en": "Good luck!",
    "term": "end"
   },
   {
    "id": "scen023.0177",
    "jp": "{v:0000}おお、あんたらか！{p}{v:0001}見てくれ、このありさま。{n}ヒドイもんさ？",
-   "en": "",
+   "en": "{v:0000}Oh, it's you lot!{p}{v:0001}Look at this mess. Terrible, ain't it?",
    "term": "end"
   },
   {
    "id": "scen023.0178",
    "jp": "{v:0002}あの‥‥わたし達のこと、怒らないの？",
-   "en": "",
+   "en": "{v:0002}Um... Aren't you angry with us?",
    "term": "end"
   },
   {
    "id": "scen023.0179",
    "jp": "{v:0003}怒る？{n}どうしてさ？",
-   "en": "",
+   "en": "{v:0003}Angry? Why would I be?",
    "term": "end"
   },
   {
    "id": "scen023.0180",
    "jp": "{v:0004}だって、パワーストーン渡しちゃったのって‥‥。",
-   "en": "",
+   "en": "{v:0004}But we were the ones who handed over the Power{n}Stone...",
    "term": "end"
   },
   {
    "id": "scen023.0181",
    "jp": "{v:0005}そりゃ、仕方ないさ。{n}おおかた、ほかの人たちに脅かされたんだろ？{p}{v:0006}あんたたちは何も悪くないさ。{n}悪いのはあのヴェンツェルとかいう奴さ。",
-   "en": "",
+   "en": "{v:0005}Well, you couldn't help that. Someone must've{n}threatened you into it, right?{p}{v:0006}You haven't done anything wrong. It's that Wenzel fellow{n}who's to blame.",
    "term": "end"
   },
   {
    "id": "scen023.0182",
    "jp": "{v:0006}あんたたちは何も悪くないさ。{n}悪いのはあのヴェンツェルとかいう奴さ。",
-   "en": "",
+   "en": "{v:0006}You haven't done anything wrong. It's that Wenzel fellow{n}who's to blame.",
    "term": "end"
   },
   {
    "id": "scen023.0183",
    "jp": "{v:0007}畑がだめになったのさ。{n}だから、もう一度、作り直すさ。{p}{v:0008}元々、この村は何にもないところにオラたちが{n}造ったんだ。　幸い怪我人も出なかったし、{n}村を造り直すだけで元通りさ。",
-   "en": "",
+   "en": "{v:0007}The fields are ruined. So we'll just have to start over.{p}{v:0008}We built this village from nothing in the first place.{n}Luckily, nobody got hurt. We just have to rebuild, and{n}it'll be good as ever.",
    "term": "end"
   },
   {
    "id": "scen023.0184",
    "jp": "{v:0009}俺たちを守ってくれたインペリアル・ナイトさん、{n}大丈夫かなぁ？{p}{v:000A}傷がひどかったから、バーンシュタインの兵隊さんに{n}引き取ってもらったんだけど‥‥？",
-   "en": "",
+   "en": "{v:0009}I wonder if that Imperial Knight-san who protected us{n}is all right.{p}{v:000A}He was hurt so badly, we had the Burnstein soldiers{n}take him into their care...",
    "term": "end"
   },
   {
    "id": "scen023.0185",
    "jp": "当店をご利用でしたら、こちらで記帳なさって下さい。",
-   "en": "",
+   "en": "If you would like to stay here, please sign the{n}register.",
    "term": "end"
   },
   {
    "id": "scen023.0186",
    "jp": "いらっしゃいませ。{n}お泊まりは{FFEB}エルムですが？",
-   "en": "",
+   "en": "Welcome. A stay costs {FFEB} Elm. Will you be staying?",
    "term": "end"
   },
   {
    "id": "scen023.0187",
    "jp": "ごゆっくりお休み下さい。",
-   "en": "",
+   "en": "Please enjoy your rest.",
    "term": "end"
   },
   {
    "id": "scen023.0188",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
+   "en": "Thank you. Have a safe journey.",
    "term": "end"
   },
   {
    "id": "scen023.0189",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
+   "en": "Sir...[01BE] I'm afraid you do not have enough money.",
    "term": "end"
   },
   {
    "id": "scen023.0190",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
+   "en": "We look forward to your next visit.",
    "term": "end"
   },
   {
    "id": "scen023.0191",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here!",
    "term": "end"
   },
   {
    "id": "scen023.0192",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
+   "en": "{v:0002}Now, what can I do for you?",
    "term": "end"
   },
   {
    "id": "scen023.0193",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0194",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0195",
    "jp": "まだ用事はあるかい？",
-   "en": "",
+   "en": "Anything else you need?",
    "term": "end"
   },
   {
    "id": "scen023.0196",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0197",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen023.0198",
    "jp": "{v:000B}またおいで～。{n}待ってるよ～。",
-   "en": "",
+   "en": "{v:000B}Come agaaain! I'll be waiting!",
    "term": "end"
   },
   {
    "id": "scen023.0199",
    "jp": "{v:0000}つきました。",
-   "en": "",
+   "en": "{v:0000}We're here.",
    "term": "end"
   },
   {
    "id": "scen023.0200",
    "jp": "{v:0001}ありがとう。{n}貴女はすぐに戻ってください。{n}奴に見つかって、どんな行動を取られるかわからない。",
-   "en": "",
+   "en": "{v:0001}Thank you. Please return at once. If he sees you,{n}there is no telling what he might do.",
    "term": "end"
   },
   {
    "id": "scen023.0201",
    "jp": "{v:0002}う、うん‥‥。{n}気をつけてください。",
-   "en": "",
+   "en": "{v:0002}Y-yes... Please be careful.",
    "term": "end"
   },
   {
    "id": "scen023.0202",
    "jp": "{v:0003}よし、行くぞ。",
-   "en": "",
+   "en": "{v:0003}All right. Let's go.",
    "term": "end"
   },
   {
    "id": "scen023.0203",
    "jp": "{v:0004}来たか‥‥。",
-   "en": "",
+   "en": "{v:0004}So, you have come...",
    "term": "end"
   },
   {
    "id": "scen023.0204",
    "jp": "{v:0005}約束の物を持ってきた。{n}村人を解放してもらおうか。",
-   "en": "",
+   "en": "{v:0005}We've brought what we promised. Now release the{n}villagers.",
    "term": "end"
   },
   {
    "id": "scen023.0205",
    "jp": "{v:0006}交渉ごとは対等でなくてはいかんな。{p}{v:0007}パワーストーンを見せてみろ。",
-   "en": "",
+   "en": "{v:0006}Negotiations must be conducted on equal terms.{p}{v:0007}Show me the Power Stone.",
    "term": "end"
   },
   {
    "id": "scen023.0206",
    "jp": "{v:0008}これだ。",
-   "en": "",
+   "en": "{v:0008}Here it is.",
    "term": "end"
   },
   {
    "id": "scen023.0207",
    "jp": "{v:0009}本物のようだな。{n}よかろう。",
-   "en": "",
+   "en": "{v:0009}It appears to be genuine. Very well.",
    "term": "end"
   },
   {
    "id": "scen023.0208",
    "jp": "{v:000A}おい、村人を避難させろ。",
-   "en": "",
+   "en": "{v:000A}You there. Evacuate the villagers.",
    "term": "end"
   },
   {
    "id": "scen023.0209",
    "jp": "{v:000B}はっ！",
-   "en": "",
+   "en": "{v:000B}Yes, sir!",
    "term": "end"
   },
   {
    "id": "scen023.0210",
    "jp": "{v:000C}これで良いだろう？",
-   "en": "",
+   "en": "{v:000C}Satisfied?",
    "term": "end"
   },
   {
    "id": "scen023.0211",
    "jp": "{v:000D}忌々しい石め‥‥。{n}だがこれさえなければ‥‥。",
-   "en": "",
+   "en": "{v:000D}Accursed stone... But once it is gone...",
    "term": "end"
   },
   {
    "id": "scen023.0212",
    "jp": "{v:000E}‥‥‥。",
-   "en": "",
+   "en": "{v:000E}...",
    "term": "end"
   },
   {
    "id": "scen023.0213",
    "jp": "{v:000F}クックックッ！{n}これで私に弱点はなくなった！{n}実にいい気分だ！{p}{v:0010}さて、これで心おきなく、{n}この村を破壊することができる！",
-   "en": "",
+   "en": "{v:000F}Heh heh heh! Now I have no weaknesses! What a{n}glorious feeling!{p}{v:0010}Now, I can destroy this village without a care!",
    "term": "end"
   },
   {
    "id": "scen023.0214",
    "jp": "{v:0011}なに！？{n}貴様、最初から‥‥！",
-   "en": "",
+   "en": "{v:0011}What?! You planned this all along...!",
    "term": "end"
   },
   {
    "id": "scen023.0215",
    "jp": "{v:0012}約束など、対等の立場でなければなりたたんのだよ。{n}この私と、愚かな人間とで対等だと思っているのか！",
-   "en": "",
+   "en": "{v:0012}Promises are only binding between equals. Do you{n}imagine that you foolish humans are my equals?!",
    "term": "end"
   },
   {
    "id": "scen023.0216",
    "jp": "{v:0013}貴様！",
-   "en": "",
+   "en": "{v:0013}You bastard!",
    "term": "end"
   },
   {
    "id": "scen023.0217",
    "jp": "{v:0014}さぁ、私の力を味わいながら死ぬがいい！",
-   "en": "",
+   "en": "{v:0014}Now, taste my power and die!",
    "term": "end"
   }
  ]

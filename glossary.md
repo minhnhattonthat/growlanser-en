@@ -180,5 +180,62 @@ alternatives); an Avoid spelling fails.
 | ラファガ | Rafaga | | | |
 | エンジェルリング | Angel Ring | | | |
 
+## Terms from translator reports, waves 0-1 (tools/newterms.py, controller-picked 2026-11-18; conflicts: majority or item-table spelling)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| アルヴィース | Alviss | | legendary great sage | Alvis |
+| リーヴェイグ | Liveig | | berserker; his magic sword | Riveig |
+| ズフタフ | Dubthach | | | Zufutafu |
+| スキマ屋 | Nook Shop | | shop chain | Sukima |
+| 南大通り商店街 | South Avenue Shopping District | | | South Main Street |
+| バイト店員 | Part-Time Clerk | | | |
+| 学食の親父 | Cafeteria Owner | | | Cafeteria Cook |
+| 特別研究室フロア | Special Research Labs | | Academy floor B1 (elevator: "B1 Special Research Labs") | |
+| 薬剤研究フロア | Pharmaceutical Research | | Academy floor 6F (elevator: "6F Pharmaceutical Research") | |
+| 重要図書閲覧室 | Restricted Reading Room | | Academy library | |
+| 月の満ち欠けと時空の歪み | Phases of the Moon and Distortions in Space-Time | | book title | Lunar Phases |
+| デカゲル | Big Gel | | enemy | Giant Gel |
+| 身代わり人形 | Substitute Doll | | | |
+| エネルギー供給機 | Energy Supply Unit | | | |
+| オスカー・リーヴス | Oscar Reeves | | | |
+| オルトロス | Orthros | | | |
+| カダーオ | Kadao | | | |
+| ギンナル | Ginnar | | | |
+| クレスト武器店 | Crest Weapons | | shop | |
+| クローディア | Claudia | | | |
+| グローシュ波動 | Grosh wave | | | |
+| ゲンドゥール島 | Gendul Island | | | |
+| ゲヴェル融合体 | Gevel Fusion | | | |
+| シャドー・ナイト | Shadow Knight | | | |
+| シュテーム山 | Mount Shutem | | | |
+| スヴァンニ | Svanni | | | |
+| ソフィー | Sophie | | | |
+| ダニー・グレイズ | Danny Glaze | | | |
+| ノラン | Nolan | | | |
+| ニコラ・Ｃ | Nicola C. | | professor | |
+| プロキンス・Ａ | Prokins A. | | professor | |
+| マクスウェル・Ｊ | Maxwell J. | | professor | |
+| ブレーム火山 | Brehm Volcano | | | |
+| ラウリン | Laurin | | | |
+| ローザリア警備隊 | Rosaria Guard | | | |
+| ヴァルタム | Valtam | | | |
+| ヴィンダル | Vindar | | | |
+| ヴェルダン | Verdan | | | |
+| 世界樹 | World Tree | | | |
+| 仮面兵士 | Masked Soldier | | | |
+| 学院長 | Headmaster | | 副学院長 = Vice Headmaster | |
+| 封魔祭 | Demon Sealing Festival | | | |
+| 建国祭 / 建国記念祭 | Founding Festival | | | |
+| 戦乙女 | Valkyrie | | | |
+| 第一近衛騎士団 | First Royal Guard | | | |
+| 迷いの森 | Lost Forest | | | |
+| 滝の洞窟 / 滝洞窟 | Waterfall Cave | | | |
+| 黒ヴェンツェル | Dark Wenzel | | | |
+| 魔法技術管理法 | Magical Technology Control Act | | | |
+| 肉の城 | Castle of Flesh | | | |
+| ＧＬカード | GL Card | | | |
+
 ## Decisions from earlier batches
-- (none yet)
+- 秘石 (in dialogue) = Power Stone, like パワーストーン; the item 秘石制御装置 stays "Gem Control Unit" (96 px item cap).
+- Case-only variants (Magic Crystal / magic crystal, Multipurpose Hall) follow normal English capitalisation: proper
+  names and item names capitalised, common nouns in running text lower case.

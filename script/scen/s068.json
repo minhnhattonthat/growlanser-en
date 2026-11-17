@@ -15,109 +15,109 @@
   {
    "id": "scen068.0001",
    "jp": "ティピ",
-   "en": "",
+   "en": "Tippi",
    "term": "null"
   },
   {
    "id": "scen068.0002",
    "jp": "青年",
-   "en": "",
+   "en": "Young Man",
    "term": "null"
   },
   {
    "id": "scen068.0003",
    "jp": "謎の声",
-   "en": "",
+   "en": "Mysterious Voice",
    "term": "null"
   },
   {
    "id": "scen068.0004",
    "jp": "謎の女性",
-   "en": "",
+   "en": "Mysterious Woman",
    "term": "null"
   },
   {
    "id": "scen068.0005",
    "jp": "西の岬",
-   "en": "",
+   "en": "West Cape",
    "term": "end"
   },
   {
    "id": "scen068.0006",
    "jp": "あの‥‥。{n}僕は一度、村に寄りたいと言ったはずだが‥‥。{n}戻ってもらえないかな？",
-   "en": "",
+   "en": "Um... I believe I said I wanted to stop by the village{n}first... Could you take me back?",
    "term": "end"
   },
   {
    "id": "scen068.0007",
    "jp": "あの遠くに見える尖塔の先にあるのが{n}フェザリアンの浮き島だね。{n}あそこまでどうやっていけばいいのかな？",
-   "en": "",
+   "en": "That island beyond the spire in the distance is the{n}Featherians' floating island. How are we going to get{n}all the way up there?",
    "term": "end"
   },
   {
    "id": "scen068.0008",
    "jp": "そういえば、あそこに行くんだって{n}言っていた人がいたね。",
-   "en": "",
+   "en": "Come to think of it, we met someone who said he was{n}going there.",
    "term": "end"
   },
   {
    "id": "scen068.0009",
    "jp": "ならばその人物に会おう。",
-   "en": "",
+   "en": "Then let us meet this person.",
    "term": "end"
   },
   {
    "id": "scen068.0010",
    "jp": "ここでアリオストさんに会ったんだよ。",
-   "en": "",
+   "en": "This is where we met Ariost-san.",
    "term": "end"
   },
   {
    "id": "scen068.0011",
    "jp": "でも、アリオストさんは魔法学院に帰ったんだよね？{n}お兄ちゃん、どうしてここに来たの？",
-   "en": "",
+   "en": "But Ariost-san went back to the Magic Academy, didn't{n}he? Big Brother, why did we come here?",
    "term": "end"
   },
   {
    "id": "scen068.0012",
    "jp": "まず彼に会って、フェザリアンの所へ行く方法を{n}探す事だな。{p}サンドラ様が危ないんだろ？{n}遊んでいる暇はないぞ。",
-   "en": "",
+   "en": "First, we meet him and find a way to reach the{n}Featherians.{p}Sandra-sama's life is in danger, isn't it? We've got no{n}time to fool around.",
    "term": "end"
   },
   {
    "id": "scen068.0013",
    "jp": "魔法学院ならウォレスさんと会った村よりずっと東、{n}バーンシュタイン王国との境にあるの。",
-   "en": "",
+   "en": "The Magic Academy is far east of the village where we{n}met Wallace-san, on the border with the Kingdom of{n}Burnstein.",
    "term": "end"
   },
   {
    "id": "scen068.0014",
    "jp": "{v:0003}へぇ、ここがそうなんだ。{n}いい眺めね。{p}{v:0004}あ、アレ！",
-   "en": "",
+   "en": "{v:0003}Oh, so this is the place. Nice view.{p}{v:0004}Hey, look!",
    "term": "end"
   },
   {
    "id": "scen068.0015",
    "jp": "{v:0005}羽のはえた人だぁ‥‥。{p}{v:0006}何だろ‥‥。",
-   "en": "",
+   "en": "{v:0005}People with wings...{p}{v:0006}What are they...?",
    "term": "end"
   },
   {
    "id": "scen068.0016",
    "jp": "{v:0007}彼らは{FFEF}フェザリアン{FFF1}。{n}あまり地上に降りてこないからね、{n}知らなくても無理はない。",
-   "en": "",
+   "en": "{v:0007}They are {FFEF}Featherians{FFF1}. They rarely come down to the{n}surface, so it is understandable that you do not know{n}of them.",
    "term": "end"
   },
   {
    "id": "scen068.0017",
    "jp": "{v:0008}えっ？",
-   "en": "",
+   "en": "{v:0008}Huh?",
    "term": "end"
   },
   {
    "id": "scen068.0018",
    "jp": "岬からの帰宅途中",
-   "en": "",
+   "en": "On the way home from the cape",
    "term": "end"
   },
   {

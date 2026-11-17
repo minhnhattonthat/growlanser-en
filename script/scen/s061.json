@@ -15,285 +15,285 @@
   {
    "id": "scen061.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen061.0002",
    "jp": "男性市民",
-   "en": "",
+   "en": "Male Citizen",
    "term": "null"
   },
   {
    "id": "scen061.0003",
    "jp": "女性市民",
-   "en": "",
+   "en": "Female Citizen",
    "term": "null"
   },
   {
    "id": "scen061.0004",
    "jp": "魔術師",
-   "en": "",
+   "en": "Mage",
    "term": "null"
   },
   {
    "id": "scen061.0005",
    "jp": "看守",
-   "en": "",
+   "en": "Jailer",
    "term": "null"
   },
   {
    "id": "scen061.0006",
    "jp": "調理人",
-   "en": "",
+   "en": "Cook",
    "term": "null"
   },
   {
    "id": "scen061.0007",
    "jp": "王母アンジェラ",
-   "en": "",
+   "en": "Queen Mother Angela",
    "term": "null"
   },
   {
    "id": "scen061.0008",
    "jp": "バーンシュタイン王城",
-   "en": "",
+   "en": "Burnstein Royal Castle",
    "term": "end"
   },
   {
    "id": "scen061.0009",
    "jp": "{s:001B}は地下牢にいるはずです。",
-   "en": "",
+   "en": "{s:001B} should be in the dungeon.",
    "term": "end"
   },
   {
    "id": "scen061.0010",
    "jp": "牢屋って地下だよね？",
-   "en": "",
+   "en": "The cells are underground, right?",
    "term": "end"
   },
   {
    "id": "scen061.0011",
    "jp": "{v:0000}お帰りなさいませ、陛下。",
-   "en": "",
+   "en": "{v:0000}Welcome back, Your Majesty.",
    "term": "end"
   },
   {
    "id": "scen061.0012",
    "jp": "{v:0001}重要な話があります。{n}インペリアル・ナイツを召集してください。",
-   "en": "",
+   "en": "{v:0001}There is an important matter to discuss. Please summon{n}the Imperial Knights.",
    "term": "end"
   },
   {
    "id": "scen061.0013",
    "jp": "{v:0002}はい、かしこまりました。",
-   "en": "",
+   "en": "{v:0002}Yes, Your Majesty. At once.",
    "term": "end"
   },
   {
    "id": "scen061.0014",
    "jp": "{v:0003}やぁ、みなさん。",
-   "en": "",
+   "en": "{v:0003}Hello, everyone.",
    "term": "end"
   },
   {
    "id": "scen061.0015",
    "jp": "{v:0004}{s:0022}のことで、話があるんだ。{n}エリオ‥‥国王陛下は？",
-   "en": "",
+   "en": "{v:0004}We need to talk about {s:0022}. Where is{n}Ellio... His Majesty?",
    "term": "end"
   },
   {
    "id": "scen061.0016",
    "jp": "{v:0005}謁見の間にいらっしゃいます。どうぞ。",
-   "en": "",
+   "en": "{v:0005}He is in the audience chamber. Please, go in.",
    "term": "end"
   },
   {
    "id": "scen061.0017",
    "jp": "{v:0006}インペリアル・ナイツもいた方がいい。{n}ライエルは？",
-   "en": "",
+   "en": "{v:0006}The Imperial Knights should be there, too. Where is{n}Lyell?",
    "term": "end"
   },
   {
    "id": "scen061.0018",
    "jp": "{v:0007}インペリアル・ナイツの人にも{n}聞いてもらった方がいいと思うんだ。{n}{s:0008}達は？",
-   "en": "",
+   "en": "{v:0007}I think the Imperial Knights should hear this, too.{n}Where are {s:0008} and the others?",
    "term": "end"
   },
   {
    "id": "scen061.0019",
    "jp": "{v:0008}わかった。{n}僕が呼んでくるよ。",
-   "en": "",
+   "en": "{v:0008}Understood. I will fetch them.",
    "term": "end"
   },
   {
    "id": "scen061.0020",
    "jp": "{v:002F}た、大変です！{n}化け物が街に！",
-   "en": "",
+   "en": "{v:002F}T-trouble! A monster is in the city!",
    "term": "end"
   },
   {
    "id": "scen061.0021",
    "jp": "{v:0030}大変！",
-   "en": "",
+   "en": "{v:0030}Oh, no!",
    "term": "end"
   },
   {
    "id": "scen061.0022",
    "jp": "アンタ、どこへ行こうって言うのよ！",
-   "en": "",
+   "en": "Hey, where do you think you're going?!",
    "term": "end"
   },
   {
    "id": "scen061.0023",
    "jp": "{v:0035}ん？{n}君たち‥‥。",
-   "en": "",
+   "en": "{v:0035}Hm? You...",
    "term": "end"
   },
   {
    "id": "scen061.0024",
    "jp": "{v:0036}戻ってきたのですか？{n}それでランザック城は？",
-   "en": "",
+   "en": "{v:0036}You have returned? What happened to Ranzak Castle?",
    "term": "end"
   },
   {
    "id": "scen061.0025",
    "jp": "{v:0037}それがヒドイのよ！{n}{s:0022}の奴、一瞬でお城を壊しちゃったのよ！",
-   "en": "",
+   "en": "{v:0037}It was awful! That creep {s:0022} destroyed{n}the castle in an instant!",
    "term": "end"
   },
   {
    "id": "scen061.0026",
    "jp": "{v:0038}一瞬で？{n}そんなバカな！？",
-   "en": "",
+   "en": "{v:0038}In an instant? That's impossible!",
    "term": "end"
   },
   {
    "id": "scen061.0027",
    "jp": "{v:0039}それより、フェザリアンの人が、{n}話があるから来て欲しいって‥‥。",
-   "en": "",
+   "en": "{v:0039}More importantly, a Featherian wants us to come and{n}hear what they have to say...",
    "term": "end"
   },
   {
    "id": "scen061.0028",
    "jp": "{v:003A}そうそう！{n}{s:0003}さんも絶対来るようにって。{n}それで迎えに来たの！",
-   "en": "",
+   "en": "{v:003A}Oh, right! And they insisted that {s:0003}{n}come, too. That's why we're here to get you!",
    "term": "end"
   },
   {
    "id": "scen061.0029",
    "jp": "‥‥{v:003B}母さんのことで何かあったのかな？{p}{FC02}{v:003C}わかった。{n}僕も連れていってくれ。",
-   "en": "",
+   "en": "...{v:003B}I wonder if something happened to Mother?{p}{FC02}{v:003C}All right. Take me with you.",
    "term": "end"
   },
   {
    "id": "scen061.0030",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
    "id": "scen061.0031",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0032",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0033",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
+   "en": "Recover {s:FFED}'s equipment?",
    "term": "end"
   },
   {
    "id": "scen061.0034",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
+   "en": "Recover {s:FFEE}'s equipment?",
    "term": "end"
   },
   {
    "id": "scen061.0035",
    "jp": "　{n}　　　　　{FFEF}{s:0003}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}{s:0003} joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0036",
    "jp": "{v:003D}それじゃ、マスター！{n}行って来ます！",
-   "en": "",
+   "en": "{v:003D}Well, Master! We're off!",
    "term": "end"
   },
   {
    "id": "scen061.0037",
    "jp": "{v:0039}とっとと奴のいう通りにしろ！",
-   "en": "",
+   "en": "{v:0039}Hurry up and do what he says!",
    "term": "end"
   },
   {
    "id": "scen061.0038",
    "jp": "{v:003A}私たちにまで攻撃するって言ってるじゃない！",
-   "en": "",
+   "en": "{v:003A}He said he'd attack us, too!",
    "term": "end"
   },
   {
    "id": "scen061.0039",
    "jp": "{v:003B}お前たち、あれが敵のワナだとわからないのか！",
-   "en": "",
+   "en": "{v:003B}Don't you realize it's the enemy's trap?!",
    "term": "end"
   },
   {
    "id": "scen061.0040",
    "jp": "{v:003C}戦う力のある奴はいい！{n}だが、俺たちはどうなる？",
-   "en": "",
+   "en": "{v:003C}That's fine for those of you who can fight! But what{n}about us?",
    "term": "end"
   },
   {
    "id": "scen061.0041",
    "jp": "{v:003D}そうよ！{n}私たちに死ねというの？",
-   "en": "",
+   "en": "{v:003D}That's right! Are you telling us to die?!",
    "term": "end"
   },
   {
    "id": "scen061.0042",
    "jp": "{v:003E}みなさん、落ち着いて！",
-   "en": "",
+   "en": "{v:003E}Everyone, please calm down!",
    "term": "end"
   },
   {
    "id": "scen061.0043",
    "jp": "{v:003F}すごいことになってる‥‥。",
-   "en": "",
+   "en": "{v:003F}Things are really getting out of hand...",
    "term": "end"
   },
   {
    "id": "scen061.0044",
    "jp": "{v:0040}どうなさいますか？{n}このままでは収まりがつきませんよ？",
-   "en": "",
+   "en": "{v:0040}What will you do? This will not settle down on its own.",
    "term": "end"
   },
   {
    "id": "scen061.0045",
    "jp": "{v:0041}一番たちの悪いことがおこっちまったな。",
-   "en": "",
+   "en": "{v:0041}This is about the worst thing that could've happened.",
    "term": "end"
   },
   {
    "id": "scen061.0046",
    "jp": "{v:0042}どうしたら納得してくれるのかしら？",
-   "en": "",
+   "en": "{v:0042}I wonder how we can get through to them?",
    "term": "end"
   },
   {
    "id": "scen061.0047",
    "jp": "{v:0043}みなさん、聞いてください！",
-   "en": "",
+   "en": "{v:0043}Everyone, please listen!",
    "term": "end"
   },
   {
@@ -1139,640 +1139,640 @@
   {
    "id": "scen061.0187",
    "jp": "{FFEE}{v:0012}　　　さあ、パワーストーンを持って、{n}　　　ブローニュ村まで来い。{n}　急いでこなければ、私の気が変わるかも知れんぞ？{p}　　　‥‥{v:0013}わっはっはっはっはっ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}{v:0012}Now, bring the Power Stone to Boulogne Village. Hurry,{n}or I may change my mind.{p}...{v:0013}Wahahahaha!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0188",
    "jp": "{v:0014}村のみんなが‥‥人質に？",
-   "en": "",
+   "en": "{v:0014}Everyone in the village... taken hostage?",
    "term": "end"
   },
   {
    "id": "scen061.0189",
    "jp": "{v:0015}{s:0003}さんの村が‥‥人質？",
-   "en": "",
+   "en": "{v:0015}Your village, {s:0003}... taken hostage?",
    "term": "end"
   },
   {
    "id": "scen061.0190",
    "jp": "{v:0016}ねぇ、どうするのよ！",
-   "en": "",
+   "en": "{v:0016}Hey, what are we going to do?!",
    "term": "end"
   },
   {
    "id": "scen061.0191",
    "jp": "{v:0017}どうするってもな‥‥。",
-   "en": "",
+   "en": "{v:0017}What can we do...?",
    "term": "end"
   },
   {
    "id": "scen061.0192",
    "jp": "パワーストーンを渡しますか？",
-   "en": "",
+   "en": "Will you hand over the Power Stone?",
    "term": "end"
   },
   {
    "id": "scen061.0193",
    "jp": "・渡す",
-   "en": "",
+   "en": "・Hand it over",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0194",
    "jp": "・渡さない",
-   "en": "",
+   "en": "・Don't hand it over",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0195",
    "jp": "・みんなに任せる",
-   "en": "",
+   "en": "・Let everyone else decide",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0196",
    "jp": "{v:0018}そりゃ、もうパワーストーンにエネルギーは{n}残ってないけどさ‥‥。",
-   "en": "",
+   "en": "{v:0018}Sure, the Power Stone doesn't have any energy left,{n}but...",
    "term": "end"
   },
   {
    "id": "scen061.0197",
    "jp": "{v:0019}それで人々が助かるなら、私も渡すべきだと思います。",
-   "en": "",
+   "en": "{v:0019}If it will save those people, I too think we should hand{n}it over.",
    "term": "end"
   },
   {
    "id": "scen061.0198",
    "jp": "{v:001A}かといって、渡してしまうのはどうでしょう？{n}数十年たてば、エネルギーは補充できるんでしょ？",
-   "en": "",
+   "en": "{v:001A}Even so, should we really hand it over? Its energy can{n}be replenished in a few decades, can't it?",
    "term": "end"
   },
   {
    "id": "scen061.0199",
    "jp": "{v:001B}そう言われると、う～ん‥‥。",
-   "en": "",
+   "en": "{v:001B}When you put it that way, hmm...",
    "term": "end"
   },
   {
    "id": "scen061.0200",
    "jp": "{v:001C}俺は渡さない方がいいと思うぜ。{n}奴が約束を守るとは思えねぇ。",
-   "en": "",
+   "en": "{v:001C}I say we don't hand it over. I don't trust him to keep{n}his word.",
    "term": "end"
   },
   {
    "id": "scen061.0201",
    "jp": "{v:001D}{s:0003}さんはどう思うの？",
-   "en": "",
+   "en": "{v:001D}What do you think, {s:0003}?",
    "term": "end"
   },
   {
    "id": "scen061.0202",
    "jp": "{v:001E}確かに村の人々のことは心配です。{n}でも、そのために{s:0022}を倒す決定的手段を{n}手放してしまうというのは‥‥。{p}{v:001F}こんな時、フェザリアンなら、{n}確実に『渡さない』と言い張るでしょうね。",
-   "en": "",
+   "en": "{v:001E}Of course I am worried about the villagers. But to give{n}up our surest means of defeating {s:0022}{n}for their sake...{p}{v:001F}In a situation like this, the Featherians would certainly{n}insist on refusing.",
    "term": "end"
   },
   {
    "id": "scen061.0203",
    "jp": "{v:0020}ブローニュのみんなが、どうなってもいいの？",
-   "en": "",
+   "en": "{v:0020}You don't care what happens to everyone in Boulogne?",
    "term": "end"
   },
   {
    "id": "scen061.0204",
    "jp": "{v:0023}冷たいことをいうようだが、{n}ここで奴を倒す決定力を失うのはどうかと思う。{p}{v:0024}少数の者を救って、{n}多くを犠牲にさらすことにはなるまいか？",
-   "en": "",
+   "en": "{v:0023}This may sound heartless, but I question the wisdom of{n}giving up our decisive advantage against him now.{p}{v:0024}Would we not be saving a few at the cost of{n}endangering many?",
    "term": "end"
   },
   {
    "id": "scen061.0205",
    "jp": "{v:0025}ちょっと、責任逃れはなしじゃない？",
-   "en": "",
+   "en": "{v:0025}Hey, you can't just dodge the responsibility!",
    "term": "end"
   },
   {
    "id": "scen061.0206",
    "jp": "{v:0026}確かに難しい問題ですけど‥‥。",
-   "en": "",
+   "en": "{v:0026}It certainly is a difficult decision, but...",
    "term": "end"
   },
   {
    "id": "scen061.0207",
    "jp": "{v:0027}要は{s:0022}の野郎を{n}信じられるかどうかって事だな。",
-   "en": "",
+   "en": "{v:0027}It all comes down to whether we can trust that{n}bastard {s:0022}.",
    "term": "end"
   },
   {
    "id": "scen061.0208",
    "jp": "{v:0028}俺なら渡さないね。{n}どうせ渡したところで、{n}村に手を出さない保証はねぇ。{p}{v:0029}そして何より、奴は{s:0001}からグローシュを{n}奪った張本人だ。{n}信じられねぇよ。",
-   "en": "",
+   "en": "{v:0028}I wouldn't hand it over. Even if we did, there's no{n}guarantee he'd leave the village alone.{p}{v:0029}Above all, he's the one who stole {s:0001}'s{n}Grosh. I can't trust him.",
    "term": "end"
   },
   {
    "id": "scen061.0209",
    "jp": "{v:002A}わたしは‥‥村のみんなを助けるためなら、{n}仕方ないんじゃないかって‥‥。",
-   "en": "",
+   "en": "{v:002A}I... If it's to save everyone in the village, maybe we{n}don't have a choice...",
    "term": "end"
   },
   {
    "id": "scen061.0210",
    "jp": "{v:002B}冷たいようだが、私は渡さない方がいいと思う。{p}{v:002C}奴が村に手出ししないという確証がない以上、{n}切り札を渡すことには反対だ。",
-   "en": "",
+   "en": "{v:002B}It may sound heartless, but I believe we should{n}refuse.{p}{v:002C}Without any assurance that he will spare the village, I{n}oppose giving him our trump card.",
    "term": "end"
   },
   {
    "id": "scen061.0211",
    "jp": "{v:002D}俺も同感だ。{n}渡すべきじゃないと思う。",
-   "en": "",
+   "en": "{v:002D}I agree. We shouldn't hand it over.",
    "term": "end"
   },
   {
    "id": "scen061.0212",
    "jp": "{v:002E}２人はどう思いますか？",
-   "en": "",
+   "en": "{v:002E}What do you two think?",
    "term": "end"
   },
   {
    "id": "scen061.0213",
    "jp": "{v:002F}渡すべきではないでしょうな。",
-   "en": "",
+   "en": "{v:002F}I would say we ought not hand it over.",
    "term": "end"
   },
   {
    "id": "scen061.0214",
    "jp": "{v:0030}私も{s:0022}を信用できません。",
-   "en": "",
+   "en": "{v:0030}I cannot trust {s:0022} either.",
    "term": "end"
   },
   {
    "id": "scen061.0215",
    "jp": "{v:0031}で、どうする、{s:0004}？",
-   "en": "",
+   "en": "{v:0031}So, what will you do, {s:0004}?",
    "term": "end"
   },
   {
    "id": "scen061.0216",
    "jp": "{v:0032}わかりました。{n}パワーストーンは渡しません。{p}{v:0033}代わりに我々で何とかする手段を‥‥。",
-   "en": "",
+   "en": "{v:0032}Very well. We will not hand over the Power Stone.{p}{v:0033}Instead, we must find some way to resolve this{n}ourselves...",
    "term": "end"
   },
   {
    "id": "scen061.0217",
    "jp": "{v:0034}大変です陛下！",
-   "en": "",
+   "en": "{v:0034}Your Majesty! An emergency!",
    "term": "end"
   },
   {
    "id": "scen061.0218",
    "jp": "{v:0035}どうしたのですか？",
-   "en": "",
+   "en": "{v:0035}What has happened?",
    "term": "end"
   },
   {
    "id": "scen061.0219",
    "jp": "{v:0036}{s:00AB}が‥{s:00AB}が、{s:0022}に従えと、{n}城に詰め寄っております！",
-   "en": "",
+   "en": "{v:0036}{s:00AB}... {s:00AB} have come to{n}the castle demanding that we obey{n}{s:0022}!",
    "term": "end"
   },
   {
    "id": "scen061.0220",
    "jp": "{v:0037}何だと！？{n}リーヴス！？",
-   "en": "",
+   "en": "{v:0037}What?! Reeves?!",
    "term": "end"
   },
   {
    "id": "scen061.0221",
    "jp": "{v:0038}ああ！",
-   "en": "",
+   "en": "{v:0038}Right!",
    "term": "end"
   },
   {
    "id": "scen061.0222",
    "jp": "‥‥{s:0022}め‥‥。",
-   "en": "",
+   "en": "...Curse you, {s:0022}...",
    "term": "end"
   },
   {
    "id": "scen061.0223",
    "jp": "アーネストは‥‥、{n}アーネストは無事なのか！？{p}この距離をすぐにでも越えて行けたら‥‥。",
-   "en": "",
+   "en": "Ernest... Is Ernest safe?!{p}If only I could cross this distance in an instant...",
    "term": "end"
   },
   {
    "id": "scen061.0224",
    "jp": "こんな時、何もできない自分がうらめしい‥‥。",
-   "en": "",
+   "en": "I despise my own helplessness at a time like this...",
    "term": "end"
   },
   {
    "id": "scen061.0225",
    "jp": "事態はなかなか好転しないね‥‥。",
-   "en": "",
+   "en": "Things just aren't getting any better...",
    "term": "end"
   },
   {
    "id": "scen061.0226",
    "jp": "{s:0022}は、この国の民を、{n}そして我が友を‥‥。{p}奴だけは許しておけない。{n}‥‥絶対に！",
-   "en": "",
+   "en": "{s:0022} has done this to our people, and to{n}my friend...{p}I cannot forgive him. ...Never!",
    "term": "end"
   },
   {
    "id": "scen061.0227",
    "jp": "‥‥{s:0022}め！{n}よくもやってくれたな‥‥。{p}それより、お前たちならすぐに{n}ブローニュ村へ向かえるだろう？{n}村の様子を見に行ってくれないか？",
-   "en": "",
+   "en": "...Damn you, {s:0022}! How dare you...{p}But you can reach Boulogne Village at once, can you{n}not? Would you go and see how the villagers are{n}faring?",
    "term": "end"
   },
   {
    "id": "scen061.0228",
    "jp": "私の力が必要か？",
-   "en": "",
+   "en": "Do you need my help?",
    "term": "end"
   },
   {
    "id": "scen061.0229",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
+   "en": "But that'll be too many of us. We'll have to leave{n}someone out of the party.",
    "term": "end"
   },
   {
    "id": "scen061.0230",
    "jp": "　{n}　　　　{FFEF}{s:0008}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}{s:0008} joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0231",
    "jp": "頼りにしてくれ。",
-   "en": "",
+   "en": "You can count on me.",
    "term": "end"
   },
   {
    "id": "scen061.0232",
    "jp": "早く平和を取り戻したい‥‥。",
-   "en": "",
+   "en": "I hope we can restore peace soon...",
    "term": "end"
   },
   {
    "id": "scen061.0233",
    "jp": "これ以上、国民に不安を与えてはおけぬ。{n}早急に事態を解決せねば‥‥。",
-   "en": "",
+   "en": "We cannot let our people live in fear any longer. We{n}must resolve this swiftly...",
    "term": "end"
   },
   {
    "id": "scen061.0234",
    "jp": "まさか‥‥。{n}こんな事になるとは‥‥。",
-   "en": "",
+   "en": "I never imagined... it would come to this...",
    "term": "end"
   },
   {
    "id": "scen061.0235",
    "jp": "‥‥僕が渡そうなんて言わなければ‥‥。",
-   "en": "",
+   "en": "...If only I hadn't suggested handing it over...",
    "term": "end"
   },
   {
    "id": "scen061.0236",
    "jp": "ねぇ、{s:0004}！{n}地下牢に{s:001B}がいないんだけど、{n}どうしちゃったの？",
-   "en": "",
+   "en": "Hey, {s:0004}! {s:001B} isn't in the{n}dungeon. What happened?",
    "term": "end"
   },
   {
    "id": "scen061.0237",
    "jp": "衛兵とおぼしき奴も死んでいたぞ。",
-   "en": "",
+   "en": "There was a dead man who looked like a guard, too.",
    "term": "end"
   },
   {
    "id": "scen061.0238",
    "jp": "えっ！{n}それは一体‥‥。",
-   "en": "",
+   "en": "What?! What could have...?",
    "term": "end"
   },
   {
    "id": "scen061.0239",
    "jp": "陛下！{n}お取り込み中のところ、申し訳ありません。",
-   "en": "",
+   "en": "Your Majesty! Forgive me for interrupting.",
    "term": "end"
   },
   {
    "id": "scen061.0240",
    "jp": "どうしました？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen061.0241",
    "jp": "実は、ライエルがどこにも見あたらないのです。",
-   "en": "",
+   "en": "We cannot find Lyell anywhere.",
    "term": "end"
   },
   {
    "id": "scen061.0242",
    "jp": "えっ！？{n}ライエルまで？",
-   "en": "",
+   "en": "What?! Lyell too?",
    "term": "end"
   },
   {
    "id": "scen061.0243",
    "jp": "‥‥？{n}他にも誰か‥‥？",
-   "en": "",
+   "en": "...? Is someone else missing...?",
    "term": "end"
   },
   {
    "id": "scen061.0244",
    "jp": "地下牢にいた、{s:001B}もいないんです。",
-   "en": "",
+   "en": "{s:001B} is missing from the dungeon as{n}well.",
    "term": "end"
   },
   {
    "id": "scen061.0245",
    "jp": "何だって？",
-   "en": "",
+   "en": "What?",
    "term": "end"
   },
   {
    "id": "scen061.0246",
    "jp": "{s:0022}を倒すのに{n}{s:001B}が必要だっていうのに！",
-   "en": "",
+   "en": "But we need {s:001B} to defeat{n}{s:0022}!",
    "term": "end"
   },
   {
    "id": "scen061.0247",
    "jp": "‥‥何があったのでしょう。",
-   "en": "",
+   "en": "...What could have happened?",
    "term": "end"
   },
   {
    "id": "scen061.0248",
    "jp": "私が調査して参ります。{n}よろしいでしょうか？",
-   "en": "",
+   "en": "I shall investigate. Do I have your permission?",
    "term": "end"
   },
   {
    "id": "scen061.0249",
    "jp": "そうですね。{n}よろしくお願いします。",
-   "en": "",
+   "en": "Yes. Please do.",
    "term": "end"
   },
   {
    "id": "scen061.0250",
    "jp": "はっ！",
-   "en": "",
+   "en": "Yes, Your Majesty!",
    "term": "end"
   },
   {
    "id": "scen061.0251",
    "jp": "嫌な予感がするぜ‥‥。",
-   "en": "",
+   "en": "I've got a bad feeling about this...",
    "term": "end"
   },
   {
    "id": "scen061.0252",
    "jp": "何事もなければ良いのですが‥‥。",
-   "en": "",
+   "en": "I hope nothing is wrong...",
    "term": "end"
   },
   {
    "id": "scen061.0253",
    "jp": "{s:001B}とライエルがいないそうですね。{n}先ほどリーヴスから報告を受けました‥‥。{n}何事もなければ良いのですが‥‥。",
-   "en": "",
+   "en": "I hear that {s:001B} and Lyell are missing.{n}Reeves reported it to me a little while ago... I hope{n}nothing is wrong...",
    "term": "end"
   },
   {
    "id": "scen061.0254",
    "jp": "僕の力が必要ですか？",
-   "en": "",
+   "en": "Do you need my help?",
    "term": "end"
   },
   {
    "id": "scen061.0255",
    "jp": "　{n}　　　　{FFEF}{s:0004}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}{s:0004} joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0256",
    "jp": "はりきって行きましょう！",
-   "en": "",
+   "en": "Let's give it our all!",
    "term": "end"
   },
   {
    "id": "scen061.0257",
    "jp": "どうすれば{s:0022}を追いつめられるのでしょう？",
-   "en": "",
+   "en": "How can we corner {s:0022}?",
    "term": "end"
   },
   {
    "id": "scen061.0258",
    "jp": "‥‥いったい、いつになったら{n}平和な世界が来るのでしょう？",
-   "en": "",
+   "en": "...When will the world finally know peace?",
    "term": "end"
   },
   {
    "id": "scen061.0259",
    "jp": "私は持ち場を離れるわけに行きませんので、{n}よろしくお願いします。",
-   "en": "",
+   "en": "I cannot leave my post, so I must leave this to you.",
    "term": "end"
   },
   {
    "id": "scen061.0260",
    "jp": "私語は禁じられているので‥‥。{n}申し訳ございません。",
-   "en": "",
+   "en": "We are forbidden to engage in idle conversation... My{n}apologies.",
    "term": "end"
   },
   {
    "id": "scen061.0261",
    "jp": "陛下のお友達の方ですね。{n}ごゆっくりしていって下さい。",
-   "en": "",
+   "en": "You are His Majesty's friends, aren't you? Please make{n}yourselves comfortable.",
    "term": "end"
   },
   {
    "id": "scen061.0262",
    "jp": "これは、{s:0004}陛下。{n}ご機嫌うるわしゅう。",
-   "en": "",
+   "en": "Ah, King {s:0004}. I trust Your Majesty is{n}well.",
    "term": "end"
   },
   {
    "id": "scen061.0263",
    "jp": "この城のいたる所には{n}魔法を防ぐような仕掛けがしてあります。{p}回復魔法などなら大丈夫ですが、{n}強い魔力を感知すると、{n}かき消されてしまうことがあります。",
-   "en": "",
+   "en": "Devices that ward off magic have been installed{n}throughout the castle.{p}Healing magic and the like pose no problem, but if they{n}detect powerful magic, they may dispel it.",
    "term": "end"
   },
   {
    "id": "scen061.0264",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "",
+   "en": "It's locked!",
    "term": "end"
   },
   {
    "id": "scen061.0265",
    "jp": "‥‥出番を待っている。",
-   "en": "",
+   "en": "...I'm waiting to be called upon.",
    "term": "end"
   },
   {
    "id": "scen061.0266",
    "jp": "何かあったら、{n}謁見の間へ駆けつけられるように、{n}ここに詰めているのよ。",
-   "en": "",
+   "en": "I'm stationed here so I can rush to the audience{n}chamber if anything happens.",
    "term": "end"
   },
   {
    "id": "scen061.0267",
    "jp": "‥‥精神を集中しているんだ。{n}話しかけないでくれ。",
-   "en": "",
+   "en": "...I'm concentrating. Please don't speak to me.",
    "term": "end"
   },
   {
    "id": "scen061.0268",
    "jp": "ここの待機は当番制なんだ。",
-   "en": "",
+   "en": "We take turns being on standby here.",
    "term": "end"
   },
   {
    "id": "scen061.0269",
    "jp": "ここは{s:0059}の待機室ですよ。",
-   "en": "",
+   "en": "This is the standby room for {s:0059}.",
    "term": "end"
   },
   {
    "id": "scen061.0270",
    "jp": "もう少しで交替か‥‥。",
-   "en": "",
+   "en": "Almost time for the next shift...",
    "term": "end"
   },
   {
    "id": "scen061.0271",
    "jp": "ここはお客様用の待合室です。{n}といっても、あなた方には必要ありませんよね。{p}あなた方は特別待遇ですから。",
-   "en": "",
+   "en": "This is the waiting room for visitors. Though you have{n}no need of it, do you?{p}You receive special treatment, after all.",
    "term": "end"
   },
   {
    "id": "scen061.0272",
    "jp": "ここは普通の図書室です。{n}{s:0059}やこの国の学者が利用したりします。{p}今はがらがらですけどね。",
-   "en": "",
+   "en": "This is an ordinary library. It is used by {s:0059}{n}and this country's scholars.{p}It's quite empty at the moment, though.",
    "term": "end"
   },
   {
    "id": "scen061.0273",
    "jp": "{FFF3}{FFF6}‥‥‥。",
-   "en": "",
+   "en": "{FFF3}{FFF6}...",
    "term": "end"
   },
   {
    "id": "scen061.0274",
    "jp": "{v:003F}元気ないわね。",
-   "en": "",
+   "en": "{v:003F}You look down.",
    "term": "end"
   },
   {
    "id": "scen061.0275",
    "jp": "{v:0040}{s:0116}が死んじまったせいだろうな。",
-   "en": "",
+   "en": "{v:0040}Probably because {s:0116} died.",
    "term": "end"
   },
   {
    "id": "scen061.0276",
    "jp": "{v:0005}誰もいないよ‥‥。",
-   "en": "",
+   "en": "{v:0005}Nobody's here...",
    "term": "end"
   },
   {
    "id": "scen061.0277",
    "jp": "{s:001B}がいない！？",
-   "en": "",
+   "en": "{s:001B} is gone?!",
    "term": "end"
   },
   {
    "id": "scen061.0278",
    "jp": "{v:0002}これは！？",
-   "en": "",
+   "en": "{v:0002}What's this?!",
    "term": "end"
   },
   {
    "id": "scen061.0279",
    "jp": "{v:0003}あ、誰か倒れてるよ！",
-   "en": "",
+   "en": "{v:0003}Ah, someone's lying over there!",
    "term": "end"
   },
   {
    "id": "scen061.0280",
    "jp": "‥‥{v:0004}ダメだよ。{n}もう死んじゃってる‥‥。",
-   "en": "",
+   "en": "...{v:0004}It's no use. They're already dead...",
    "term": "end"
   },
   {
    "id": "scen061.0281",
    "jp": "異常はありません。",
-   "en": "",
+   "en": "Nothing out of the ordinary.",
    "term": "end"
   },
   {
    "id": "scen061.0282",
    "jp": "ここでは魔法の研究などをしている。{n}あまり邪魔などなさらぬよう、お願いします。",
-   "en": "",
+   "en": "We conduct magical research and related work here.{n}Please take care not to disturb us.",
    "term": "end"
   },
   {
    "id": "scen061.0283",
    "jp": "魔法を研究しているのは{n}魔法学院だけではありませんわ。",
-   "en": "",
+   "en": "The Magic Academy isn't the only place where magic is{n}studied, you know.",
    "term": "end"
   },
   {
    "id": "scen061.0284",
    "jp": "時には文献をあさり、{n}様々な事件のきっかけを探すのですわ。",
-   "en": "",
+   "en": "Sometimes we pore over old writings, looking for the{n}origins of all manner of incidents.",
    "term": "end"
   },
   {
    "id": "scen061.0285",
    "jp": "勇ましき、小さき者の可能性を信じ、{n}ここに力を封ず。",
-   "en": "",
+   "en": "With faith in the potential of the brave little one, this{n}power is sealed here.",
    "term": "end"
   },
   {
    "id": "scen061.0286",
    "jp": "　{n}　　　　『{FFEF}{s:000B}の可能性７{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}{s:000B}'s Potential 7{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen061.0287",
    "jp": "料理は盛りつけまでが芸術なんだ。",
-   "en": "",
+   "en": "Cooking is an art, right down to arranging the food on{n}the plate.",
    "term": "end"
   },
   {
    "id": "scen061.0288",
    "jp": "ふんふん♪{n}オイラは～、お城の～♪{n}おかかえ、コック～♪",
-   "en": "",
+   "en": "Hmm-hmm♪ I'm the castle's♪ Very own cook♪",
    "term": "end"
   },
   {
    "id": "scen061.0289",
    "jp": "早く焼けないかしら？",
-   "en": "",
+   "en": "I wonder if it'll be done baking soon?",
    "term": "end"
   },
   {
    "id": "scen061.0290",
    "jp": "{s:0004}をよろしくお願いします。",
-   "en": "",
+   "en": "Please take good care of {s:0004}.",
    "term": "end"
   },
   {
    "id": "scen061.0291",
    "jp": "他人の国へ来ているんだぞ。{n}礼儀を重んじるのも騎士のつとめだ。{p}テレポートを使いたいなら、{n}城の外へ出てからにしろ。",
-   "en": "",
+   "en": "We are guests in another country. Observing proper{n}etiquette is also a knight's duty.{p}If you wish to use Teleport, leave the castle first.",
    "term": "end"
   },
   {
    "id": "scen061.0292",
    "jp": "不思議な力でかき消された‥‥",
-   "en": "",
+   "en": "A mysterious force dispelled it...",
    "term": "end"
   }
  ]

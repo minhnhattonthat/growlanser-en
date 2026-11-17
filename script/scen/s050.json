@@ -15,747 +15,747 @@
   {
    "id": "scen050.0001",
    "jp": "ランザック兵",
-   "en": "",
+   "en": "Ranzak Soldier",
    "term": "null"
   },
   {
    "id": "scen050.0002",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "scen050.0003",
    "jp": "旅人",
-   "en": "",
+   "en": "Traveler",
    "term": "null"
   },
   {
    "id": "scen050.0004",
    "jp": "オヤジ",
-   "en": "",
+   "en": "Old Man",
    "term": "null"
   },
   {
    "id": "scen050.0005",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen050.0006",
    "jp": "見張り",
-   "en": "",
+   "en": "Sentry",
    "term": "null"
   },
   {
    "id": "scen050.0007",
    "jp": "ブロンソン将軍",
-   "en": "",
+   "en": "General Bronson",
    "term": "null"
   },
   {
    "id": "scen050.0008",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen050.0009",
    "jp": "ガラシールズ",
-   "en": "",
+   "en": "Galashiels",
    "term": "end"
   },
   {
    "id": "scen050.0010",
    "jp": "ああ、お前たちか。{n}通っていいぞ。{n}街は元のままだ、安心してくれ。",
-   "en": "",
+   "en": "Oh, it's you. Go on through. Don't worry. The town's{n}just as it was.",
    "term": "end"
   },
   {
    "id": "scen050.0011",
    "jp": "ああ、お前たちか。{n}通っていいぞ。",
-   "en": "",
+   "en": "Oh, it's you. Go on through.",
    "term": "end"
   },
   {
    "id": "scen050.0012",
    "jp": "ここから先にはガラシールズがある。{p}‥‥何だお前たちか。{n}今更お前たちにこんなこと言っても意味ないか。{n}知ってるものな。",
-   "en": "",
+   "en": "Galashiels lies up ahead.{p}...Oh, it's you lot. No point telling you that now, is{n}there? You already know.",
    "term": "end"
   },
   {
    "id": "scen050.0013",
    "jp": "やっぱり俺にはここの見張りが向いてるな。{n}占領されている間は、退屈で仕方なかったよ。",
-   "en": "",
+   "en": "Guard duty here really does suit me. I was bored out{n}of my mind during the occupation.",
    "term": "end"
   },
   {
    "id": "scen050.0014",
    "jp": "この前はすまなかったな。{n}さあ、遠慮せず通ってくれ。",
-   "en": "",
+   "en": "Sorry about last time. Go on, don't hesitate.",
    "term": "end"
   },
   {
    "id": "scen050.0015",
    "jp": "ここは砂漠のオアシス、{n}ガラシールズだ。",
-   "en": "",
+   "en": "This is Galashiels, an oasis in the desert.",
    "term": "end"
   },
   {
    "id": "scen050.0016",
    "jp": "木陰はいいよ、涼しくて‥‥。",
-   "en": "",
+   "en": "It's nice in the shade of the trees. So cool...",
    "term": "end"
   },
   {
    "id": "scen050.0017",
    "jp": "これまでは旅が大好きだったのですが、{n}すっかりこの街が気に入ってね‥‥。{p}この街で落ち着くのもいいかなと‥‥。{n}どうしたものかな‥‥。",
-   "en": "",
+   "en": "I used to love traveling, but I've grown quite fond of{n}this town...{p}Perhaps I should settle down here... What to do...?",
    "term": "end"
   },
   {
    "id": "scen050.0018",
    "jp": "いやはや、ここが占領された時は驚きましたよ。{n}でも将軍ができた人でね。{n}ごく普通に生活できましたよ。",
-   "en": "",
+   "en": "My goodness, I was shocked when this town was{n}occupied. But the general was a decent sort. We could{n}carry on living quite normally.",
    "term": "end"
   },
   {
    "id": "scen050.0019",
    "jp": "ところで話は変わるが、{n}『{s:0010}』という街を知っているかい？{p}これでも私は料理の修業をしている身。{p}そろそろ店を構えたいのだが、{n}せっかくならまだ発展中の街に店を出したいと{n}考えているのだ。",
-   "en": "",
+   "en": "On another subject, have you heard of a town called{n}'{s:0010}'?{p}I'm studying the culinary arts, you see.{p}I'd like to open my own restaurant soon. If possible, I'd{n}like to do so in a town that's still developing.",
    "term": "end"
   },
   {
    "id": "scen050.0020",
    "jp": "{s:0010}のことを話しますか？",
-   "en": "",
+   "en": "Tell him about {s:0010}?",
    "term": "end"
   },
   {
    "id": "scen050.0021",
    "jp": "えっ！？{n}君の街だって？{p}どうだろう。{n}よかったら、私に店を出させてくれないか？",
-   "en": "",
+   "en": "What?! It's your town?{p}Well, then. Would you consider letting me open a{n}restaurant there?",
    "term": "end"
   },
   {
    "id": "scen050.0022",
    "jp": "彼に{s:0010}で店を出してもらいますか？",
-   "en": "",
+   "en": "Have him open a restaurant in {s:0010}?",
    "term": "end"
   },
   {
    "id": "scen050.0023",
    "jp": "ありがとう。{n}私は世界を旅していろいろな料理を身につけてきた。{n}他の店と競合しないような料理店を出すよ。",
-   "en": "",
+   "en": "Thank you. I've traveled the world and learned to{n}prepare all sorts of dishes. I'll open a restaurant that{n}won't compete with the other shops.",
    "term": "end"
   },
   {
    "id": "scen050.0024",
    "jp": "そうか。{n}無理を言ってすまなかった。",
-   "en": "",
+   "en": "I see. I'm sorry to have asked so much of you.",
    "term": "end"
   },
   {
    "id": "scen050.0025",
    "jp": "‥‥そうか、知らないのか‥‥。",
-   "en": "",
+   "en": "...I see. You haven't heard of it...",
    "term": "end"
   },
   {
    "id": "scen050.0026",
    "jp": "私も旅をしているのですが、{n}この辺りはけっこう強い風がふきますな。",
-   "en": "",
+   "en": "I'm a traveler myself, you know. The wind blows quite{n}fiercely around here.",
    "term": "end"
   },
   {
    "id": "scen050.0027",
    "jp": "アンタ達、アクセサリー商人だって？{n}女って、どうしてそういうのが好きなのかねぇ。",
-   "en": "",
+   "en": "So, you sell accessories, do you? Why do women like{n}those things so much, eh?",
    "term": "end"
   },
   {
    "id": "scen050.0028",
    "jp": "アンタ達、武器商人だって？{n}だったらローランディア軍に売った方が{n}良かったんじゃないのかい？",
-   "en": "",
+   "en": "So, you sell weapons, do you? Wouldn't you have been{n}better off selling them to the Rolandia army?",
    "term": "end"
   },
   {
    "id": "scen050.0029",
    "jp": "アンタ達、薬草売りだって？{n}薬草を探すならローランディア王国に{n}いい場所があるって聞いたことがあるよ。{p}この辺りに、何か珍しいものでも採れるのかい？",
-   "en": "",
+   "en": "So, you sell medicinal herbs, do you? I've heard there's{n}a good place to gather them in the Kingdom of{n}Rolandia.{p}Can you find something unusual around here?",
    "term": "end"
   },
   {
    "id": "scen050.0030",
    "jp": "アンタ達、魔道具商人だって？{n}じゃあ、欲しがる人が少しくらいいるかも{n}しれないねぇ。{p}何でも魔法を極めた人が移り住んだって哮で、{n}この国にも少しずつ魔法が広まり始めたんだよ。",
-   "en": "",
+   "en": "So, you sell magical tools, do you? You might find a few{n}people who want them, then.{p}Rumor has it someone who's mastered magic moved{n}here. Magic's slowly starting to spread through this{n}country, too.",
    "term": "end"
   },
   {
    "id": "scen050.0031",
    "jp": "アンタ達、花の球根や種を売ってるんだって？{n}そんな物を買う人がいるんだねぇ‥‥。",
-   "en": "",
+   "en": "So, you sell flower bulbs and seeds, do you? People{n}actually buy those things, eh...?",
    "term": "end"
   },
   {
    "id": "scen050.0032",
    "jp": "ジュリアン様‥‥。",
-   "en": "",
+   "en": "Julian-sama...",
    "term": "end"
   },
   {
    "id": "scen050.0033",
    "jp": "ジュリアン様って素敵なのよ‥‥。{n}もう私、メロメロ‥‥。",
-   "en": "",
+   "en": "Julian-sama is so wonderful... Oh, I'm completely{n}smitten...",
    "term": "end"
   },
   {
    "id": "scen050.0034",
    "jp": "そういえばさ、この街の西の方に変な洞窟があるのよ。{n}見た目はうすっ気味悪いだけなんだけど、{n}何かあるのかな？",
-   "en": "",
+   "en": "Oh, by the way, there's a strange cave west of town.{n}It just looks creepy from the outside, but I wonder if{n}there's something in there?",
    "term": "end"
   },
   {
    "id": "scen050.0035",
    "jp": "ようこそ！{n}スキマ屋ガラシールズ支店です。",
-   "en": "",
+   "en": "Welcome! This is the Galashiels branch of the Nook Shop.",
    "term": "end"
   },
   {
    "id": "scen050.0036",
    "jp": "買い物をしますか？",
-   "en": "",
+   "en": "Would you like to shop?",
    "term": "end"
   },
   {
    "id": "scen050.0037",
    "jp": "また来てね！",
-   "en": "",
+   "en": "Come again!",
    "term": "end"
   },
   {
    "id": "scen050.0038",
    "jp": "なかなかいいスキマが見つからなくてね‥‥。{n}ここは仮店舗なんですよ。",
-   "en": "",
+   "en": "I haven't been able to find a good nook... This is just a{n}temporary shop.",
    "term": "end"
   },
   {
    "id": "scen050.0039",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
+   "en": "{v:003F}Oh, welcome! We have every kind of equipment you{n}could want, dear.",
    "term": "end"
   },
   {
    "id": "scen050.0040",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
+   "en": "{v:0041}So, are you here to buy or to sell?",
    "term": "end"
   },
   {
    "id": "scen050.0041",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0042",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0043",
    "jp": "で、他にも何かある？",
-   "en": "",
+   "en": "So, is there anything else?",
    "term": "end"
   },
   {
    "id": "scen050.0044",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0045",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0046",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
+   "en": "{v:004B}Do come again. I'll have a lovely smile waiting for you.",
    "term": "end"
   },
   {
    "id": "scen050.0047",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
+   "en": "{v:0033}Welcome. We offer a wide variety of goods.",
    "term": "end"
   },
   {
    "id": "scen050.0048",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
+   "en": "{v:0034}Would you like to make a purchase today? Or do you{n}have something to sell?",
    "term": "end"
   },
   {
    "id": "scen050.0049",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0050",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0051",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
    "id": "scen050.0052",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0053",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen050.0054",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
    "id": "scen050.0055",
    "jp": "ジュリアン将軍か‥‥。{n}敵ながら、りりしくて格好良かったな。",
-   "en": "",
+   "en": "General Julian, eh...? An enemy, but so gallant and{n}handsome.",
    "term": "end"
   },
   {
    "id": "scen050.0056",
    "jp": "ふう‥‥。{n}ついにここも戦争に巻き込まれてしまったか。",
-   "en": "",
+   "en": "Whew... So the war has finally reached us here, too.",
    "term": "end"
   },
   {
    "id": "scen050.0057",
    "jp": "ちょっと前まで、{n}街外れの一軒家に、人が出入りしていたんだけど‥‥。{n}急に静かになったなぁ。",
-   "en": "",
+   "en": "Until recently, people were coming and going from that{n}house on the edge of town... Then it suddenly went{n}quiet.",
    "term": "end"
   },
   {
    "id": "scen050.0058",
    "jp": "ガラシールズはバーンシュタイン軍に占領されている。{n}下手に出ていって、{n}街の人を戦闘に巻き込むマネはよせ。",
-   "en": "",
+   "en": "Galashiels is occupied by the Burnstein army. Don't go{n}blundering out there and drag the townspeople into a{n}fight.",
    "term": "end"
   },
   {
    "id": "scen050.0059",
    "jp": "{v:0025}ここから先へ行くには通行証が必要だぞ。{n}通行証を持っていない者を通すことは出来ない。",
-   "en": "",
+   "en": "{v:0025}You need a pass to go any farther. I can't let anyone{n}through without one.",
    "term": "end"
   },
   {
    "id": "scen050.0060",
    "jp": "{v:0026}これで文句はないでしょ？",
-   "en": "",
+   "en": "{v:0026}This should satisfy you, right?",
    "term": "end"
   },
   {
    "id": "scen050.0061",
    "jp": "{v:0027}こ、これは‥‥。{n}バーンシュタイン王国と戦争が始まったというのは{n}本当だったのか。",
-   "en": "",
+   "en": "{v:0027}Th-this is... So it's true that war has broken out with{n}the Kingdom of Burnstein.",
    "term": "end"
   },
   {
    "id": "scen050.0062",
    "jp": "{v:0028}よし、通れ。{n}ただし、疑わしい行動はするなよ。",
-   "en": "",
+   "en": "{v:0028}All right, go through. But don't try anything suspicious.",
    "term": "end"
   },
   {
    "id": "scen050.0063",
    "jp": "この手形は、この街までのものだ。{n}ここより先へ通すわけにはいかん。",
-   "en": "",
+   "en": "This pass only permits you to travel as far as this{n}town. I can't let you go beyond it.",
    "term": "end"
   },
   {
    "id": "scen050.0064",
    "jp": "これは国王宛ての書簡ではないか？{n}だったら、通行証を持っているだろう？",
-   "en": "",
+   "en": "Isn't this a letter addressed to the king? Then you{n}should have a pass, shouldn't you?",
    "term": "end"
   },
   {
    "id": "scen050.0065",
    "jp": "何がしたいんだ？{n}用がないなら戻れ！",
-   "en": "",
+   "en": "What do you want? If you've no business here, turn{n}back!",
    "term": "end"
   },
   {
    "id": "scen050.0066",
    "jp": "ん？{n}お前たちか‥‥。{n}どうかしたのか？",
-   "en": "",
+   "en": "Hm? Oh, it's you... Is something wrong?",
    "term": "end"
   },
   {
    "id": "scen050.0067",
    "jp": "まさかバーンシュタインと、事を構えるとはな‥‥。",
-   "en": "",
+   "en": "Who'd have thought we'd end up fighting Burnstein...?",
    "term": "end"
   },
   {
    "id": "scen050.0068",
    "jp": "{v:0024}ここは立ち入り禁止だ！{n}さっさと立ち去れ！",
-   "en": "",
+   "en": "{v:0024}This area is off limits! Clear out!",
    "term": "end"
   },
   {
    "id": "scen050.0069",
    "jp": "あんた達、タダで泊まろうってのかい？{n}ちゃんとお金を払って泊まってくれよ。",
-   "en": "",
+   "en": "You trying to stay here for free? You'll have to pay{n}like everyone else.",
    "term": "end"
   },
   {
    "id": "scen050.0070",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
+   "en": "Welcome. A night's stay will be {FFEB} Elm. Would you like a{n}room?",
    "term": "end"
   },
   {
    "id": "scen050.0071",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {
    "id": "scen050.0072",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
    "id": "scen050.0073",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
+   "en": "We look forward to your next visit.",
    "term": "end"
   },
   {
    "id": "scen050.0074",
    "jp": "{v:0034}こっちで物音があったぞ？{n}何があった？",
-   "en": "",
+   "en": "{v:0034}I heard a noise over here. What happened?",
    "term": "end"
   },
   {
    "id": "scen050.0075",
    "jp": "{v:0035}隊長！{p}{v:0036}実は我が同胞を襲っていた連中が現れまして‥‥。",
-   "en": "",
+   "en": "{v:0035}Captain!{p}{v:0036}The ones who have been attacking our comrades{n}appeared here...",
    "term": "end"
   },
   {
    "id": "scen050.0076",
    "jp": "{v:0037}何だと？{p}{v:0038}それでそいつはどうなった？",
-   "en": "",
+   "en": "{v:0037}What?{p}{v:0038}What happened to him?",
    "term": "end"
   },
   {
    "id": "scen050.0077",
    "jp": "{v:0039}彼らと共に戦ったのですが、{n}今一歩のところで逃げられてしまいました。",
-   "en": "",
+   "en": "{v:0039}I fought alongside these people, but he escaped just{n}when we thought we had him.",
    "term": "end"
   },
   {
    "id": "scen050.0078",
    "jp": "{v:003A}そうか‥‥。",
-   "en": "",
+   "en": "{v:003A}I see...",
    "term": "end"
   },
   {
    "id": "scen050.0079",
    "jp": "{v:003B}私の部下が世話になったようだな。",
-   "en": "",
+   "en": "{v:003B}It seems I owe you thanks for helping my{n}subordinate.",
    "term": "end"
   },
   {
    "id": "scen050.0080",
    "jp": "{v:003C}いえ‥‥。",
-   "en": "",
+   "en": "{v:003C}Not at all...",
    "term": "end"
   },
   {
    "id": "scen050.0081",
    "jp": "{v:003D}どうやらさっきの奴は、{n}ランザックとローランディアを{n}仲違いさせようとしていたようだな。",
-   "en": "",
+   "en": "{v:003D}Looks like that fellow was trying to turn Ranzak and{n}Rolandia against each other.",
    "term": "end"
   },
   {
    "id": "scen050.0082",
    "jp": "{v:003E}ふむ‥‥。{p}{v:003F}そういえば、お前たちは{n}アルカディウス王の使いであったな？",
-   "en": "",
+   "en": "{v:003E}Hmm...{p}{v:003F}Come to think of it, you are King Alcadius's envoys,{n}correct?",
    "term": "end"
   },
   {
    "id": "scen050.0083",
    "jp": "{v:0040}うん！{n}ここに書簡もあるよ！",
-   "en": "",
+   "en": "{v:0040}Yep! We've got his letter right here!",
    "term": "end"
   },
   {
    "id": "scen050.0084",
    "jp": "{v:0041}では、通ってくれ。",
-   "en": "",
+   "en": "{v:0041}Then please, go through.",
    "term": "end"
   },
   {
    "id": "scen050.0085",
    "jp": "{v:0042}よかったね。",
-   "en": "",
+   "en": "{v:0042}That's a relief, isn't it?",
    "term": "end"
   },
   {
    "id": "scen050.0086",
    "jp": "{v:0043}一時はどうなるかと思っちゃったわよ。",
-   "en": "",
+   "en": "{v:0043}For a moment there, I really didn't know what was{n}going to happen!",
    "term": "end"
   },
   {
    "id": "scen050.0087",
    "jp": "{v:000C}止まれ！",
-   "en": "",
+   "en": "{v:000C}Halt!",
    "term": "end"
   },
   {
    "id": "scen050.0088",
    "jp": "{v:000D}な、何よ？",
-   "en": "",
+   "en": "{v:000D}Wh-what is it?",
    "term": "end"
   },
   {
    "id": "scen050.0089",
    "jp": "{v:000E}貴様ら、何者だ？{n}何の目的でここへ来た？",
-   "en": "",
+   "en": "{v:000E}Who are you? What is your purpose here?",
    "term": "end"
   },
   {
    "id": "scen050.0090",
    "jp": "{v:000F}俺たちはローランディアの者だ。{n}アルカディウス王の書簡を{n}ランザックの王に届ける任務で来た。",
-   "en": "",
+   "en": "{v:000F}We're from Rolandia. Our mission is to deliver a letter{n}from King Alcadius to the king of Ranzak.",
    "term": "end"
   },
   {
    "id": "scen050.0091",
    "jp": "{v:0010}ローランディアの者だと！？",
-   "en": "",
+   "en": "{v:0010}You're from Rolandia?!",
    "term": "end"
   },
   {
    "id": "scen050.0092",
    "jp": "{v:0011}そうだけど‥‥。",
-   "en": "",
+   "en": "{v:0011}Yes, but...",
    "term": "end"
   },
   {
    "id": "scen050.0093",
    "jp": "{v:0012}お前たちか！？{p}{v:0013}よくも我が軍の兵を殺してくれたな！",
-   "en": "",
+   "en": "{v:0012}So it was you?!{p}{v:0013}How dare you murder our soldiers!",
    "term": "end"
   },
   {
    "id": "scen050.0094",
    "jp": "{v:0014}えっ？",
-   "en": "",
+   "en": "{v:0014}Huh?",
    "term": "end"
   },
   {
    "id": "scen050.0095",
    "jp": "{v:0015}とぼけても無駄だ！{n}この街で次々と我が同胞が殺されている！{p}{v:0016}お前たちがやったのであろう！",
-   "en": "",
+   "en": "{v:0015}Don't play innocent! Our comrades are being murdered{n}in this town, one after another!{p}{v:0016}You're the ones responsible!",
    "term": "end"
   },
   {
    "id": "scen050.0096",
    "jp": "{v:0017}そんなことしてないよ！{n}本当に王様からの書簡を届けに行くだけなのに！",
-   "en": "",
+   "en": "{v:0017}We haven't done anything like that! We're really just{n}here to deliver a letter from the king!",
    "term": "end"
   },
   {
    "id": "scen050.0097",
    "jp": "{v:0018}ならば証拠を見せてみろ！",
-   "en": "",
+   "en": "{v:0018}Then prove it!",
    "term": "end"
   },
   {
    "id": "scen050.0098",
    "jp": "‥‥{v:001A}うむ‥‥。{n}少し待っていろ。",
-   "en": "",
+   "en": "...{v:001A}Hmm... Wait here a moment.",
    "term": "end"
   },
   {
    "id": "scen050.0099",
    "jp": "{v:001B}おい、隊長を呼んできてくれ。",
-   "en": "",
+   "en": "{v:001B}Hey, go fetch the captain.",
    "term": "end"
   },
   {
    "id": "scen050.0100",
    "jp": "{v:001C}了解！",
-   "en": "",
+   "en": "{v:001C}Yes, sir!",
    "term": "end"
   },
   {
    "id": "scen050.0101",
    "jp": "{v:001D}疑り深いなぁ！",
-   "en": "",
+   "en": "{v:001D}Boy, you don't trust anyone, do you!",
    "term": "end"
   },
   {
    "id": "scen050.0102",
    "jp": "{v:001E}戦争中だしな。{n}仕方ねぇだろ。",
-   "en": "",
+   "en": "{v:001E}We're at war. Can't blame him.",
    "term": "end"
   },
   {
    "id": "scen050.0103",
    "jp": "{v:0020}貴様、何者だ！",
-   "en": "",
+   "en": "{v:0020}You there! Who are you?!",
    "term": "end"
   },
   {
    "id": "scen050.0104",
    "jp": "{v:0021}何者だと？{p}{v:0022}お前たちをすでに死んだ仲間に会わせる、{n}案内役ってところだ。",
-   "en": "",
+   "en": "{v:0021}Who am I?{p}{v:0022}Think of me as your guide. I'm here to take you to{n}your dead comrades.",
    "term": "end"
   },
   {
    "id": "scen050.0105",
    "jp": "{v:0023}貴様が、同胞を！",
-   "en": "",
+   "en": "{v:0023}You're the one who killed our comrades!",
    "term": "end"
   },
   {
    "id": "scen050.0106",
    "jp": "{v:0024}あ、あの人って‥‥。",
-   "en": "",
+   "en": "{v:0024}Th-that man...",
    "term": "end"
   },
   {
    "id": "scen050.0107",
    "jp": "‥‥{v:0025}やべぇぞ！{n}アイツはランザック兵殺しの罪を{n}俺たちになすりつけるつもりだ！",
-   "en": "",
+   "en": "...{v:0025}This is bad! He's going to pin the murders of those{n}Ranzak soldiers on us!",
    "term": "end"
   },
   {
    "id": "scen050.0108",
    "jp": "{v:0026}そ、そんなの困るよ！",
-   "en": "",
+   "en": "{v:0026}W-we can't let that happen!",
    "term": "end"
   },
   {
    "id": "scen050.0109",
    "jp": "{v:0027}ランザック兵を助けるんだ！",
-   "en": "",
+   "en": "{v:0027}Help the Ranzak soldiers!",
    "term": "end"
   },
   {
    "id": "scen050.0110",
    "jp": "疑って悪かったな。",
-   "en": "",
+   "en": "Sorry I doubted you.",
    "term": "end"
   },
   {
    "id": "scen050.0111",
    "jp": "せっかちなヤツだな！{n}しばらく待っていろ！",
-   "en": "",
+   "en": "You're an impatient one! Just wait a while!",
    "term": "end"
   },
   {
    "id": "scen050.0112",
    "jp": "ちくしょう‥‥。{n}仲間の仇が討てなかった‥‥。",
-   "en": "",
+   "en": "Damn it... I couldn't avenge my comrades...",
    "term": "end"
   },
   {
    "id": "scen050.0113",
    "jp": "本物かどうか調べ終わるまで、{n}しばらくこの辺りで待っていろ！",
-   "en": "",
+   "en": "Wait around here until we've finished checking whether{n}it's genuine!",
    "term": "end"
   },
   {
    "id": "scen050.0114",
    "jp": "君たちはローランディアの者だ。{n}おかしな行動をするのは避けてくれよ。",
-   "en": "",
+   "en": "You're from Rolandia. Try not to do anything suspicious.",
    "term": "end"
   },
   {
    "id": "scen050.0115",
    "jp": "おお、君たちか。",
-   "en": "",
+   "en": "Ah, it's you.",
    "term": "end"
   },
   {
    "id": "scen050.0116",
    "jp": "どうしたんですか？",
-   "en": "",
+   "en": "Is something wrong?",
    "term": "end"
   },
   {
    "id": "scen050.0117",
    "jp": "ランザック王国がバーンシュタイン軍の侵略を{n}受けているので、援軍に来たのだが‥‥。{p}国境にあるガラシールズが、{n}バーンシュタイン軍に制圧されていて、{n}先へ進めんのだ。",
-   "en": "",
+   "en": "The Kingdom of Ranzak is under invasion by the{n}Burnstein army. We came to reinforce them, but...{p}The Burnstein army has taken Galashiels on the border,{n}and we cannot advance.",
    "term": "end"
   },
   {
    "id": "scen050.0118",
    "jp": "こんな短時間で制圧？{n}ランザック王国の兵はいなかったのか？",
-   "en": "",
+   "en": "They took it that quickly? Weren't there any Ranzak{n}soldiers here?",
    "term": "end"
   },
   {
    "id": "scen050.0119",
    "jp": "そりゃ、いたさ。{p}だがいかに勇ましいランザック王国兵でも、{n}インペリアル・ナイトの率いる精鋭部隊には{n}ひとたまりもなかったようだ。{p}とにかく、我々の兵力では{n}迂闊に攻撃を仕掛けられん。{n}今のところ、こうして見守るしかない。",
-   "en": "",
+   "en": "Of course there were.{p}But brave as Ranzak's soldiers are, it seems they{n}stood no chance against elite troops led by an{n}Imperial Knight.{p}In any case, we cannot risk an attack with the forces{n}we have. For now, all we can do is watch.",
    "term": "end"
   },
   {
    "id": "scen050.0120",
    "jp": "せっかくここまで来たというのに、{n}先へ進めないんだ。",
-   "en": "",
+   "en": "We've come all this way, and now we can't go any{n}farther.",
    "term": "end"
   },
   {
    "id": "scen050.0121",
    "jp": "こんな街なんて飛び越えられれば、{n}ランザックの王都までいけるのになぁ‥‥。",
-   "en": "",
+   "en": "If only we could fly right over this town, we could get{n}to Ranzak's capital...",
    "term": "end"
   },
   {
    "id": "scen050.0122",
    "jp": "これ以上近づいて、奴らを刺激するのはよそう。{n}不用意に戦って、街の人が巻き込まれたら最悪だ。",
-   "en": "",
+   "en": "Let's not get any closer and provoke them. The last{n}thing we need is to start a careless fight and get the{n}townspeople caught in it.",
    "term": "end"
   },
   {
    "id": "scen050.0123",
    "jp": "こら、どこへ行く気だ！",
-   "en": "",
+   "en": "Hey! Where do you think you're going?!",
    "term": "end"
   }
  ]

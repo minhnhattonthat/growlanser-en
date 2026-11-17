@@ -188,7 +188,7 @@
   {
    "id": "msys.items.0030",
    "jp": "{F492}大賢者アルヴィースの魂が宿る{F461}、{F4D1}{n}に精通{F47A}{F452}、{F4F6}能力も{F491}{F4C2}もつ{F4BA}{F481}２０{F460}Ｓ・範囲Ｓ・{F4D2}{F4D1}増加",
-   "en": "Said to house the soul of the legendary great sage{n}Alvis, it grants mastery of magic and enhances{n}spellcasting.{p}Magic power 20%; range S; area S; grants more spells.",
+   "en": "Said to house the soul of the legendary great sage{n}Alviss, it grants mastery of magic and enhances{n}spellcasting.{p}Magic power 20%; range S; area S; grants more spells.",
    "term": "null"
   },
   {
@@ -224,7 +224,7 @@
   {
    "id": "msys.items.0036",
    "jp": "狂戦士リーヴェイグが愛用{F4BC}、持ち主の活力{F4C9}反応{F4BD}魔剣。{F4D9}生命{F4C2}{F4B4}{F4DD}{F4C0}{F4DF}{F4E7}{F4C2}{F477}{F4BB}が{F47A}{F479}。",
-   "en": "The berserker Riveig's favored magic sword responds{n}to its owner's vitality. Greater life force is said to draw{n}out more power.",
+   "en": "The berserker Liveig's favored magic sword responds{n}to its owner's vitality. Greater life force is said to draw{n}out more power.",
    "term": "null"
   },
   {
@@ -746,7 +746,7 @@
   {
    "id": "msys.items.0123",
    "jp": "{F4D0}地に舞い降りた戦{F4B9}、{F4BF}身に{F49E}て{n}{F4CD}{F479}白く輝く鎧。{F48E}軽{F4EF}また動きやすい{n}{F4C5}、{F4C3}を受けにくい。{F462}{F494}{F4A8}７％",
-   "en": "Gleaming white armor said to have clad a battle maiden{n}who descended here. Very light and flexible, it helps{n}evade attacks. Evasion: 7%.",
+   "en": "Gleaming white armor said to have clad a Valkyrie{n}who descended here. Very light and flexible, it helps{n}evade attacks. Evasion: 7%.",
    "term": "null"
   },
   {
@@ -818,7 +818,7 @@
   {
    "id": "msys.items.0135",
    "jp": "{F44F}の謎を解き明か{F4BC}{F463}{F492}大賢者{F4C0}アルヴィースが{F4A0}{F4BC}着衣。強力な{F4D1}障壁{F4CA}{F465}{F4CE}い{F4CC}{F462}{F4D1}{F478}２０％軽減",
-   "en": "A garment created by Alvis, the legendary great sage{n}said to have unraveled the mysteries of Grosh.{p}Enchanted with a powerful magical barrier. Reduces{n}magic damage by 20%.",
+   "en": "A garment created by Alviss, the legendary great sage{n}said to have unraveled the mysteries of Grosh.{p}Enchanted with a powerful magical barrier. Reduces{n}magic damage by 20%.",
    "term": "null"
   },
   {
@@ -1472,7 +1472,7 @@
   {
    "id": "msys.items.0244",
    "jp": "{F44F}が長い間、{F4FC}にしみこんで出来{F4E5}{n}淡い光{F49A}土{F4BA}呪いを解く身代わり人形の材料に使{F4F8}{F4CC}",
-   "en": "Faintly glowing soil formed as Grosh seeped into the{n}earth over many years. Used to make a surrogate doll{n}for lifting curses.",
+   "en": "Faintly glowing soil formed as Grosh seeped into the{n}earth over many years. Used to make Substitute{n}Dolls, which lift curses.",
    "term": "null"
   },
   {
