@@ -2,6 +2,7 @@
 
   python -X utf8 build.py              -> build/disc{1,2}/ (Redump file names, original .cue copied)
   python -X utf8 build.py --marker     -> marker build (phase 5: every line = its id + filler)
+  python -X utf8 build.py [--marker] --qa F.tsv --out work/qa/b --disc 1   -> stress build (id<TAB>text overrides)
   python -X utf8 build.py --identity  -> no patches into work/ident/, exit 1 unless every track's SHA-1 equals rom.sha1
 
 Steps: check the dump (rom.sha1), unpack with dumpsxiso if work/discN/tree is missing (never written to), write a
@@ -109,11 +110,11 @@ def sha1(path):
         return hashlib.file_digest(f, "sha1").hexdigest()
 
 
-def patches(disc, mode):
+def patches(disc, mode, qa=None):
     """Patched files for this disc, {ISO name: bytes}. Both discs share data files and EXE (one translation)."""
     import insert
     if mode not in _patched:
-        _patched[mode] = insert.patched(mode)
+        _patched[mode] = insert.patched(mode, overrides=insert.read_qa(qa) if qa else None)
     files = dict(_patched[mode])
     if disc == 2:
         files["SLPS_023.81"] = files.pop("SLPS_023.80")
@@ -127,6 +128,9 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--identity", action="store_true", help="build with no patches and compare to rom.sha1")
     ap.add_argument("--marker", action="store_true", help="marker build: every line replaced by its id + filler")
+    ap.add_argument("--qa", help="TSV of id<TAB>English text overriding those entries (width-gate stress lines)")
+    ap.add_argument("--out", default="build", help="output directory (default build/)")
+    ap.add_argument("--disc", type=int, choices=sorted(DISCS), help="build only this disc")
     args = ap.parse_args()
     check_rom.check()
     if args.identity:
@@ -140,8 +144,9 @@ def main():
                 bad += not ok
                 print(f"{'ok  ' if ok else 'DIFF'} {got}  {path.name}")
         sys.exit(1 if bad else 0)
-    for disc in DISCS:
-        for path in build_disc(disc, ROOT / f"build/disc{disc}", patches(disc, "marker" if args.marker else "en")):
+    for disc in [args.disc] if args.disc else DISCS:
+        files = patches(disc, "marker" if args.marker else "en", args.qa)
+        for path in build_disc(disc, ROOT / args.out / f"disc{disc}", files):
             print(f"{sha1(path)}  {path.relative_to(ROOT).as_posix()}")
 
 

@@ -32,8 +32,14 @@ FREE_END   equ 0x80100A0E        ; end of the font (cell 0x7CB)
     nop                          ; was addiu s6, s6, 2
 
 .org FREE_START
-vwf_state:                       ; 0 texel x, 4 last col returned, 8 last row, 12 canvas base1, 16 scale, 20 y0
-    .word 0, -1, -1, 0, 1, 0
+; Windows draw interleaved (typewriter text beside a name tag), so the x is kept per canvas: 4 slots of
+; (canvas base1, texel x, last col returned, last row), replaced round-robin.
+vwf_state:                       ; 0 scale, 4 y0, 8 next slot to replace, 12 -, 16 slots
+    .word 1, 0, 0, 0
+    .word 0, 0, -1, -1
+    .word 0, 0, -1, -1
+    .word 0, 0, -1, -1
+    .word 0, 0, -1, -1
 
 vwf_std:
     li      a3, 1
@@ -52,28 +58,46 @@ vwf_draw:
     sw      s2, 0x18(sp)
     sw      s3, 0x1C(sp)
     la      s3, vwf_state
-    sw      a3, 16(s3)
+    sw      a3, 0(s3)
     sll     t1, a1, 4
     addu    t1, t1, t0
-    sw      t1, 20(s3)           ; y0 = row * 16 + offset
+    sw      t1, 4(s3)            ; y0 = row * 16 + offset
     lui     t0, 0x801D
     lw      t9, 0x2808(t0)       ; canvas base1 now
-    lw      t1, 4(s3)
-    lw      t2, 8(s3)
-    lw      t3, 12(s3)
-    lw      s0, 0(s3)
+    addiu   t4, s3, 16
+    li      t5, 4
+@@find:
+    lw      t6, 0(t4)
+    nop
+    beq     t6, t9, @@found
+    addiu   t5, t5, -1
+    bnez    t5, @@find
+    addiu   t4, t4, 16
+    lw      t6, 8(s3)            ; no slot for this canvas: take the next one
+    nop
+    addiu   t7, t6, 1
+    andi    t7, t7, 3
+    sw      t7, 8(s3)
+    sll     t6, t6, 4
+    addu    t4, s3, t6
+    addiu   t4, t4, 16
+    sw      t9, 0(t4)
+    b       @@resync
+    nop
+@@found:
+    lw      t1, 8(t4)
+    lw      t2, 12(t4)
+    lw      s0, 4(t4)
     bne     t1, a0, @@resync
     nop
-    bne     t2, a1, @@resync
-    nop
-    beq     t3, t9, @@go
+    beq     t2, a1, @@go
     nop
 @@resync:
     sll     s0, a0, 1
     addu    s0, s0, a0
     sll     s0, s0, 2            ; x = col * 12
 @@go:
-    sw      t9, 12(s3)
+    move    s3, t4               ; this canvas's slot
     move    s1, a1
     move    s2, a2
     sltiu   t0, s2, PAIR
@@ -109,9 +133,9 @@ vwf_draw:
     li      t1, 12
     divu    t0, t1
     mflo    s2                   ; col = ceil(x / 12)
-    sw      s0, 0(s3)
-    sw      s2, 4(s3)
-    sw      s1, 8(s3)
+    sw      s0, 4(s3)
+    sw      s2, 8(s3)
+    sw      s1, 12(s3)
     jal     WAIT
     move    a0, zero
     move    v0, s2
@@ -153,8 +177,8 @@ vwf_glyph:
     sw      s7, 0x1C(sp)
     sw      fp, 0x20(sp)
     la      t0, vwf_state
-    lw      s4, 16(t0)           ; scale
-    lw      t8, 20(t0)           ; y0
+    lw      s4, 0(t0)            ; scale
+    lw      t8, 4(t0)            ; y0
     lui     t0, 0x801D
     addiu   t0, t0, 0x2808       ; canvas struct
     lw      t1, 8(t0)            ; split column

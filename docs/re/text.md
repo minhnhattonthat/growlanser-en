@@ -77,6 +77,30 @@
 - Every SCEN string with no offset pointing at it (2,859) is a choice line read on past its question, incl. 5
   "　{FFEE}キャンセル{FFF1}" cancel options in scene 67.
 
+## Text drawing and the English VWF (phase 5; verified: RAM dump of the debug menu, unicorn test `tests/test_vwf.py`, marker build shots)
+- One printer, 0x8006E794 (a0 window struct, a1 x, a2 y, a3 width in columns, stack: height, text pointer...),
+  called from 0x800677F4 and 0x80070934; it draws into a 4bpp RAM canvas (struct 0x801D2808: base1, stride1,
+  split column, -, base2, stride2; texels from split*12 on go to canvas 2; low nibble = left texel) that is then
+  uploaded to VRAM. The font is read only by its two glyph routines (only `lw 0x9A0($gp)` in the EXE and RAM):
+  - 0x800711E0 (col, s2+1, code), jal at 0x8006F3A8: normal text, 1 texel per font pixel, y = row*16+2, x = col*12
+    texels, then s6 += 1. **The screen is 320x240: a column is 12 screen px, a text line 16.**
+  - 0x80071650 (col, s2, code), jal at 0x8006F49C: double size (2x2 texels per pixel), s6 += 2. Chosen per line
+    by the per-line size tables at 0xA4/0xA8(sp) (< 2 = normal); not yet seen on screen.
+  - Before each glyph the printer checks s6 against the window width (0x8C(sp)) and the per-line widths (0x50(sp))
+    and wraps on its own (s6 = 0, next row) if it does not fit; kinsoku codes are compared with gp halfwords
+    0x984-0x996.
+- asm/vwf.asm hooks both jals: pair codes (tools/enfont.py, PAIR 0x800 + i<<7 + j) are drawn as two proportional
+  glyphs from font/en12.txt, game glyphs 12 px wide; the printer gets back s6 = ceil(x / 12). The texel x resyncs
+  to col*12 when the column, row or canvas changes. Code + English font sit in font cells 0x6A0-0x7CA.
+- EXE string tables: the u16 arrays and getters stay; strings go in a heap (tools/insert.py `Heap`: the original
+  string blocks plus free kanji cells 0x11C-0x69F minus the icon/button cells), anywhere within 128 KB above the
+  table's base (u16 word offsets).
+- MSYS.DAT subfiles are found by a sector table at 0x8001273C (start sector per subfile, index = a0 + 6) and a
+  count table at 0x800126BC; items = subfile 6 (sectors 0x85-0x8F, loaded to 0x80117B98), magic + skills =
+  subfile 7 (0x8F-0x94, loaded to 0x80141778). Skills is found at magic + magic's u32 size (0x8004C13C), so the
+  two may share the 5 sectors in any proportion. Growing a subfile needs the sector table, the count table and the
+  load buffers (not done).
+
 ## Free space
 - Disc: files can grow (dumpsxiso/mkpsxiso rebuild re-lays the LBAs; the game finds files by CdSearchFile, so moved
   files are found by name - verified only by reading the code at 0x800181F0, prove with the phase 3 identity build).

@@ -58,6 +58,18 @@ class Vwf(unittest.TestCase):
         _, got = self.run_text(text, col=3, row=1, big=True)
         self.assertEqual(got, expected(text, enfont.width(text) + 2))
 
+    def test_interleaved_windows(self):
+        """A typewriter line drawn a word at a time, with another window drawn between: no gap, no overlap."""
+        e, c = self.emu, self.codec
+        e.clear()
+        col = e.draw(c.encode("Who "))
+        e.write(0x801D2808, vwfemu.struct.pack("<I", vwfemu.CANVAS1 + 0x8000))  # another window's canvas
+        e.draw(c.encode("Tag"), 0, 0)
+        e.write(0x801D2808, vwfemu.struct.pack("<I", vwfemu.CANVAS1))
+        e.draw(c.encode("goes"), col, 0)
+        text = "Who goes"
+        self.assertEqual(e.grid(enfont.width(text) + 2, 13), expected(text, enfont.width(text) + 2))
+
     def test_odd_length_and_game_glyph(self):
         # "Ab" + bullet (game glyph 0xD1, 12 px) + "c": no gap after the single "c", glyph at x = 11
         self.emu.clear()

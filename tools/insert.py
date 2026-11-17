@@ -58,10 +58,13 @@ def marker(e):
 
 
 class Encoder:
-    def __init__(self, mode):
+    def __init__(self, mode, overrides=None):
         self.mode, self.jp, self.en = mode, gltext.Codec(), enfont.EnCodec()
+        self.overrides = overrides or {}
 
     def words(self, e):
+        if e["id"] in self.overrides:
+            return self.en.encode(self.overrides[e["id"]])
         if self.mode == "jp" or not e["jp"] and not e.get("en") or e["id"] in KEEP_JP:
             return self.jp.encode(e["jp"])
         if self.mode == "marker":
@@ -182,9 +185,19 @@ def symbols():
     return out
 
 
-def patched(mode="en", tree=TREE):
-    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80 (+ SLPS_023.81, the same EXE on disc 2)."""
-    enc = Encoder(mode)
+def read_qa(path):
+    """--qa file: id<TAB>text per line (stress lines for the width gate); # comments."""
+    out = {}
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if line.strip() and not line.startswith("#"):
+            k, _, v = line.partition("\t")
+            out[k.strip()] = v
+    return out
+
+
+def patched(mode="en", tree=TREE, overrides=None):
+    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80. overrides: {id: English text} (--qa)."""
+    enc = Encoder(mode, overrides)
     scen = (tree / "SCEN.DAT").read_bytes()
     msys = bytearray((tree / "MSYS.DAT").read_bytes())
     exe = bytearray((tree / EXE).read_bytes())
