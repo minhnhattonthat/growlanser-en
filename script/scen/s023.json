@@ -15,787 +15,787 @@
   {
    "id": "scen023.0001",
    "jp": "アリオスト",
-   "en": "",
+   "en": "Ariost",
    "term": "null"
   },
   {
    "id": "scen023.0002",
    "jp": "村人",
-   "en": "",
+   "en": "Villager",
    "term": "null"
   },
   {
    "id": "scen023.0003",
    "jp": "マーナ",
-   "en": "",
+   "en": "Marna",
    "term": "null"
   },
   {
    "id": "scen023.0004",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen023.0005",
    "jp": "‥‥‥{v:0002}行って来ます、父さん。",
-   "en": "",
+   "en": "...{v:0002}I'm off, Father.",
    "term": "end"
   },
   {
    "id": "scen023.0006",
    "jp": "{v:0003}アリオストさん？",
-   "en": "",
+   "en": "{v:0003}Ariost-san?",
    "term": "end"
   },
   {
    "id": "scen023.0007",
    "jp": "{v:0004}ここにはね、僕の父さんが眠っているんだ。",
-   "en": "",
+   "en": "{v:0004}My father rests here, you see.",
    "term": "end"
   },
   {
    "id": "scen023.0008",
    "jp": "{v:0005}アリオストさんのお父さん？{n}それじゃお母さんは？",
-   "en": "",
+   "en": "{v:0005}Your father, Ariost-san? Then what about your{n}mother?",
    "term": "end"
   },
   {
    "id": "scen023.0009",
    "jp": "{v:0006}これから会いに行くのさ。",
-   "en": "",
+   "en": "{v:0006}We're going to see her now.",
    "term": "end"
   },
   {
    "id": "scen023.0010",
    "jp": "{v:0007}これから‥‥っていうと、ひょっとして‥‥。",
-   "en": "",
+   "en": "{v:0007}Now...? Wait, does that mean...?",
    "term": "end"
   },
   {
    "id": "scen023.0011",
    "jp": "{v:0008}ああ。{n}僕の母さんは人間じゃなくてフェザリアンなんだ。",
-   "en": "",
+   "en": "{v:0008}Yes. My mother isn't human. She's a Featherian.",
    "term": "end"
   },
   {
    "id": "scen023.0012",
    "jp": "{v:0009}うそ！？",
-   "en": "",
+   "en": "{v:0009}No way!",
    "term": "end"
   },
   {
    "id": "scen023.0013",
    "jp": "{v:000A}驚くのも無理はない。{n}フェザリアンは我々人間と{n}ほとんど交流を持たないからね。",
-   "en": "",
+   "en": "{v:000A}It's no wonder you're surprised. Featherians have very{n}little contact with us humans.",
    "term": "end"
   },
   {
    "id": "scen023.0014",
    "jp": "{v:000B}初めて聞いた‥‥。",
-   "en": "",
+   "en": "{v:000B}I had no idea...",
    "term": "end"
   },
   {
    "id": "scen023.0015",
    "jp": "アリオストとフェザーランドへ",
-   "en": "",
+   "en": "To Featherland with Ariost",
    "term": "end"
   },
   {
    "id": "scen023.0016",
    "jp": "{v:000C}そうだろうね。{n}こんな事、話すのは君たちが初めてだからね。{p}{FC00}{v:000D}さ、そろそろ行こうか。",
-   "en": "",
+   "en": "{v:000C}I expect not. You're the first people I've ever told{n}about this.{p}{FC00}{v:000D}Well, shall we get going?",
    "term": "end"
   },
   {
    "id": "scen023.0017",
    "jp": "{v:000C}そうだろうね。{n}こんな事、話すのは君たちが初めてだからね。",
-   "en": "",
+   "en": "{v:000C}I expect not. You're the first people I've ever told{n}about this.",
    "term": "end"
   },
   {
    "id": "scen023.0018",
    "jp": "{v:0003}一度、僕の研究室へ寄ってくれ。{n}そこでこの装置を組み込むから。",
-   "en": "",
+   "en": "{v:0003}Stop by my laboratory first. I'll install this device there.",
    "term": "end"
   },
   {
    "id": "scen023.0019",
    "jp": "手入れの行き届いた墓石だ。",
-   "en": "",
+   "en": "The gravestone is carefully tended.",
    "term": "end"
   },
   {
    "id": "scen023.0020",
    "jp": "{v:000B}この辺りは大丈夫だったんだね。",
-   "en": "",
+   "en": "{v:000B}So this area was spared.",
    "term": "end"
   },
   {
    "id": "scen023.0021",
    "jp": "{v:000C}これは‥‥いったいどうしてしまったのですか？",
-   "en": "",
+   "en": "{v:000C}What... What could have happened here?",
    "term": "end"
   },
   {
    "id": "scen023.0022",
    "jp": "‥‥{v:0025}母さん‥‥。",
-   "en": "",
+   "en": "...{v:0025}Mother...",
    "term": "end"
   },
   {
    "id": "scen023.0023",
    "jp": "{v:000D}アリオストさんのお母さん‥‥。",
-   "en": "",
+   "en": "{v:000D}Ariost-san's mother...",
    "term": "end"
   },
   {
    "id": "scen023.0024",
    "jp": "{v:000E}ヴェンツェルがね、この村の人を人質にして{n}パワーストーンを差し出せって。{p}{v:000F}それでパワーストーンを渡したのに、{n}この村を壊しちゃったの。",
-   "en": "",
+   "en": "{v:000E}Wenzel took the villagers hostage and demanded the{n}Power Stone.{p}{v:000F}We handed over the Power Stone, but he destroyed the{n}village anyway.",
    "term": "end"
   },
   {
    "id": "scen023.0025",
    "jp": "{v:0010}パワーストーンを渡した？{n}今もヴェンツェルが持っているのですか？",
-   "en": "",
+   "en": "{v:0010}You handed over the Power Stone? Does Wenzel still{n}have it?",
    "term": "end"
   },
   {
    "id": "scen023.0026",
    "jp": "{v:0011}いいや。{n}奴はその場で壊しちまったようだ。",
-   "en": "",
+   "en": "{v:0011}No. Looks like he smashed it right then and there.",
    "term": "end"
   },
   {
    "id": "scen023.0027",
    "jp": "‥‥{v:0012}そんな‥‥。",
-   "en": "",
+   "en": "...{v:0012}It can't be...",
    "term": "end"
   },
   {
    "id": "scen023.0028",
    "jp": "{v:0013}やっぱり、いけなかったでしょうか？",
-   "en": "",
+   "en": "{v:0013}Was it the wrong thing to do after all?",
    "term": "end"
   },
   {
    "id": "scen023.0029",
    "jp": "{v:0014}パワーストーンが壊されてしまったなんて‥‥。{p}{v:0015}それではヴェンツェルを倒したとしても、{n}この世界を救う方法が‥‥。",
-   "en": "",
+   "en": "{v:0014}The Power Stone has been destroyed...{p}{v:0015}Then even if we defeat Wenzel, how can we save this{n}world...?",
    "term": "end"
   },
   {
    "id": "scen023.0030",
    "jp": "‥‥{v:0016}詳しく話してくれ。",
-   "en": "",
+   "en": "...{v:0016}Tell us more.",
    "term": "end"
   },
   {
    "id": "scen023.0031",
    "jp": "{v:0017}パワーストーンが、{n}時空制御装置の要だという話はしましたね。{n}あれがなければ制御装置は動きません。{p}{v:0018}つまり、この世界を維持できないのです。{p}{v:0019}現在、徐々にではありますが、{n}２つの世界は元の位置に戻ろうと、離れ始めています。{p}{v:001A}それを止めることができるのは時空制御装置。{n}もしくは‥‥。",
-   "en": "",
+   "en": "{v:0017}I told you that the Power Stone is the heart of the{n}space-time control device. Without it, the device cannot{n}function.{p}{v:0018}In other words, we cannot sustain this world.{p}{v:0019}Even now, the two worlds are slowly beginning to{n}separate, trying to return to their original positions.{p}{v:001A}Only the space-time control device can stop that. Either{n}that, or...",
    "term": "end"
   },
   {
    "id": "scen023.0032",
    "jp": "{v:001B}もしくは？",
-   "en": "",
+   "en": "{v:001B}Or?",
    "term": "end"
   },
   {
    "id": "scen023.0033",
    "jp": "{v:001C}時空を操ることができる、ヴェンツェルのみ‥‥。",
-   "en": "",
+   "en": "{v:001C}Wenzel, who can control space and time. No one else...",
    "term": "end"
   },
   {
    "id": "scen023.0034",
    "jp": "{v:001D}それって、ヴェンツェルの言いなりになれってこと？{n}降参するしかないってこと？",
-   "en": "",
+   "en": "{v:001D}So you're saying we have to do whatever Wenzel says?{n}We've got no choice but to surrender?",
    "term": "end"
   },
   {
    "id": "scen023.0035",
    "jp": "‥‥{v:001E}悲しいことですが、パワーストーンをもう１度{n}作るには、少なくとも１国の民ほどのグローシアンが{n}必要になります。{p}{v:001F}事実上、不可能としか言いようがありません。{n}つまり、ヴェンツェル以外、世界の分離を{n}止められる者はいません。",
-   "en": "",
+   "en": "...{v:001E}Sadly, creating another Power Stone would require at{n}least enough Growsians to populate an entire nation.{p}{v:001F}In practical terms, it is simply impossible. That means no{n}one but Wenzel can stop the worlds from separating.",
    "term": "end"
   },
   {
    "id": "scen023.0036",
    "jp": "{v:0020}奴を倒したところで、{n}世界は破滅に向かうってわけか‥‥。",
-   "en": "",
+   "en": "{v:0020}So even if we beat him, the world's still headed for{n}ruin...",
    "term": "end"
   },
   {
    "id": "scen023.0037",
    "jp": "{v:0021}だったらヴェンツェルに支配された方が{n}いいって言う人、いっぱいいそうだね。",
-   "en": "",
+   "en": "{v:0021}Then I bet plenty of people would say we're better off{n}letting Wenzel rule us.",
    "term": "end"
   },
   {
    "id": "scen023.0038",
    "jp": "‥‥{v:0022}うん。{n}そう思われても当然だもんね。",
-   "en": "",
+   "en": "...{v:0022}Yes. You can't really blame them for feeling that way.",
    "term": "end"
   },
   {
    "id": "scen023.0039",
    "jp": "{v:0023}俺たちが今までやった事は、{n}無駄だっていうのか！？{n}クソッ！",
-   "en": "",
+   "en": "{v:0023}You're saying everything we've done was for nothing?!{n}Damn it!",
    "term": "end"
   },
   {
    "id": "scen023.0040",
    "jp": "‥‥{v:0024}ここであきらめてしまうと、{n}あの人に笑われてしまいます。{n}私は私で、別の方法を考えてみます。",
-   "en": "",
+   "en": "...{v:0024}If I give up now, he will laugh at me. I will try to think{n}of another way myself.",
    "term": "end"
   },
   {
    "id": "scen023.0041",
    "jp": "{v:0026}アリオスト。{n}あなたはあの人の息子なのですよ。{n}最後まであきらめないで。",
-   "en": "",
+   "en": "{v:0026}Ariost. You are his son, after all. Do not give up before{n}the very end.",
    "term": "end"
   },
   {
    "id": "scen023.0042",
    "jp": "{v:0027}そうだな。{n}やる前からあきらめちゃ、何にも始まらねぇ。",
-   "en": "",
+   "en": "{v:0027}That's right. Give up before you even try, and you'll{n}never get anywhere.",
    "term": "end"
   },
   {
    "id": "scen023.0043",
    "jp": "{v:0028}もうルイセちゃんだけだもんね、{n}グローシアンって‥‥。",
-   "en": "",
+   "en": "{v:0028}Luise-chan's the only Growsian left now, isn't she...?",
    "term": "end"
   },
   {
    "id": "scen023.0044",
    "jp": "{v:0029}１国の民ほどのグローシアンか‥‥。",
-   "en": "",
+   "en": "{v:0029}Enough Growsians to populate an entire nation...",
    "term": "end"
   },
   {
    "id": "scen023.0045",
    "jp": "{v:002A}わたし１人の力じゃ、そんなの無理だよ‥‥。",
-   "en": "",
+   "en": "{v:002A}I can't possibly do that with just my own power...",
    "term": "end"
   },
   {
    "id": "scen023.0046",
    "jp": "{v:002B}みんなグローシュを使えるといいのにね。",
-   "en": "",
+   "en": "{v:002B}If only everyone could use Grosh.",
    "term": "end"
   },
   {
    "id": "scen023.0047",
    "jp": "{v:002C}グローシアンの力が、もう少し解明されないとダメだ。{n}アイリーンの治療法すらわかっていないのが{n}現状だからな。",
-   "en": "",
+   "en": "{v:002C}We need to understand more about Growsian powers{n}first. As things stand, we don't even know how to{n}treat Irene.",
    "term": "end"
   },
   {
    "id": "scen023.0048",
    "jp": "{v:002D}そういえば、ブラッドレー先生、{n}ペンダントを調べてくれたかな？",
-   "en": "",
+   "en": "{v:002D}Oh, I wonder if Bradley-sensei has examined the{n}pendant yet?",
    "term": "end"
   },
   {
    "id": "scen023.0049",
    "jp": "ブローニュ村",
-   "en": "",
+   "en": "Boulogne Village",
    "term": "end"
   },
   {
    "id": "scen023.0050",
    "jp": "{v:0000}ここが僕の生まれ育った村だ。{p}{FC00}{v:0001}ちょっと失礼。",
-   "en": "",
+   "en": "{v:0000}This is the village where I was born and raised.{p}{FC00}{v:0001}Excuse me a moment.",
    "term": "end"
   },
   {
    "id": "scen023.0051",
    "jp": "{v:0000}おーい！{n}帰ったぞ！",
-   "en": "",
+   "en": "{v:0000}Heeey! I'm home!",
    "term": "end"
   },
   {
    "id": "scen023.0052",
    "jp": "{v:0001}おお、アリオストさんだ！",
-   "en": "",
+   "en": "{v:0001}Oh, it's Ariost-san!",
    "term": "end"
   },
   {
    "id": "scen023.0053",
    "jp": "{v:0002}帰ってきたな、出世頭！",
-   "en": "",
+   "en": "{v:0002}Welcome home, our local success story!",
    "term": "end"
   },
   {
    "id": "scen023.0054",
    "jp": "{v:0003}まあ、まあ。",
-   "en": "",
+   "en": "{v:0003}Now, now.",
    "term": "end"
   },
   {
    "id": "scen023.0055",
    "jp": "{v:0004}はい、これ。{n}学院から報奨金が出たんだ。",
-   "en": "",
+   "en": "{v:0004}Here, take this. The Academy gave me a cash award.",
    "term": "end"
   },
   {
    "id": "scen023.0056",
    "jp": "{v:0005}いつもすまねぇな。{n}これでまた村が豊かになるさ。",
-   "en": "",
+   "en": "{v:0005}Always helping us out, eh? This'll make the village that{n}much better off.",
    "term": "end"
   },
   {
    "id": "scen023.0057",
    "jp": "{v:0006}いやぁ、僕はみんなみたいに{n}村の仕事をしていないから。",
-   "en": "",
+   "en": "{v:0006}Well, I don't do any of the village work like the rest of{n}you.",
    "term": "end"
   },
   {
    "id": "scen023.0058",
    "jp": "{v:0007}何言うさ。{n}アリオストさんには才能があるんだから、{n}そっちをやるのが当然さ。{p}{v:0008}村のことはオラたちに任せておくさ。",
-   "en": "",
+   "en": "{v:0007}Don't talk like that. You've got talent, Ariost-san. Of{n}course you ought to put it to use.{p}{v:0008}Just leave the village to us.",
    "term": "end"
   },
   {
    "id": "scen023.0059",
    "jp": "{v:0009}すまないね。",
-   "en": "",
+   "en": "{v:0009}Thank you.",
    "term": "end"
   },
   {
    "id": "scen023.0060",
    "jp": "{v:000A}なんの、なんの。",
-   "en": "",
+   "en": "{v:000A}Think nothing of it!",
    "term": "end"
   },
   {
    "id": "scen023.0061",
    "jp": "{v:000B}僕は先に家に戻るから、後から来てくれ。{n}しばらく帰らなかったから、汚れているんだ。",
-   "en": "",
+   "en": "{v:000B}I'll go home ahead of you. Come by later. I've been away{n}for a while, so the place is dirty.",
    "term": "end"
   },
   {
    "id": "scen023.0062",
    "jp": "{v:000C}アンタら、アリオストさんの友達け？",
-   "en": "",
+   "en": "{v:000C}You folks friends of Ariost-san?",
    "term": "end"
   },
   {
    "id": "scen023.0063",
    "jp": "{v:000D}はい。{n}魔法学院の後輩です。",
-   "en": "",
+   "en": "{v:000D}Yes. I'm his junior at the Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen023.0064",
    "jp": "{v:000E}どうさ、アリオストさんは？",
-   "en": "",
+   "en": "{v:000E}So, what do you think of Ariost-san?",
    "term": "end"
   },
   {
    "id": "scen023.0065",
    "jp": "{v:000F}すごい人です。{n}あの若さで自分の研究室をもらえる人は{n}そういないです。",
-   "en": "",
+   "en": "{v:000F}He's amazing. Very few people his age are given a{n}laboratory of their own.",
    "term": "end"
   },
   {
    "id": "scen023.0066",
    "jp": "{v:0010}そうだろう？{n}あの人はオラたちの希望さ。{p}{v:0011}お父さんもすごい人だったけど、{n}あの人もすごいさ。",
-   "en": "",
+   "en": "{v:0010}Ain't he, though? He's our hope for the future.{p}{v:0011}His father was a great man, and he's just as great.",
    "term": "end"
   },
   {
    "id": "scen023.0067",
    "jp": "{v:0012}アリオストさんのお父さんも{n}魔法研究家だったの？",
-   "en": "",
+   "en": "{v:0012}Was Ariost-san's father a magic researcher too?",
    "term": "end"
   },
   {
    "id": "scen023.0068",
    "jp": "{v:0013}いいや、そうじゃねぇさ。{p}{v:0014}オラたちがこうして生き甲斐を持てるのも、{n}お父さんのおかげさ。",
-   "en": "",
+   "en": "{v:0013}No, nothing like that.{p}{v:0014}It's thanks to his father that we've got something to{n}live for.",
    "term": "end"
   },
   {
    "id": "scen023.0069",
    "jp": "{v:0015}どういう事かな？",
-   "en": "",
+   "en": "{v:0015}What do you mean?",
    "term": "end"
   },
   {
    "id": "scen023.0070",
    "jp": "{v:0016}オラたちは親もなく、捨てられた存在だったさ。{n}その日の飢えをしのぐのに人の物を盗んだり、{n}悪いこともしたさ。{p}{v:0017}だけどそんなオラたちを引き取って、{n}この村に連れてきてくれたのが{n}彼のお父さんだったのさ。{p}{v:0018}そしてオラたちに畑の耕し方を教えてくれたさ。",
-   "en": "",
+   "en": "{v:0016}We had no parents. Nobody wanted us. We stole from{n}folks and did bad things just to keep from going{n}hungry each day.{p}{v:0017}But his father took us in and brought us to this{n}village.{p}{v:0018}Then he taught us how to work the fields.",
    "term": "end"
   },
   {
    "id": "scen023.0071",
    "jp": "{v:0019}ああ。{n}そして採れた物を街で売って、金を稼ぐ。{p}{v:001A}そうやって自分たちの力だけで生きていく事を{n}教えてくれたさ。{p}{v:001B}自分で何とかしようと努力すれば、{n}どんな事だって出来るんだってね。{p}{v:001C}アリオストさんは頭がいいからこんな村、{n}出ていこうと思えばいつだって出ていけるはずさ。{p}{v:001D}だけど、自分が研究を続けられるのも{n}オラたちがいるからだって、出ていこうとしないのさ。",
-   "en": "",
+   "en": "{v:0019}That's right. We'd sell what we grew in town and earn{n}some money.{p}{v:001A}That's how he taught us to make a living on our own.{p}{v:001B}He said there ain't anything you can't do if you put in{n}the effort to make it happen yourself.{p}{v:001C}Ariost-san's a clever man. He could leave a village like{n}this anytime he wanted.{p}{v:001D}But he says we're the reason he can keep doing his{n}research, so he won't leave.",
    "term": "end"
   },
   {
    "id": "scen023.0072",
    "jp": "{v:001E}あの人が才能や運だけであそこまでになったなんて、{n}誰も思っちゃいないさ。{p}{v:001F}いつだってあの人は勉強している。{n}それはすごいことさ。{p}{v:0020}それどころか今日みたいに、{n}学院から報奨金が出ると村のために回してくれるのさ。",
-   "en": "",
+   "en": "{v:001E}Nobody thinks he got where he is on talent or luck{n}alone.{p}{v:001F}He's always studying, that man. It's something to{n}admire.{p}{v:0020}And on top of that, whenever the Academy gives him a{n}cash award, he puts it toward the village, just like{n}today.",
    "term": "end"
   },
   {
    "id": "scen023.0073",
    "jp": "{v:0021}天才は一日にして成らず、か。",
-   "en": "",
+   "en": "{v:0021}A genius isn't made in a day, eh?",
    "term": "end"
   },
   {
    "id": "scen023.0074",
    "jp": "{v:0022}これからもアリオストさんのこと、よろしく頼むさ。",
-   "en": "",
+   "en": "{v:0022}You keep looking out for Ariost-san, all right?",
    "term": "end"
   },
   {
    "id": "scen023.0075",
    "jp": "ん？{n}１人多くねぇか？",
-   "en": "",
+   "en": "Hm? Ain't there one too many of us?",
    "term": "end"
   },
   {
    "id": "scen023.0076",
    "jp": "いや～っ、はっはっはっ！{n}バレましたか！",
-   "en": "",
+   "en": "Well now, ha ha ha! You caught me!",
    "term": "end"
   },
   {
    "id": "scen023.0077",
    "jp": "君たちの後についてきたら、{n}なんとか洞窟を抜けられたよ。{n}ありがとう！{p}ああ、疲れた。{n}宿はどこかな？",
-   "en": "",
+   "en": "I managed to get through the cave by following you.{n}Thank you!{p}Ah, I'm exhausted. Where's the inn?",
    "term": "end"
   },
   {
    "id": "scen023.0078",
    "jp": "宿で商売してるから、良かったら来てね～。{n}いい品そろえてるよ！{n}‥‥別に値引きはないけどね～。",
-   "en": "",
+   "en": "I'll be selling my wares at the inn, so drop by if you like!{n}I've got some fine goods! ...No discounts, though!",
    "term": "end"
   },
   {
    "id": "scen023.0079",
    "jp": "{v:0004}もう疲れた！{n}歩きたくない！",
-   "en": "",
+   "en": "{v:0004}I'm tired! I don't want to walk anymore!",
    "term": "end"
   },
   {
    "id": "scen023.0080",
    "jp": "{v:0000}ここが僕の生まれ育った村だ。",
-   "en": "",
+   "en": "{v:0000}This is the village where I was born and raised.",
    "term": "end"
   },
   {
    "id": "scen023.0081",
    "jp": "{v:0001}ここがアリオストさんが生まれ育った村だよね。",
-   "en": "",
+   "en": "{v:0001}This is the village where Ariost-san was born and{n}raised, right?",
    "term": "end"
   },
   {
    "id": "scen023.0082",
    "jp": "{FFF3}{v:0002}‥‥。",
-   "en": "",
+   "en": "{FFF3}{v:0002}...",
    "term": "end"
   },
   {
    "id": "scen023.0083",
    "jp": "{v:0003}どうしたの、ルイセちゃん？",
-   "en": "",
+   "en": "{v:0003}What's wrong, Luise-chan?",
    "term": "end"
   },
   {
    "id": "scen023.0084",
    "jp": "{v:0005}そんなこと言ったって、アンタ‥‥。",
-   "en": "",
+   "en": "{v:0005}But you can't just say that...",
    "term": "end"
   },
   {
    "id": "scen023.0085",
    "jp": "{v:0006}いやがってるのを無理矢理歩かせたって{n}しょうがねぇだろ。{n}ちと早いが、今日はここで泊まっていこう。",
-   "en": "",
+   "en": "{v:0006}No point forcing her to walk when she doesn't want to.{n}It's a bit early, but let's stay here tonight.",
    "term": "end"
   },
   {
    "id": "scen023.0086",
    "jp": "{v:0007}そういうことなら家に来てくれ。",
-   "en": "",
+   "en": "{v:0007}In that case, come to my house.",
    "term": "end"
   },
   {
    "id": "scen023.0087",
    "jp": "{v:0008}すまねぇな、アリオスト。",
-   "en": "",
+   "en": "{v:0008}Thanks, Ariost.",
    "term": "end"
   },
   {
    "id": "scen023.0088",
    "jp": "{v:0009}う～ん、それならアリオストさんの家にでも{n}寄っていきましょ。",
-   "en": "",
+   "en": "{v:0009}Hmm, then let's stop by Ariost-san's house.",
    "term": "end"
   },
   {
    "id": "scen023.0089",
    "jp": "何だい？{n}僕に用事かな？",
-   "en": "",
+   "en": "What is it? Did you need me for something?",
    "term": "end"
   },
   {
    "id": "scen023.0090",
    "jp": "{v:000F}さ、中に入ってくれ。",
-   "en": "",
+   "en": "{v:000F}Come on in.",
    "term": "end"
   },
   {
    "id": "scen023.0091",
    "jp": "{v:000C}やぁ、どうしたんだい？",
-   "en": "",
+   "en": "{v:000C}Hello. What's the matter?",
    "term": "end"
   },
   {
    "id": "scen023.0092",
    "jp": "{v:000D}すまないが、少し休ませてくれねぇか？",
-   "en": "",
+   "en": "{v:000D}Sorry to bother you, but could we rest here a bit?",
    "term": "end"
   },
   {
    "id": "scen023.0093",
    "jp": "{v:000E}ああ。{n}こんな所で良かったら。{p}{v:000F}さ、中に入ってくれ。",
-   "en": "",
+   "en": "{v:000E}Of course, if you don't mind a place like this.{p}{v:000F}Come on in.",
    "term": "end"
   },
   {
    "id": "scen023.0094",
    "jp": "ここが僕の家だ。{n}ちらかっているから、中に入るのはやめてくれ。",
-   "en": "",
+   "en": "This is my house. It's a mess, so please don't go{n}inside.",
    "term": "end"
   },
   {
    "id": "scen023.0095",
    "jp": "お兄ちゃん！{n}アリオストさんはフェザーランドにいるよ！",
-   "en": "",
+   "en": "Big Brother! Ariost-san is in Featherland!",
    "term": "end"
   },
   {
    "id": "scen023.0096",
    "jp": "こんにちは～‥‥{p}‥‥留守みたい。",
-   "en": "",
+   "en": "Hellooo...{p}...Looks like nobody's home.",
    "term": "end"
   },
   {
    "id": "scen023.0097",
    "jp": "頼むから、僕を困らせないでくれ。",
-   "en": "",
+   "en": "Please, don't make things difficult for me.",
    "term": "end"
   },
   {
    "id": "scen023.0098",
    "jp": "留守だって。",
-   "en": "",
+   "en": "I told you, nobody's home.",
    "term": "end"
   },
   {
    "id": "scen023.0099",
    "jp": "{FFEE}全室清掃のため、{n}２、３日休ませていただきます。{FFF1}{n}　　　　　　　　　　　　　{FFEF}【店主】{FFF1}",
-   "en": "",
+   "en": "{FFEE}We will be closed for two or three days to clean all the{n}rooms.{FFF1} {FFEF}[Shopkeeper]{FFF1}",
    "term": "end"
   },
   {
    "id": "scen023.0100",
    "jp": "戦争はもう終わったんだべか？{p}そうか！？{n}したら、これでやっと安心してこの村を{n}より発展させてけるってことだな！",
-   "en": "",
+   "en": "Reckon the war's over now?{p}It is?! Then we can finally quit worrying and get to{n}making this village even better!",
    "term": "end"
   },
   {
    "id": "scen023.0101",
    "jp": "さっきの女性、綺麗だったなぁ‥‥。",
-   "en": "",
+   "en": "That woman who was here just now sure was{n}pretty...",
    "term": "end"
   },
   {
    "id": "scen023.0102",
    "jp": "戦争？{n}本当に始まってたのけ？{n}まあ、何とかなんべ。{p}いちお、いっとくがな、{n}俺は諦めたわけじゃねえからな。{n}自分の出来ることをやろうとしてるだけだかんな。",
-   "en": "",
+   "en": "War? It really started? Well, we'll manage somehow.{p}Just so you know, I ain't given up. I'm just trying to do{n}what I can.",
    "term": "end"
   },
   {
    "id": "scen023.0103",
    "jp": "魔法学院？{n}このまま村を抜けて東に行ったところだよ。",
-   "en": "",
+   "en": "The Magic Academy? Go straight through the village and{n}head east. You'll find it there.",
    "term": "end"
   },
   {
    "id": "scen023.0104",
    "jp": "‥‥ってアリオストさんも一緒け。{n}なら心配ねぇな。",
-   "en": "",
+   "en": "...Oh, Ariost-san's with you too. Nothing to worry{n}about, then.",
    "term": "end"
   },
   {
    "id": "scen023.0105",
    "jp": "アリオストさんはすごい人だろ？{p}何といっても、この村の出世頭さ！",
-   "en": "",
+   "en": "Ariost-san's quite a man, ain't he?{p}He's our village's greatest success, after all!",
    "term": "end"
   },
   {
    "id": "scen023.0106",
    "jp": "そんなもんじゃないですよ、僕は。",
-   "en": "",
+   "en": "I'm really not all that remarkable.",
    "term": "end"
   },
   {
    "id": "scen023.0107",
    "jp": "グランシルへは行ったけ？{n}にぎやかでなんでもそろってる大都会さ。{n}行くなら村を出てしばらく南さ。",
-   "en": "",
+   "en": "Been to Grancil? It's a big, bustling city with everything{n}you could want. Head out of the village and go south a{n}ways.",
    "term": "end"
   },
   {
    "id": "scen023.0108",
    "jp": "いや～、いい目の保養になったさ！{n}魔法学院にはあんな美人がいるんだね。{n}アリオストさんがうらやましいさ。{p}え？{n}その人なら村を素通りして西へ向かったけど。",
-   "en": "",
+   "en": "Ah, what a sight for sore eyes! So they've got{n}beauties like that at the Magic Academy. I envy{n}Ariost-san!{p}Hm? She passed straight through the village and headed{n}west.",
    "term": "end"
   },
   {
    "id": "scen023.0109",
    "jp": "その人村を素通りして西へ向かったさ。{p}いや～、魔法学院にはあんな美人がいるんだね。{n}アリオストさんがうらやましいよ。",
-   "en": "",
+   "en": "She passed straight through the village and headed{n}west.{p}Ah, so they've got beauties like that at the Magic{n}Academy. I envy Ariost-san!",
    "term": "end"
   },
   {
    "id": "scen023.0110",
    "jp": "ちゃんと、野菜も食べてるけ？",
-   "en": "",
+   "en": "You eating your vegetables like you should?",
    "term": "end"
   },
   {
    "id": "scen023.0111",
    "jp": "おら達のような農民が国の食料を支えてんだ。{n}がんばらなくちゃな！",
-   "en": "",
+   "en": "It's farmers like us who keep the country fed. Gotta{n}keep at it!",
    "term": "end"
   },
   {
    "id": "scen023.0112",
    "jp": "おめえらも何か忙しそうだな？{n}ま、焦らずがんばりや！",
-   "en": "",
+   "en": "You folks look busy yourselves, eh? Well, take your time{n}and keep at it!",
    "term": "end"
   },
   {
    "id": "scen023.0113",
    "jp": "おお、アリオストさん。{n}研究は進んでるかい？",
-   "en": "",
+   "en": "Oh, Ariost-san. How's the research coming along?",
    "term": "end"
   },
   {
    "id": "scen023.0114",
    "jp": "ええ、なんとか。{n}しかし研究すればするほど、{n}新しい疑問も出てくるものだからね。{p}それが楽しいんだけど。",
-   "en": "",
+   "en": "Well enough, thank you. But the more I research, the{n}more new questions arise.{p}That's what makes it fun, though.",
    "term": "end"
   },
   {
    "id": "scen023.0115",
    "jp": "おや、アンタたちかい？{n}これからもアリオストさんのこと、よろしく頼むさ。",
-   "en": "",
+   "en": "Oh, it's you folks! Keep looking out for Ariost-san, won't{n}you?",
    "term": "end"
   },
   {
    "id": "scen023.0116",
    "jp": "おや、あんた。{n}洞窟を抜けて来たのけ？{p}最近は物騒で、王都の方から来る人が{n}少ないんだよね。{p}で、どこ行くのさ？{n}やっぱりグランシルけ？{n}闘技大会出るんだろ？",
-   "en": "",
+   "en": "Oh, hello there. Did you come through the cave?{p}It's been dangerous lately. We don't get many people{n}coming from the royal capital anymore.{p}So, where you headed? Grancil, I bet? Entering the{n}tournament, are you?",
    "term": "end"
   },
   {
    "id": "scen023.0117",
    "jp": "アリオストさんの言ったとおり、{n}こいつなら年に２回収穫できるさ。",
-   "en": "",
+   "en": "Just like Ariost-san said, we can harvest this twice a{n}year.",
    "term": "end"
   },
   {
    "id": "scen023.0118",
    "jp": "品種改良の成果だよ。{n}これで一時的な天候不良の影響は受けにくくなる。",
-   "en": "",
+   "en": "That's the result of selective breeding. Now a spell of{n}bad weather won't affect the crops as much.",
    "term": "end"
   },
   {
    "id": "scen023.0119",
    "jp": "そのかわり、一年中、畑を耕しているような‥‥。",
-   "en": "",
+   "en": "Only now it feels like we're tilling the fields all year{n}round...",
    "term": "end"
   },
   {
    "id": "scen023.0120",
    "jp": "あはは‥‥。",
-   "en": "",
+   "en": "Ahaha...",
    "term": "end"
   },
   {
    "id": "scen023.0121",
    "jp": "うんうん、丈夫に育ってんな。",
-   "en": "",
+   "en": "That's it, growing nice and strong.",
    "term": "end"
   },
   {
    "id": "scen023.0122",
    "jp": "あら、アリオストさん。{n}雨の日でもお洗濯できるような工夫は{n}ないものかしら？",
-   "en": "",
+   "en": "Oh, Ariost-san. I wonder if you could think of a way for{n}us to do laundry even on rainy days?",
    "term": "end"
   },
   {
    "id": "scen023.0123",
    "jp": "今度、考えておきますね。",
-   "en": "",
+   "en": "I'll give it some thought when I can.",
    "term": "end"
   },
   {
    "id": "scen023.0124",
    "jp": "こののどかな村を‥‥、{n}私達の大切な村を戦争なんかから守らなくちゃね。",
-   "en": "",
+   "en": "We have to protect this peaceful village... our precious{n}village, from this awful war.",
    "term": "end"
   },
   {
    "id": "scen023.0125",
    "jp": "そうですね‥‥。{n}その為には僕らも頑張らなくてはいけないな。",
-   "en": "",
+   "en": "Yes... We'll have to do our best to make sure of that.",
    "term": "end"
   },
   {
    "id": "scen023.0126",
    "jp": "頑張ってね！",
-   "en": "",
+   "en": "Do your best!",
    "term": "end"
   },
   {
    "id": "scen023.0127",
    "jp": "ここはとっても、のどかな所でしょ？{n}この村はみんなが力を合わせて、{n}森を切りひらいてつくったのよ。",
-   "en": "",
+   "en": "It's so peaceful here, isn't it? Everyone worked{n}together to clear the forest and build this village.",
    "term": "end"
   },
   {
    "id": "scen023.0128",
    "jp": "あら、アリオストさん。{n}お墓参り？",
-   "en": "",
+   "en": "Oh, Ariost-san. Visiting the grave?",
    "term": "end"
   },
   {
    "id": "scen023.0129",
    "jp": "この先には、村の功労者が眠っているんです。",
-   "en": "",
+   "en": "Someone who did a great deal for this village rests up{n}ahead.",
    "term": "end"
   },
   {
    "id": "scen023.0130",
    "jp": "実は私、こう見えても絵心があるのよ。",
-   "en": "",
+   "en": "You might not guess it, but I have a talent for{n}painting.",
    "term": "end"
   },
   {
    "id": "scen023.0131",
    "jp": "家には描きためた絵がもう、何枚もあるの。{n}あの絵をお金に替えられないかしら？",
-   "en": "",
+   "en": "I've already got quite a collection of paintings I've done{n}at home. I wonder if I could sell them?",
    "term": "end"
   },
   {
