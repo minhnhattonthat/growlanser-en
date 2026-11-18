@@ -46,10 +46,16 @@ MSYS_NSLOT = 16
 # fit.BUDGETS rows whose frame is sized by code count (docs/windows.md "Name tag"; place popup: 12 px x codes at
 # 0x8006BC94)
 TAG_POOLS = ("scen.name", "exe.names", "exe.places")
-# Field-menu bubbles: frames 12 px x code count, label at the left edge (Encoder.centre). The place popup's frame
-# is the text's pixel width instead (asm/vwf.asm popup_width), so it needs nothing.
-CENTRE_POOLS = ()
-CENTRE_IDS = {"exe.sys.%04d" % i for i in range(62, 68)}
+# The place popup and the field-menu bubbles (same routine 0x8006BA48, the bubble has a tail) are sized to the
+# text's pixel width by asm/vwf.asm popup_width: nothing to do in the text.
+# Scene captions ("　The next day　"): code-count frame too; text starts 15 px in (blank incl.), and the ink ends 4 px
+# before the last advance (work/qa/tour/ev_battle003 f002760).
+CAPTION_BIAS = 11
+
+
+def is_caption(e):
+    j = e["jp"]
+    return len(j) > 2 and j[0] == j[-1] == "　" and "{" not in j and "{" not in e["en"]
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
 # Name-entry keyboard grids: one code per key, the key's code is what the name gets (D14)
 KEEP_JP |= {"exe.sys.%04d" % i for i in range(70, 100)}
@@ -107,8 +113,8 @@ class Encoder:
                 raise ValueError(f"{e['id']}: no English (translate it, or add it to insert.KEEP_JP)")
             return self.jp.encode(e["jp"])
         pool = fit.budget(e["id"], e)[0]
-        if (pool in CENTRE_POOLS or e["id"] in CENTRE_IDS) and "{" not in e["en"]:
-            return self.centre(e["en"], pool in TAG_POOLS)
+        if pool == "scen" and is_caption(e):
+            return self.centre(e["en"], CAPTION_BIAS)
         if e["id"] in SLOTS:
             return self.slots(e["id"], e["en"])
         w = self.en.encode(e["en"])
@@ -147,18 +153,18 @@ class Encoder:
             out += blank(free // 2) + f + blank(free - free // 2)
         return self.en.encode(out)
 
-    def centre(self, text, pad):
-        """The frame is 12 px x code count and the text starts at its left edge: lead with spacer glyphs so the
-        blank on the left matches the one on the right. Never more codes than max(plain, 12)."""
+    def centre(self, text, bias):
+        """The frame is 12 px x code count and the text starts near its left edge: lead with spacer glyphs (after
+        any leading full-width blank) so the blank on the left matches the one on the right; bias = how much more
+        blank the left side has than the model's. Never more codes than max(plain, 12)."""
         sp = list(enfont.SPACERS)
         leads = [""] + sp + [sp[-1] + s for s in sp]
-        plain = self.en.encode(text)
-        cap = max(len(self.tag_pad(plain) if pad else plain), 12)
+        head = text[:len(text) - len(text.lstrip("　"))]
+        cap = max(len(self.en.encode(text)), 12)
         best = None
         for lead in leads:
-            w = self.en.encode(lead + text)
-            w = self.tag_pad(w) if pad else w
-            left = sum(enfont.SPACERS[c] for c in lead)
+            w = self.en.encode(head + lead + text[len(head):])
+            left = sum(enfont.SPACERS[c] for c in lead) + bias
             right = 12 * len(w) - sum(map(self.advance, w))
             key = (abs(left - right), len(w))
             if len(w) <= cap and (best is None or key < best[0]):

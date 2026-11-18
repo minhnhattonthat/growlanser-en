@@ -34,15 +34,32 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (f) one-word last lines: dn_glocian f002640 "interior.", st_vac01 f003360 "closer.", st_vac02 f003240
         "person.": reword or make the wrapper avoid a single-word final line.
 - **Phase 8 session 2 (2026-11-19): vqa issues (a)-(f) fixed** (shots work/qa/fix2-fix4, pop1, bern, bandits*):
-  (a) field-menu bubbles (exe.sys.0062-0067): frame = 12 px x codes, label at its left edge; `insert.Encoder.centre`
-  leads with blank spacer glyphs (font U+E001-E00B, advance 1-11 px, `enfont.SPACERS`, decode drops them).
-  (b) place popup (exe.places and scene strings like "Nostridge Plains Garrison"): asm `popup_width` hooks
-  0x8006BBB8/0x8006BCA0 so the frame is the text's VWF pixel width. "Dels'lage" and (c) were the popup's
+  (a)+(b) field-menu bubbles (exe.sys.0062-0067) and the place popup (exe.places, scene strings like "Nostridge
+  Plains Garrison") are one routine 0x8006BA48 (frame 12 px x codes): asm `popup_width` hooks 0x8006BBB8/0x8006BCA0
+  so the frame is the text's VWF pixel width. Round-2 vqa: scene captions "　The next day　" (code-count box):
+  `insert.Encoder.centre` + CAPTION_BIAS leads with blank spacer glyphs (font U+E001-E00B, 1-11 px,
+  `enfont.SPACERS`, decode drops them). "Dels'lage" and (c) were the popup's
   open/close scale animation (full frames read fine). (d) name entry: grids exe.sys.0070-0099 kept JP (one code per
   key, D14); exe.sys.0069 is one printed line cut into fixed slices (title 60 px, blank 12, labels 24 px):
   `insert.SLOTS` + `Encoder.slots`, labels Hira/Kata/ABC/Del/OK. (e) empty box = JP too (box opens ~24 frames
   before text). (f) `batches.py widows --write` (also run by `wrap`): a page's one-word last line takes the word
   before it unless that line ends a sentence; 1,899 lines changed, lint 0 problems.
+  vqa round 2 (217 sheets): 218 ok / 6 issue -> bubbles (spacers were redundant once popup_width sized them:
+  removed; now L8 R6 vs JP L9-10 R6-7) + caption centring; round 3 (20 changed sheets) all ok; bt_bandits empty
+  box rechecked by hand (verdicts/recheck_1.tsv). **Tour gate green:** `qa_gate.py check work/qa/tour/manifest.tsv
+  work/qa/tour/verdicts` exit 0, 224 sheets, build disc 1 0567dc36586aa9a7c3721c8e9cc49d6436ded943 (disc 2 T1
+  5402e94684434f53919899c3ce1123866d012fd0). Any later build change needs a re-tour + `qa_gate init` + vqa of the
+  changed sheets (deterministic: only changed screens differ).
+- **Phase 8 still to do (next sessions, in this order):**
+  1. (done: tour gate green, see above)
+  2. `inkbox.py` on every choice box and centred menu (Yes/No, field-menu bubbles, popup, shop/inn when reached).
+  3. Graphics text G1-G8 (docs/re/graphics.md): G1 title (decode MAP.DAT entry 1160 arrangement first), G2/G3
+     affinity + element icons (MSYS 0x9100+), G4 appendix, G5 credits, G6 kana atlas (D14 keeps the keyboard kana:
+     check whether G6 is that keyboard, then it stays), G7 identify, G8 FMV logo. Pilot one group, then the
+     graphics agents (codex exec, no nested workers); zoomed cold-boot shot of each, incl. chapter cards, game over,
+     credits (need warps: debug-tool gaps below).
+  4. Text coverage: msgforce.lua looping trigger, then `textcover.py work/qa/cov build/strings.tsv` exit 0 (or
+     waive with reasons).
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
   contact sheets, visual-QA verdicts with `qa_gate.py`, graphics text G1-G8 from docs/re/graphics.md, `inkbox.py`
   on choice/centred boxes, `textcover.py`). Things to watch, found in phase 7: (1) any other window the game sizes

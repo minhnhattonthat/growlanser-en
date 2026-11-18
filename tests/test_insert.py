@@ -39,11 +39,11 @@ class Layout(unittest.TestCase):
         import enfont
         import insert
         enc = insert.Encoder("jp")
-        for text in ("Magic", "Equipment", "Strategy", "Items"):
-            w = enc.centre(text, False)
+        for text in ("　Back at home...　", "　The next day　"):
+            w = enc.centre(text, insert.CAPTION_BIAS)
             adv = sum(map(enc.advance, w))
-            left, right = adv - enfont.width(text), 12 * len(w) - adv
-            self.assertLessEqual(abs(left - right), 1, text)
+            left = adv - 24 - enfont.width(text.strip("　")) + insert.CAPTION_BIAS
+            self.assertLessEqual(abs(left - (12 * len(w) - adv)), 1, text)
             self.assertEqual(enc.en.decode(w), text)
         w = enc.slots("exe.sys.0069", "Enter Name　Hira Kata ABC Del OK")
         self.assertEqual(sum(map(enc.advance, w)), sum(insert.SLOTS["exe.sys.0069"]))

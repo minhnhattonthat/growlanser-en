@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FONT = ROOT / "font" / "en12.txt"
 PAIR = 0x0800
 EXTRA = {0x01: "é", 0x02: "…", 0x03: "—", 0x04: "♪", 0x05: "♥"}  # index -> char
-# Blank spacers U+E001-U+E00B, advance 1-11 px: only the encoder adds them (insert.Encoder.centre); decode drops them.
+# Blank spacers U+E001-U+E00B, advance 1-11 px: only the encoder adds them (insert.Encoder.centre / slots); decode drops them.
 SPACERS = {chr(0xE001 + k): k + 1 for k in range(11)}
 EXTRA.update({0x10 + k: ch for k, ch in enumerate(SPACERS)})
 LEGACY = {"・": 0x00D1, "　": 0x0000}  # game glyphs kept (12 px): choice bullet, full-width blank (layout)
