@@ -50,9 +50,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
   work/qa/tour/verdicts` exit 0, 224 sheets, build disc 1 0567dc36586aa9a7c3721c8e9cc49d6436ded943 (disc 2 T1
   5402e94684434f53919899c3ce1123866d012fd0). Any later build change needs a re-tour + `qa_gate init` + vqa of the
   changed sheets (deterministic: only changed screens differ).
+- **Phase 8 session 3 (2026-11-19): inkbox pass + G1 groundwork.**
+  - `tools/inkqa.py DIR..` (warp folders shot every 20 frames): finds field-menu bubbles (cream) and popup/caption
+    boxes (border 0x836252) and runs inkbox (`tools/inkcheck.py` = inkbox from a seed point by flood fill). New warp
+    `menu_bubbles` (cursor through all 6 items). Results: 6 bubbles L7/R5 ok (JP L8/R5); caption ev_battle003 21/21
+    ok; place popup "Nostridge Plains Garrison" was L3/R10 -> fixed, now L6/R7.
+  - Popup finding: the scene place/event-title popup is NOT 0x8006BA48 (tools/debug/popuplog.lua: only the menu
+    bubbles call it, style 2). Its box is the text's width in whole 12 px columns (pre-parser extent), text at the
+    left. Fix: `insert.is_title` (scene string, one line, no codes, no sentence punctuation, not a choice/caption:
+    503 entries) -> `Encoder.title_lead` leads with a spacer of half the slack. Changing the bubble routine's text
+    x (0x8006BBD0) to an odd value garbles text (4bpp canvas): don't.
+  - Choice boxes (Yes/No, dungeon floors) are left-aligned like the JP (vqa verdicts): not inkbox targets.
+  - Build after this session: disc 1 a77695dd651f67b8c802f17d0e2c1c0d08ba9bb0, disc 2 T1
+    81f4baf1a881dfa66baedf687f1fdbea71157106. **The tour gate is stale** (503 title strings changed): re-tour,
+    `qa_gate init`, vqa the changed sheets (deterministic: only screens with those titles differ).
+  - G1 title: layout decoded enough to edit (docs/re/graphics.md "G1 title layout"): the title is one 16x16-cell
+    mosaic baked into MAP.DAT entry 1161; `tools/cellsrc.py` maps screen cells to texels. Next: tools/title.py
+    (render the screen from e1161 + cell map, edit -> indices, MAP.DAT in place in insert.patched), redraw per the
+    notes, cold-boot zoomed shot.
 - **Phase 8 still to do (next sessions, in this order):**
-  1. (done: tour gate green, see above)
-  2. `inkbox.py` on every choice box and centred menu (Yes/No, field-menu bubbles, popup, shop/inn when reached).
+  1. (done: tour gate green, see above; stale again after session 3, re-tour first)
+  2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
   3. Graphics text G1-G8 (docs/re/graphics.md): G1 title (decode MAP.DAT entry 1160 arrangement first), G2/G3
      affinity + element icons (MSYS 0x9100+), G4 appendix, G5 credits, G6 kana atlas (D14 keeps the keyboard kana:
      check whether G6 is that keyboard, then it stays), G7 identify, G8 FMV logo. Pilot one group, then the

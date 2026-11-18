@@ -87,6 +87,7 @@ dn_waterfall     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 4;6 ci
 
 # field menu (from the end of character creation; Select opens it), each top-level item
 menu             scene 18 area 2 sub 1 frames 6000 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -
+menu_bubbles     scene 18 area 2 sub 1 frames 6000 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -
 menu_0           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 0;150 -
 menu_1           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 1;150 -
 menu_2           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 2;150 -

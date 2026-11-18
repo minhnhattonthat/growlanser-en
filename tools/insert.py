@@ -56,6 +56,13 @@ CAPTION_BIAS = 11
 def is_caption(e):
     j = e["jp"]
     return len(j) > 2 and j[0] == j[-1] == "　" and "{" not in j and "{" not in e["en"]
+
+
+def is_title(e):
+    """A scene string shown alone in a popup: place or event name (one line, no codes, no sentence punctuation,
+    not a choice); its box is sized to the text in whole columns (Encoder.title_lead)."""
+    return bool(e["jp"]) and "{" not in e["jp"] + e.get("en", "") and not e["jp"].startswith("　") \
+        and not re.search("[。！？‥、「」…・]", e["jp"]) and not is_caption(e)
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
 # Name-entry keyboard grids: one code per key, the key's code is what the name gets (D14)
 KEEP_JP |= {"exe.sys.%04d" % i for i in range(70, 100)}
@@ -120,6 +127,8 @@ class Encoder:
         w = self.en.encode(e["en"])
         if pool in TAG_POOLS:
             return self.tag_pad(w)
+        if pool == "scen" and is_title(e):
+            w = self.title_lead(w)
         return self.dict.compress(w) if self.dict and dictenc.compressible(e) else w
 
     def advance(self, w):
@@ -170,6 +179,13 @@ class Encoder:
             if len(w) <= cap and (best is None or key < best[0]):
                 best = key, w
         return best[1]
+
+    def title_lead(self, w):
+        """Title popups (place / event names) are sized to whole 12 px columns, ceil(width / 12), with the text at
+        the left: lead with a spacer of half the slack so it sits centred (inkbox, bt_bernard place popup)."""
+        width = sum(map(self.advance, w))
+        lead = (-(-width // 12) * 12 - width) // 2
+        return self.en.encode(chr(0xE000 + lead)) + w if lead else w
 
     def pool(self, doc):
         strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]

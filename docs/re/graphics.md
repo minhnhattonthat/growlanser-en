@@ -21,6 +21,29 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
 | G7 | Texture atlas with Japanese: katakana runs (ス アビ.., ドコッ, ドー ザフィ..), 服 の手, boxed kanji labels (無, 通, 冷, 聖, 炎, 定...) mixed with English UI pieces and a portrait | unknown (a snapshot of a menu's VRAM page?); identify on screen by VRAM match in phase 8 | MAP.DAT entry 1151 (4bpp at 128-byte rows for the text part; mixed formats in the entry) | 4bpp + others |
 | G8 | Logo frame "GROWLANSER" with the katakana subtitle グローランサー, burned into the video | MOVIE0.STR and MOVIE1.STR, ~54 s and ~105 s in (frames 0018/0035 of the 3 s sampling) | FMV (MDEC): needs a frame re-encode (jPSXdec `-replaceframes`, `references/platform-ps1.md`) or leave as logo art; D5 says replace | STR video |
 
+## G1 title layout (phase 8 session 3, 2026-11-19)
+- MAP.DAT entry 1160 (4 KB) tail at 0xAE4: 4 upload records (u16 ?, ?, VRAM x, VRAM y, width in bytes, rows):
+  (640,0) 256x256, (768,0) 128x256, (640,256) 64x96, (704,256) 192x80. Entry 1161 = those 4 rects back to back
+  (offsets 0, 65536, 98304, 104448; 1024 zero bytes at the end; verified row-exact against the VRAM dump).
+  R4 holds the "DISC 2" swap prompt. 0x634: a 40x15 u16 grid (descending codes 0x500-0x7F7, 0x15xx): not decoded,
+  not needed.
+- The whole 640x240 title (background marble, logo, katakana subtitle, © line) is ONE mosaic of 16x16 cells baked
+  into the texture: `tools/cellsrc.py work/qa/vram_title/final.png work/qa/vram_title/ppu_001490.vram.bin
+  work/gfx/title/cellmap.json --cells 0,2,40,13` finds the texture cell (u, v texels from VRAM hw x 640, 8bpp) of
+  348/400 screen cells on a 16-px grid (missing: rows 7-9 x 20-39 = the menu words, drawn on top and animated).
+  So an edit = change screen pixels, map each through its cell to a texel of e1161 (u < 256: R1 at v*256+u;
+  256-383: R2 at 65536 + v*128 + u-256), index = the CLUT index of the wanted colour (colour -> index map from the
+  same cells; the entry's 1024-byte tail is zero, so take the CLUT from the matches). Check no texture cell is
+  shared with an unedited screen cell.
+- Subtitle グローランサー: screen x 38-252, y 98-119 (logo bar bottom edge rows 96 grey, 97 cream, 98 dark at
+  x=300; at x<~45 there is no bar). Fill with the marble from rows 121-142 (shift 22) and redraw the bar edge.
+- © line: glyph band y 162-176 (black outline rows 164/174, cream body 165-173, black 2 px strokes inside, shadow
+  175-176), cells rows 10-11. Glyph x runs: © 166-185, A 204-220, T 224-237, L 243-254, U 261-276, S 283-295,
+  / 317-328, キャリアソフト 346-506 (7 glyphs, ~20 px pitch), 1999 520-588. "CARRIER SOFT 1999" needs ~16 glyphs:
+  redraw x 340-630 (marble source: same rows x 0-159), copy A/T/S/1/9 from the line, build C R I E O F in the same
+  layers (stroke -> body = stroke dilated 2 px, cream 238,213,205, top row 222,197,180 -> 1 px black outline).
+  `tools/inkruns.py SHOT Y0 Y1` lists glyph runs.
+
 ## Checked, no Japanese
 - MSYS.DAT (2.4 MB, raw, no directory in the file; region widths vary): 0x0-0x30000 4bpp 256 px system UI (English
   labels, digits, icons, character map sprites); 0x30000 world map with English place names (Rolandia...);
