@@ -117,7 +117,7 @@
   {
    "id": "scen111.0017",
    "jp": "　{n}　　　　『{FFEF}フェアリーカード{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Fairy Card{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Fairy Card{FFF1}'!",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen111.0019",
    "jp": "　{n}　　　　　『{FFEF}修羅の拳{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Asura Fist{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Asura Fist{FFF1}'!",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen111.0021",
    "jp": "　{n}　　　　　『{FFEF}祝福の鐘{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Bell of Blessing{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Bell of Blessing{FFF1}'!",
    "term": "end"
   },
   {
@@ -153,7 +153,7 @@
   {
    "id": "scen111.0023",
    "jp": "　{n}　　　　　『{FFEF}エンジェルリング{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Angel Ring{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Angel Ring{FFF1}'!",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen111.0025",
    "jp": "　{n}　　　　『{FFEF}苦行者の首飾り{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Ascetic's Necklace{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Ascetic's Necklace{FFF1}'!",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen111.0033",
    "jp": "　{n}　　『{FFEF}インジェクター{FFF1}』がパワーアップした！",
-   "en": "'{FFEF}Injector{FFF1}' has been powered up!",
+   "en": "　{n}　　'{FFEF}Injector{FFF1}' has been powered up!",
    "term": "end"
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "scen111.0041",
    "jp": "　{n}　　　　『{FFEF}インジェクター{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Injector{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Injector{FFF1}'!",
    "term": "end"
   },
   {
@@ -318,7 +318,7 @@
   {
    "id": "scen111.0048",
    "jp": "　{n}　　　　　『{FFEF}グラム{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Gram{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Gram{FFF1}'!",
    "term": "end"
   },
   {
@@ -330,7 +330,7 @@
   {
    "id": "scen111.0050",
    "jp": "　{n}　　　　『{FFEF}ヘルブリンディ{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Helblindi{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Helblindi{FFF1}'!",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen111.0057",
    "jp": "　{n}　　　　『{FFEF}オーラプレート{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Aura Plate{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Aura Plate{FFF1}'!",
    "term": "end"
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "scen111.0059",
    "jp": "　{n}　　　　『{FFEF}ペガサスの翼{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Pegasus Wing{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Pegasus Wing{FFF1}'!",
    "term": "end"
   },
   {
@@ -432,7 +432,7 @@
   {
    "id": "scen111.0066",
    "jp": "　{n}　　　　　『{FFEF}暗黒の戦斧{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Dark Battle Axe{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Dark Battle Axe{FFF1}'!",
    "term": "end"
   },
   {
@@ -444,7 +444,7 @@
   {
    "id": "scen111.0068",
    "jp": "　{n}　　　　『{FFEF}デュエルガード{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Duel Guard{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Duel Guard{FFF1}'!",
    "term": "end"
   },
   {
@@ -489,7 +489,7 @@
   {
    "id": "scen111.0075",
    "jp": "　{n}　　　『{FFEF}シャドーブレイド{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Shadow Blade{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Shadow Blade{FFF1}'!",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen111.0077",
    "jp": "　{n}　　　　　『{FFEF}漆黒の鎧{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Jet-Black Armor{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Jet-Black Armor{FFF1}'!",
    "term": "end"
   },
   {
@@ -546,7 +546,7 @@
   {
    "id": "scen111.0084",
    "jp": "　{n}　　　　　　『{FFEF}妖魔刀{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Demon Blade{FFF1}'!",
+   "en": "　{n}　　　　　　Received '{FFEF}Demon Blade{FFF1}'!",
    "term": "end"
   },
   {
@@ -558,7 +558,7 @@
   {
    "id": "scen111.0086",
    "jp": "　{n}　　　『{FFEF}ニュートラライズ{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Neutralize{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Neutralize{FFF1}'!",
    "term": "end"
   },
   {
@@ -603,7 +603,7 @@
   {
    "id": "scen111.0093",
    "jp": "　{n}　　　　『{FFEF}バトルアックス{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Battle Axe{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Battle Axe{FFF1}'!",
    "term": "end"
   },
   {
@@ -615,7 +615,7 @@
   {
    "id": "scen111.0095",
    "jp": "　{n}　　　『{FFEF}チェーンウィップ{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Chain Whip{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Chain Whip{FFF1}'!",
    "term": "end"
   },
   {
@@ -660,7 +660,7 @@
   {
    "id": "scen111.0102",
    "jp": "　{n}　　　　『{FFEF}フランベルジュ{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Flamberge{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Flamberge{FFF1}'!",
    "term": "end"
   },
   {
@@ -672,7 +672,7 @@
   {
    "id": "scen111.0104",
    "jp": "　{n}　　　『{FFEF}ブレストプレート{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Breastplate{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Breastplate{FFF1}'!",
    "term": "end"
   },
   {
@@ -717,7 +717,7 @@
   {
    "id": "scen111.0111",
    "jp": "　{n}　　　　　『{FFEF}破魔の拳{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Demonbane Fist{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Demonbane Fist{FFF1}'!",
    "term": "end"
   },
   {
@@ -729,7 +729,7 @@
   {
    "id": "scen111.0113",
    "jp": "　{n}　　　　『{FFEF}聖母の首飾り{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Madonna Necklace{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Madonna Necklace{FFF1}'!",
    "term": "end"
   },
   {
@@ -774,7 +774,7 @@
   {
    "id": "scen111.0120",
    "jp": "　{n}　　　『{FFEF}ブラッディクロス{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Bloody Cross{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Bloody Cross{FFF1}'!",
    "term": "end"
   },
   {
@@ -786,7 +786,7 @@
   {
    "id": "scen111.0122",
    "jp": "　{n}　　　　『{FFEF}神聖のルーン{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Holy Rune{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Holy Rune{FFF1}'!",
    "term": "end"
   },
   {
@@ -831,7 +831,7 @@
   {
    "id": "scen111.0129",
    "jp": "　{n}　　　　　『{FFEF}クロスボウ{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Crossbow{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Crossbow{FFF1}'!",
    "term": "end"
   },
   {
@@ -843,7 +843,7 @@
   {
    "id": "scen111.0131",
    "jp": "　{n}　　　　『{FFEF}ハイドロゲン{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Hydrogen{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Hydrogen{FFF1}'!",
    "term": "end"
   },
   {
@@ -888,7 +888,7 @@
   {
    "id": "scen111.0138",
    "jp": "　{n}　　　　　『{FFEF}ボウガン{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Bowgun{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Bowgun{FFF1}'!",
    "term": "end"
   },
   {
@@ -900,7 +900,7 @@
   {
    "id": "scen111.0140",
    "jp": "　{n}　　　『{FFEF}バトルジャケット{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Battle Jacket{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Battle Jacket{FFF1}'!",
    "term": "end"
   },
   {
@@ -945,7 +945,7 @@
   {
    "id": "scen111.0147",
    "jp": "　{n}　　　　『{FFEF}メイジスタッフ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Mage Staff{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Mage Staff{FFF1}'!",
    "term": "end"
   },
   {
@@ -957,7 +957,7 @@
   {
    "id": "scen111.0149",
    "jp": "　{n}　　　『{FFEF}スタデッドレザー{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Studded Leather{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Studded Leather{FFF1}'!",
    "term": "end"
   },
   {

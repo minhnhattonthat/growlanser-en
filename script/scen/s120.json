@@ -317,7 +317,7 @@
   {
    "id": "scen120.0050",
    "jp": "　　　{FFF0}ＮＯ　ＤＡＴＡ{FFF1}{FFFB}{n}　　　{FFEE}記録装置を起動して下さい{FFF1}",
-   "en": "{FFF0}NO DATA{FFF1}{FFFB}{FFEE}Please activate the recording device.{FFF1}",
+   "en": "　　　{FFF0}NO DATA{FFF1}{FFFB}{FFEE}Please activate the recording device.{FFF1}",
    "term": "end"
   },
   {
@@ -329,7 +329,7 @@
   {
    "id": "scen120.0052",
    "jp": "　{n}　　　　　　　　{FFEF}装置を起動した！{FFF1}",
-   "en": "{FFEF}Activated the device!{FFF1}",
+   "en": "　{n}　　　　　　　　{FFEF}Activated the device!{FFF1}",
    "term": "end"
   },
   {
@@ -431,13 +431,13 @@
   {
    "id": "scen120.0069",
    "jp": "　{n}　　　　　エレベータは動いていない‥‥。",
-   "en": "The elevator isn't running...",
+   "en": "　{n}　　　　　The elevator isn't running...",
    "term": "end"
   },
   {
    "id": "scen120.0070",
    "jp": "　{n}　　　　　　扉はロックされている‥‥。",
-   "en": "The door is locked...",
+   "en": "　{n}　　　　　　The door is locked...",
    "term": "end"
   },
   {
@@ -1129,7 +1129,7 @@
   {
    "id": "scen120.0183",
    "jp": "　{n}　　　　{FFEF}パワーストーン{FFF1}を手に入れた！",
-   "en": "Obtained the {FFEF}Power Stone{FFF1}!",
+   "en": "　{n}　　　　Obtained the {FFEF}Power Stone{FFF1}!",
    "term": "end"
   },
   {
@@ -1207,7 +1207,7 @@
   {
    "id": "scen120.0196",
    "jp": "　{n}　　　　　　パワーストーンを使った！",
-   "en": "Used the Power Stone!",
+   "en": "　{n}　　　　　　Used the Power Stone!",
    "term": "end"
   },
   {
@@ -1267,7 +1267,7 @@
   {
    "id": "scen120.0206",
    "jp": "　{n}　　　　　{FFEF}パワーストーン{FFF1}を取りはずした！",
-   "en": "Removed the {FFEF}Power Stone{FFF1}!",
+   "en": "　{n}　　　　　Removed the {FFEF}Power Stone{FFF1}!",
    "term": "end"
   },
   {
@@ -1393,7 +1393,7 @@
   {
    "id": "scen120.0227",
    "jp": "　{n}　　　テレポートの魔法がかき消された！",
-   "en": "The Teleport spell was dispelled!",
+   "en": "　{n}　　　The Teleport spell was dispelled!",
    "term": "end"
   }
  ]

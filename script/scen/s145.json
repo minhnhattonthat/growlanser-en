@@ -131,7 +131,7 @@
   {
    "id": "scen145.0019",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む３{FFF1}』が修得可能になった！",
-   "en": "{s:FFED} can now learn '{FFEF}Steal 3{FFF1}'!",
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 3{FFF1}'!",
    "term": "end"
   },
   {
@@ -143,7 +143,7 @@
   {
    "id": "scen145.0021",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む２{FFF1}』が修得可能になった！",
-   "en": "{s:FFED} can now learn '{FFEF}Steal 2{FFF1}'!",
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 2{FFF1}'!",
    "term": "end"
   },
   {
@@ -161,7 +161,7 @@
   {
    "id": "scen145.0024",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む１{FFF1}』が修得可能になった！",
-   "en": "{s:FFED} can now learn '{FFEF}Steal 1{FFF1}'!",
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 1{FFF1}'!",
    "term": "end"
   },
   {
@@ -289,7 +289,7 @@
   {
    "id": "scen145.0044",
    "jp": "　　　　　　　お宝、ゲットだぜ！",
-   "en": "Got the treasure!",
+   "en": "　　　　　　　Got the treasure!",
    "term": "end"
   }
  ]

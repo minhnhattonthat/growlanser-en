@@ -359,7 +359,7 @@
   {
    "id": "scen169.0056",
    "jp": "　{n}　　　　　　６５０エルムを手に入れた！",
-   "en": "Received 650 Elm!",
+   "en": "　{n}　　　　　　Received 650 Elm!",
    "term": "end"
   },
   {
@@ -371,7 +371,7 @@
   {
    "id": "scen169.0058",
    "jp": "　{n}　　　　　『{FFEF}かなづち{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Hammer{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}Hammer{FFF1}'!",
    "term": "end"
   },
   {
@@ -383,7 +383,7 @@
   {
    "id": "scen169.0060",
    "jp": "　{n}　　　『{FFEF}ブラスターハンド{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Blaster Hand{FFF1}'!",
+   "en": "　{n}　　　Obtained a '{FFEF}Blaster Hand{FFF1}'!",
    "term": "end"
   },
   {
@@ -407,19 +407,19 @@
   {
    "id": "scen169.0064",
    "jp": "　　南国の空の下{n}　　　　葉の茂る木々に実るバナナ{n}　　　　　　ハイビスカスの花が揺れる",
-   "en": "Beneath a tropical sky{n}Bananas ripen on leafy trees{n}Hibiscus flowers sway",
+   "en": "　　Beneath a tropical sky{n}Bananas ripen on leafy trees{n}Hibiscus flowers sway",
    "term": "end"
   },
   {
    "id": "scen169.0065",
    "jp": "　{n}　　　　　　短い物から長い物へ",
-   "en": "From shortest to longest.",
+   "en": "　{n}　　　　　　From shortest to longest.",
    "term": "end"
   },
   {
    "id": "scen169.0066",
    "jp": "　{n}　　　　　　不純な光は除外される",
-   "en": "Impure light is excluded.",
+   "en": "　{n}　　　　　　Impure light is excluded.",
    "term": "end"
   }
  ]

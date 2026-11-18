@@ -469,7 +469,7 @@
   {
    "id": "scen039.0076",
    "jp": "　{n}　　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "{FFEF}Karen joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Karen joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -975,13 +975,13 @@
   {
    "id": "scen039.0160",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {
    "id": "scen039.0161",
    "jp": "{n}　　　　　　　鍵がかかっている。{p}　　　　　　　　　　　　　　　　　{n}　　　　　が、中から声が聞こえる。",
-   "en": "It's locked.{p}But you can hear voices from inside.",
+   "en": "{n}　　　　　　　It's locked.{p}But you can hear voices from inside.",
    "term": "end"
   },
   {
@@ -1083,7 +1083,7 @@
   {
    "id": "scen039.0178",
    "jp": "　{n}　　　　　『{FFEF}ＧＬチップス{FFF1}』を手渡した！",
-   "en": "Handed over the '{FFEF}GL Chips{FFF1}'!",
+   "en": "　{n}　　　　　Handed over the '{FFEF}GL Chips{FFF1}'!",
    "term": "end"
   },
   {
@@ -1203,7 +1203,7 @@
   {
    "id": "scen039.0198",
    "jp": "　{n}　　　　　少女に『{FFEF}花束{FFF1}』を手渡した！",
-   "en": "Gave the girl a '{FFEF}Bouquet{FFF1}'!",
+   "en": "　{n}　　　　　Gave the girl a '{FFEF}Bouquet{FFF1}'!",
    "term": "end"
   },
   {

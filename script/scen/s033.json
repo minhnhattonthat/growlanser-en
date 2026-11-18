@@ -186,7 +186,7 @@
   {
    "id": "scen033.0028",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -997,7 +997,7 @@
   {
    "id": "scen033.0155",
    "jp": "　{n}　　　　　{FFEF}送魔線技師が同行者になった！{FFF1}",
-   "en": "{FFEF}The Mana Line Engineer joined as a companion!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}The Mana Line Engineer joined as a{n}companion!{FFF1}",
    "term": "end"
   },
   {
@@ -1270,7 +1270,7 @@
   {
    "id": "scen033.0199",
    "jp": "　{n}　　　　『{FFEF}プロミス・ペンダント{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Promise Pendant{FFF1}'!",
+   "en": "　{n}　　　　Handed over the '{FFEF}Promise Pendant{FFF1}'!",
    "term": "end"
   },
   {
@@ -1414,7 +1414,7 @@
   {
    "id": "scen033.0223",
    "jp": "　{n}　　　　　　{FFEF}副学院長が同行者になった！{FFF1}",
-   "en": "{FFEF}The Vice Headmaster joined as a companion!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}The Vice Headmaster joined as a{n}companion!{FFF1}",
    "term": "end"
   },
   {
@@ -1864,7 +1864,7 @@
   {
    "id": "scen033.0295",
    "jp": "　{n}{v:006A}『{FFEF}グローシュとは誰しもが持っていたはずの能力{FFF1}』{p}{v:006B}『{FFEF}真のグローシュの発現の鍵は、{n}　グローシアンの発生の元となる現象{FFF1}』{p}　{n}{v:006C}『{FFEF}グローシアンは時空の歪みの祝福を受けている{FFF1}』",
-   "en": "{v:006A}'{FFEF}Grosh is an ability everyone should once have{n}possessed.{FFF1}'{p}{v:006B}'{FFEF}The key to manifesting true Grosh lies in the{n}phenomenon that gives rise to Growsians.{FFF1}'{p}{v:006C}'{FFEF}Growsians are blessed by distortions in space-time.{FFF1}'",
+   "en": "　{n}{v:006A}'{FFEF}Grosh is an ability everyone should once have{n}possessed.{FFF1}'{p}{v:006B}'{FFEF}The key to manifesting true Grosh lies in the{n}phenomenon that gives rise to Growsians.{FFF1}'{p}{v:006C}'{FFEF}Growsians are blessed by distortions in space-time.{FFF1}'",
    "term": "end"
   },
   {
@@ -2014,7 +2014,7 @@
   {
    "id": "scen033.0320",
    "jp": "　{n}　『{FFEF}聖なる土{FFF1}』と『{FFEF}カレンの髪の毛{FFF1}』を渡した！",
-   "en": "Handed over '{FFEF}Holy Soil{FFF1}' and '{FFEF}Karen's Hair{FFF1}'!",
+   "en": "　{n}　Handed over '{FFEF}Holy Soil{FFF1}' and '{FFEF}Karen's Hair{FFF1}'!",
    "term": "end"
   },
   {

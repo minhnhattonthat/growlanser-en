@@ -4,6 +4,7 @@
     python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py)
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the wrapped English into script/
     python -X utf8 tools/batches.py wrap ID "English"     show how the wrapper lays out one line (dry-run fitter)
+    python -X utf8 tools/batches.py edges [--write]       copy the JP's edge blanks / {n} into English that lost them
 
 Copied from the skill's assets/batches.py; ADAPTER fitted to Growlanser (script/*.json, {code} tokens, VWF budgets
 from tools/fit.py). Translators write paragraphs: the wrapper adds {n} (and {p} in dialogue) by pixel width, so the
@@ -32,10 +33,39 @@ DICT = re.compile(r"\{F4([0-9A-F]{2})\}")  # dictionary words: shown expanded to
 VARIABLE = r"\{s:[0-9A-F]{4}\}"  # a name the game draws: no suffix glued on
 GLYPH_VARS = {"{s:0127}"}  # 目 drawn from the names table (exe.names "Eye"), a kanji not a name: English spells the word
 HONORIFICS = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun"}  # D1: honorifics kept
-KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # tools/insert.py KEEP_JP: punctuation data, not drawn as text
+from insert import KEEP_JP, needs_english  # noqa: E402  the one keep-list, shared with the inserter
 WRAPPED = ("scen", "exe.help", "msys")  # multi-line boxes the wrapper lays out; {p} only added in scen dialogue
 TABLES = ("exe.names", "exe.places", "exe.classes", "exe.units", "exe.items", "exe.magic", "exe.skills")
 _font, _codec, _dict = None, None, None
+# Edge blanks are layout (blank first line, indent, grid padding): the English keeps the JP's leading and trailing
+# run of blanks / {n} exactly (edges(); `edges --write` copies them over). Exempt ids, with the reason:
+EDGE_FREE = {  # skill rank labels "　１".."　９Ｂ": the MSYS packer (msyspack.events) takes no raw word < 0x80, so
+    # no full-width blank; the blank only right-aligned a 12 px digit
+    **{"msys.skills.%04d" % i: "MSYS packer: no full-width blank" for i in range(123, 133)},
+}
+_SILENT = r"\{(?!F4[0-9A-F]{2}\}|s:|FFE[89A]\})[^}\n]*\}"  # codes that draw nothing (not dictionary/name/item vars)
+LEAD = re.compile(r"^(?:%s|[ 　])*" % _SILENT)
+TRAIL = re.compile(r"(?:%s|[ 　])*$" % _SILENT)
+
+
+def edges(text):
+    """(leading, trailing) layout of a string: its edge runs of codes and blanks, with only blanks and {n} kept."""
+    keep = lambda run: "".join(re.findall(r"\{n\}|[ 　]", run))  # noqa: E731
+    lead = LEAD.match(text).group()
+    trail = TRAIL.search(text[len(lead):]).group()
+    return keep(lead), keep(trail)
+
+
+def restore_edges(jp, en):
+    """en with the JP's edge layout, when both edge runs carry the same other codes in the same order; else None."""
+    other = lambda run: re.sub(r"\{n\}|[ 　]", "", run)  # noqa: E731
+    jl, el = LEAD.match(jp).group(), LEAD.match(en).group()
+    jt, et = TRAIL.search(jp[len(jl):]).group(), TRAIL.search(en[len(el):]).group()
+    if other(jl) == other(el) and other(jt) == other(et):
+        return jl + en[len(el):len(en) - len(et)] + jt
+    if edges(en) == ("", ""):  # codes moved (colour inside the JP's indent): blanks go outside the English's codes
+        return edges(jp)[0] + en + edges(jp)[1]
+    return None
 
 
 def docs():
@@ -43,12 +73,6 @@ def docs():
     for path in sorted(SCRIPT.rglob("*.json")):
         doc = json.loads(path.read_text(encoding="utf-8"))
         yield path, doc, doc["entries"]
-
-
-def needs_english(entry):
-    """Empty JP isn't "untranslated"; exe.dict is unused in English (descriptions spell words out)."""
-    return (bool(entry.get("jp")) and not entry.get("en") and entry["id"] not in KEEP_JP
-            and not entry["id"].startswith("exe.dict"))
 
 
 def group_of(entry):
@@ -112,16 +136,20 @@ def wrap(entry, en):
     for page in en.split("{p}"):
         lines = []
         for hard in page.split("{n}"):
-            words, cur = hard.split(" "), ""
-            for w in words:
+            body = hard.lstrip(" ")
+            lead = hard[:len(hard) - len(body)]
+            body = body.rstrip(" ")
+            trail = hard[len(lead) + len(body):]  # edge blanks are layout: kept as they are
+            cur = ""
+            for w in body.split(" "):
                 if w == "":
                     continue
-                cand = f"{cur} {w}" if cur else w
+                cand = f"{cur} {w}" if cur else lead + w
                 if cur and not fits(cand, b):
                     lines.append(cur)
                     cand = w
                 cur = cand
-            lines.append(cur)
+            lines.append((cur or lead) + trail)
         if b[0] == "scen":
             pages += ["{n}".join(lines[i:i + b[3]]) for i in range(0, len(lines), b[3])]
         else:
@@ -203,6 +231,9 @@ def problems(entry, en, terms):
     have = Counter(t for t in TOKEN.findall(en) if t not in free)
     if want != have:
         out.append(f"control codes differ: JP {dict(want)} EN {dict(have)}")
+    if entry["id"] not in EDGE_FREE and edges(en) != edges(jp):
+        out.append("edge blanks are layout: keep the JP's leading/trailing blanks and {n} %r (EN %r)"
+                   % (edges(jp), edges(en)))
     if jp.lstrip().startswith("・") != en.lstrip().startswith("・"):
         out.append("choice lines start with the bullet ・ exactly when the JP does")
     if re.search(VARIABLE + r"(st|nd|rd|th|s)\b", en):
@@ -332,6 +363,35 @@ def merge(new, overwrite):
     print(f"merged: {changed} entries changed")
 
 
+def fix_edges(write):
+    """Copy the JP's edge layout into every English that lost it; print what can't be done mechanically."""
+    fixed = manual = 0
+    for path, doc, entries in docs():
+        touched = False
+        for e in entries:
+            if not e.get("en") or e["id"] in KEEP_JP or e["id"] in EDGE_FREE:
+                continue
+            new = e["en"]
+            if edges(new) != edges(e["jp"]):
+                new = restore_edges(e["jp"], new)
+                if new is None:
+                    manual += 1
+                    print(f"manual {e['id']}: JP {e['jp'][:60]!r} EN {e['en'][:60]!r}")
+                    continue
+            font, codec = tools()
+            if any(err for err, _ in fit.lint(new, budget(e, new), font, codec)):
+                new = wrap(e, new)  # an indent pushed a line over: flow the words again
+                if bad := width_problems(e, new):
+                    print(f"width  {e['id']}: {new[:70]!r}: {bad[0]}")
+            if new != e["en"]:
+                fixed += 1
+                e["en"], touched = new, True
+        if touched and write:
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(f"edges: {fixed} restored{'' if write else ' (dry run: --write)'}, {manual} need a hand")
+    return 0
+
+
 def main(argv):
     if not argv:
         sys.exit(__doc__)
@@ -345,12 +405,15 @@ def main(argv):
         print(out.replace("{p}", "\n--- page ---\n").replace("{n}", "\n"))
         print("\n".join(problems(e, args[1], glossary())) or "OK")
         return 0
+    if cmd == "edges":
+        return fix_edges("--write" in args)
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()
     if cmd == "check" and not names:
-        bad = [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") and i not in KEEP_JP
-               for p in problems(e, e["en"], terms)]
+        bad = [f"{i}: missing English" for i, e in entries.items() if needs_english(e)]
+        bad += [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") and i not in KEEP_JP
+                for p in problems(e, e["en"], terms)]
         print(f"{len(entries)} entries, {len(bad)} problems")
         print("\n".join(bad[:200]))
         return 1 if bad else 0

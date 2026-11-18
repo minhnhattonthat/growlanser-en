@@ -198,7 +198,7 @@
   {
    "id": "scen030.0030",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -1105,7 +1105,7 @@
   {
    "id": "scen030.0173",
    "jp": "　{n}　　　　　『{FFEF}透明化薬{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Invisibility Potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Invisibility Potion{FFF1}'!",
    "term": "end"
   },
   {
@@ -1364,7 +1364,7 @@
   {
    "id": "scen030.0214",
    "jp": "　{n}　　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1406,7 +1406,7 @@
   {
    "id": "scen030.0221",
    "jp": "　{n}　　　　　『{FFEF}実習終了の証明書{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Magic Practicum Certificate{FFF1}'!",
+   "en": "　{n}　　　　　Handed over the '{FFEF}Magic Practicum{n}Certificate{FFF1}'!",
    "term": "end"
   },
   {
@@ -1733,7 +1733,7 @@
   {
    "id": "scen030.0275",
    "jp": "　{n}　　　ルイセが『{FFEF}[0298]温泉通行許可証{FFF1}』を手渡した！",
-   "en": "Luise handed over the '{FFEF}[0298]Spa Pass{FFF1}'!",
+   "en": "　{n}　　　Luise handed over the '{FFEF}[0298]Spa Pass{FFF1}'!",
    "term": "end"
   },
   {

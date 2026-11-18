@@ -27,13 +27,16 @@ BUDGETS = [
     ("scen.choice", "wrap", 24, 6, True),    # choice / script menu line after the "・" bullet
     ("scen", "wrap", 24, 3, True),           # dialogue box (with or without portrait)
     ("exe.names", "clip", 144, 1, True),     # name tag
-    ("exe.units", "clip", 144, 1, False),
+    # "lower bound" rows (True): the field shows the pool's longest JP string, so it is at least that wide
+    ("exe.units", "clip", 144, 1, True),     # lower bound: JP max 12 cells (screen not reached yet)
     ("exe.items", "wrap", 8, 1, True),       # item list, equip / status slots
     ("exe.magic", "wrap", 8, 1, True),       # spell list
-    ("exe.skills", "wrap", 8, 1, False),
-    ("exe.classes", "wrap", 11, 1, False),   # JP max 11 cells
-    ("exe.places", "wrap", 10, 1, False),    # JP max 10 cells
+    ("exe.skills", "wrap", 8, 1, True),      # same list as spells (work/qa/p8m/gs_ci: "Critical 1" under the spells)
+    ("exe.classes", "wrap", 11, 1, True),    # lower bound: JP max 11 cells
+    ("exe.places", "wrap", 12, 1, True),     # one-line popup: 0x8006BC7C calls 0x800708E8 with width 12, height 1
     ("exe.help", "wrap", 24, 3, True),       # help box under menus
+    ("exe.sys.0102", "wrap", 24, 3, True),   # growth graph caption: lower bound (JP line 3 is 23 cells, heading centred)
+    ("exe.sys.0103", "wrap", 4, 7, True),    # growth graph legend, a label per line: lower bound (JP max 4 cells)
     ("exe.sys.0121", "wrap", 8, 9, True),    # config labels, one per line
     ("exe.sys.012", "wrap", 8, 1, True),     # config values 0122-0129
     ("exe.sys.013", "wrap", 8, 1, True),     # config values 0130-0133

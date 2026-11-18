@@ -159,7 +159,7 @@
   {
    "id": "scen070.0025",
    "jp": "　{n}　　　　　{FFEF}鍵がかかっていて、開かない！{FFF1}",
-   "en": "{FFEF}It's locked and won't open!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}It's locked and won't open!{FFF1}",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen070.0036",
    "jp": "　{n}　　　『{FFEF}スタデッドレザー{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Studded Leather{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Studded Leather{FFF1}'!",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen070.0072",
    "jp": "　{n}　　　　　{FFEF}女王ステラが同行者になった！{FFF1}",
-   "en": "{FFEF}Queen Stella is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Queen Stella is now accompanying you!{FFF1}",
    "term": "end"
   },
   {
@@ -657,7 +657,7 @@
   {
    "id": "scen070.0105",
    "jp": "　{n}　　　　　　６５０エルムを手に入れた！",
-   "en": "Obtained 650 Elm!",
+   "en": "　{n}　　　　　　Obtained 650 Elm!",
    "term": "end"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "scen070.0107",
    "jp": "　{n}　　　　　『{FFEF}かなづち{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Hammer{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Hammer{FFF1}'!",
    "term": "end"
   },
   {
@@ -681,7 +681,7 @@
   {
    "id": "scen070.0109",
    "jp": "　{n}　　　『{FFEF}ブラスターハンド{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Blaster Hand{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Blaster Hand{FFF1}'!",
    "term": "end"
   },
   {
@@ -735,19 +735,19 @@
   {
    "id": "scen070.0118",
    "jp": "　　南国の空の下{n}　　　　葉の茂る木々に実るバナナ{n}　　　　　　ハイビスカスの花が揺れる",
-   "en": "Beneath a tropical sky,{n}On leafy trees, bananas ripen,{n}Hibiscus blossoms sway.",
+   "en": "　　Beneath a tropical sky,{n}On leafy trees, bananas ripen,{n}Hibiscus blossoms sway.",
    "term": "end"
   },
   {
    "id": "scen070.0119",
    "jp": "　{n}　　　　　　短い物から長い物へ",
-   "en": "From shortest to longest.",
+   "en": "　{n}　　　　　　From shortest to longest.",
    "term": "end"
   },
   {
    "id": "scen070.0120",
    "jp": "　{n}　　　　　　不純な光は除外される",
-   "en": "Impure light is excluded.",
+   "en": "　{n}　　　　　　Impure light is excluded.",
    "term": "end"
   },
   {
@@ -1021,7 +1021,7 @@
   {
    "id": "scen070.0165",
    "jp": "　{n}　　　　　『{FFEF}力のリンゴ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Power Apple{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Power Apple{FFF1}'!",
    "term": "end"
   },
   {
@@ -1033,7 +1033,7 @@
   {
    "id": "scen070.0167",
    "jp": "　{n}　　　　　『{FFEF}大地のローブ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Earth Robe{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Earth Robe{FFF1}'!",
    "term": "end"
   },
   {
@@ -1045,7 +1045,7 @@
   {
    "id": "scen070.0169",
    "jp": "　{n}　　　　『{FFEF}アンブローシア{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Ambrosia{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Ambrosia{FFF1}'!",
    "term": "end"
   },
   {
@@ -1057,7 +1057,7 @@
   {
    "id": "scen070.0171",
    "jp": "　{n}　　　　　『{FFEF}炎のルーン{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Flame Rune{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Flame Rune{FFF1}'!",
    "term": "end"
   },
   {

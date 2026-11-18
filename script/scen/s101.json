@@ -221,7 +221,7 @@
   {
    "id": "scen101.0034",
    "jp": "　{n}プレゼント『{FFEF}アクセサリー・セット{FFF1}』を購入した！",
-   "en": "Purchased the gift '{FFEF}Accessory Set{FFF1}'!",
+   "en": "　{n}Purchased the gift '{FFEF}Accessory Set{FFF1}'!",
    "term": "end"
   },
   {
@@ -295,7 +295,7 @@
   {
    "id": "scen101.0046",
    "jp": "　{n}プレゼント『{FFEF}薬草大辞典{FFF1}』を購入した！",
-   "en": "Purchased the gift '{FFEF}Encyclopedia of Medicinal Herbs{FFF1}'!",
+   "en": "　{n}Purchased the gift '{FFEF}Encyclopedia of Medicinal Herbs{FFF1}'!",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen101.0054",
    "jp": "　{n}プレゼント『{FFEF}種と球根のセット{FFF1}』を購入した！",
-   "en": "Purchased the gift '{FFEF}Seed and Bulb Set{FFF1}'!",
+   "en": "　{n}Purchased the gift '{FFEF}Seed and Bulb Set{FFF1}'!",
    "term": "end"
   },
   {
@@ -395,7 +395,7 @@
   {
    "id": "scen101.0062",
    "jp": "　{n}　　　プレゼント『{FFEF}耐熱容器{FFF1}』を購入した！",
-   "en": "Purchased the gift '{FFEF}Heatproof Container{FFF1}'!",
+   "en": "　{n}　　　Purchased the gift '{FFEF}Heatproof Container{FFF1}'!",
    "term": "end"
   },
   {
@@ -569,7 +569,7 @@
   {
    "id": "scen101.0090",
    "jp": "　{n}　　　　　ルイセにプレゼントを渡した！",
-   "en": "Gave Luise a present!",
+   "en": "　{n}　　　　　Gave Luise a present!",
    "term": "end"
   },
   {
@@ -766,7 +766,7 @@
   {
    "id": "scen101.0122",
    "jp": "　{n}　　　　ミーシャにプレゼントを渡した！",
-   "en": "Gave Misha a present!",
+   "en": "　{n}　　　　Gave Misha a present!",
    "term": "end"
   },
   {
@@ -908,7 +908,7 @@
   {
    "id": "scen101.0145",
    "jp": "　{n}　　　　アリオストにプレゼントを渡した！",
-   "en": "Gave Ariost a present!",
+   "en": "　{n}　　　　Gave Ariost a present!",
    "term": "end"
   },
   {
@@ -1019,7 +1019,7 @@
   {
    "id": "scen101.0163",
    "jp": "　{n}　　　　　カレンにプレゼントを渡した！",
-   "en": "Gave Karen a present!",
+   "en": "　{n}　　　　　Gave Karen a present!",
    "term": "end"
   },
   {
@@ -1150,7 +1150,7 @@
   {
    "id": "scen101.0184",
    "jp": "　{n}　　　　　ゼノスにプレゼントを渡した！",
-   "en": "Gave Xenos a present!",
+   "en": "　{n}　　　　　Gave Xenos a present!",
    "term": "end"
   },
   {

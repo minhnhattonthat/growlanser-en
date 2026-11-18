@@ -297,7 +297,7 @@
   {
    "id": "scen000.0047",
    "jp": "　{n}　７５エルムを受け取った！",
-   "en": "Received 75 Elm!",
+   "en": "　{n}　Received 75 Elm!",
    "term": "end"
   },
   {
@@ -643,7 +643,7 @@
   {
    "id": "scen000.0103",
    "jp": "　{n}　３０エルムを受け取った！",
-   "en": "Received 30 Elm!",
+   "en": "　{n}　Received 30 Elm!",
    "term": "end"
   },
   {
@@ -673,7 +673,7 @@
   {
    "id": "scen000.0108",
    "jp": "　{n}　　　　『{FFEF}シビレ玉{FFF1}』を２個手に入れた！",
-   "en": "Received 2 '{FFEF}Paralysis Orb{FFF1}' items!",
+   "en": "　{n}　　　　Received 2 '{FFEF}Paralysis Orb{FFF1}' items!",
    "term": "end"
   },
   {
@@ -1231,7 +1231,7 @@
   {
    "id": "scen000.0201",
    "jp": "{FFF3}　{n}　　　　{FFF4}{v:0009}ティピちゃーーん、キーーーック！{FC05}{FA01}　{FFFA}",
-   "en": "{FFF3}{FFF4}{v:0009}Tippi-chan Kiiiick!{FC05}{FA01}{FFFA}",
+   "en": "{FFF3}　{n}　　　　{FFF4}{v:0009}Tippi-chan Kiiiick!{FC05}{FA01}　{FFFA}",
    "term": "end"
   },
   {

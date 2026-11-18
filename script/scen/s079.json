@@ -75,7 +75,7 @@
   {
    "id": "scen079.0011",
    "jp": "　　{FFF0}安全第一{FFF1}{n}　　　　{FFEE}頂上{FFF1}　：　{FFEF}魔水晶採掘場{FFF1}{n}　　　　{FFEE}右{FFF1}　　：　{FFEF}旧坑道{FFF1}（封鎖中）{n}　　　　　　　　　　許可なき者の立入を禁ず",
-   "en": "{FFF0}Safety First{FFF1}{n}{FFEE}Summit{FFF1}: {FFEF}Magic Crystal Mine{FFF1}{n}{FFEE}Right{FFF1}: {FFEF}Old Mine Tunnels{FFF1} (Closed){p}No unauthorized entry.",
+   "en": "　　{FFF0}Safety First{FFF1}{n}{FFEE}Summit{FFF1}: {FFEF}Magic Crystal Mine{FFF1}{n}{FFEE}Right{FFF1}: {FFEF}Old Mine Tunnels{FFF1} (Closed){p}No unauthorized entry.",
    "term": "end"
   },
   {

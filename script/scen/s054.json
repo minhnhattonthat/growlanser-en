@@ -661,7 +661,7 @@
   {
    "id": "scen054.0108",
    "jp": "　{n}　　　『{FFEF}ティピの可能性２{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Tippi's Potential 2{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 2{FFF1}'!",
    "term": "end"
   },
   {
@@ -895,7 +895,7 @@
   {
    "id": "scen054.0147",
    "jp": "　{n}　　　　　『{FFEF}形見のナイフ{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Keepsake Knife{FFF1}'!",
+   "en": "　{n}　　　　　Handed over the '{FFEF}Keepsake Knife{FFF1}'!",
    "term": "end"
   },
   {
@@ -925,7 +925,7 @@
   {
    "id": "scen054.0152",
    "jp": "　{n}　　　『{FFEF}ゼメキスの杖{FFF1}』をもらった！",
-   "en": "Received '{FFEF}Zemekis's Staff{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Zemekis's Staff{FFF1}'!",
    "term": "end"
   },
   {

@@ -63,7 +63,7 @@
   {
    "id": "scen095.0009",
    "jp": "　　バーンシュタイン王国{n}　　　ガルアオス監獄",
-   "en": "Kingdom of Burnstein{n}Garuaos Prison",
+   "en": "　　Kingdom of Burnstein{n}Garuaos Prison",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen095.0031",
    "jp": "　{n}　　　　{FFEF}レティシア姫が同行者になった！{FFF1}",
-   "en": "{FFEF}Princess Leticia is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Princess Leticia is now accompanying you!{FFF1}",
    "term": "end"
   },
   {

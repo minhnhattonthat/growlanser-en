@@ -141,7 +141,7 @@
   {
    "id": "scen005.0022",
    "jp": "　{n}　　　　　『{FFEF}赤いピアス{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Red Earring{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}Red Earring{FFF1}'!",
    "term": "end"
   },
   {

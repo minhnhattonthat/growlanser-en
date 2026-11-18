@@ -221,7 +221,7 @@
   {
    "id": "scen061.0035",
    "jp": "　{n}　　　　　{FFEF}{s:0003}が仲間になった！{FFF1}",
-   "en": "{FFEF}{s:0003} joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}{s:0003} joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -389,7 +389,7 @@
   {
    "id": "scen061.0063",
    "jp": "　{n}　　『{FFEF}パワーストーン{FFF1}』をライエルに渡した！",
-   "en": "Gave the '{FFEF}Power Stone{FFF1}' to Lyell!",
+   "en": "　{n}　　Gave the '{FFEF}Power Stone{FFF1}' to Lyell!",
    "term": "end"
   },
   {
@@ -800,13 +800,13 @@
   {
    "id": "scen061.0131",
    "jp": "{FFEE}{v:0015}　　　　さて、これで心おきなく、{n}　　　　この村を破壊することができる！{FFF1}",
-   "en": "{FFEE}{v:0015}Now, I can destroy this village without a care!{FFF1}",
+   "en": "{FFEE}{v:0015}　　　　Now, I can destroy this village without a{n}care!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0132",
    "jp": "{FFEF}{v:0016}　　　　　なに！？{n}　　　　　貴様、最初から‥‥！{FFF1}",
-   "en": "{FFEF}{v:0016}What?! You planned this from the start...!{FFF1}",
+   "en": "{FFEF}{v:0016}　　　　　What?! You planned this from the start...!{FFF1}",
    "term": "end"
   },
   {
@@ -818,13 +818,13 @@
   {
    "id": "scen061.0134",
    "jp": "{FFEF}{v:0018}　　　　　　　　貴様！{FFF1}",
-   "en": "{FFEF}{v:0018}You bastard!{FFF1}",
+   "en": "{FFEF}{v:0018}　　　　　　　　You bastard!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen061.0135",
    "jp": "{FFEE}{v:0019}　　　　さぁ、私の力を味わいながら{n}　　　　死ぬがいい！{FFF1}",
-   "en": "{FFEE}{v:0019}Now, taste my power and die!{FFF1}",
+   "en": "{FFEE}{v:0019}　　　　Now, taste my power and die!{FFF1}",
    "term": "end"
   },
   {
@@ -1103,7 +1103,7 @@
   {
    "id": "scen061.0181",
    "jp": "{FFEE}{v:0008}　　　　　　聞こえているか！{n}　　　　　　愚かな人間どもよ！{FFF1}",
-   "en": "{FFEE}{v:0008}Can you hear me, foolish humans?!{FFF1}",
+   "en": "{FFEE}{v:0008}　　　　　　Can you hear me, foolish humans?!{FFF1}",
    "term": "end"
   },
   {
@@ -1115,7 +1115,7 @@
   {
    "id": "scen061.0183",
    "jp": "{FFEE}{v:000A}　　　愚かな人間どもよ！{n}　　　よく聞くがいい！{p}{v:000B}　　　私は今まで{s:0059}や魔法使い以外には{n}　　　攻撃を仕掛けなかった。{n}　　　それは来たるべき我が支配のためだ。{n}　　　だが一部の愚か者のために、{n}　　　私の気が変わりかけている。{p}{v:000C}　　　そうだ。{n}　　　これからは無差別に人間を殺す。{FFF1}",
-   "en": "{FFEE}{v:000A}Foolish humans! Listen well!{p}{v:000B}Until now, I have attacked only those who serve in the{n}{s:0059} ranks or practice magic. This was{n}for the sake of my coming reign. But certain fools are{p}beginning to change my mind.{p}{v:000C}Yes. From now on, I shall kill humans indiscriminately.{FFF1}",
+   "en": "{FFEE}{v:000A}　　　Foolish humans! Listen well!{p}{v:000B}Until now, I have attacked only those who serve in the{n}{s:0059} ranks or practice magic. This was{n}for the sake of my coming reign. But certain fools are{p}beginning to change my mind.{p}{v:000C}Yes. From now on, I shall kill humans indiscriminately.{FFF1}",
    "term": "end"
   },
   {
@@ -1127,7 +1127,7 @@
   {
    "id": "scen061.0185",
    "jp": "{FFEE}{v:000E}　　それを望まないなら、すぐさま我に屈せよ！{p}{v:000F}　　だが、考えをまとめる時間も必要だろう。{n}そこで寛大な私は、数日だけ待ってやることにした。{p}{v:0010}　　まずは、パワーストーンを差し出せ！{n}　　それさえも拒むというなら、{n}　　この場で村１つを吹き飛ばしてやる！{FFF1}",
-   "en": "{FFEE}{v:000E}If you do not wish that, submit to me at once!{p}{v:000F}But you will need time to make up your minds. In my{n}generosity, I have decided to grant you a few days.{p}{v:0010}First, surrender the Power Stone! If you refuse even{n}that, I shall obliterate a village here and now!{FFF1}",
+   "en": "{FFEE}{v:000E}　　If you do not wish that, submit to me at once!{p}{v:000F}But you will need time to make up your minds. In my{n}generosity, I have decided to grant you a few days.{p}{v:0010}First, surrender the Power Stone! If you refuse even{n}that, I shall obliterate a village here and now!{FFF1}",
    "term": "end"
   },
   {
@@ -1139,7 +1139,7 @@
   {
    "id": "scen061.0187",
    "jp": "{FFEE}{v:0012}　　　さあ、パワーストーンを持って、{n}　　　ブローニュ村まで来い。{n}　急いでこなければ、私の気が変わるかも知れんぞ？{p}　　　‥‥{v:0013}わっはっはっはっはっ！{FFF1}",
-   "en": "{FFEE}{v:0012}Now, bring the Power Stone to Boulogne Village. Hurry,{n}or I may change my mind.{p}...{v:0013}Wahahahaha!{FFF1}",
+   "en": "{FFEE}{v:0012}　　　Now, bring the Power Stone to Boulogne Village.{n}Hurry,{n}or I may change my mind.{p}...{v:0013}Wahahahaha!{FFF1}",
    "term": "end"
   },
   {
@@ -1400,7 +1400,7 @@
   {
    "id": "scen061.0230",
    "jp": "　{n}　　　　{FFEF}{s:0008}が仲間になった！{FFF1}",
-   "en": "{FFEF}{s:0008} joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}{s:0008} joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1550,7 +1550,7 @@
   {
    "id": "scen061.0255",
    "jp": "　{n}　　　　{FFEF}{s:0004}が仲間になった！{FFF1}",
-   "en": "{FFEF}{s:0004} joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}{s:0004} joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1604,7 +1604,7 @@
   {
    "id": "scen061.0264",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　　It's locked!",
    "term": "end"
   },
   {
@@ -1736,7 +1736,7 @@
   {
    "id": "scen061.0286",
    "jp": "　{n}　　　　『{FFEF}{s:000B}の可能性７{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}{s:000B}'s Potential 7{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}{s:000B}'s Potential 7{FFF1}'!",
    "term": "end"
   },
   {

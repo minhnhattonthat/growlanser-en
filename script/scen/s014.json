@@ -27,7 +27,7 @@
   {
    "id": "scen014.0003",
    "jp": "　自宅に戻って‥‥　",
-   "en": "Back at home...",
+   "en": "　Back at home...　",
    "term": "end"
   },
   {
@@ -45,7 +45,7 @@
   {
    "id": "scen014.0006",
    "jp": "　{n}　　ルイセが『{FFEF}サンドラの研究書{FFF1}』を手渡した。",
-   "en": "Luise handed over '{FFEF}Sandra's Study{FFF1}'.",
+   "en": "　{n}　　Luise handed over '{FFEF}Sandra's Study{FFF1}'.",
    "term": "end"
   },
   {
@@ -487,7 +487,7 @@
   {
    "id": "scen014.0079",
    "jp": "　{n}　　　　　『{FFEF}魔法の眼{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Magic Eye{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Magic Eye{FFF1}'!",
    "term": "end"
   },
   {
@@ -646,7 +646,7 @@
   {
    "id": "scen014.0105",
    "jp": "　{n}　　　　　　{FFEF}ルイセが仲間になった！{FFF1}",
-   "en": "{FFEF}Luise joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Luise joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1130,7 +1130,7 @@
   {
    "id": "scen014.0185",
    "jp": "　　　　　　　{v:0000}{FFEF}‥‥‥奪え‥‥‥{FFFB}{n}　　　　　　　{v:0001}‥‥‥奪え‥‥‥{FFF1}",
-   "en": "{v:0000}{FFEF}...Take it...{FFFB} {v:0001}...Take it...{FFF1}",
+   "en": "　　　　　　　{v:0000}{FFEF}...Take it...{FFFB} {v:0001}...Take it...{FFF1}",
    "term": "end"
   },
   {

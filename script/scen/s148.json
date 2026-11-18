@@ -183,7 +183,7 @@
   {
    "id": "scen148.0029",
    "jp": "休暇{FFEB}",
-   "en": "Vacation {FFEB}",
+   "en": "Vacation{FFEB}",
    "term": "end"
   },
   {
@@ -321,19 +321,19 @@
   {
    "id": "scen148.0052",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "Bargains galore! Coco's Item Shop",
+   "en": "　　Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen148.0053",
    "jp": "　　準備中！{n}　　　アイテムショップ・ココ",
-   "en": "Not open yet!{n}Coco's Item Shop",
+   "en": "　　Not open yet!{n}Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen148.0054",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore! Nook Shop",
+   "en": "　　Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen148.0058",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
+   "en": "　　　Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
    "term": "end"
   },
   {
@@ -465,19 +465,19 @@
   {
    "id": "scen148.0076",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "South Avenue Shopping District: Open for Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
    "term": "end"
   },
   {
    "id": "scen148.0077",
    "jp": "{n}　　　　　お買い物は南大通り商店街へ",
-   "en": "For all your shopping, visit South Avenue Shopping{n}District!",
+   "en": "{n}　　　　　For all your shopping, visit South Avenue{n}Shopping{p}District!",
    "term": "end"
   },
   {
    "id": "scen148.0078",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
+   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen148.0082",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
    "term": "end"
   },
   {
@@ -519,7 +519,7 @@
   {
    "id": "scen148.0085",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {

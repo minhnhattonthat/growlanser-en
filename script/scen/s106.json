@@ -87,7 +87,7 @@
   {
    "id": "scen106.0013",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -764,25 +764,25 @@
   {
    "id": "scen106.0125",
    "jp": "　　　　　{FFEF}‥{v:0023}起きろ‥‥起きるのだ‥‥{FFF1}",
-   "en": "{FFEF}...{v:0023}Wake up... Awaken...{FFF1}",
+   "en": "　　　　　{FFEF}...{v:0023}Wake up... Awaken...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen106.0126",
    "jp": "　　　　　　　　{FFEF}‥‥{v:0024}そうだ。{n}　　　　　お前には使命があったはず。{n}　　　グローシアンを殺すという使命が‥‥。{FFF1}",
-   "en": "{FFEF}...{v:0024}That's right. You had a mission. A mission to kill the{n}Growsians...{FFF1}",
+   "en": "　　　　　　　　{FFEF}...{v:0024}That's right. You had a mission. A{n}mission to kill the{n}Growsians...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen106.0127",
    "jp": "　　　　　{v:0025}{FFEF}奴の能力が弱っている今なら{n}　　　　　この念波を遮るものはない。{n}　　　　　　さぁ、使命を果たすのだ。{FFF1}",
-   "en": "{v:0025}{FFEF}Now that those powers have weakened, nothing can{n}block this telepathic signal. Now, fulfill your mission.{FFF1}",
+   "en": "　　　　　{v:0025}{FFEF}Now that those powers have weakened,{n}nothing can{n}block this telepathic signal. Now, fulfill your mission.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen106.0128",
    "jp": "　　　　　　　{v:0026}{FFEF}使命を果たすのだ‥‥{FFF1}",
-   "en": "{v:0026}{FFEF}Fulfill your mission...{FFF1}",
+   "en": "　　　　　　　{v:0026}{FFEF}Fulfill your mission...{FFF1}",
    "term": "end"
   },
   {
@@ -800,7 +800,7 @@
   {
    "id": "scen106.0131",
    "jp": "　　　　　　　{v:0029}{FFEF}何をしている‥‥。{n}　　　　　　　　　{FFEF}さぁ‥‥。{FFF1}",
-   "en": "{v:0029}{FFEF}What are you doing...? {FFEF}Now...{FFF1}",
+   "en": "　　　　　　　{v:0029}{FFEF}What are you doing...? {FFEF}Now...{FFF1}",
    "term": "end"
   },
   {
@@ -884,7 +884,7 @@
   {
    "id": "scen106.0145",
    "jp": "　　　　‥{v:0039}{FFEF}殺せ‥殺せ‥殺せ‥殺せ‥殺せ！{FFF1}",
-   "en": "...{v:0039}{FFEF}Kill... Kill... Kill... Kill... Kill!{FFF1}",
+   "en": "　　　　...{v:0039}{FFEF}Kill... Kill... Kill... Kill... Kill!{FFF1}",
    "term": "end"
   },
   {
@@ -908,7 +908,7 @@
   {
    "id": "scen106.0149",
    "jp": "　　　　{v:003C}{FFEF}‥この娘、まだ‥‥ぐわああっ！{FFF1}",
-   "en": "{v:003C}{FFEF}...This girl still has... Gwaaah!{FFF1}",
+   "en": "　　　　{v:003C}{FFEF}...This girl still has... Gwaaah!{FFF1}",
    "term": "end"
   },
   {

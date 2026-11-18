@@ -168,7 +168,7 @@
   {
    "id": "scen028.0025",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -1549,7 +1549,7 @@
   {
    "id": "scen028.0245",
    "jp": "　{n}『{FFEF}フェザリアン関係の閲覧許可証{FFF1}』を手に入れた！",
-   "en": "Received the '{FFEF}Featherian Document Access Permit{FFF1}'!",
+   "en": "　{n}Received the '{FFEF}Featherian Document Access Permit{FFF1}'!",
    "term": "end"
   },
   {

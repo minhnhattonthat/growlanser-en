@@ -87,7 +87,7 @@
   {
    "id": "scen203.0013",
    "jp": "　{n}　　　　　　『{FFEF}牢の鍵{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Cell Key{FFF1}'!",
+   "en": "　{n}　　　　　　Obtained the '{FFEF}Cell Key{FFF1}'!",
    "term": "end"
   },
   {

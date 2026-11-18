@@ -21,7 +21,7 @@
   {
    "id": "scen102.0002",
    "jp": "　{n}　　　　　{FFEF}バーンシュタイン王都入り口{FFF1}",
-   "en": "{FFEF}Entrance to Burnstein's Royal Capital{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Entrance to Burnstein's Royal Capital{FFF1}",
    "term": "end"
   },
   {
@@ -33,7 +33,7 @@
   {
    "id": "scen102.0004",
    "jp": "　{n}　　　　　　{FFEE}これより先、クレイン村{FFF1}",
-   "en": "{FFEE}Crane Village Ahead{FFF1}",
+   "en": "　{n}　　　　　　{FFEE}Crane Village Ahead{FFF1}",
    "term": "end"
   },
   {
@@ -45,7 +45,7 @@
   {
    "id": "scen102.0006",
    "jp": "　{n}　　　　ティピは新技を編み出した！",
-   "en": "Tippi developed a new technique!",
+   "en": "　{n}　　　　Tippi developed a new technique!",
    "term": "end"
   },
   {
@@ -170,13 +170,13 @@
   {
    "id": "scen102.0026",
    "jp": "　北　　：　クレイン村{n}　北東　：　バーンシュタイン王都方面{n}　東　　：　王国直轄地",
-   "en": "North: Crane Village{n}Northeast: Toward Burnstein's Royal Capital{n}East: Crown Lands",
+   "en": "　North: Crane Village{n}Northeast: Toward Burnstein's Royal Capital{n}East: Crown Lands",
    "term": "end"
   },
   {
    "id": "scen102.0027",
    "jp": "　　　　　　{n}　　　　　　{FFF0}これより先、王国直轄地{FFF1}",
-   "en": "{FFF0}Crown Lands Ahead{FFF1}",
+   "en": "　　　　　　{n}　　　　　　{FFF0}Crown Lands Ahead{FFF1}",
    "term": "end"
   },
   {
@@ -368,7 +368,7 @@
   {
    "id": "scen102.0059",
    "jp": "　{n}　　　　　　{FFF0}これより先、王国直轄地{FFF1}",
-   "en": "{FFF0}Crown Lands Ahead{FFF1}",
+   "en": "　{n}　　　　　　{FFF0}Crown Lands Ahead{FFF1}",
    "term": "end"
   },
   {

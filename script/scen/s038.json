@@ -307,7 +307,7 @@
   {
    "id": "scen038.0049",
    "jp": "　{n}　　　　　鍵がかかっていて開かない。",
-   "en": "It's locked and won't open.",
+   "en": "　{n}　　　　　It's locked and won't open.",
    "term": "end"
   },
   {
@@ -861,7 +861,7 @@
   {
    "id": "scen038.0141",
    "jp": "　{n}　　　　{FFEF}カレンがパーティーから外れた！{FFF1}{p}　　{n}　　　　　　{FFEF}カレンの装備を回収した！{FFF1}",
-   "en": "{FFEF}Karen left the party!{FFF1}{p}{FFEF}Recovered Karen's equipment!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Karen left the party!{FFF1}{p}{FFEF}Recovered Karen's equipment!{FFF1}",
    "term": "end"
   },
   {
@@ -1348,7 +1348,7 @@
   {
    "id": "scen038.0218",
    "jp": "　{n}　　　　　{FFEF}花冠を手に入れた！{FFF1}",
-   "en": "{FFEF}Received a Flower Crown!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Received a Flower Crown!{FFF1}",
    "term": "end"
   },
   {

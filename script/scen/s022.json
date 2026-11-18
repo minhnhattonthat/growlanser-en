@@ -153,7 +153,7 @@
   {
    "id": "scen022.0024",
    "jp": "　{n}　　　　１５０エルムを受け取った！",
-   "en": "Received 150 Elm!",
+   "en": "　{n}　　　　Received 150 Elm!",
    "term": "end"
   },
   {
@@ -165,13 +165,13 @@
   {
    "id": "scen022.0026",
    "jp": "　{n}　　　　５エルムを受け取った！",
-   "en": "Received 5 Elm!",
+   "en": "　{n}　　　　Received 5 Elm!",
    "term": "end"
   },
   {
    "id": "scen022.0027",
    "jp": "　{n}　　　　　『{FFEF}バンダナ{FFF1}』を受け取った！",
-   "en": "Received a '{FFEF}Bandana{FFF1}'!",
+   "en": "　{n}　　　　　Received a '{FFEF}Bandana{FFF1}'!",
    "term": "end"
   },
   {
@@ -183,13 +183,13 @@
   {
    "id": "scen022.0029",
    "jp": "　{n}　　　　６０エルムを受け取った！",
-   "en": "Received 60 Elm!",
+   "en": "　{n}　　　　Received 60 Elm!",
    "term": "end"
   },
   {
    "id": "scen022.0030",
    "jp": "　{n}　　　　『{FFEF}グラディウス{FFF1}』を受け取った！",
-   "en": "Received a '{FFEF}Gladius{FFF1}'!",
+   "en": "　{n}　　　　Received a '{FFEF}Gladius{FFF1}'!",
    "term": "end"
   },
   {

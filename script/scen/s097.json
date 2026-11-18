@@ -21,13 +21,13 @@
   {
    "id": "scen097.0002",
    "jp": "　{FFF0}危険！{n}　　　この先、ブレーム火山{FFF1}",
-   "en": "{FFF0}Danger! Brehm Volcano ahead!{FFF1}",
+   "en": "　{FFF0}Danger! Brehm Volcano ahead!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen097.0003",
    "jp": "　{n}　　　　　鉱山街　ヴァルミエ　入り口",
-   "en": "Entrance to the mining town of Valmier",
+   "en": "　{n}　　　　　Entrance to the mining town of Valmier",
    "term": "end"
   }
  ]

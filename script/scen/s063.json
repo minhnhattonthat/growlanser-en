@@ -555,7 +555,7 @@
   {
    "id": "scen063.0091",
    "jp": "　{n}　　　　『{FFEF}フェザリアンの薬{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Featherian Cure{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Featherian Cure{FFF1}'!",
    "term": "end"
   },
   {
@@ -726,7 +726,7 @@
   {
    "id": "scen063.0119",
    "jp": "　{n}　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "{FFEF}Ariost joined as a companion!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Ariost joined as a companion!{FFF1}",
    "term": "end"
   },
   {

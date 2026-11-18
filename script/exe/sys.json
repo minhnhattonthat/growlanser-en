@@ -471,19 +471,19 @@
   {
    "id": "exe.sys.0077",
    "jp": "やゐゆゑよー゛゜　　",
-   "en": "ya wi yu we yo - Voiced Semi-voiced",
+   "en": "ya wi yu we yo - Voiced Semi-voiced　　",
    "term": "null"
   },
   {
    "id": "exe.sys.0078",
    "jp": "らりるれろ、。・　　",
-   "en": "ra ri ru re ro , . -",
+   "en": "ra ri ru re ro , . -　　",
    "term": "null"
   },
   {
    "id": "exe.sys.0079",
    "jp": "わ　を　ん　　　　　",
-   "en": "wa  wo  n",
+   "en": "wa  wo  n　　　　　",
    "term": "null"
   },
   {
@@ -531,19 +531,19 @@
   {
    "id": "exe.sys.0087",
    "jp": "ヤヰユヱヨー゛゜　　",
-   "en": "YA WI YU WE YO - Voiced Semi-voiced",
+   "en": "YA WI YU WE YO - Voiced Semi-voiced　　",
    "term": "null"
   },
   {
    "id": "exe.sys.0088",
    "jp": "ラリルレロ、。・　　",
-   "en": "RA RI RU RE RO , . -",
+   "en": "RA RI RU RE RO , . -　　",
    "term": "null"
   },
   {
    "id": "exe.sys.0089",
    "jp": "ワ　ヲ　ン　　　　　",
-   "en": "WA  WO  N",
+   "en": "WA  WO  N　　　　　",
    "term": "null"
   },
   {
@@ -561,7 +561,7 @@
   {
    "id": "exe.sys.0092",
    "jp": "ＵＶＷＸＹＺ　　　　",
-   "en": "UVWXYZ",
+   "en": "UVWXYZ　　　　",
    "term": "null"
   },
   {
@@ -579,7 +579,7 @@
   {
    "id": "exe.sys.0095",
    "jp": "ｕｖｗｘｙｚ　　　　",
-   "en": "uvwxyz",
+   "en": "uvwxyz　　　　",
    "term": "null"
   },
   {
@@ -603,7 +603,7 @@
   {
    "id": "exe.sys.0099",
    "jp": "＾ゝ＜＞≦≧＠　　　",
-   "en": "Caret Repeat < > <= >= At",
+   "en": "Caret Repeat < > <= >= At　　　",
    "term": "null"
   },
   {
@@ -621,13 +621,13 @@
   {
    "id": "exe.sys.0102",
    "jp": "　　　　　　　　　{FFEE}成長率表示{FFF1}{n}{s:0000}の成長度合いを示したグラフです。{n}外側に近いパラメータほど、より高く成長します。",
-   "en": "{FFEE}Growth Rates{FFF1}{n}This graph shows {s:0000}'s growth potential.{n}Stats farther out have higher growth rates.",
+   "en": "　　　　　　　　　{FFEE}Growth Rates{FFF1}{n}A graph of {s:0000}'s growth potential.{n}Stats farther out have higher growth rates.",
    "term": "null"
   },
   {
    "id": "exe.sys.0103",
    "jp": "ＨＰ倍率{n}ＭＰ倍率{n}　体力{n}　知力{n}移動力{n}防御力{n}攻撃力",
-   "en": "HP Multiplier{n}MP Multiplier{n}Vitality{n}Intelligence{n}Movement{n}Defense{n}Attack",
+   "en": "HP{n}MP{n}Vitality{n}Intellect{n}Move{n}Defense{n}Attack",
    "term": "null"
   },
   {

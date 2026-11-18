@@ -464,13 +464,13 @@
   {
    "id": "scen113.0071",
    "jp": "　第２４回闘技大会開催の案内{n}　　～詳しくはグランシル市にて～",
-   "en": "Announcing the 24th tournament!{n}Visit Grancil for details.",
+   "en": "　Announcing the 24th tournament!{n}Visit Grancil for details.",
    "term": "end"
   },
   {
    "id": "scen113.0072",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
+   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
    "term": "end"
   },
   {
@@ -482,13 +482,13 @@
   {
    "id": "scen113.0074",
    "jp": "　この街のマンホールの数、気に入ったぜ。{n}　なぜかって俺のラッキーナンバーだからな。",
-   "en": "I like how many manholes this town's got. Why? 'Cause{n}that's my lucky number.",
+   "en": "　I like how many manholes this town's got. Why?{n}'Cause{n}that's my lucky number.",
    "term": "end"
   },
   {
    "id": "scen113.0075",
    "jp": "　同じ日に産まれたガキどもの数、気に入ったぜ。{n}　なぜかって俺のラッキーナンバーだからな。",
-   "en": "I like how many brats were born on the same day.{n}Why? 'Cause that's my lucky number.",
+   "en": "　I like how many brats were born on the same day.{n}Why? 'Cause that's my lucky number.",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen113.0116",
    "jp": "　{n}　　　　　『{FFEF}青銅の剣{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Bronze Sword{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}Bronze Sword{FFF1}'!",
    "term": "end"
   },
   {
@@ -983,13 +983,13 @@
   {
    "id": "scen113.0156",
    "jp": "　{n}『快適なプレイのために、一度はコンフィグを！{n}　　　　　　　　タイトル画面から選べます。』",
-   "en": "'For a more comfortable playing experience, try Config{n}at least once! You can select it from the title screen.'",
+   "en": "　{n}'For a more comfortable playing experience, try Config{n}at least once! You can select it from the title screen.'",
    "term": "end"
   },
   {
    "id": "scen113.0157",
    "jp": "　{n}　　　　　　　{FFF0}げねすほいどほう{FFF1}",
-   "en": "{FFF0}SFIEGWHETR{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}SFIEGWHETR{FFF1}",
    "term": "end"
   },
   {

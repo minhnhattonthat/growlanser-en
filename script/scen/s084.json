@@ -464,7 +464,7 @@
   {
    "id": "scen084.0075",
    "jp": "　{n}　　　　　　　　開かない！",
-   "en": "It won't open!",
+   "en": "　{n}　　　　　　　　It won't open!",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen084.0077",
    "jp": "　{n}　　　　　　　開かない！",
-   "en": "It won't open!",
+   "en": "　{n}　　　　　　　It won't open!",
    "term": "end"
   },
   {
@@ -488,7 +488,7 @@
   {
    "id": "scen084.0079",
    "jp": "　{n}　　　　『{FFEF}トリニトレイト{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Trinitrate{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Trinitrate{FFF1}'!",
    "term": "end"
   },
   {
@@ -500,7 +500,7 @@
   {
    "id": "scen084.0081",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Secret Manual{FFF1}'!",
+   "en": "　{n}　　　　　　Received a '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {
@@ -512,7 +512,7 @@
   {
    "id": "scen084.0083",
    "jp": "　{n}　　　『{FFEF}シャドーブレイド{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Shadow Blade{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Shadow Blade{FFF1}'!",
    "term": "end"
   },
   {
@@ -524,7 +524,7 @@
   {
    "id": "scen084.0085",
    "jp": "　{n}　　　　　『{FFEF}天女の羽衣{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Celestial Robe{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Celestial Robe{FFF1}'!",
    "term": "end"
   },
   {
@@ -542,7 +542,7 @@
   {
    "id": "scen084.0088",
    "jp": "　{n}　　　　鍵を{FFEF}４つ{FFF1}手に入れた！",
-   "en": "Obtained {FFEF}4{FFF1} keys!",
+   "en": "　{n}　　　　Obtained {FFEF}4{FFF1} keys!",
    "term": "end"
   },
   {
@@ -554,25 +554,25 @@
   {
    "id": "scen084.0090",
    "jp": "　{n}　　　　　　{v:0013}‥鍵‥鍵‥数‥少ない‥",
-   "en": "{v:0013}...Keys... keys... number... few...",
+   "en": "　{n}　　　　　　{v:0013}...Keys... keys... number... few...",
    "term": "end"
   },
   {
    "id": "scen084.0091",
    "jp": "　{n}　　　　　　{v:0014}‥部屋‥部屋‥数‥多い‥",
-   "en": "{v:0014}...Rooms... rooms... number... many...",
+   "en": "　{n}　　　　　　{v:0014}...Rooms... rooms... number... many...",
    "term": "end"
   },
   {
    "id": "scen084.0092",
    "jp": "　{n}　　　　　　{v:0015}‥鍵‥鍵‥使う‥減る‥",
-   "en": "{v:0015}...Keys... keys... use... fewer...",
+   "en": "　{n}　　　　　　{v:0015}...Keys... keys... use... fewer...",
    "term": "end"
   },
   {
    "id": "scen084.0093",
    "jp": "　{n}　　　　　　{v:0016}‥部屋‥部屋‥仕掛け‥楽‥",
-   "en": "{v:0016}...Rooms... rooms... mechanisms... easier...",
+   "en": "　{n}　　　　　　{v:0016}...Rooms... rooms... mechanisms... easier...",
    "term": "end"
   },
   {
@@ -602,13 +602,13 @@
   {
    "id": "scen084.0098",
    "jp": "　{n}　　　　　　　鍵を持っていない！",
-   "en": "You have no keys!",
+   "en": "　{n}　　　　　　　You have no keys!",
    "term": "end"
   },
   {
    "id": "scen084.0099",
    "jp": "　{n}　　　　　　　　鍵が足りない！",
-   "en": "You don't have enough keys!",
+   "en": "　{n}　　　　　　　　You don't have enough keys!",
    "term": "end"
   },
   {
@@ -620,7 +620,7 @@
   {
    "id": "scen084.0101",
    "jp": "　{n}　　　　　『{FFEF}エストック{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Estoc{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Estoc{FFF1}'!",
    "term": "end"
   },
   {

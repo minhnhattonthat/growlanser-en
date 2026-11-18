@@ -241,19 +241,19 @@
   {
    "id": "scen003.0038",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
+   "en": "　{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
    "term": "end"
   },
   {
    "id": "scen003.0039",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "Bargains galore! Coco's Item Shop",
+   "en": "　　Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen003.0040",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore! Nook Shop",
+   "en": "　　Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -467,7 +467,7 @@
   {
    "id": "scen003.0075",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "South Avenue Shopping District: Open for Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
    "term": "end"
   },
   {
@@ -597,7 +597,7 @@
   {
    "id": "scen003.0096",
    "jp": "　　遊びすぎに注意しましょう！{n}　　～ローランディア子供会～",
-   "en": "Remember, don't spend all your time playing!{n}Rolandia Children's Club",
+   "en": "　　Remember, don't spend all your time playing!{n}Rolandia Children's Club",
    "term": "end"
   },
   {
@@ -609,7 +609,7 @@
   {
    "id": "scen003.0098",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
+   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
    "term": "end"
   },
   {
@@ -1014,7 +1014,7 @@
   {
    "id": "scen003.0165",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
    "term": "end"
   },
   {
@@ -1086,7 +1086,7 @@
   {
    "id": "scen003.0177",
    "jp": "　{n}　　　　　{FFEF}サンドラが同行者になった！{FFF1}",
-   "en": "{FFEF}Sandra is now accompanying the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Sandra is now accompanying the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1200,7 +1200,7 @@
   {
    "id": "scen003.0196",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}化け物かぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥化け物でもいいから、買いに来ねぇかなぁ‥‥。",
-   "en": "{FE1E}...{FE1E}...{FE1E}...{FE1E}Monsters, huh{FE1E}...{FE1E}...{FFFB}...I'd take even a monster as a{n}customer...",
+   "en": "　{FE1E}...{FE1E}...{FE1E}...{FE1E}Monsters, huh{FE1E}...{FE1E}...{FFFB}...I'd take even a monster as a{n}customer...",
    "term": "end"
   },
   {
@@ -1248,7 +1248,7 @@
   {
    "id": "scen003.0204",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
+   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {
@@ -1266,7 +1266,7 @@
   {
    "id": "scen003.0207",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
+   "en": "　　　Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
    "term": "end"
   },
   {

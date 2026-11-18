@@ -2152,7 +2152,7 @@
   {
    "id": "scen018.0327",
    "jp": "ティピ５　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "Tippi 5, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{FC05}{FA01}",
+   "en": "Tippi 5, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
    "term": "end"
   },
   {
@@ -2164,7 +2164,7 @@
   {
    "id": "scen018.0329",
    "jp": "ティピ６　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "Tippi 6, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{FC05}{FA01}",
+   "en": "Tippi 6, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
    "term": "end"
   },
   {
@@ -2176,7 +2176,7 @@
   {
    "id": "scen018.0331",
    "jp": "ティピ７　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "Tippi 7, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{FC05}{FA01}",
+   "en": "Tippi 7, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
    "term": "end"
   },
   {
@@ -2188,7 +2188,7 @@
   {
    "id": "scen018.0333",
    "jp": "{FB00}{FFFA}{FFEC}　　　超{FFED}",
-   "en": "{FB00}{FFFA}{FFEC}Super{FFED}",
+   "en": "{FB00}{FFFA}{FFEC}　　　Super{FFED}",
    "term": "end"
   },
   {
@@ -2200,13 +2200,13 @@
   {
    "id": "scen018.0335",
    "jp": "{FB00}{FFFA}{FFEC}　　　乱{FFED}",
-   "en": "{FB00}{FFFA}{FFEC}Flurry{FFED}",
+   "en": "{FB00}{FFFA}{FFEC}　　　Flurry{FFED}",
    "term": "end"
   },
   {
    "id": "scen018.0336",
    "jp": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　舞{FFED}",
-   "en": "{FB00}{FFFA}{FC00}{FB00}{FFEC}Dance{FFED}",
+   "en": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　Dance{FFED}",
    "term": "end"
   },
   {

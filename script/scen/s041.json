@@ -111,7 +111,7 @@
   {
    "id": "scen041.0017",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル{s:00BA}会～",
-   "en": "{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BA} Association--",
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BA} Association--",
    "term": "end"
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "scen041.0055",
    "jp": "　　　　　　{FFEC}闘技場入り口{FFED}{n}　　　　　～{FFEE}このまま右へお進み下さい{FFF1}～",
-   "en": "{FFEC}Arena Entrance{FFED}{n}{FFEE}Please continue to the right{FFF1}",
+   "en": "　　　　　　{FFEC}Arena Entrance{FFED}{n}{FFEE}Please continue to the right{FFF1}",
    "term": "end"
   },
   {
@@ -886,7 +886,7 @@
   {
    "id": "scen041.0143",
    "jp": "　{n}　　{s:0001}は『{FFEF}プロミス[028B][028C][028D][028E]{FFF1}』を貰った！",
-   "en": "{s:0001} received a '{FFEF}Promise[028B][028C][028D][028E]{FFF1}'!",
+   "en": "　{n}　　{s:0001} received a '{FFEF}Promise[028B][028C][028D][028E]{FFF1}'!",
    "term": "end"
   },
   {
@@ -1526,7 +1526,7 @@
   {
    "id": "scen041.0248",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the challenge{n}yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the challenge{n}yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
    "term": "end"
   },
   {
@@ -1768,7 +1768,7 @@
   {
    "id": "scen041.0288",
    "jp": "　{n}　　　　　　　{FFEF}ヘアブラシ{FFF1}がある。",
-   "en": "There is a {FFEF}Hairbrush{FFF1} here.",
+   "en": "　{n}　　　　　　　There is a {FFEF}Hairbrush{FFF1} here.",
    "term": "end"
   },
   {
@@ -1786,7 +1786,7 @@
   {
    "id": "scen041.0291",
    "jp": "　{n}　　　　『{FFEF}{s:0007}の髪の毛{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}{s:0007}'s Hair{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}{s:0007}'s Hair{FFF1}'!",
    "term": "end"
   },
   {
@@ -1886,7 +1886,7 @@
   {
    "id": "scen041.0307",
    "jp": "　{n}　　　　　　{FFEF}{s:0005}が仲間になった！{FFF1}",
-   "en": "{FFEF}{s:0005} joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}{s:0005} joined the party!{FFF1}",
    "term": "end"
   },
   {

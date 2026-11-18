@@ -63,7 +63,7 @@
   {
    "id": "scen103.0009",
    "jp": "　{n}　　{FFEF}オスカー・リーヴスが同行者になった！{FFF1}",
-   "en": "{FFEF}Oscar Reeves is now accompanying you!{FFF1}",
+   "en": "　{n}　　{FFEF}Oscar Reeves is now accompanying you!{FFF1}",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen103.0011",
    "jp": "　{n}　　　　　{FFEF}バーンシュタイン王都入り口{FFF1}",
-   "en": "{FFEF}Burnstein Royal Capital Entrance{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Burnstein Royal Capital Entrance{FFF1}",
    "term": "end"
   },
   {
@@ -119,7 +119,7 @@
   {
    "id": "scen103.0018",
    "jp": "　{n}　　　　　{FFEF}エリオットが仲間に入った！{FFF1}",
-   "en": "{FFEF}Elliot joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Elliot joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -335,7 +335,7 @@
   {
    "id": "scen103.0054",
    "jp": "　{n}　　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "{FFEF}Xenos joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Xenos joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -467,19 +467,19 @@
   {
    "id": "scen103.0076",
    "jp": "　{n}　　　　　　{FFEE}これより先、クレイン村{FFF1}",
-   "en": "{FFEE}Crane Village Ahead{FFF1}",
+   "en": "　{n}　　　　　　{FFEE}Crane Village Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen103.0077",
    "jp": "　北　　：　クレイン村{n}　北東　：　バーンシュタイン王都方面{n}　東　　：　王国直轄地",
-   "en": "North: Crane Village{n}Northeast: Toward Burnstein Royal Capital{n}East: Crown Lands",
+   "en": "　North: Crane Village{n}Northeast: Toward Burnstein Royal Capital{n}East: Crown Lands",
    "term": "end"
   },
   {
    "id": "scen103.0078",
    "jp": "　　　　　　{n}　　　　　　{FFF0}これより先、王国直轄地{FFF1}",
-   "en": "{FFF0}Crown Lands Ahead{FFF1}",
+   "en": "　　　　　　{n}　　　　　　{FFF0}Crown Lands Ahead{FFF1}",
    "term": "end"
   },
   {

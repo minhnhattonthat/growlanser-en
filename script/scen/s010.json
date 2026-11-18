@@ -343,13 +343,13 @@
   {
    "id": "scen010.0055",
    "jp": "　翌日　",
-   "en": "The next day",
+   "en": "　The next day　",
    "term": "end"
   },
   {
    "id": "scen010.0056",
    "jp": "　{n}　　　扉には鍵がかかっていた！",
-   "en": "The door was locked!",
+   "en": "　{n}　　　The door was locked!",
    "term": "end"
   },
   {
@@ -1458,7 +1458,7 @@
   {
    "id": "scen010.0234",
    "jp": "　{n}　　　　　こちらからは開けない‥‥。",
-   "en": "It won't open from this side...",
+   "en": "　{n}　　　　　It won't open from this side...",
    "term": "end"
   },
   {

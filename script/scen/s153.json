@@ -285,7 +285,7 @@
   {
    "id": "scen153.0046",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {

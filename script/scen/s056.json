@@ -832,7 +832,7 @@
   {
    "id": "scen056.0134",
    "jp": "　{n}　　『{FFEF}ダグラス卿からの手紙{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Letter from Lord Douglas{FFF1}'!",
+   "en": "　{n}　　Received '{FFEF}Letter from Lord Douglas{FFF1}'!",
    "term": "end"
   },
   {
@@ -844,7 +844,7 @@
   {
    "id": "scen056.0136",
    "jp": "　{n}　　『{FFEF}ダグラス卿管轄区通行証{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Lord Douglas's District Pass{FFF1}'!",
+   "en": "　{n}　　Received '{FFEF}Lord Douglas's District Pass{FFF1}'!",
    "term": "end"
   },
   {
@@ -924,7 +924,7 @@
   {
    "id": "scen056.0149",
    "jp": "　{n}　　　　『{FFEF}[02A4]もう１通の手紙{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}[02A4]Another Letter{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}[02A4]Another Letter{FFF1}'!",
    "term": "end"
   },
   {

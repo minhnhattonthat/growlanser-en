@@ -177,7 +177,7 @@
   {
    "id": "scen007.0028",
    "jp": "　{n}　　あっ‥‥。",
-   "en": "Oh...",
+   "en": "　{n}　　Oh...",
    "term": "end"
   },
   {
@@ -1004,7 +1004,7 @@
   {
    "id": "scen007.0163",
    "jp": "　{n}　　　　『{FFEF}行商用通行手形{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Merchant's Travel Pass{FFF1}'!",
+   "en": "　{n}　　　　Obtained the '{FFEF}Merchant's Travel Pass{FFF1}'!",
    "term": "end"
   },
   {
@@ -1016,7 +1016,7 @@
   {
    "id": "scen007.0165",
    "jp": "　{n}　　　　こちらからは開けられない‥‥。",
-   "en": "It won't open from this side...",
+   "en": "　{n}　　　　It won't open from this side...",
    "term": "end"
   },
   {

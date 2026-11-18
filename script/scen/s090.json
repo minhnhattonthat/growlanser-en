@@ -228,7 +228,7 @@
   {
    "id": "scen090.0036",
    "jp": "　{n}　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "{FFEF}Julian is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Julian is now accompanying you!{FFF1}",
    "term": "end"
   },
   {
@@ -464,7 +464,7 @@
   {
    "id": "scen090.0075",
    "jp": "　{n}　　　　　　３００エルムを手に入れた！",
-   "en": "Obtained 300 Elm!",
+   "en": "　{n}　　　　　　Obtained 300 Elm!",
    "term": "end"
   },
   {
@@ -518,7 +518,7 @@
   {
    "id": "scen090.0084",
    "jp": "{n}　　　　『{FFEF}毛皮のコート{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Fur Coat{FFF1}'!",
+   "en": "{n}　　　　Obtained a '{FFEF}Fur Coat{FFF1}'!",
    "term": "end"
   },
   {
@@ -530,7 +530,7 @@
   {
    "id": "scen090.0086",
    "jp": "{n}　　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！　　　　　　",
-   "en": "Obtained a '{FFEF}healing potion{FFF1}'!",
+   "en": "{n}　　　　　　Obtained a '{FFEF}healing potion{FFF1}'!　　　　　　",
    "term": "end"
   },
   {
@@ -713,7 +713,7 @@
   {
    "id": "scen090.0116",
    "jp": "{n}　　　　　　　{FFF0}この先、ブローニュ村{FFF1}",
-   "en": "{FFF0}Boulogne Village Ahead{FFF1}",
+   "en": "{n}　　　　　　　{FFF0}Boulogne Village Ahead{FFF1}",
    "term": "end"
   }
  ]

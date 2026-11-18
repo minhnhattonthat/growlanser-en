@@ -385,7 +385,7 @@
   {
    "id": "scen020.0062",
    "jp": "　　　　{FFEE}{v:00D8}聞こえるか、愚かな人間ども！{FFF1}",
-   "en": "{FFEE}{v:00D8}Can you hear me, foolish humans?!{FFF1}",
+   "en": "　　　　{FFEE}{v:00D8}Can you hear me, foolish humans?!{FFF1}",
    "term": "end"
   },
   {
@@ -1071,7 +1071,7 @@
   {
    "id": "scen020.0175",
    "jp": "{FFEE}{v:00E2}　　　　お祭り騒ぎとは、いいご身分だな。{n}　　　　だがいかに努力しようとも、{n}　　　　この私に対抗することなどできぬ！{p}{v:00E3}　　　　私はいかなる時でも、{n}　　　　望む場所へ瞬時に行けるのだからな！{p}‥‥{v:00E4}ふむ。{n}まずは見せしめに、お前たちのサル知恵の粋を集めた、{n}魔法学院でも破壊してやろうか！{p}{v:00E5}　　時刻は‥‥そう、明日の正午だ。{n}　　最後の夜を、恐怖を抱いてすごすがよい！{FFF1}",
-   "en": "{FFEE}{v:00E2}How carefree you are, making merry. But no matter{n}how hard you try, you cannot stand against me!{p}{v:00E3}I can travel anywhere I desire in an instant, whenever{n}I please!{p}...{v:00E4}Hmm. Perhaps I shall begin by making an example of{n}your Magic Academy, destroying that pinnacle of your{n}simian ingenuity!{p}{v:00E5}The hour shall be... yes, noon tomorrow. Spend your{n}final night trembling in terror!{FFF1}",
+   "en": "{FFEE}{v:00E2}　　　　How carefree you are, making merry. But no{n}matter{n}how hard you try, you cannot stand against me!{p}{v:00E3}I can travel anywhere I desire in an instant, whenever{n}I please!{p}...{v:00E4}Hmm. Perhaps I shall begin by making an example of{n}your Magic Academy, destroying that pinnacle of your{n}simian ingenuity!{p}{v:00E5}The hour shall be... yes, noon tomorrow. Spend your{n}final night trembling in terror!{FFF1}",
    "term": "end"
   },
   {

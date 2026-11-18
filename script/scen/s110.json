@@ -489,7 +489,7 @@
   {
    "id": "scen110.0080",
    "jp": "　{n}　　　　　　『{FFEF}旅行券{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Travel Voucher{FFF1}'!",
+   "en": "　{n}　　　　　　Received '{FFEF}Travel Voucher{FFF1}'!",
    "term": "end"
   },
   {

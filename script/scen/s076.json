@@ -297,7 +297,7 @@
   {
    "id": "scen076.0048",
    "jp": "　{n}　　　　『{FFEF}浄化のリボン{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Purifying Ribbon{FFF1}'!",
+   "en": "　{n}　　　　Obtained a '{FFEF}Purifying Ribbon{FFF1}'!",
    "term": "end"
   },
   {
@@ -315,7 +315,7 @@
   {
    "id": "scen076.0051",
    "jp": "　{n}　　　　『{FFEF}ハイドロゲン{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Hydrogen{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Hydrogen{FFF1}'!",
    "term": "end"
   },
   {
@@ -363,19 +363,19 @@
   {
    "id": "scen076.0059",
    "jp": "　{n}　　　　　『{FFEF}再生制御キー{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Regeneration Key{FFF1}'!",
+   "en": "　{n}　　　　　Obtained the '{FFEF}Regeneration Key{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen076.0060",
    "jp": "　{n}　　　　　　　　{FFEF}中央装置{FFF1}－{FFEE}稼働中{FFF1}",
-   "en": "{FFEF}Central Unit{FFF1} -- {FFEE}Active{FFF1}",
+   "en": "　{n}　　　　　　　　{FFEF}Central Unit{FFF1} -- {FFEE}Active{FFF1}",
    "term": "end"
   },
   {
    "id": "scen076.0061",
    "jp": "　{n}　　　　　　　　{FFEF}中央装置{FFF1}－{FFF0}未稼働{FFF1}",
-   "en": "{FFEF}Central Unit{FFF1} -- {FFF0}Inactive{FFF1}",
+   "en": "　{n}　　　　　　　　{FFEF}Central Unit{FFF1} -- {FFF0}Inactive{FFF1}",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen076.0064",
    "jp": "　{n}　　　魔水晶のかけらを装置にセットした！",
-   "en": "Placed the magic crystal fragment in the device!",
+   "en": "　{n}　　　Placed the magic crystal fragment in the device!",
    "term": "end"
   },
   {
@@ -561,7 +561,7 @@
   {
    "id": "scen076.0092",
    "jp": "　{n}　　　　『{FFEF}グリトニル{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Glitnir{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Glitnir{FFF1}'!",
    "term": "end"
   },
   {

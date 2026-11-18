@@ -15,7 +15,7 @@
   {
    "id": "scen118.0001",
    "jp": "　{n}　　　　１２５００エルムを手に入れた！",
-   "en": "Obtained 12500 Elm!",
+   "en": "　{n}　　　　Obtained 12500 Elm!",
    "term": "end"
   }
  ]

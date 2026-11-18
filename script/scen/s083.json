@@ -105,7 +105,7 @@
   {
    "id": "scen083.0016",
    "jp": "　{n}　　　『{FFEF}ティピの可能性５{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Tippi's Potential 5{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 5{FFF1}'!",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen083.0042",
    "jp": "　{n}　　　　『{FFEF}形見のナイフ{FFF1}』を受け取った！　　　",
-   "en": "Received '{FFEF}Keepsake Knife{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Keepsake Knife{FFF1}'!　　　",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen083.0050",
    "jp": "　　　{FFF0}危険！{n}　　　　　　崖や滝には近づかないように！{FFF1}",
-   "en": "{FFF0}Danger! Stay away from cliffs and waterfalls!{FFF1}",
+   "en": "　　　{FFF0}Danger! Stay away from cliffs and waterfalls!{FFF1}",
    "term": "end"
   },
   {

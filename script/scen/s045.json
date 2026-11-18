@@ -111,7 +111,7 @@
   {
    "id": "scen045.0017",
    "jp": "　{n}　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "{FFEF}Julian is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Julian is now accompanying you!{FFF1}",
    "term": "end"
   },
   {

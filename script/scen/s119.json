@@ -45,7 +45,7 @@
   {
    "id": "scen119.0006",
    "jp": "　{n}このエレベータは、まだ動いていないようだ‥‥。",
-   "en": "This elevator does not seem to be working yet...",
+   "en": "　{n}This elevator does not seem to be working yet...",
    "term": "end"
   },
   {
@@ -104,7 +104,7 @@
   {
    "id": "scen119.0015",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが同行者になった！{FFF1}",
-   "en": "{FFEF}Misha is now your companion!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha is now your companion!{FFF1}",
    "term": "end"
   },
   {
@@ -116,7 +116,7 @@
   {
    "id": "scen119.0017",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -146,13 +146,13 @@
   {
    "id": "scen119.0022",
    "jp": "　{n}　　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "{FFEF}Ariost is now your companion!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost is now your companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen119.0023",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -176,13 +176,13 @@
   {
    "id": "scen119.0027",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "{FFEF}Julian is now your companion!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Julian is now your companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen119.0028",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "{FFEF}Julian joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -206,13 +206,13 @@
   {
    "id": "scen119.0032",
    "jp": "　{n}　　　　{FFEF}エリオットが同行者になった！{FFF1}",
-   "en": "{FFEF}Elliot is now your companion!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Elliot is now your companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen119.0033",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "{FFEF}Elliot joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -256,13 +256,13 @@
   {
    "id": "scen119.0040",
    "jp": "　{n}　　　　　{FFEF}ゼノスが同行者になった！{FFF1}",
-   "en": "{FFEF}Xenos is now your companion!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Xenos is now your companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen119.0041",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "{FFEF}Xenos joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -312,13 +312,13 @@
   {
    "id": "scen119.0049",
    "jp": "　{n}　　　　　{FFEF}カレンが同行者になった！{FFF1}",
-   "en": "{FFEF}Karen is now your companion!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Karen is now your companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen119.0050",
    "jp": "　{n}　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "{FFEF}Karen joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Karen joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -384,7 +384,7 @@
   {
    "id": "scen119.0061",
    "jp": "　{n}　　　『{FFEF}ヴィーザルブーツ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Vidar Boots{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Vidar Boots{FFF1}'!",
    "term": "end"
   },
   {
@@ -402,7 +402,7 @@
   {
    "id": "scen119.0064",
    "jp": "　{n}　　　　『{FFEF}白銀のティアラ{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Silver Tiara{FFF1}'!",
+   "en": "　{n}　　　　Obtained a '{FFEF}Silver Tiara{FFF1}'!",
    "term": "end"
   },
   {
@@ -426,7 +426,7 @@
   {
    "id": "scen119.0068",
    "jp": "　{n}　　　　『{FFEF}ヘルブリンディ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Helblindi{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Helblindi{FFF1}'!",
    "term": "end"
   },
   {
@@ -438,7 +438,7 @@
   {
    "id": "scen119.0070",
    "jp": "　{n}　　　　『{FFEF}ランドグリーズ{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Randgriz{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Randgriz{FFF1}'!",
    "term": "end"
   },
   {
@@ -450,7 +450,7 @@
   {
    "id": "scen119.0072",
    "jp": "　{n}　　　　　３１０００エルムを手に入れた！",
-   "en": "Obtained 31000 Elm!",
+   "en": "　{n}　　　　　Obtained 31000 Elm!",
    "term": "end"
   },
   {
@@ -540,7 +540,7 @@
   {
    "id": "scen119.0087",
    "jp": "{FFEE}{v:0069}　　　　おまえも裏切るか、リシャールよ。{FFF1}",
-   "en": "{FFEE}{v:0069}So you would betray me too, Richard?{FFF1}",
+   "en": "{FFEE}{v:0069}　　　　So you would betray me too, Richard?{FFF1}",
    "term": "end"
   },
   {
@@ -558,7 +558,7 @@
   {
    "id": "scen119.0090",
    "jp": "{FFEE}{v:006C}　　　　命を助けてやった恩を忘れたか？{FFF1}",
-   "en": "{FFEE}{v:006C}Have you forgotten that you owe me your life?{FFF1}",
+   "en": "{FFEE}{v:006C}　　　　Have you forgotten that you owe me your{n}life?{FFF1}",
    "term": "end"
   },
   {
@@ -570,7 +570,7 @@
   {
    "id": "scen119.0092",
    "jp": "{FFEE}{v:006E}　　　　勇ましいことだな。{FFF9}{FFFB}{n}{v:006F}　　　　だが裏切り者を生かしておくほど、{n}　　　　私は寛容ではない。{FFF9}{FFFB}{n}{v:0070}　　　　死ぬがいい！{FFF1}",
-   "en": "{FFEE}{v:006E}How valiant.{FFF9}{FFFB}{v:006F}But I am not so merciful as to let a traitor{n}live.{FFF9}{FFFB}{v:0070}Die!{FFF1}",
+   "en": "{FFEE}{v:006E}　　　　How valiant.{FFF9}{FFFB}{v:006F}But I am not so merciful as to let{n}a traitor{n}live.{FFF9}{FFFB}{v:0070}Die!{FFF1}",
    "term": "end"
   },
   {

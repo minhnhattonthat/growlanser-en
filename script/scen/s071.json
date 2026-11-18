@@ -105,7 +105,7 @@
   {
    "id": "scen071.0016",
    "jp": "　{n}　　　　　　４５０エルムを手に入れた！",
-   "en": "Received 450 Elm!",
+   "en": "　{n}　　　　　　Received 450 Elm!",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen071.0018",
    "jp": "　{n}　　　　『{FFEF}ブロードソード{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Broadsword{FFF1}'!",
+   "en": "　{n}　　　　Obtained a '{FFEF}Broadsword{FFF1}'!",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen071.0034",
    "jp": "　{n}　　　　　　１７５エルムを手に入れた！",
-   "en": "Received 175 Elm!",
+   "en": "　{n}　　　　　　Received 175 Elm!",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen071.0036",
    "jp": "　{n}　　　　　『{FFEF}秘伝の傷薬{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Secret Salve{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}Secret Salve{FFF1}'!",
    "term": "end"
   },
   {
@@ -513,7 +513,7 @@
   {
    "id": "scen071.0084",
    "jp": "　{n}　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "{FFEF}Ariost is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Ariost is now accompanying you!{FFF1}",
    "term": "end"
   },
   {

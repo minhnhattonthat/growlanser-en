@@ -338,7 +338,7 @@
   {
    "id": "scen040.0054",
    "jp": "　{n}　　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "{FFEF}Karen joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Karen joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -428,13 +428,13 @@
   {
    "id": "scen040.0069",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {
    "id": "scen040.0070",
    "jp": "{n}　　　　　　　鍵がかかっている。{p}　　　　　　　　　　　　　　　　　{n}　　　　　が、中から声が聞こえる。",
-   "en": "It's locked.{p}But you can hear voices inside.",
+   "en": "{n}　　　　　　　It's locked.{p}But you can hear voices inside.",
    "term": "end"
   },
   {

@@ -392,7 +392,7 @@
   {
    "id": "scen068.0063",
    "jp": "　{n}　　　『{FFEF}シエラの指輪{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Sierra's Ring{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Sierra's Ring{FFF1}'!",
    "term": "end"
   },
   {
@@ -731,7 +731,7 @@
   {
    "id": "scen068.0119",
    "jp": "　{n}　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}healing potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}healing potion{FFF1}'!",
    "term": "end"
   }
  ]

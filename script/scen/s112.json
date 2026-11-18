@@ -350,19 +350,19 @@
   {
    "id": "scen112.0055",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
+   "en": "　{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
    "term": "end"
   },
   {
    "id": "scen112.0056",
    "jp": "　　準備中！{n}　　　アイテムショップ・ココ",
-   "en": "Not open yet!{n}Coco's Item Shop",
+   "en": "　　Not open yet!{n}Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen112.0057",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore! Nook Shop",
+   "en": "　　Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -641,7 +641,7 @@
   {
    "id": "scen112.0102",
    "jp": "　{n}　『{FFEF}グラディウス{FFF1}』と『{FFEF}クロース{FFF1}』を{n}　受け取った！",
-   "en": "Received a '{FFEF}Gladius{FFF1}' and '{FFEF}Cloth{FFF1}'!",
+   "en": "　{n}　Received a '{FFEF}Gladius{FFF1}' and '{FFEF}Cloth{FFF1}'!",
    "term": "end"
   },
   {
@@ -737,7 +737,7 @@
   {
    "id": "scen112.0118",
    "jp": "　{n}　　『グラディウス』と『クロース』を手渡した！",
-   "en": "Handed over the 'Gladius' and 'Cloth'!",
+   "en": "　{n}　　Handed over the 'Gladius' and 'Cloth'!",
    "term": "end"
   },
   {
@@ -749,7 +749,7 @@
   {
    "id": "scen112.0120",
    "jp": "　{n}　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}healing potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}healing potion{FFF1}'!",
    "term": "end"
   },
   {
@@ -821,7 +821,7 @@
   {
    "id": "scen112.0132",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
+   "en": "　　　Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen112.0136",
    "jp": "　{n}　　　　　南大通り商店街、改装中！！",
-   "en": "South Avenue Shopping District Under Renovation!!",
+   "en": "　{n}　　　　　South Avenue Shopping District Under{n}Renovation!!",
    "term": "end"
   },
   {
@@ -1554,7 +1554,7 @@
   {
    "id": "scen112.0250",
    "jp": "　{n}　　　『{FFEF}ダンディーブック{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Dandy Book{FFF1}'!",
+   "en": "　{n}　　　Obtained the '{FFEF}Dandy Book{FFF1}'!",
    "term": "end"
   },
   {

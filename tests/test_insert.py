@@ -41,7 +41,8 @@ class English(unittest.TestCase):
     def setUpClass(cls):
         import insert
         cls.insert = insert
-        cls.out = insert.patched("en")
+        cls.log = []
+        cls.out = insert.patched("en", log=cls.log)
         gen = (ROOT / "work" / "asm" / "gen.inc").read_text(encoding="utf-8")
         cls.gen = {k: int(v, 16) for k, v in (line.split(" equ ") for line in gen.splitlines())}
 
@@ -54,8 +55,49 @@ class English(unittest.TestCase):
                 lo, _, hi = rng.partition("-")
                 allowed.setdefault(name, []).append(range(int(lo, 16), int(hi or lo, 16) + 1))
         for name in (self.insert.EXE, "MSYS.DAT"):
-            errs, _ = romdiff.check((extract.TREE / name).read_bytes(), self.out[name], allowed[name], [])
+            writes = [(o, a, b, w) for f, o, a, b, w in self.log if f == name]
+            self.assertGreater(len(writes), 1, name)
+            errs, _ = romdiff.check((extract.TREE / name).read_bytes(), self.out[name], allowed[name], writes)
             self.assertEqual(errs, [], name)
+
+    def test_hook_sites(self):
+        """No code branches into the middle of a vwf.asm hook span; the scan sees one planted on purpose."""
+        exe = bytearray((extract.TREE / self.insert.EXE).read_bytes())
+        self.assertEqual(self.insert.hook_branches(exe), [])
+        struct.pack_into("<I", exe, 0x900, 0x08000000 | (0x8006F3AC & 0x3FFFFFF) >> 2)  # j into vwf_std's span
+        self.assertEqual(self.insert.hook_branches(exe), [(0x900 + self.insert.RAM, 0x8006F3AC)])
+        exe = bytearray((extract.TREE / self.insert.EXE).read_bytes())
+        exe[0x8006F3A8 - self.insert.RAM] ^= 1  # another revision: the hook site no longer holds what we patch
+        with self.assertRaises(ValueError):
+            self.insert.armips(bytes(exe))
+
+    def test_scen_integrity(self):
+        """SCEN.DAT is re-laid whole: same leaves in the same order; untouched leaves byte-identical; a text leaf
+        keeps every byte before its text section (section 22, the leaf's last), the original had only zero padding
+        after that section, and the new one has only zero padding after its own. Header: only the placement table."""
+        import dat
+        old, new = (extract.TREE / "SCEN.DAT").read_bytes(), self.out["SCEN.DAT"]
+        eo, en = dat.entries(old), dat.entries(new)
+        self.assertEqual(len(eo), len(en))
+        first = min(s for s, n in eo if n)
+        table = 4 + 4 * len(eo)
+        self.assertEqual(new[:4] + new[table:first * dat.SECTOR], old[:4] + old[table:first * dat.SECTOR])
+        text = {d["entry"] for d in self.insert.docs() if d["file"] == "SCEN.DAT"}
+        changed = 0
+        for i, ((so, no), (sn, nn)) in enumerate(zip(eo, en)):
+            a, b = old[so * dat.SECTOR:(so + no) * dat.SECTOR], new[sn * dat.SECTOR:(sn + nn) * dat.SECTOR]
+            if a == b:
+                continue
+            self.assertIn(i, text, f"leaf {i} changed but holds no script text")
+            sec = struct.unpack_from("<I", a, 22 * 4)[0]
+            self.assertEqual(b[:sec], a[:sec], f"leaf {i}: bytes before the text section")
+            end_a = sec + struct.unpack_from("<I", a, sec)[0]
+            end_b = sec + struct.unpack_from("<I", b, sec)[0]
+            self.assertFalse(a[end_a:].strip(b"\0"), f"leaf {i}: original data after its text section")
+            self.assertFalse(b[end_b:].strip(b"\0"), f"leaf {i}: data after the new text section")
+            changed += 1
+        self.assertGreater(changed, 200)
+        self.assertEqual(new[max(s + n for s, n in en) * dat.SECTOR:].strip(b"\0"), b"")  # nothing past the leaves
 
     def expand(self, words):
         exe, g, out = self.out[self.insert.EXE], self.gen, []

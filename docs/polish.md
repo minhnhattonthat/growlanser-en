@@ -2,6 +2,9 @@
 
 Minor review findings, one per line; tick each `[x]` (fixed or `waived: reason`) before release.
 
+- [ ] phase 7 review Minor 1: ~640 multi-line pages end on a line under 6 characters (msys.items.0049 "life.", msys.items.0106 "like.", scen000.0010 "away?"): balance the wrapper (batches.wrap) and add the stub-final-line lint, with narrow exemptions for deliberate short beats
+- [ ] D12: growth-graph legend exe.sys.0103 ("HP", "MP", "Intellect", "Move") and exe.units.0062 "Vice Headmaster's Aide" were fitted to lower bounds: restore fuller labels if the phase 8 shots show more room
+
 - [ ] b001 exe.help.0033 - 「修得ポイントが３ポイント必要」 means “requires 3 learning points” - “costs learning points: 3 points” is awkward and repetitive - suggested EN: For example, learning '{FFEF}Cure{FFF1}' requires {FFF0}3{FFF1} {FFEE}learning points{FFF1}.
 - [ ] b005 exe.names.0049 - 「副学院長秘書」 means “secretary to the vice headmaster” - Missing possessive makes the title awkward and inconsistent with “Headmaster's Secretary” - Vice Headmaster's Secretary
 - [ ] b007 exe.sys.0188 - 「少し男前になった！！」 means “became a little more handsome” - The missing subject makes the English notification awkward and weakens the playful payoff - You've become a little more handsome!!

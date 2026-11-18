@@ -81,7 +81,7 @@
   {
    "id": "scen042.0012",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル子供会～",
-   "en": "{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1} Grancil Children's Club",
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1} Grancil Children's Club",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen042.0022",
    "jp": "　　　　　　{FFEC}闘技場入り口{FFED}{n}　　　　　～{FFEE}このまま右へお進み下さい{FFF1}～",
-   "en": "{FFEC}Arena Entrance{FFED} {FFEE}Please continue to the right{FFF1}",
+   "en": "　　　　　　{FFEC}Arena Entrance{FFED} {FFEE}Please continue to the{n}right{FFF1}",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen042.0171",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here. Then King '{FFEF}Granbas{FFF1}', famed as a{n}legendary martial artist, united this region and founded{p}a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year. Today, it is one of the continent's most{p}famous international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here. Then King '{FFEF}Granbas{FFF1}', famed as a{n}legendary martial artist, united this region and founded{p}a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year. Today, it is one of the continent's most{p}famous international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
    "term": "end"
   },
   {
@@ -1231,7 +1231,7 @@
   {
    "id": "scen042.0198",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "{FFEF}Xenos joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
    "term": "end"
   },
   {

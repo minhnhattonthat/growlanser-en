@@ -285,7 +285,7 @@
   {
    "id": "scen078.0046",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Secret Manual{FFF1}'!",
+   "en": "　{n}　　　　　　Received a '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen078.0048",
    "jp": "　{n}　　　　『{FFEF}生命のリンゴ{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Life Apple{FFF1}'!",
+   "en": "　{n}　　　　Received a '{FFEF}Life Apple{FFF1}'!",
    "term": "end"
   },
   {
@@ -351,13 +351,13 @@
   {
    "id": "scen078.0057",
    "jp": "　{n}　　　　　　『{FFEF}ネクタル{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Nectar{FFF1}'!",
+   "en": "　{n}　　　　　　Received '{FFEF}Nectar{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen078.0058",
    "jp": "　{n}　　　　　９５０エルムを手に入れた！",
-   "en": "Received 950 Elm!",
+   "en": "　{n}　　　　　Received 950 Elm!",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen078.0060",
    "jp": "　{n}　　　　　『{FFEF}バフコート{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Buff Coat{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Buff Coat{FFF1}'!",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen078.0066",
    "jp": "　{n}　　　　　『{FFEF}クリアノ草{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Kuriano Herb{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Kuriano Herb{FFF1}'!",
    "term": "end"
   },
   {

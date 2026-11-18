@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FONT = ROOT / "font" / "en12.txt"
 PAIR = 0x0800
 EXTRA = {0x01: "é", 0x02: "…", 0x03: "—", 0x04: "♪", 0x05: "♥"}  # index -> char
-LEGACY = {"・": 0x00D1}  # characters kept as game glyphs (12 px): the choice bullet
+LEGACY = {"・": 0x00D1, "　": 0x0000}  # game glyphs kept (12 px): choice bullet, full-width blank (layout)
 GH, GW = 12, 12
 
 

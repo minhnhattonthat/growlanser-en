@@ -51,7 +51,7 @@
   {
    "id": "scen060.0007",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　　It's locked!",
    "term": "end"
   },
   {
@@ -240,7 +240,7 @@
   {
    "id": "scen060.0038",
    "jp": "　{n}パーティーの間は閉じられているようだ。",
-   "en": "It seems to be closed during the party.",
+   "en": "　{n}It seems to be closed during the party.",
    "term": "end"
   },
   {
@@ -1205,7 +1205,7 @@
   {
    "id": "scen060.0198",
    "jp": "{v:0000}　　　　　　{FFEE}クックックックッ！{n}　　　　　　愚かな人間どもめ‥‥！{FFF1}",
-   "en": "{v:0000}{FFEE}Heh heh heh heh! Foolish humans...!{FFF1}",
+   "en": "{v:0000}　　　　　　{FFEE}Heh heh heh heh! Foolish humans...!{FFF1}",
    "term": "end"
   },
   {
@@ -1217,7 +1217,7 @@
   {
    "id": "scen060.0200",
    "jp": "{v:0002}　　　　　{FFEE}聞こえるか、愚かな人間ども！{FFF1}",
-   "en": "{v:0002}{FFEE}Can you hear me, foolish humans?!{FFF1}",
+   "en": "{v:0002}　　　　　{FFEE}Can you hear me, foolish humans?!{FFF1}",
    "term": "end"
   },
   {
@@ -1265,7 +1265,7 @@
   {
    "id": "scen060.0208",
    "jp": "{v:000B}{FFEE}　　　　　　我が名は{s:0022}。{n}　　　　　キング・オブ・グローシアン。{n}　　　　　お前たちの支配者たる存在だ。{FFF1}",
-   "en": "{v:000B}{FFEE}My name is {s:0022}. King of the Growsians.{n}Your rightful ruler.{FFF1}",
+   "en": "{v:000B}{FFEE}　　　　　　My name is {s:0022}. King of{n}the Growsians.{n}Your rightful ruler.{FFF1}",
    "term": "end"
   },
   {
@@ -1277,7 +1277,7 @@
   {
    "id": "scen060.0210",
    "jp": "{v:000D}{FFEE}　　　{s:0116}を倒して浮かれているようだが、{n}　　　我が能力をあの程度と一緒にするなよ。{n}　　　いわば、あれは旧型なのだからな！{FFF1}",
-   "en": "{v:000D}{FFEE}You seem quite elated at having defeated{n}{s:0116}, but do not mistake that paltry{n}strength for the measure of my power. That was{p}merely an obsolete model, so to speak!{FFF1}",
+   "en": "{v:000D}{FFEE}　　　You seem quite elated at having defeated{n}{s:0116}, but do not mistake that paltry{n}strength for the measure of my power. That was{p}merely an obsolete model, so to speak!{FFF1}",
    "term": "end"
   },
   {
@@ -1349,7 +1349,7 @@
   {
    "id": "scen060.0222",
    "jp": "　{n}　　{FFF0}一緒に戦うメンバーを選んで下さい。{FFF1}",
-   "en": "{FFF0}Choose who will fight alongside you.{FFF1}",
+   "en": "　{n}　　{FFF0}Choose who will fight alongside you.{FFF1}",
    "term": "end"
   },
   {

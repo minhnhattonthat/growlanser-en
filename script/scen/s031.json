@@ -186,7 +186,7 @@
   {
    "id": "scen031.0028",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -937,7 +937,7 @@
   {
    "id": "scen031.0145",
    "jp": "　　　　　『{FFEF}透明化薬{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Invisibility Potion{FFF1}'!",
+   "en": "　　　　　Obtained '{FFEF}Invisibility Potion{FFF1}'!",
    "term": "end"
   },
   {

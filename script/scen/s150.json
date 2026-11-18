@@ -51,7 +51,7 @@
   {
    "id": "scen150.0007",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen150.0019",
    "jp": "休暇{FFEB}",
-   "en": "Vacation {FFEB}",
+   "en": "Vacation{FFEB}",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen150.0034",
    "jp": "{n}　　　　　　　　　　準備中",
-   "en": "Not open yet",
+   "en": "{n}　　　　　　　　　　Not open yet",
    "term": "end"
   },
   {

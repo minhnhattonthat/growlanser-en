@@ -492,7 +492,7 @@
   {
    "id": "scen009.0080",
    "jp": "　{n}　『{FFEF}ランザック国王への書簡{FFF1}』を受け取った！",
-   "en": "Received the '{FFEF}Letter to the King of Ranzak{FFF1}'!",
+   "en": "　{n}　Received the '{FFEF}Letter to the King of Ranzak{FFF1}'!",
    "term": "end"
   },
   {
@@ -548,7 +548,7 @@
   {
    "id": "scen009.0089",
    "jp": "　{n}　　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "{FFEF}Elliot joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Elliot joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -626,7 +626,7 @@
   {
    "id": "scen009.0102",
    "jp": "　{n}　　　　『{FFEF}マジックジャマー{FFF1}』を返した！",
-   "en": "Returned the '{FFEF}Magic Jammer{FFF1}'!",
+   "en": "　{n}　　　　Returned the '{FFEF}Magic Jammer{FFF1}'!",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen009.0146",
    "jp": "　{n}　　　　　こちらからは開けない‥‥。",
-   "en": "It won't open from this side...",
+   "en": "　{n}　　　　　It won't open from this side...",
    "term": "end"
   },
   {

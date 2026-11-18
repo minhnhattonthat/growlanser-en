@@ -131,7 +131,7 @@
   {
    "id": "scen062.0020",
    "jp": "　{n}　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "{FFEF}Julian joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Julian joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -281,7 +281,7 @@
   {
    "id": "scen062.0045",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "{FFEF}Elliot joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -347,7 +347,7 @@
   {
    "id": "scen062.0056",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　　It's locked!",
    "term": "end"
   },
   {

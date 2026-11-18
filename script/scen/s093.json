@@ -45,7 +45,7 @@
   {
    "id": "scen093.0006",
    "jp": "　　　　{FFF0}熱烈歓迎{FFF1}{n}グランシル市　　観光協会",
-   "en": "{FFF0}A Warm Welcome!{FFF1} Grancil City Tourism Association",
+   "en": "　　　　{FFF0}A Warm Welcome!{FFF1} Grancil City Tourism{n}Association",
    "term": "end"
   },
   {
@@ -465,7 +465,7 @@
   {
    "id": "scen093.0075",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -495,7 +495,7 @@
   {
    "id": "scen093.0080",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -519,7 +519,7 @@
   {
    "id": "scen093.0084",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "{FFEF}Julian joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -543,7 +543,7 @@
   {
    "id": "scen093.0088",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "{FFEF}Elliot joined the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -587,7 +587,7 @@
   {
    "id": "scen093.0095",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "{FFEF}Xenos joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -637,7 +637,7 @@
   {
    "id": "scen093.0103",
    "jp": "　{n}　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "{FFEF}Karen joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Karen joined the party!{FFF1}",
    "term": "end"
   },
   {

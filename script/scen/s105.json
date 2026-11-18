@@ -33,7 +33,7 @@
   {
    "id": "scen105.0004",
    "jp": "　西　　：　ガラシールズ{n}　東　　：　ランザック王都",
-   "en": "West: Galashiels{n}East: Ranzak Royal Capital",
+   "en": "　West: Galashiels{n}East: Ranzak Royal Capital",
    "term": "end"
   },
   {
@@ -63,7 +63,7 @@
   {
    "id": "scen105.0009",
    "jp": "　{n}　　　　　　この先、ランザック王都",
-   "en": "Ranzak Royal Capital ahead",
+   "en": "　{n}　　　　　　Ranzak Royal Capital ahead",
    "term": "end"
   },
   {

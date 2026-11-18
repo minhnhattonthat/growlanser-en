@@ -777,7 +777,7 @@
   {
    "id": "scen072.0127",
    "jp": "　{n}　　　『{FFEF}援軍要請の書簡{FFF1}』を受け取った！",
-   "en": "Received the '{FFEF}Reinforcement Request Letter{FFF1}'!",
+   "en": "　{n}　　　Received the '{FFEF}Reinforcement Request Letter{FFF1}'!",
    "term": "end"
   },
   {

@@ -603,7 +603,7 @@
   {
    "id": "scen026.0099",
    "jp": "{v:0006}{FFEE}　貴様ら、今度は何をした！{n}　それともまだパワーストーンを持っていたのか！？{FFF1}",
-   "en": "{v:0006}{FFEE}What have you wretches done this time?! Or did you{n}still have a Power Stone?!{FFF1}",
+   "en": "{v:0006}{FFEE}　What have you wretches done this time?! Or did you{n}still have a Power Stone?!{FFF1}",
    "term": "end"
   },
   {
@@ -615,7 +615,7 @@
   {
    "id": "scen026.0101",
    "jp": "{FFEE}{v:0008}　　だが私のテレポート能力を奪ったからといって{n}　　いい気になるなよ！{n}　　こちらにはグローシアンの兵器があるのだ！{FFF1}",
-   "en": "{FFEE}{v:0008}But do not grow arrogant simply because you have{n}robbed me of my power to teleport! I still have a{n}Growsian weapon!{FFF1}",
+   "en": "{FFEE}{v:0008}　　But do not grow arrogant simply because you have{n}robbed me of my power to teleport! I still have a{n}Growsian weapon!{FFF1}",
    "term": "end"
   },
   {
@@ -965,7 +965,7 @@
   {
    "id": "scen026.0159",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "{FFEF}Julian joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen026.0175",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1093,7 +1093,7 @@
   {
    "id": "scen026.0180",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {

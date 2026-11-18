@@ -135,7 +135,7 @@
   {
    "id": "scen156.0021",
    "jp": "　{n}　　　　　『{FFEF}シビレ玉{FFF1}』を受け取った！",
-   "en": "Received a '{FFEF}Paralysis Orb{FFF1}'!",
+   "en": "　{n}　　　　　Received a '{FFEF}Paralysis Orb{FFF1}'!",
    "term": "end"
   },
   {

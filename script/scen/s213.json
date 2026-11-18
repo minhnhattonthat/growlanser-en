@@ -49,7 +49,7 @@
   {
    "id": "scen213.0006",
    "jp": "　{n}　　　　　　　　鍵が足りない！",
-   "en": "Not enough keys!",
+   "en": "　{n}　　　　　　　　Not enough keys!",
    "term": "end"
   },
   {

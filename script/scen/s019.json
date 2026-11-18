@@ -255,7 +255,7 @@
   {
    "id": "scen019.0041",
    "jp": "　{n}　　　　　『{FFEF}[02A4]実習終了証明{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}[02A4]Training Diploma{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}[02A4]Training Diploma{FFF1}'!",
    "term": "end"
   },
   {
@@ -684,7 +684,7 @@
   {
    "id": "scen019.0111",
    "jp": "　{n}　　　　　『{FFEF}魔水晶のかけら{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Magic Crystal Chip{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Magic Crystal Chip{FFF1}'!",
    "term": "end"
   },
   {
@@ -1227,7 +1227,7 @@
   {
    "id": "scen019.0201",
    "jp": "　{n}　　　『{FFEF}マジックジャマー{FFF1}』を受け取った！",
-   "en": "Received a '{FFEF}Magic Jammer{FFF1}'!",
+   "en": "　{n}　　　Received a '{FFEF}Magic Jammer{FFF1}'!",
    "term": "end"
   },
   {

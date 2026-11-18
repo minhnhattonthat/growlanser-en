@@ -21,7 +21,7 @@
   {
    "id": "scen132.0002",
    "jp": "　{n}　　　　　　　中は空っぽだった！",
-   "en": "It was empty inside!",
+   "en": "　{n}　　　　　　　It was empty inside!",
    "term": "end"
   },
   {
@@ -33,7 +33,7 @@
   {
    "id": "scen132.0004",
    "jp": "　　　　　　　お宝、ゲットだぜ！",
-   "en": "Got the treasure!",
+   "en": "　　　　　　　Got the treasure!",
    "term": "end"
   }
  ]

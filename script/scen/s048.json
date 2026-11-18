@@ -391,13 +391,13 @@
   {
    "id": "scen048.0063",
    "jp": "　{n}{FFEF}{s:0000}は弓が扱えるようになった！{FFF1}",
-   "en": "{FFEF}{s:0000} can now use bows!{FFF1}",
+   "en": "　{n}{FFEF}{s:0000} can now use bows!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen048.0064",
    "jp": "　{n}{FFEF}{s:0000}は槍が扱えるようになった！{FFF1}",
-   "en": "{FFEF}{s:0000} can now use spears!{FFF1}",
+   "en": "　{n}{FFEF}{s:0000} can now use spears!{FFF1}",
    "term": "end"
   },
   {

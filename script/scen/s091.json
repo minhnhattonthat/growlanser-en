@@ -93,7 +93,7 @@
   {
    "id": "scen091.0014",
    "jp": "　{n}　　　{FFF0}ブローニュ村入り口{FFF1}",
-   "en": "{FFF0}Boulogne Village Entrance{FFF1}",
+   "en": "　{n}　　　{FFF0}Boulogne Village Entrance{FFF1}",
    "term": "end"
   },
   {
@@ -105,13 +105,13 @@
   {
    "id": "scen091.0016",
    "jp": "　{FFF0}この先、グランシル{FFF1}{n}　　　　熱烈歓迎{n}グランシル市　　観光協会",
-   "en": "{FFF0}Grancil Ahead{FFF1}{n}A Warm Welcome Awaits!{n}Grancil City Tourism Association",
+   "en": "　{FFF0}Grancil Ahead{FFF1}{n}A Warm Welcome Awaits!{n}Grancil City Tourism Association",
    "term": "end"
   },
   {
    "id": "scen091.0017",
    "jp": "　{n}　　　　　　　ここより北、魔法学院",
-   "en": "Magic Academy to the North",
+   "en": "　{n}　　　　　　　Magic Academy to the North",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen091.0025",
    "jp": "　{n}　　　　　　この先、コムスプリングス",
-   "en": "Comsprings Ahead",
+   "en": "　{n}　　　　　　Comsprings Ahead",
    "term": "end"
   },
   {

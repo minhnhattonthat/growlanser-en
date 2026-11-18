@@ -531,13 +531,13 @@
   {
    "id": "scen052.0085",
    "jp": "　{n}『{FFEF}ゲヴェルへの注意を促す書簡{FFF1}』を門番に渡した。",
-   "en": "Handed the '{FFEF}Letter Warning of Gevel{FFF1}' to the{n}gatekeeper.",
+   "en": "　{n}Handed the '{FFEF}Letter Warning of Gevel{FFF1}' to the{n}gatekeeper.",
    "term": "end"
   },
   {
    "id": "scen052.0086",
    "jp": "　{n}　　　『{FFEF}同盟要請の書簡{FFF1}』を門番に渡した。",
-   "en": "Handed the '{FFEF}Letter Requesting an Alliance{FFF1}' to the{n}gatekeeper.",
+   "en": "　{n}　　　Handed the '{FFEF}Letter Requesting an Alliance{FFF1}' to the{n}gatekeeper.",
    "term": "end"
   },
   {

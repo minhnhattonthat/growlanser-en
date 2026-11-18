@@ -261,7 +261,7 @@
   {
    "id": "scen077.0042",
    "jp": "　{n}　　　　『{FFEF}[02A4]もう１通の手紙{FFF1}』を渡した！",
-   "en": "Handed over '{FFEF}[02A4]Another Letter{FFF1}'!",
+   "en": "　{n}　　　　Handed over '{FFEF}[02A4]Another Letter{FFF1}'!",
    "term": "end"
   },
   {
@@ -714,7 +714,7 @@
   {
    "id": "scen077.0116",
    "jp": "　{n}　　　『{FFEF}ダグラス卿からの手紙{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Letter from Lord Douglas{FFF1}'!",
+   "en": "　{n}　　　Handed over the '{FFEF}Letter from Lord Douglas{FFF1}'!",
    "term": "end"
   },
   {
@@ -879,13 +879,13 @@
   {
    "id": "scen077.0143",
    "jp": "　{n}　　　　『{FFEF}連続斬奥義の書{FFF1}』を手に入れた！",
-   "en": "Received the '{FFEF}Chain Slash Tome{FFF1}'!",
+   "en": "　{n}　　　　Received the '{FFEF}Chain Slash Tome{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen077.0144",
    "jp": "　{n}　　　　からっぽ‥‥",
-   "en": "Empty...",
+   "en": "　{n}　　　　Empty...",
    "term": "end"
   },
   {
@@ -897,7 +897,7 @@
   {
    "id": "scen077.0146",
    "jp": "　{n}　　　　『{FFEF}知恵のリンゴ{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Wisdom Apple{FFF1}'!",
+   "en": "　{n}　　　　Received a '{FFEF}Wisdom Apple{FFF1}'!",
    "term": "end"
   },
   {
@@ -909,7 +909,7 @@
   {
    "id": "scen077.0148",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Secret Manual{FFF1}'!",
+   "en": "　{n}　　　　　　Received a '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen077.0152",
    "jp": "　{n}　　　　　『{FFEF}賢者の石{FFF1}』を手に入れた！",
-   "en": "Received a '{FFEF}Sage's Stone{FFF1}'!",
+   "en": "　{n}　　　　　Received a '{FFEF}Sage's Stone{FFF1}'!",
    "term": "end"
   },
   {
@@ -945,7 +945,7 @@
   {
    "id": "scen077.0154",
    "jp": "　{n}　　　　『{FFEF}ラウリンの指輪{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Laurin's Ring{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Laurin's Ring{FFF1}'!",
    "term": "end"
   },
   {
@@ -1077,7 +1077,7 @@
   {
    "id": "scen077.0176",
    "jp": "　{n}　　　　ティピが勝手に充填機を操作した！",
-   "en": "Tippi operated the charging device on her own!",
+   "en": "　{n}　　　　Tippi operated the charging device on her{n}own!",
    "term": "end"
   },
   {

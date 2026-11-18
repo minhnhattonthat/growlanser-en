@@ -303,7 +303,7 @@
   {
    "id": "scen117.0049",
    "jp": "　{n}　　　　　　『{FFEF}匂い袋{FFF1}』が出てきた！",
-   "en": "A '{FFEF}Scent Pouch{FFF1}' came out!",
+   "en": "　{n}　　　　　　A '{FFEF}Scent Pouch{FFF1}' came out!",
    "term": "end"
   },
   {
@@ -524,7 +524,7 @@
   {
    "id": "scen117.0085",
    "jp": "　{n}　　　　　『{FFEF}秘石制御装置{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Gem Control Unit{FFF1}'!",
+   "en": "　{n}　　　　　Obtained the '{FFEF}Gem Control Unit{FFF1}'!",
    "term": "end"
   },
   {

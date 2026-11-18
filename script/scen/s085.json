@@ -15,13 +15,13 @@
   {
    "id": "scen085.0001",
    "jp": "　{n}　　　　　　　　　一方通行のようだ。",
-   "en": "It seems to be one-way.",
+   "en": "　{n}　　　　　　　　　It seems to be one-way.",
    "term": "end"
   },
   {
    "id": "scen085.0002",
    "jp": "　{n}　　　　　　　　　動いていない。",
-   "en": "It isn't moving.",
+   "en": "　{n}　　　　　　　　　It isn't moving.",
    "term": "end"
   },
   {
@@ -39,7 +39,7 @@
   {
    "id": "scen085.0005",
    "jp": "　{n}　　　　　『{FFEF}賢者の石{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Sage's Stone{FFF1}'!",
+   "en": "　{n}　　　　　Obtained a '{FFEF}Sage's Stone{FFF1}'!",
    "term": "end"
   },
   {
@@ -57,19 +57,19 @@
   {
    "id": "scen085.0008",
    "jp": "　{n}　　　『{FFEF}魔力増幅奥義の書{FFF1}』を手に入れた！",
-   "en": "Obtained a '{FFEF}Magic Boost Tome{FFF1}'!",
+   "en": "　{n}　　　Obtained a '{FFEF}Magic Boost Tome{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen085.0009",
    "jp": "　{n}　　　　　　　お宝、ゲットだぜ！",
-   "en": "All right, got the treasure!",
+   "en": "　{n}　　　　　　　All right, got the treasure!",
    "term": "end"
   },
   {
    "id": "scen085.0010",
    "jp": "　{n}　　　どこかで、何かが動く音がした‥‥。",
-   "en": "Something could be heard moving somewhere...",
+   "en": "　{n}　　　Something could be heard moving somewhere...",
    "term": "end"
   }
  ]

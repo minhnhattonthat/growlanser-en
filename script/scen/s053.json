@@ -243,7 +243,7 @@
   {
    "id": "scen053.0039",
    "jp": "　{n}　　『{FFEF}ランザック国王からの書簡{FFF1}』を受け取った！",
-   "en": "Received the '{FFEF}Letter from the King of Ranzak{FFF1}'!",
+   "en": "　{n}　　Received the '{FFEF}Letter from the King of Ranzak{FFF1}'!",
    "term": "end"
   },
   {
@@ -873,7 +873,7 @@
   {
    "id": "scen053.0144",
    "jp": "　{n}　　ヴェンツェルから『{FFEF}[02A4]王母へ{FFF1}』を受け取った！",
-   "en": "Received '{FFEF}[02A4]To Angela{FFF1}' from Wenzel!",
+   "en": "　{n}　　Received '{FFEF}[02A4]To Angela{FFF1}' from Wenzel!",
    "term": "end"
   },
   {

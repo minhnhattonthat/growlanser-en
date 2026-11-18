@@ -93,7 +93,7 @@
   {
    "id": "scen228.0014",
    "jp": "　{n}　　　　　遠距離放送装置を作動させた！",
-   "en": "Activated the long-range broadcast device!",
+   "en": "　{n}　　　　　Activated the long-range broadcast device!",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen228.0031",
    "jp": "　{n}　　　　　精製装置が作動した！",
-   "en": "The refining device has been activated!",
+   "en": "　{n}　　　　　The refining device has been activated!",
    "term": "end"
   },
   {
@@ -219,13 +219,13 @@
   {
    "id": "scen228.0035",
    "jp": "{FFEF}　【ブラッドレー学院長】{n}{v:0034}　自分たちの中にある魔力を高めるのだ！{FFF1}",
-   "en": "{FFEF}[Headmaster Bradley] {v:0034}Increase the magical power{n}within yourselves!{FFF1}",
+   "en": "{FFEF}　[Headmaster Bradley] {v:0034}Increase the magical power{n}within yourselves!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen228.0036",
    "jp": "{FFF0}　　　　　　　　　　　　　　【女子生徒】{n}{v:0035}　　　　　　　　　　　　　　　みんなで戦うのよ！{FFF1}",
-   "en": "{FFF0}[Female Student] {v:0035}We'll all fight together!{FFF1}",
+   "en": "{FFF0}　　　　　　　　　　　　　　[Female Student] {v:0035}We'll{n}all fight together!{FFF1}",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen228.0038",
    "jp": "{FFEF}　　　　【闘技大会参加者】{n}{v:0037}　　　　　俺たちの力が必要なら、全部持っていけ！{FFF1}",
-   "en": "{FFEF}[Tournament Entrant] {v:0037}If you need our strength, take{n}every last bit!{FFF1}",
+   "en": "{FFEF}　　　　[Tournament Entrant] {v:0037}If you need our{n}strength, take{n}every last bit!{FFF1}",
    "term": "end"
   },
   {
@@ -249,7 +249,7 @@
   {
    "id": "scen228.0040",
    "jp": "{FFF0}　　　　　【兵士たち】{n}{v:0033}　　　　　　{FFEC}おおーーーっ！{FFED}{FFF1}",
-   "en": "{FFF0}[Soldiers] {v:0033}{FFEC}Yeeeaah!{FFED}{FFF1}",
+   "en": "{FFF0}　　　　　[Soldiers] {v:0033}{FFEC}Yeeeaah!{FFED}{FFF1}",
    "term": "end"
   },
   {

@@ -183,7 +183,7 @@
   {
    "id": "scen100.0029",
    "jp": "　{n}　　　『{FFEF}{s:000B}の可能性６{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}{s:000B}'s Potential 6{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}{s:000B}'s Potential 6{FFF1}'!",
    "term": "end"
   },
   {
@@ -1444,7 +1444,7 @@
   {
    "id": "scen100.0238",
    "jp": "　{n}　　　　　驚いていただけました？",
-   "en": "Did I give you a surprise?",
+   "en": "　{n}　　　　　Did I give you a surprise?",
    "term": "end"
   },
   {

@@ -105,6 +105,7 @@ alternatives); an Avoid spelling fails.
 | 宮廷魔術師 | Court Magician | | | |
 | 送魔線 | mana line | | lines that carry magic power between towns; 送魔線技師 "mana line engineer" | |
 | 闘技大会 | tournament | | | |
+| 全周囲攻撃 | Whirlwind Attack | | skill: strikes every adjacent enemy (fits the 96 px skill list) | All-Around Attack |
 | 傭兵 | mercenary | | | |
 | エルム | Elm | | currency ("75 Elm") | |
 

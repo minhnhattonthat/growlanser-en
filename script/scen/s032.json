@@ -192,7 +192,7 @@
   {
    "id": "scen032.0029",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -1396,7 +1396,7 @@
   {
    "id": "scen032.0217",
    "jp": "　{n}　『{FFEF}聖なる土{FFF1}』と『{FFEF}カレンの髪の毛{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Holy Soil{FFF1}' and '{FFEF}Karen's Hair{FFF1}'!",
+   "en": "　{n}　Handed over the '{FFEF}Holy Soil{FFF1}' and '{FFEF}Karen's Hair{FFF1}'!",
    "term": "end"
   },
   {

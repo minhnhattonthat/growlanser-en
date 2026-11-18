@@ -979,7 +979,7 @@
   {
    "id": "scen059.0161",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　　It's locked!",
    "term": "end"
   },
   {
@@ -1009,7 +1009,7 @@
   {
    "id": "scen059.0166",
    "jp": "　{n}　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　It's locked!",
    "term": "end"
   },
   {

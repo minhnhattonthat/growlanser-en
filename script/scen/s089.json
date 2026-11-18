@@ -93,13 +93,13 @@
   {
    "id": "scen089.0014",
    "jp": "　{n}　　　　　{FFEF}エリオットが同行者になった！{FFF1}",
-   "en": "{FFEF}Elliot is now accompanying the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Elliot is now accompanying the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen089.0015",
    "jp": "{n}　　　　　　　　{FFF0}この先、デリス村{FFF1}",
-   "en": "{FFF0}Delis Village ahead{FFF1}",
+   "en": "{n}　　　　　　　　{FFF0}Delis Village ahead{FFF1}",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen089.0019",
    "jp": "　{n}　　拾った剣を見せた！",
-   "en": "Showed the sword you found!",
+   "en": "　{n}　　Showed the sword you found!",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen089.0027",
    "jp": "　{n}　　拾った剣を手渡した！",
-   "en": "Handed over the sword you found!",
+   "en": "　{n}　　Handed over the sword you found!",
    "term": "end"
   },
   {

@@ -9,6 +9,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   by code count (choice boxes, menus, battle messages, shop/inn): symptom = text cut at a column edge while the
   script line is longer; fix like the tags (zero-width 0x0800 padding) or the pre-parser (docs/re/text.md);
   (2) wait codes mid-line resume at the column, not the pixel; (3) width rows still guesses in docs/windows.md.
+- **Phase 7 review fixes (2026-11-19, H:\translation\.harness\reviews\growlanser-en-phase7.md, all 5 Important):**
+  (1) fit gate: test_fit fails on warnings too; unreachable fields use the JP-max lower bound (docs/windows.md),
+  skills measured (status Circle page, work/qa/p8m/gs_ci), places popup width 12 + code-count frame from the
+  disassembly (exe.places in insert.TAG_POOLS); 7 strings rephrased (D12). (2) test_insert
+  English.test_scen_integrity: every SCEN leaf identical except text leaves, whose bytes before section 22 match.
+  (3) write provenance: insert.patched(log=) records every EXE/MSYS write (heap ranges as construction writes)
+  and test_romdiff passes them to romdiff; armips asserts insert.HOOKS original bytes and may write only there and
+  in FREE_START-FREE_END; insert.hook_branches (test_hook_sites) finds no branch into a hook span. (4) batches
+  check fails on missing English (one keep-list: insert.KEEP_JP / needs_english; the inserter raises too).
+  (5) edge blanks restored in 576 entries (D13; full-width blank = game glyph 0x0000), checked by problems().
+  Minor (short final lines) left for phase 9 polish.
 - **Phase 7 (done 2026-11-19):** English build green: 68/68 warps land (work/qa/p7warp, sheets read), smoke ok,
   check.py green (romdiff vs `tools/allowed.txt`, fit lint, every pool read back). Pieces (docs/re/text.md):
   - RAM limits: scene slot 0x7000 (`insert.SCENE_SLOT`), MSYS buffer 0x80141778 20 KB then the heap (base kept:

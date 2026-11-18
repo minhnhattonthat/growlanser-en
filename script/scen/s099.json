@@ -45,7 +45,7 @@
   {
    "id": "scen099.0006",
    "jp": "　{n}　　　　　　　　　{FFEE}北：オリビエ湖{FFF1}",
-   "en": "{FFEE}North: Lake Olivier{FFF1}",
+   "en": "　{n}　　　　　　　　　{FFEE}North: Lake Olivier{FFF1}",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen099.0046",
    "jp": "　　　　　{FFEF}シュッツベルグ{FFF1}　東{FFEE}{n}　　　{FFF1}西　{FFEF}オリビエ湖方面{FFF1}",
-   "en": "{FFEF}Schutzberg{FFF1} - East{FFEE}{n}{FFF1}West - {FFEF}Toward Lake Olivier{FFF1}",
+   "en": "　　　　　{FFEF}Schutzberg{FFF1} - East{FFEE}{n}{FFF1}West - {FFEF}Toward Lake Olivier{FFF1}",
    "term": "end"
   },
   {
@@ -624,7 +624,7 @@
   {
    "id": "scen099.0102",
    "jp": "　{n}　　　　　『{FFEF}聖なる土{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Holy Soil{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Holy Soil{FFF1}'!",
    "term": "end"
   }
  ]

@@ -43,8 +43,16 @@ MSYS_BUF, HEAP_BASE = 0x80141778, 0x80146778
 HEAP_MAX = 0x80149778
 # Unpacked strings go to MSYS_NSLOT slots at the top of the load buffer, above the (shrunk) subfiles.
 MSYS_NSLOT = 16
-TAG_POOLS = ("scen.name", "exe.names")  # fit.BUDGETS rows sized by code count (docs/windows.md "Name tag")
+# fit.BUDGETS rows whose frame is sized by code count (docs/windows.md "Name tag"; place popup: 12 px x codes at
+# 0x8006BC94)
+TAG_POOLS = ("scen.name", "exe.names", "exe.places")
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
+
+
+def needs_english(entry):
+    """Nonempty JP with no English and no exemption: KEEP_JP, or exe.dict (unused: English spells words out)."""
+    return (bool(entry.get("jp")) and not entry.get("en") and entry["id"] not in KEEP_JP
+            and not entry["id"].startswith("exe.dict"))
 FILLER = "The quick brown fox jumps over the lazy dog. "
 TEXT_RUN = re.compile(r"(\{\w+(?::[0-9A-Fa-f]{4})?\}|\[[0-9A-Fa-f]{4}\])")
 
@@ -86,6 +94,8 @@ class Encoder:
         if self.mode == "marker":
             return self.en.encode(marker(e))
         if not e.get("en"):
+            if self.mode == "en" and needs_english(e):
+                raise ValueError(f"{e['id']}: no English (translate it, or add it to insert.KEEP_JP)")
             return self.jp.encode(e["jp"])
         w = self.en.encode(e["en"])
         if fit.budget(e["id"], e)[0] in TAG_POOLS:
@@ -177,18 +187,63 @@ class Heap:
                 return s
         raise ValueError("EXE string heap full (%d bytes for base 0x%X)" % (len(blob), base))
 
-    def write(self, data, strings):
+    def write(self, data, strings, log=None):
+        """Clear every heap range and fill it; logged as one construction write per range."""
+        new = bytearray(data)
         for s, e in self.ranges:
-            data[s:e] = bytes(e - s)
+            new[s:e] = bytes(e - s)
         for addr, blob in strings:
-            data[addr:addr + len(blob)] = blob
+            if not any(s <= addr and addr + len(blob) <= e for s, e in self.ranges):
+                raise ValueError("heap string at 0x%X outside the heap ranges" % addr)
+            new[addr:addr + len(blob)] = blob
+        for s, e in self.ranges:
+            log_put(log, EXE, data, s, new[s:e], "heap 0x%X" % s)
 
 
 RAM = 0x8000F800  # EXE file offset -> RAM address
+# asm/vwf.asm fixed sites: RAM address -> the original bytes its .org overwrites (pinned from the rom.sha1 EXE).
+# armips() asserts them before assembling and lets armips change bytes only here and in [FREE_START, FREE_END).
+HOOKS = {
+    0x800C1AA8: "1480023c78674224", 0x800C1AD8: "1480023c78674224", 0x800C2D58: "1480023c78674224",  # heap base
+    0x8006F3A8: "78c4010c0100d62659a7010c", 0x8006F49C: "94c5010c", 0x8006F4A4: "59a7010c",  # glyph routines
+    0x8006F4AC: "0200d626", 0x80065444: "60000316", 0x800658F0: "56000316",  # s6 step, typewriters
+    0x8006496C: "f093010801003126", 0x80064AB4: "f093010802003126",  # pre-parser column step
+    0x80070F18: "211062001400bf8f", 0x80070F84: "211062001400bf8f", 0x80070FF0: "211062001400bf8f",  # MSYS getters
+    0x800710F4: "211062001400bf8f", 0x80071160: "211062001400bf8f", 0x800711CC: "211062001400bf8f",
+}
+_ASM = (ROOT / "asm" / "vwf.asm").read_text(encoding="utf-8")
+FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).group(1), 16) - RAM
+                 for k in ("FREE_START", "FREE_END"))  # file offsets of vwf.asm's code + font tables
+
+
+def log_put(log, name, data, off, blob, writer):
+    """data[off:off + len(blob)] = blob, recorded as a romdiff write (file, offset, old, new, writer) in log."""
+    if log is not None:
+        old = bytes(data[off:off + len(blob)])
+        log.append((name, off, old + b"\xff" * (len(blob) - len(old)), bytes(blob), writer))
+    data[off:off + len(blob)] = blob
+
+
+def hook_branches(exe):
+    """[(source, target)]: j/jal/branches in the EXE whose target is inside a HOOKS span but not its first word
+    (the hook would cut such code in half). Scans every word from the code start (RAM 0x80010000)."""
+    spans = [(a, a + len(bytes.fromhex(h))) for a, h in HOOKS.items()]
+    out = []
+    for off in range(0x800, len(exe) - 3, 4):
+        w, pc = struct.unpack_from("<I", exe, off)[0], off + RAM
+        op = w >> 26
+        if op in (2, 3):
+            dst = (pc & 0xF0000000) | (w & 0x3FFFFFF) << 2
+        elif op in (4, 5, 6, 7) or op == 1 and (w >> 16 & 0x1F) in (0, 1, 0x10, 0x11):
+            dst = pc + 4 + (((w & 0xFFFF) ^ 0x8000) - 0x8000) * 4
+        else:
+            continue
+        out += [(pc, dst) for a, e in spans if a < dst < e and not a <= pc < e]
+    return out
 DICT_BASE = 0xE2138  # dictionary entries: u16 offsets from here (string blocks + font cells span < 64 KB)
 
 
-def exe_heap(data, items, dictionary=None, model=None):
+def exe_heap(data, items, dictionary=None, model=None, log=None):
     """items: [(doc, strings as word lists incl. terminator)] for every EXE table; then the dictionary's entries
     and offset table (dictenc), then the msyspack model. Returns (DICT_TAB, DICT_BASE, DICT_N, MSYS_MODEL) as RAM
     addresses for asm/vwf.asm."""
@@ -198,7 +253,7 @@ def exe_heap(data, items, dictionary=None, model=None):
         addr = [heap.put(gltext.pack(s), base) for s in strings]
         out += [(a, gltext.pack(s)) for a, s in zip(addr, strings)]
         vals = [(addr[i] + d - base) // 2 for i, d in extract._refs_parse(doc["refs"])]
-        data[table:table + 2 * len(vals)] = struct.pack("<%dH" % len(vals), *vals)
+        log_put(log, EXE, data, table, struct.pack("<%dH" % len(vals), *vals), doc["entries"][0]["id"][:-5] + " table")
     info = (0, 0, 0)
     if dictionary and dictionary.entries:
         blobs = dictionary.blobs()
@@ -213,7 +268,7 @@ def exe_heap(data, items, dictionary=None, model=None):
         assert at % 2 == 0
         out.append((at, blob))
         info += (at + RAM,)
-    heap.write(data, out)
+    heap.write(data, out, log)
     return info + (0,) * (4 - len(info))
 
 
@@ -230,8 +285,29 @@ GEN_DEFAULT = {"DICT_TAB": 0, "DICT_BASE": 0, "DICT_N": 0, "HEAP_BASE": HEAP_BAS
                "MSYS_NSLOT": MSYS_NSLOT, "MSYS_SCRATCH": 0}
 
 
-def armips(exe, gen=None):
-    """Assemble asm/vwf.asm into exe; gen = values for work/asm/gen.inc (GEN_DEFAULT: no dictionary, heap as is)."""
+def armips(exe, gen=None, log=None):
+    """Assemble asm/vwf.asm into exe; gen = values for work/asm/gen.inc (GEN_DEFAULT: no dictionary, heap as is).
+    Each HOOKS site must still hold its original bytes; armips may change bytes only there and in FREE_ASM."""
+    for a, h in HOOKS.items():
+        if exe[a - RAM:a - RAM + len(h) // 2].hex() != h:
+            raise ValueError("vwf.asm hook 0x%08X: EXE holds %s, not the original %s" % (a, exe[a - RAM:][:len(h) // 2].hex(), h))
+    out = _armips(exe, gen)
+    spans = [(a - RAM, a - RAM + len(h) // 2, "vwf.asm hook 0x%08X" % a) for a, h in HOOKS.items()]
+    spans.append(FREE_ASM + ("vwf.asm code + font tables",))
+    if len(out) != len(exe):
+        raise ValueError("armips changed the EXE size")
+    left = [i for i in range(len(exe)) if exe[i] != out[i]] if exe != out else []
+    buf = bytearray(exe)
+    for s, e, name in spans:
+        if exe[s:e] != out[s:e]:
+            log_put(log, EXE, buf, s, out[s:e], name)
+    stray = [i for i in left if not any(s <= i < e for s, e, _ in spans)]
+    if stray:
+        raise ValueError("armips wrote outside the hook sites and free space: 0x%X.." % (stray[0] + RAM))
+    return out
+
+
+def _armips(exe, gen=None):
     work = ROOT / "work" / "asm"
     shutil.rmtree(work, ignore_errors=True)
     work.mkdir(parents=True, exist_ok=True)
@@ -267,8 +343,10 @@ def read_qa(path):
     return out
 
 
-def patched(mode="en", tree=TREE, overrides=None):
-    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80. overrides: {id: English text} (--qa)."""
+def patched(mode="en", tree=TREE, overrides=None, log=None):
+    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80. overrides: {id: English text} (--qa).
+    log: a list that gets every EXE / MSYS write as (file, offset, old, new, writer) for romdiff --writes
+    (SCEN.DAT is re-laid whole: test_insert English.test_scen_integrity checks it leaf by leaf)."""
     enc = Encoder(mode, overrides)
     scen = (tree / "SCEN.DAT").read_bytes()
     msys = bytearray((tree / "MSYS.DAT").read_bytes())
@@ -295,11 +373,11 @@ def patched(mode="en", tree=TREE, overrides=None):
             sub[MSYS_SUB.get(doc["entries"][0]["id"].split(".")[1], 7)] += pool
         limit = HEAP_BASE - MSYS_NSLOT * slot
         gen.update(MSYS_SLOT=slot, MSYS_NSLOT=MSYS_NSLOT, MSYS_SCRATCH=limit)
-    heap = msys_text(msys, exe, sub, limit)
-    dict_info = exe_heap(exe, tables, enc.dict, model) if tables else (0, 0, 0, 0)
+    heap = msys_text(msys, exe, sub, limit, log)
+    dict_info = exe_heap(exe, tables, enc.dict, model, log) if tables else (0, 0, 0, 0)
     out = {"SCEN.DAT": scen_dat(scen, sections, strict=mode == "en" and not overrides), "MSYS.DAT": bytes(msys)}
     gen.update(zip(("DICT_TAB", "DICT_BASE", "DICT_N", "MSYS_MODEL"), dict_info), HEAP_BASE=heap)
-    out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe), gen)
+    out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe), gen, log)
     return out
 
 
@@ -316,24 +394,25 @@ def msys_pack(enc, docs_):
     return model, slot, pools
 
 
-def msys_text(msys, exe, sub, limit=HEAP_BASE):
+def msys_text(msys, exe, sub, limit=HEAP_BASE, log=None):
     """Write MSYS subfiles 6 / 7 ({index: bytes}) in place (sector count shrunk to fit, so the load leaves the
     unpack slots above `limit` alone), or at the end of msys (bytearray) when grown; return the heap base."""
     top = HEAP_BASE
     for i, blob in sub.items():
         start, count = (struct.unpack_from("<H", exe, t + 2 * i)[0] for t in (MSYS_SECTORS, MSYS_COUNTS))
         n = -(-len(blob) // dat.SECTOR)
-        if n > count:
-            msys += bytes(-len(msys) % dat.SECTOR)
-            start = len(msys) // dat.SECTOR
-            msys += bytes(n * dat.SECTOR)
-            struct.pack_into("<H", exe, MSYS_SECTORS + 2 * i, start)
-        at = start * dat.SECTOR
-        msys[at:at + count * dat.SECTOR] = bytes(count * dat.SECTOR)
-        msys[at:at + len(blob)] = blob
+        if n > count:  # grown: append (sector-aligned) at the end of the file
+            pad = -len(msys) % dat.SECTOR
+            start = (len(msys) + pad) // dat.SECTOR
+            log_put(log, EXE, exe, MSYS_SECTORS + 2 * i, struct.pack("<H", start), "MSYS sector %d" % i)
+            log_put(log, "MSYS.DAT", msys, len(msys), bytes(pad) + blob + bytes(n * dat.SECTOR - len(blob)),
+                    "MSYS subfile %d (moved)" % i)
+        else:
+            log_put(log, "MSYS.DAT", msys, start * dat.SECTOR, blob + bytes(count * dat.SECTOR - len(blob)),
+                    "MSYS subfile %d" % i)
         if limit < HEAP_BASE or n > count:
             count = n
-            struct.pack_into("<H", exe, MSYS_COUNTS + 2 * i, count)
+            log_put(log, EXE, exe, MSYS_COUNTS + 2 * i, struct.pack("<H", count), "MSYS count %d" % i)
         top = max(top, MSYS_BUF + count * dat.SECTOR)
         if MSYS_BUF + count * dat.SECTOR > limit:
             raise ValueError("MSYS subfile %d: %d sectors pass the unpack slots at 0x%X" % (i, count, limit))

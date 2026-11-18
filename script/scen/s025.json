@@ -63,7 +63,7 @@
   {
    "id": "scen025.0009",
    "jp": "　{n}　　　　{FFEF}ミーシャが無理矢理仲間になった！{FFF1}",
-   "en": "{FFEF}Misha forced her way into the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Misha forced her way into the party!{FFF1}",
    "term": "end"
   },
   {
@@ -765,7 +765,7 @@
   {
    "id": "scen025.0125",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1368,7 +1368,7 @@
   {
    "id": "scen025.0225",
    "jp": "　{n}　　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {

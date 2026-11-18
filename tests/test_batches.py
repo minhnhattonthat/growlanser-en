@@ -37,6 +37,19 @@ class Batches(unittest.TestCase):
     def test_shipped_english(self):
         self.assertEqual(batches.main(["check"]), 0)
 
+    def test_missing_english_fails(self):
+        real = batches.index
+        try:
+            gone = {"x": {"id": "scen000.0010", "jp": "ア", "term": "end", "en": ""}}
+            batches.index = lambda: gone
+            self.assertEqual(batches.main(["check"]), 1)  # nonempty JP, empty English: fails
+            kept = {"x": {"id": "exe.sys.0001", "jp": "、", "term": "end"},
+                    "y": {"id": "exe.dict.0005", "jp": "で、", "term": "end"}}
+            batches.index = lambda: kept
+            self.assertEqual(batches.main(["check"]), 0)  # KEEP_JP and the unused dictionary stay exempt
+        finally:
+            batches.index = real
+
 
 if __name__ == "__main__":
     unittest.main()

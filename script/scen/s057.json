@@ -207,7 +207,7 @@
   {
    "id": "scen057.0033",
    "jp": "{FB00}{FFFA}{FFEC}　　　超{FFED}",
-   "en": "{FB00}{FFFA}{FFEC}Super{FFED}",
+   "en": "{FB00}{FFFA}{FFEC}　　　Super{FFED}",
    "term": "end"
   },
   {
@@ -219,13 +219,13 @@
   {
    "id": "scen057.0035",
    "jp": "{FB00}{FFFA}{FFEC}　　　乱{FFED}",
-   "en": "{FB00}{FFFA}{FFEC}Wild{FFED}",
+   "en": "{FB00}{FFFA}{FFEC}　　　Wild{FFED}",
    "term": "end"
   },
   {
    "id": "scen057.0036",
    "jp": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　舞{FFED}",
-   "en": "{FB00}{FFFA}{FC00}{FB00}{FFEC}Dance!{FFED}",
+   "en": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　Dance!{FFED}",
    "term": "end"
   },
   {
@@ -816,7 +816,7 @@
   {
    "id": "scen057.0134",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "It's locked.",
+   "en": "{n}　　　　　　　It's locked.",
    "term": "end"
   },
   {
@@ -894,7 +894,7 @@
   {
    "id": "scen057.0147",
    "jp": "　{n}　　　　『{FFEF}サウンドテスト{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Sound Test{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Sound Test{FFF1}'!",
    "term": "end"
   },
   {
@@ -1088,7 +1088,7 @@
   {
    "id": "scen057.0178",
    "jp": "　{n}　　　　　　鍵がかかっている！",
-   "en": "It's locked!",
+   "en": "　{n}　　　　　　It's locked!",
    "term": "end"
   },
   {

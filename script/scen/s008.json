@@ -676,7 +676,7 @@
   {
    "id": "scen008.0110",
    "jp": "　{n}　　『{FFEF}[02A4]ランザック王からの書簡{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}[02A4]Letter from the King of Ranzak{FFF1}'!",
+   "en": "　{n}　　Handed over the '{FFEF}[02A4]Letter from the King of{n}Ranzak{FFF1}'!",
    "term": "end"
   },
   {
@@ -736,7 +736,7 @@
   {
    "id": "scen008.0120",
    "jp": "　{n}　　『{FFEF}[02A4]ランザック王への書簡{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}[02A4]Letter to the King of Ranzak{FFF1}'!",
+   "en": "　{n}　　Obtained the '{FFEF}[02A4]Letter to the King of Ranzak{FFF1}'!",
    "term": "end"
   },
   {
@@ -748,7 +748,7 @@
   {
    "id": "scen008.0122",
    "jp": "　{n}　『{FFEF}[0298]ランザック王国正規通行証{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}[0298]Official Ranzak Travel Permit{FFF1}'!",
+   "en": "　{n}　Obtained the '{FFEF}[0298]Official Ranzak Travel Permit{FFF1}'!",
    "term": "end"
   },
   {
@@ -1097,7 +1097,7 @@
   {
    "id": "scen008.0178",
    "jp": "　{n}　　　　　こちらからは開けない‥‥。",
-   "en": "It won't open from this side...",
+   "en": "　{n}　　　　　It won't open from this side...",
    "term": "end"
   },
   {

@@ -31,8 +31,8 @@ class Fit(unittest.TestCase):
     def test_script(self):
         font, codec = fit.enfont.load(), fit.enfont.EnCodec()
         bad = [(e["id"], m) for e in fit.entries([])
-               for err, m in fit.lint(e["en"], fit.budget(e["id"], e), font, codec) if err]
-        self.assertEqual(bad, [])
+               for err, m in fit.lint(e["en"], fit.budget(e["id"], e), font, codec)]
+        self.assertEqual(bad, [])  # warnings too: an unmeasured guess must still hold (fit the JP's own bound)
 
 
 if __name__ == "__main__":

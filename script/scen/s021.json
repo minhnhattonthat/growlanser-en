@@ -427,7 +427,7 @@
   {
    "id": "scen021.0069",
    "jp": "　{n}　　　　　　　　{FFEF}回復薬{FFF1}をもらった！",
-   "en": "Received a {FFEF}healing potion{FFF1}!",
+   "en": "　{n}　　　　　　　　Received a {FFEF}healing potion{FFF1}!",
    "term": "end"
   },
   {
@@ -1127,13 +1127,13 @@
   {
    "id": "scen021.0184",
    "jp": "　{n}　　　　ルイセが『{FFEF}魔法の眼{FFF1}』を渡した！",
-   "en": "Luise handed over the '{FFEF}Magic Eye{FFF1}'!",
+   "en": "　{n}　　　　Luise handed over the '{FFEF}Magic Eye{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen021.0185",
    "jp": "　{n}　　　　『{FFEF}魔法の眼{FFF1}』をウォレスに渡した！",
-   "en": "Gave Wallace the '{FFEF}Magic Eye{FFF1}'!",
+   "en": "　{n}　　　　Gave Wallace the '{FFEF}Magic Eye{FFF1}'!",
    "term": "end"
   },
   {
@@ -1235,7 +1235,7 @@
   {
    "id": "scen021.0202",
    "jp": "　{n}　　　　　　{FFEF}ウォレスが仲間になった！{FFF1}",
-   "en": "{FFEF}Wallace joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Wallace joined the party!{FFF1}",
    "term": "end"
   },
   {

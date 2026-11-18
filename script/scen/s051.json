@@ -434,7 +434,7 @@
   {
    "id": "scen051.0069",
    "jp": "　{n}　　　『{FFEF}ティピの可能性４{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Tippi's Potential 4{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 4{FFF1}'!",
    "term": "end"
   },
   {
@@ -588,7 +588,7 @@
   {
    "id": "scen051.0094",
    "jp": "　{n}　　　　　{FFEE}エリオットが仲間から外れた！{p}　{n}　　　　　エリオットの装備を回収した！{FFF1}",
-   "en": "{FFEE}Elliot left the party!{p}Retrieved Elliot's equipment!{FFF1}",
+   "en": "　{n}　　　　　{FFEE}Elliot left the party!{p}Retrieved Elliot's equipment!{FFF1}",
    "term": "end"
   },
   {

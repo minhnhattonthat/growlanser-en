@@ -1,8 +1,9 @@
 # Window data (width gate, phase 5)
 
 Budgets for the fit lint (`tools/fit.py`, `BUDGETS`; test `tests/test_fit.py`) and the translators. Measured = read
-off a zoomed shot of a ruler line (`tools/stress.py`, every ruler character 6 px); guess = not measured yet (the
-lint only warns on those; confirm in the phase 8 tour). Font: `font/en12.txt` (VWF, advance = width + 1). Screen
+off a zoomed shot of a ruler line (`tools/stress.py`, every ruler character 6 px); lower bound = the pool's longest
+JP string shows in that field, so it is at least that wide (an error row); guess = not measured yet (the lint warns,
+and test_fit fails on warnings too, so the shipped text holds every row; confirm in the phase 8 tour). Font: `font/en12.txt` (VWF, advance = width + 1). Screen
 320x240: one engine column (cell) = 12 px.
 
 **Engine rule (verified, docs/re/text.md):** the printer auto-wraps when its column s6 (= ceil(x / 12) after each
@@ -22,11 +23,12 @@ by hand with {n}). Dialogue prints a page at a time (vwf.asm skips the typewrite
 | Spell names | exe.magic | 8 cells (96 px) | 1 | measured | work/qa/g4 f6000 (gear_spell: wrap after 16 chars) |
 | Config labels | exe.sys.0121 (one label per line) | 8 cells (96 px) | 9 lines | measured | work/qa/s3/title_config, menu_config (each label wraps after 16 chars) |
 | Config values | exe.sys.0122-0133 | 8 cells (96 px) | 1 | measured | work/qa/s3/title_config (values wrap after 16 chars) |
-| Skill names | exe.skills | 8 cells (guess: same list as spells, JP max 8) | 1 | guess | - |
-| Class names | exe.classes | 11 cells (guess: JP max 11) | 1 | guess | not seen in any menu yet |
-| Unit names | exe.units | 144 px (guess: name tag) | 1 | guess | battle UI not reached (bt_* warps land before the battle starts) |
-| Place names | exe.places | 10 cells (guess: JP max 10) | 1 | guess | world map not reached |
-| Other system text | exe.sys (rest) | 24 cells (guess) | 3 | guess | battle messages, shop, inn, save screen: phase 8 tour |
+| Skill names | exe.skills | 8 cells (96 px) | 1 | measured | work/qa/p8m/gs_ci (status, Circle: skills share the spell list column, "Critical 1" under "Magic Arrow") |
+| Class names | exe.classes | 11 cells | 1 | lower bound | JP max 11 cells: the field shows the longest JP class, so it is at least that wide; not seen yet |
+| Unit names | exe.units | 144 px clip | 1 | lower bound | JP max 12 cells (144 px); battle UI not reached yet |
+| Place names | exe.places | 12 cells, frame 12 px x code count (tag_pad) | 1 | disassembly | popup at 0x8006BB78: getter 0x80070E60, frame width 12 * codes (0x8006BC94), printed by 0x800708E8(win, 12, 1); world map not reached |
+| Growth graph | exe.sys.0102 caption, exe.sys.0103 legend | caption 24 cells x 3; legend 4 cells per label, 7 lines | 3 / 7 | lower bound | JP caption line 3 = 23 cells with the heading centred by 9 blanks; JP labels max 4 cells; screen not reached |
+| Other system text | exe.sys (rest) | 24 cells (guess) | 3 | guess | every current string passes (check gates warnings too); battle messages, shop, inn, save screen: phase 8 tour |
 | Double-size text | printer path 0x80071650 | ? | ? | never seen on screen | vwf_big handles it (unicorn test only) |
 
 Notes:

@@ -337,7 +337,7 @@
   {
    "id": "scen055.0054",
    "jp": "　{n}　　『{FFEF}ヴェンツェルからの手紙{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Letter from Wenzel{FFF1}'!",
+   "en": "　{n}　　Handed over the '{FFEF}Letter from Wenzel{FFF1}'!",
    "term": "end"
   },
   {
@@ -517,7 +517,7 @@
   {
    "id": "scen055.0084",
    "jp": "　{n}　　　　{FFEF}王母アンジェラが同行者になった！{FFF1}",
-   "en": "{FFEF}Queen Mother Angela is now accompanying the party!{FFF1}",
+   "en": "　{n}　　　　{FFEF}Queen Mother Angela is now accompanying{n}the party!{FFF1}",
    "term": "end"
   },
   {

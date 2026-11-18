@@ -393,7 +393,7 @@
   {
    "id": "scen006.0064",
    "jp": "　{n}　　　　　『{FFEF}援軍要請の書簡{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Reinforcement Request Letter{FFF1}'!",
+   "en": "　{n}　　　　　Handed over the '{FFEF}Reinforcement Request{n}Letter{FFF1}'!",
    "term": "end"
   },
   {
@@ -813,7 +813,7 @@
   {
    "id": "scen006.0134",
    "jp": "　{n}　　　　　{FFEF}レティシア姫が同行者になった！{FFF1}",
-   "en": "{FFEF}Princess Leticia is now accompanying the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Princess Leticia is now accompanying the{n}party!{FFF1}",
    "term": "end"
   },
   {
@@ -984,7 +984,7 @@
   {
    "id": "scen006.0161",
    "jp": "　{n}　　　『{FFEF}鉱山内の立入検査依頼書{FFF1}』を手に入れた！{n}　　　　『{FFEF}[0298]水晶鉱山通行証{FFF1}』を手に入れた！",
-   "en": "Received '{FFEF}Search Warrant{FFF1}'!{n}Received '{FFEF}[0298]Mine Pass{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Search Warrant{FFF1}'!{n}Received '{FFEF}[0298]Mine Pass{FFF1}'!",
    "term": "end"
   },
   {
@@ -1104,7 +1104,7 @@
   {
    "id": "scen006.0181",
    "jp": "　{n}　　　　こちらからは開けられない‥‥。",
-   "en": "It won't open from this side...",
+   "en": "　{n}　　　　It won't open from this side...",
    "term": "end"
   },
   {

@@ -276,7 +276,7 @@
   {
    "id": "scen029.0044",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen029.0062",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -1330,7 +1330,7 @@
   {
    "id": "scen029.0210",
    "jp": "　{n}　　　　　　『{FFEF}クリアノ草{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Kuriano Herb{FFF1}'!",
+   "en": "　{n}　　　　　　Handed over the '{FFEF}Kuriano Herb{FFF1}'!",
    "term": "end"
   },
   {
@@ -1396,7 +1396,7 @@
   {
    "id": "scen029.0221",
    "jp": "　{n}　　　　　『{FFEF}透明化薬{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Invisibility Potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained the '{FFEF}Invisibility Potion{FFF1}'!",
    "term": "end"
   },
   {
@@ -1531,7 +1531,7 @@
   {
    "id": "scen029.0242",
    "jp": "　？",
-   "en": "?",
+   "en": "　?",
    "term": "end"
   },
   {
@@ -1561,7 +1561,7 @@
   {
    "id": "scen029.0247",
    "jp": "　{n}　　ルイセが『{FFEF}[0298]温泉通行許可証{FFF1}』を手渡した！",
-   "en": "Luise handed over the '{FFEF}[0298]Spa Pass{FFF1}'!",
+   "en": "　{n}　　Luise handed over the '{FFEF}[0298]Spa Pass{FFF1}'!",
    "term": "end"
   },
   {
@@ -1639,7 +1639,7 @@
   {
    "id": "scen029.0260",
    "jp": "　{n}　　　　　『{FFEF}[0298]温泉通行許可証{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}[0298]Spa Pass{FFF1}'!",
+   "en": "　{n}　　　　　Obtained the '{FFEF}[0298]Spa Pass{FFF1}'!",
    "term": "end"
   },
   {
@@ -1681,7 +1681,7 @@
   {
    "id": "scen029.0267",
    "jp": "　{n}　　　『{FFEF}鉱山内の立入検査依頼書{FFF1}』を渡した！",
-   "en": "Handed over the '{FFEF}Mine Search Warrant{FFF1}'!",
+   "en": "　{n}　　　Handed over the '{FFEF}Mine Search Warrant{FFF1}'!",
    "term": "end"
   },
   {
@@ -1822,7 +1822,7 @@
   {
    "id": "scen029.0290",
    "jp": "　{n}　　　　『{FFEF}メイジスタッフ{FFF1}』を受け取った！{p}しかし、これ以上持つことはできない。",
-   "en": "Received the '{FFEF}Mage Staff{FFF1}'!{p}But you cannot carry any more.",
+   "en": "　{n}　　　　Received the '{FFEF}Mage Staff{FFF1}'!{p}But you cannot carry any more.",
    "term": "end"
   },
   {
@@ -1834,13 +1834,13 @@
   {
    "id": "scen029.0292",
    "jp": "　{n}　　　　　　５００エルム受け取った！",
-   "en": "Received 500 Elm!",
+   "en": "　{n}　　　　　　Received 500 Elm!",
    "term": "end"
   },
   {
    "id": "scen029.0293",
    "jp": "　{n}　　　　『{FFEF}メイジスタッフ{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}Mage Staff{FFF1}'!",
+   "en": "　{n}　　　　Obtained the '{FFEF}Mage Staff{FFF1}'!",
    "term": "end"
   },
   {
@@ -1888,7 +1888,7 @@
   {
    "id": "scen029.0301",
    "jp": "　{n}　　　『{FFEF}[0298]水晶鉱山立入{FFF1}』を手に入れた！",
-   "en": "Obtained the '{FFEF}[0298]Mine Entry{FFF1}'!",
+   "en": "　{n}　　　Obtained the '{FFEF}[0298]Mine Entry{FFF1}'!",
    "term": "end"
   },
   {

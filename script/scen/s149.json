@@ -183,19 +183,19 @@
   {
    "id": "scen149.0029",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
+   "en": "　{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
    "term": "end"
   },
   {
    "id": "scen149.0030",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "Bargains galore! Coco's Item Shop",
+   "en": "　　Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen149.0031",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore! Nook Shop",
+   "en": "　　Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen149.0072",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "South Avenue Shopping District: Open for Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
    "term": "end"
   },
   {
@@ -605,7 +605,7 @@
   {
    "id": "scen149.0098",
    "jp": "　不審な人物を見かけたら、{n}　すぐに警備兵に！{n}　　　～　王都ローザリア警備隊長　～",
-   "en": "If you see anyone suspicious, report to a guard at{n}once! -- Captain of the Royal Capital Rosaria Guard --",
+   "en": "　If you see anyone suspicious, report to a guard at{n}once! -- Captain of the Royal Capital Rosaria Guard --",
    "term": "end"
   },
   {
@@ -617,7 +617,7 @@
   {
    "id": "scen149.0100",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
+   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen149.0138",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen149.0151",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
+   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {
@@ -945,7 +945,7 @@
   {
    "id": "scen149.0154",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　ローザリア本店",
-   "en": "Star Road Weapons and Armor{n}Rosaria Main Store",
+   "en": "　　　Star Road Weapons and Armor{n}Rosaria Main Store",
    "term": "end"
   },
   {

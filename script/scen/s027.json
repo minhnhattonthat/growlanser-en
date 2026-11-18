@@ -168,7 +168,7 @@
   {
    "id": "scen027.0025",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB} Elm.",
+   "en": "{FFEB}Elm.",
    "term": "end"
   },
   {
@@ -1724,7 +1724,7 @@
   {
    "id": "scen027.0274",
    "jp": "　{n}　　　許可証『{FFEF}[0298]南の遺跡{FFF1}』を手に入れた！",
-   "en": "Received a permit for the '{FFEF}[0298]Southern Ruins{FFF1}'!",
+   "en": "　{n}　　　Received a permit for the '{FFEF}[0298]Southern Ruins{FFF1}'!",
    "term": "end"
   },
   {

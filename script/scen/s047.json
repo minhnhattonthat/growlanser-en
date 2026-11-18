@@ -351,7 +351,7 @@
   {
    "id": "scen047.0057",
    "jp": "　{n}　　　　　　　{FFEF}牢屋の錠を外した！{FFF1}",
-   "en": "{FFEF}Unlocked the cell!{FFF1}",
+   "en": "　{n}　　　　　　　{FFEF}Unlocked the cell!{FFF1}",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen047.0072",
    "jp": "　{n}　　　　　『{FFEF}ヴィンダル{FFF1}』を手に入れた！",
-   "en": "Obtained '{FFEF}Vindar{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Vindar{FFF1}'!",
    "term": "end"
   },
   {

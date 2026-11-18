@@ -767,7 +767,7 @@
   {
    "id": "scen024.0125",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "{FFEF}Misha joined the party!{FFF1}",
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1123,7 +1123,7 @@
   {
    "id": "scen024.0184",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "{FFEF}Ariost joined the party!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -1153,7 +1153,7 @@
   {
    "id": "scen024.0189",
    "jp": "　{n}　　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "{FFEF}Ariost is now accompanying you!{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Ariost is now accompanying you!{FFF1}",
    "term": "end"
   },
   {
