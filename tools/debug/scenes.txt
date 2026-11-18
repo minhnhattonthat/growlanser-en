@@ -1,7 +1,8 @@
 # Debug warp scene list (tools/debug/warp.lua, docs/re/debug.md). One per line:
 #   name  title|scene N [area A sub S] [frames F] [then ROUTE]
-# Parked (#- lines): disc 2 story points ask for disc 2 and hang (docs/re/debug.md "Disc 2");
-# title LOAD / APPENDIX need save data on the memory card (bounce back to the title without it).
+# "disc 2": warp_all.py runs it on the disc 2 cue beside --cue, with tools/debug/disc2.lua.
+# "card": run with work/states/save1.mcd (title LOAD / APPENDIX bounce back without save data); `warp_all.py
+# card_save` writes that card (New Game save, menu_save route + OK).
 # scene N = SCEN.DAT scene id 0-279; area/sub = map (default 2/5, New Game's). frames = run length for warp_all.py
 # (default 4500). ROUTE runs after landing: "FRAMES KEYS" steps split by ";", "6 circle*20" repeats (press + 30
 # idle), "pick N" = menu cursor down N then Circle. Scene 18 is the developers' leftover check menu ("dbg" below):
@@ -11,9 +12,9 @@
 
 # front end
 title            title frames 1800
-#- title_load       title frames 3000 then 300 -;pick 1;500 -
+title_load       title card frames 3000 then 300 -;pick 0;500 -
 title_config     title frames 2800 then 300 -;pick 2;300 -
-#- title_appendix   title frames 2800 then 300 -;pick 3;400 -
+title_appendix   title card frames 3400 then 300 -;pick 2;400 -;6 circle;300 -;6 cross;200 -;6 down;6 circle;400 -
 newgame          scene 0 frames 3000 then 6 circle*20
 newgame_home     scene 0 frames 14000 then 6 circle*350
 
@@ -35,14 +36,15 @@ st_vac04         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 4;6 ci
 st_vac05         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 5;6 circle*100
 st_vac06         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 6;6 circle*100
 st_vac07         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 7;6 circle*100
-#- st_vac08         scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 8;6 circle*40;6 circle*80
-#- st_vac09         scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 9;6 circle*40;6 circle*80
-#- st_vac10         scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 10;6 circle*40;6 circle*80
-#- st_vac11         scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 11;6 circle*40;6 circle*80
-#- st_gevel         scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 12;6 circle*40;6 circle*80
-#- st_after_gevel   scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 13;6 circle*40;6 circle*80
-#- st_party_feather scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 14;pick 0;6 circle*40;6 circle*80
-#- st_party_stone   scene 18 area 2 sub 1 frames 7500 then 300 -;pick 3;pick 14;pick 1;6 circle*40;6 circle*80
+# disc 2 story points ("disc 2": run on the disc 2 cue with tools/debug/disc2.lua, no disc swap)
+st_vac08         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 8;6 circle*40;6 circle*80
+st_vac09         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 9;6 circle*40;6 circle*80
+st_vac10         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 10;6 circle*40;6 circle*80
+st_vac11         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 11;6 circle*40;6 circle*80
+st_gevel         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 12;6 circle*40;6 circle*80
+st_after_gevel   scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 13;6 circle*40;6 circle*80
+st_party_feather scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 14;pick 0;6 circle*40;6 circle*80
+st_party_stone   scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 14;pick 1;6 circle*40;6 circle*80
 
 # event quick check: dbg 7 -> list
 ev_charamake     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 0;6 circle*60
@@ -95,6 +97,7 @@ menu_3           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 ci
 menu_4           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 4;150 -
 menu_5           scene 18 area 2 sub 1 frames 6200 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 5;150 -
 menu_save        scene 18 area 2 sub 1 frames 6800 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 5;150 -;6 circle;500 -
+card_save        scene 18 area 2 sub 1 frames 8000 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 5;150 -;6 circle;500 -;6 circle;200 -;6 up;60 -;6 circle;900 -;6 circle;300 -
 menu_config      scene 18 area 2 sub 1 frames 6800 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 5;150 -;6 right;30 -;6 right;30 -;6 circle;300 -
 # Gear: check-menu item 0 (Luise learns magic + everyone gets M2 gear; then "teleport?" -> yes) fills the lists.
 gear_items       scene 18 area 2 sub 1 frames 7200 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 1;150 -

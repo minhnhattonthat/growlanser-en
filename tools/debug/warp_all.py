@@ -9,6 +9,7 @@ Exit 1 if any entry failed to land, errored or timed out.
 """
 import argparse
 import re
+import shutil
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -30,13 +31,19 @@ def scenes():
         name, rest = line.split(None, 1)
         body = rest.split(" then ", 1)[0]
         m = re.search(r"frames\s+(\d+)", body)
-        out.append((name, int(m.group(1)) if m else 4500))
+        out.append((name, int(m.group(1)) if m else 4500, 2 if re.search(r"\bdisc\s+2\b", body) else 1,
+                    bool(re.search(r"\bcard\b", body))))
     return out
 
 
-def run(cue, out, name, frames, states, probes=(), every=500, then=None):
+CARD = ROOT / "work" / "states" / "save1.mcd"  # memory card with one save: `warp_all.py card_save` writes it
+
+
+def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1, card=False):
     d = out / name
     raw = re.fullmatch(r"scene_(\d+)", name)  # --raw: a bare scene id, run on the New Game map
+    if disc == 2:  # same folder, Redump name: "... (Disc 1).cue" -> "... (Disc 2).cue"
+        cue = Path(cue).with_name(Path(cue).name.replace("(Disc 1)", "(Disc 2)"))
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(cue), "--out", str(d),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"),
            "--var", f"SCENE='scene {int(raw.group(1))}'" if raw else f"SCENE='{name}'",
@@ -45,6 +52,14 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None):
         cmd += ["--var", f"THEN='{then}'"]
     if every < 500:
         cmd.append("--sheet")  # tour mode: per-warp contact sheets for visual QA
+    if disc == 2:  # New Game on disc 2: hold the expected-disc index at disc 2 (docs/re/debug.md "Disc 2")
+        cmd += ["--script", str(ROOT / "tools" / "debug" / "disc2.lua")]
+    if card:
+        if not CARD.exists():
+            return name, False, -1, "-", f"no {CARD.name}: run warp_all.py card_save first"
+        cmd += ["--sav", str(CARD)]
+    elif name == "card_save":  # a blank formatted card in, the saved card copied out to CARD
+        cmd += ["--sav", str(ROOT / "tools" / "pcsx" / "memcard1.mcd")]
     for p in probes:
         cmd += ["--script", str(Path(p).resolve())]
     if probes:
@@ -56,6 +71,8 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None):
     landed = re.search(r"landed .* at f(\d+)", log)
     err = (d / "lua_error.txt").read_text(encoding="utf-8", errors="replace").strip() if (d / "lua_error.txt").exists() else ""
     ok = p.returncode == 0 and landed and not err and (d / "final.png").exists()
+    if name == "card_save" and ok:
+        shutil.copy(d / "memcard1.mcd", CARD)
     return name, bool(ok), p.returncode, landed.group(1) if landed else "-", err[:120]
 
 
@@ -76,14 +93,15 @@ def main():
         lo, hi = map(int, a.raw.split("-"))
         a.names = [f"scene_{i:03d}" for i in range(lo, hi + 1)]
     todo = [s for s in scenes() if not a.names or s[0] in a.names]
-    todo += [(n, a.frames) for n in a.names if n.startswith("scene_")]
+    todo += [(n, a.frames, 1, False) for n in a.names if n.startswith("scene_")]
     missing = set(a.names) - {s[0] for s in todo}
     if missing:
         sys.exit(f"not in scenes.txt: {' '.join(sorted(missing))}")
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     with ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states, a.script, a.shot_every, a.then), todo))
+        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states, a.script, a.shot_every, a.then, *s[2:]),
+                          todo))
     with open(out / "results.tsv", "w", encoding="utf-8") as f:
         f.write("name\tok\texit\tlanded_frame\terror\n")
         for r in res:

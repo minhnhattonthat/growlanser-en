@@ -6,7 +6,7 @@
 -- that code in RAM (debug only, never in a build): area/sub immediates replaced, the two zeroing stores NOPed, and
 -- the request set to the wanted scene. Then the script presses Start (logos) / Circle (title: START) for you.
 -- The scene's own script runs from its start with story flags clear (New Game state).
--- Disc 2 story points (休暇8 on) are not reachable yet: docs/re/debug.md "Disc 2".
+-- Disc 2 story points (休暇8 on): run on the disc 2 cue with tools/debug/disc2.lua (docs/re/debug.md "Disc 2").
 -- Globals: SCENE (required), THEN (extra route after landing, "60 -;6 triangle"), VOICE=1 (keep voices).
 local mem = PCSX.getMemPtr()
 local function u8(a) return mem[a % 0x200000] end

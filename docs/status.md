@@ -2,7 +2,19 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 4: G1 title + G2/G3 status icons done; next: re-tour, G5 credits).
+- **Phase:** 8. QA in the emulator, in progress (session 5: tour gate green incl. disc 2 + card warps; next: credits warp, G5).
+- **Phase 8 session 5 (2026-11-19): re-tour, disc 2 + memory card warps.**
+  - Tour 4 on build 82ef6e4c (work/qa/tourbuild now holds disc 1 and disc 2): 69 + 8 disc 2 story points + title_load /
+    title_appendix, JP baseline for all in work/qa/tour_jp. vqa (work/qa/vqa4.log, vqa5.log): all ok except
+    st_vac08/sheet_2 = popup open animation, JP the same (verdicts/recheck_3.tsv). **Gate green:** `qa_gate.py check
+    work/qa/tour/manifest.tsv work/qa/tour/verdicts` exit 0, 264 sheets, build disc 1 82ef6e4ca34b30cabb268cb723949eaf0f80bb3d.
+  - Disc 2 solved: `tools/debug/disc2.lua` (hold gp+0x724 = 1 on the disc 2 cue); scenes.txt `disc 2` keyword,
+    warp_all.py picks the disc 2 cue. All 8 parked story points unparked and landing (docs/re/debug.md "Disc 2").
+  - Memory card fixture: `warp_all.py card_save` -> work/states/save1.mcd; `card` keyword (title_load, title_appendix).
+    APPENDIX with a normal save = "AORI's APPENDIX ROOM / Now Closing" (English art already); the room (G4) needs a
+    cleared-game save.
+  - `tools/debug/where.lua`: logs scene/map changes. Credits (G5) still unreached: 祝賀会以降 = scene 93, free-roam
+    Grancil; ending follows the final tower. Leads in docs/re/debug.md "Disc 2".
 - **Phase 8 session 1 (2026-11-19):** tools + first tour.
   - Tour: `warp_all.py --cue <build cue> --out work/qa/tour --shot-every 120` (tour mode = per-warp `--sheet`):
     68/68 landed, 224 sheets in work/qa/tour/manifest.tsv (qa_gate init, --build disc 1 bin); JP baseline
@@ -86,7 +98,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     own font (check by VRAM on the credits screen). Needs a credits warp first (debug-tool gap: the check menu's
     祝賀会以降 ending flow).
 - **Phase 8 still to do (next sessions, in this order):**
-  1. Re-tour (stale after session 4), qa_gate init, vqa changed sheets.
+  1. (done session 5: tour gate green on 82ef6e4c; any build change -> re-tour into work/qa/tour from a copy in
+     work/qa/tourbuild, qa_gate init, vqa_run.py)
+  1b. Credits warp: find the staff-roll entry (reader of the EXE MAP.DAT id list near 0x80109F0A, or the ending scene
+     after the final tower; scene 93 links), then a scenes.txt entry; same for the cleared-game flag (G4 appendix room).
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
   3. Graphics text (docs/re/graphics.md): G1-G3 done. G5 credits (see session 4 note; warp first), G6 kana atlas
      (credits font? D14 keeps the name-entry keyboard kana), G4 appendix (needs a memory-card fixture for title

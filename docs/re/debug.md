@@ -48,7 +48,22 @@ Scene 13 holds a note that it is only used during vacations (休暇). Full text:
   mid-dialogue waiting for XA voice (frames stop; looked like an FMV hang at ~frame 7000 of New Game), so warp.lua
   sets that bit unless VOICE=1.
 
-## Disc 2 (open)
+## Disc 2 (solved 2026-11-19, phase 8 session 5)
+- **Fix:** boot the disc 2 cue and hold the expected-disc byte gp+0x724 (0x80114000, `lb` in the check below) at 1
+  (`tools/debug/disc2.lua`): New Game then accepts disc 2 and the late story points need no swap. scenes.txt marks
+  such entries `disc 2`; warp_all.py swaps "(Disc 1)" for "(Disc 2)" in --cue's file name. All 8 disc 2 story
+  points land on both the original and the English build.
+- `tools/debug/where.lua` logs "WHERE f scene area sub" on each change. 祝賀会以降 (pick 14) loads scene 93 (map
+  59/4: Grancil celebration, free roam: Circle alone does not advance it); scene 93 links to scene 2 / area 62.
+  The ending + staff roll (G5) is still unreached: it follows the final tower (時空制御塔). Leads: the MAP.DAT id
+  list at EXE 0x801094FC.. (u16 ids, 1256/1257 at 0x80109F0A, title 1160/1161 at 0x80109E0E) is the special-screen
+  file list; find its reader (not a plain lui/addiu of that address) to get the credits entry point.
+- Memory card: `warp_all.py card_save` saves a New Game (menu_save route + OK) to work/states/save1.mcd; entries
+  marked `card` run with it. With a save the title cursor starts on LOAD. APPENDIX then shows "GROW LANSER /
+  AORI's APPENDIX ROOM / Now Closing" (graphics, already English) and goes back: the room itself (G4) needs a
+  cleared-game save (flag unknown).
+
+Older notes:
 - Story points from 休暇8明け on (and Gevel, after, celebration) show "Please Change Disc 2" with
   "DISC 2に交換してください" (graphics + font text: add to the graphics list). Booting disc 2 shows "Please Change
   Disc 1": New Game needs disc 1, so a warp has to change discs mid-run.
