@@ -104,11 +104,47 @@
 - EXE string tables: the u16 arrays and getters stay; strings go in a heap (tools/insert.py `Heap`: the original
   string blocks plus free kanji cells 0x11C-0x69F minus the icon/button cells), anywhere within 128 KB above the
   table's base (u16 word offsets).
-- MSYS.DAT subfiles are found by a sector table at 0x8001273C (start sector per subfile, index = a0 + 6) and a
-  count table at 0x800126BC; items = subfile 6 (sectors 0x85-0x8F, loaded to 0x80117B98), magic + skills =
-  subfile 7 (0x8F-0x94, loaded to 0x80141778). Skills is found at magic + magic's u32 size (0x8004C13C), so the
-  two may share the 5 sectors in any proportion. Growing a subfile needs the sector table, the count table and the
-  load buffers (not done).
+- MSYS.DAT subfiles are found by a sector table at 0x8001273C (u16 start sector per subfile) and a count table at
+  0x800126BC (u16, read as a byte); 63 subfiles. 0x8004CED8(n) loads subfile n + 6 to 0x80141778: items = subfile
+  6 (n = 0), magic + skills = subfile 7 (n = 1; skills found at magic + magic's u32 size, 0x8004C13C). (Subfiles
+  15-62 go to the 0x80117B98 buffer through 0x8004BC60; that is not where items load.) Phase 7: a grown subfile
+  moves to the end of MSYS.DAT (tables re-pointed, `insert.msys_text`) and the heap base moves up (below).
+
+## RAM map and the English size limits (phase 7; verified by disassembly + `tools/debug/heapwatch.lua`)
+- 0x80128B98-0x8012FB98 (0x7000): scene slot. 0x80018BD4 loads entry N-280 to 0x80128B98 and entry N right after
+  it; 0x8012FB98 is a fixed buffer (4 refs). JP's largest pair (scene 2) is 28632 bytes. `insert.scen_dat` fails
+  the build when a scene outgrows the slot (or its JP size, if larger).
+- 0x80141778: MSYS text buffer (subfile 6 or 7), JP 10 sectors, up to the heap.
+- 0x80146778-0x80186778: heap. Base stored at gp+0xCC4 by 0x800C1AA4 / 0x800C1AD4 (lui/addiu pairs at 0x800C1AA8,
+  0x800C1AD8) and range-checked at 0x800C2D58 (the only 3 refs); bump pointer gp+0xD0C (0x801145E8) starts at base
+  + 0x800. High-water mark over all 67 warps (field, menus, event battles before they start, dungeons) and 14000
+  mashed frames in 3 of them: 0x80166E58 (129 KB of 256), the same value everywhere. asm/vwf.asm sets HEAP_BASE from
+  insert.py (buffer end, capped at `insert.HEAP_MAX`). **But the space above the bump pointer is not free**: with
+  the base +0x3000 (12 KB) the gear_spell warp opened the field menu; with +0x4800 (18 KB, two builds) the menu
+  never opened (Select did nothing, field kept running). The +0x3000 build also hung st_vac03/04/07 at ~f2000
+  (2 runs each; original ROM lands them) - cause not isolated (heap shift, dictionary or scene text). So: assume
+  any heap shift is unsafe until proven.
+
+## Dictionary (phase 7; tools/dictenc.py, asm/vwf.asm, tests test_dict + test_vwf + test_insert English)
+- English letter pairs cost ~1 byte per letter: item descriptions grew 20 KB -> 37 KB, 18 scenes outgrew the slot.
+  Codes 0x4800 + i (past the pairs, below the 0xDFFF commands, so the printer sends them to the glyph routine) are
+  dictionary entries: vwf_draw draws the entry's pair codes (0000-terminated) in one call and returns ceil(x/12).
+- ~1070 entries (words / short phrases picked by gain, item descriptions weighted x3; 18 KB incl. the u16 offset
+  table) live in the EXE heap (free font cells), offsets from 0x800F1938 (gen.inc DICT_TAB / DICT_BASE / DICT_N).
+- Compressed: dialogue only (`dictenc.POOLS`; scen, term end, not choice lines). Not compressed: names, choice
+  lines, EXE tables, MSYS. The compressor never starts a code past 276 px on its line (the printer auto-wraps
+  there; the letter x does not depend on grouping). Result: SCEN sections 30-35% smaller than letter pairs, every
+  scene inside the slot. **Dialogue boxes with dictionary codes not yet seen in-game.**
+- MSYS descriptions with dictionary codes broke in the spell help box (work/qa/p7warp/gear_spell, shot kept in
+  work/qa/z_spell.png): text clipped at ~266 px (the "r" of " power" half drawn), the rest of the line wrapped
+  early, last row's tail dropped, stray pixels on a "b". Unicorn draws the same words correctly, so the game
+  derives something (clear / upload width, or a line length) from the code count. Printer facts found while
+  looking: per-code limit check at 0x8006F2E4: draw only while s6 < a3 (width) and x0 + s6 < limit[k], limit[0]
+  = window x + w (- 1 when window+0x48 is set), limit[1] = x + w for kinsoku punctuation (gp+0x984..0x996 codes);
+  else wrap (0x8006F324) if a row is left, else skip the code. A Lua read-watch of the MSYS buffer
+  (probes/watch.lua, --debugger) caught only 3 reads, so the measuring code is still unknown.
+- Idea for MSYS (untested): expand dictionary codes in the description getter into a scratch buffer, so the
+  printer and any measuring code see plain letter pairs. Even so items would be ~29-32 KB > 0x5000.
 
 ## Free space
 - Disc: files can grow (dumpsxiso/mkpsxiso rebuild re-lays the LBAs; the game finds files by CdSearchFile, so moved

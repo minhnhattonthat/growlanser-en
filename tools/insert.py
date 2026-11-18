@@ -18,6 +18,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import dat  # noqa: E402
+import dictenc  # noqa: E402
 import enfont  # noqa: E402
 import extract  # noqa: E402
 import gltext  # noqa: E402
@@ -27,9 +28,16 @@ ROOT = extract.ROOT
 TREE = extract.TREE
 ARMIPS = ROOT / "tools" / "armips" / "armips.exe"
 EXE = "SLPS_023.80"
-# MSYS: section -> end of its block. Items = subfile 6 (sectors 0x85-0x8F), magic + skills = subfile 7 (0x8F-0x94);
-# the game finds skills at magic + magic's u32 size (0x8004C13C), so skills follows magic wherever it ends.
-MSYS_LIMIT = {"items": 0x47800, "magic": 0x4A000, "skills": 0x4A000}
+# MSYS text: items = subfile 6 (sectors 0x85-0x8F), magic + skills = subfile 7 (0x8F-0x94); the game finds skills
+# at magic + magic's u32 size (0x8004C13C). Both load into the buffer at 0x80141778 (0x8004CED8), which the heap
+# follows at HEAP_BASE. A subfile that outgrows its sectors moves to the end of MSYS.DAT (sector + count tables in
+# the EXE) and the heap base moves up past it (asm/vwf.asm). docs/re/text.md "MSYS.DAT".
+MSYS_SUB = {"items": 6, "magic": 7}
+MSYS_SECTORS, MSYS_COUNTS = 0x2F3C, 0x2EBC  # EXE offsets of the u16 tables (RAM 0x8001273C / 0x800126BC)
+MSYS_BUF, HEAP_BASE = 0x80141778, 0x80146778
+# Heap base +0x3000 still opened the field menu; +0x4800 did not (gear_spell warp never reached the menu), so the
+# region above the heap's bump pointer is not free. Phase 7 blocker: uncompressed items need +0x4800.
+HEAP_MAX = 0x80149778
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
 FILLER = "The quick brown fox jumps over the lazy dog. "
 TEXT_RUN = re.compile(r"(\{\w+(?::[0-9A-Fa-f]{4})?\}|\[[0-9A-Fa-f]{4}\])")
@@ -61,6 +69,7 @@ class Encoder:
     def __init__(self, mode, overrides=None):
         self.mode, self.jp, self.en = mode, gltext.Codec(), enfont.EnCodec()
         self.overrides = overrides or {}
+        self.dict = dictenc.build(docs()) if mode == "en" else None
 
     def words(self, e):
         if e["id"] in self.overrides:
@@ -69,7 +78,10 @@ class Encoder:
             return self.jp.encode(e["jp"])
         if self.mode == "marker":
             return self.en.encode(marker(e))
-        return self.en.encode(e["en"]) if e.get("en") else self.jp.encode(e["jp"])
+        if not e.get("en"):
+            return self.jp.encode(e["jp"])
+        w = self.en.encode(e["en"])
+        return self.dict.compress(w) if self.dict and dictenc.compressible(e) else w
 
     def pool(self, doc):
         strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]
@@ -85,7 +97,10 @@ def docs():
         yield json.loads(path.read_text(encoding="utf-8"))
 
 
-def scen_dat(data, sections):
+SCENE_SLOT = 0x7000  # 0x80128B98-0x8012FB98; JP's largest pair (scene 2) is 28632 bytes
+
+
+def scen_dat(data, sections, strict=True):
     """Rebuild SCEN.DAT with new text sections {entry: bytes}; entries re-laid back to back in index order."""
     ents = dat.entries(data)
     first = min(s for s, n in ents if n)
@@ -95,7 +110,16 @@ def scen_dat(data, sections):
         e = data[s * dat.SECTOR:(s + n) * dat.SECTOR]
         if i in sections:
             sec = struct.unpack_from("<I", e, 22 * 4)[0]
+            old = sec + struct.unpack_from("<I", e, sec)[0]
             e = e[:sec] + sections[i]
+            # entries N-280 and N load back to back into 0x80128B98-0x8012FB98 (fixed data follows)
+            s0, n0 = ents[i - 280]
+            small = len(data[s0 * dat.SECTOR:(s0 + n0) * dat.SECTOR].rstrip(b"\0")) + 0x20
+            if small + len(e) > max(SCENE_SLOT, small + old):
+                msg = "scene %d: %d bytes > scene slot 0x%X" % (i - 280, small + len(e), SCENE_SLOT)
+                if strict:
+                    raise ValueError(msg)
+                print("warning: " + msg + " (QA build: that scene may crash)")
             e += bytes(-len(e) % dat.SECTOR)
         table.append((len(out) // dat.SECTOR if n else s, len(e) // dat.SECTOR))
         out += e
@@ -139,8 +163,13 @@ class Heap:
             data[addr:addr + len(blob)] = blob
 
 
-def exe_heap(data, items):
-    """items: [(doc, strings as word lists incl. terminator)] for every EXE table."""
+RAM = 0x8000F800  # EXE file offset -> RAM address
+DICT_BASE = 0xE2138  # dictionary entries: u16 offsets from here (string blocks + font cells span < 64 KB)
+
+
+def exe_heap(data, items, dictionary=None):
+    """items: [(doc, strings as word lists incl. terminator)] for every EXE table; then the dictionary's entries
+    and offset table (dictenc). Returns (DICT_TAB, DICT_BASE, DICT_N) as RAM addresses for asm/vwf.asm."""
     heap, out = Heap([d for d, _ in items]), []
     for doc, strings in items:
         table, base = int(doc["table"], 16), int(doc["base"], 16)
@@ -148,7 +177,16 @@ def exe_heap(data, items):
         out += [(a, gltext.pack(s)) for a, s in zip(addr, strings)]
         vals = [(addr[i] + d - base) // 2 for i, d in extract._refs_parse(doc["refs"])]
         data[table:table + 2 * len(vals)] = struct.pack("<%dH" % len(vals), *vals)
+    info = (0, 0, 0)
+    if dictionary and dictionary.entries:
+        blobs = dictionary.blobs()
+        tab = heap.put(b"\xff" * 2 * len(blobs), DICT_BASE)
+        offs = [heap.put(b, DICT_BASE) - DICT_BASE for b in blobs]
+        assert max(offs) < 0x10000
+        out += [(tab, struct.pack("<%dH" % len(offs), *offs))] + [(DICT_BASE + o, b) for o, b in zip(offs, blobs)]
+        info = (tab + RAM, DICT_BASE + RAM, len(blobs))
     heap.write(data, out)
+    return info
 
 
 def exe_text(data, doc, pool):
@@ -160,13 +198,18 @@ def exe_text(data, doc, pool):
     data[base:end] = strs + bytes(end - base - len(strs))
 
 
-def armips(exe):
+GEN_DEFAULT = {"DICT_TAB": 0, "DICT_BASE": 0, "DICT_N": 0, "HEAP_BASE": HEAP_BASE}
+
+
+def armips(exe, gen=None):
+    """Assemble asm/vwf.asm into exe; gen = values for work/asm/gen.inc (GEN_DEFAULT: no dictionary, heap as is)."""
     work = ROOT / "work" / "asm"
     shutil.rmtree(work, ignore_errors=True)
     work.mkdir(parents=True, exist_ok=True)
     glyphs, widths = enfont.tables()
     (work / "en_glyphs.bin").write_bytes(glyphs)
     (work / "en_widths.bin").write_bytes(widths)
+    (work / "gen.inc").write_text("".join("%s equ 0x%X\n" % kv for kv in {**GEN_DEFAULT, **(gen or {})}.items()))
     shutil.copy(ROOT / "asm" / "vwf.asm", work / "vwf.asm")
     (work / EXE).write_bytes(exe)
     r = subprocess.run([str(ARMIPS), "vwf.asm", "-sym", "vwf.sym"], cwd=work, capture_output=True, text=True)
@@ -201,7 +244,7 @@ def patched(mode="en", tree=TREE, overrides=None):
     scen = (tree / "SCEN.DAT").read_bytes()
     msys = bytearray((tree / "MSYS.DAT").read_bytes())
     exe = bytearray((tree / EXE).read_bytes())
-    sections, tables = {}, []
+    sections, tables, sub = {}, [], {6: b"", 7: b""}
     for doc in docs():
         if doc["file"] == EXE and mode != "jp":
             tables.append((doc, [enc.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]))
@@ -210,19 +253,36 @@ def patched(mode="en", tree=TREE, overrides=None):
         if doc["file"] == "SCEN.DAT":
             sections[doc["entry"]] = pool
         elif doc["file"] == "MSYS.DAT":
-            name = doc["entries"][0]["id"].split(".")[1]
-            at = msys_next if name == "skills" else int(doc["at"], 16)
-            msys_next = at + len(pool)
-            if at + len(pool) > MSYS_LIMIT[name]:
-                raise ValueError("msys.%s: %d bytes > block %d" % (name, len(pool), MSYS_LIMIT[name] - at))
-            msys[at:MSYS_LIMIT[name]] = pool + bytes(MSYS_LIMIT[name] - at - len(pool))
+            sub[MSYS_SUB.get(doc["entries"][0]["id"].split(".")[1], 7)] += pool  # skills after magic
         else:
             exe_text(exe, doc, pool)
-    if tables:
-        exe_heap(exe, tables)
-    out ={"SCEN.DAT": scen_dat(scen, sections), "MSYS.DAT": bytes(msys)}
-    out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe))
+    heap = msys_text(msys, exe, sub)
+    dict_info = exe_heap(exe, tables, enc.dict) if tables else (0, 0, 0)
+    out = {"SCEN.DAT": scen_dat(scen, sections, strict=mode == "en" and not overrides), "MSYS.DAT": bytes(msys)}
+    gen = dict(zip(("DICT_TAB", "DICT_BASE", "DICT_N"), dict_info), HEAP_BASE=heap)
+    out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe), gen)
     return out
+
+
+def msys_text(msys, exe, sub):
+    """Write MSYS subfiles 6 / 7 ({index: bytes}) in place, or at the end of msys (bytearray) when grown; return
+    the heap base the load buffer needs."""
+    top = HEAP_BASE
+    for i, blob in sub.items():
+        start, count = (struct.unpack_from("<H", exe, t + 2 * i)[0] for t in (MSYS_SECTORS, MSYS_COUNTS))
+        n = -(-len(blob) // dat.SECTOR)
+        if n > count:
+            msys += bytes(-len(msys) % dat.SECTOR)
+            start, count = len(msys) // dat.SECTOR, n
+            msys += bytes(n * dat.SECTOR)
+            struct.pack_into("<H", exe, MSYS_SECTORS + 2 * i, start)
+            struct.pack_into("<H", exe, MSYS_COUNTS + 2 * i, count)
+        at = start * dat.SECTOR
+        msys[at:at + count * dat.SECTOR] = blob + bytes(count * dat.SECTOR - len(blob))
+        top = max(top, MSYS_BUF + count * dat.SECTOR)
+    if top > HEAP_MAX:
+        raise ValueError("MSYS text needs the heap base at 0x%X > HEAP_MAX 0x%X" % (top, HEAP_MAX))
+    return top
 
 
 def check():

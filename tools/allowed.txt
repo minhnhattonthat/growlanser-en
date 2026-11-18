@@ -1,0 +1,26 @@
+# Bytes the English build may change, per disc file (romdiff check: tests/test_insert.py RomDiff).
+# FILE  HEX-HEX (inclusive)  what
+SLPS_023.80 2EC8-2ECB      MSYS count table, subfiles 6/7 (insert.msys_text)
+SLPS_023.80 2F48-2F4B      MSYS sector table, subfiles 6/7
+SLPS_023.80 55C44-55C47    typewriter 1 -> page at once (vwf.asm 0x80065444)
+SLPS_023.80 560F0-560F3    typewriter 2 (0x800658F0)
+SLPS_023.80 5FBA8-5FBB3    printer: jal vwf_std (0x8006F3A8)
+SLPS_023.80 5FC9C-5FC9F    printer: jal vwf_big (0x8006F49C)
+SLPS_023.80 5FCA4-5FCA7    printer: move s6, v0 (0x8006F4A4)
+SLPS_023.80 5FCAC-5FCAF    printer: nop (0x8006F4AC)
+SLPS_023.80 B22A8-B22AF    heap base (0x800C1AA8)
+SLPS_023.80 B22D8-B22DF    heap base (0x800C1AD8)
+SLPS_023.80 B3558-B355F    heap base check (0x800C2D58)
+SLPS_023.80 E2138-E85C7    EXE string tables + strings (insert.Heap)
+SLPS_023.80 E99C0-EA523    font cells 11C-1BD (heap)
+SLPS_023.80 EA536-EB38D    font cells 1BF-28A
+SLPS_023.80 EB3D6-EB477    font cells 28F-297
+SLPS_023.80 EB48A-EB54F    font cells 299-2A3
+SLPS_023.80 EB562-EC7F1    font cells 2A5-3AC
+SLPS_023.80 EC804-EE327    font cells 3AE-52F
+SLPS_023.80 EE33A-EE7B9    font cells 531-570
+SLPS_023.80 EE7CC-EF67D    font cells 572-642
+SLPS_023.80 EF6A2-EFD07    font cells 645-69F
+SLPS_023.80 EFD08-F120D    font cells 6A0-7CA: asm/vwf.asm code + English font
+MSYS.DAT    42800-49FFF    text subfiles 6/7 in place
+MSYS.DAT    24B800-FFFFFF  text subfiles 6/7 moved past the original end

@@ -70,6 +70,23 @@ class Vwf(unittest.TestCase):
         text = "Who goes"
         self.assertEqual(e.grid(enfont.width(text) + 2, 13), expected(text, enfont.width(text) + 2))
 
+    def test_dictionary_codes(self):
+        """Dictionary codes (tools/dictenc.py) draw their entry's letters: same pixels and end column as pairs."""
+        import dictenc
+        import insert
+        d = dictenc.Dict([" quick", " brown fox,", "The"])
+        exe = bytearray((insert.TREE / insert.EXE).read_bytes())
+        info = insert.exe_heap(exe, [], d)
+        emu = vwfemu.Emu(insert.armips(bytes(exe), dict(zip(("DICT_TAB", "DICT_BASE", "DICT_N"), info))))
+        text = "The quick brown fox, Riviera!"
+        words = d.compress(self.codec.encode(text))
+        self.assertEqual(sum(w >= dictenc.DICT for w in words), 3)
+        emu.clear()
+        end = emu.draw(words, 1, 2)
+        w = enfont.width(text)
+        self.assertEqual(emu.grid(w + 2, 13, 2, x0=12), expected(text, w + 2))
+        self.assertEqual(end, 1 + -(-w // 12))
+
     def test_odd_length_and_game_glyph(self):
         # "Ab" + bullet (game glyph 0xD1, 12 px) + "c": no gap after the single "c", glyph at x = 11
         self.emu.clear()

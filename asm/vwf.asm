@@ -7,7 +7,8 @@
 ;   0x80071650 (col, row, code):   double size, 2x2 texels per font pixel, y = row*16+6, x = col*12 texels;
 ;                                  the printer adds 2. (jal 0x8006F49C)
 ; vwf_std / vwf_big replace those calls. They keep their own texel x, draw pair codes (tools/enfont.py) as two
-; proportional glyphs and game glyphs 12 px wide, and return the column ceil(x / 12), which the printer stores in
+; proportional glyphs, dictionary codes (tools/dictenc.py) as their entry's pairs, and game glyphs 12 px wide,
+; and return the column ceil(x / 12), which the printer stores in
 ; s6. The texel x resyncs to col*12 whenever the printer moves (new line, page, window, indent).
 ; Code and data live in the font's last kanji cells (0x6A0-0x7CA), unused once the script is English.
 ; Tested under unicorn: tests/test_vwf.py (tools/vwfemu.py).
@@ -19,6 +20,22 @@ WAIT       equ 0x80069D64        ; called by the printer after each glyph
 PAIR       equ 0x0800
 FREE_START equ 0x800FF508        ; font cell 0x6A0
 FREE_END   equ 0x80100A0E        ; end of the font (cell 0x7CB)
+DICT       equ 0x4800            ; codes DICT + i = dictionary entry i (tools/dictenc.py)
+.include "gen.inc"               ; written by tools/insert.py: DICT_TAB (u16 offsets from DICT_BASE), DICT_BASE,
+                                 ; DICT_N; HEAP_BASE (MSYS text buffer 0x80141778 grows up to it)
+
+; The heap (0x80146778-0x80186778, base kept at gp+0xCC4) starts right after the MSYS text buffer, which holds
+; MSYS subfile 6 (item descriptions) or 7 (magic + skills). insert.py moves grown subfiles to the end of MSYS.DAT
+; and raises the heap base past the largest; tools/debug/heapwatch.lua measured the heap's high-water mark.
+.org 0x800C1AA8
+    lui     v0, hi(HEAP_BASE)
+    addiu   v0, v0, lo(HEAP_BASE)
+.org 0x800C1AD8
+    lui     v0, hi(HEAP_BASE)
+    addiu   v0, v0, lo(HEAP_BASE)
+.org 0x800C2D58
+    lui     v0, hi(HEAP_BASE)
+    addiu   v0, v0, lo(HEAP_BASE)
 
 .org 0x8006F3A8
     jal     vwf_std              ; was jal 0x800711E0 (a0 = s6, a1 = s2 + 1, a2 = code)
@@ -109,6 +126,39 @@ vwf_draw:
     move    s3, t4               ; this canvas's slot
     move    s1, a1
     move    s2, a2
+    li      t0, DICT             ; dictionary code: draw the entry's letter pairs
+    sltu    t1, s2, t0
+    bnez    t1, @@notdict
+    subu    t0, s2, t0
+    sltiu   t1, t0, DICT_N
+    beqz    t1, @@notdict
+    sll     t0, t0, 1
+    la      t1, DICT_TAB
+    addu    t1, t1, t0
+    lhu     t0, 0(t1)
+    la      t1, DICT_BASE
+    addu    s2, t1, t0           ; s2 = entry (u16 pair codes, 0000 ends)
+@@dloop:
+    lhu     t0, 0(s2)
+    nop
+    beqz    t0, @@done
+    addiu   s2, s2, 2
+    addiu   t0, t0, -PAIR
+    sw      t0, 0x20(sp)
+    move    a0, s0
+    jal     vwf_index
+    srl     a2, t0, 7            ; first letter
+    move    s0, v0
+    lw      t0, 0x20(sp)
+    nop
+    andi    a2, t0, 0x7F         ; second letter, 0 = none
+    beqz    a2, @@dloop
+    nop
+    jal     vwf_index
+    move    a0, s0
+    b       @@dloop
+    move    s0, v0
+@@notdict:
     sltiu   t0, s2, PAIR
     bnez    t0, @@legacy
     nop

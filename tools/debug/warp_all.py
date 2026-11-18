@@ -34,11 +34,13 @@ def scenes():
     return out
 
 
-def run(cue, out, name, frames, states):
+def run(cue, out, name, frames, states, probes=()):
     d = out / name
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(cue), "--out", str(d),
            "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", f"SCENE='{name}'",
            "--frames", str(frames), "--shot-every", "500", "--timeout", str(120 + frames // 20)]
+    for p in probes:
+        cmd += ["--script", str(Path(p).resolve())]
     if states:
         cmd += ["--state-out", str(ROOT / "work" / "states" / f"{name}.sstate")]
     p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
@@ -56,6 +58,7 @@ def main():
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--states", action="store_true")
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "warp"))
+    ap.add_argument("--script", action="append", default=[], help="extra probe Lua for every run (repeatable)")
     a = ap.parse_args()
     todo = [s for s in scenes() if not a.names or s[0] in a.names]
     missing = set(a.names) - {s[0] for s in todo}
@@ -64,7 +67,7 @@ def main():
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     with ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states), todo))
+        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states, a.script), todo))
     with open(out / "results.tsv", "w", encoding="utf-8") as f:
         f.write("name\tok\texit\tlanded_frame\terror\n")
         for r in res:
