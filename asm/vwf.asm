@@ -57,6 +57,42 @@ DICT       equ 0x4800            ; codes DICT + i = dictionary entry i (tools/di
 .org 0x800658F0
     b       0x80065A4C           ; was bne s0, v1, 0x80065A4C (second typewriter, same test)
 
+; Message pre-parser (0x800643D0): it walks the text, moving a column s1 by 1 per glyph code (2 at double size),
+; wraps at 24 and keeps the text's extent at gp+0x832 / 0x834 (max column of a glyph start), which later becomes
+; the printer's width and the canvas size: a line of dictionary codes (wider than one column each) was cut there
+; ("I want you to have" for "... have it.", "Oh, Big" for "Oh, Big Brother."). Advance s1 the way the printer's s6
+; moves instead, s1 = ceil(x / 12) with x in pixels, and stretch the extent to the glyph's last column (vwf_measure).
+.org 0x8006496C
+    j       vwf_measure
+    ori     v0, zero, 1          ; was j 0x80064FC0 / addiu s1, s1, 1
+.org 0x80064AB4
+    j       vwf_measure
+    ori     v0, zero, 2          ; was j 0x80064FC0 / addiu s1, s1, 2
+
+; MSYS descriptions (items, magic, skills) are Huffman-packed (tools/msyspack.py). The six getters 0x80070EC0..
+; 0x80071174 end alike: addu v0, v1, v0 (string pointer); lw ra, 0x14(sp); lw s0, 0x10(sp); jr ra; addiu sp, 0x18.
+; Each now jumps to msys_get, which unpacks a pointer into the load buffer to a slot and finishes the epilogue.
+.if MSYS_MODEL != 0
+.org 0x80070F18
+    j       msys_get
+    addu    v0, v1, v0
+.org 0x80070F84
+    j       msys_get
+    addu    v0, v1, v0
+.org 0x80070FF0
+    j       msys_get
+    addu    v0, v1, v0
+.org 0x800710F4
+    j       msys_get
+    addu    v0, v1, v0
+.org 0x80071160
+    j       msys_get
+    addu    v0, v1, v0
+.org 0x800711CC
+    j       msys_get
+    addu    v0, v1, v0
+.endif
+
 .org FREE_START
 ; Windows draw interleaved (typewriter text beside a name tag), so the x is kept per canvas: 4 slots of
 ; (canvas base1, texel x, last col returned, last row), replaced round-robin.
@@ -372,6 +408,272 @@ vwf_glyph:
     addu    v0, v0, a0
     jr      ra
     addiu   sp, sp, 0x28
+
+; vwf_measure: pre-parser glyph step (v0 = scale, s2 = just past the code, s1 = its column). Keeps (x, col) like
+; vwf_state: x resyncs to s1 * 12 when the parser moved s1 itself (new line, indent). Continues at 0x80064FC0.
+vwf_measure:
+    lhu     a0, -2(s2)
+    jal     vwf_width            ; ra is not live here (the parser reloads it from its frame)
+    move    t3, v0
+    multu   v0, t3
+    la      t4, vwf_mstate
+    lw      t5, 0(t4)            ; x
+    lw      t6, 4(t4)            ; the column that x belongs to
+    mflo    v0                   ; advance in texels
+    beq     t6, s1, @@go
+    nop
+    sll     t5, s1, 1
+    addu    t5, t5, s1
+    sll     t5, t5, 2            ; x = s1 * 12
+@@go:
+    addu    t5, t5, v0
+    addiu   t6, t5, 11
+    li      t7, 12
+    divu    t6, t7
+    mflo    s1                   ; s1 = ceil(x / 12)
+    sw      t5, 0(t4)
+    sw      s1, 4(t4)
+    lh      t6, 0x832(gp)        ; the extent holds the glyph's first column; a wide code reaches column s1 - 1
+    addiu   t7, s1, -1
+    slt     t8, t6, t7
+    beqz    t8, @@done
+    nop
+    sh      t7, 0x832(gp)
+@@done:
+    j       0x80064FC0
+    nop
+
+; vwf_width: a0 = glyph code; v0 = advance in font pixels as vwf_draw draws it (pairs and dictionary entries from
+; en_widths, game glyphs 12). Uses t7-t9, v1 only.
+vwf_width:
+    beqz    a0, @@ret
+    ori     v0, zero, 12
+    move    v0, zero
+    li      t7, DICT
+    sltu    t8, a0, t7
+    bnez    t8, @@one
+    subu    t8, a0, t7
+    sltiu   t9, t8, DICT_N
+    beqz    t9, @@one
+    sll     t8, t8, 1
+    la      t9, DICT_TAB
+    addu    t9, t9, t8
+    lhu     t8, 0(t9)
+    la      t9, DICT_BASE
+    b       @@loop
+    addu    t9, t9, t8           ; entry: pair codes, 0000 ends
+@@one:
+    la      t9, vwf_wtmp
+    sh      a0, 0(t9)
+    sh      zero, 2(t9)
+@@loop:
+    lhu     t8, 0(t9)
+    nop
+    beqz    t8, @@ret
+    addiu   t9, t9, 2
+    sltiu   t7, t8, PAIR
+    bnez    t7, @@game
+    sltiu   t7, t8, PAIR + 0x4000
+    beqz    t7, @@game
+    addiu   t8, t8, -PAIR
+    srl     t7, t8, 7
+    la      v1, en_widths
+    addu    t7, v1, t7
+    lbu     t7, 0(t7)
+    andi    t8, t8, 0x7F
+    addu    v0, v0, t7
+    beqz    t8, @@loop           ; no second letter
+    addu    t8, v1, t8
+    lbu     t8, 0(t8)
+    b       @@loop
+    addu    v0, v0, t8
+@@game:
+    b       @@loop
+    addiu   v0, v0, 12
+@@ret:
+    jr      ra
+    nop
+
+.align 4
+vwf_mstate:                      ; x, col
+    .word 0, -1
+vwf_wtmp:
+    .halfword 0, 0
+
+; msys_get: v0 = string pointer from a description getter (its frame: ra at 0x14(sp), s0 at 0x10(sp)). A pointer
+; into the MSYS load buffer is unpacked into one of MSYS_NSLOT slots above the loaded subfile; the cache (key =
+; pointer ^ loaded subfile gp+0x52E << 24, slot) returns the same slot while the string is in use. Other pointers
+; (the EXE fallback string) pass through.
+msys_get:
+    lui     t0, 0x8014
+    addiu   t0, t0, 0x1778       ; MSYS load buffer
+    subu    t0, v0, t0
+    sltiu   t0, t0, 0x5000
+    beqz    t0, @@ret
+    nop
+    lbu     t1, 0x52E(gp)
+    nop
+    sll     t1, t1, 24
+    xor     t1, t1, v0           ; key
+    la      t2, msys_cache
+    addiu   t3, t2, 8 * MSYS_NSLOT
+@@look:
+    lw      t4, 0(t2)
+    nop
+    beq     t4, t1, @@hit
+    nop
+    addiu   t2, t2, 8
+    bne     t2, t3, @@look
+    nop
+    la      t2, msys_next        ; miss: take the next slot round-robin
+    lw      t3, 0(t2)
+    nop
+    addiu   t4, t3, 1
+    andi    t4, t4, MSYS_NSLOT - 1
+    sw      t4, 0(t2)
+    li      t4, MSYS_SLOT
+    multu   t3, t4
+    sll     t3, t3, 3
+    la      t2, msys_cache
+    addu    t2, t2, t3
+    mflo    t4
+    la      a1, MSYS_SCRATCH
+    addu    a1, a1, t4           ; slot
+    sw      t1, 0(t2)
+    sw      a1, 4(t2)
+    jal     msys_unpack          ; ra is reloaded from the getter's frame below
+    move    a0, v0
+    b       @@ret
+    nop
+@@hit:
+    lw      v0, 4(t2)
+@@ret:
+    lw      ra, 0x14(sp)
+    lw      s0, 0x10(sp)
+    jr      ra
+    addiu   sp, sp, 0x18
+
+; msys_unpack: a0 = packed string, a1 = slot; v0 = slot. Mirrors msyspack.unpack(): canonical Huffman codes (MSB
+; first), symbols expanded through the model's (L, R) table with a stack, letters paired like enfont.EnCodec.
+; A full slot or a bad code ends the string with FFFF. Uses only a0-a3, t0-t9, v0, v1.
+msys_unpack:
+    move    t8, a1
+    la      t9, MSYS_MODEL
+    lhu     t7, 0(t9)            ; maxlen
+    addiu   t9, t9, 2            ; counts[]
+    sll     t7, t7, 1
+    addu    t7, t7, t9           ; symbol table (right after counts[])
+    move    a2, zero             ; pending letter
+    move    a3, zero             ; bit mask (0: fetch a byte)
+    addiu   v1, a1, MSYS_SLOT - 8 ; write limit
+@@sym:
+    move    t0, zero             ; code
+    move    t1, zero             ; first
+    move    t2, zero             ; index
+    move    t3, t9               ; &counts[len - 1]
+@@bit:
+    bnez    a3, @@take
+    nop
+    lbu     t6, 0(a0)
+    addiu   a0, a0, 1
+    li      a3, 0x80
+@@take:
+    and     t5, t6, a3
+    sltu    t5, zero, t5
+    srl     a3, a3, 1
+    or      t0, t0, t5           ; code |= bit
+    lhu     t5, 0(t3)            ; count of this length
+    addiu   t3, t3, 2
+    subu    t4, t0, t1
+    sltu    t4, t4, t5
+    bnez    t4, @@found          ; code - first < count
+    nop
+    addu    t2, t2, t5           ; index += count
+    addu    t1, t1, t5
+    sll     t1, t1, 1            ; first = (first + count) << 1
+    bne     t3, t7, @@bit
+    sll     t0, t0, 1
+    b       @@cut                ; no length matched: bad data
+    nop
+@@found:
+    subu    t0, t0, t1
+    addu    t0, t0, t2           ; symbol = index + code - first
+    la      t1, msys_stack
+    sh      t0, 0(t1)
+    addiu   t2, t1, 2
+@@pop:
+    beq     t2, t1, @@sym
+    nop
+    addiu   t2, t2, -2
+    lhu     t0, 0(t2)
+    nop
+    sll     t3, t0, 2
+    addu    t3, t3, t7
+    lhu     t4, 0(t3)            ; L
+    lhu     t5, 2(t3)            ; R
+    ori     v0, zero, 0xFFFF
+    beq     t5, v0, @@leaf
+    nop
+    sh      t5, 0(t2)            ; push R, then L on top
+    sh      t4, 2(t2)
+    b       @@pop
+    addiu   t2, t2, 4
+@@leaf:
+    beqz    t4, @@end            ; END
+    sltiu   v0, t4, 0x80
+    beqz    v0, @@raw
+    nop
+    bnez    a2, @@pair
+    nop
+    b       @@pop
+    move    a2, t4               ; first letter of a pair
+@@pair:
+    sll     t5, a2, 7
+    addu    t5, t5, t4
+    addiu   t5, t5, PAIR
+    move    a2, zero
+@@put:
+    sltu    v0, a1, v1
+    beqz    v0, @@cut
+    nop
+    sh      t5, 0(a1)
+    b       @@pop
+    addiu   a1, a1, 2
+@@raw:
+    beqz    a2, @@put
+    move    t5, t4
+    sll     v0, a2, 7
+    addiu   v0, v0, PAIR
+    sh      v0, 0(a1)            ; the odd letter before a raw word
+    addiu   a1, a1, 2
+    b       @@put
+    move    a2, zero
+@@cut:
+    b       @@fin
+    ori     v0, zero, 1
+@@end:
+    move    v0, zero
+@@fin:
+    beqz    a2, @@fin2
+    sll     t5, a2, 7
+    addiu   t5, t5, PAIR
+    sh      t5, 0(a1)
+    addiu   a1, a1, 2
+@@fin2:
+    beqz    v0, @@done
+    ori     t5, zero, 0xFFFF
+    sh      t5, 0(a1)
+@@done:
+    jr      ra
+    move    v0, t8
+
+.align 4
+msys_next:
+    .word 0
+msys_cache:                      ; MSYS_NSLOT x (key, slot)
+    .fill 8 * MSYS_NSLOT, 0
+msys_stack:                      ; msyspack.DEPTH + 1 entries at most
+    .fill 64, 0
 
 .align 4
 en_widths:

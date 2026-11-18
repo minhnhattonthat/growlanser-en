@@ -41,12 +41,7 @@ class English(unittest.TestCase):
     def setUpClass(cls):
         import insert
         cls.insert = insert
-        try:
-            cls.out = insert.patched("en")
-        except ValueError as e:
-            if "HEAP_MAX" in str(e):  # open phase 7 blocker, docs/status.md
-                raise unittest.SkipTest("English build blocked: " + str(e))
-            raise
+        cls.out = insert.patched("en")
         gen = (ROOT / "work" / "asm" / "gen.inc").read_text(encoding="utf-8")
         cls.gen = {k: int(v, 16) for k, v in (line.split(" equ ") for line in gen.splitlines())}
 
@@ -81,16 +76,13 @@ class English(unittest.TestCase):
         import enfont
         import textsec
         codec, exe = enfont.EnCodec(), self.out[self.insert.EXE]
-        msys, scen = self.out["MSYS.DAT"], self.out["SCEN.DAT"]
-        sub7 = 2048 * struct.unpack_from("<H", exe, self.insert.MSYS_SECTORS + 14)[0]
-        where = {"msys.items": 2048 * struct.unpack_from("<H", exe, self.insert.MSYS_SECTORS + 12)[0],
-                 "msys.magic": sub7, "msys.skills": sub7 + struct.unpack_from("<I", msys, sub7)[0]}
+        scen = self.out["SCEN.DAT"]
         ents = dat.entries(scen)
         n = 0
         for doc in self.insert.docs():
             name = doc["entries"][0]["id"].rsplit(".", 1)[0]
             if doc["file"] == "MSYS.DAT":
-                buf, off = msys, where[name]
+                continue  # packed: test_msys_getters
             elif doc["file"] == "SCEN.DAT":
                 s, _ = ents[doc["entry"]]
                 buf = scen[s * 2048:]
@@ -105,6 +97,53 @@ class English(unittest.TestCase):
                     self.assertEqual(codec.decode(self.expand(ws)), codec.decode(want), e["id"])  # pairs regroup
                     n += 1
         self.assertGreater(n, 20000)
+
+    def test_vwf_width(self):
+        """asm vwf_width (the pre-parser's measure) = the pixel width vwf_draw gives pairs, dictionary codes, glyphs."""
+        import enfont
+        import vwfemu
+        emu, codec = vwfemu.Emu(self.out[self.insert.EXE]), enfont.EnCodec()
+        codes = [0x00D1] + codec.encode("Wm.i'q Ag") + [0x4800 + i for i in range(0, self.gen["DICT_N"], 37)]
+        for w in codes:
+            want = 12 if w < enfont.PAIR else enfont.width(codec.decode(self.expand([w])))
+            self.assertEqual(emu.call("vwf_width", w), want, hex(w))
+
+    def test_msys_getters(self):
+        """Run the game's six description getters (and asm/vwf.asm msys_get) under unicorn on the built EXE with
+        each MSYS subfile in its load buffer: every string unpacks to its `en`; the cache keeps a string's slot."""
+        import vwfemu
+        exe, msys, ins = self.out[self.insert.EXE], self.out["MSYS.DAT"], self.insert
+        emu = vwfemu.Emu(exe)
+        enc = ins.Encoder("en")
+        docs = {d["entries"][0]["id"].split(".")[1]: d for d in ins.docs() if d["file"] == "MSYS.DAT"}
+        # (pool, getter, subfile, first offset-table slot, index limit of the getter)
+        getters = [("items", 0x80070F98, 0, 0, 0x168), ("magic", 0x80070EC0, 1, 0, 0x40),
+                   ("skills", 0x80070F2C, 1, 0, 0x40), ("skills", 0x8007109C, 1, (0x78 - 4) // 2, 0x20),
+                   ("skills", 0x80071108, 1, (0xB8 - 4) // 2, 0x23), ("skills", 0x80071174, 1, (0xFE - 4) // 2, 0x30)]
+        slots, seen = set(), set()
+        for name, fn, sub, first, limit in getters:
+            n = 6 + sub
+            start, count = (struct.unpack_from("<H", exe, t + 2 * n)[0] for t in (ins.MSYS_SECTORS, ins.MSYS_COUNTS))
+            data = msys[start * 2048:(start + count) * 2048]
+            self.assertLessEqual(ins.MSYS_BUF + len(data), self.gen["MSYS_SCRATCH"])
+            emu.write(ins.MSYS_BUF, data)
+            magic = struct.unpack_from("<I", data)[0]
+            emu.write(vwfemu.GP + 0x52E, bytes([sub]))
+            emu.write(vwfemu.GP + 0x51A, b"\0")
+            emu.write(vwfemu.GP + 0x538, struct.pack("<HH", 0, magic // 2 if sub else 0xFFFF))
+            doc = docs[name]
+            refs = extract._refs_parse(doc["refs"])
+            for k in range(min(limit, len(refs) - first)):
+                seen.add((name, first + k))
+                e = doc["entries"][refs[first + k][0]]
+                want = enc.words(e) + [extract.TERM_W[e["term"]]]
+                p = emu.call(fn, k)
+                self.assertEqual(emu.call(fn, k), p, "cache")
+                got = list(struct.unpack_from("<%dH" % len(want), emu.read(p, 2 * len(want))))
+                self.assertEqual(got, want, e["id"])
+                slots.add(p)
+        self.assertEqual(len(slots), ins.MSYS_NSLOT)
+        self.assertEqual(len(seen), sum(len(extract._refs_parse(d["refs"])) for d in docs.values()))
 
 
 if __name__ == "__main__":

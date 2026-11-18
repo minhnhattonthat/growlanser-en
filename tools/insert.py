@@ -5,8 +5,9 @@
 Each entry is encoded from `en` (enfont.EnCodec, pair codes) when it has one, else from `jp`. mode="marker"
 replaces every non-empty line with "<short id> " plus filler of the same byte size (marker build, phase 5);
 mode="jp" ignores `en` (identity check). Pools: SCEN text sections are rebuilt and the archive re-laid with a new
-sector table (entries may grow); MSYS sections and EXE tables are written in place and must fit their original
-blocks (an error names the pool otherwise). The EXE then gets asm/vwf.asm (VWF) via armips.
+sector table (entries may grow); MSYS sections are Huffman-packed outside jp mode (tools/msyspack.py, unpacked by
+asm/vwf.asm msys_get) and written in place; EXE tables go to the string heap. The EXE then gets asm/vwf.asm (VWF)
+via armips.
 """
 import json
 import re
@@ -21,7 +22,9 @@ import dat  # noqa: E402
 import dictenc  # noqa: E402
 import enfont  # noqa: E402
 import extract  # noqa: E402
+import fit  # noqa: E402
 import gltext  # noqa: E402
+import msyspack  # noqa: E402
 import textsec  # noqa: E402
 
 ROOT = extract.ROOT
@@ -36,8 +39,11 @@ MSYS_SUB = {"items": 6, "magic": 7}
 MSYS_SECTORS, MSYS_COUNTS = 0x2F3C, 0x2EBC  # EXE offsets of the u16 tables (RAM 0x8001273C / 0x800126BC)
 MSYS_BUF, HEAP_BASE = 0x80141778, 0x80146778
 # Heap base +0x3000 still opened the field menu; +0x4800 did not (gear_spell warp never reached the menu), so the
-# region above the heap's bump pointer is not free. Phase 7 blocker: uncompressed items need +0x4800.
+# region above the heap's bump pointer is not free. English MSYS text is Huffman-packed (tools/msyspack.py) instead.
 HEAP_MAX = 0x80149778
+# Unpacked strings go to MSYS_NSLOT slots at the top of the load buffer, above the (shrunk) subfiles.
+MSYS_NSLOT = 16
+TAG_POOLS = ("scen.name", "exe.names")  # fit.BUDGETS rows sized by code count (docs/windows.md "Name tag")
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
 FILLER = "The quick brown fox jumps over the lazy dog. "
 TEXT_RUN = re.compile(r"(\{\w+(?::[0-9A-Fa-f]{4})?\}|\[[0-9A-Fa-f]{4}\])")
@@ -69,6 +75,7 @@ class Encoder:
     def __init__(self, mode, overrides=None):
         self.mode, self.jp, self.en = mode, gltext.Codec(), enfont.EnCodec()
         self.overrides = overrides or {}
+        self.font = enfont.load()
         self.dict = dictenc.build(docs()) if mode == "en" else None
 
     def words(self, e):
@@ -81,7 +88,21 @@ class Encoder:
         if not e.get("en"):
             return self.jp.encode(e["jp"])
         w = self.en.encode(e["en"])
+        if fit.budget(e["id"], e)[0] in TAG_POOLS:
+            return self.tag_pad(w)
         return self.dict.compress(w) if self.dict and dictenc.compressible(e) else w
+
+    def tag_pad(self, words):
+        """Name tags are as many columns wide as their codes, and the printer draws a code only if its column
+        ceil(x / 12) is inside: append zero-width codes (pair 0x0800 draws nothing) up to last column + 1."""
+        x, need = 0, len(words)
+        for w in words:
+            need = max(need, -(-x // 12) + 1)
+            if enfont.PAIR <= w < enfont.PAIR + 0x4000:
+                x += sum(self.font[self.en.rev[k]][2] for k in (w - enfont.PAIR >> 7, w & 0x7F) if k)
+            elif w < 0xE000:
+                x += 12
+        return words + [enfont.PAIR] * (need - len(words))
 
     def pool(self, doc):
         strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]
@@ -167,9 +188,10 @@ RAM = 0x8000F800  # EXE file offset -> RAM address
 DICT_BASE = 0xE2138  # dictionary entries: u16 offsets from here (string blocks + font cells span < 64 KB)
 
 
-def exe_heap(data, items, dictionary=None):
+def exe_heap(data, items, dictionary=None, model=None):
     """items: [(doc, strings as word lists incl. terminator)] for every EXE table; then the dictionary's entries
-    and offset table (dictenc). Returns (DICT_TAB, DICT_BASE, DICT_N) as RAM addresses for asm/vwf.asm."""
+    and offset table (dictenc), then the msyspack model. Returns (DICT_TAB, DICT_BASE, DICT_N, MSYS_MODEL) as RAM
+    addresses for asm/vwf.asm."""
     heap, out = Heap([d for d, _ in items]), []
     for doc, strings in items:
         table, base = int(doc["table"], 16), int(doc["base"], 16)
@@ -185,8 +207,14 @@ def exe_heap(data, items, dictionary=None):
         assert max(offs) < 0x10000
         out += [(tab, struct.pack("<%dH" % len(offs), *offs))] + [(DICT_BASE + o, b) for o, b in zip(offs, blobs)]
         info = (tab + RAM, DICT_BASE + RAM, len(blobs))
+    if model:
+        blob = model.blob()
+        at = heap.put(blob, DICT_BASE)
+        assert at % 2 == 0
+        out.append((at, blob))
+        info += (at + RAM,)
     heap.write(data, out)
-    return info
+    return info + (0,) * (4 - len(info))
 
 
 def exe_text(data, doc, pool):
@@ -198,7 +226,8 @@ def exe_text(data, doc, pool):
     data[base:end] = strs + bytes(end - base - len(strs))
 
 
-GEN_DEFAULT = {"DICT_TAB": 0, "DICT_BASE": 0, "DICT_N": 0, "HEAP_BASE": HEAP_BASE}
+GEN_DEFAULT = {"DICT_TAB": 0, "DICT_BASE": 0, "DICT_N": 0, "HEAP_BASE": HEAP_BASE, "MSYS_MODEL": 0, "MSYS_SLOT": 0,
+               "MSYS_NSLOT": MSYS_NSLOT, "MSYS_SCRATCH": 0}
 
 
 def armips(exe, gen=None):
@@ -244,10 +273,13 @@ def patched(mode="en", tree=TREE, overrides=None):
     scen = (tree / "SCEN.DAT").read_bytes()
     msys = bytearray((tree / "MSYS.DAT").read_bytes())
     exe = bytearray((tree / EXE).read_bytes())
-    sections, tables, sub = {}, [], {6: b"", 7: b""}
+    sections, tables, sub, msys_docs = {}, [], {6: b"", 7: b""}, []
     for doc in docs():
         if doc["file"] == EXE and mode != "jp":
             tables.append((doc, [enc.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]))
+            continue
+        if doc["file"] == "MSYS.DAT" and mode != "jp":
+            msys_docs.append(doc)
             continue
         pool = enc.pool(doc)
         if doc["file"] == "SCEN.DAT":
@@ -256,30 +288,55 @@ def patched(mode="en", tree=TREE, overrides=None):
             sub[MSYS_SUB.get(doc["entries"][0]["id"].split(".")[1], 7)] += pool  # skills after magic
         else:
             exe_text(exe, doc, pool)
-    heap = msys_text(msys, exe, sub)
-    dict_info = exe_heap(exe, tables, enc.dict) if tables else (0, 0, 0)
+    gen, limit, model = {}, HEAP_BASE, None
+    if msys_docs:
+        model, slot, pools = msys_pack(enc, msys_docs)
+        for doc, pool in zip(msys_docs, pools):
+            sub[MSYS_SUB.get(doc["entries"][0]["id"].split(".")[1], 7)] += pool
+        limit = HEAP_BASE - MSYS_NSLOT * slot
+        gen.update(MSYS_SLOT=slot, MSYS_NSLOT=MSYS_NSLOT, MSYS_SCRATCH=limit)
+    heap = msys_text(msys, exe, sub, limit)
+    dict_info = exe_heap(exe, tables, enc.dict, model) if tables else (0, 0, 0, 0)
     out = {"SCEN.DAT": scen_dat(scen, sections, strict=mode == "en" and not overrides), "MSYS.DAT": bytes(msys)}
-    gen = dict(zip(("DICT_TAB", "DICT_BASE", "DICT_N"), dict_info), HEAP_BASE=heap)
+    gen.update(zip(("DICT_TAB", "DICT_BASE", "DICT_N", "MSYS_MODEL"), dict_info), HEAP_BASE=heap)
     out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe), gen)
     return out
 
 
-def msys_text(msys, exe, sub):
-    """Write MSYS subfiles 6 / 7 ({index: bytes}) in place, or at the end of msys (bytearray) when grown; return
-    the heap base the load buffer needs."""
+def msys_pack(enc, docs_):
+    """Huffman-pack the MSYS pools (tools/msyspack.py). -> (model, slot bytes per unpacked string, [section])."""
+    strings = [[enc.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]] for doc in docs_]
+    model, packed = msyspack.build([s for ss in strings for s in ss])
+    it, pools = iter(packed), []
+    for doc, ss in zip(docs_, strings):
+        words = [msyspack.section_words(next(it)) for _ in ss]
+        refs = extract._refs_parse(doc["refs"])
+        pools.append(textsec.build_section(words, refs, textsec.pad_for(words, len(refs))))
+    slot = max(2 * len(s) for ss in strings for s in ss) + 8 + 3 & ~3  # + room for msys_unpack's cut-off
+    return model, slot, pools
+
+
+def msys_text(msys, exe, sub, limit=HEAP_BASE):
+    """Write MSYS subfiles 6 / 7 ({index: bytes}) in place (sector count shrunk to fit, so the load leaves the
+    unpack slots above `limit` alone), or at the end of msys (bytearray) when grown; return the heap base."""
     top = HEAP_BASE
     for i, blob in sub.items():
         start, count = (struct.unpack_from("<H", exe, t + 2 * i)[0] for t in (MSYS_SECTORS, MSYS_COUNTS))
         n = -(-len(blob) // dat.SECTOR)
         if n > count:
             msys += bytes(-len(msys) % dat.SECTOR)
-            start, count = len(msys) // dat.SECTOR, n
+            start = len(msys) // dat.SECTOR
             msys += bytes(n * dat.SECTOR)
             struct.pack_into("<H", exe, MSYS_SECTORS + 2 * i, start)
-            struct.pack_into("<H", exe, MSYS_COUNTS + 2 * i, count)
         at = start * dat.SECTOR
-        msys[at:at + count * dat.SECTOR] = blob + bytes(count * dat.SECTOR - len(blob))
+        msys[at:at + count * dat.SECTOR] = bytes(count * dat.SECTOR)
+        msys[at:at + len(blob)] = blob
+        if limit < HEAP_BASE or n > count:
+            count = n
+            struct.pack_into("<H", exe, MSYS_COUNTS + 2 * i, count)
         top = max(top, MSYS_BUF + count * dat.SECTOR)
+        if MSYS_BUF + count * dat.SECTOR > limit:
+            raise ValueError("MSYS subfile %d: %d sectors pass the unpack slots at 0x%X" % (i, count, limit))
     if top > HEAP_MAX:
         raise ValueError("MSYS text needs the heap base at 0x%X > HEAP_MAX 0x%X" % (top, HEAP_MAX))
     return top

@@ -123,7 +123,7 @@
   the base +0x3000 (12 KB) the gear_spell warp opened the field menu; with +0x4800 (18 KB, two builds) the menu
   never opened (Select did nothing, field kept running). The +0x3000 build also hung st_vac03/04/07 at ~f2000
   (2 runs each; original ROM lands them) - cause not isolated (heap shift, dictionary or scene text). So: assume
-  any heap shift is unsafe until proven.
+  any heap shift is unsafe until proven. The English build keeps the original base (MSYS text packed, below).
 
 ## Dictionary (phase 7; tools/dictenc.py, asm/vwf.asm, tests test_dict + test_vwf + test_insert English)
 - English letter pairs cost ~1 byte per letter: item descriptions grew 20 KB -> 37 KB, 18 scenes outgrew the slot.
@@ -135,7 +135,20 @@
   lines, EXE tables, MSYS. The compressor never starts a code past 276 px on its line (the printer auto-wraps
   there; the letter x does not depend on grouping). Result: SCEN sections 30-35% smaller than letter pairs, every
   scene inside the slot. **Dialogue boxes with dictionary codes not yet seen in-game.**
-- MSYS descriptions with dictionary codes broke in the spell help box (work/qa/p7warp/gear_spell, shot kept in
+- **Message pre-parser** (verified, `tools/debug/measurelog.lua` exec hooks): 0x800643D0 (called from 0x80066048
+  and others) walks a message before printing: column s1 += 1 per glyph code (0x80064970; += 2 at double size,
+  0x80064AB8), wrap at 24, extent gp+0x84A/0x852 (min col/row) and gp+0x832/0x834 (max col = START column of a
+  glyph / max row). The page print (0x80065614) uses width = 0x832 - 0x84A + 1, and the canvas split follows it,
+  so a wide last code was cut ("I want you to have" for "... have it.", "Oh, Big" for "Oh, Big Brother!").
+  asm/vwf.asm vwf_measure: s1 = ceil(x / 12) with x in VWF pixels (vwf_width: pairs, dictionary entries, game
+  glyphs 12) and 0x832 stretched to the glyph's last column. Verified in the newgame prologue.
+- **Name tags** are not measured by that parser: the tag is as many columns as its codes ("Man" = 2 pair codes
+  showed "Ma"; the phase 5 ruler of 12 codes gave 144 px). The printer draws a code only if its start column
+  ceil(x / 12) < width, so `insert.Encoder.tag_pad` appends zero-width codes (0x0800: glyph index 0, width 0, blank)
+  to scen.name / exe.names strings up to (last start column + 1); 42 of 855 tags get one. The tag measure code
+  itself was not found (lenloops.py / straddr.py + a read-watch found nothing).
+- MSYS descriptions are not dictionary-coded: they are Huffman-packed instead (next section). History: MSYS
+  descriptions with dictionary codes broke in the spell help box (work/qa/p7warp/gear_spell, shot kept in
   work/qa/z_spell.png): text clipped at ~266 px (the "r" of " power" half drawn), the rest of the line wrapped
   early, last row's tail dropped, stray pixels on a "b". Unicorn draws the same words correctly, so the game
   derives something (clear / upload width, or a line length) from the code count. Printer facts found while
@@ -143,8 +156,21 @@
   = window x + w (- 1 when window+0x48 is set), limit[1] = x + w for kinsoku punctuation (gp+0x984..0x996 codes);
   else wrap (0x8006F324) if a row is left, else skip the code. A Lua read-watch of the MSYS buffer
   (probes/watch.lua, --debugger) caught only 3 reads, so the measuring code is still unknown.
-- Idea for MSYS (untested): expand dictionary codes in the description getter into a scratch buffer, so the
-  printer and any measuring code see plain letter pairs. Even so items would be ~29-32 KB > 0x5000.
+
+## Packed MSYS descriptions (phase 7; tools/msyspack.py, asm/vwf.asm msys_get, test test_insert English.test_msys_getters)
+- All MSYS text is reached through one section getter, 0x8004CFB8 (a0 subfile 0/1, a1 section 0/1; checks gp+0x52E
+  = loaded subfile, gp+0x51A = loading, returns 0x80141778 + 2 * gp[0x538 + 2*a1]), called only by six string
+  getters: 0x80070EC0 magic (index < 0x40), 0x80070F2C skills (< 0x40), 0x80070F98 items (< 0x168), and skills
+  sub-ranges 0x8007109C (offset table +0x78, < 0x20), 0x80071108 (+0xB8, < 0x23), 0x80071174 (+0xFE, < 0x30). When
+  the subfile is not loaded they return EXE sys string 0. All six end with the same 5-instruction epilogue (addu v0,
+  v1, v0 = string pointer, then lw ra 0x14 / lw s0 0x10 / jr / addiu sp 0x18): xrefs of 0x80141778 and 0x8004CFB8
+  find nothing else.
+- English: each string is a canonical Huffman bit stream over letters, raw words, END and ~700 BPE merges (model
+  ~3.2 KB in the EXE heap, gen.inc MSYS_MODEL). The epilogues jump to msys_get, which unpacks a pointer into the
+  load buffer to one of 16 slots (216 bytes each, gen.inc MSYS_SCRATCH = top of the 20 KB buffer) as plain pair
+  codes, so the printer and any measuring code see an unpacked string. A cache (key = pointer ^ subfile << 24) gives
+  a string the same slot while it is in use. Items 37 KB of pairs -> 15.7 KB (8 sectors), magic + skills 5.7 KB;
+  subfile sector counts shrink to fit, so the load never reaches the slots. Heap base unchanged (0x80146778).
 
 ## Free space
 - Disc: files can grow (dumpsxiso/mkpsxiso rebuild re-lays the LBAs; the game finds files by CdSearchFile, so moved

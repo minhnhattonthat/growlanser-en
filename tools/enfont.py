@@ -106,6 +106,8 @@ class EnCodec(gltext.Codec):
     def decode(self, words):
         out, rest = [], []
         for w in words:
+            if w == PAIR:  # zero-width filler (insert.Encoder.tag_pad)
+                continue
             if PAIR <= w < PAIR + 0x4000:
                 if rest:
                     out.append(super().decode(rest))

@@ -15,7 +15,7 @@ by hand with {n}). Dialogue prints a page at a time (vwf.asm skips the typewrite
 | Dialogue box (no portrait) | scen messages (term end) | 24 cells: every pair starts at x <= 276, total <= 288 px | 3 | measured | work/qa/s1/newgame (scen000.0186 ruler: wrap after 48 chars = 288 px; 3 lines, page arrow right of line 3) |
 | Dialogue with portrait | scen | same box: the portrait sits above it | 3 | measured | work/qa/marker2/ev_battle001 (scen014.0190 in the full-width box under the face) |
 | Script menu / choice window | scen018 menu lines, choice lines after "・" | 24 cells after the bullet column (288 px) | 6 rows visible | measured | work/qa/s1/dbgmenu (scen018.0002/0003 rulers) |
-| Name tag | scene speaker names (term null), exe.names | 144 px visible (clipped by the tag frame) | 1 | measured | work/qa/s1/newgame (scen000.0003 ruler clipped after "C234" = 24 chars) |
+| Name tag | scene speaker names (term null), exe.names | 144 px visible (clipped by the tag frame); tag width = code count, so insert.Encoder.tag_pad adds zero-width codes | 1 | measured | work/qa/s1/newgame (scen000.0003 ruler clipped after "C234" = 24 chars); phase 7 "Man" -> "Ma" fixed (work/qa/p7dlg4) |
 | Help box (bottom of menus) | exe.help | 24 cells (288 px) | 3 | measured | work/qa/s2/title_config (ruler wraps after 48 chars), work/qa/s4/title_config (5-line help: 3 shown) |
 | Descriptions | msys.items / magic / skills | 24 cells (288 px), same help box | 3 | measured | work/qa/g4 f6000 (msys.magic.0000 ruler wraps at 48), work/qa/s4/gear_spell (5 lines: 3 shown) |
 | Item names (item list, equip / status slots) | exe.items | 8 cells (96 px) | 1 | measured | work/qa/s2/menu_1, work/qa/g3_1..3 (wrap after "A234567890B23456" = 16 chars) |

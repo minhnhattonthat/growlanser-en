@@ -2,27 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check in progress: full-English `build.py` currently FAILS on purpose (MSYS item
-  descriptions need more RAM than proven safe; see "Phase 7 blocker" below). Last good English build (dictionary on
-  MSYS too, heap +0x3000) booted, smoke ok, 64/67 warps; not kept.
-- **Phase 7 so far (2026-11-18):** found the RAM limits (docs/re/text.md "RAM map" + "Dictionary"): scene slot
-  0x7000 (`insert.SCENE_SLOT` check), MSYS text buffer 0x80141778 = 20 KB then the heap. Added a word dictionary
-  (`tools/dictenc.py`, codes 0x4800+, drawn by asm/vwf.asm, ~1080 entries in free font cells, `work/asm/gen.inc`)
-  for dialogue: all scenes now fit. MSYS subfiles 6/7 move to the end of MSYS.DAT when grown (`insert.msys_text`,
-  sector/count tables), heap base patch in vwf.asm (HEAP_BASE). Tests: test_dict, test_vwf dictionary, test_insert
-  English (romdiff vs `tools/allowed.txt`, every pool read back through the EXE's tables; skips while the blocker
-  stands). `tools/debug/heapwatch.lua`, `warp_all.py --script` (extra probes).
-- **Phase 7 blocker (next session starts here):** item descriptions are 37 KB English vs 20 KB buffer (magic+skills
-  13.2 KB vs 10 KB). Tried: (1) dictionary codes in MSYS -> help box clips/garbles (code-count sizing somewhere);
-  (2) heap shift: +12 KB worked for the menu, +18 KB breaks the field menu. Options, best first: (a) expand
-  dictionary codes in the MSYS description getter into a scratch buffer (printer sees pairs) + an items-weighted
-  dictionary, measure if items reach <= 0x5000 + 12 KB (was 29.4 KB with weight 3 -> fits 0x8000 = +12 KB shift,
-  which then needs proving: battles, st_vac03/04/07); (b) find the getter / measuring code first (read-watch with
-  smaller ranges); (c) find other free RAM for the buffer (0x80117B98 is the 68 KB MSYS graphics buffer for
-  subfiles 15-62, 16-17 sectors each: items placed at its top end might survive, unproven); (d) last resort: tighter
-  English descriptions (needs the owner? no: style-preserving rewrite is in scope, but losing detail is not ideal).
-  Then: rebuild, smoke, warp_all (st_vac03/04/07 hung at ~f2000 on the +0x3000 build: check they land), look at a
-  long dialogue page with dictionary codes, gear_spell / item descriptions, then commit phase 7 done.
+- **Phase:** 8. QA in the emulator, next (phase 7 done 2026-11-19).
+- **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
+  contact sheets, visual-QA verdicts with `qa_gate.py`, graphics text G1-G8 from docs/re/graphics.md, `inkbox.py`
+  on choice/centred boxes, `textcover.py`). Things to watch, found in phase 7: (1) any other window the game sizes
+  by code count (choice boxes, menus, battle messages, shop/inn): symptom = text cut at a column edge while the
+  script line is longer; fix like the tags (zero-width 0x0800 padding) or the pre-parser (docs/re/text.md);
+  (2) wait codes mid-line resume at the column, not the pixel; (3) width rows still guesses in docs/windows.md.
+- **Phase 7 (done 2026-11-19):** English build green: 68/68 warps land (work/qa/p7warp, sheets read), smoke ok,
+  check.py green (romdiff vs `tools/allowed.txt`, fit lint, every pool read back). Pieces (docs/re/text.md):
+  - RAM limits: scene slot 0x7000 (`insert.SCENE_SLOT`), MSYS buffer 0x80141778 20 KB then the heap (base kept:
+    any heap shift is unsafe). Word dictionary for dialogue (`tools/dictenc.py`, codes 0x4800+, ~1080 entries).
+  - MSYS descriptions Huffman+BPE packed (`tools/msyspack.py`, model 3.2 KB in the EXE heap): items 37 KB of pairs
+    -> 15.7 KB; the six description getters jump to asm `msys_get`, which unpacks into 16 slots at the top of the
+    buffer (pointer cache). Test: test_insert English.test_msys_getters runs the real getters under unicorn for all
+    476 refs. In game: spell help (gear_spell) and item status (new warp gear_itemdesc: Square on an item) correct.
+  - Message pre-parser measured 1 column per code, so pages with dictionary codes were cut ("I want you to have",
+    "Oh, Big"): asm `vwf_measure`/`vwf_width` (test_vwf_width). Name tags are code-count wide ("Ma" for "Man"):
+    `insert.Encoder.tag_pad` adds zero-width codes. Both verified in the newgame prologue (work/qa/p7dlg4, p7dlg6).
+  - RE helpers: `tools/gpscan.py` (gp+offset users), `tools/lenloops.py` (length loops), `tools/straddr.py`
+    (EXE string RAM address), `tools/debug/measurelog.lua` (parser trace).
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
     `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
@@ -81,8 +80,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   lets English drop it (brief + glossary note); 9 merged lines fixed. Wave-2 term conflicts picked by majority/table
   spelling (glossary section "wave 2"), losers fixed; `normalize.py --majority 3 --write` gave 774 repeated strings
   one English. Reviewer Minors (486 lines) are in docs/polish.md for phase 9.
-- **Still open in phase 7 after the blocker:** item-name width (restore the 15 shortened key items if the field
-  widens; optional). Name entry screen still uses legacy full-width letters (12 px each).
+- **Optional, carried from phase 7:** item-name width (restore the 15 shortened key items if the field widens).
+  Name entry screen still uses legacy full-width letters (12 px each).
 - **Width rows to confirm in the phase 8 tour:** skills, classes, units (battle UI: bt_* warps land before the
   battle starts; Circle alone does not start it), places (world map), battle messages, shop, inn, save screen,
   double-size text.

@@ -52,7 +52,7 @@ class Emu:
         uc.reg_write(UC_MIPS_REG_SP, 0x801FFF00)
         uc.reg_write(UC_MIPS_REG_GP, GP)
         uc.reg_write(UC_MIPS_REG_RA, STOP)
-        uc.emu_start(self.sym[fn], STOP, count=200000)
+        uc.emu_start(self.sym[fn] if isinstance(fn, str) else fn, STOP, count=200000)
         return uc.reg_read(UC_MIPS_REG_V0)
 
     def draw(self, words, col=0, row=0, big=False):
