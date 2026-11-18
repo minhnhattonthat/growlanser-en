@@ -18,8 +18,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   and test_romdiff passes them to romdiff; armips asserts insert.HOOKS original bytes and may write only there and
   in FREE_START-FREE_END; insert.hook_branches (test_hook_sites) finds no branch into a hook span. (4) batches
   check fails on missing English (one keep-list: insert.KEEP_JP / needs_english; the inserter raises too).
-  (5) edge blanks restored in 576 entries (D13; full-width blank = game glyph 0x0000), checked by problems().
-  Minor (short final lines) left for phase 9 polish.
+  (5) edge blanks restored in 566 entries (D13; full-width blank = game glyph 0x0000; MSYS can't hold it:
+  msys.skills.0123-0132 in batches.EDGE_FREE), checked by problems(). Minor (short final lines) in docs/polish.md.
+  check.py green (39 tests), fit 0 errors / 0 warnings, smoke ok, newgame warp lands with English (work/qa/p7r_ab).
+  Build 2026-11-19: disc 1 2281f05f7502da30eccfdeaba86f21bb7a39d62c, disc 2 T1 115d825f9b5249da673188cc4b36a95a95e517ee.
+  Gotcha: never save in game without `--sav` (tools/pcsx/memcard1.mcd is shared; a save there breaks every warp).
+  Phase 8 leads: status screen Circle = spell/skill page (gear_status THEN "...;20 circle"); growth graph
+  (exe.sys.0102/0103) and the place popup (0x8006BB78) not reached yet.
 - **Phase 7 (done 2026-11-19):** English build green: 68/68 warps land (work/qa/p7warp, sheets read), smoke ok,
   check.py green (romdiff vs `tools/allowed.txt`, fit lint, every pool read back). Pieces (docs/re/text.md):
   - RAM limits: scene slot 0x7000 (`insert.SCENE_SLOT`), MSYS buffer 0x80141778 20 KB then the heap (base kept:
