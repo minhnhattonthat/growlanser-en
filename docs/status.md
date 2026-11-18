@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (phase 7 done 2026-11-19).
+- **Phase:** 8. QA in the emulator, in progress (session 4: G1 title + G2/G3 status icons done; next: re-tour, G5 credits).
 - **Phase 8 session 1 (2026-11-19):** tools + first tour.
   - Tour: `warp_all.py --cue <build cue> --out work/qa/tour --shot-every 120` (tour mode = per-warp `--sheet`):
     68/68 landed, 224 sheets in work/qa/tour/manifest.tsv (qa_gate init, --build disc 1 bin); JP baseline
@@ -68,14 +68,30 @@ Updated at the end of every session. Keep it to what the next session needs; his
     mosaic baked into MAP.DAT entry 1161; `tools/cellsrc.py` maps screen cells to texels. Next: tools/title.py
     (render the screen from e1161 + cell map, edit -> indices, MAP.DAT in place in insert.patched), redraw per the
     notes, cold-boot zoomed shot.
+- **Phase 8 session 4 (2026-11-19): re-tour + G1, G2/G3 graphics.**
+  - Tour 3 on build a77695dd (copy in work/qa/tourbuild, so builds don't touch it): 69/69 landed, qa_gate init
+    (93 sheets new/changed), vqa (tools/vqa_run.py, work/qa/vqa3.log): all ok except bt_bandits/sheet_2 (the known
+    empty-box frame timing, verdicts/recheck_2.tsv). The vqa reviewers did NOT flag the status screen's Japanese
+    resistance grid: graphics need their own zoomed look, not the tour verdicts.
+  - G1 title done (tools/title.py, MAP.DAT entry 1161 in place), G2/G3 done (tools/statusgfx.py, MSYS 0x9100, D15).
+    Details docs/re/graphics.md "Done". Cold-boot shots: work/qa/g1/title (title), work/qa/g2/gear_status.
+    tools/allowed.txt + test_romdiff cover MAP.DAT now.
+  - Build after this session: disc 1 82ef6e4ca34b30cabb268cb723949eaf0f80bb3d, disc 2 T1
+    ab5cbb3164f6e49adcf6f7f041ccb8b1d7bdd17a, smoke ok, check.py green (40 tests). **The tour gate is stale** (title and
+    status screens changed): re-tour from a copy of the build, qa_gate init, vqa the changed sheets.
+  - G5 credits (MAP.DAT entry 1257, sweep sheet work/gfx/map/0125.png): staff roles are already romanized English;
+    Japanese = cast lines "ティピ／豊口 めぐみ" (role／actor, a romanized actor line under each: replace the JP line
+    with the English role name, keep the actor line), the "CAST" pages, 開発 キャリアソフト / 著作 アトラス／キャリアソフト /
+    制作 アトラス lines and the (c) line at 0x70000+. The kana+Latin atlas at 0x80000 (G6) is probably the credits'
+    own font (check by VRAM on the credits screen). Needs a credits warp first (debug-tool gap: the check menu's
+    祝賀会以降 ending flow).
 - **Phase 8 still to do (next sessions, in this order):**
-  1. (done: tour gate green, see above; stale again after session 3, re-tour first)
+  1. Re-tour (stale after session 4), qa_gate init, vqa changed sheets.
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
-  3. Graphics text G1-G8 (docs/re/graphics.md): G1 title (decode MAP.DAT entry 1160 arrangement first), G2/G3
-     affinity + element icons (MSYS 0x9100+), G4 appendix, G5 credits, G6 kana atlas (D14 keeps the keyboard kana:
-     check whether G6 is that keyboard, then it stays), G7 identify, G8 FMV logo. Pilot one group, then the
-     graphics agents (codex exec, no nested workers); zoomed cold-boot shot of each, incl. chapter cards, game over,
-     credits (need warps: debug-tool gaps below).
+  3. Graphics text (docs/re/graphics.md): G1-G3 done. G5 credits (see session 4 note; warp first), G6 kana atlas
+     (credits font? D14 keeps the name-entry keyboard kana), G4 appendix (needs a memory-card fixture for title
+     APPENDIX), G7 identify (MAP.DAT 1151, VRAM match on screen), G8 FMV logo (MOVIE0/1.STR re-encode or leave as
+     logo art). Zoomed cold-boot shot of each, incl. chapter cards, game over, credits (warps: debug-tool gaps).
   4. Text coverage: msgforce.lua looping trigger, then `textcover.py work/qa/cov build/strings.tsv` exit 0 (or
      waive with reasons).
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,

@@ -71,9 +71,9 @@ class English(unittest.TestCase):
                 name, rng = line.split()[:2]
                 lo, _, hi = rng.partition("-")
                 allowed.setdefault(name, []).append(range(int(lo, 16), int(hi or lo, 16) + 1))
-        for name in (self.insert.EXE, "MSYS.DAT"):
+        for name in (self.insert.EXE, "MSYS.DAT", "MAP.DAT"):
             writes = [(o, a, b, w) for f, o, a, b, w in self.log if f == name]
-            self.assertGreater(len(writes), 1, name)
+            self.assertTrue(writes, name)  # MAP.DAT: one write (the title entry)
             errs, _ = romdiff.check((extract.TREE / name).read_bytes(), self.out[name], allowed[name], writes)
             self.assertEqual(errs, [], name)
 

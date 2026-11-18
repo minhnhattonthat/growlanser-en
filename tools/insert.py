@@ -21,6 +21,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 import dat  # noqa: E402
 import dictenc  # noqa: E402
 import enfont  # noqa: E402
+import statusgfx  # noqa: E402
+import title  # noqa: E402
 import extract  # noqa: E402
 import fit  # noqa: E402
 import gltext  # noqa: E402
@@ -418,7 +420,7 @@ def read_qa(path):
 
 
 def patched(mode="en", tree=TREE, overrides=None, log=None):
-    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80. overrides: {id: English text} (--qa).
+    """{ISO file name: bytes} for SCEN.DAT, MSYS.DAT, SLPS_023.80 (+ MAP.DAT title, not in jp mode). overrides: {id: English text} (--qa).
     log: a list that gets every EXE / MSYS write as (file, offset, old, new, writer) for romdiff --writes
     (SCEN.DAT is re-laid whole: test_insert English.test_scen_integrity checks it leaf by leaf)."""
     enc = Encoder(mode, overrides)
@@ -448,10 +450,16 @@ def patched(mode="en", tree=TREE, overrides=None, log=None):
         limit = HEAP_BASE - MSYS_NSLOT * slot
         gen.update(MSYS_SLOT=slot, MSYS_NSLOT=MSYS_NSLOT, MSYS_SCRATCH=limit)
     heap = msys_text(msys, exe, sub, limit, log)
+    if mode != "jp":
+        statusgfx.patch(msys, log)  # G2/G3 status-screen resistance labels and element icons
     dict_info = exe_heap(exe, tables, enc.dict, model, log) if tables else (0, 0, 0, 0)
     out = {"SCEN.DAT": scen_dat(scen, sections, strict=mode == "en" and not overrides), "MSYS.DAT": bytes(msys)}
     gen.update(zip(("DICT_TAB", "DICT_BASE", "DICT_N", "MSYS_MODEL"), dict_info), HEAP_BASE=heap)
     out[EXE] = bytes(exe) if mode == "jp" else armips(bytes(exe), gen, log)
+    if mode != "jp":
+        map_dat = bytearray((tree / "MAP.DAT").read_bytes())
+        title.patch(map_dat, log)  # G1 title graphics
+        out["MAP.DAT"] = bytes(map_dat)
     return out
 
 

@@ -21,6 +21,15 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
 | G7 | Texture atlas with Japanese: katakana runs (ス アビ.., ドコッ, ドー ザフィ..), 服 の手, boxed kanji labels (無, 通, 冷, 聖, 炎, 定...) mixed with English UI pieces and a portrait | unknown (a snapshot of a menu's VRAM page?); identify on screen by VRAM match in phase 8 | MAP.DAT entry 1151 (4bpp at 128-byte rows for the text part; mixed formats in the entry) | 4bpp + others |
 | G8 | Logo frame "GROWLANSER" with the katakana subtitle グローランサー, burned into the video | MOVIE0.STR and MOVIE1.STR, ~54 s and ~105 s in (frames 0018/0035 of the 3 s sampling) | FMV (MDEC): needs a frame re-encode (jPSXdec `-replaceframes`, `references/platform-ps1.md`) or leave as logo art; D5 says replace | STR video |
 
+## Done (phase 8 session 4, 2026-11-19)
+- G1 title: `tools/title.py` (cells -> gfx/title/cells.json = cell map + CLUT from a cold-boot shot; draw ->
+  gfx/title/title_en.png; check). insert.patched writes MAP.DAT entry 1161 in place (title.patch). Subtitle replaced
+  by marble, (c) line "CARRIER SOFT 1999" drawn in the line's own style (letter_line). Cold boot: work/qa/g1.
+- G2/G3: shown on the status screen's resistance grid (gear_status warp, bottom right: 9 x element icon + affinity
+  label). `tools/statusgfx.py` redraws MSYS 0x9100 x 192-239 in place (D15). Label CLUT VRAM (288,505), icon CLUT
+  (256,505) (work/qa/g2v dump). Only NULL is seen in the warp (debug unit has all 無効); the other labels' colours
+  come from the label's own brightest index.
+
 ## G1 title layout (phase 8 session 3, 2026-11-19)
 - MAP.DAT entry 1160 (4 KB) tail at 0xAE4: 4 upload records (u16 ?, ?, VRAM x, VRAM y, width in bytes, rows):
   (640,0) 256x256, (768,0) 128x256, (640,256) 64x96, (704,256) 192x80. Entry 1161 = those 4 rects back to back

@@ -30,5 +30,7 @@ SLPS_023.80 EE33A-EE7B9    font cells 531-570
 SLPS_023.80 EE7CC-EF67D    font cells 572-642
 SLPS_023.80 EF6A2-EFD07    font cells 645-69F
 SLPS_023.80 EFD08-F120D    font cells 6A0-7CA: asm/vwf.asm code + English font
+MSYS.DAT    9160-BFF7      G2/G3 resistance labels + element icons, x 192-239 of each row (tools/statusgfx.py)
 MSYS.DAT    42800-49FFF    text subfiles 6/7 in place
 MSYS.DAT    24B800-FFFFFF  text subfiles 6/7 moved past the original end
+MAP.DAT     635C000-63797FF  entry 1161: English title texture (tools/title.py)
