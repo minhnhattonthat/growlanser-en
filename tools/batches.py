@@ -154,7 +154,42 @@ def wrap(entry, en):
             pages += ["{n}".join(lines[i:i + b[3]]) for i in range(0, len(lines), b[3])]
         else:
             pages.append("{n}".join(lines))
+    return widows(entry, "{p}".join(pages))
+
+
+def widows(entry, en):
+    """A page's one-word last line takes the line above's last word, when that line doesn't end a sentence."""
+    b = budget(entry, en)
+    pages = en.split("{p}")
+    for i, page in enumerate(pages):
+        lines = page.split("{n}")
+        if len(lines) < 2 or " " in lines[-1].strip() or "{" in lines[-1] or not lines[-1].strip():
+            continue
+        head, _, word = lines[-2].rstrip(" ").rpartition(" ")
+        if not head.strip() or "{" in word or head.rstrip()[-1] in ".!?…:;" or not fits(f"{word} {lines[-1]}", b):
+            continue
+        lines[-2:] = [head, f"{word} {lines[-1]}"]
+        pages[i] = "{n}".join(lines)
     return "{p}".join(pages)
+
+
+def fix_widows(write):
+    fixed = 0
+    for path, doc, entries in docs():
+        touched = False
+        for e in entries:
+            b = budget(e, e["en"]) if e.get("en") else None
+            if not b or e["id"] in KEEP_JP or b[1] != "wrap" or b[0] == "scen.choice" \
+                    or not e["id"].startswith(WRAPPED):
+                continue
+            new = widows(e, e["en"])
+            if new != e["en"]:
+                fixed += 1
+                e["en"], touched = new, True
+        if touched and write:
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(f"widows: {fixed} fixed{'' if write else ' (dry run: --write)'}")
+    return 0
 
 
 def width_problems(entry, en):
@@ -407,6 +442,8 @@ def main(argv):
         return 0
     if cmd == "edges":
         return fix_edges("--write" in args)
+    if cmd == "widows":
+        return fix_widows("--write" in args)
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()

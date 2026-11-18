@@ -81,7 +81,7 @@
   {
    "id": "scen028.0012",
    "jp": "この学院に入って３年になるけど、{n}学生って気楽よね。{n}卒業なんかしたくないな‥‥。",
-   "en": "I've been at this Academy for three years now. Student{n}life is so carefree, isn't it? I don't ever want to{n}graduate...",
+   "en": "I've been at this Academy for three years now. Student{n}life is so carefree, isn't it? I don't ever want{n}to graduate...",
    "term": "end"
   },
   {
@@ -274,7 +274,7 @@
   {
    "id": "scen028.0042",
    "jp": "うーん、悩んでるって言えば悩んでるかな。",
-   "en": "Hmm... I suppose you could say something's bothering{n}me.",
+   "en": "Hmm... I suppose you could say something's{n}bothering me.",
    "term": "end"
   },
   {
@@ -472,7 +472,7 @@
   {
    "id": "scen028.0072",
    "jp": "アリオストさんは１人でフェザリアン遺跡を{n}探検したんだって？{p}理論に人格、そして行動力まで{n}伴っているなんて‥‥。{n}‥‥すごすぎる！",
-   "en": "I heard Ariost-san explored the Featherian ruins all by{n}himself!{p}He's got the theoretical knowledge, the character, and{n}the initiative to match... He's just incredible!",
+   "en": "I heard Ariost-san explored the Featherian ruins all{n}by himself!{p}He's got the theoretical knowledge, the character, and{n}the initiative to match... He's just incredible!",
    "term": "end"
   },
   {
@@ -601,7 +601,7 @@
   {
    "id": "scen028.0092",
    "jp": "すまないが、本を調べるのは君たちに任せるよ。",
-   "en": "I'm sorry, but I'll have to leave searching the books to{n}you.",
+   "en": "I'm sorry, but I'll have to leave searching the books{n}to you.",
    "term": "end"
   },
   {
@@ -715,7 +715,7 @@
   {
    "id": "scen028.0111",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about the{n}monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
    "term": "end"
   },
   {
@@ -916,7 +916,7 @@
   {
    "id": "scen028.0144",
    "jp": "{v:0026}もう、やめとけ。{n}お前らのやりとりを聞いてたら、頭が痛くなった‥‥。",
-   "en": "{v:0026}Give it a rest. Listening to you lot is giving me a{n}headache...",
+   "en": "{v:0026}Give it a rest. Listening to you lot is giving me{n}a headache...",
    "term": "end"
   },
   {
@@ -964,7 +964,7 @@
   {
    "id": "scen028.0152",
    "jp": "{v:0030}お兄ちゃんがそんな人だったなんて‥‥。",
-   "en": "{v:0030}Big Brother... I never knew you were that sort of{n}person...",
+   "en": "{v:0030}Big Brother... I never knew you were that sort{n}of person...",
    "term": "end"
   },
   {
@@ -988,7 +988,7 @@
   {
    "id": "scen028.0156",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -1099,7 +1099,7 @@
   {
    "id": "scen028.0173",
    "jp": "背中に翼を持つフェザリアンは、有翼人とも呼ばれ、{n}我々人間とは別の種族である。{p}彼らは我々よりも精神的に進化した姿であり、{n}全てにおいて合理的である。{p}また彼らの知識は、最盛期のグローシアンを{n}凌駕しているのだが、これも合理さを求めることで{n}得られる物なのだろうか？{p}または全く別の理由があるのだろうか？{p}私は彼らの生態を調べる事をライフワークとしており、{n}この本に書ききれなかったこともまだまだある。{n}それらについては次巻を待たれたし。",
-   "en": "Featherians, also known as the winged folk for the{n}wings upon their backs, are a race distinct from us{n}humans.{p}They are more mentally evolved than we are, and{n}rational in all things.{p}Their knowledge surpasses even that of the Growsians{n}at their peak. Could this, too, be a result of their{n}pursuit of rationality?{p}Or is there an entirely different reason?{p}I have devoted my life's work to studying their biology,{n}and much remains that I could not include in this book.{n}For those findings, I ask readers to await the next{p}volume.",
+   "en": "Featherians, also known as the winged folk for the{n}wings upon their backs, are a race distinct from{n}us humans.{p}They are more mentally evolved than we are, and{n}rational in all things.{p}Their knowledge surpasses even that of the Growsians{n}at their peak. Could this, too, be a result of their{n}pursuit of rationality?{p}Or is there an entirely different reason?{p}I have devoted my life's work to studying their biology,{n}and much remains that I could not include in this book.{n}For those findings, I ask readers to await the next{p}volume.",
    "term": "end"
   },
   {
@@ -1171,7 +1171,7 @@
   {
    "id": "scen028.0185",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -1324,7 +1324,7 @@
   {
    "id": "scen028.0209",
    "jp": "教授は透明になる薬を研究しているの。",
-   "en": "The Professor is researching a potion that makes you{n}invisible.",
+   "en": "The Professor is researching a potion that makes{n}you invisible.",
    "term": "end"
   },
   {
@@ -1342,7 +1342,7 @@
   {
    "id": "scen028.0212",
    "jp": "体力を回復し、精神を研ぎ澄ますという{n}すばらしい調合を発見したんだが、{n}副作用が心配じゃ。{p}もっと実験を重ねないとのう‥‥。{n}ふふふ。",
-   "en": "I've discovered a marvelous concoction that restores{n}strength and sharpens the mind, but the side effects{n}worry me, they do.{p}I'll have to run a few more experiments, eh...? Heh heh{n}heh.",
+   "en": "I've discovered a marvelous concoction that restores{n}strength and sharpens the mind, but the side effects{n}worry me, they do.{p}I'll have to run a few more experiments, eh...? Heh{n}heh heh.",
    "term": "end"
   },
   {
@@ -1453,7 +1453,7 @@
   {
    "id": "scen028.0229",
    "jp": "{v:004A}重要書類の閲覧許可が欲しいのですが。",
-   "en": "{v:004A}I'd like permission to consult some restricted{n}documents.",
+   "en": "{v:004A}I'd like permission to consult some{n}restricted documents.",
    "term": "end"
   },
   {
@@ -1513,7 +1513,7 @@
   {
    "id": "scen028.0239",
    "jp": "もう、ケチね。{n}会うくらいいいじゃない。",
-   "en": "Oh, don't be so stingy! What's wrong with just seeing{n}him?",
+   "en": "Oh, don't be so stingy! What's wrong with just{n}seeing him?",
    "term": "end"
   },
   {
@@ -1543,7 +1543,7 @@
   {
    "id": "scen028.0244",
    "jp": "{v:004E}そうか、閲覧室で借りたいのか。{p}‥‥{v:004F}ほい、これを持っていきたまえ。",
-   "en": "{v:004E}I see. You want to borrow some from the reading{n}room.{p}...{v:004F}Here, take this with you.",
+   "en": "{v:004E}I see. You want to borrow some from the{n}reading room.{p}...{v:004F}Here, take this with you.",
    "term": "end"
   },
   {
@@ -1591,7 +1591,7 @@
   {
    "id": "scen028.0252",
    "jp": "{v:005D}はい。{n}ブラッドレー副学院長は{n}呪術学研究のスペシャリストなのです。",
-   "en": "{v:005D}Yes. Vice Headmaster Bradley specializes in the study of{n}sorcery.",
+   "en": "{v:005D}Yes. Vice Headmaster Bradley specializes in the study{n}of sorcery.",
    "term": "end"
   },
   {
@@ -1663,7 +1663,7 @@
   {
    "id": "scen028.0264",
    "jp": "{v:005B}そこで魔法技術管理法に基づき、{n}君の研究成果はこの学院で預かることになった。{p}{v:005C}しかし悲観することはないぞ。{n}君は人が空を飛べることを証明したのだからな。{p}{v:005D}これが規定の報奨金だ。",
-   "en": "{v:005B}Therefore, under the Magical Technology Control Act,{n}the Academy will take custody of the results of your{n}research.{p}{v:005C}But there is no need to despair. You have proven that{n}humans can fly.{p}{v:005D}Here is the prescribed reward.",
+   "en": "{v:005B}Therefore, under the Magical Technology Control Act,{n}the Academy will take custody of the results of{n}your research.{p}{v:005C}But there is no need to despair. You have proven that{n}humans can fly.{p}{v:005D}Here is the prescribed reward.",
    "term": "end"
   },
   {
@@ -1828,7 +1828,7 @@
   {
    "id": "scen028.0290",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
@@ -1951,7 +1951,7 @@
   {
    "id": "scen028.0309",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "This is Vice Headmaster Bradley's laboratory, you{n}know.",
+   "en": "This is Vice Headmaster Bradley's laboratory,{n}you know.",
    "term": "end"
   },
   {

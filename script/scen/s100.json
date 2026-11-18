@@ -75,7 +75,7 @@
   {
    "id": "scen100.0011",
    "jp": "今日はお疲れでしょう。{n}テントでお休み下さい。",
-   "en": "You must be tired after today. Please rest in the{n}tent.",
+   "en": "You must be tired after today. Please rest in{n}the tent.",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen100.0037",
    "jp": "{v:0001}この{s:00F2}のせいで先へ進めないんですよ。",
-   "en": "{v:0001}These {s:00F2} are keeping us from{n}advancing.",
+   "en": "{v:0001}These {s:00F2} are keeping us{n}from advancing.",
    "term": "end"
   },
   {
@@ -303,7 +303,7 @@
   {
    "id": "scen100.0049",
    "jp": "なるほど。{n}リーヴス様の突入にあわせるのですね？",
-   "en": "I see. We are to time our attack to Reeves-sama's{n}charge?",
+   "en": "I see. We are to time our attack to{n}Reeves-sama's charge?",
    "term": "end"
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "scen100.0055",
    "jp": "{v:0020}よし、{s:0001}ちゃん！{n}向こうまで競争しよう！",
-   "en": "{v:0020}All right, {s:0001}! Race you to the other{n}side!",
+   "en": "{v:0020}All right, {s:0001}! Race you to the{n}other side!",
    "term": "end"
   },
   {
@@ -503,7 +503,7 @@
   {
    "id": "scen100.0082",
    "jp": "‥‥{v:003F}俺としたことが、うかつだったぜ。",
-   "en": "...{v:003F}Damn. I should've known better than to let my guard{n}down.",
+   "en": "...{v:003F}Damn. I should've known better than to let my{n}guard down.",
    "term": "end"
   },
   {
@@ -593,7 +593,7 @@
   {
    "id": "scen100.0097",
    "jp": "{v:0069}ふわぁ～、ヒドイ{s:0127}にあったわ。",
-   "en": "{v:0069}Whew... We really looked death in the eye{n}there.",
+   "en": "{v:0069}Whew... We really looked death in the{n}eye there.",
    "term": "end"
   },
   {
@@ -635,7 +635,7 @@
   {
    "id": "scen100.0104",
    "jp": "{v:0071}やっぱりな。{n}奴はお前の力に{s:0127}を付け、{n}是が非でも自分の手駒にしたかったんだろう。",
-   "en": "{v:0071}Figured as much. He had his eye on your{n}strength. Must've been dead set on making you his{n}pawn.",
+   "en": "{v:0071}Figured as much. He had his eye on your{n}strength. Must've been dead set on making you{n}his pawn.",
    "term": "end"
   },
   {
@@ -749,7 +749,7 @@
   {
    "id": "scen100.0123",
    "jp": "‥‥{v:0087}君たちが守ってくれたのか。{n}ありがとう。{p}{v:0088}これからはもっと警戒を厳重にしなければならないな。{p}{v:0089}後は我々が警備を強化する。{n}君たちは休んでくれ。",
-   "en": "...{v:0087}You protected her? Thank you.{p}{v:0088}We shall have to keep a closer watch from now on.{p}{v:0089}We will strengthen the guard. You should get some{n}rest.",
+   "en": "...{v:0087}You protected her? Thank you.{p}{v:0088}We shall have to keep a closer watch from now on.{p}{v:0089}We will strengthen the guard. You should get{n}some rest.",
    "term": "end"
   },
   {
@@ -827,13 +827,13 @@
   {
    "id": "scen100.0136",
    "jp": "{v:0018}あとはアタシたちが何とかしますから、{n}アンジェラ様はお休みになってください。",
-   "en": "{v:0018}We'll figure out the rest, so please get some rest,{n}Angela-sama.",
+   "en": "{v:0018}We'll figure out the rest, so please get some{n}rest, Angela-sama.",
    "term": "end"
   },
   {
    "id": "scen100.0137",
    "jp": "{v:0019}あとのことは我々に任せて、{n}アンジェラ様はお休みください。",
-   "en": "{v:0019}Leave the rest to us and please get some rest,{n}Angela-sama.",
+   "en": "{v:0019}Leave the rest to us and please get some{n}rest, Angela-sama.",
    "term": "end"
   },
   {
@@ -953,7 +953,7 @@
   {
    "id": "scen100.0157",
    "jp": "このままいつまでもここにいると、{n}兵の士気が下がってしまうわ。",
-   "en": "If we stay here much longer, the soldiers will lose{n}heart.",
+   "en": "If we stay here much longer, the soldiers will{n}lose heart.",
    "term": "end"
   },
   {
@@ -983,7 +983,7 @@
   {
    "id": "scen100.0162",
    "jp": "{v:0027}彼らが{s:0004}を連れてきてくれました。{p}{v:0028}戴冠式の席で、グレッグ卿が{s:001B}に{n}斬りかかったことは、全くの狂言。{n}あの場にいた私が、証人です。{p}{v:0029}バーンシュタインもローランディアも、{n}本当は戦う必要はないのです。{p}{v:002A}真に倒すべきは{s:001B}と、その背後で糸を引く者。",
-   "en": "{v:0027}They brought {s:0004} to us.{p}{v:0028}Lord Greg's attack on {s:001B} at the{n}coronation was entirely staged. I was there, and I can{n}testify to it.{p}{v:0029}There is truly no need for Burnstein and Rolandia to{n}fight.{p}{v:002A}The ones we must defeat are {s:001B} and{n}whoever is pulling the strings behind him.",
+   "en": "{v:0027}They brought {s:0004} to us.{p}{v:0028}Lord Greg's attack on {s:001B} at the{n}coronation was entirely staged. I was there, and I can{n}testify to it.{p}{v:0029}There is truly no need for Burnstein and Rolandia{n}to fight.{p}{v:002A}The ones we must defeat are {s:001B} and{n}whoever is pulling the strings behind him.",
    "term": "end"
   },
   {
@@ -1042,7 +1042,7 @@
   {
    "id": "scen100.0171",
    "jp": "{v:002D}僕は国王に忠誠を誓う騎士だ。{n}偽王にではなく、ね。{p}{v:002E}これが答えじゃ不満かい？",
-   "en": "{v:002D}I am a knight sworn to serve the King. Not an{n}impostor.{p}{v:002E}Is that not answer enough?",
+   "en": "{v:002D}I am a knight sworn to serve the King. Not{n}an impostor.{p}{v:002E}Is that not answer enough?",
    "term": "end"
   },
   {
@@ -1060,7 +1060,7 @@
   {
    "id": "scen100.0174",
    "jp": "‥‥{v:0031}知ってる。{n}本来は知らないふりをしなければいけない{n}存在だけどね。{p}{v:0032}彼がどうかしたのかい？",
-   "en": "...{v:0031}I do. Though officially, I am supposed to pretend I do{n}not.{p}{v:0032}What about him?",
+   "en": "...{v:0031}I do. Though officially, I am supposed to pretend I{n}do not.{p}{v:0032}What about him?",
    "term": "end"
   },
   {
@@ -1126,7 +1126,7 @@
   {
    "id": "scen100.0185",
    "jp": "{v:003F}しっ！{p}{v:0040}それ以上はなしだ。{n}ほら、{s:011B}が怖い顔でにらんでるよ。",
-   "en": "{v:003F}Shh!{p}{v:0040}Not another word. Look, {s:011B} is glaring at{n}us.",
+   "en": "{v:003F}Shh!{p}{v:0040}Not another word. Look, {s:011B} is glaring{n}at us.",
    "term": "end"
   },
   {
@@ -1144,13 +1144,13 @@
   {
    "id": "scen100.0188",
    "jp": "{v:0043}それほど話したことはないけど、{n}自分にも他人にも厳しくて、{n}どこか近寄り難い人だったね。{p}{v:0044}ああ、そう言えば見かけよりも本当は歳を{n}取っているらしいよ。{p}{v:0045}彼が宮廷魔術師になった時から、{n}外見が変わっていないそうだ。{n}何か魔法で歳を取らなくしているみたいだね。",
-   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable about{n}him.{p}{v:0044}Oh, come to think of it, I hear he is actually older than{n}he looks.{p}{v:0045}They say his appearance has not changed since he{n}became Court Magician. He seems to use some sort of{n}magic to keep himself from aging.",
+   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable{n}about him.{p}{v:0044}Oh, come to think of it, I hear he is actually older than{n}he looks.{p}{v:0045}They say his appearance has not changed since he{n}became Court Magician. He seems to use some sort of{n}magic to keep himself from aging.",
    "term": "end"
   },
   {
    "id": "scen100.0189",
    "jp": "{v:0043}それほど話したことはないけど、{n}自分にも他人にも厳しくて、{n}どこか近寄り難い人だったね。",
-   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable about{n}him.",
+   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable{n}about him.",
    "term": "end"
   },
   {
@@ -1174,13 +1174,13 @@
   {
    "id": "scen100.0193",
    "jp": "{v:004B}あ、それから１つだけ。{p}{v:004C}早く{s:0008}のところに行ってあげた方がいい。{p}{v:004D}あっちには頑固にも{s:001B}の味方をする、{n}アーネスト‥‥ライエル将軍が出撃しているからね。",
-   "en": "{v:004B}Oh, one more thing.{p}{v:004C}You should go to {s:0008} as soon as you{n}can.{p}{v:004D}Ernest... General Lyell has marched out that way. He{n}stubbornly insists on siding with {s:001B}.",
+   "en": "{v:004B}Oh, one more thing.{p}{v:004C}You should go to {s:0008} as soon as{n}you can.{p}{v:004D}Ernest... General Lyell has marched out that way. He{n}stubbornly insists on siding with {s:001B}.",
    "term": "end"
   },
   {
    "id": "scen100.0194",
    "jp": "{v:004E}インペリアル・ナイト同士の戦いか‥‥。{p}{v:004F}{s:0008}、大変そうだね。",
-   "en": "{v:004E}One Imperial Knight fighting another...{p}{v:004F}Sounds like {s:0008} has a tough fight{n}ahead.",
+   "en": "{v:004E}One Imperial Knight fighting another...{p}{v:004F}Sounds like {s:0008} has a tough{n}fight ahead.",
    "term": "end"
   },
   {
@@ -1258,7 +1258,7 @@
   {
    "id": "scen100.0207",
    "jp": "{v:000E}信じていただけませんかな？{p}{v:000F}私はインペリアル・ナイツとして国王陛下の{n}身近にいた者です。{n}しかし最近の陛下は、すっかり変わってしまわれた。{p}{v:0010}そんな折り、あの陛下は真っ赤な偽者であると{n}貴殿らは反乱を起こされた。{p}{v:0011}それだけならまだしも、{n}アンジェラ様までが貴殿らを支持している。",
-   "en": "{v:000E}Do you find that hard to believe?{p}{v:000F}As one of the Imperial Knights, I served close to His{n}Majesty the King. Yet of late, His Majesty has changed{n}completely.{p}{v:0010}Then you rose in rebellion, declaring that this king was{n}an outright impostor.{p}{v:0011}That alone might not have swayed me, but even{n}Angela-sama supports your cause.",
+   "en": "{v:000E}Do you find that hard to believe?{p}{v:000F}As one of the Imperial Knights, I served close to His{n}Majesty the King. Yet of late, His Majesty has{n}changed completely.{p}{v:0010}Then you rose in rebellion, declaring that this king was{n}an outright impostor.{p}{v:0011}That alone might not have swayed me, but even{n}Angela-sama supports your cause.",
    "term": "end"
   },
   {
@@ -1282,7 +1282,7 @@
   {
    "id": "scen100.0211",
    "jp": "{v:0015}これはアンジェラ様‥‥。{p}{v:0016}失礼を承知で、おうかがいしたいことがございます。",
-   "en": "{v:0015}Ah, Angela-sama...{p}{v:0016}Forgive my impertinence, but there is something I must{n}ask.",
+   "en": "{v:0015}Ah, Angela-sama...{p}{v:0016}Forgive my impertinence, but there is something I{n}must ask.",
    "term": "end"
   },
   {
@@ -1324,7 +1324,7 @@
   {
    "id": "scen100.0218",
    "jp": "{v:0020}インペリアル・ナイツが、{n}スパイじみた作戦をとると思いますか？{p}{v:0021}それに彼の忠誠は、私もよく知っております。{n}心配はありません。",
-   "en": "{v:0020}Do you believe the Imperial Knights would resort to a{n}spy's tactics?{p}{v:0021}Besides, I know his loyalty well. There is nothing to{n}fear.",
+   "en": "{v:0020}Do you believe the Imperial Knights would resort to a{n}spy's tactics?{p}{v:0021}Besides, I know his loyalty well. There is nothing{n}to fear.",
    "term": "end"
   },
   {
@@ -1342,7 +1342,7 @@
   {
    "id": "scen100.0221",
    "jp": "彼の言葉が気になる。{n}{s:0008}は大丈夫だろうか‥‥？",
-   "en": "His words trouble me. Will {s:0008} be all{n}right...?",
+   "en": "His words trouble me. Will {s:0008} be{n}all right...?",
    "term": "end"
   },
   {

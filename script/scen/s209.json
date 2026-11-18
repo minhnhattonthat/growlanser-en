@@ -171,7 +171,7 @@
   {
    "id": "scen209.0027",
    "jp": "{v:0029}ヤバイよ！{n}ルイセちゃんのこと、気づかれたみたい！",
-   "en": "{v:0029}Oh, no! I think they've figured out what's wrong with{n}Luise-chan!",
+   "en": "{v:0029}Oh, no! I think they've figured out what's wrong{n}with Luise-chan!",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen209.0033",
    "jp": "{v:0035}ああ、やられちゃうよ！{n}早く助けてあげなよ！",
-   "en": "{v:0035}Oh, no! They're going to get killed! Hurry up and help{n}them!",
+   "en": "{v:0035}Oh, no! They're going to get killed! Hurry up and{n}help them!",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen209.0039",
    "jp": "‥‥{v:003B}そう簡単に言うと思うか？{n}だが代わりに面白いことを教えてやる‥‥。{p}{v:003C}リシャールを見てわかっただろう‥‥。{n}ゲヴェル様はある人物の細胞から、{n}複製を作り出せる。{p}{v:003D}我々もそうして、何十体と作り出された。{n}‥‥そして、そのうち１体が{n}ローランディアの要人の家に引き取られた‥‥。{p}{v:003E}それがこの顔だ！",
-   "en": "...{v:003B}Do you think I would tell you so easily? But I will tell{n}you something amusing instead...{p}{v:003C}You must have realized it when you saw Richard...{n}Gevel-sama can create replicas from a certain person's{n}cells.{p}{v:003D}Dozens of us were created that way, too. ...And one of{n}us was taken into the household of an important figure{n}in Rolandia...{p}{v:003E}And this is his face!",
+   "en": "...{v:003B}Do you think I would tell you so easily? But I will tell{n}you something amusing instead...{p}{v:003C}You must have realized it when you saw Richard...{n}Gevel-sama can create replicas from a certain{n}person's cells.{p}{v:003D}Dozens of us were created that way, too. ...And one of{n}us was taken into the household of an important figure{n}in Rolandia...{p}{v:003E}And this is his face!",
    "term": "end"
   },
   {

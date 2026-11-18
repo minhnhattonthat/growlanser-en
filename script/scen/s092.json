@@ -33,7 +33,7 @@
   {
    "id": "scen092.0004",
    "jp": "　　　　{FFF0}熱烈歓迎{FFF1}{n}グランシル市　　観光協会",
-   "en": "　　　　{FFF0}A Warm Welcome!{FFF1} Grancil City Tourism{n}Association",
+   "en": "　　　　{FFF0}A Warm Welcome!{FFF1} Grancil City{n}Tourism Association",
    "term": "end"
   },
   {
@@ -51,7 +51,7 @@
   {
    "id": "scen092.0007",
    "jp": "お兄ちゃん！{n}あの人を置いていって、どこへ行くつもり？",
-   "en": "Big Brother! Where are you going? We can't leave her{n}behind!",
+   "en": "Big Brother! Where are you going? We can't leave{n}her behind!",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen092.0027",
    "jp": "オズワルドって賊が、{n}この橋を落としたそうね‥‥。{p}もし見つけたら、おしおきしてやるのに！{n}くやし～！！",
-   "en": "I hear a bandit named Oswald brought down this{n}bridge...{p}If I found him, I'd teach him a lesson! Ooh, it makes me{n}so mad!",
+   "en": "I hear a bandit named Oswald brought down{n}this bridge...{p}If I found him, I'd teach him a lesson! Ooh, it makes me{n}so mad!",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen092.0029",
    "jp": "お兄ちゃん！{n}ウォレスさんを置いていって、どうするつもり？",
-   "en": "Big Brother! What are you thinking, leaving Wallace-san{n}behind?",
+   "en": "Big Brother! What are you thinking, leaving{n}Wallace-san behind?",
    "term": "end"
   }
  ]

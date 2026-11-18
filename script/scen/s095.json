@@ -39,13 +39,13 @@
   {
    "id": "scen095.0005",
    "jp": "{v:0001}ガルアオス監獄だ。{p}{v:0002}ガルアオスは『終局』を意味する。{n}生きてここを出られた奴はいねぇ。{p}{v:0003}有事の際には要塞として使えるように{n}造られてるって話だ。{n}ここに入れられたら、救出は不可能だな。",
-   "en": "{v:0001}Garuaos Prison.{p}{v:0002}Garuaos means 'the end.' No one's ever left this place{n}alive.{p}{v:0003}They say it was built to serve as a fortress in{n}wartime. Once she's locked up in there, a rescue's{n}impossible.",
+   "en": "{v:0001}Garuaos Prison.{p}{v:0002}Garuaos means 'the end.' No one's ever left this{n}place alive.{p}{v:0003}They say it was built to serve as a fortress in{n}wartime. Once she's locked up in there, a{n}rescue's impossible.",
    "term": "end"
   },
   {
    "id": "scen095.0006",
    "jp": "{v:0004}それじゃ、護送中に助けないとダメなんだ。",
-   "en": "{v:0004}Then we have to rescue her while they're transporting{n}her.",
+   "en": "{v:0004}Then we have to rescue her while they're{n}transporting her.",
    "term": "end"
   },
   {
@@ -57,7 +57,7 @@
   {
    "id": "scen095.0008",
    "jp": "{v:0006}そうだな。{n}周囲の地形を調べて、襲撃ポイントを探そう。",
-   "en": "{v:0006}Right. Let's survey the terrain and find a spot to{n}strike.",
+   "en": "{v:0006}Right. Let's survey the terrain and find a spot{n}to strike.",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen095.0011",
    "jp": "{v:00A1}くっ！{n}たった４人にここまでやられるとは‥‥。{p}{FC00}{v:00A2}だが手並みは、さすがと言うところか‥‥。",
-   "en": "{v:00A1}Gah! To think just four people could do this much{n}damage...{p}{FC00}{v:00A2}But their skill is certainly worthy of their reputation...",
+   "en": "{v:00A1}Gah! To think just four people could do this{n}much damage...{p}{FC00}{v:00A2}But their skill is certainly worthy of their reputation...",
    "term": "end"
   },
   {
@@ -99,7 +99,7 @@
   {
    "id": "scen095.0015",
    "jp": "とにかく隠れる場所を探すのは、{n}{s:0000}に任せよう。{p}いい場所が見つかったら、{n}そこでじっと待っていればいい。",
-   "en": "Anyway, let's leave finding a hiding place to{n}{s:0000}.{p}Once we find a good spot, we just have to stay put and{n}wait.",
+   "en": "Anyway, let's leave finding a hiding place to{n}{s:0000}.{p}Once we find a good spot, we just have to stay put{n}and wait.",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen095.0026",
    "jp": "{v:00A4}礼には及びません。{n}これも任務ですから。",
-   "en": "{v:00A4}There is no need to thank us. We are only doing our{n}duty.",
+   "en": "{v:00A4}There is no need to thank us. We are only doing{n}our duty.",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen095.0041",
    "jp": "{v:001D}ウォレスさん、この辺りで何かあったんですか？",
-   "en": "{v:001D}Wallace-san, did something happen to you around{n}here?",
+   "en": "{v:001D}Wallace-san, did something happen to you{n}around here?",
    "term": "end"
   },
   {
@@ -329,7 +329,7 @@
   {
    "id": "scen095.0053",
    "jp": "{v:0029}それじゃ頼んだぜ。{n}何かあったらすぐに起こせよ。",
-   "en": "{v:0029}We're counting on you. Wake me right away if anything{n}happens.",
+   "en": "{v:0029}We're counting on you. Wake me right away if{n}anything happens.",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen095.0077",
    "jp": "{v:0043}それじゃ頼んだぜ。{n}何かあったらすぐに起こせよ。",
-   "en": "{v:0043}We're counting on you. Wake me right away if anything{n}happens.",
+   "en": "{v:0043}We're counting on you. Wake me right away if{n}anything happens.",
    "term": "end"
   },
   {
@@ -1146,7 +1146,7 @@
   {
    "id": "scen095.0187",
    "jp": "さっきの{s:0000}って奴だけど‥‥。",
-   "en": "About that {s:0000} guy we were talking{n}about...",
+   "en": "About that {s:0000} guy we were{n}talking about...",
    "term": "end"
   },
   {
@@ -1170,13 +1170,13 @@
   {
    "id": "scen095.0191",
    "jp": "後は魔法学院の学者もいるって話だ。",
-   "en": "They say there's a scholar from the Magic Academy,{n}too.",
+   "en": "They say there's a scholar from the Magic{n}Academy, too.",
    "term": "end"
   },
   {
    "id": "scen095.0192",
    "jp": "俺は、何か虫みたいな奴を連れてるって聞いたぜ？",
-   "en": "I heard he drags some bug-looking thing around with{n}him.",
+   "en": "I heard he drags some bug-looking thing around{n}with him.",
    "term": "end"
   },
   {
@@ -1194,7 +1194,7 @@
   {
    "id": "scen095.0195",
    "jp": "そんなんで、無敵ってんだから、信じられねぇよな。",
-   "en": "And they call that lot unbeatable? Hard to believe, ain't{n}it?",
+   "en": "And they call that lot unbeatable? Hard to believe,{n}ain't it?",
    "term": "end"
   },
   {
@@ -1206,7 +1206,7 @@
   {
    "id": "scen095.0197",
    "jp": "お、おい！{n}そんなの聞かれたら、きっついおしおきをされるぞ！",
-   "en": "H-Hey! If anyone hears you, you'll be in for one hell of a{n}punishment!",
+   "en": "H-Hey! If anyone hears you, you'll be in for one hell of{n}a punishment!",
    "term": "end"
   },
   {
@@ -1236,7 +1236,7 @@
   {
    "id": "scen095.0202",
    "jp": "このままでは先へ進めないぞ‥‥。{n}一体どうすれば‥‥。",
-   "en": "We can't advance like this... What are we supposed to{n}do...?",
+   "en": "We can't advance like this... What are we supposed{n}to do...?",
    "term": "end"
   },
   {
@@ -1374,7 +1374,7 @@
   {
    "id": "scen095.0225",
    "jp": "今まで持っていた王位を{n}そう簡単に手放すわけはありませんよね。{p}それにしても、橋を守っている敵兵ですが、{n}どうも柄が悪いように思えるんですよ。",
-   "en": "I suppose he wouldn't give up the throne he's held so{n}easily.{p}Still, those enemy soldiers guarding the bridge seem{n}like a rather unsavory lot.",
+   "en": "I suppose he wouldn't give up the throne he's held{n}so easily.{p}Still, those enemy soldiers guarding the bridge seem{n}like a rather unsavory lot.",
    "term": "end"
   },
   {
@@ -1458,7 +1458,7 @@
   {
    "id": "scen095.0239",
    "jp": "おい、{s:0000}。{n}いったい、どこへ行くつもりだ？",
-   "en": "Hey, {s:0000}. Where do you think you're{n}going?",
+   "en": "Hey, {s:0000}. Where do you think{n}you're going?",
    "term": "end"
   }
  ]

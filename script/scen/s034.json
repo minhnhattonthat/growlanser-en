@@ -244,7 +244,7 @@
   {
    "id": "scen034.0037",
    "jp": "さ、一休みしたらまた調べものに戻るわよ！",
-   "en": "All right, once we've had a little rest, it's back to our{n}research!",
+   "en": "All right, once we've had a little rest, it's back to{n}our research!",
    "term": "end"
   },
   {
@@ -535,7 +535,7 @@
   {
    "id": "scen034.0081",
    "jp": "『{FFEF}グローシアンの特殊能力{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -571,7 +571,7 @@
   {
    "id": "scen034.0087",
    "jp": "『{FFEF}古代遺跡とその出土品{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -589,7 +589,7 @@
   {
    "id": "scen034.0090",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about the{n}monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
    "term": "end"
   },
   {
@@ -613,7 +613,7 @@
   {
    "id": "scen034.0094",
    "jp": "はるか昔、フェザリアンが巨大地下洞窟を{n}作ったとする伝承がある。{p}その洞窟は、常に形を変え続けるという{n}不思議な仕掛けが施されており、{n}しかも地下１０階層以上もあると言う。{n}そこに潜むモンスターは危険なものが多く、{n}地下深くには、未知のモンスターもいるらしい。{p}だが伝承によれば、この洞窟には{n}手つかずの素晴らしい財宝が数多く眠っている。{n}我々はこの洞窟のありかを探すべく、調査を進めた。{n}そこで、１つの貴重な情報を手に入れた。{p}この洞窟へ行くには、とある人物の力を借りなければ{n}ダメだという情報だ。{n}さらにその人物とは、フェザリアンに{n}洞窟の管理を任された一族のことを意味する。{p}我々は各地をさまよったあげく、{n}洞窟管理者の一族と思われる人物を{n}シュッツベルグで見つけることができた。{p}彼は洞窟を探索したいという我々の申し出を{n}簡単には受け入れてくれなかったが、{n}フェザリアン本に記してあったある言葉を伝えると、{n}ようやく彼は、洞窟への案内を約束してくれた。{p}そこで次の章は、この洞窟の探索記録を{n}記していこうと思う。",
-   "en": "Legend tells of a vast underground cavern built by the{n}Featherians long ago.{p}The cavern is said to contain a mysterious mechanism{n}that constantly changes its layout, and to extend more{n}than ten levels underground. Many dangerous monsters{p}lurk within, and unknown monsters are said to inhabit{n}its depths.{p}Yet according to legend, countless magnificent{n}treasures lie untouched within this cavern. We began{n}investigating its whereabouts and obtained one{p}valuable piece of information.{p}To reach the cavern, one must enlist the help of a{n}certain person. This person belongs to a family{n}entrusted by the Featherians with its care.{p}After wandering far and wide, we found a man in{n}Schutzberg whom we believed to be a member of that{n}family.{p}He was reluctant to grant our request to explore the{n}cavern. However, when we recited certain words{n}recorded in a Featherian book, he finally promised to{p}guide us there.{p}In the next chapter, I intend to record our exploration{n}of this cavern.",
+   "en": "Legend tells of a vast underground cavern built by the{n}Featherians long ago.{p}The cavern is said to contain a mysterious mechanism{n}that constantly changes its layout, and to extend more{n}than ten levels underground. Many dangerous monsters{p}lurk within, and unknown monsters are said to inhabit{n}its depths.{p}Yet according to legend, countless magnificent{n}treasures lie untouched within this cavern. We began{n}investigating its whereabouts and obtained one{p}valuable piece of information.{p}To reach the cavern, one must enlist the help of a{n}certain person. This person belongs to a family{n}entrusted by the Featherians with its care.{p}After wandering far and wide, we found a man in{n}Schutzberg whom we believed to be a member of{n}that family.{p}He was reluctant to grant our request to explore the{n}cavern. However, when we recited certain words{n}recorded in a Featherian book, he finally promised to{p}guide us there.{p}In the next chapter, I intend to record our exploration{n}of this cavern.",
    "term": "end"
   },
   {
@@ -667,7 +667,7 @@
   {
    "id": "scen034.0103",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -754,7 +754,7 @@
   {
    "id": "scen034.0116",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。",
-   "en": "You need permission from the Headmaster or Vice{n}Headmaster to consult the important documents housed{n}here.",
+   "en": "You need permission from the Headmaster or Vice{n}Headmaster to consult the important documents{n}housed here.",
    "term": "end"
   },
   {
@@ -835,7 +835,7 @@
   {
    "id": "scen034.0128",
    "jp": "師匠がまだ帰らないんだ。{n}今頃、どこにいるのだろう‥‥。",
-   "en": "My mentor still hasn't returned. I wonder where he is{n}now...",
+   "en": "My mentor still hasn't returned. I wonder where he{n}is now...",
    "term": "end"
   },
   {
@@ -1024,7 +1024,7 @@
   {
    "id": "scen034.0158",
    "jp": "{v:0022}ヴェンツェルの正体はグローシアンとゲヴェルの{n}融合体だったんです。",
-   "en": "{v:0022}Wenzel turned out to be a fusion of a Growsian and{n}Gevel.",
+   "en": "{v:0022}Wenzel turned out to be a fusion of a Growsian{n}and Gevel.",
    "term": "end"
   },
   {
@@ -1036,7 +1036,7 @@
   {
    "id": "scen034.0160",
    "jp": "{v:0024}はい。{n}元々グローシアンだったヴェンツェルは、{n}ゲヴェルの力と、時空を操る能力を手にいれました。",
-   "en": "{v:0024}Yes. Wenzel was originally a Growsian, but he acquired{n}Gevel's power and the ability to manipulate space and{n}time.",
+   "en": "{v:0024}Yes. Wenzel was originally a Growsian, but he acquired{n}Gevel's power and the ability to manipulate space{n}and time.",
    "term": "end"
   },
   {
@@ -1168,7 +1168,7 @@
   {
    "id": "scen034.0182",
    "jp": "{v:000C}コイツの涙に、グローシュを戻す能力とか{n}あるのかしら？",
-   "en": "{v:000C}I wonder if this guy's tears can restore Grosh or{n}something?",
+   "en": "{v:000C}I wonder if this guy's tears can restore Grosh{n}or something?",
    "term": "end"
   },
   {
@@ -1339,7 +1339,7 @@
   {
    "id": "scen034.0209",
    "jp": "{v:000D}人間は、元の世界が住めなくなったから、{n}この世界と重なることで活路を見いだした。{p}{v:000E}それが戻るということは、{n}死の世界に帰されるということだ。",
-   "en": "{v:000D}Humanity's original world became uninhabitable, so we{n}found a way to survive by overlapping it with this{n}world.{p}{v:000E}If that is reversed, we will be sent back to a world of{n}death.",
+   "en": "{v:000D}Humanity's original world became uninhabitable, so we{n}found a way to survive by overlapping it with{n}this world.{p}{v:000E}If that is reversed, we will be sent back to a world{n}of death.",
    "term": "end"
   },
   {
@@ -1369,7 +1369,7 @@
   {
    "id": "scen034.0214",
    "jp": "{v:0013}だからこうして困っているのだよ。{p}{v:0014}今はこの『歪み計』が故障していると{n}思いたいのだが‥‥。",
-   "en": "{v:0013}That is precisely why we're at a loss.{p}{v:0014}For now, I'd like to believe this 'distortion gauge' is{n}broken...",
+   "en": "{v:0013}That is precisely why we're at a loss.{p}{v:0014}For now, I'd like to believe this 'distortion gauge'{n}is broken...",
    "term": "end"
   },
   {
@@ -1441,7 +1441,7 @@
   {
    "id": "scen034.0226",
    "jp": "準備は整っています。{n}さっそく実験を始めましょう。",
-   "en": "Everything is ready. Let us begin the experiment at{n}once.",
+   "en": "Everything is ready. Let us begin the experiment{n}at once.",
    "term": "end"
   },
   {
@@ -1546,7 +1546,7 @@
   {
    "id": "scen034.0242",
    "jp": "{v:001B}できるだけ、ルイセ君の時と{n}同じ状況にする必要があるからね。{p}{v:001C}さて、今回はルイセ君の代わりにアイリーンに{n}いてもらうわけだが、君たちには、{n}あの時と同じ精神状態になってもらいたい。{p}{v:001D}ここに寝ているのはアイリーンではない。{n}君の妹、ルイセ君だ。",
-   "en": "{v:001B}We need to recreate the circumstances of Luise-kun's{n}recovery as closely as possible.{p}{v:001C}Now, Irene will be taking Luise-kun's place this time. I{n}want you both to put yourselves in the same state of{n}mind as you were then.{p}{v:001D}The person lying here is not Irene. It's your sister,{n}Luise-kun.",
+   "en": "{v:001B}We need to recreate the circumstances of Luise-kun's{n}recovery as closely as possible.{p}{v:001C}Now, Irene will be taking Luise-kun's place this time. I{n}want you both to put yourselves in the same state of{n}mind as you were then.{p}{v:001D}The person lying here is not Irene. It's your{n}sister, Luise-kun.",
    "term": "end"
   },
   {
@@ -1684,13 +1684,13 @@
   {
    "id": "scen034.0265",
    "jp": "{v:0033}その通り！{n}あの場にいた私も、今やグローシアンだ！",
-   "en": "{v:0033}Indeed! I was there as well, and now I'm a Growsian{n}myself!",
+   "en": "{v:0033}Indeed! I was there as well, and now I'm a{n}Growsian myself!",
    "term": "end"
   },
   {
    "id": "scen034.0266",
    "jp": "{v:0034}ね、すごいよね！{p}{v:0035}お兄ちゃんがいれば、{n}みんなをグローシアンに出来るんだよ！{n}これでもう一度パワーストーンが作れるかも！",
-   "en": "{v:0034}Isn't it amazing?{p}{v:0035}With you here, Big Brother, we can turn everyone into{n}Growsians! We might be able to make another Power{n}Stone!",
+   "en": "{v:0034}Isn't it amazing?{p}{v:0035}With you here, Big Brother, we can turn everyone into{n}Growsians! We might be able to make another{n}Power Stone!",
    "term": "end"
   },
   {
@@ -1720,7 +1720,7 @@
   {
    "id": "scen034.0271",
    "jp": "{v:003B}彼に時空を歪ませる能力があることは、{n}先ほどの観測からわかった。{p}{v:003C}だが問題があってな。{n}時空を歪ませるたびに、{n}２つの世界を重ねている力が弱まってしまうのだ。",
-   "en": "{v:003B}The observations I just made confirmed that he can{n}distort space and time.{p}{v:003C}But there is a problem. Each time he does so, the{n}force keeping the two worlds overlapped grows{n}weaker.",
+   "en": "{v:003B}The observations I just made confirmed that he can{n}distort space and time.{p}{v:003C}But there is a problem. Each time he does so, the{n}force keeping the two worlds overlapped{n}grows weaker.",
    "term": "end"
   },
   {
@@ -1762,7 +1762,7 @@
   {
    "id": "scen034.0278",
    "jp": "{v:0046}理由は２つある。{p}{v:0047}１つは彼の体力の問題。{n}今回の衰弱から考えると、{n}あと１～２回が限界だろうからな。{p}{v:0048}そしてもう１つは、パワーストーンを作れるだけの{n}人数をグローシアン化する前にこの世界が{n}分離してしまうという可能性だ。",
-   "en": "{v:0046}There are two reasons.{p}{v:0047}First, his stamina. Judging by how weak this has left{n}him, he can probably only manage it once or twice{n}more.{p}{v:0048}Second, this world may separate before he can turn{n}enough people into Growsians to create a Power{n}Stone.",
+   "en": "{v:0046}There are two reasons.{p}{v:0047}First, his stamina. Judging by how weak this has left{n}him, he can probably only manage it once or{n}twice more.{p}{v:0048}Second, this world may separate before he can turn{n}enough people into Growsians to create a{n}Power Stone.",
    "term": "end"
   },
   {
@@ -1804,7 +1804,7 @@
   {
    "id": "scen034.0285",
    "jp": "{v:004E}まさか、普通の人までグローシアンに出来るとはね。",
-   "en": "{v:004E}To think you can even turn ordinary people into{n}Growsians.",
+   "en": "{v:004E}To think you can even turn ordinary people{n}into Growsians.",
    "term": "end"
   },
   {
@@ -1876,7 +1876,7 @@
   {
    "id": "scen034.0297",
    "jp": "しっかりね。{n}僕たちはここで見守っているよ。",
-   "en": "Keep your chin up. We'll be watching over you from{n}here.",
+   "en": "Keep your chin up. We'll be watching over you{n}from here.",
    "term": "end"
   },
   {

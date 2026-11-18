@@ -69,7 +69,7 @@
   {
    "id": "scen000.0010",
    "jp": "{v:0012}おはよう。{n}私がいない間、何か変わったことは{n}ありませんでしたか？",
-   "en": "{v:0012}Good morning. Did anything unusual happen while I was{n}away?",
+   "en": "{v:0012}Good morning. Did anything unusual happen while I{n}was away?",
    "term": "end"
   },
   {
@@ -168,7 +168,7 @@
   {
    "id": "scen000.0026",
    "jp": "{v:0021}ティピって妖精の格好してて、かわいいよね？{n}お兄ちゃん？",
-   "en": "{v:0021}Tippi looks like a fairy. She's cute, isn't she, Big{n}Brother?",
+   "en": "{v:0021}Tippi looks like a fairy. She's cute, isn't she,{n}Big Brother?",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen000.0035",
    "jp": "{v:0028}わたしの行っている魔法学院の{n}カリキュラムの１つでね、{n}高名な魔導師の元で実際に魔導研究を手伝うの。{p}{v:0029}わたしはお母さんが宮廷魔術師をしているから、{n}得しちゃったな。",
-   "en": "{v:0028}It's part of the curriculum at the Magic Academy I go{n}to. We help a renowned mage with actual magical{n}research.{p}{v:0029}Since Mother is the Court Magician, I suppose I'm pretty{n}lucky.",
+   "en": "{v:0028}It's part of the curriculum at the Magic Academy I go{n}to. We help a renowned mage with actual{n}magical research.{p}{v:0029}Since Mother is the Court Magician, I suppose I'm{n}pretty lucky.",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen000.0041",
    "jp": "{v:0032}そうなのです。{n}人には善と悪の心があり、{n}それがその者の未来を決定します。{p}{v:0033}ですが、その未来の幅は{n}それほど大きくはないはずなのです。{p}{FC00}{v:0035}そこであなたがある程度成長し、{n}強い心を持つようになるまで、外界との接触を{n}極力断つことにしたという訳なのです。",
-   "en": "{v:0032}Indeed. Both good and evil dwell in the human heart, and{n}they determine a person's future.{p}{v:0033}However, the possible futures should not differ so{n}greatly.{p}{FC00}{v:0035}That is why I decided to limit your contact with the{n}outside world as much as possible until you had{n}matured somewhat and developed strength of heart.",
+   "en": "{v:0032}Indeed. Both good and evil dwell in the human heart, and{n}they determine a person's future.{p}{v:0033}However, the possible futures should not differ{n}so greatly.{p}{FC00}{v:0035}That is why I decided to limit your contact with the{n}outside world as much as possible until you had{n}matured somewhat and developed strength of heart.",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen000.0046",
    "jp": "{v:003B}まずは、これで旅の仕度をしてきなさい。",
-   "en": "{v:003B}First, take this and buy what you need for your{n}journey.",
+   "en": "{v:003B}First, take this and buy what you need for{n}your journey.",
    "term": "end"
   },
   {
@@ -341,7 +341,7 @@
   {
    "id": "scen000.0054",
    "jp": "{v:0004}時間がないので、要点だけ教えて下さい。",
-   "en": "{v:0004}We have little time, so please give me only the main{n}points.",
+   "en": "{v:0004}We have little time, so please give me only the{n}main points.",
    "term": "end"
   },
   {
@@ -353,7 +353,7 @@
   {
    "id": "scen000.0056",
    "jp": "{v:0006}なるほど、ティピはそう見たのですね。{p}{FC03}{v:0007}しかし自分の息子をここまでひどく言われるとは、{n}思いませんでした‥‥。",
-   "en": "{v:0006}I see. So that is your impression, Tippi.{p}{FC03}{v:0007}Still, I did not expect to hear my own son spoken of so{n}harshly...",
+   "en": "{v:0006}I see. So that is your impression, Tippi.{p}{FC03}{v:0007}Still, I did not expect to hear my own son spoken of{n}so harshly...",
    "term": "end"
   },
   {
@@ -467,7 +467,7 @@
   {
    "id": "scen000.0074",
    "jp": "{v:0041}いきなりそれは無理ですね。{n}国境を越えるための手続きなども、{n}色々と必要ですから。",
-   "en": "{v:0041}You cannot do that straightaway. There are various{n}formalities to complete before you can cross the{n}border.",
+   "en": "{v:0041}You cannot do that straightaway. There are various{n}formalities to complete before you can cross{n}the border.",
    "term": "end"
   },
   {
@@ -491,7 +491,7 @@
   {
    "id": "scen000.0078",
    "jp": "‥‥{v:0045}それじゃ、お兄ちゃん。{n}実習が終わってからにしよう？{p}{v:0046}そうしたら、わたしが案内してあげる！",
-   "en": "...{v:0045}Then, Big Brother, shall we wait until my practicum is{n}over?{p}{v:0046}Once it's finished, I'll show you around!",
+   "en": "...{v:0045}Then, Big Brother, shall we wait until my practicum{n}is over?{p}{v:0046}Once it's finished, I'll show you around!",
    "term": "end"
   },
   {
@@ -551,7 +551,7 @@
   {
    "id": "scen000.0088",
    "jp": "‥‥{v:004E}遠くに塔のような岩の見える、古びた遺跡ですか。{p}{FC00}{v:004F}それならば、この都を出て北西に行ったところの{n}岬かも知れません。{p}{v:0050}それほど遠いところではありませんし、{n}眺めも良いところです。{n}まずはそこに行ってみるといいでしょう。",
-   "en": "...{v:004E}Old ruins, with a tower-like rock visible in the distance?{p}{FC00}{v:004F}Then it may be the cape to the northwest of the{n}capital.{p}{v:0050}It is not very far, and the view is lovely. That would be{n}a good place to visit first.",
+   "en": "...{v:004E}Old ruins, with a tower-like rock visible in the distance?{p}{FC00}{v:004F}Then it may be the cape to the northwest of{n}the capital.{p}{v:0050}It is not very far, and the view is lovely. That would be{n}a good place to visit first.",
    "term": "end"
   },
   {
@@ -619,7 +619,7 @@
   {
    "id": "scen000.0099",
    "jp": "わたしがいない間に、勝手に部屋に入っちゃダメだよ。",
-   "en": "Don't go into my room without asking while I'm away,{n}okay?",
+   "en": "Don't go into my room without asking while I'm{n}away, okay?",
    "term": "end"
   },
   {
@@ -757,7 +757,7 @@
   {
    "id": "scen000.0122",
    "jp": "{v:000E}まず、いざって時に求められる{n}『{FFEE}判断力{FFF1}』からね‥‥。",
-   "en": "{v:000E}First up is '{FFEE}judgment{FFF1}'--the kind you need when it really{n}counts...",
+   "en": "{v:000E}First up is '{FFEE}judgment{FFF1}'--the kind you need when it{n}really counts...",
    "term": "end"
   },
   {
@@ -847,7 +847,7 @@
   {
    "id": "scen000.0137",
    "jp": "{v:0027}ひらめきなんて言葉とは無縁ね。{n}あれだけ時間をかけて考えれば、{n}赤ちゃんでも気づくもん。{p}{v:0028}思考の早さが、ひっくり返ってもがいてる{n}カメ並ってとこね。",
-   "en": "{v:0027}You've never had a flash of inspiration in your life, huh?{n}Even a baby would catch on with that much time to{n}think!{p}{v:0028}Your thoughts move about as fast as a turtle flailing{n}around on its back.",
+   "en": "{v:0027}You've never had a flash of inspiration in your life, huh?{n}Even a baby would catch on with that much time{n}to think!{p}{v:0028}Your thoughts move about as fast as a turtle flailing{n}around on its back.",
    "term": "end"
   },
   {
@@ -859,7 +859,7 @@
   {
    "id": "scen000.0139",
    "jp": "{v:0022}なかなか鋭いよ。{n}謎解きは得意みたい。",
-   "en": "{v:0022}You're pretty sharp! Looks like you've got a knack for{n}puzzles.",
+   "en": "{v:0022}You're pretty sharp! Looks like you've got a knack{n}for puzzles.",
    "term": "end"
   },
   {
@@ -967,7 +967,7 @@
   {
    "id": "scen000.0157",
    "jp": "{v:006B}注意力うんぬんの前に、オニごっこの約束、{n}途中でほったらかしにしていいと思ってんの？{p}{v:006C}あの子たち、まだ隠れ続けてるかもよ？{n}あ～ぁ、かわいそうに‥‥。",
-   "en": "{v:006B}Before we even get to awareness, you promised to{n}play tag! You think it's okay to just leave halfway{n}through?{p}{v:006C}Those kids might still be hiding, you know! Aww, the{n}poor things...",
+   "en": "{v:006B}Before we even get to awareness, you promised to{n}play tag! You think it's okay to just leave{n}halfway through?{p}{v:006C}Those kids might still be hiding, you know! Aww, the{n}poor things...",
    "term": "end"
   },
   {
@@ -991,7 +991,7 @@
   {
    "id": "scen000.0161",
    "jp": "{v:0041}あと、装備ぐらいしときなさいよね！{n}まったく世話がやけるんだから！",
-   "en": "{v:0041}And at least equip your gear, will you?! You're such a{n}handful!",
+   "en": "{v:0041}And at least equip your gear, will you?! You're such{n}a handful!",
    "term": "end"
   },
   {
@@ -1021,7 +1021,7 @@
   {
    "id": "scen000.0166",
    "jp": "{v:004A}『{FFEE}素直さ{FFF1}』については、{n}言いつけられた事が守れないみたい。{n}もうシツケがなってない悪ガキって感じね。",
-   "en": "{v:004A}As for '{FFEE}Sincerity{FFF1}', it looks like you can't do what you're{n}told. You're just like a brat who was never taught any{n}manners!",
+   "en": "{v:004A}As for '{FFEE}Sincerity{FFF1}', it looks like you can't do what you're{n}told. You're just like a brat who was never taught{n}any manners!",
    "term": "end"
   },
   {
@@ -1243,7 +1243,7 @@
   {
    "id": "scen000.0203",
    "jp": "{v:000B}何キョロキョロしてんのよ！{n}もっとシャキッとしなさいよ！",
-   "en": "{v:000B}What are you looking all over the place for?! Get it{n}together!",
+   "en": "{v:000B}What are you looking all over the place for?! Get{n}it together!",
    "term": "end"
   },
   {

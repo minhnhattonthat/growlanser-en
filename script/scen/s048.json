@@ -111,7 +111,7 @@
   {
    "id": "scen048.0017",
    "jp": "{v:0006}もうみんな町を捨てて逃げ出した。{n}俺もこれから逃げるところだ。{p}{v:0007}あんたらも逃げた方がいい！",
-   "en": "{v:0006}Everyone's already fled town. I'm about to run for it{n}myself.{p}{v:0007}You should get out of here too!",
+   "en": "{v:0006}Everyone's already fled town. I'm about to run for{n}it myself.{p}{v:0007}You should get out of here too!",
    "term": "end"
   },
   {
@@ -165,13 +165,13 @@
   {
    "id": "scen048.0026",
    "jp": "{v:0008}鉱山で採れた魔水晶は全て魔法学院に納められる。{p}{v:0009}あっ？{n}横流しだって？{n}そんなことあるもんか。",
-   "en": "{v:0008}All the magic crystals we mine go to the Magic{n}Academy.{p}{v:0009}Huh? Someone's selling them on the sly? No way.",
+   "en": "{v:0008}All the magic crystals we mine go to the{n}Magic Academy.{p}{v:0009}Huh? Someone's selling them on the sly? No way.",
    "term": "end"
   },
   {
    "id": "scen048.0027",
    "jp": "こんなに大きな水晶鉱山は{n}ここヴァルミエだけだからな。{p}裏で色々ともうけようとする奴がいても{n}不思議じゃない。",
-   "en": "You won't find a crystal mine this big anywhere but{n}Valmier.{p}Wouldn't surprise me if someone was trying to make a{n}little money on the sly.",
+   "en": "You won't find a crystal mine this big anywhere{n}but Valmier.{p}Wouldn't surprise me if someone was trying to make a{n}little money on the sly.",
    "term": "end"
   },
   {
@@ -225,13 +225,13 @@
   {
    "id": "scen048.0036",
    "jp": "みんなの話だと、{n}幽霊騒動の正体は盗掘者らしいんだけど‥‥。{p}それなら、盗掘は２０年前から行われていたことに{n}なるんだよね？{p}幽霊と盗掘者‥‥。{n}いったいどっちが正しいんだろうか‥‥。",
-   "en": "Everyone says the tomb robbers were behind all the{n}ghost stories...{p}But wouldn't that mean they'd been stealing from the{n}mine for twenty years?{p}Ghosts or tomb robbers... I wonder which it really{n}was...",
+   "en": "Everyone says the tomb robbers were behind all the{n}ghost stories...{p}But wouldn't that mean they'd been stealing from the{n}mine for twenty years?{p}Ghosts or tomb robbers... I wonder which it{n}really was...",
    "term": "end"
   },
   {
    "id": "scen048.0037",
    "jp": "最近、あのゴツイ人をみないなぁ。{n}ハゲで、眼帯をしてる奴なんだよ。{p}あんた達が盗掘者を倒すちょっと前までは、{n}結構頻繁に来ていたんだけどね。",
-   "en": "Haven't seen that burly fellow lately. Bald, wears an{n}eyepatch.{p}He used to come around pretty often, right up until{n}shortly before you beat those tomb robbers.",
+   "en": "Haven't seen that burly fellow lately. Bald, wears{n}an eyepatch.{p}He used to come around pretty often, right up until{n}shortly before you beat those tomb robbers.",
    "term": "end"
   },
   {
@@ -415,7 +415,7 @@
   {
    "id": "scen048.0067",
    "jp": "というわけだ。{n}君たちや娘のおかげで、私も妻も目がさめたよ。{n}本当にありがとう。",
-   "en": "And there you have it. You and our daughter have{n}opened my eyes, and my wife's as well. Thank you,{n}truly.",
+   "en": "And there you have it. You and our daughter have{n}opened my eyes, and my wife's as well. Thank{n}you, truly.",
    "term": "end"
   },
   {
@@ -433,7 +433,7 @@
   {
    "id": "scen048.0070",
    "jp": "お客さん‥‥[01BE]{n}お金が足りませぬ‥‥。",
-   "en": "My dear guest...[01BE] I'm afraid you haven't enough{n}money...",
+   "en": "My dear guest...[01BE] I'm afraid you haven't{n}enough money...",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen048.0072",
    "jp": "あんた方が来てくれたなら安心じゃよ。{n}逃げ出さずに残っていたかいがあったわい。{p}ぜひ、あの連中を追い払って下され。{n}期待しておりますぞ。",
-   "en": "Now that you're here, I can rest easy. Seems it was{n}worth staying behind instead of fleeing, eh?{p}Please drive those fellows away. We're counting on{n}you!",
+   "en": "Now that you're here, I can rest easy. Seems it was{n}worth staying behind instead of fleeing, eh?{p}Please drive those fellows away. We're counting{n}on you!",
    "term": "end"
   },
   {
@@ -509,13 +509,13 @@
   {
    "id": "scen048.0082",
    "jp": "パパとママがケンカしなくなるように{n}いろいろと、がんばったんだ～。{p}そしたら前みたいに、{n}とっても仲良しになったの。{n}アタシ、すごくうれしいよ～♪",
-   "en": "I tried all sorts of things to make Papa and Mama stop{n}fighting!{p}And now they get along really well, just like before. I'm{n}so happyyy♪",
+   "en": "I tried all sorts of things to make Papa and Mama{n}stop fighting!{p}And now they get along really well, just like before. I'm{n}so happyyy♪",
    "term": "end"
   },
   {
    "id": "scen048.0083",
    "jp": "はぁ‥‥。{n}僕の才能を認めてくれる人はいないかなぁ‥‥。",
-   "en": "*sigh*... Isn't there anyone who'll recognize my{n}talent...?",
+   "en": "*sigh*... Isn't there anyone who'll recognize{n}my talent...?",
    "term": "end"
   },
   {

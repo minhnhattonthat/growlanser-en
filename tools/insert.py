@@ -46,7 +46,16 @@ MSYS_NSLOT = 16
 # fit.BUDGETS rows whose frame is sized by code count (docs/windows.md "Name tag"; place popup: 12 px x codes at
 # 0x8006BC94)
 TAG_POOLS = ("scen.name", "exe.names", "exe.places")
+# Field-menu bubbles: frames 12 px x code count, label at the left edge (Encoder.centre). The place popup's frame
+# is the text's pixel width instead (asm/vwf.asm popup_width), so it needs nothing.
+CENTRE_POOLS = ()
+CENTRE_IDS = {"exe.sys.%04d" % i for i in range(62, 68)}
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
+# Name-entry keyboard grids: one code per key, the key's code is what the name gets (D14)
+KEEP_JP |= {"exe.sys.%04d" % i for i in range(70, 100)}
+# exe.sys.0069 (name-entry title + labels) is printed as one line and cut into fixed pixel slices: title 60 px,
+# blank 12, then 24 px per label. English: "Title　Label Label ..", each field centred in its slice (Encoder.slots).
+SLOTS = {"exe.sys.0069": (60, 12, 24, 24, 24, 24, 24)}
 
 
 def needs_english(entry):
@@ -97,10 +106,20 @@ class Encoder:
             if self.mode == "en" and needs_english(e):
                 raise ValueError(f"{e['id']}: no English (translate it, or add it to insert.KEEP_JP)")
             return self.jp.encode(e["jp"])
+        pool = fit.budget(e["id"], e)[0]
+        if (pool in CENTRE_POOLS or e["id"] in CENTRE_IDS) and "{" not in e["en"]:
+            return self.centre(e["en"], pool in TAG_POOLS)
+        if e["id"] in SLOTS:
+            return self.slots(e["id"], e["en"])
         w = self.en.encode(e["en"])
-        if fit.budget(e["id"], e)[0] in TAG_POOLS:
+        if pool in TAG_POOLS:
             return self.tag_pad(w)
         return self.dict.compress(w) if self.dict and dictenc.compressible(e) else w
+
+    def advance(self, w):
+        if enfont.PAIR <= w < enfont.PAIR + 0x4000:
+            return sum(self.font[self.en.rev[k]][2] for k in (w - enfont.PAIR >> 7, w & 0x7F) if k)
+        return 12 if w < 0xE000 else 0
 
     def tag_pad(self, words):
         """Name tags are as many columns wide as their codes, and the printer draws a code only if its column
@@ -108,11 +127,43 @@ class Encoder:
         x, need = 0, len(words)
         for w in words:
             need = max(need, -(-x // 12) + 1)
-            if enfont.PAIR <= w < enfont.PAIR + 0x4000:
-                x += sum(self.font[self.en.rev[k]][2] for k in (w - enfont.PAIR >> 7, w & 0x7F) if k)
-            elif w < 0xE000:
-                x += 12
+            x += self.advance(w)
         return words + [enfont.PAIR] * (need - len(words))
+
+    def slots(self, eid, text):
+        title, rest = text.split("　")
+        fields, widths = [title, ""] + rest.split(" "), SLOTS[eid]
+        if len(fields) != len(widths):
+            raise ValueError(f"{eid}: {len(fields)} fields, the screen has {len(widths)} slices")
+
+        def blank(n):
+            sp = {v: k for k, v in enfont.SPACERS.items()}
+            return sp[11] * (n // 11) + (sp[n % 11] if n % 11 else "")
+        out = ""
+        for f, w in zip(fields, widths):
+            free = w - enfont.width(f, self.font)
+            if free < 0:
+                raise ValueError(f"{eid}: {f!r} is {-free} px wider than its {w} px slice")
+            out += blank(free // 2) + f + blank(free - free // 2)
+        return self.en.encode(out)
+
+    def centre(self, text, pad):
+        """The frame is 12 px x code count and the text starts at its left edge: lead with spacer glyphs so the
+        blank on the left matches the one on the right. Never more codes than max(plain, 12)."""
+        sp = list(enfont.SPACERS)
+        leads = [""] + sp + [sp[-1] + s for s in sp]
+        plain = self.en.encode(text)
+        cap = max(len(self.tag_pad(plain) if pad else plain), 12)
+        best = None
+        for lead in leads:
+            w = self.en.encode(lead + text)
+            w = self.tag_pad(w) if pad else w
+            left = sum(enfont.SPACERS[c] for c in lead)
+            right = 12 * len(w) - sum(map(self.advance, w))
+            key = (abs(left - right), len(w))
+            if len(w) <= cap and (best is None or key < best[0]):
+                best = key, w
+        return best[1]
 
     def pool(self, doc):
         strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]
@@ -210,6 +261,7 @@ HOOKS = {
     0x8006496C: "f093010801003126", 0x80064AB4: "f093010802003126",  # pre-parser column step
     0x80070F18: "211062001400bf8f", 0x80070F84: "211062001400bf8f", 0x80070FF0: "211062001400bf8f",  # MSYS getters
     0x800710F4: "211062001400bf8f", 0x80071160: "211062001400bf8f", 0x800711CC: "211062001400bf8f",
+    0x8006BBB8: "23108500c21f02002110430043a00200", 0x8006BCA0: "80200200",  # place popup frame width
 }
 _ASM = (ROOT / "asm" / "vwf.asm").read_text(encoding="utf-8")
 FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).group(1), 16) - RAM

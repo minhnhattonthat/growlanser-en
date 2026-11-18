@@ -147,7 +147,7 @@
   {
    "id": "scen036.0023",
    "jp": "{v:0001}あれ‥‥ミーシャがいない‥‥。{n}さっきまではいたのに‥‥。",
-   "en": "{v:0001}Huh...? Misha's gone... She was here just a moment{n}ago...",
+   "en": "{v:0001}Huh...? Misha's gone... She was here just a{n}moment ago...",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen036.0050",
    "jp": "ニックさん？{n}あら、そういえば今日は見かけてないわね。{p}真面目な人だから、巡回に出かけたんじゃないかしら。",
-   "en": "Nick-san? Oh, come to think of it, I haven't seen him{n}today.{p}He's so dedicated. I wonder if he's out on patrol.",
+   "en": "Nick-san? Oh, come to think of it, I haven't seen{n}him today.{p}He's so dedicated. I wonder if he's out on patrol.",
    "term": "end"
   },
   {
@@ -463,7 +463,7 @@
   {
    "id": "scen036.0075",
    "jp": "{v:0053}気にしないでくれ。{n}自分の弱さがまねいた怪我だ。",
-   "en": "{v:0053}Don't worry about it. I got hurt because I wasn't strong{n}enough.",
+   "en": "{v:0053}Don't worry about it. I got hurt because I wasn't{n}strong enough.",
    "term": "end"
   },
   {
@@ -517,7 +517,7 @@
   {
    "id": "scen036.0084",
    "jp": "{v:000F}これ以上先はないから、もう村に戻ろうよ。",
-   "en": "{v:000F}This is as far as we can go. Let's head back to the{n}village.",
+   "en": "{v:000F}This is as far as we can go. Let's head back to{n}the village.",
    "term": "end"
   },
   {

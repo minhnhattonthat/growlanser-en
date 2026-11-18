@@ -121,7 +121,7 @@
   {
    "id": "scen096.0018",
    "jp": "{v:000A}大丈夫、大丈夫。{n}これくらいで参るティピちゃんじゃないから！",
-   "en": "{v:000A}I'm fine, I'm fine! It'll take more than this to wear out{n}Tippi-chan!",
+   "en": "{v:000A}I'm fine, I'm fine! It'll take more than this to wear{n}out Tippi-chan!",
    "term": "end"
   },
   {
@@ -145,7 +145,7 @@
   {
    "id": "scen096.0022",
    "jp": "{v:000F}大丈夫、大丈夫。{n}これくらいで参るティピちゃんじゃないから！",
-   "en": "{v:000F}I'm fine, I'm fine! It'll take more than this to wear out{n}Tippi-chan!",
+   "en": "{v:000F}I'm fine, I'm fine! It'll take more than this to wear{n}out Tippi-chan!",
    "term": "end"
   },
   {
@@ -511,7 +511,7 @@
   {
    "id": "scen096.0083",
    "jp": "少しでも早く、物資を送ってあげないと‥‥。",
-   "en": "We have to get these supplies to them as soon as we{n}can...",
+   "en": "We have to get these supplies to them as soon as{n}we can...",
    "term": "end"
   },
   {
@@ -624,7 +624,7 @@
   {
    "id": "scen096.0101",
    "jp": "{v:0023}風に乗って流れてくるこの匂い‥‥。{p}{v:0024}といっても、普通の人間にわかる匂いじゃねぇが、{n}俺みたいに目の不自由な奴なら多少わかるんだ。{p}{v:0025}この匂いは以前嗅いだことがある‥‥。{n}モンスターを操る時に使う粉の匂いだ‥‥。",
-   "en": "{v:0023}This smell drifting on the wind...{p}{v:0024}An ordinary person wouldn't notice it, but someone who{n}can't see, like me, can pick up a little of it.{p}{v:0025}I've smelled it before... It's a powder used to control{n}monsters...",
+   "en": "{v:0023}This smell drifting on the wind...{p}{v:0024}An ordinary person wouldn't notice it, but someone who{n}can't see, like me, can pick up a little of it.{p}{v:0025}I've smelled it before... It's a powder used to{n}control monsters...",
    "term": "end"
   },
   {

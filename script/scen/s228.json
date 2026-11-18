@@ -213,7 +213,7 @@
   {
    "id": "scen228.0034",
    "jp": "放送装置を通じて、人々の心が伝わってくる‥‥。",
-   "en": "The people's feelings are coming through the broadcast{n}device...",
+   "en": "The people's feelings are coming through the{n}broadcast device...",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen228.0041",
    "jp": "{v:0038}大量のグローシュを検出。{n}これより精製作業に入ります。",
-   "en": "{v:0038}Large quantity of Grosh detected. Beginning refining{n}process.",
+   "en": "{v:0038}Large quantity of Grosh detected. Beginning{n}refining process.",
    "term": "end"
   },
   {

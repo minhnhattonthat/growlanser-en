@@ -99,7 +99,7 @@
   {
    "id": "scen041.0015",
    "jp": "‥‥{v:003A}見舞いが必要なのは、{n}{s:0005}の方かも知れないな‥‥。",
-   "en": "...{v:003A}Maybe {s:0005} is the one who needs a{n}visit...",
+   "en": "...{v:003A}Maybe {s:0005} is the one who needs{n}a visit...",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen041.0035",
    "jp": "{v:0026}薬に使う薬草を採りに、南の森へ出かけたよ。{p}{v:0027}ま、この街に来たら、遠慮なく寄ってくれ。{n}じゃあな。",
-   "en": "{v:0026}She went to the southern forest to gather herbs for{n}medicine.{p}{v:0027}Well, drop by whenever you're in town. See ya.",
+   "en": "{v:0026}She went to the southern forest to gather herbs{n}for medicine.{p}{v:0027}Well, drop by whenever you're in town. See ya.",
    "term": "end"
   },
   {
@@ -261,13 +261,13 @@
   {
    "id": "scen041.0042",
    "jp": "おや、買い物かい？{n}このグランシルは、なんでもそろってるからな。",
-   "en": "Oh, shopping? You can find just about anything here in{n}Grancil.",
+   "en": "Oh, shopping? You can find just about anything here{n}in Grancil.",
    "term": "end"
   },
   {
    "id": "scen041.0043",
    "jp": "おや、買い物かい？{n}このグランシルは、なんでもそろってるからな。{p}‥‥だが、ちょっと値が張るから、{n}今の君たちには、まだ早すぎると思うなぁ。{n}もっとお金に余裕ができてから来るといいよ。",
-   "en": "Oh, shopping? You can find just about anything here in{n}Grancil.{p}...But it's rather expensive, so I think it's a little too{n}soon for you. Come back when you have more money{n}to spare.",
+   "en": "Oh, shopping? You can find just about anything here{n}in Grancil.{p}...But it's rather expensive, so I think it's a little too{n}soon for you. Come back when you have more money{n}to spare.",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen041.0047",
    "jp": "ここの家に住んでいる兄妹の妹さんは、{n}{s:003A}顔負けの薬草の知識があるのよ。",
-   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put {s:003A} to{n}shame.",
+   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put {s:003A}{n}to shame.",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen041.0056",
    "jp": "{v:0037}つもる話もあるだろう。{n}俺は先に行っている。{p}{v:0038}そうだな。{n}街の入り口あたりで待っている。",
-   "en": "{v:0037}You've probably got a lot to catch up on. I'll go on{n}ahead.{p}{v:0038}Let's see... I'll wait near the town entrance.",
+   "en": "{v:0037}You've probably got a lot to catch up on. I'll go{n}on ahead.{p}{v:0038}Let's see... I'll wait near the town entrance.",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen041.0058",
    "jp": "{v:003A}ところで{s:0008}、本当に迷いはなくなったの？",
-   "en": "{v:003A}So, {s:0008}, are you really sure of yourself{n}now?",
+   "en": "{v:003A}So, {s:0008}, are you really sure of{n}yourself now?",
    "term": "end"
   },
   {
@@ -438,7 +438,7 @@
   {
    "id": "scen041.0071",
    "jp": "{v:0045}ありがとう。{p}{v:0046}ところで優勝の賞品はコムスプリングスだって？",
-   "en": "{v:0045}Thank you.{p}{v:0046}By the way, I hear your prize for winning is a trip to{n}Comsprings?",
+   "en": "{v:0045}Thank you.{p}{v:0046}By the way, I hear your prize for winning is a trip{n}to Comsprings?",
    "term": "end"
   },
   {
@@ -504,13 +504,13 @@
   {
    "id": "scen041.0082",
    "jp": "君がフレッシュマンの優勝者なんだって？{n}確かに一{s:0127}見たときから、{n}何か凄いパワーを感じていたんだよ。",
-   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught my{n}eye.",
+   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught{n}my eye.",
    "term": "end"
   },
   {
    "id": "scen041.0083",
    "jp": "みんなこの柱を送魔線って呼んでるだろ？{n}でも本当は集魔柱ってのが、正式な名前なんだ。{p}送魔線って呼び方は、まだケーブルでグローシュを{n}転送してた頃の名残なんだ。{n}ま、どうでもいい話だけどね。",
-   "en": "Everyone calls these pillars mana lines, right? But their{n}proper name is actually \"mana collection pillars.\"{p}The name \"mana line\" is left over from when they still{n}used cables to transfer Grosh. Well, not that it matters{n}much.",
+   "en": "Everyone calls these pillars mana lines, right? But their{n}proper name is actually \"mana collection pillars.\"{p}The name \"mana line\" is left over from when they still{n}used cables to transfer Grosh. Well, not that it{n}matters much.",
    "term": "end"
   },
   {
@@ -570,7 +570,7 @@
   {
    "id": "scen041.0093",
    "jp": "う～ん‥‥みやげを買うだけなのに、{n}こんなにかかってしまった。{p}妻になんと言い訳しようかな‥‥。",
-   "en": "Hmm... All I did was buy souvenirs, and it's taken me this{n}long.{p}What excuse can I give my wife...?",
+   "en": "Hmm... All I did was buy souvenirs, and it's taken me{n}this long.{p}What excuse can I give my wife...?",
    "term": "end"
   },
   {
@@ -594,7 +594,7 @@
   {
    "id": "scen041.0097",
    "jp": "{v:0027}ようお出でなさった。{n}ここでは、いろんな道具を扱っておるんじゃ。",
-   "en": "{v:0027}Welcome, welcome. I carry all sorts of items here, you{n}see.",
+   "en": "{v:0027}Welcome, welcome. I carry all sorts of items here,{n}you see.",
    "term": "end"
   },
   {
@@ -796,7 +796,7 @@
   {
    "id": "scen041.0128",
    "jp": "人気の商品を仕入れたんですよ。{n}是非、ごらんになって下さい。",
-   "en": "We've just stocked a popular item. Please do take a{n}look.",
+   "en": "We've just stocked a popular item. Please do take{n}a look.",
    "term": "end"
   },
   {
@@ -832,7 +832,7 @@
   {
    "id": "scen041.0134",
    "jp": "{v:0052}あ、何か勘違いしてるぅ～。{n}ちゃんと意味があるんだよ。",
-   "en": "{v:0052}Oh, you've got the wrong idea! There's a reason, you{n}know.",
+   "en": "{v:0052}Oh, you've got the wrong idea! There's a reason,{n}you know.",
    "term": "end"
   },
   {
@@ -898,7 +898,7 @@
   {
    "id": "scen041.0145",
    "jp": "{v:005E}ねぇ、{s:0008}さんはどんな誓いをたてるの？",
-   "en": "{v:005E}So, {s:0008} -san, what kind of vow will you{n}make?",
+   "en": "{v:005E}So, {s:0008} -san, what kind of vow will{n}you make?",
    "term": "end"
   },
   {
@@ -916,7 +916,7 @@
   {
    "id": "scen041.0148",
    "jp": "{v:0061}そうだな。{n}『{FFEF}もう一度、みんなと会えるように{FFF1}』{n}これが私の望みだ。",
-   "en": "{v:0061}Let me see. '{FFEF}May I meet all of you again{FFF1}.' That is my{n}wish.",
+   "en": "{v:0061}Let me see. '{FFEF}May I meet all of you again{FFF1}.' That is{n}my wish.",
    "term": "end"
   },
   {
@@ -988,7 +988,7 @@
   {
    "id": "scen041.0160",
    "jp": "{v:006E}アンタ、今すぐ泣きなさいよ。{n}それでみんなが幸せになれるんだから。",
-   "en": "{v:006E}Hey, you! Start crying right now! Then everyone can be{n}happy!",
+   "en": "{v:006E}Hey, you! Start crying right now! Then everyone can{n}be happy!",
    "term": "end"
   },
   {
@@ -1100,7 +1100,7 @@
   {
    "id": "scen041.0178",
    "jp": "南へ行くときは気をつけた方がいいぜ。{n}毒を持った{s:00F2}が多いからな。",
-   "en": "Watch yourself if you're heading south. You'll run into{n}one venomous {s:00F2} after another down{n}there.",
+   "en": "Watch yourself if you're heading south. You'll run into{n}one venomous {s:00F2} after another{n}down there.",
    "term": "end"
   },
   {
@@ -1220,7 +1220,7 @@
   {
    "id": "scen041.0197",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "{v:003D}Well, the toughest fighters on the continent gather{n}here.",
+   "en": "{v:003D}Well, the toughest fighters on the continent{n}gather here.",
    "term": "end"
   },
   {
@@ -1274,13 +1274,13 @@
   {
    "id": "scen041.0206",
    "jp": "{v:0046}ここでは毎日のように猛者たちの腕試しが{n}行われているんだ。{p}{v:0047}今は年に一度の大会の準備中だから入れないけどね。{n}大会が終わればいつも通りになるよ。",
-   "en": "{v:0046}Strong fighters test their skills here almost every day.{p}{v:0047}You can't go in now. They're preparing for the annual{n}tournament. Things will be back to normal once it's{n}over.",
+   "en": "{v:0046}Strong fighters test their skills here almost every day.{p}{v:0047}You can't go in now. They're preparing for the annual{n}tournament. Things will be back to normal once{n}it's over.",
    "term": "end"
   },
   {
    "id": "scen041.0207",
    "jp": "大会が終わったばかりだから、{n}しばらくの間、閉鎖だよ。",
-   "en": "The tournament just ended, so we're closed for a{n}while.",
+   "en": "The tournament just ended, so we're closed for{n}a while.",
    "term": "end"
   },
   {
@@ -1298,13 +1298,13 @@
   {
    "id": "scen041.0210",
    "jp": "もうじき闘技大会か‥‥。{n}次こそは、上位に‥‥。",
-   "en": "The tournament's almost here... This time, I'll place{n}higher...",
+   "en": "The tournament's almost here... This time, I'll{n}place higher...",
    "term": "end"
   },
   {
    "id": "scen041.0211",
    "jp": "一昨年、フレッシュマン部門では準決勝まで{n}進んだんだがな。{n}去年のエキスパートでは全然上に行けなかった。{p}‥‥やはり、甘くはない。",
-   "en": "Two years ago, I made it to the semifinals in the{n}Freshman division. Last year, I didn't get anywhere in{n}Expert.{p}...It's every bit as tough as they say.",
+   "en": "Two years ago, I made it to the semifinals in the{n}Freshman division. Last year, I didn't get anywhere{n}in Expert.{p}...It's every bit as tough as they say.",
    "term": "end"
   },
   {
@@ -1406,7 +1406,7 @@
   {
    "id": "scen041.0228",
    "jp": "闘技大会の参加受付だよ。君も参加する気かい？",
-   "en": "This is tournament registration. Thinking of entering,{n}too?",
+   "en": "This is tournament registration. Thinking of{n}entering, too?",
    "term": "end"
   },
   {
@@ -1484,7 +1484,7 @@
   {
    "id": "scen041.0241",
    "jp": "{v:0006}フレッシュマンの部の優勝賞品は、{n}温泉街への旅行チケットだ！{p}{v:0007}しかも場所は、バーンシュタイン王国の{n}コムスプリングス。{p}{v:0008}夏は王侯貴族の避暑地として、{n}冬は身体を暖める温泉として、{n}一生に一度は行ってみたい、あこがれの街だ！{p}{v:0009}めったにないチャンスだから、{n}優勝狙って、がんばりな！",
-   "en": "{v:0006}The prize for winning the Freshman division is a travel{n}ticket to a hot spring town!{p}{v:0007}And that town is Comsprings, in the Kingdom of{n}Burnstein.{p}{v:0008}A summer retreat for royalty and nobles, with hot{n}springs to warm you in winter! It's the town everyone{n}dreams of visiting at least once!{p}{v:0009}Chances like this don't come often. Aim for the{n}championship and give it your best!",
+   "en": "{v:0006}The prize for winning the Freshman division is a travel{n}ticket to a hot spring town!{p}{v:0007}And that town is Comsprings, in the Kingdom{n}of Burnstein.{p}{v:0008}A summer retreat for royalty and nobles, with hot{n}springs to warm you in winter! It's the town everyone{n}dreams of visiting at least once!{p}{v:0009}Chances like this don't come often. Aim for the{n}championship and give it your best!",
    "term": "end"
   },
   {
@@ -1514,7 +1514,7 @@
   {
    "id": "scen041.0246",
    "jp": "{v:000F}妹の{s:0001}さんと２人だね。{p}{v:0010}はい。登録したよ。{p}{v:0011}もう始まるから、急いでコロシアムに{n}行ったほうがいいよ。",
-   "en": "{v:000F}You and your sister, {s:0001} -san, then.{p}{v:0010}There. You're registered.{p}{v:0011}It's about to begin, so you'd better hurry to the{n}Coliseum.",
+   "en": "{v:000F}You and your sister, {s:0001} -san, then.{p}{v:0010}There. You're registered.{p}{v:0011}It's about to begin, so you'd better hurry to{n}the Coliseum.",
    "term": "end"
   },
   {
@@ -1526,7 +1526,7 @@
   {
    "id": "scen041.0248",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the challenge{n}yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the{n}challenge yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
    "term": "end"
   },
   {
@@ -1690,7 +1690,7 @@
   {
    "id": "scen041.0275",
    "jp": "{v:0032}最近、あの連中が{s:0007}を狙っていたのは確かだ。{n}だが、どう考えても心当たりはない‥‥。",
-   "en": "{v:0032}Those people have definitely been after {s:0007}{n}lately. But no matter how I look at it, I can't think of a{n}reason...",
+   "en": "{v:0032}Those people have definitely been after {s:0007}{n}lately. But no matter how I look at it, I can't think of{n}a reason...",
    "term": "end"
   },
   {
@@ -1910,7 +1910,7 @@
   {
    "id": "scen041.0311",
    "jp": "{s:0007}さんが寝ているんだから、{n}静かに外に出ようよ‥‥。",
-   "en": "{s:0007} is sleeping, so let's slip outside{n}quietly...",
+   "en": "{s:0007} is sleeping, so let's slip{n}outside quietly...",
    "term": "end"
   },
   {

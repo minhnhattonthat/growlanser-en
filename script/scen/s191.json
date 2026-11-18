@@ -63,7 +63,7 @@
   {
    "id": "scen191.0009",
    "jp": "大丈夫なのか？{n}相手はあのナイトだぞ？{p}１００人いた我が隊も、{n}奴１人のためにここまで‥‥。",
-   "en": "Can you handle this? You know which Knight you're{n}facing, don't you?{p}Our unit had a hundred men. He alone has reduced us to{n}this...",
+   "en": "Can you handle this? You know which Knight you're{n}facing, don't you?{p}Our unit had a hundred men. He alone has reduced us{n}to this...",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen191.0019",
    "jp": "‥‥{v:0039}ふぅっ。{n}君たちと戦えたのは貴重な体験だったよ。{p}{v:003A}今度会ったときには、{n}最初から全力でいかせてもらうよ。",
-   "en": "...{v:0039}Whew. Fighting you has been a valuable experience.{p}{v:003A}The next time we meet, I will give it my all from the{n}start.",
+   "en": "...{v:0039}Whew. Fighting you has been a valuable experience.{p}{v:003A}The next time we meet, I will give it my all from{n}the start.",
    "term": "end"
   },
   {
@@ -324,13 +324,13 @@
   {
    "id": "scen191.0052",
    "jp": "{v:0026}女性相手に本気を出すのは気が引けるが‥‥。",
-   "en": "{v:0026}I hesitate to use my full strength against a woman,{n}but...",
+   "en": "{v:0026}I hesitate to use my full strength against a{n}woman, but...",
    "term": "end"
   },
   {
    "id": "scen191.0053",
    "jp": "{v:003A}今度会ったときには、{n}最初から全力でいかせてもらうよ。",
-   "en": "{v:003A}The next time we meet, I will give it my all from the{n}start.",
+   "en": "{v:003A}The next time we meet, I will give it my all from{n}the start.",
    "term": "end"
   },
   {

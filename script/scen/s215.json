@@ -45,13 +45,13 @@
   {
    "id": "scen215.0006",
    "jp": "{v:0037}ならば本体を集中攻撃するか？",
-   "en": "{v:0037}Then shall we concentrate our attacks on the main{n}body?",
+   "en": "{v:0037}Then shall we concentrate our attacks on the{n}main body?",
    "term": "end"
   },
   {
    "id": "scen215.0007",
    "jp": "{v:0038}木の葉を積んでも時間がかかる。{n}ならば幹を倒せばいいさ。",
-   "en": "{v:0038}Plucking leaves takes time. Better to cut down the{n}trunk.",
+   "en": "{v:0038}Plucking leaves takes time. Better to cut down{n}the trunk.",
    "term": "end"
   },
   {
@@ -105,7 +105,7 @@
   {
    "id": "scen215.0016",
    "jp": "{v:0041}そうかな？{n}そいつは我に操られたことがなかったか？{p}{v:0042}我が声や、他の私兵の声を聞いたことがなかったか？{p}{v:0043}それが我と精神的なつながりがあるという{n}証拠だと思わんか？",
-   "en": "{v:0041}Am I? Has he never fallen under my control?{p}{v:0042}Has he never heard my voice, or the voices of my other{n}soldiers?{p}{v:0043}Do you not think that proves his mind is linked to mine?",
+   "en": "{v:0041}Am I? Has he never fallen under my control?{p}{v:0042}Has he never heard my voice, or the voices of my{n}other soldiers?{p}{v:0043}Do you not think that proves his mind is linked to mine?",
    "term": "end"
   },
   {
@@ -194,7 +194,7 @@
   {
    "id": "scen215.0030",
    "jp": "{v:004C}今は個人よりも、全体を考えるときか‥‥。",
-   "en": "{v:004C}Now is the time to think of everyone, rather than{n}ourselves...",
+   "en": "{v:004C}Now is the time to think of everyone, rather{n}than ourselves...",
    "term": "end"
   },
   {
@@ -254,7 +254,7 @@
   {
    "id": "scen215.0040",
    "jp": "{v:0057}答えられるわけねぇよな。{n}だけどここへ来た時点で、答えは出ているんだぜ？{p}{FC02}{v:0058}お前を倒して、この世界の人たちを救うんだってな！",
-   "en": "{v:0057}Can't blame you for not answering. But we gave our{n}answer the moment we came here, didn't we?{p}{FC02}{v:0058}We're gonna defeat you and save the people of this{n}world!",
+   "en": "{v:0057}Can't blame you for not answering. But we gave our{n}answer the moment we came here, didn't we?{p}{FC02}{v:0058}We're gonna defeat you and save the people of{n}this world!",
    "term": "end"
   },
   {

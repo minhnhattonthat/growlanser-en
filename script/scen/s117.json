@@ -27,7 +27,7 @@
   {
    "id": "scen117.0003",
    "jp": "そういえば、装備は整えたか？{n}女王がお前たち人間にも、{n}物を売って良いとの許可を出した。{p}ここには地上にはない強力な物が多い。{n}一度、のぞいておくだけでも損はしないはずだ。",
-   "en": "By the way, have you prepared your equipment? The{n}queen has granted us permission to sell goods to you{n}humans as well.{p}We have many powerful items unavailable on the{n}surface. Even a look around should be worth your{n}while.",
+   "en": "By the way, have you prepared your equipment? The{n}queen has granted us permission to sell goods to you{n}humans as well.{p}We have many powerful items unavailable on the{n}surface. Even a look around should be worth{n}your while.",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen117.0029",
    "jp": "{v:0019}物を引っ張る力じゃよ。{p}{v:001A}物が大地に落ちるのは、{n}この重力に引っ張られているからじゃ。{p}{v:001B}おそらくフェザリアンはこの重力を操る方法を{n}知っているんじゃな。",
-   "en": "{v:0019}It's a force that pulls things, you see.{p}{v:001A}Things fall to the ground because gravity pulls them{n}down.{p}{v:001B}I daresay the Featherians know a way to control it.",
+   "en": "{v:0019}It's a force that pulls things, you see.{p}{v:001A}Things fall to the ground because gravity pulls{n}them down.{p}{v:001B}I daresay the Featherians know a way to control it.",
    "term": "end"
   },
   {
@@ -291,13 +291,13 @@
   {
    "id": "scen117.0047",
    "jp": "{v:0026}おおかた、コイツがゲヴェルの原型なんだろうよ。",
-   "en": "{v:0026}I'd say this thing was probably the prototype for{n}Gevel.",
+   "en": "{v:0026}I'd say this thing was probably the prototype{n}for Gevel.",
    "term": "end"
   },
   {
    "id": "scen117.0048",
    "jp": "{v:0027}あの化け物のことは任せたぞ。{n}ワシはワシの仕事をする！",
-   "en": "{v:0027}I'll leave that beast to you lot. I've my own work to{n}do!",
+   "en": "{v:0027}I'll leave that beast to you lot. I've my own work{n}to do!",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen117.0077",
    "jp": "{v:0041}ワシはこれで帰らせてもらう。{n}後はお前さんたち次第じゃ！{p}{v:0042}がんばってくれよ！",
-   "en": "{v:0041}I'll be heading home now. The rest is up to you{n}youngsters!{p}{v:0042}Give it your best!",
+   "en": "{v:0041}I'll be heading home now. The rest is up to{n}you youngsters!{p}{v:0042}Give it your best!",
    "term": "end"
   },
   {
@@ -506,7 +506,7 @@
   {
    "id": "scen117.0082",
    "jp": "{v:0001}この程度の広さなら、{n}中央に１本立てるだけで十分じゃ。",
-   "en": "{v:0001}For a room this size, one pillar in the center ought to{n}do.",
+   "en": "{v:0001}For a room this size, one pillar in the center ought{n}to do.",
    "term": "end"
   },
   {

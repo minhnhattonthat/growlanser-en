@@ -39,7 +39,7 @@
   {
    "id": "scen186.0005",
    "jp": "お前らは、野郎の足止めをしろ！{n}女の始末は、俺がやる！",
-   "en": "You lot keep that bastard busy! I'll finish off the{n}woman!",
+   "en": "You lot keep that bastard busy! I'll finish off{n}the woman!",
    "term": "end"
   },
   {
@@ -315,7 +315,7 @@
   {
    "id": "scen186.0051",
    "jp": "へっへっへ‥‥。{n}ここから現れるとは、思いもしなかっただろう！",
-   "en": "Heh heh heh... Bet you never thought we'd come out of{n}here!",
+   "en": "Heh heh heh... Bet you never thought we'd come out{n}of here!",
    "term": "end"
   },
   {

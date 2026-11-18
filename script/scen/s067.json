@@ -99,7 +99,7 @@
   {
    "id": "scen067.0015",
    "jp": "{v:0003}手順は簡単でございます。{p}{v:0004}まず、ご主人様がおつくりになりたい施設を{n}お選びください。{p}{v:0005}そして施設をつくるのに必要な資金を{n}払っていただきます。{p}{v:0006}後は私の方で業者などを手配し、すぐに施設を{n}つくらせます。{p}{v:0007}また施設の運営などにかかる人件費は、運営で得た{n}収益から行います。{p}{v:0008}出来上がった施設は増改築を行うことで、{n}更に良い施設へと発展します。",
-   "en": "{v:0003}The procedure is quite simple.{p}{v:0004}First, my lord, please select the facility you wish to{n}build.{p}{v:0005}Next, you will pay the funds required for its{n}construction.{p}{v:0006}I will then arrange for contractors and have the{n}facility built at once.{p}{v:0007}Staff wages and other operating expenses will be{n}covered by the facility's earnings.{p}{v:0008}Once built, facilities can be developed further through{n}expansion and renovation.",
+   "en": "{v:0003}The procedure is quite simple.{p}{v:0004}First, my lord, please select the facility you wish{n}to build.{p}{v:0005}Next, you will pay the funds required for{n}its construction.{p}{v:0006}I will then arrange for contractors and have the{n}facility built at once.{p}{v:0007}Staff wages and other operating expenses will be{n}covered by the facility's earnings.{p}{v:0008}Once built, facilities can be developed further through{n}expansion and renovation.",
    "term": "end"
   },
   {
@@ -422,7 +422,7 @@
   {
    "id": "scen067.0065",
    "jp": "展示場は増改築というより、{n}新しい芸術家の作品を展示することです。{p}この大陸を冒険したときに出会った{n}芸術家たちを誘ってみて下さい。",
-   "en": "Improving the exhibition hall means displaying works by{n}new artists, rather than expanding or renovating the{n}building.{p}Please try inviting artists you have met on your{n}adventures across the continent.",
+   "en": "Improving the exhibition hall means displaying works by{n}new artists, rather than expanding or renovating{n}the building.{p}Please try inviting artists you have met on your{n}adventures across the continent.",
    "term": "end"
   },
   {
@@ -534,7 +534,7 @@
   {
    "id": "scen067.0082",
    "jp": "劇場をつくるには１２００エルム必要になりますが？",
-   "en": "Building a theater will cost 1,200 Elm. Is that{n}acceptable?",
+   "en": "Building a theater will cost 1,200 Elm. Is{n}that acceptable?",
    "term": "end"
   },
   {
@@ -554,13 +554,13 @@
   {
    "id": "scen067.0085",
    "jp": "では、建物の手配はお任せ下さい。{n}劇団や楽団はあなたのお好みの方を雇い入れて下さい。",
-   "en": "Then leave the construction arrangements to me. Please{n}hire whichever theater troupe or musical ensemble you{n}prefer.",
+   "en": "Then leave the construction arrangements to me. Please{n}hire whichever theater troupe or musical ensemble{n}you prefer.",
    "term": "end"
   },
   {
    "id": "scen067.0086",
    "jp": "展示場をつくるには１２００エルム必要になりますが？",
-   "en": "Building an exhibition hall will cost 1,200 Elm. Is that{n}acceptable?",
+   "en": "Building an exhibition hall will cost 1,200 Elm. Is{n}that acceptable?",
    "term": "end"
   },
   {
@@ -586,7 +586,7 @@
   {
    "id": "scen067.0090",
    "jp": "レストランをつくるには{n}７００エルム必要になりますが？",
-   "en": "Building the restaurants will cost 700 Elm. Is that{n}acceptable?",
+   "en": "Building the restaurants will cost 700 Elm. Is{n}that acceptable?",
    "term": "end"
   },
   {
@@ -654,7 +654,7 @@
   {
    "id": "scen067.0101",
    "jp": "花の名前ですけど、『カラジューム』ってどうですか？{n}『喜び』って意味なんです。{p}他には『明るい未来』って意味の『ムスカリ』ってのもありますけど。",
-   "en": "It's a flower's name, but how about 'Caladium'? It means{n}'joy.'{p}There's also 'Muscari,' which means 'a bright future.'",
+   "en": "It's a flower's name, but how about 'Caladium'? It{n}means 'joy.'{p}There's also 'Muscari,' which means 'a bright future.'",
    "term": "end"
   },
   {
@@ -804,13 +804,13 @@
   {
    "id": "scen067.0126",
    "jp": "ダンジョンは次のような構造になっている。{n}・４×４の部屋でつくられたフロアを５回。{n}・５×５の部屋でつくられたフロアを４回。{n}・６×６の部屋でつくられたフロアを５回。{n}計１４フロアを駆け抜けて、ダンジョン制覇だ！{p}ちなみにダンジョンはランダムで選ばれ、{n}また君たちが出現する部屋の位置もランダムだ。{p}またダンジョン内で手に入れたアイテムは、{n}何が出るかわからない。{n}すでに９個持っていた場合は増えない。{n}またお金が手にはいることもあるからな。{n}何も増えていないからといって慌てるなよ。{p}次にモンスターとの戦いだが、{n}彼らも、いつ、どこに出現するかわからない。{n}上手くいけば一度も戦わずに宝をゲットできる。{n}また、あるモンスターは倒さずにいると{n}すぐに逃げ出してしまうらしい。",
-   "en": "The dungeon is laid out as follows: five floors of 4 by 4{n}rooms, four floors of 5 by 5 rooms, and five floors of{n}6 by 6 rooms. Race through all 14 floors to conquer{p}the dungeon!{p}The dungeon is chosen at random, as is the room{n}where you appear.{p}You never know what items you will find inside. If you{n}already have nine of an item, you will not gain another.{n}You may also receive money, so do not panic if your item{p}count has not gone up.{p}As for fighting monsters, there is no telling when or{n}where they will appear, either. With luck, you can get{n}treasure without fighting even once. I also hear that{p}certain monsters will quickly flee if you do not defeat{n}them.",
+   "en": "The dungeon is laid out as follows: five floors of 4 by 4{n}rooms, four floors of 5 by 5 rooms, and five floors of{n}6 by 6 rooms. Race through all 14 floors to conquer{p}the dungeon!{p}The dungeon is chosen at random, as is the room{n}where you appear.{p}You never know what items you will find inside. If you{n}already have nine of an item, you will not gain another.{n}You may also receive money, so do not panic if your item{p}count has not gone up.{p}As for fighting monsters, there is no telling when or{n}where they will appear, either. With luck, you can get{n}treasure without fighting even once. I also hear that{p}certain monsters will quickly flee if you do not{n}defeat them.",
    "term": "end"
   },
   {
    "id": "scen067.0127",
    "jp": "さぁ！{n}危険とロマンが待っているダンジョンへ行け！",
-   "en": "Now! Enter the dungeon, where danger and adventure{n}await!",
+   "en": "Now! Enter the dungeon, where danger and{n}adventure await!",
    "term": "end"
   },
   {
@@ -883,7 +883,7 @@
   {
    "id": "scen067.0138",
    "jp": "街名変更の手数料は１００エルムですが{n}よろしいですか？",
-   "en": "The fee for renaming the town is 100 Elm. Is that{n}acceptable?",
+   "en": "The fee for renaming the town is 100 Elm. Is{n}that acceptable?",
    "term": "end"
   },
   {
@@ -957,7 +957,7 @@
   {
    "id": "scen067.0150",
    "jp": "何か出来たみたいだから、{n}せっかく来たのに‥‥。",
-   "en": "It looked like they'd built something, so I came all this{n}way...",
+   "en": "It looked like they'd built something, so I came all{n}this way...",
    "term": "end"
   },
   {
@@ -969,13 +969,13 @@
   {
    "id": "scen067.0152",
    "jp": "現在は、『ジョニー・カルテット』の{n}演奏会が行われている。",
-   "en": "A concert by the 'Johnny Quartet' is currently in{n}progress.",
+   "en": "A concert by the 'Johnny Quartet' is currently{n}in progress.",
    "term": "end"
   },
   {
    "id": "scen067.0153",
    "jp": "現在は歌姫『バーバラ』のオペラが行われている。",
-   "en": "An opera starring the diva 'Barbara' is currently in{n}progress.",
+   "en": "An opera starring the diva 'Barbara' is currently{n}in progress.",
    "term": "end"
   },
   {
@@ -1085,7 +1085,7 @@
   {
    "id": "scen067.0171",
    "jp": "現在は画家マーナの作品展を行っています。",
-   "en": "We are currently exhibiting works by Marna the{n}painter.",
+   "en": "We are currently exhibiting works by Marna{n}the painter.",
    "term": "end"
   },
   {
@@ -1097,7 +1097,7 @@
   {
    "id": "scen067.0173",
    "jp": "どこからか芸術家を連れてこないとダメだね★",
-   "en": "We'll have to find an artist somewhere and bring them{n}here!",
+   "en": "We'll have to find an artist somewhere and bring{n}them here!",
    "term": "end"
   },
   {
@@ -1121,7 +1121,7 @@
   {
    "id": "scen067.0177",
    "jp": "これは、{s:0000}様。{n}ボート遊びをなさりたいのですか？",
-   "en": "Ah, Lord {s:0000}. Would you care to go{n}boating?",
+   "en": "Ah, Lord {s:0000}. Would you care to{n}go boating?",
    "term": "end"
   },
   {
@@ -1133,7 +1133,7 @@
   {
    "id": "scen067.0179",
    "jp": "ボート遊び～★{p}って行きたいところだけど、{n}楽しむのは休暇だけにしましょ！",
-   "en": "Let's go boating!{p}...Is what I'd love to say, but let's save the fun for our{n}vacation!",
+   "en": "Let's go boating!{p}...Is what I'd love to say, but let's save the fun for{n}our vacation!",
    "term": "end"
   },
   {
@@ -1157,7 +1157,7 @@
   {
    "id": "scen067.0183",
    "jp": "こんな眺めのいいところで食事が出来るなんて★{n}う～ん、ぜいたくだわ♪",
-   "en": "Getting to eat with a view like this... Mmm, what a{n}luxury♪",
+   "en": "Getting to eat with a view like this... Mmm, what{n}a luxury♪",
    "term": "end"
   },
   {
@@ -1187,13 +1187,13 @@
   {
    "id": "scen067.0188",
    "jp": "落ち着いた雰囲気のお店ね{FFF0}♥{FFF1}{p}でも、今は仕事中よ！{n}ここで味わうのは休暇の時だけにしようね。",
-   "en": "This place has such a peaceful atmosphere{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for our{n}vacation.",
+   "en": "This place has such a peaceful atmosphere{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for{n}our vacation.",
    "term": "end"
   },
   {
    "id": "scen067.0189",
    "jp": "う～ん、高級そうなレストラン{FFF0}♥{FFF1}{p}でも、今は仕事中よ！{n}ここで味わうのは休暇の時だけにしようね。",
-   "en": "Ooh, this restaurant looks fancy{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for our{n}vacation.",
+   "en": "Ooh, this restaurant looks fancy{FFF0}♥{FFF1}{p}But we're working now! Let's save eating here for{n}our vacation.",
    "term": "end"
   },
   {

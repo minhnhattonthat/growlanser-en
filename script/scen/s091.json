@@ -177,7 +177,7 @@
   {
    "id": "scen091.0028",
    "jp": "ん？{n}お前たちか。{n}念のため、通行手形を提示してくれ。",
-   "en": "Hm? Oh, it's you. Show me your travel pass, just to be{n}sure.",
+   "en": "Hm? Oh, it's you. Show me your travel pass, just to{n}be sure.",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen091.0036",
    "jp": "うむ、正規の手形だな。{n}行き先はコムスプリングス‥‥。{p}なるほど。{n}お前たちが闘技大会の優勝者か。{n}今年の勝者は、思ったよりもきゃしゃだな。",
-   "en": "Hmm, the pass is in order. Your destination is{n}Comsprings...{p}I see. You're the tournament champions. This year's{n}winners are more slightly built than I expected.",
+   "en": "Hmm, the pass is in order. Your destination{n}is Comsprings...{p}I see. You're the tournament champions. This year's{n}winners are more slightly built than I expected.",
    "term": "end"
   },
   {

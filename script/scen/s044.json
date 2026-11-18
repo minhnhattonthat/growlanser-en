@@ -87,7 +87,7 @@
   {
    "id": "scen044.0013",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "{v:003D}Well, the toughest fighters on the continent gather{n}here.",
+   "en": "{v:003D}Well, the toughest fighters on the continent{n}gather here.",
    "term": "end"
   },
   {
@@ -105,7 +105,7 @@
   {
    "id": "scen044.0016",
    "jp": "本日は、フリーバトルはお休みです。{n}また今度、ご来場下さい。",
-   "en": "Free Battle is closed today. Please visit us another{n}time.",
+   "en": "Free Battle is closed today. Please visit us{n}another time.",
    "term": "end"
   },
   {
@@ -117,13 +117,13 @@
   {
    "id": "scen044.0018",
    "jp": "もうすぐ、年に一度の闘技大会のために{n}フリーバトルはしばらくお休みとなります。{p}参加されるなら今のうちですよ。{n}受付は中で行っています。",
-   "en": "Free Battle will soon close for a while for the annual{n}tournament.{p}If you wish to compete, now is your chance.{n}Registration is inside.",
+   "en": "Free Battle will soon close for a while for the{n}annual tournament.{p}If you wish to compete, now is your chance.{n}Registration is inside.",
    "term": "end"
   },
   {
    "id": "scen044.0019",
    "jp": "フリーバトルへようこそ！{n}現在、参加者を募集しています。",
-   "en": "Welcome to Free Battle! We are currently accepting{n}entrants.",
+   "en": "Welcome to Free Battle! We are currently{n}accepting entrants.",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen044.0036",
    "jp": "俺は遠慮しておこう。{n}{s:0000}が腕試しをすればいい。",
-   "en": "I'll sit this one out. Let {s:0000} test his{n}skills.",
+   "en": "I'll sit this one out. Let {s:0000} test{n}his skills.",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen044.0066",
    "jp": "早くアタシの番がこないかしら？{n}イライラするわね。",
-   "en": "Will it ever be my turn? This waiting is getting on my{n}nerves.",
+   "en": "Will it ever be my turn? This waiting is getting on{n}my nerves.",
    "term": "end"
   },
   {
@@ -417,7 +417,7 @@
   {
    "id": "scen044.0068",
    "jp": "みんなジッとしていられないのかしら？{n}ウロウロされて、邪魔だわ。",
-   "en": "Can't everyone sit still? All this pacing is getting in my{n}way.",
+   "en": "Can't everyone sit still? All this pacing is getting in{n}my way.",
    "term": "end"
   },
   {
@@ -579,7 +579,7 @@
   {
    "id": "scen044.0095",
    "jp": "ここから先は関係者以外、立入禁止です。",
-   "en": "Only authorized personnel are permitted beyond this{n}point.",
+   "en": "Only authorized personnel are permitted beyond{n}this point.",
    "term": "end"
   },
   {
@@ -591,7 +591,7 @@
   {
    "id": "scen044.0097",
    "jp": "さすがマスタークラス。{n}皆、動きに無駄がない‥‥。",
-   "en": "Just what you'd expect of Master Class. Not a wasted{n}movement...",
+   "en": "Just what you'd expect of Master Class. Not a{n}wasted movement...",
    "term": "end"
   },
   {
@@ -609,7 +609,7 @@
   {
    "id": "scen044.0100",
    "jp": "マスタークラスの戦闘では、{n}魔法を唱えるスキを与えてくれん‥‥。{n}やはり序盤に勝負をかけるしかないな‥‥。",
-   "en": "In Master Class fights, they don't give you an opening{n}to cast a spell... I'll have to stake it all on the opening{n}moves...",
+   "en": "In Master Class fights, they don't give you an opening{n}to cast a spell... I'll have to stake it all on the{n}opening moves...",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen044.0106",
    "jp": "緊張してしまって、{n}どうしても試合で実力を出せないんだ‥‥。",
-   "en": "I get so nervous, I can never fight my best in a{n}match...",
+   "en": "I get so nervous, I can never fight my best in{n}a match...",
    "term": "end"
   },
   {
@@ -657,7 +657,7 @@
   {
    "id": "scen044.0108",
    "jp": "俺の右手にいる女性、{n}なかなかいけてると思わないか？{p}何かうまいキッカケを作って、{n}話しかけたいんだけどなぁ‥‥。",
-   "en": "That woman on my right is quite a looker, don't you{n}think?{p}I'd like to find a good excuse to strike up a{n}conversation...",
+   "en": "That woman on my right is quite a looker, don't{n}you think?{p}I'd like to find a good excuse to strike up{n}a conversation...",
    "term": "end"
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "scen044.0115",
    "jp": "ここから先は、来賓席です。{n}立ち入りはご遠慮願います。",
-   "en": "The guest seating is beyond this point. Please do not{n}enter.",
+   "en": "The guest seating is beyond this point. Please do{n}not enter.",
    "term": "end"
   },
   {

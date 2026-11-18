@@ -87,7 +87,7 @@
   {
    "id": "scen011.0013",
    "jp": "{v:0003}そなたらからは、いろいろと教えられた。{p}{v:0004}最後まであきらめない心、勇気。{n}そして何より、我々に人間との共存という機会を{n}与えてくれた。{p}{v:0005}我も礼を言わせてもらおう。{n}本当にありがとう。",
-   "en": "{v:0003}You have taught us much.{p}{v:0004}The will to persevere to the very end. Courage. Above{n}all, you have given us the chance to live alongside{n}humanity.{p}{v:0005}Allow us to offer our gratitude as well. You have our{n}heartfelt thanks.",
+   "en": "{v:0003}You have taught us much.{p}{v:0004}The will to persevere to the very end. Courage. Above{n}all, you have given us the chance to live{n}alongside humanity.{p}{v:0005}Allow us to offer our gratitude as well. You have our{n}heartfelt thanks.",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen011.0038",
    "jp": "{v:0022}それでは、私たちはこれで。{n}彼のご両親にも挨拶に行かなければいけませんので。",
-   "en": "{v:0022}Well, we should be going. We still need to visit his{n}parents.",
+   "en": "{v:0022}Well, we should be going. We still need to visit{n}his parents.",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen011.0041",
    "jp": "{FFEE}{v:0025}ヴェンツェルを倒してから、{n}もう、数ヶ月が過ぎました。{p}{v:0026}今では混乱も収まって、街のみんなも、{n}元のような暮らしにもどることが出来ました。{p}{v:0027}また、各国の親睦も深まり、{n}戦争の心配がなくなったので、{n}人々の生活に、活気が出てきました。{p}{v:0028}いっしょに戦ったみんなも元気でやってるみたいです。{FFF1}",
-   "en": "{FFEE}{v:0025}It's been several months now since we defeated{n}Wenzel.{p}{v:0026}Things have finally settled down, and everyone in town{n}has been able to get back to their old lives.{p}{v:0027}The countries are getting along better, too. Now that{n}there's no fear of war, everyone's lives are full of{n}energy again.{p}{v:0028}Everyone who fought alongside us seems to be doing{n}well, too.{FFF1}",
+   "en": "{FFEE}{v:0025}It's been several months now since we{n}defeated Wenzel.{p}{v:0026}Things have finally settled down, and everyone in town{n}has been able to get back to their old lives.{p}{v:0027}The countries are getting along better, too. Now that{n}there's no fear of war, everyone's lives are full of{n}energy again.{p}{v:0028}Everyone who fought alongside us seems to be doing{n}well, too.{FFF1}",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen011.0043",
    "jp": "{v:002B}ウォレスさんは、{n}ローランディア軍に将軍として招かれました。{p}{v:002C}戦争しないのに、何で軍隊がいるんだろう？{n}って思ったら、王国周辺の治安維持が仕事みたいです。",
-   "en": "{v:002B}Wallace-san was invited to join Rolandia's army as a{n}general.{p}{v:002C}I wondered why we'd need an army when we're not{n}fighting any wars. Turns out their job is to keep the{n}peace around the kingdom.",
+   "en": "{v:002B}Wallace-san was invited to join Rolandia's army as{n}a general.{p}{v:002C}I wondered why we'd need an army when we're not{n}fighting any wars. Turns out their job is to keep the{n}peace around the kingdom.",
    "term": "end"
   },
   {
@@ -279,7 +279,7 @@
   {
    "id": "scen011.0045",
    "jp": "{v:002E}ミーシャはあいかわらず、のんびりしてます。{n}いつまで、魔法学院の生徒を{n}やってるつもりなんだろう‥‥。",
-   "en": "{v:002E}Misha's still taking things easy, as usual. Just how long{n}does she plan to stay a student at the Magic{n}Academy...?",
+   "en": "{v:002E}Misha's still taking things easy, as usual. Just how long{n}does she plan to stay a student at the{n}Magic Academy...?",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen011.0047",
    "jp": "{v:0030}アリオストさんは、また変な機械を作ってます。{n}こんどのは、長いあいだ、{n}水にもぐれる機械だそうです。{p}{v:0031}それと、フェザリアンと友好関係がむすべたおかげで、{n}お母さんといっしょに暮らせるように{n}なったみたいです。",
-   "en": "{v:0030}Ariost-san is building another weird machine. This one's{n}supposed to let you stay underwater for a long time.{p}{v:0031}And now that we've made friends with the{n}Featherians, it looks like he can live with his mother,{n}too.",
+   "en": "{v:0030}Ariost-san is building another weird machine. This one's{n}supposed to let you stay underwater for a long time.{p}{v:0031}And now that we've made friends with the{n}Featherians, it looks like he can live with his{n}mother, too.",
    "term": "end"
   },
   {
@@ -481,25 +481,25 @@
   {
    "id": "scen011.0078",
    "jp": "{v:0303}でも、お兄さまがこうやって誘ってくれるなんて、{n}うれしいですぅ★{p}{v:0304}アタシとお兄さまが２人きりで話せるなんて、{n}なんだか、夢を見ているみたい‥‥。{FFF9}{FFFB}{n}{v:0305}この夢、さめないといいな‥‥。{p}{v:0306}でもこうやってると、昔の事を思い出すね。{n}昔っていっても、まだほんの少し前のことだけど。{p}{FC05}{v:0307}アタシがホムンクルスって判ったときに、{n}お兄さまは慰めに来てくれた。{p}{v:0308}最初は逃げちゃったけど、{n}あの時とっても嬉しかったんだ。",
-   "en": "{v:0303}But I'm sooo happy you invited me out like this, Big{n}Brother!{p}{v:0304}Being able to talk with you, just the two of us... It{n}feels like a dream...{FFF9}{FFFB}{v:0305}I hope I never wake up...{p}{v:0306}Still, being here like this reminds me of the old days.{n}Though it really wasn't that long ago.{p}{FC05}{v:0307}When we found out I was a homunculus, you came to{n}comfort me, Big Brother.{p}{v:0308}I ran away at first, but it made me so happy.",
+   "en": "{v:0303}But I'm sooo happy you invited me out like this,{n}Big Brother!{p}{v:0304}Being able to talk with you, just the two of us... It{n}feels like a dream...{FFF9}{FFFB}{v:0305}I hope I never wake up...{p}{v:0306}Still, being here like this reminds me of the old days.{n}Though it really wasn't that long ago.{p}{FC05}{v:0307}When we found out I was a homunculus, you came to{n}comfort me, Big Brother.{p}{v:0308}I ran away at first, but it made me so happy.",
    "term": "end"
   },
   {
    "id": "scen011.0079",
    "jp": "{v:030B}お兄さまと出会えて本当によかった‥‥。{p}{v:030C}お兄さまに出会えなければ、今頃アタシはどうなっていたのかな‥‥。{p}{v:030D}お馬鹿なまま、学院内を走り回っていたのかな‥‥。{p}{FC02}{v:030E}でも、今は違う。{p}{v:030F}まだまだお兄さまやみんなのお世話に{n}なりっぱなしだけど、徐々に変えていってるもの。{p}{FC00}{v:0310}そうだお兄さま、アタシお兄さまと会わなかった間に、{n}魔法実習を終わらせたんだよ！{p}{FC05}{v:0311}毎日先生から小言を言われてたけど、{n}それでも終わらせることができたんだ。{p}{FC04}{v:0312}これもお兄さまのおかげだよ。{n}だって、お兄さまにふさわしい人になりたかったから、頑張れたんだもの‥‥。{p}{v:0313}実習中は、ずっとお兄さまの事を考えてた。{n}こうやって２人で会える日を夢見て頑張ったもん‥‥。",
-   "en": "{v:030B}I'm so glad I met you, Big Brother...{p}{v:030C}I wonder what would have become of me if I hadn't{n}met you...{p}{v:030D}Would I still be that silly girl running around the{n}Academy...?{p}{FC02}{v:030E}But things are different now.{p}{v:030F}I still rely on you and everyone else all the time, but{n}I'm changing, little by little.{p}{FC00}{v:0310}Oh, Big Brother! While we were apart, I finished my{n}practical magic training!{p}{FC05}{v:0311}My teacher scolded me every day, but I still managed{n}to finish it.{p}{FC04}{v:0312}That's thanks to you, too, Big Brother. I could work so{n}hard because I wanted to be someone worthy of you...{p}{v:0313}I thought about you the whole time I was training.{n}Dreaming of the day we could be together like this{n}kept me going...",
+   "en": "{v:030B}I'm so glad I met you, Big Brother...{p}{v:030C}I wonder what would have become of me if I hadn't{n}met you...{p}{v:030D}Would I still be that silly girl running around{n}the Academy...?{p}{FC02}{v:030E}But things are different now.{p}{v:030F}I still rely on you and everyone else all the time, but{n}I'm changing, little by little.{p}{FC00}{v:0310}Oh, Big Brother! While we were apart, I finished my{n}practical magic training!{p}{FC05}{v:0311}My teacher scolded me every day, but I still managed{n}to finish it.{p}{FC04}{v:0312}That's thanks to you, too, Big Brother. I could work so{n}hard because I wanted to be someone worthy of you...{p}{v:0313}I thought about you the whole time I was training.{n}Dreaming of the day we could be together like this{n}kept me going...",
    "term": "end"
   },
   {
    "id": "scen011.0080",
    "jp": "{FFF5}{v:0314}お兄さまの事を考えるだけで、アタシの胸の鼓動は{n}高鳴るの‥‥。{FFF9}{FFFB}{n}{v:0315}こうやってお兄さまの前に立っていてもそう‥‥。{p}{FC04}{v:0316}お兄さまの前では落ち着かなきゃと思っても、{n}この胸の鼓動は止まらないの‥‥。{p}{v:0317}止めようと思えば思うほど、{n}よけいに鼓動は早まっていく‥‥。{p}{v:0318}アタシ、もうお兄さまのことしか考えられない‥‥。",
-   "en": "{FFF5}{v:0314}Just thinking about you makes my heart race, Big{n}Brother...{FFF9}{FFFB}{v:0315}Even now, standing here in front of you...{p}{FC04}{v:0316}I tell myself to stay calm around you, but my heart just{n}won't stop pounding...{p}{v:0317}The more I try to stop it, the faster it beats...{p}{v:0318}I can't think of anything but you anymore, Big{n}Brother...",
+   "en": "{FFF5}{v:0314}Just thinking about you makes my heart race, Big{n}Brother...{FFF9}{FFFB}{v:0315}Even now, standing here in front of you...{p}{FC04}{v:0316}I tell myself to stay calm around you, but my heart just{n}won't stop pounding...{p}{v:0317}The more I try to stop it, the faster it beats...{p}{v:0318}I can't think of anything but you anymore,{n}Big Brother...",
    "term": "end"
   },
   {
    "id": "scen011.0081",
    "jp": "‥‥{v:0319}ドジやおっちょこちょいは、{n}治らないかもしれないけど、{n}ずっとお兄さまの側において欲しい‥‥。{p}{v:031A}そしてアタシだけを見て欲しい‥‥。",
-   "en": "...{v:0319}I may never stop being clumsy and scatterbrained,{n}but I want you to keep me by your side forever, Big{n}Brother...{p}{v:031A}And I want you to have eyes only for me...",
+   "en": "...{v:0319}I may never stop being clumsy and scatterbrained,{n}but I want you to keep me by your side forever,{n}Big Brother...{p}{v:031A}And I want you to have eyes only for me...",
    "term": "end"
   },
   {
@@ -685,7 +685,7 @@
   {
    "id": "scen011.0111",
    "jp": "{v:00E9}もうあれから数ヶ月か‥‥。{n}時間が経つのは早いものだな。{p}{v:00EA}確かこの村だったな、俺とお前が出会ったのは。{n}お前はサンドラ様の使いで、俺にこの義眼を届けて{n}くれた。{p}{v:00EB}今でもあの時のことはよく覚えている。{n}それまで闇の中に生きてきた俺に、突如光が戻った{n}からな‥‥。",
-   "en": "{v:00E9}A few months already, eh...? Time flies.{p}{v:00EA}This was the village where we met, wasn't it?{n}Sandra-sama sent you to deliver this artificial eye to{n}me.{p}{v:00EB}I still remember it well. I'd been living in darkness until{n}then. Suddenly, there was light again...",
+   "en": "{v:00E9}A few months already, eh...? Time flies.{p}{v:00EA}This was the village where we met, wasn't it?{n}Sandra-sama sent you to deliver this artificial eye{n}to me.{p}{v:00EB}I still remember it well. I'd been living in darkness until{n}then. Suddenly, there was light again...",
    "term": "end"
   },
   {
@@ -721,7 +721,7 @@
   {
    "id": "scen011.0117",
    "jp": "{v:00F3}それに君とやってきたことの方が、{n}はるかにすごいからね。",
-   "en": "{v:00F3}Besides, what we accomplished together was far more{n}remarkable.",
+   "en": "{v:00F3}Besides, what we accomplished together was far{n}more remarkable.",
    "term": "end"
   },
   {
@@ -753,13 +753,13 @@
   {
    "id": "scen011.0122",
    "jp": "{v:00F6}実際、君の考え方や行動は本当に面白い。{n}見ていて飽きると言うことがないからね。{p}{v:00F7}だから君は、僕の興味をひくんだろうな。{n}じっくりと時間をかけて、観察してみたくなったよ。{p}{v:00F8}きっとそこに、僕の知らない何かがあるはずだ。{n}だから、もっともっと君のことを知りたい。{p}{FC05}{v:00F9}そうだね‥‥、{n}君の研究観察を僕のライフワークにさせてもらうよ。{p}{v:00FA}ちょくちょく君を調べに寄らせてもらうから、{n}覚悟しておいてくれよ？",
-   "en": "{v:00F6}The way you think and act really is fascinating. I never{n}tire of watching you.{p}{v:00F7}I suppose that's why you intrigue me. I've come to{n}want to observe you at length, taking my time.{p}{v:00F8}I'm certain there's something there I have yet to{n}discover. That's why I want to learn more and more{n}about you.{p}{FC05}{v:00F9}Yes... I think I'll make studying you my life's work.{p}{v:00FA}I'll be dropping by often to examine you, so be{n}prepared!",
+   "en": "{v:00F6}The way you think and act really is fascinating. I never{n}tire of watching you.{p}{v:00F7}I suppose that's why you intrigue me. I've come to{n}want to observe you at length, taking my time.{p}{v:00F8}I'm certain there's something there I have yet to{n}discover. That's why I want to learn more and more{n}about you.{p}{FC05}{v:00F9}Yes... I think I'll make studying you my life's work.{p}{v:00FA}I'll be dropping by often to examine you, so{n}be prepared!",
    "term": "end"
   },
   {
    "id": "scen011.0123",
    "jp": "{v:00E9}よお、久しぶりだな。{n}お前と会うのも数ヶ月ぶりか。{p}{v:00EA}初めてお前と出会ってから、まだそんなに{n}日は経っていないが、{n}もうずいぶんと長いこと付き合ってる気がするぜ。{p}{v:00EB}闘技大会でガムランの奴にだまされなければ、{n}お前とずっと一緒にいられたかもしれねぇのにな。",
-   "en": "{v:00E9}Hey, been a while. A few months since I last saw you,{n}huh?{p}{v:00EA}Hasn't been that long since we first met, but it feels{n}like we've known each other for ages.{p}{v:00EB}If that bastard Gamlan hadn't fooled me at the{n}tournament, I might've stayed with you the whole time.",
+   "en": "{v:00E9}Hey, been a while. A few months since I last saw{n}you, huh?{p}{v:00EA}Hasn't been that long since we first met, but it feels{n}like we've known each other for ages.{p}{v:00EB}If that bastard Gamlan hadn't fooled me at the{n}tournament, I might've stayed with you the whole time.",
    "term": "end"
   },
   {
@@ -783,7 +783,7 @@
   {
    "id": "scen011.0127",
    "jp": "{v:00F2}お前が親父と同じ存在だってのがあるかも知れねぇが、{n}俺にとってもお前はけっこう頼れる存在だしな。{p}{v:00F3}照れくさいが、お前と一緒にいると、{n}けっこう気が安らぐんだ‥‥。{FFF9}{FFFB}{n}{v:00F4}お前と俺は、あながち他人とも言えねぇ仲だしな。",
-   "en": "{v:00F2}Maybe it's got something to do with you being another{n}version of my old man, but you're someone I can count{n}on, too.{p}{v:00F3}It's embarrassing to say, but I feel pretty at ease{n}when you're around...{FFF9}{FFFB} {v:00F4}After all, you and I aren't exactly{n}unrelated.",
+   "en": "{v:00F2}Maybe it's got something to do with you being another{n}version of my old man, but you're someone I can count{n}on, too.{p}{v:00F3}It's embarrassing to say, but I feel pretty at ease{n}when you're around...{FFF9}{FFFB} {v:00F4}After all, you and I aren't{n}exactly unrelated.",
    "term": "end"
   },
   {
@@ -839,7 +839,7 @@
   {
    "id": "scen011.0136",
    "jp": "{v:00E4}それにしても、お城は窮屈で窮屈で‥‥。{p}{FC03}{v:00E5}立場上、仕方ないんですけどね。{n}いつもはみんなが思っている国王の姿を{n}演じてますから。{p}{FC00}{v:00E6}だからたまにこうやってお城を抜け出して、{n}息抜きしているんです。{p}{v:00E7}でも、あなたとお話しているときが１番落ち着きます。{n}だって、自分を作る必要がありませんから‥‥。{p}{FC04}{v:00E8}僕が王になっても、{n}あなただけは今までと変わらず接してくれる‥‥。{n}だからつい、甘えちゃって‥‥。",
-   "en": "{v:00E4}Still, life at the castle is so terribly stifling...{p}{FC03}{v:00E5}It can't be helped, given my position. I'm always playing{n}the king everyone expects me to be.{p}{FC00}{v:00E6}That's why I slip out of the castle like this now and{n}then, just to take a breather.{p}{v:00E7}But I feel most at ease when I'm talking with you. I{n}don't have to pretend to be someone else...{p}{FC04}{v:00E8}Even now that I'm king, you alone treat me just as you{n}always have... So I can't help letting myself lean on{n}you...",
+   "en": "{v:00E4}Still, life at the castle is so terribly stifling...{p}{FC03}{v:00E5}It can't be helped, given my position. I'm always playing{n}the king everyone expects me to be.{p}{FC00}{v:00E6}That's why I slip out of the castle like this now and{n}then, just to take a breather.{p}{v:00E7}But I feel most at ease when I'm talking with you. I{n}don't have to pretend to be someone else...{p}{FC04}{v:00E8}Even now that I'm king, you alone treat me just as you{n}always have... So I can't help letting myself lean{n}on you...",
    "term": "end"
   },
   {
@@ -895,7 +895,7 @@
   {
    "id": "scen011.0145",
    "jp": "{v:003E}構わない‥‥。{p}{v:003F}だって、アイツの事を考えるだけでアタシの{n}心臓は高鳴るのに、{n}アタシはアイツに何もしてあげられない‥‥。{p}{v:0040}ホントはアイツと一緒に手をつないだり、{n}肩を寄せ合ったりしたかった。{n}でも、こんな身体じゃそんな事はできない‥‥。{p}{v:0041}こんな身体なら‥‥{n}自分の思い通りにならない身体ならいらない！{p}{v:0042}アタシ、もう自分の気持ちを隠しておくのに{n}疲れちゃった‥‥。{p}{v:0043}それにアタシの役目は、もう終わったし‥‥。{FFF9}{FFFB}{n}{v:0044}だからマスター、ひと思いにやっちゃって‥‥。",
-   "en": "{v:003E}I don't mind...{p}{v:003F}Just thinking about him makes my heart race, but{n}there's nothing I can do for him...{p}{v:0040}I wanted to hold his hand, to nestle against his{n}shoulder. But I can't do any of that with this body...{p}{v:0041}If this body... If this body won't let me do what I{n}want, I don't want it!{p}{v:0042}I'm tired of hiding how I feel...{p}{v:0043}Besides, my job's done now...{FFF9}{FFFB} {v:0044}So, Master, just make it{n}quick...",
+   "en": "{v:003E}I don't mind...{p}{v:003F}Just thinking about him makes my heart race, but{n}there's nothing I can do for him...{p}{v:0040}I wanted to hold his hand, to nestle against his{n}shoulder. But I can't do any of that with this body...{p}{v:0041}If this body... If this body won't let me do what I{n}want, I don't want it!{p}{v:0042}I'm tired of hiding how I feel...{p}{v:0043}Besides, my job's done now...{FFF9}{FFFB} {v:0044}So, Master, just make{n}it quick...",
    "term": "end"
   },
   {
@@ -919,7 +919,7 @@
   {
    "id": "scen011.0149",
    "jp": "{v:0048}お兄ちゃん、元気出してよ。{n}悲しんだってティピは帰ってこないんだから‥‥。",
-   "en": "{v:0048}Cheer up, Big Brother. Being sad won't bring Tippi{n}back...",
+   "en": "{v:0048}Cheer up, Big Brother. Being sad won't bring{n}Tippi back...",
    "term": "end"
   },
   {

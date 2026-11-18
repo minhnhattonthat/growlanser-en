@@ -81,7 +81,7 @@
   {
    "id": "scen084.0012",
    "jp": "{v:0068}違うよ。{n}みんなが最後まであきらめなかったから、{n}勝てたんだよ。{p}{v:0069}ね？{n}お兄ちゃん？",
-   "en": "{v:0068}No. We won because everyone kept trying right to the{n}end.{p}{v:0069}Right, Big Brother?",
+   "en": "{v:0068}No. We won because everyone kept trying right to{n}the end.{p}{v:0069}Right, Big Brother?",
    "term": "end"
   },
   {
@@ -326,7 +326,7 @@
   {
    "id": "scen084.0052",
    "jp": "{v:008A}では、私も戻るとしよう。{n}いろいろと世話になった。{n}また会おう、ローランディア王国の騎士よ！",
-   "en": "{v:008A}Then I shall return as well. You have done much for{n}me. Until we meet again, knight of the Kingdom of{n}Rolandia!",
+   "en": "{v:008A}Then I shall return as well. You have done much for{n}me. Until we meet again, knight of the Kingdom{n}of Rolandia!",
    "term": "end"
   },
   {
@@ -356,7 +356,7 @@
   {
    "id": "scen084.0057",
    "jp": "現在、調査中です。{n}しばらくしてから、お越し下さい。",
-   "en": "An investigation is currently underway. Please return{n}later.",
+   "en": "An investigation is currently underway. Please{n}return later.",
    "term": "end"
   },
   {
@@ -392,7 +392,7 @@
   {
    "id": "scen084.0063",
    "jp": "‥‥‥{v:0005}ダメ。{p}{v:0006}ゲヴェルの思念波が強すぎて、{n}完全に遮断できない‥‥。",
-   "en": "...{v:0005}It's no use.{p}{v:0006}Gevel's psychic waves are too strong. I can't block them{n}completely...",
+   "en": "...{v:0005}It's no use.{p}{v:0006}Gevel's psychic waves are too strong. I can't block{n}them completely...",
    "term": "end"
   },
   {
@@ -404,7 +404,7 @@
   {
    "id": "scen084.0065",
    "jp": "{v:0008}さすが本体の近くだと勝手が違うか‥‥。",
-   "en": "{v:0008}Guess it's a different story this close to his actual{n}body...",
+   "en": "{v:0008}Guess it's a different story this close to his{n}actual body...",
    "term": "end"
   },
   {
@@ -536,7 +536,7 @@
   {
    "id": "scen084.0087",
    "jp": "こちらからは開かない。{n}一方通行のようだ。",
-   "en": "It won't open from this side. It seems to be a one-way{n}passage.",
+   "en": "It won't open from this side. It seems to be a{n}one-way passage.",
    "term": "end"
   },
   {
@@ -590,7 +590,7 @@
   {
    "id": "scen084.0096",
    "jp": "床に鍵穴のような物が{FFEF}２つ{FFF1}開いている。",
-   "en": "There are {FFEF}2{FFF1} openings in the floor that look like{n}keyholes.",
+   "en": "There are {FFEF}2{FFF1} openings in the floor that look{n}like keyholes.",
    "term": "end"
   },
   {
@@ -644,7 +644,7 @@
   {
    "id": "scen084.0105",
    "jp": "鍵穴が上下に２つある。{n}鍵を使いますか？",
-   "en": "There are two keyholes, one above the other. Use a{n}key?",
+   "en": "There are two keyholes, one above the other. Use{n}a key?",
    "term": "end"
   },
   {

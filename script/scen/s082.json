@@ -147,7 +147,7 @@
   {
    "id": "scen082.0023",
    "jp": "‥‥{v:0019}なるほどね。{n}川の流れを利用して、粉を流していたんだ。",
-   "en": "...{v:0019}I see. He was using the river's current to carry the{n}powder.",
+   "en": "...{v:0019}I see. He was using the river's current to carry{n}the powder.",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen082.0027",
    "jp": "{v:001E}よくも、我が友を！{n}許しませんよ！",
-   "en": "{v:001E}How dare you do that to my friend! I will never forgive{n}you!",
+   "en": "{v:001E}How dare you do that to my friend! I will never{n}forgive you!",
    "term": "end"
   },
   {

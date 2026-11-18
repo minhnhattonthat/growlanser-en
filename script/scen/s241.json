@@ -33,7 +33,7 @@
   {
    "id": "scen241.0004",
    "jp": "小さな怪我でも、放っておくと{n}傷が膿んで大変な事になったりします。{n}気を付けて下さいね。",
-   "en": "Even a small wound can become infected and cause{n}serious trouble if you leave it untreated. Please be{n}careful.",
+   "en": "Even a small wound can become infected and cause{n}serious trouble if you leave it untreated. Please{n}be careful.",
    "term": "end"
   },
   {
@@ -69,13 +69,13 @@
   {
    "id": "scen241.0010",
    "jp": "長い間、寝ていた患者さんにはちょっとした{n}手作業なんかをやってもらうんですよ。{n}かごを編んだり‥‥。{p}そうやって固くなった手足をほぐしていくんです。",
-   "en": "We have patients who've been bedridden for a long time{n}do simple work with their hands. Weaving baskets, for{n}example...{p}It helps loosen up their stiff limbs.",
+   "en": "We have patients who've been bedridden for a long time{n}do simple work with their hands. Weaving baskets,{n}for example...{p}It helps loosen up their stiff limbs.",
    "term": "end"
   },
   {
    "id": "scen241.0011",
    "jp": "入院患者さんって、{n}気弱になってしまう人が多いんです。{p}だから、私たちはいつも明るく仕事をするように{n}努めているんですよ。",
-   "en": "Many patients lose heart during their stay in the{n}hospital.{p}That's why we always try to stay cheerful as we{n}work.",
+   "en": "Many patients lose heart during their stay in{n}the hospital.{p}That's why we always try to stay cheerful as{n}we work.",
    "term": "end"
   },
   {
@@ -99,7 +99,7 @@
   {
    "id": "scen241.0015",
    "jp": "私もみなさんと一緒に{n}いろんな人のお役に立ちたいです。{p}もし、私に出来ることがあったら{n}いつでも声をかけて下さいね。",
-   "en": "I want to help all sorts of people alongside everyone{n}else.{p}If there's anything I can do, please let me know.",
+   "en": "I want to help all sorts of people alongside{n}everyone else.{p}If there's anything I can do, please let me know.",
    "term": "end"
   },
   {

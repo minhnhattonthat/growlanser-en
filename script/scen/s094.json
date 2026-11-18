@@ -117,7 +117,7 @@
   {
    "id": "scen094.0018",
    "jp": "{v:0019}なんだ、まだ決めてないのか？{n}じゃ、少しはずんでやろう。",
-   "en": "{v:0019}What, you haven't decided yet? Then I'll give you a little{n}extra.",
+   "en": "{v:0019}What, you haven't decided yet? Then I'll give you a{n}little extra.",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen094.0030",
    "jp": "{v:0025}これを見ろ。{n}この義手も魔眼も、魔法を応用したものだ。{n}戦闘に使うものだけが、魔法じゃないぜ。",
-   "en": "{v:0025}Look at this. This artificial arm and these magical eyes{n}were both made using magic. There's more to magic than{n}fighting.",
+   "en": "{v:0025}Look at this. This artificial arm and these magical eyes{n}were both made using magic. There's more to magic{n}than fighting.",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen094.0043",
    "jp": "{v:0010}これが手形だというのか？{n}お前たちの冗談につきあう暇はないぞ。",
-   "en": "{v:0010}You call this a travel pass? I have no time for your{n}jokes.",
+   "en": "{v:0010}You call this a travel pass? I have no time for{n}your jokes.",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen094.0058",
    "jp": "ん？{n}そこの女性、どこかで見たような‥‥。",
-   "en": "Hm? That woman there... Haven't I seen her somewhere{n}before?",
+   "en": "Hm? That woman there... Haven't I seen her{n}somewhere before?",
    "term": "end"
   },
   {
@@ -438,13 +438,13 @@
   {
    "id": "scen094.0071",
    "jp": "{v:0041}ところでティピ。{n}さっき俺をオッサン呼ばわりしなかったか？",
-   "en": "{v:0041}By the way, Tippi. Didn't you call me an old man back{n}there?",
+   "en": "{v:0041}By the way, Tippi. Didn't you call me an old man{n}back there?",
    "term": "end"
   },
   {
    "id": "scen094.0072",
    "jp": "{FB00}{v:0042}さ、さぁて‥‥覚えてないわ。{n}ほら、必死だったから‥‥。",
-   "en": "{FB00}{v:0042}W-well, now... I don't remember. I was desperate, you{n}know...",
+   "en": "{FB00}{v:0042}W-well, now... I don't remember. I was desperate,{n}you know...",
    "term": "end"
   },
   {

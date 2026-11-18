@@ -188,7 +188,7 @@
   {
    "id": "msys.items.0030",
    "jp": "{F492}大賢者アルヴィースの魂が宿る{F461}、{F4D1}{n}に精通{F47A}{F452}、{F4F6}能力も{F491}{F4C2}もつ{F4BA}{F481}２０{F460}Ｓ・範囲Ｓ・{F4D2}{F4D1}増加",
-   "en": "Said to house the soul of the legendary great sage{n}Alviss, it grants mastery of magic and enhances{n}spellcasting.{p}Magic power 20%; range S; area S; grants more spells.",
+   "en": "Said to house the soul of the legendary great sage{n}Alviss, it grants mastery of magic and{n}enhances spellcasting.{p}Magic power 20%; range S; area S; grants more spells.",
    "term": "null"
   },
   {
@@ -302,7 +302,7 @@
   {
    "id": "msys.items.0049",
    "jp": "神々しい女性が描{F49F}、幻のカード。{F45C}{n}力{F452}、生命の奇跡を起こす{F4BB}も{F4C4}{F479}{F4BA}{F455}{F460}Ｄ{F469}・全ての毒を{F4A7}",
-   "en": "A fabled card depicting a divine woman. Said to possess{n}extraordinary power and sometimes work miracles of{n}life.{p}Magic power 10%; range D; area B; nullifies all poison.",
+   "en": "A fabled card depicting a divine woman. Said to possess{n}extraordinary power and sometimes work miracles{n}of life.{p}Magic power 10%; range D; area B; nullifies all poison.",
    "term": "null"
   },
   {
@@ -632,7 +632,7 @@
   {
    "id": "msys.items.0104",
    "jp": "ソフトレザーに{F4E1}の鋲を打ち込んで強化{F4BC}{F4E4}{F4BA}鋲の頭部が大きく{F4B3}{F456}、簡単な加工{F4CB}わり{F483}{F464}が期待{F47A}。",
-   "en": "Soft leather reinforced with metal studs. Their broad{n}heads offer effective protection despite the simple{n}workmanship.",
+   "en": "Soft leather reinforced with metal studs. Their broad{n}heads offer effective protection despite the{n}simple workmanship.",
    "term": "null"
   },
   {
@@ -644,7 +644,7 @@
   {
    "id": "msys.items.0106",
    "jp": "メイドさんなどが着用{F4BD}、純白のエプロンが付{F4CD}{n}{F471}名職人、カダーオ親方の{F4FA}よる{F4D0}逸品{F4C6}{n}{F465}の{F4D8}衣装ながら、{F4D9}{F4A2}{F48F}。",
-   "en": "A dress with a pure white apron, worn by maids and the{n}like.{p}Master craftsman Kadao's fine work offers strong{n}protection without enchantments.",
+   "en": "A dress with a pure white apron, worn by maids and{n}the like.{p}Master craftsman Kadao's fine work offers strong{n}protection without enchantments.",
    "term": "null"
   },
   {
@@ -656,7 +656,7 @@
   {
    "id": "msys.items.0108",
    "jp": "シーズ{F479}蛾の幼虫が吐く糸{F4C7}{F45F}、{F488}{n}光沢{F48F}{F44A}{F495}衝撃吸収能力{F4EE}槍{F4CA}も通さぬ丈夫さ{F482}{F4BE}幼虫の数が少な{F4EF}高価。",
-   "en": "A lustrous jacket woven from silk spun by Shizu moth{n}larvae.{p}It absorbs impacts superbly and resists even spear{n}thrusts, but the larvae are rare, making it costly.",
+   "en": "A lustrous jacket woven from silk spun by Shizu{n}moth larvae.{p}It absorbs impacts superbly and resists even spear{n}thrusts, but the larvae are rare, making it costly.",
    "term": "null"
   },
   {
@@ -692,7 +692,7 @@
   {
    "id": "msys.items.0114",
    "jp": "{F44B}{F473}を終焉へと向かわせ{F4E5}名も{n}なき勇者が着{F499}{F463}{F44A}遙かな時{F4CA}経た今でも、当{F4D3}ままの外見と{F4E2}を保{F4D4}い{F4CC}",
-   "en": "A jacket said to have been worn by the nameless hero{n}who set the age of Growsian rule on the path to its{n}end.{p}Even after countless years, its appearance and{n}protective power remain unchanged.",
+   "en": "A jacket said to have been worn by the nameless hero{n}who set the age of Growsian rule on the path to{n}its end.{p}Even after countless years, its appearance and{n}protective power remain unchanged.",
    "term": "null"
   },
   {
@@ -728,7 +728,7 @@
   {
    "id": "msys.items.0120",
    "jp": "闇の{F4C2}引き寄せる{F451}、漆黒の{F4D1}{F4E1}で{n}{F45F}ブレストプレート{F4BA}重さは鋼と大差{F4D8}{F4BE}{F4DF}{F4D9}強度を有{F4BD}。",
-   "en": "A breastplate of jet-black magical metal said to draw{n}dark power. It weighs about as much as steel, but is{n}stronger.",
+   "en": "A breastplate of jet-black magical metal said to draw{n}dark power. It weighs about as much as steel, but{n}is stronger.",
    "term": "null"
   },
   {
@@ -800,13 +800,13 @@
   {
    "id": "msys.items.0132",
    "jp": "{F4A5}{F4C2}宿す{F4C8}{F4D7}新月の夜に儀式を行{F4CF}{F4E4}{F4BA}上質の絹のローブを銀皿の聖水に浸し、１２人{F4CB}{F4B9}祈りを捧げる{F4BB}{F4C1}{F4A0}す{F4BB}が{F47A}。",
-   "en": "A robe imbued with sacred power through a new-moon{n}ritual.{p}It is made by soaking a fine silk robe in holy water on{n}a silver dish while twelve maidens offer prayers.",
+   "en": "A robe imbued with sacred power through a{n}new-moon ritual.{p}It is made by soaking a fine silk robe in holy water on{n}a silver dish while twelve maidens offer prayers.",
    "term": "null"
   },
   {
    "id": "msys.items.0133",
    "jp": "大自然の{F4C2}宿{F4BC}、淡い白光{F49A}{F46B}{n}北方の森に住んで{F4CD}シャーマン達の長{F4BE}{n}代々受け継いできた{F4E4}だ{F461}{F45E}",
-   "en": "A robe imbued with nature's power, glowing pale white.{p}It is said to have passed down through generations of{n}leaders of the shamans who lived in the northern{n}forests.",
+   "en": "A robe imbued with nature's power, glowing pale white.{p}It is said to have passed down through generations of{n}leaders of the shamans who lived in the{n}northern forests.",
    "term": "null"
   },
   {
@@ -854,19 +854,19 @@
   {
    "id": "msys.items.0141",
    "jp": "かつて精霊王{F4BE}友好の証{F47B}人間の女性{F4C9}贈{F4CF}{F463}、鮮やかな色彩の羽衣。{F4E7}{F48A}{n}秘め{F480}、特に{F4A3}{F49D}{F495}耐性{F48F}。",
-   "en": "A vividly colored mantle said to have been given to a{n}human woman by the Spirit King as a token of{n}friendship.{p}It holds powerful magic and offers especially strong{n}resistance to spells.",
+   "en": "A vividly colored mantle said to have been given to a{n}human woman by the Spirit King as a token{n}of friendship.{p}It holds powerful magic and offers especially strong{n}resistance to spells.",
    "term": "null"
   },
   {
    "id": "msys.items.0142",
    "jp": "{F44B}{F473}、王族用に{F45F}{F471}{n}加工の難しい{F44F}の結晶{F4E3}繊維の中に織り{n}込んでい{F4CC}{F494}ＭＰ{F4F4}・{F47D}{F446}",
-   "en": "A dress made for royalty during the age of Growsian{n}rule.{p}Grosh crystals, difficult to work with, are woven into its{n}fibers. Restores MP; spells cost 3/4 of their usual MP.",
+   "en": "A dress made for royalty during the age of{n}Growsian rule.{p}Grosh crystals, difficult to work with, are woven into its{n}fibers. Restores MP; spells cost 3/4 of their usual MP.",
    "term": "null"
   },
   {
    "id": "msys.items.0143",
    "jp": "脚部を守る{F4C5}のスネあてが付{F4CD}、革{F4DB}ブーツ{F4BA}ヒザまで丈が{F4C4}{F4C5}、意外と{F464}が{F4D9}{F4BA}{F4A6}旅人が愛用{F4CE}い{F4CC}",
-   "en": "Leather boots with shin guards. Their knee-high length{n}offers surprising protection, making them popular with{n}travelers.",
+   "en": "Leather boots with shin guards. Their knee-high length{n}offers surprising protection, making them popular{n}with travelers.",
    "term": "null"
   },
   {
@@ -902,7 +902,7 @@
   {
    "id": "msys.items.0149",
    "jp": "弓の達人{F461}た森人、ルーヴァダシルが好{F4ED}{n}{F47D}帽子。弓などの射程を伸ばす{F452}{F4C0}敵の間接{F4C3}を避け{F4AF}{F4EB}{F461}{F45E}",
-   "en": "A magical hat favored by Ruvadashiru, a forest dweller{n}famed as a master archer.{p}It is said to extend the range of bows and similar{n}weapons, and make enemy ranged attacks easier to{n}evade.",
+   "en": "A magical hat favored by Ruvadashiru, a forest dweller{n}famed as a master archer.{p}It is said to extend the range of bows and similar{n}weapons, and make enemy ranged attacks easier{n}to evade.",
    "term": "null"
   },
   {
@@ -1016,7 +1016,7 @@
   {
    "id": "msys.items.0168",
    "jp": "妖精王ラウリンが所有{F4CE}{F4CD}{F47D}指輪{F4BA}黄金色に輝く{F4D0}指輪{F4C6}{F459}{F4EA}体{F4C2}{n}{F491}{F4E2}を持{F4D4}い{F4CC}",
-   "en": "A magical ring once owned by Laurin, king of the{n}fairies. This golden, shining ring increases its wearer's{n}vitality.",
+   "en": "A magical ring once owned by Laurin, king of the{n}fairies. This golden, shining ring increases its{n}wearer's vitality.",
    "term": "null"
   },
   {
@@ -1100,7 +1100,7 @@
   {
    "id": "msys.items.0182",
    "jp": "{F48A}帯び{F4E5}甘い香り{F49A}果実{F4BA}栽培が{F48E}難し{F4CD}め、珍重{F4D6}{F45E}{n}ＭＰ{F4F4}、８～１５",
-   "en": "A sweet-smelling fruit imbued with magic. Highly prized{n}because it is extremely difficult to grow. Restores 8-15{n}MP.",
+   "en": "A sweet-smelling fruit imbued with magic. Highly prized{n}because it is extremely difficult to grow. Restores{n}8-15 MP.",
    "term": "null"
   },
   {
@@ -1244,7 +1244,7 @@
   {
    "id": "msys.items.0206",
    "jp": "{F41C}や{F47D}修得{F4F3}{F4E3}{F4DF}深く記{F4BC}巻物{F4BA}秘伝の事柄{F4BE}多く書かれ{F498}{F479}{F4BA}修得{F419}を１{F419}得る",
-   "en": "A detailed scroll on learning skills and magic, said to{n}contain many secret teachings. Grants 1 Learning{n}Point.",
+   "en": "A detailed scroll on learning skills and magic, said to{n}contain many secret teachings. Grants 1{n}Learning Point.",
    "term": "null"
   },
   {
@@ -1262,7 +1262,7 @@
   {
    "id": "msys.items.0209",
    "jp": "人体{F45D}生命の秘密{F46A}記{F47C}魔導書{F4BA}治癒能力{F46A}{F42F}{n}グローヒーリング{F429}",
-   "en": "A grimoire on anatomy and life's secrets. Deepens{n}knowledge of healing. Enables Grow Healing (learning{n}begins).",
+   "en": "A grimoire on anatomy and life's secrets. Deepens{n}knowledge of healing. Enables Grow Healing{n}(learning begins).",
    "term": "null"
   },
   {
@@ -1286,25 +1286,25 @@
   {
    "id": "msys.items.0213",
    "jp": "{F4D5}の{F4C3}を見切{F4DC}反撃を{F4BD}{F4F3}{F46A}{n}{F43D}{n}{F45A}{F425}",
-   "en": "A scroll on reading an enemy's attacks and striking{n}back. Raises Counter's rank (grants rank 1 if{n}unlearned).",
+   "en": "A scroll on reading an enemy's attacks and striking{n}back. Raises Counter's rank (grants rank 1{n}if unlearned).",
    "term": "null"
   },
   {
    "id": "msys.items.0214",
    "jp": "{F4C3}{F4D3}反動を利用{F4B1}{F4AC}連続{F4C3}を行う{n}{F4F3}が{F43D}{n}連続{F4C3}{F425}",
-   "en": "A scroll on using an attack's recoil for rapid successive{n}strikes. Raises Chain Attack's rank (grants rank 1 if{n}unlearned).",
+   "en": "A scroll on using an attack's recoil for rapid successive{n}strikes. Raises Chain Attack's rank (grants rank 1{n}if unlearned).",
    "term": "null"
   },
   {
    "id": "msys.items.0215",
    "jp": "{F4E9}の扱いに習熟{F4BD}{F4BB}{F4C1}そばにいる全ての敵{F4C9}{F49D}{F4C3}をしか{F4DE}{F4F3}{F4BE}{F43D}{n}全周囲{F4C3}{F425}",
-   "en": "A scroll on mastering weapons to strike every nearby{n}enemy. Raises Whirlwind Attack's rank (grants rank 1 if{n}unlearned).",
+   "en": "A scroll on mastering weapons to strike every nearby{n}enemy. Raises Whirlwind Attack's rank (grants rank 1{n}if unlearned).",
    "term": "null"
   },
   {
    "id": "msys.items.0216",
    "jp": "人体の{F431}{n}生命{F4C2}{F426}{n}ＨＰアップ{F425}",
-   "en": "A scroll on the body's workings and secret ways to{n}boost vitality. Raises HP Up's rank (grants rank 1 if{n}unlearned).",
+   "en": "A scroll on the body's workings and secret ways to{n}boost vitality. Raises HP Up's rank (grants rank 1{n}if unlearned).",
    "term": "null"
   },
   {
@@ -1376,7 +1376,7 @@
   {
    "id": "msys.items.0228",
    "jp": "{F402}",
-   "en": "A mysterious ring entrusted to you by Sierra on the{n}cape west of Rolandia's capital. It holds powerful{n}magic.",
+   "en": "A mysterious ring entrusted to you by Sierra on the{n}cape west of Rolandia's capital. It holds{n}powerful magic.",
    "term": "null"
   },
   {
@@ -1394,7 +1394,7 @@
   {
    "id": "msys.items.0231",
    "jp": "{F4D1}学院５階に{F4C4}重要図書閲覧室{F4C1}{n}{F44E}関係の書籍を閲覧{F4BD}許可証。",
-   "en": "A permit to read books on Featherians in the{n}restricted reading room on the Magic Academy's fifth{n}floor.",
+   "en": "A permit to read books on Featherians in the{n}restricted reading room on the Magic Academy's{n}fifth floor.",
    "term": "null"
   },
   {
@@ -1406,13 +1406,13 @@
   {
    "id": "msys.items.0233",
    "jp": "色とりど{F4F0}花で飾{F484}花束{F4BA}女性へのプレゼント{F47B}、{F48E}人気が{F4C4}。",
-   "en": "A bouquet of colorful flowers. A very popular gift for{n}women.",
+   "en": "A bouquet of colorful flowers. A very popular gift{n}for women.",
    "term": "null"
   },
   {
    "id": "msys.items.0234",
    "jp": "{F4D0}ペンダントに誓いを立てる{F4EE}{n}誓いを達成{F4BC}時{F4D7}望みが叶え{F47F}と{n}信じ{F4EC}{F45E}",
-   "en": "It is believed that if you swear an oath on this{n}pendant, your wish will come true when you fulfill that{n}oath.",
+   "en": "It is believed that if you swear an oath on this{n}pendant, your wish will come true when you fulfill{n}that oath.",
    "term": "null"
   },
   {
@@ -1442,7 +1442,7 @@
   {
    "id": "msys.items.0239",
    "jp": "迷いの森の起動{F4FE}を護る{F4C5}に{F45F}マスター・{n}ガーディアンの、再生制御{F4FE}を稼働{F48B}カギ{F4BA}{F4FE}を動かせば、再生機能の停止命令が可能。",
-   "en": "A key to the regeneration controls of the Master{n}Guardian built to protect the Lost Forest's activation{n}device.{p}Operating the controls allows its regeneration to be{n}disabled.",
+   "en": "A key to the regeneration controls of the Master{n}Guardian built to protect the Lost Forest's{n}activation device.{p}Operating the controls allows its regeneration to{n}be disabled.",
    "term": "null"
   },
   {
@@ -1466,7 +1466,7 @@
   {
    "id": "msys.items.0243",
    "jp": "ホムンクルス{F442}妨害{F4BD}{F417}{F4BA}{F448}{F485}ティピ{F442}{n}傍受{F486}{F4BB}が{F4D8}。",
-   "en": "An item that disrupts homunculus telepathy. Carrying it{n}prevents anyone from intercepting Tippi's telepathic{n}messages.",
+   "en": "An item that disrupts homunculus telepathy. Carrying it{n}prevents anyone from intercepting Tippi's{n}telepathic messages.",
    "term": "null"
   },
   {
@@ -1514,13 +1514,13 @@
   {
    "id": "msys.items.0251",
    "jp": "{F409}{n}マクスウェル学院長が発行{F4BC}。",
-   "en": "A permit to inspect the Crystal Mine, approved by the{n}Magic Academy that manages it. Issued by Headmaster{n}Maxwell.",
+   "en": "A permit to inspect the Crystal Mine, approved by the{n}Magic Academy that manages it. Issued by{n}Headmaster Maxwell.",
    "term": "null"
   },
   {
    "id": "msys.items.0252",
    "jp": "{F40A}",
-   "en": "A permit to cross Lord Douglas's lands in northern{n}Burnstein. Used to pass the checkpoint east of Lake{n}Olivier.",
+   "en": "A permit to cross Lord Douglas's lands in northern{n}Burnstein. Used to pass the checkpoint east of{n}Lake Olivier.",
    "term": "null"
   },
   {

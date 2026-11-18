@@ -66,7 +66,7 @@
   {
    "id": "scen256.0009",
    "jp": "{v:015D}じゃーーんっ！！{n}これです！{p}{v:015E}このセーター、お兄さまのために{n}一生懸命編みました♪",
-   "en": "{v:015D}Ta-daaa! Here it is!{p}{v:015E}I worked really hard knitting this sweater for you, Big{n}Brother♪",
+   "en": "{v:015D}Ta-daaa! Here it is!{p}{v:015E}I worked really hard knitting this sweater for you,{n}Big Brother♪",
    "term": "end"
   },
   {
@@ -114,7 +114,7 @@
   {
    "id": "scen256.0017",
    "jp": "{v:00C3}誉めてくれるかな？{n}びっくりして、声も出ない？",
-   "en": "{v:00C3}Will he praise me? Will he be so surprised he can't even{n}speak?",
+   "en": "{v:00C3}Will he praise me? Will he be so surprised he can't{n}even speak?",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen256.0035",
    "jp": "{v:0049}ホントに、よくそれで魔法学院に入れたわね‥‥。",
-   "en": "{v:0049}Seriously, how did you ever get into the Magic{n}Academy...?",
+   "en": "{v:0049}Seriously, how did you ever get into the{n}Magic Academy...?",
    "term": "end"
   },
   {
@@ -288,7 +288,7 @@
   {
    "id": "scen256.0045",
    "jp": "{v:004F}えーと‥‥。{n}{FC04}試験の前日は寝ないで勉強してる。",
-   "en": "{v:004F}Umm... {FC04}I stay up all night studying the night before an{n}exam.",
+   "en": "{v:004F}Umm... {FC04}I stay up all night studying the night before{n}an exam.",
    "term": "end"
   },
   {
@@ -399,7 +399,7 @@
   {
    "id": "scen256.0063",
    "jp": "{FFF5}アタシ‥‥勉強できなくて‥‥。{n}学院では下から数えた方が早いし‥‥。{p}アタシもそれでいいと思ってたんだ。{p}でも‥‥お兄さまと会ってからは変わったの。{FFFB}{n}この人の迷惑にならないように、{n}一生懸命頑張ろう‥‥って。{p}だから、おじさまやルイセちゃんに無理を言って{n}特別に教えて貰ってたんですけど‥‥。{p}はあ‥‥やっぱりダメなのかな‥‥。",
-   "en": "{FFF5}I'm... no good at studying... It's quicker to count up from{n}the bottom to find my rank at the Academy...{p}And I used to think that was fine.{p}But... that changed when I met you, Big Brother.{FFFB} I{n}thought, \"I'll work really hard so I won't be a burden to{n}him.\"{p}So I begged my uncle and Luise-chan to give me extra{n}lessons...{p}*sigh*... Maybe I'm just hopeless after all...",
+   "en": "{FFF5}I'm... no good at studying... It's quicker to count up from{n}the bottom to find my rank at the Academy...{p}And I used to think that was fine.{p}But... that changed when I met you, Big Brother.{FFFB} I{n}thought, \"I'll work really hard so I won't be a burden{n}to him.\"{p}So I begged my uncle and Luise-chan to give me{n}extra lessons...{p}*sigh*... Maybe I'm just hopeless after all...",
    "term": "end"
   },
   {
@@ -438,7 +438,7 @@
   {
    "id": "scen256.0069",
    "jp": "そう‥ですよね‥‥。{n}何事にも意気込みが必要ですよね。{p}お兄さま、見てて下さいね！{n}{FE1E}アタシ、頑張っちゃいますから！",
-   "en": "That's... right... You need determination, whatever you{n}do.{p}Just watch me, Big Brother! {FE1E}I'm going to give it my all!",
+   "en": "That's... right... You need determination, whatever{n}you do.{p}Just watch me, Big Brother! {FE1E}I'm going to give it my all!",
    "term": "end"
   },
   {
@@ -666,7 +666,7 @@
   {
    "id": "scen256.0106",
    "jp": "{v:01F0}いいね、いただくよ。{n}{FC00}で、ケーキはどこだい？",
-   "en": "{v:01F0}That sounds lovely. I'd be delighted. {FC00}So, where's the{n}cake?",
+   "en": "{v:01F0}That sounds lovely. I'd be delighted. {FC00}So, where's{n}the cake?",
    "term": "end"
   },
   {
@@ -678,13 +678,13 @@
   {
    "id": "scen256.0108",
    "jp": "{FFF3}{v:01F2}‥‥‥‥[01BE]{FFF9}{FFFB}{n}{FFF4}{v:01F3}ミーシャ君らしい、独創的なケーキだね‥‥。",
-   "en": "{FFF3}{v:01F2}......[01BE]{FFF9}{FFFB}{FFF4}{v:01F3}What an original cake... Very much your style,{n}Misha-kun.",
+   "en": "{FFF3}{v:01F2}......[01BE]{FFF9}{FFFB}{FFF4}{v:01F3}What an original cake... Very much your{n}style, Misha-kun.",
    "term": "end"
   },
   {
    "id": "scen256.0109",
    "jp": "{v:01F4}でしょ♪{FFF9}{FFFB}{n}{v:01F5}形はともかく、味には自信があるんだ★",
-   "en": "{v:01F4}Isn't it?♪{FFF9}{FFFB}{v:01F5}Never mind how it looks. I know it tastes{n}great!",
+   "en": "{v:01F4}Isn't it?♪{FFF9}{FFFB}{v:01F5}Never mind how it looks. I know it{n}tastes great!",
    "term": "end"
   },
   {
@@ -959,7 +959,7 @@
   {
    "id": "scen256.0153",
    "jp": "えっ、お兄さまアタシを探しに{n}来て下さったんですか？{n}感激です！",
-   "en": "Oh! You came looking for me, Big Brother? I'm so{n}touched!",
+   "en": "Oh! You came looking for me, Big Brother? I'm{n}so touched!",
    "term": "end"
   },
   {
@@ -983,7 +983,7 @@
   {
    "id": "scen256.0157",
    "jp": "あっ、ミーシャ！？{n}どこ行ってたの？{n}心配したんだから。",
-   "en": "Oh, Misha?! Where have you been? I was worried about{n}you.",
+   "en": "Oh, Misha?! Where have you been? I was worried{n}about you.",
    "term": "end"
   },
   {

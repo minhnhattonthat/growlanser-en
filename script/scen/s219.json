@@ -81,7 +81,7 @@
   {
    "id": "scen219.0012",
    "jp": "{v:0039}殺せ！{n}殺すのだ！{p}{v:003A}ランザックの次は、この国の兵力を奪うのだ！",
-   "en": "{v:0039}Kill them! Kill them all!{p}{v:003A}After Ranzak, this country is next! Strip it of its military{n}might!",
+   "en": "{v:0039}Kill them! Kill them all!{p}{v:003A}After Ranzak, this country is next! Strip it of its{n}military might!",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen219.0014",
    "jp": "{v:003C}後はお前たちに任せる！{n}好きに暴れるがいい！",
-   "en": "{v:003C}I leave the rest to you! Rampage to your hearts'{n}content!",
+   "en": "{v:003C}I leave the rest to you! Rampage to your{n}hearts' content!",
    "term": "end"
   }
  ]

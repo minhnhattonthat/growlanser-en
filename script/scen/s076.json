@@ -33,7 +33,7 @@
   {
    "id": "scen076.0004",
    "jp": "{v:0066}まさか、マスターの研究を奪った奴って‥‥。",
-   "en": "{v:0066}Wait, could he be the one who stole Master's{n}research...?",
+   "en": "{v:0066}Wait, could he be the one who stole{n}Master's research...?",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen076.0019",
    "jp": "{v:0006}ここは昔グローシアンがつくった遺跡で、{n}この森を迷いの森に変える装置が眠っているんだ。{p}{v:0007}動力源となる魔水晶があれば今でも動くはずだよ。",
-   "en": "{v:0006}These ruins were built long ago by Growsians. A device{n}that turns this forest into the Lost Forest lies{n}dormant here.{p}{v:0007}It should still work if we have a magic crystal to power{n}it.",
+   "en": "{v:0006}These ruins were built long ago by Growsians. A device{n}that turns this forest into the Lost Forest lies{n}dormant here.{p}{v:0007}It should still work if we have a magic crystal to{n}power it.",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen076.0021",
    "jp": "{v:0009}たしかグローシアンと一緒なら、{n}その影響を受けないみたいだけど。{p}{v:000A}普通の人には全く違う地形に見えるそうだ。{n}特にこのあたりには近づけないみたいだよ。",
-   "en": "{v:0009}If I remember correctly, it doesn't affect you if you're{n}with a Growsian.{p}{v:000A}Apparently, ordinary people see completely different{n}terrain. They can't even get near this area in{n}particular.",
+   "en": "{v:0009}If I remember correctly, it doesn't affect you if you're{n}with a Growsian.{p}{v:000A}Apparently, ordinary people see completely different{n}terrain. They can't even get near this area{n}in particular.",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen076.0025",
    "jp": "{v:0003}どうやら、幻覚でこの森を迷わせるための物らしい。{n}今は動力が切れてて、動かないけどね。{p}{v:0004}その頃の名残で、装置の止まっている今でも{n}この辺りの森を『迷いの森』なんて言うんだ。{p}{v:0005}入り口の鍵はブロンソン将軍が持っているけど、{n}普段は入れないよ。",
-   "en": "{v:0003}Apparently, there's something here that uses illusions{n}to make people lose their way in this forest. It's out{n}of power now, though, so it doesn't work.{p}{v:0004}That's why people still call this part of the woods the{n}'Lost Forest,' even though the device has stopped{n}working.{p}{v:0005}General Bronson has the key to the entrance, but{n}people aren't normally allowed inside.",
+   "en": "{v:0003}Apparently, there's something here that uses illusions{n}to make people lose their way in this forest. It's out{n}of power now, though, so it doesn't work.{p}{v:0004}That's why people still call this part of the woods the{n}'Lost Forest,' even though the device has{n}stopped working.{p}{v:0005}General Bronson has the key to the entrance, but{n}people aren't normally allowed inside.",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen076.0047",
    "jp": "『{FFEF}浄化のリボン{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Purifying Ribbon{FFF1}', but you can't carry any{n}more...",
+   "en": "Found a '{FFEF}Purifying Ribbon{FFF1}', but you can't carry{n}any more...",
    "term": "end"
   },
   {
@@ -321,7 +321,7 @@
   {
    "id": "scen076.0052",
    "jp": "台座の中央には、再生制御キーが置かれている。",
-   "en": "The Regeneration Key rests in the center of the{n}pedestal.",
+   "en": "The Regeneration Key rests in the center of{n}the pedestal.",
    "term": "end"
   },
   {
@@ -417,13 +417,13 @@
   {
    "id": "scen076.0068",
    "jp": "{v:0038}この上のがローランディア軍と{n}バーンシュタイン軍かな？",
-   "en": "{v:0038}Are those the Rolandia and Burnstein armies up at the{n}top?",
+   "en": "{v:0038}Are those the Rolandia and Burnstein armies up at{n}the top?",
    "term": "end"
   },
   {
    "id": "scen076.0069",
    "jp": "{v:0039}ではこの北上しているのが{n}ランザック軍ということだな。",
-   "en": "{v:0039}Then the force heading north must be the Ranzak{n}army.",
+   "en": "{v:0039}Then the force heading north must be the{n}Ranzak army.",
    "term": "end"
   },
   {
@@ -447,7 +447,7 @@
   {
    "id": "scen076.0073",
    "jp": "{v:003C}あ、ランザック軍が右の道に進んだよ！{n}このまま行けばバーンシュタイン軍の後ろに出るね！",
-   "en": "{v:003C}Look, the Ranzak army took the road on the right! If{n}they keep going, they'll come out behind the Burnstein{n}army!",
+   "en": "{v:003C}Look, the Ranzak army took the road on the right! If{n}they keep going, they'll come out behind the{n}Burnstein army!",
    "term": "end"
   },
   {

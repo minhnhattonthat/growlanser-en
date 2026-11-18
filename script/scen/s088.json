@@ -75,7 +75,7 @@
   {
    "id": "scen088.0011",
    "jp": "あと、もう１つ教えておくね。{p}のらモンスターとの距離が一定以内になったら{n}戦闘になるの。{p}だから戦いたくないときは、{n}モンスターに近づくなってことね。",
-   "en": "Oh, there's one more thing you should know.{p}Get close enough to a roaming monster, and a battle{n}starts.{p}So if you don't want to fight, keep your distance from{n}monsters!",
+   "en": "Oh, there's one more thing you should know.{p}Get close enough to a roaming monster, and a{n}battle starts.{p}So if you don't want to fight, keep your distance{n}from monsters!",
    "term": "end"
   },
   {
@@ -308,7 +308,7 @@
   {
    "id": "scen088.0049",
    "jp": "{v:001F}何を遠慮しているんだ。{n}俺たちに気遣う必要なんてないぜ。",
-   "en": "{v:001F}What's holding you back? You don't need to worry about{n}us.",
+   "en": "{v:001F}What's holding you back? You don't need to worry{n}about us.",
    "term": "end"
   },
   {
@@ -356,7 +356,7 @@
   {
    "id": "scen088.0057",
    "jp": "ふぅ‥、疲れた、疲れた。{p}ん？{n}何で休んでるんだって、顔をしてるな？{p}木を切るのは大変だから、{n}こうやって交代しながら作業してるんだ。",
-   "en": "Phew... I'm beat. Absolutely beat.{p}Hm? You've got that look. Wondering why I'm resting?{p}Cutting down trees is hard work, so we take turns like{n}this.",
+   "en": "Phew... I'm beat. Absolutely beat.{p}Hm? You've got that look. Wondering why I'm resting?{p}Cutting down trees is hard work, so we take turns{n}like this.",
    "term": "end"
   },
   {
@@ -386,7 +386,7 @@
   {
    "id": "scen088.0062",
    "jp": "少しでも早く、物資を送ってあげないと‥‥。",
-   "en": "We have to get these supplies to them as soon as we{n}can...",
+   "en": "We have to get these supplies to them as soon as{n}we can...",
    "term": "end"
   },
   {
@@ -440,7 +440,7 @@
   {
    "id": "scen088.0071",
    "jp": "大丈夫よ、アタシたち強いし、一般人じゃないから。",
-   "en": "We'll be fine! We're strong, and we're no ordinary{n}civilians.",
+   "en": "We'll be fine! We're strong, and we're no{n}ordinary civilians.",
    "term": "end"
   },
   {
@@ -458,7 +458,7 @@
   {
    "id": "scen088.0074",
    "jp": "君たちが護衛を買って出てくれたって？{n}よろしく頼むよ。",
-   "en": "I hear you volunteered to guard us? We're counting on{n}you.",
+   "en": "I hear you volunteered to guard us? We're counting{n}on you.",
    "term": "end"
   },
   {
@@ -470,7 +470,7 @@
   {
    "id": "scen088.0076",
    "jp": "まぁ、そう言うなよ、相棒。{n}これが俺たちの仕事なんだから。{p}君たちも自分の仕事には責任を持つんだぞ。",
-   "en": "Oh, don't be like that, partner. It's our job.{p}You lot had better take your own duties seriously,{n}too.",
+   "en": "Oh, don't be like that, partner. It's our job.{p}You lot had better take your own duties{n}seriously, too.",
    "term": "end"
   },
   {
@@ -668,7 +668,7 @@
   {
    "id": "scen088.0109",
    "jp": "{v:006E}俺はゼノス。{n}君のおかげで妹も無事だった。{n}礼を言うよ。",
-   "en": "{v:006E}I'm Xenos. My sister's safe thanks to you. I owe you{n}one.",
+   "en": "{v:006E}I'm Xenos. My sister's safe thanks to you. I owe{n}you one.",
    "term": "end"
   },
   {
@@ -692,7 +692,7 @@
   {
    "id": "scen088.0113",
    "jp": "{v:0074}それにしても、あの手勢を相手にできるなんて、{n}お前もそうとう腕が立つようだな。{p}{v:0075}やっぱり闘技大会に出るつもりか？",
-   "en": "{v:0074}Still, taking on that many men... You must be pretty{n}skilled.{p}{v:0075}I take it you're entering the tournament too?",
+   "en": "{v:0074}Still, taking on that many men... You must be{n}pretty skilled.{p}{v:0075}I take it you're entering the tournament too?",
    "term": "end"
   },
   {
@@ -758,7 +758,7 @@
   {
    "id": "scen088.0124",
    "jp": "{v:0081}どうしたの？{n}寝るなら家に戻ってからにしなよ‥‥。",
-   "en": "{v:0081}What's wrong? If you're going to sleep, wait till we get{n}home...",
+   "en": "{v:0081}What's wrong? If you're going to sleep, wait till we{n}get home...",
    "term": "end"
   },
   {
@@ -800,13 +800,13 @@
   {
    "id": "scen088.0131",
    "jp": "さあ、いらっしゃい。{n}回復薬しかないが、ぜひ買ってくれ。",
-   "en": "Come on over! I've only got healing potions, but do buy{n}some.",
+   "en": "Come on over! I've only got healing potions, but do{n}buy some.",
    "term": "end"
   },
   {
    "id": "scen088.0132",
    "jp": "まだ戦いなれてないんだから、{n}あんまり無理しない方がいいよ。{p}{FC00}お家に戻ってベッドで寝れば、{n}また元気になるんだからさ★",
-   "en": "You're still getting used to fighting, so don't push{n}yourself too hard.{p}{FC00}Go home and sleep in your bed, and you'll be good as{n}new!",
+   "en": "You're still getting used to fighting, so don't push{n}yourself too hard.{p}{FC00}Go home and sleep in your bed, and you'll be good{n}as new!",
    "term": "end"
   },
   {

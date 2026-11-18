@@ -105,7 +105,7 @@
   {
    "id": "scen043.0016",
    "jp": "さぁさぁ、賭けた賭けた！{p}エキスパートの部、１番人気は去年の優勝者{n}バズロックだ！{p}２番人気は、去年のフレッシュマン優勝者{n}ジュリアンだ！{p}フレッシュマンの部、１番人気は{n}このグランシル１番の凄腕、ゼノス！{p}だけど何が起こるか分からないのがフレッシュマン！{n}ダークホースもいっぱいいるよ！{p}さぁさぁ、己を信じて、でっかく賭けよう！",
-   "en": "Step right up! Place your bets!{p}The favorite in the Expert division is last year's{n}champion, Bazrock!{p}Second favorite is Julian, last year's Freshman{n}champion!{p}The favorite in the Freshman division is Xenos, the{n}finest fighter in all Grancil!{p}But anything can happen in the Freshman division!{n}There are plenty of dark horses, too!{p}Come on, trust your instincts and bet big!",
+   "en": "Step right up! Place your bets!{p}The favorite in the Expert division is last year's{n}champion, Bazrock!{p}Second favorite is Julian, last year's{n}Freshman champion!{p}The favorite in the Freshman division is Xenos, the{n}finest fighter in all Grancil!{p}But anything can happen in the Freshman division!{n}There are plenty of dark horses, too!{p}Come on, trust your instincts and bet big!",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen043.0022",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "{v:003D}Well, the toughest fighters on the continent gather{n}here.",
+   "en": "{v:003D}Well, the toughest fighters on the continent{n}gather here.",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen043.0035",
    "jp": "エキスパートの部、１番人気は去年の優勝者{n}バズロックだ！{p}２番人気は、去年のフレッシュマン優勝者{n}ジュリアンだ！{p}フレッシュマンの部、１番人気は{n}このグランシル１番の凄腕、ゼノス！",
-   "en": "The favorite in the Expert division is last year's{n}champion, Bazrock!{p}Second favorite is Julian, last year's Freshman{n}champion!{p}The favorite in the Freshman division is Xenos, the{n}finest fighter in all Grancil!",
+   "en": "The favorite in the Expert division is last year's{n}champion, Bazrock!{p}Second favorite is Julian, last year's{n}Freshman champion!{p}The favorite in the Freshman division is Xenos, the{n}finest fighter in all Grancil!",
    "term": "end"
   },
   {
@@ -336,7 +336,7 @@
   {
    "id": "scen043.0054",
    "jp": "まあ、奴もなかなか強いけどな。{n}上には上がいるってもんよ！{p}‥‥えっ？{n}誰かって？{n}俺様に決まってるだろ？",
-   "en": "Well, he's pretty tough. But there's always someone{n}tougher!{p}...Huh? Who? Me, of course!",
+   "en": "Well, he's pretty tough. But there's always{n}someone tougher!{p}...Huh? Who? Me, of course!",
    "term": "end"
   },
   {
@@ -354,7 +354,7 @@
   {
    "id": "scen043.0057",
    "jp": "う～ん、何倍になって返ってくるか楽しみだぜ‥‥。",
-   "en": "Heh, can't wait to see how many times over I get it{n}back...",
+   "en": "Heh, can't wait to see how many times over I get{n}it back...",
    "term": "end"
   },
   {
@@ -408,7 +408,7 @@
   {
    "id": "scen043.0066",
    "jp": "参加者の方は中の受付へどうぞ。",
-   "en": "Contestants, please proceed to the reception desk{n}inside.",
+   "en": "Contestants, please proceed to the reception{n}desk inside.",
    "term": "end"
   },
   {
@@ -450,7 +450,7 @@
   {
    "id": "scen043.0073",
    "jp": "おめでとうございました。{n}次はフリーバトルにも参会して下さいね。",
-   "en": "Congratulations. Please enter a Free Battle next time,{n}too.",
+   "en": "Congratulations. Please enter a Free Battle next{n}time, too.",
    "term": "end"
   },
   {
@@ -474,7 +474,7 @@
   {
    "id": "scen043.0077",
    "jp": "大会参加者ですね？{p}{s:0000}様‥‥{s:0000}様{FE14}‥{FE14}‥{p}あら？{n}あなたのお名前は登録されていませんね。{p}大会に参加なさるのでしたら、{n}市街地に戻ってすぐ右手のオフィスで{n}受付を済ませて下さい。",
-   "en": "You're a tournament contestant?{p}{s:0000}... {s:0000}{FE14}..{FE14}.{p}Oh? Your name isn't registered.{p}If you wish to enter the tournament, please return to{n}town and register at the office immediately to your{n}right.",
+   "en": "You're a tournament contestant?{p}{s:0000}... {s:0000}{FE14}..{FE14}.{p}Oh? Your name isn't registered.{p}If you wish to enter the tournament, please return to{n}town and register at the office immediately to{n}your right.",
    "term": "end"
   },
   {
@@ -522,7 +522,7 @@
   {
    "id": "scen043.0085",
    "jp": "でも、準決勝まで進めたんだから{n}良しとしないとね。",
-   "en": "Still, I made it to the semifinals. I should be happy with{n}that.",
+   "en": "Still, I made it to the semifinals. I should be happy{n}with that.",
    "term": "end"
   },
   {
@@ -546,7 +546,7 @@
   {
    "id": "scen043.0089",
    "jp": "ここから先は関係者以外、立入禁止です。",
-   "en": "Only authorized personnel are permitted beyond this{n}point.",
+   "en": "Only authorized personnel are permitted beyond{n}this point.",
    "term": "end"
   },
   {
@@ -696,7 +696,7 @@
   {
    "id": "scen043.0114",
    "jp": "まわりの奴らを見てたら、{n}何かアタイの装備よりリッチでさ～。{n}どうしよっかなって思ってるわけ。{p}試合の合間に稼いで来ようかって思っても、{n}この辺、南の遺跡が一番稼げるじゃない？{n}でも、あそこ学院が管理してるでしょ？{p}学院関係者以外は許可が出るのが遅いらしいから{n}今から許可をもらってる余裕ないし～。{n}誰か、武器ぐらい貸してくれっての。{p}でもアタイが気に入るような{n}いけてる武器を持った奴、誰もいないんだよね～。",
-   "en": "I've been checking out everyone else's gear, and it's{n}all fancier than mine. So what am I supposed to do,{n}huh?{p}I thought about earning some cash between matches.{n}The Southern Ruins are the best place around here{n}for that, right? But the Academy runs the place,{p}doesn't it?{p}They say it takes ages to get a permit if you're not{n}with the Academy. I haven't got time for that!{n}Somebody at least lend me a weapon already!{p}But nobody's got anything cool enough for my taste...",
+   "en": "I've been checking out everyone else's gear, and it's{n}all fancier than mine. So what am I supposed to{n}do, huh?{p}I thought about earning some cash between matches.{n}The Southern Ruins are the best place around here{n}for that, right? But the Academy runs the place,{p}doesn't it?{p}They say it takes ages to get a permit if you're not{n}with the Academy. I haven't got time for that!{n}Somebody at least lend me a weapon already!{p}But nobody's got anything cool enough for my taste...",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen043.0121",
    "jp": "{v:0033}予選は勝ち抜いたようだな。{n}まずはおめでとう。{p}{v:0034}俺と戦いたかったら、{n}決勝まであがって来るんだな。",
-   "en": "{v:0033}Looks like you made it through the preliminaries.{n}Congratulations, for now.{p}{v:0034}If you want to fight me, you'll have to make it to the{n}final.",
+   "en": "{v:0033}Looks like you made it through the preliminaries.{n}Congratulations, for now.{p}{v:0034}If you want to fight me, you'll have to make it to{n}the final.",
    "term": "end"
   },
   {
@@ -774,7 +774,7 @@
   {
    "id": "scen043.0127",
    "jp": "{v:0034}俺と戦いたかったら、{n}決勝まであがって来るんだな。",
-   "en": "{v:0034}If you want to fight me, you'll have to make it to the{n}final.",
+   "en": "{v:0034}If you want to fight me, you'll have to make it to{n}the final.",
    "term": "end"
   },
   {
@@ -834,7 +834,7 @@
   {
    "id": "scen043.0137",
    "jp": "私、強い男が好きなの。{n}だけど、線の細い感じの人が好みなのよね。{p}やっぱり強いだけじゃね‥‥。{n}男にはインペリアル・ナイツのような{n}美しさもないといけないわ。",
-   "en": "I like strong men. But I do prefer a slender build, you{n}know.{p}Strength alone just isn't enough... A man needs the{n}beauty of the Imperial Knights, too.",
+   "en": "I like strong men. But I do prefer a slender build,{n}you know.{p}Strength alone just isn't enough... A man needs the{n}beauty of the Imperial Knights, too.",
    "term": "end"
   },
   {
@@ -858,7 +858,7 @@
   {
    "id": "scen043.0141",
    "jp": "今年はバーンシュタインの王子、リシャール様が{n}国賓として開会式のご挨拶をされるそうなのよ。{p}あぁ‥‥。{n}あの美しいお顔をまた拝見できるなんて‥‥。{n}私ってば、幸せ‥‥。",
-   "en": "I hear Richard-sama, the prince of Burnstein, will{n}address the opening ceremony as a state guest this{n}year.{p}Ah... To think I'll see that beautiful face again... I'm so{n}happy...",
+   "en": "I hear Richard-sama, the prince of Burnstein, will{n}address the opening ceremony as a state guest{n}this year.{p}Ah... To think I'll see that beautiful face again... I'm{n}so happy...",
    "term": "end"
   },
   {
@@ -870,7 +870,7 @@
   {
    "id": "scen043.0143",
    "jp": "この待ち時間が長いんだよなぁ。{n}早く始まらないかな？",
-   "en": "This wait's dragging on forever. Can't they get started{n}already?",
+   "en": "This wait's dragging on forever. Can't they get{n}started already?",
    "term": "end"
   },
   {
@@ -894,7 +894,7 @@
   {
    "id": "scen043.0147",
    "jp": "そろそろ開会式が始まるんだ。{n}話しかけないでくれ！",
-   "en": "The opening ceremony's about to start. Don't talk to{n}me!",
+   "en": "The opening ceremony's about to start. Don't talk{n}to me!",
    "term": "end"
   },
   {
@@ -918,7 +918,7 @@
   {
    "id": "scen043.0151",
    "jp": "順調に勝ち進んでいるようだな。{n}次の準決勝も、この調子でがんばれよ。",
-   "en": "Looks like you're winning steadily. Keep it up in the{n}semifinal.",
+   "en": "Looks like you're winning steadily. Keep it up in{n}the semifinal.",
    "term": "end"
   },
   {
@@ -972,7 +972,7 @@
   {
    "id": "scen043.0160",
    "jp": "{v:003E}我が国の民は知っていると思うが、{n}私も国ではナイト・マスターをつとめ、{n}剣術には興味があります。{p}{v:003F}みなさん。{n}悔いの残らぬよう、全力を出して戦ってください。",
-   "en": "{v:003E}As those from my country likely know, I serve as{n}Knight Master there, and take an interest in{n}swordsmanship.{p}{v:003F}I ask all of you to fight with all your strength, so that{n}you may have no regrets.",
+   "en": "{v:003E}As those from my country likely know, I serve as{n}Knight Master there, and take an interest{n}in swordsmanship.{p}{v:003F}I ask all of you to fight with all your strength, so that{n}you may have no regrets.",
    "term": "end"
   },
   {

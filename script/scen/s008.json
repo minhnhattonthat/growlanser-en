@@ -81,7 +81,7 @@
   {
    "id": "scen008.0012",
    "jp": "このお礼は戦争が終わった後にでも、{n}ゆっくり言わせて貰うよ。",
-   "en": "Once the war's over, I'll take the time to thank you{n}properly.",
+   "en": "Once the war's over, I'll take the time to thank{n}you properly.",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen008.0014",
    "jp": "君たちも戦に行くんだったら、{n}武器はちゃんと手入れをしておけよ。{n}戦闘中に折れたなんてしゃれにもならないからな。",
-   "en": "If you're heading into battle, keep your weapons in good{n}shape. Having one snap in the middle of a fight is no{n}joke.",
+   "en": "If you're heading into battle, keep your weapons in good{n}shape. Having one snap in the middle of a fight is{n}no joke.",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen008.0019",
    "jp": "{v:0000}しかし隊長、輸送路が完成して良かったですね。",
-   "en": "{v:0000}It's a relief to have the supply route finished, isn't it,{n}Captain?",
+   "en": "{v:0000}It's a relief to have the supply route finished, isn't{n}it, Captain?",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen008.0035",
    "jp": "ここから先は宝物庫だ。{n}だから誰も通すことは出来ない。",
-   "en": "The treasury is beyond this point. I cannot let anyone{n}pass.",
+   "en": "The treasury is beyond this point. I cannot let{n}anyone pass.",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen008.0038",
    "jp": "{v:0010}兄とか弟とかが欲しいって思ったことはありませんか？",
-   "en": "{v:0010}Have you ever wished you had an older or younger{n}brother?",
+   "en": "{v:0010}Have you ever wished you had an older or{n}younger brother?",
    "term": "end"
   },
   {
@@ -302,7 +302,7 @@
   {
    "id": "scen008.0048",
    "jp": "{v:0017}それは‥‥どっちの意味？{p}{v:0018}ルイセちゃんがいるから満足？{n}それとも煩わしいからいらないってこと？",
-   "en": "{v:0017}And what's THAT supposed to mean?{p}{v:0018}You're happy because you have Luise-chan? Or she's{n}enough of a nuisance that you don't want another{n}sibling?",
+   "en": "{v:0017}And what's THAT supposed to mean?{p}{v:0018}You're happy because you have Luise-chan? Or she's{n}enough of a nuisance that you don't want{n}another sibling?",
    "term": "end"
   },
   {
@@ -422,7 +422,7 @@
   {
    "id": "scen008.0068",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
    "term": "end"
   },
   {
@@ -592,7 +592,7 @@
   {
    "id": "scen008.0096",
    "jp": "{v:0001}すごかったよ！{n}ゲヴェルの卵がいっぱいあったの！",
-   "en": "{v:0001}You wouldn't believe it! There were Gevel eggs{n}everywhere!",
+   "en": "{v:0001}You wouldn't believe it! There were Gevel{n}eggs everywhere!",
    "term": "end"
   },
   {
@@ -622,7 +622,7 @@
   {
    "id": "scen008.0101",
    "jp": "{v:000B}それはどこにもいませんでした。{p}{v:000C}いたのは、お母さんを襲ったあの仮面を着けた男と、{n}ユングって呼ばれた小さな異形だけで‥‥。{p}{v:000D}あ、それと、その側の小さな村で聞いた情報だけど、{n}バーンシュタイン王国内でグローシアンが{n}いなくなったり、変死したりしているらしいんです。{p}{v:000E}それでわたし達が洞窟を調査している間に、{n}グローシアンだった村長さんが殺されてしまって‥‥。",
-   "en": "{v:000B}He was nowhere to be found.{p}{v:000C}The only ones there were that masked man who{n}attacked Mother, and the little abominations called{n}Jung...{p}{v:000D}Oh, and we heard something in a small village nearby.{n}Apparently, Growsians in the Kingdom of Burnstein have{n}been disappearing or dying under mysterious{p}circumstances.{p}{v:000E}And while we were investigating the cave, the village{n}chief, who was a Growsian, was murdered...",
+   "en": "{v:000B}He was nowhere to be found.{p}{v:000C}The only ones there were that masked man who{n}attacked Mother, and the little abominations{n}called Jung...{p}{v:000D}Oh, and we heard something in a small village nearby.{n}Apparently, Growsians in the Kingdom of Burnstein have{n}been disappearing or dying under mysterious{p}circumstances.{p}{v:000E}And while we were investigating the cave, the village{n}chief, who was a Growsian, was murdered...",
    "term": "end"
   },
   {
@@ -658,7 +658,7 @@
   {
    "id": "scen008.0107",
    "jp": "{v:0015}では今回の手柄に対し、休暇を授ける。",
-   "en": "{v:0015}Now, we grant you leave in recognition of your{n}service.",
+   "en": "{v:0015}Now, we grant you leave in recognition of{n}your service.",
    "term": "end"
   },
   {
@@ -742,7 +742,7 @@
   {
    "id": "scen008.0121",
    "jp": "{v:000A}これがランザック王国発行の通行証だ。",
-   "en": "{v:000A}This is a travel permit issued by the Kingdom of{n}Ranzak.",
+   "en": "{v:000A}This is a travel permit issued by the Kingdom{n}of Ranzak.",
    "term": "end"
   },
   {
@@ -865,7 +865,7 @@
   {
    "id": "scen008.0140",
    "jp": "{v:0005}さて、次の任務だが、{n}急いで行うべきものは今のところない。{p}{v:0006}そこで、お前たちが調べたがっていた異形の件を{n}調査してくるというのはどうであろう？{p}{v:0007}もし異形があのゲヴェルだとすると、{n}遠からず我々人類と事を構えることになるはずだ。{p}{v:0008}その時のためにも異形の正体を知っておかねばならぬ。",
-   "en": "{v:0005}Now, as for your next assignment, there is nothing{n}that requires immediate attention.{p}{v:0006}With that in mind, why not investigate the abomination{n}you wished to learn more about?{p}{v:0007}If that abomination is indeed Gevel, it will surely come{n}into conflict with humanity before long.{p}{v:0008}We must learn its true nature in preparation for that{n}day.",
+   "en": "{v:0005}Now, as for your next assignment, there is nothing{n}that requires immediate attention.{p}{v:0006}With that in mind, why not investigate the abomination{n}you wished to learn more about?{p}{v:0007}If that abomination is indeed Gevel, it will surely come{n}into conflict with humanity before long.{p}{v:0008}We must learn its true nature in preparation for{n}that day.",
    "term": "end"
   },
   {
@@ -901,7 +901,7 @@
   {
    "id": "scen008.0146",
    "jp": "保養所に勤めるグローシアンの名前は？",
-   "en": "What is the name of the Growsian who works at the{n}sanatorium?",
+   "en": "What is the name of the Growsian who works at{n}the sanatorium?",
    "term": "end"
   },
   {
@@ -1091,7 +1091,7 @@
   {
    "id": "scen008.0177",
    "jp": "{v:0027}そうであったか。{n}ならば、街の西側から北に延びる、{n}シュテーム山沿いの道を使うがよかろう。{p}{v:0028}ノストリッジ平原の部隊に物資を送るために{n}作った道だが、ようやく完成したのだ。{p}{v:0029}北のオリビエ湖の辺りにはバーンシュタイン王国軍が{n}展開していて、たどり着くためには戦線を{n}バーンシュタイン王国側へ押し戻す必要がある。{p}{v:002A}だが物資がノストリッジ平原へ届けられるように{n}なったのだ。{n}そう遠くないうちに戦線を押し返せるであろう。",
-   "en": "{v:0027}We see. Then you should take the road that runs{n}north from the west side of the city, along Mount{n}Shutem.{p}{v:0028}It was built to carry supplies to our troops on the{n}Nostridge Plains, and it is finally complete.{p}{v:0029}The Kingdom of Burnstein's army is deployed around{n}Lake Olivier to the north. To reach it, we must push the{n}front line back toward Burnstein.{p}{v:002A}But now that supplies can reach the Nostridge Plains, we{n}should be able to push them back before long.",
+   "en": "{v:0027}We see. Then you should take the road that runs{n}north from the west side of the city, along{n}Mount Shutem.{p}{v:0028}It was built to carry supplies to our troops on the{n}Nostridge Plains, and it is finally complete.{p}{v:0029}The Kingdom of Burnstein's army is deployed around{n}Lake Olivier to the north. To reach it, we must push the{n}front line back toward Burnstein.{p}{v:002A}But now that supplies can reach the Nostridge Plains, we{n}should be able to push them back before long.",
    "term": "end"
   },
   {
@@ -1184,7 +1184,7 @@
   {
    "id": "scen008.0192",
    "jp": "{v:0049}もう学院に保護されてるかも知れないってこと？",
-   "en": "{v:0049}You mean she might already be under the Academy's{n}protection?",
+   "en": "{v:0049}You mean she might already be under the{n}Academy's protection?",
    "term": "end"
   },
   {
@@ -1226,13 +1226,13 @@
   {
    "id": "scen008.0199",
    "jp": "そこの西にね、{n}すっごく小さな田舎の村があるんだ。",
-   "en": "There's this really tiny country village to the west of{n}there.",
+   "en": "There's this really tiny country village to the west{n}of there.",
    "term": "end"
   },
   {
    "id": "scen008.0200",
    "jp": "メディス村のこと？{n}アンタ、そこに住んでたって言ってたっけ？",
-   "en": "You mean Medis Village? Didn't you say you used to live{n}there?",
+   "en": "You mean Medis Village? Didn't you say you used to{n}live there?",
    "term": "end"
   },
   {
@@ -1268,7 +1268,7 @@
   {
    "id": "scen008.0206",
    "jp": "おっかしいなぁ‥‥。{p}確かにおじさまに車百合をもらった記憶が{n}あるんだけど‥‥。",
-   "en": "That's so strange...{p}I distinctly remember Uncle giving me a wheel lily,{n}though...",
+   "en": "That's so strange...{p}I distinctly remember Uncle giving me a wheel{n}lily, though...",
    "term": "end"
   },
   {
@@ -1298,13 +1298,13 @@
   {
    "id": "scen008.0211",
    "jp": "ま、機会があったら寄ってあげてもいいよね？",
-   "en": "Well, I guess we could drop by if we get the chance,{n}right?",
+   "en": "Well, I guess we could drop by if we get the{n}chance, right?",
    "term": "end"
   },
   {
    "id": "scen008.0212",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "B-Big Brother... You shouldn't use magic in front of the{n}King...",
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
    "term": "end"
   },
   {

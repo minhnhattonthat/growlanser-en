@@ -87,13 +87,13 @@
   {
    "id": "scen049.0013",
    "jp": "ちょっとアンタ、{n}今の話をみんなに知らせるのが先決でしょう！",
-   "en": "Hey, you! Telling everyone what we just heard comes{n}first!",
+   "en": "Hey, you! Telling everyone what we just heard{n}comes first!",
    "term": "end"
   },
   {
    "id": "scen049.0014",
    "jp": "お兄ちゃん、まだ屋敷を調べてないよ？",
-   "en": "Big Brother, we haven't searched the mansion yet, have{n}we?",
+   "en": "Big Brother, we haven't searched the mansion yet,{n}have we?",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen049.0018",
    "jp": "あれ？{n}お兄さま、まだ屋敷を調べてないけど？",
-   "en": "Huh? Big Brother, we haven't searched the mansion{n}yet!",
+   "en": "Huh? Big Brother, we haven't searched the{n}mansion yet!",
    "term": "end"
   },
   {
@@ -528,7 +528,7 @@
   {
    "id": "scen049.0086",
    "jp": "{v:0085}さっき、人に聞いた通りに歩いてきたんですけど‥‥。",
-   "en": "{v:0085}I followed the directions someone gave me earlier,{n}though...",
+   "en": "{v:0085}I followed the directions someone gave me{n}earlier, though...",
    "term": "end"
   },
   {
@@ -576,7 +576,7 @@
   {
    "id": "scen049.0094",
    "jp": "{FB00}{v:008D}み、見事だわ‥‥。{n}とても演技には思えないけど‥‥。{p}{v:008E}さ、とにかく今のうちに先へ進みましょ！",
-   "en": "{FB00}{v:008D}I-impressive... Though I really don't think she was{n}acting...{p}{v:008E}Anyway, let's get moving while we can!",
+   "en": "{FB00}{v:008D}I-impressive... Though I really don't think she{n}was acting...{p}{v:008E}Anyway, let's get moving while we can!",
    "term": "end"
   },
   {
@@ -624,7 +624,7 @@
   {
    "id": "scen049.0102",
    "jp": "{v:0096}そんな店はしらんな。{n}もっと街中で聞いてみろ。",
-   "en": "{v:0096}Never heard of a shop like that. Ask farther into{n}town.",
+   "en": "{v:0096}Never heard of a shop like that. Ask farther{n}into town.",
    "term": "end"
   },
   {
@@ -648,7 +648,7 @@
   {
    "id": "scen049.0106",
    "jp": "{v:009A}どうやら僕には向いてないみたいだ。{n}他の人に頼んでみてくれ。{p}{v:009B}それじゃ‥‥。",
-   "en": "{v:009A}It seems I'm not cut out for this. Try asking someone{n}else.{p}{v:009B}Well, then...",
+   "en": "{v:009A}It seems I'm not cut out for this. Try asking{n}someone else.{p}{v:009B}Well, then...",
    "term": "end"
   },
   {
@@ -732,7 +732,7 @@
   {
    "id": "scen049.0120",
    "jp": "せっかくここまで来て、手ぶらで帰る気！？",
-   "en": "We came all this way, and you're going back{n}empty-handed?!",
+   "en": "We came all this way, and you're going{n}back empty-handed?!",
    "term": "end"
   },
   {
@@ -744,7 +744,7 @@
   {
    "id": "scen049.0122",
    "jp": "{v:00A9}ここにも警備をしてる兵隊がいるよ？{p}{v:00AA}あの屋敷で何をしてるのかな？{n}アタシ、ちょっと見てくるよ。{p}{v:00AB}あの屋敷の煙突から入れば、{n}気付かれずに様子を探れると思うんだ。",
-   "en": "{v:00A9}There's a soldier standing guard here too!{p}{v:00AA}What are they doing in that mansion? I'll go take a{n}peek.{p}{v:00AB}I bet I can slip down the chimney and find out what's{n}going on without anyone noticing.",
+   "en": "{v:00A9}There's a soldier standing guard here too!{p}{v:00AA}What are they doing in that mansion? I'll go take{n}a peek.{p}{v:00AB}I bet I can slip down the chimney and find out what's{n}going on without anyone noticing.",
    "term": "end"
   },
   {
@@ -816,7 +816,7 @@
   {
    "id": "scen049.0134",
    "jp": "{v:00BB}無駄話をしに来たわけではあるまい。{n}さっさと本題に入れ。",
-   "en": "{v:00BB}You didn't come here to make small talk. Get to the{n}point.",
+   "en": "{v:00BB}You didn't come here to make small talk. Get to{n}the point.",
    "term": "end"
   },
   {
@@ -840,7 +840,7 @@
   {
    "id": "scen049.0138",
    "jp": "{v:00BF}我々、バーンシュタイン王国は国境の森を抜け、{n}間もなくローランディア王国と交戦する。{p}{v:00C0}その間にお前たちランザック王国は{n}ローランディア王国の背後に回り込み‥‥。",
-   "en": "{v:00BF}We of Burnstein will pass through the forest on the{n}border and soon engage Rolandia's forces.{p}{v:00C0}Meanwhile, your Ranzak forces will move around behind{n}Rolandia...",
+   "en": "{v:00BF}We of Burnstein will pass through the forest on the{n}border and soon engage Rolandia's forces.{p}{v:00C0}Meanwhile, your Ranzak forces will move around{n}behind Rolandia...",
    "term": "end"
   },
   {
@@ -882,7 +882,7 @@
   {
    "id": "scen049.0145",
    "jp": "‥‥{v:00CB}ウォレスか。{p}{v:00CC}話がそれたようだな。{n}本題に戻ろう。",
-   "en": "...{v:00CB}Wallace.{p}{v:00CC}We've strayed from the subject. Let's get back to{n}business.",
+   "en": "...{v:00CB}Wallace.{p}{v:00CC}We've strayed from the subject. Let's get back{n}to business.",
    "term": "end"
   },
   {
@@ -1092,7 +1092,7 @@
   {
    "id": "scen049.0179",
    "jp": "{v:006C}そうか。{n}僕では力にはなれないけど、{n}きっと他に方法があるはずだ。",
-   "en": "{v:006C}I see. I can't be of help, but there must be another{n}way.",
+   "en": "{v:006C}I see. I can't be of help, but there must be{n}another way.",
    "term": "end"
   },
   {
@@ -1104,7 +1104,7 @@
   {
    "id": "scen049.0181",
    "jp": "聞き込みというのは、難しいものだね。",
-   "en": "Getting information out of people is quite difficult, isn't{n}it?",
+   "en": "Getting information out of people is quite difficult,{n}isn't it?",
    "term": "end"
   },
   {
@@ -1306,7 +1306,7 @@
   {
    "id": "scen049.0213",
    "jp": "実はここに来る途中にある森で迷ってしまって‥‥。{p}あんな所で迷ったら、{n}良くて目的ではない場所に行ってしまうか、{n}悪ければ死んでしまいますよ‥‥。",
-   "en": "Actually, I got lost in a forest on the way here...{p}Get lost in a place like that, and at best you'll end up{n}somewhere you never meant to go. At worst, you could{n}die...",
+   "en": "Actually, I got lost in a forest on the way here...{p}Get lost in a place like that, and at best you'll end up{n}somewhere you never meant to go. At worst, you{n}could die...",
    "term": "end"
   },
   {
@@ -1378,7 +1378,7 @@
   {
    "id": "scen049.0225",
    "jp": "知らないのかい？{n}我が国随一の将軍さ。{p}寡黙な人で、人望が厚いって評判だ。",
-   "en": "You haven't heard of him? He's the finest general in our{n}country.{p}They say he's a man of few words, but people hold him{n}in great esteem.",
+   "en": "You haven't heard of him? He's the finest general in{n}our country.{p}They say he's a man of few words, but people hold him{n}in great esteem.",
    "term": "end"
   },
   {
@@ -1402,13 +1402,13 @@
   {
    "id": "scen049.0229",
    "jp": "いよいよ戦争が起きそうだな‥‥。{p}まずは迷いの森でか、それとも東の平原か‥‥？{p}ま、近くの砦にいるローランディア兵次第だね。",
-   "en": "Looks like war's finally about to break out...{p}Will it start in the Lost Forest, or on the plains to the{n}east...?{p}Well, that depends on the Rolandia soldiers at the{n}nearby fort.",
+   "en": "Looks like war's finally about to break out...{p}Will it start in the Lost Forest, or on the plains to{n}the east...?{p}Well, that depends on the Rolandia soldiers at the{n}nearby fort.",
    "term": "end"
   },
   {
    "id": "scen049.0230",
    "jp": "街外れの一軒家に、{n}定期的に人が出入りするようになったんだ。{n}いったい何やってるんだろう？{p}ま、ひどい目に遭うのもイヤだから、{n}深入りするつもりはないどけさ。",
-   "en": "People have started coming and going regularly at that{n}house on the edge of town. What in the world are they{n}up to?{p}Well, I don't want any trouble, so I'm not planning to{n}pry.",
+   "en": "People have started coming and going regularly at that{n}house on the edge of town. What in the world are they{n}up to?{p}Well, I don't want any trouble, so I'm not planning{n}to pry.",
    "term": "end"
   },
   {
@@ -1480,7 +1480,7 @@
   {
    "id": "scen049.0242",
    "jp": "{v:002F}さっき街の人がウェーバーの話をしていただろ？",
-   "en": "{v:002F}You heard the townspeople talking about Weber earlier,{n}right?",
+   "en": "{v:002F}You heard the townspeople talking about Weber{n}earlier, right?",
    "term": "end"
   },
   {
@@ -1510,7 +1510,7 @@
   {
    "id": "scen049.0247",
    "jp": "{v:0035}それじゃ、その将軍と話が出来れば、{n}ランザック王国と同盟を取り付けるのも{n}楽になるんじゃないかな？",
-   "en": "{v:0035}Then if we could talk to that general, wouldn't it be{n}easier to arrange an alliance with the Kingdom of{n}Ranzak?",
+   "en": "{v:0035}Then if we could talk to that general, wouldn't it be{n}easier to arrange an alliance with the Kingdom{n}of Ranzak?",
    "term": "end"
   },
   {
@@ -1528,7 +1528,7 @@
   {
    "id": "scen049.0250",
    "jp": "{v:0038}先ほどの話だと、{n}もう１人の副団長がいるようですが？",
-   "en": "{v:0038}If I understood correctly, there was one more deputy{n}commander?",
+   "en": "{v:0038}If I understood correctly, there was one more{n}deputy commander?",
    "term": "end"
   },
   {
@@ -1738,7 +1738,7 @@
   {
    "id": "scen049.0285",
    "jp": "ウォレスさんを放っておいて、どこ行くつもりよ！",
-   "en": "Where do you think you're going, leaving Wallace-san{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}Wallace-san behind?!",
    "term": "end"
   }
  ]

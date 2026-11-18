@@ -141,7 +141,7 @@
   {
    "id": "scen107.0022",
    "jp": "いらっしゃいませ。{p}‥‥えっ、アリオストさんですか？{n}もう魔法学院へお帰りになりましたけど。",
-   "en": "Welcome.{p}...Oh, Ariost-san? He has already returned to the Magic{n}Academy.",
+   "en": "Welcome.{p}...Oh, Ariost-san? He has already returned to the{n}Magic Academy.",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen107.0038",
    "jp": "えっ？{n}暇そうに見えるって？{p}そりゃ、そうだ。{n}勤めていた料理店がつぶれちまってね。{p}これでも高級料理店のシェフだったんだぞ。",
-   "en": "Huh? You think I look like I've got nothing to do?{p}Well, you're right. The restaurant I worked at went{n}under.{p}Believe it or not, I was a chef at a fine restaurant.",
+   "en": "Huh? You think I look like I've got nothing to do?{p}Well, you're right. The restaurant I worked at{n}went under.{p}Believe it or not, I was a chef at a fine restaurant.",
    "term": "end"
   },
   {
@@ -279,7 +279,7 @@
   {
    "id": "scen107.0045",
    "jp": "大根を煮るには沸騰した湯に入れる。",
-   "en": "To boil daikon radish, put it into water that is already{n}boiling.",
+   "en": "To boil daikon radish, put it into water that is{n}already boiling.",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen107.0058",
    "jp": "{v:0030}へぇ‥‥、アンタ、名家のお坊ちゃんだったのね！{p}{v:0031}もしお金持ちになったら、{n}おいしいものいっぱい食べさせてね！",
-   "en": "{v:0030}Well, well... So you're the young master of a{n}distinguished family!{p}{v:0031}If you get rich, you'd better treat me to lots of tasty{n}food!",
+   "en": "{v:0030}Well, well... So you're the young master of a{n}distinguished family!{p}{v:0031}If you get rich, you'd better treat me to lots of{n}tasty food!",
    "term": "end"
   },
   {
@@ -417,7 +417,7 @@
   {
    "id": "scen107.0068",
    "jp": "ちょっと！{n}ルイセちゃんを残して、どこ行く気よ！",
-   "en": "Hey! Where do you think you're going, leaving Luise-chan{n}behind?!",
+   "en": "Hey! Where do you think you're going, leaving{n}Luise-chan behind?!",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen107.0072",
    "jp": "{v:009B}あ、お兄さまですか？{n}どうぞ、鍵は開いてますぅ★",
-   "en": "{v:009B}Oh, is that you, Big Brother? Come iiin! The door's{n}unlocked!",
+   "en": "{v:009B}Oh, is that you, Big Brother? Come iiin! The{n}door's unlocked!",
    "term": "end"
   },
   {
@@ -690,7 +690,7 @@
   {
    "id": "scen107.0112",
    "jp": "{v:008E}そうですね。{n}やはり兄はいいものだと思います。{p}{v:008F}なんだかラルフさんを見ていると、うちの兄を{n}思いだしてしまいました。{p}{FC03}{v:0090}兄も今頃どうしているのか‥‥。{n}危険な事をしていなければいいのですが‥‥。",
-   "en": "{v:008E}Yes. I do think it's wonderful to have a big brother.{p}{v:008F}Somehow, seeing Ralph-san reminded me of my own{n}brother.{p}{FC03}{v:0090}I wonder what he's doing now... I hope he isn't doing{n}anything dangerous...",
+   "en": "{v:008E}Yes. I do think it's wonderful to have a big brother.{p}{v:008F}Somehow, seeing Ralph-san reminded me of my{n}own brother.{p}{FC03}{v:0090}I wonder what he's doing now... I hope he isn't doing{n}anything dangerous...",
    "term": "end"
   },
   {
@@ -728,13 +728,13 @@
   {
    "id": "scen107.0118",
    "jp": "{v:0093}それはあなた自身が、今まで兄として{n}振る舞ってきたからじゃないでしょうか？{p}{v:0094}兄に甘えるという事に対して、{n}免疫がないからだと思います。",
-   "en": "{v:0093}Could it be because you've always been the big brother{n}yourself?{p}{v:0094}I think you're simply not used to having a big brother{n}to lean on.",
+   "en": "{v:0093}Could it be because you've always been the big{n}brother yourself?{p}{v:0094}I think you're simply not used to having a big brother{n}to lean on.",
    "term": "end"
   },
   {
    "id": "scen107.0119",
    "jp": "{v:0095}でもご兄弟が見つかってよかったですね。{n}これからあなたがどうされるかは知りませんが、{n}ラルフさんとは仲良くしてくださいね。{p}{v:0096}兄弟とは仲良くした方がいいですから。{p}{v:0097}それでは夜も遅いので、そろそろ寝ましょう。",
-   "en": "{v:0095}Still, I'm glad you found your brother. I don't know{n}what you plan to do now, but please get along with{n}Ralph-san.{p}{v:0096}Brothers and sisters should be close, after all.{p}{v:0097}Well, it's getting late. We should get some sleep.",
+   "en": "{v:0095}Still, I'm glad you found your brother. I don't know{n}what you plan to do now, but please get along{n}with Ralph-san.{p}{v:0096}Brothers and sisters should be close, after all.{p}{v:0097}Well, it's getting late. We should get some sleep.",
    "term": "end"
   },
   {
@@ -785,7 +785,7 @@
   {
    "id": "scen107.0127",
    "jp": "{v:009D}やっぱりお兄さまにお兄さまが出来たからですぅ★{p}{FC05}{v:009E}あれ？{n}なんかこの言い方へんだな‥‥？{n}意味はわかるからいいや★{p}{FC04}{v:009F}でもお兄さまそっくりでびっくりしちゃった。{n}やっぱり兄弟なんだね★",
-   "en": "{v:009D}It must be because my big brother has a big brother{n}now!{p}{FC05}{v:009E}Huh? That sounded kind of funny... Oh well, you know{n}what I mean!{p}{FC04}{v:009F}But I was so surprised! He looks just like you. You{n}really are brothers!",
+   "en": "{v:009D}It must be because my big brother has a big{n}brother now!{p}{FC05}{v:009E}Huh? That sounded kind of funny... Oh well, you know{n}what I mean!{p}{FC04}{v:009F}But I was so surprised! He looks just like you. You{n}really are brothers!",
    "term": "end"
   },
   {
@@ -836,7 +836,7 @@
   {
    "id": "scen107.0135",
    "jp": "{v:00A3}そうなの？{n}もっと劇的な心境の変化とかあると思ったのに‥‥。",
-   "en": "{v:00A3}Really? I thought you'd feel some dramatic change deep{n}inside...",
+   "en": "{v:00A3}Really? I thought you'd feel some dramatic change{n}deep inside...",
    "term": "end"
   },
   {
@@ -860,7 +860,7 @@
   {
    "id": "scen107.0139",
    "jp": "{v:00A9}アンタねぇ‥‥そんなもん、{n}落ちてる訳ないでしょうが！？",
-   "en": "{v:00A9}Honestly... You can't just find one lying around, you{n}know?!",
+   "en": "{v:00A9}Honestly... You can't just find one lying around,{n}you know?!",
    "term": "end"
   },
   {
@@ -955,7 +955,7 @@
   {
    "id": "scen107.0154",
    "jp": "{v:00B7}確かにそうかもしれない。{n}いくらそっくりでも、急に兄だといわれれば{n}とまどうものだからね。",
-   "en": "{v:00B7}I suppose that's only natural. However much he looks{n}like you, suddenly being told he's your brother would be{n}bewildering.",
+   "en": "{v:00B7}I suppose that's only natural. However much he looks{n}like you, suddenly being told he's your brother would{n}be bewildering.",
    "term": "end"
   },
   {
@@ -1035,7 +1035,7 @@
   {
    "id": "scen107.0167",
    "jp": "{v:00C3}兄弟か？{n}結構いるぞ。{n}最近は全然会っていないがな。{p}{v:00C4}ま、俺に取っちゃ戦友も兄弟みたいなもんだが。",
-   "en": "{v:00C3}Brothers and sisters? Quite a few. Haven't seen any of{n}them lately, though.{p}{v:00C4}Well, my comrades in arms are like brothers to me,{n}too.",
+   "en": "{v:00C3}Brothers and sisters? Quite a few. Haven't seen any of{n}them lately, though.{p}{v:00C4}Well, my comrades in arms are like brothers to{n}me, too.",
    "term": "end"
   },
   {
@@ -1077,7 +1077,7 @@
   {
    "id": "scen107.0174",
    "jp": "{v:00CC}やっと生き別れの兄弟に会えたんだ。{n}ちょっと興奮してしまってね。{p}{v:00CD}でも明日も早い。{n}もう寝ないとね。",
-   "en": "{v:00CC}I've finally found the brother I was separated from so{n}long ago. I'm a little too excited to sleep.{p}{v:00CD}But we have an early start tomorrow. I'd better get to{n}bed.",
+   "en": "{v:00CC}I've finally found the brother I was separated from so{n}long ago. I'm a little too excited to sleep.{p}{v:00CD}But we have an early start tomorrow. I'd better get{n}to bed.",
    "term": "end"
   },
   {
@@ -1179,7 +1179,7 @@
   {
    "id": "scen107.0191",
    "jp": "‥‥ほら、ぐずぐずしていないで、{n}下におりましょ！",
-   "en": "...Come on, quit dragging your feet! Let's go{n}downstairs!",
+   "en": "...Come on, quit dragging your feet! Let's{n}go downstairs!",
    "term": "end"
   },
   {

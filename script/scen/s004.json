@@ -141,7 +141,7 @@
   {
    "id": "scen004.0022",
    "jp": "{v:0007}英雄気取りの馬鹿な騎士がいなけりゃ‥‥息子も‥‥。",
-   "en": "{v:0007}If it weren't for that idiot knight playing hero... my son{n}would...",
+   "en": "{v:0007}If it weren't for that idiot knight playing hero... my{n}son would...",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen004.0031",
    "jp": "やっと平和が訪れたのね。{n}でも、この胸騒ぎは何かしら‥‥。",
-   "en": "Peace has finally come. But why do I still feel so{n}uneasy...?",
+   "en": "Peace has finally come. But why do I still feel{n}so uneasy...?",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen004.0048",
    "jp": "妖精ちゃん。{n}あなたも彼と一緒に頑張ってね！",
-   "en": "Little fairy, you keep doing your best alongside him,{n}too!",
+   "en": "Little fairy, you keep doing your best alongside{n}him, too!",
    "term": "end"
   },
   {
@@ -401,7 +401,7 @@
   {
    "id": "scen004.0064",
    "jp": "やっと商店街へ買い出しに行って来たよ。",
-   "en": "I finally got to the shopping district to pick up some{n}supplies.",
+   "en": "I finally got to the shopping district to pick up{n}some supplies.",
    "term": "end"
   },
   {
@@ -425,7 +425,7 @@
   {
    "id": "scen004.0068",
    "jp": "‥‥なんか、ず～っと物陰に隠れていると{n}眠くなっちゃうなぁ‥‥。",
-   "en": "...Hiding here out of sight for sooo long is making me{n}sleepy...",
+   "en": "...Hiding here out of sight for sooo long is making{n}me sleepy...",
    "term": "end"
   },
   {
@@ -449,7 +449,7 @@
   {
    "id": "scen004.0072",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
@@ -549,7 +549,7 @@
   {
    "id": "scen004.0088",
    "jp": "　不審な人物を見かけたら、{n}　すぐに警備兵に！{n}　　　～　王都ローザリア警備隊長　～",
-   "en": "　If you see anyone suspicious, report them to a guard{n}immediately! -- Captain of the Royal Capital Rosaria{n}Guard",
+   "en": "　If you see anyone suspicious, report them to a guard{n}immediately! -- Captain of the Royal Capital{n}Rosaria Guard",
    "term": "end"
   },
   {
@@ -591,7 +591,7 @@
   {
    "id": "scen004.0095",
    "jp": "あなたに教えることは、もうなさそうね。{p}だけどこのおじいさんは、{n}まだまだ勉強が必要みたい[01BE]",
-   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying to{n}do[01BE]",
+   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying{n}to do[01BE]",
    "term": "end"
   },
   {
@@ -603,13 +603,13 @@
   {
    "id": "scen004.0097",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you would like to know about{n}abilities?",
+   "en": "Is there anything else you would like to know{n}about abilities?",
    "term": "end"
   },
   {
    "id": "scen004.0098",
    "jp": "だいたいはわかったんじゃが‥‥。{n}１つ聞いてもいいかのぉ。",
-   "en": "I think I've got the gist of it... But might I ask one{n}thing?",
+   "en": "I think I've got the gist of it... But might I ask{n}one thing?",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen004.0104",
    "jp": "最近ゲヴェルの部下どもが、{n}この辺りにも現れるようになっています。{p}街の人たちに被害は出ていませんが、{n}多くの兵が命を落としました。",
-   "en": "Gevel's underlings have begun appearing around here{n}lately.{p}The townspeople have not been harmed, but many{n}soldiers have lost their lives.",
+   "en": "Gevel's underlings have begun appearing around{n}here lately.{p}The townspeople have not been harmed, but many{n}soldiers have lost their lives.",
    "term": "end"
   },
   {
@@ -663,13 +663,13 @@
   {
    "id": "scen004.0107",
    "jp": "仲間と力を合わせて頑張って下さい！",
-   "en": "Work together with your companions, and give it your{n}best!",
+   "en": "Work together with your companions, and give it{n}your best!",
    "term": "end"
   },
   {
    "id": "scen004.0108",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "Monsters have been appearing lately, so we're on{n}patrol.{p}We've spotted a suspicious mage who seems to be{n}controlling them several times, but by the time the{n}soldiers arrive, he's vanished.",
+   "en": "Monsters have been appearing lately, so we're{n}on patrol.{p}We've spotted a suspicious mage who seems to be{n}controlling them several times, but by the time the{n}soldiers arrive, he's vanished.",
    "term": "end"
   },
   {
@@ -687,7 +687,7 @@
   {
    "id": "scen004.0111",
    "jp": "ここはローランディア王国の王都、ローザリアです。",
-   "en": "This is Rosaria, the royal capital of the Kingdom of{n}Rolandia.",
+   "en": "This is Rosaria, the royal capital of the Kingdom{n}of Rolandia.",
    "term": "end"
   },
   {
@@ -735,7 +735,7 @@
   {
    "id": "scen004.0119",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "scen004.0122",
    "jp": "{v:0032}アタシ、パーティーなんて初めてだよ！{n}なんだか、緊張する～！",
-   "en": "{v:0032}I've never been to a party before! Ooh, I'm getting{n}nervous!",
+   "en": "{v:0032}I've never been to a party before! Ooh, I'm{n}getting nervous!",
    "term": "end"
   },
   {
@@ -849,13 +849,13 @@
   {
    "id": "scen004.0138",
    "jp": "{v:0079}でも、リシャールを説得出来なかったときの対策を{n}練っておいた方がいいんじゃない？",
-   "en": "{v:0079}But shouldn't we make a plan in case we can't persuade{n}Richard?",
+   "en": "{v:0079}But shouldn't we make a plan in case we can't{n}persuade Richard?",
    "term": "end"
   },
   {
    "id": "scen004.0139",
    "jp": "{v:007A}そうだね。{n}いろいろ方法を探るのも無駄にはならないよね。{p}{v:007B}それに、アリオストさんのお母さんも、{n}協力してくれるみたいだし。",
-   "en": "{v:007A}You're right. Looking into other ways certainly wouldn't{n}hurt.{p}{v:007B}Besides, it sounds like Ariost-san's mother will help us,{n}too.",
+   "en": "{v:007A}You're right. Looking into other ways certainly{n}wouldn't hurt.{p}{v:007B}Besides, it sounds like Ariost-san's mother will help{n}us, too.",
    "term": "end"
   },
   {
@@ -867,7 +867,7 @@
   {
    "id": "scen004.0141",
    "jp": "{v:007D}その意気よ！{n}みんな、がんばろーね！",
-   "en": "{v:007D}That's the spirit! Come on, everyone! Let's give it our{n}all!",
+   "en": "{v:007D}That's the spirit! Come on, everyone! Let's give it{n}our all!",
    "term": "end"
   },
   {
@@ -1038,7 +1038,7 @@
   {
    "id": "scen004.0169",
    "jp": "{v:0014}見てわからぬか？{p}{v:0015}邪魔なローランディアの連中を皆殺しにするのだよ！",
-   "en": "{v:0014}Can you not see?{p}{v:0015}I shall slaughter every last one of these pests from{n}Rolandia!",
+   "en": "{v:0014}Can you not see?{p}{v:0015}I shall slaughter every last one of these pests{n}from Rolandia!",
    "term": "end"
   },
   {
@@ -1098,13 +1098,13 @@
   {
    "id": "scen004.0179",
    "jp": "これほど己の無力さを感じた事はない‥‥。{n}もっと腕をみがかねば‥‥。",
-   "en": "I've never felt so powerless... I must hone my skills{n}further...",
+   "en": "I've never felt so powerless... I must hone my{n}skills further...",
    "term": "end"
   },
   {
    "id": "scen004.0180",
    "jp": "あなた方の援護がなければ、{n}ここは守りきれなかったでしょう‥‥。",
-   "en": "Without your support, we could never have held this{n}place...",
+   "en": "Without your support, we could never have held{n}this place...",
    "term": "end"
   },
   {
@@ -1176,7 +1176,7 @@
   {
    "id": "scen004.0192",
    "jp": "{v:005D}そうとなれば、時間は無駄に出来ないね。{n}すぐにでも行動しようよ！",
-   "en": "{v:005D}Then we can't waste any time. Let's get moving right{n}away!",
+   "en": "{v:005D}Then we can't waste any time. Let's get moving{n}right away!",
    "term": "end"
   },
   {
@@ -1224,7 +1224,7 @@
   {
    "id": "scen004.0200",
    "jp": "ナイツが攻めてきたという事で、{n}この辺りは立入禁止になっております。",
-   "en": "This area is off limits due to an attack by the Imperial{n}Knights.",
+   "en": "This area is off limits due to an attack by the{n}Imperial Knights.",
    "term": "end"
   },
   {

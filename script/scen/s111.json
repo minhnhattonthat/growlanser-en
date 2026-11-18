@@ -57,7 +57,7 @@
   {
    "id": "scen111.0008",
    "jp": "Ｓランクで優勝するとは、恐れ入ったよ。{n}本当に、おめでとう。",
-   "en": "Winning at S Rank... I'm impressed. My heartfelt{n}congratulations.",
+   "en": "Winning at S Rank... I'm impressed. My{n}heartfelt congratulations.",
    "term": "end"
   },
   {
@@ -564,7 +564,7 @@
   {
    "id": "scen111.0087",
    "jp": "おめでとう！{n}これで君はレジェンドクラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Legend{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Legend Class!",
    "term": "end"
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "scen111.0096",
    "jp": "おめでとう！{n}これで君はエクセレントクラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Excellent{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Excellent Class!",
    "term": "end"
   },
   {
@@ -678,7 +678,7 @@
   {
    "id": "scen111.0105",
    "jp": "おめでとう！{n}これで君はヒーロークラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Hero{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Hero Class!",
    "term": "end"
   },
   {
@@ -735,7 +735,7 @@
   {
    "id": "scen111.0114",
    "jp": "おめでとう！{n}これで君はチャンピオンクラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Champion{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Champion Class!",
    "term": "end"
   },
   {
@@ -792,7 +792,7 @@
   {
    "id": "scen111.0123",
    "jp": "おめでとう！{n}これで君はグレートクラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Great{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Great Class!",
    "term": "end"
   },
   {
@@ -849,7 +849,7 @@
   {
    "id": "scen111.0132",
    "jp": "おめでとう！{n}これで君はノーマルクラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for the Normal{n}Class!",
+   "en": "Congratulations! You've now qualified for the{n}Normal Class!",
    "term": "end"
   },
   {
@@ -906,7 +906,7 @@
   {
    "id": "scen111.0141",
    "jp": "おめでとう！{n}これで君はビギナークラスに認定されたぞ。",
-   "en": "Congratulations! You've now qualified for Beginner{n}Class.",
+   "en": "Congratulations! You've now qualified for{n}Beginner Class.",
    "term": "end"
   },
   {

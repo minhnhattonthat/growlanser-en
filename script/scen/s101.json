@@ -69,7 +69,7 @@
   {
    "id": "scen101.0010",
    "jp": "えっ、もう帰っちゃうの？{n}それじゃ、みんなに集合をかけるけど‥‥。",
-   "en": "Huh? We're leaving already? Then I'll round everyone up,{n}but...",
+   "en": "Huh? We're leaving already? Then I'll round everyone{n}up, but...",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen101.0029",
    "jp": "そういえば、ルイセちゃんが欲しがってたわね。",
-   "en": "Come to think of it, Luise-chan wanted some, didn't{n}she?",
+   "en": "Come to think of it, Luise-chan wanted some,{n}didn't she?",
    "term": "end"
   },
   {
@@ -269,7 +269,7 @@
   {
    "id": "scen101.0042",
    "jp": "１冊、５０エルムですが、{n}『薬草大辞典』を買いますか？",
-   "en": "A copy costs 50 Elm. Buy the 'Encyclopedia of Medicinal{n}Herbs'?",
+   "en": "A copy costs 50 Elm. Buy the 'Encyclopedia of{n}Medicinal Herbs'?",
    "term": "end"
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "scen101.0055",
    "jp": "ミーシャ、きっと喜ぶぞぉ！{n}さっそくプレゼントしてあげようよ！",
-   "en": "Misha's going to love this! Let's give it to her right{n}away!",
+   "en": "Misha's going to love this! Let's give it to her{n}right away!",
    "term": "end"
   },
   {
@@ -557,7 +557,7 @@
   {
    "id": "scen101.0088",
    "jp": "{v:003E}でもこういう時なら、いつも来たいな。",
-   "en": "{v:003E}But I'd love to come whenever there's something like{n}this.",
+   "en": "{v:003E}But I'd love to come whenever there's something{n}like this.",
    "term": "end"
   },
   {
@@ -748,7 +748,7 @@
   {
    "id": "scen101.0119",
    "jp": "{v:005B}それって、もしかして‥‥。{p}{FC04}{v:005C}キャー、お兄さまったらもぉ{FFF0}♥{FFF1}{n}アタシのハートが欲しいなら{n}そう言ってくれればいいのにぃ★{p}{FFF6}{v:005D}結婚式をあげるなら、教会がいいですよね？{n}アタシ達のイメージにピッタリだし。{p}{v:005E}そこでみんなに祝福されながら、指輪を交換して、{n}いよいよ誓いのキスをするの！{p}{v:005F}じっと見つめ合った後、{n}アタシはどきどきしながら瞳を閉じるの。{n}それで、それで、お兄さまが‥‥。",
-   "en": "{v:005B}Could you possibly mean...?{p}{FC04}{v:005C}Eee! Oh, Big Brother, you tease{FFF0}♥{FFF1} If you want my heart,{n}you only have to saaay so!{p}{FFF6}{v:005D}We should have our wedding in a church, don't you{n}think? It would suit us perfectly.{p}{v:005E}We'll exchange rings with everyone there wishing us{n}happiness, and then it'll finally be time for our wedding{n}kiss!{p}{v:005F}After we gaze into each other's eyes, I'll close mine,{n}my heart pounding. And then, and then, Big Brother{n}will...",
+   "en": "{v:005B}Could you possibly mean...?{p}{FC04}{v:005C}Eee! Oh, Big Brother, you tease{FFF0}♥{FFF1} If you want my heart,{n}you only have to saaay so!{p}{FFF6}{v:005D}We should have our wedding in a church, don't you{n}think? It would suit us perfectly.{p}{v:005E}We'll exchange rings with everyone there wishing us{n}happiness, and then it'll finally be time for our{n}wedding kiss!{p}{v:005F}After we gaze into each other's eyes, I'll close mine,{n}my heart pounding. And then, and then, Big{n}Brother will...",
    "term": "end"
   },
   {
@@ -872,7 +872,7 @@
   {
    "id": "scen101.0139",
    "jp": "{v:002D}ああ、ちょっとね。{n}実験器具にガタが来たので、{n}買うか作るかって考えていたんだ。{p}{v:002E}作ると時間がかかるし、かといって買うと高いしね。{p}{v:002F}今はまだ大丈夫だけど、{n}近いうちにどっちにするか決めないと‥‥。",
-   "en": "{v:002D}Yes, just a little. My lab equipment is wearing out, so I{n}was wondering whether to buy replacements or make{n}them.{p}{v:002E}Making them takes time, but buying them is expensive.{p}{v:002F}What I have will do for now, but I'll have to decide{n}soon...",
+   "en": "{v:002D}Yes, just a little. My lab equipment is wearing out, so I{n}was wondering whether to buy replacements or{n}make them.{p}{v:002E}Making them takes time, but buying them is expensive.{p}{v:002F}What I have will do for now, but I'll have to{n}decide soon...",
    "term": "end"
   },
   {
@@ -884,7 +884,7 @@
   {
    "id": "scen101.0141",
    "jp": "{v:0031}そうなんだ。{n}だから、作ることになるだろうね。{p}{FC00}{v:0032}実験の方は止まってしまうけど、まぁ、仕方ない。",
-   "en": "{v:0031}That's right. So I'll probably end up making them.{p}{FC00}{v:0032}I'll have to put my experiments on hold, but it can't be{n}helped.",
+   "en": "{v:0031}That's right. So I'll probably end up making them.{p}{FC00}{v:0032}I'll have to put my experiments on hold, but it can't{n}be helped.",
    "term": "end"
   },
   {
@@ -1025,7 +1025,7 @@
   {
    "id": "scen101.0164",
    "jp": "{v:0078}えっ！？{n}これを私に？{p}{v:0079}嬉しい‥‥。{FFF9}{FFFB}{n}{v:007A}こういうのを探していたのです‥‥。",
-   "en": "{v:0078}Oh?! Is this for me?{p}{v:0079}I'm so happy...{FFF9}{FFFB}{v:007A}This is just the sort of thing I was looking{n}for...",
+   "en": "{v:0078}Oh?! Is this for me?{p}{v:0079}I'm so happy...{FFF9}{FFFB}{v:007A}This is just the sort of thing I was{n}looking for...",
    "term": "end"
   },
   {
@@ -1037,7 +1037,7 @@
   {
    "id": "scen101.0166",
    "jp": "{v:007C}はい。{n}きっとこの知識がみんなのお役に立てると思います。{p}{v:007D}だから一生懸命、勉強しますね。",
-   "en": "{v:007C}Yes. I'm sure I can use this knowledge to help{n}everyone.{p}{v:007D}So I'll study hard.",
+   "en": "{v:007C}Yes. I'm sure I can use this knowledge to{n}help everyone.{p}{v:007D}So I'll study hard.",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen101.0170",
    "jp": "{v:007E}はい、喜んで‥‥。{p}{FC04}{v:007F}あ、ごめんなさい。{n}怪我するのを喜んではいけませんね。",
-   "en": "{v:007E}Yes, I'd be happy to...{p}{FC04}{v:007F}Oh, I'm sorry. I shouldn't be happy about you getting{n}hurt.",
+   "en": "{v:007E}Yes, I'd be happy to...{p}{FC04}{v:007F}Oh, I'm sorry. I shouldn't be happy about you{n}getting hurt.",
    "term": "end"
   },
   {
@@ -1081,7 +1081,7 @@
   {
    "id": "scen101.0173",
    "jp": "{v:0083}これからこの本は、肌身離さず持ち歩きます。{n}本当に、ありがとう‥‥。",
-   "en": "{v:0083}I'll keep this book with me wherever I go. Thank you,{n}truly...",
+   "en": "{v:0083}I'll keep this book with me wherever I go. Thank{n}you, truly...",
    "term": "end"
   },
   {
@@ -1156,7 +1156,7 @@
   {
    "id": "scen101.0185",
    "jp": "{v:009E}ほう、薬草辞典か。{n}こいつを俺にくれるのか？{p}{v:009F}俺よりカレンの方が欲しがりそうなもんだな。{n}まあいい、あとで俺の方からカレンに渡しとくか。{p}{v:00A0}カレンのやつも喜ぶだろうぜ。",
-   "en": "{v:009E}Oh, a medicinal herb encyclopedia. You're giving this to{n}me?{p}{v:009F}Seems like something Karen would want more than me.{n}Well, I'll give it to her later.{p}{v:00A0}She'll be happy to have it.",
+   "en": "{v:009E}Oh, a medicinal herb encyclopedia. You're giving this{n}to me?{p}{v:009F}Seems like something Karen would want more than me.{n}Well, I'll give it to her later.{p}{v:00A0}She'll be happy to have it.",
    "term": "end"
   },
   {

@@ -153,7 +153,7 @@
   {
    "id": "scen003.0024",
    "jp": "やっと平和が訪れたのね。{n}でも、この胸騒ぎは何かしら‥‥。",
-   "en": "Peace has finally come. But why do I still feel so{n}uneasy...?",
+   "en": "Peace has finally come. But why do I still feel{n}so uneasy...?",
    "term": "end"
   },
   {
@@ -223,7 +223,7 @@
   {
    "id": "scen003.0035",
    "jp": "グローシアンが行方不明になってるそうじゃない。{p}はあ、どうしよう‥‥。{n}私はグローシアンじゃないけれど{n}このままじゃ不安で、外へ出られないわ。",
-   "en": "They say Growsians have been going missing, don't{n}they?{p}Oh, what am I going to do...? I'm not a Growsian, but{n}with things like this, I'm too frightened to go outside.",
+   "en": "They say Growsians have been going missing,{n}don't they?{p}Oh, what am I going to do...? I'm not a Growsian, but{n}with things like this, I'm too frightened to go outside.",
    "term": "end"
   },
   {
@@ -325,7 +325,7 @@
   {
    "id": "scen003.0052",
    "jp": "妖精ちゃん。{n}あなたも彼と一緒に頑張ってね！",
-   "en": "Little fairy, you keep doing your best alongside him,{n}too!",
+   "en": "Little fairy, you keep doing your best alongside{n}him, too!",
    "term": "end"
   },
   {
@@ -407,13 +407,13 @@
   {
    "id": "scen003.0065",
    "jp": "‥‥なんて、のんびりしてられないか。{n}今、隣国との戦争まっただ中だもんな‥‥。{p}ったく、なんてことしてくれたんだ。{n}この国のお偉いさんはさ‥‥。",
-   "en": "...Then again, I can't really take it easy, can I? We're in{n}the middle of a war with our neighbor...{p}Damn it, what have this country's bigwigs gotten us{n}into...?",
+   "en": "...Then again, I can't really take it easy, can I? We're in{n}the middle of a war with our neighbor...{p}Damn it, what have this country's bigwigs gotten{n}us into...?",
    "term": "end"
   },
   {
    "id": "scen003.0066",
    "jp": "やっと商店街へ買い出しに行って来たよ。",
-   "en": "I finally got to the shopping district to pick up some{n}supplies.",
+   "en": "I finally got to the shopping district to pick up{n}some supplies.",
    "term": "end"
   },
   {
@@ -437,7 +437,7 @@
   {
    "id": "scen003.0070",
    "jp": "‥‥なんか、ず～っと物陰に隠れていると{n}眠くなっちゃうなぁ‥‥。",
-   "en": "...Hiding here out of sight for sooo long is making me{n}sleepy...",
+   "en": "...Hiding here out of sight for sooo long is making{n}me sleepy...",
    "term": "end"
   },
   {
@@ -467,7 +467,7 @@
   {
    "id": "scen003.0075",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
@@ -567,7 +567,7 @@
   {
    "id": "scen003.0091",
    "jp": "‥‥何か、言い方がカチンとくるんだけど、{n}それは、アタシの気のせい？",
-   "en": "...Is it just me, or is the way you said that really{n}annoying?",
+   "en": "...Is it just me, or is the way you said that{n}really annoying?",
    "term": "end"
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "scen003.0100",
    "jp": "まったく、街中で戦闘なんかするなよ～[01BE]{n}家に帰れないじゃないか[01BE]",
-   "en": "Come on, don't fight in the middle of town![01BE] I can't get{n}home![01BE]",
+   "en": "Come on, don't fight in the middle of town![01BE] I can't{n}get home![01BE]",
    "term": "end"
   },
   {
@@ -639,7 +639,7 @@
   {
    "id": "scen003.0103",
    "jp": "あなたに教えることは、もうなさそうね。{p}だけどこのおじいさんは、{n}まだまだ勉強が必要みたい[01BE]",
-   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying to{n}do[01BE]",
+   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying{n}to do[01BE]",
    "term": "end"
   },
   {
@@ -651,13 +651,13 @@
   {
    "id": "scen003.0105",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you would like to know about{n}abilities?",
+   "en": "Is there anything else you would like to know{n}about abilities?",
    "term": "end"
   },
   {
    "id": "scen003.0106",
    "jp": "だいたいはわかったんじゃが‥‥。{n}１つ聞いてもいいかのぉ。",
-   "en": "I think I've got the gist of it... But might I ask one{n}thing?",
+   "en": "I think I've got the gist of it... But might I ask{n}one thing?",
    "term": "end"
   },
   {
@@ -705,7 +705,7 @@
   {
    "id": "scen003.0114",
    "jp": "{v:0069}ほとんど届かず、現地調達をしているのが現状だ。{n}このままでは我が軍は‥‥。",
-   "en": "{v:0069}Almost nothing gets through. At present, the troops{n}are obtaining supplies locally. If this continues, our{n}army...",
+   "en": "{v:0069}Almost nothing gets through. At present, the troops{n}are obtaining supplies locally. If this continues,{n}our army...",
    "term": "end"
   },
   {
@@ -717,7 +717,7 @@
   {
    "id": "scen003.0116",
    "jp": "{v:006B}とはいえ、もう護衛の兵さえいないのだ‥‥。",
-   "en": "{v:006B}Even so, we no longer have any soldiers to escort{n}us...",
+   "en": "{v:006B}Even so, we no longer have any soldiers to{n}escort us...",
    "term": "end"
   },
   {
@@ -735,7 +735,7 @@
   {
    "id": "scen003.0119",
    "jp": "{v:006E}どうせ、戦線を押し返せなきゃ、{n}目的地にも到達できねぇしな。",
-   "en": "{v:006E}We've gotta push 'em back to get where we're going{n}anyway.",
+   "en": "{v:006E}We've gotta push 'em back to get where we're{n}going anyway.",
    "term": "end"
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "scen003.0122",
    "jp": "いやいや、君たちにも都合があるだろうからね。{p}しかし、無事に物資を送るには、{n}どうすれば‥‥。",
-   "en": "No, no, I'm sure you have your own affairs to attend{n}to.{p}But how are we to deliver these supplies safely...?",
+   "en": "No, no, I'm sure you have your own affairs to{n}attend to.{p}But how are we to deliver these supplies safely...?",
    "term": "end"
   },
   {
@@ -777,7 +777,7 @@
   {
    "id": "scen003.0126",
    "jp": "おい、こっちからラシェルに向かうと{n}かなりの遠回りになるぞ。{p}今のルイセには時間がない。{n}東から向かおうぜ。",
-   "en": "Hey, heading to Rachelle from here means a long{n}detour.{p}Luise doesn't have that kind of time. Let's go from the{n}east.",
+   "en": "Hey, heading to Rachelle from here means a{n}long detour.{p}Luise doesn't have that kind of time. Let's go from{n}the east.",
    "term": "end"
   },
   {
@@ -843,13 +843,13 @@
   {
    "id": "scen003.0137",
    "jp": "{v:000F}そうだ。{n}街の中で彼を見かけ気になって追ってきたのだが‥‥。{p}{v:0010}見れば見るほど似ている‥‥。",
-   "en": "{v:000F}Yes. I caught sight of him in town, and I had to follow{n}him...{p}{v:0010}The more I look, the more I see the resemblance...",
+   "en": "{v:000F}Yes. I caught sight of him in town, and I had to{n}follow him...{p}{v:0010}The more I look, the more I see the resemblance...",
    "term": "end"
   },
   {
    "id": "scen003.0138",
    "jp": "{v:0011}そんなに似ているのか？{n}俺には知る方法がないからな。",
-   "en": "{v:0011}Do you really look that much alike? I've got no way to{n}tell.",
+   "en": "{v:0011}Do you really look that much alike? I've got no way{n}to tell.",
    "term": "end"
   },
   {
@@ -891,7 +891,7 @@
   {
    "id": "scen003.0145",
    "jp": "{v:0018}それが双子の証明になるだろ？{p}{v:0019}ひょっとして君、誰かに育てられたとか、{n}そういったことはないかい？",
-   "en": "{v:0018}Surely that proves we're twins?{p}{v:0019}Were you perhaps raised by someone other than your{n}parents?",
+   "en": "{v:0018}Surely that proves we're twins?{p}{v:0019}Were you perhaps raised by someone other than{n}your parents?",
    "term": "end"
   },
   {
@@ -948,7 +948,7 @@
   {
    "id": "scen003.0154",
    "jp": "{v:001F}何を遠慮しているんだ。{n}俺たちに気遣う必要なんてないぜ。",
-   "en": "{v:001F}What's holding you back? You don't need to worry about{n}us.",
+   "en": "{v:001F}What's holding you back? You don't need to worry{n}about us.",
    "term": "end"
   },
   {
@@ -978,13 +978,13 @@
   {
    "id": "scen003.0159",
    "jp": "仲間と力を合わせて頑張って下さい！",
-   "en": "Work together with your companions, and give it your{n}best!",
+   "en": "Work together with your companions, and give it{n}your best!",
    "term": "end"
   },
   {
    "id": "scen003.0160",
    "jp": "ここはローランディア王国の王都、ローザリアです。",
-   "en": "This is Rosaria, the royal capital of the Kingdom of{n}Rolandia.",
+   "en": "This is Rosaria, the royal capital of the Kingdom{n}of Rolandia.",
    "term": "end"
   },
   {
@@ -996,7 +996,7 @@
   {
    "id": "scen003.0162",
    "jp": "申し送り中ですので、{n}邪魔をしないで下さい。",
-   "en": "We are handing over our duties. Please do not{n}interrupt.",
+   "en": "We are handing over our duties. Please do{n}not interrupt.",
    "term": "end"
   },
   {
@@ -1014,7 +1014,7 @@
   {
    "id": "scen003.0165",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {
@@ -1038,13 +1038,13 @@
   {
    "id": "scen003.0169",
    "jp": "{v:00DB}ルイセちゃんの力がなくなったことが{n}バレちゃったからかな？",
-   "en": "{v:00DB}Maybe it's because they found out Luise-chan lost her{n}powers?",
+   "en": "{v:00DB}Maybe it's because they found out Luise-chan lost{n}her powers?",
    "term": "end"
   },
   {
    "id": "scen003.0170",
    "jp": "{v:0016}ルイセ君のグローシュが弱っていることを{n}知られたからか‥‥？",
-   "en": "{v:0016}Is it because they learned that Luise-kun's Grosh has{n}weakened...?",
+   "en": "{v:0016}Is it because they learned that Luise-kun's Grosh{n}has weakened...?",
    "term": "end"
   },
   {
@@ -1062,7 +1062,7 @@
   {
    "id": "scen003.0173",
    "jp": "{v:0019}ルイセさんのグローシュが弱っていることも{n}知られてしまいましたし‥‥。",
-   "en": "{v:0019}And they have learned that Luise-san's Grosh has{n}weakened...",
+   "en": "{v:0019}And they have learned that Luise-san's Grosh{n}has weakened...",
    "term": "end"
   },
   {
@@ -1074,7 +1074,7 @@
   {
    "id": "scen003.0175",
    "jp": "{v:001B}ルイセのグローシュが弱っていることを{n}気づかれたからだろうな。",
-   "en": "{v:001B}Probably because they noticed Luise's Grosh has{n}weakened.",
+   "en": "{v:001B}Probably because they noticed Luise's Grosh{n}has weakened.",
    "term": "end"
   },
   {
@@ -1146,7 +1146,7 @@
   {
    "id": "scen003.0187",
    "jp": "ふぅ‥‥。{n}見つかったら、どうしようかと思っちゃった。",
-   "en": "Phew... I was so worried about what I'd do if they found{n}me.",
+   "en": "Phew... I was so worried about what I'd do if they{n}found me.",
    "term": "end"
   },
   {
@@ -1200,7 +1200,7 @@
   {
    "id": "scen003.0196",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}化け物かぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥化け物でもいいから、買いに来ねぇかなぁ‥‥。",
-   "en": "　{FE1E}...{FE1E}...{FE1E}...{FE1E}Monsters, huh{FE1E}...{FE1E}...{FFFB}...I'd take even a monster as a{n}customer...",
+   "en": "　{FE1E}...{FE1E}...{FE1E}...{FE1E}Monsters, huh{FE1E}...{FE1E}...{FFFB}...I'd take even a monster as{n}a customer...",
    "term": "end"
   },
   {

@@ -57,7 +57,7 @@
   {
    "id": "scen224.0008",
    "jp": "{v:002C}そう思い込むことも、任務だったからだ。",
-   "en": "{v:002C}Convincing ourselves of that was part of the mission,{n}too.",
+   "en": "{v:002C}Convincing ourselves of that was part of the{n}mission, too.",
    "term": "end"
   },
   {
@@ -153,7 +153,7 @@
   {
    "id": "scen224.0024",
    "jp": "‥‥{v:0047}頼むぞ。{n}この世界の人々を‥‥導いてやってくれ‥‥。",
-   "en": "...{v:0047}We're counting on you. Guide... the people of this{n}world...",
+   "en": "...{v:0047}We're counting on you. Guide... the people of{n}this world...",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen224.0036",
    "jp": "{v:0055}あの子に伝えて下さい。{n}本当に、実の子のように思っていたと‥‥。",
-   "en": "{v:0055}Please tell him... We truly thought of him as our own{n}son...",
+   "en": "{v:0055}Please tell him... We truly thought of him as our{n}own son...",
    "term": "end"
   },
   {

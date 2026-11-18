@@ -105,7 +105,7 @@
   {
    "id": "scen063.0016",
    "jp": "{v:000C}人間は利己的で、他人を平気で傷つける。{p}{v:000D}治療薬を渡したところで、{n}今度はそれを巡って争いを起こすであろう。{n}かような種族に薬を渡すほど、我らは愚かでない。",
-   "en": "{v:000C}Humans are selfish and harm others without a second{n}thought.{p}{v:000D}Were we to give you a cure, you would only fight over{n}it next. We are not so foolish as to entrust medicine to{n}such a race.",
+   "en": "{v:000C}Humans are selfish and harm others without a{n}second thought.{p}{v:000D}Were we to give you a cure, you would only fight over{n}it next. We are not so foolish as to entrust medicine to{n}such a race.",
    "term": "end"
   },
   {
@@ -153,7 +153,7 @@
   {
    "id": "scen063.0024",
    "jp": "‥‥‥。{n}{v:001A}ならばこう致そう。{p}{v:001B}そなたら人間が、我らフェザリアンよりも優れている{n}点を、ただ１つでも良いから証明してみせよ。{n}さすれば１回分の解毒剤を与えようぞ。",
-   "en": "...{v:001A}Then let us do this.{p}{v:001B}Prove that you humans surpass us Featherians in even{n}one respect. Do so, and I shall grant you one dose of{n}antidote.",
+   "en": "...{v:001A}Then let us do this.{p}{v:001B}Prove that you humans surpass us Featherians in even{n}one respect. Do so, and I shall grant you one dose{n}of antidote.",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen063.0033",
    "jp": "{v:0000}何だ、お前たちか。{n}今はお前たちに構っている暇はない。{n}早々に立ち去れ！{p}{v:0001}お前たちが来なければ、こんなことには‥‥。",
-   "en": "{v:0000}Oh, you again. I have no time for you now. Leave at{n}once!{p}{v:0001}Had you never come here, none of this would have{n}happened...",
+   "en": "{v:0000}Oh, you again. I have no time for you now. Leave{n}at once!{p}{v:0001}Had you never come here, none of this would{n}have happened...",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen063.0039",
    "jp": "{v:0007}では議会の結果を発表する。{p}{v:0008}被害率が高いと予想されるため、{n}救出は行わない事とする！",
-   "en": "{v:0007}I shall now announce the council's decision.{p}{v:0008}As casualties are expected to be high, no rescue will be{n}attempted!",
+   "en": "{v:0007}I shall now announce the council's decision.{p}{v:0008}As casualties are expected to be high, no rescue will{n}be attempted!",
    "term": "end"
   },
   {
@@ -279,7 +279,7 @@
   {
    "id": "scen063.0045",
    "jp": "{v:000F}白々しいことを抜かすな。{n}お前たちも奴の仲間だろう！",
-   "en": "{v:000F}Do not pretend you know nothing. You are his{n}accomplices!",
+   "en": "{v:000F}Do not pretend you know nothing. You are{n}his accomplices!",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen063.0047",
    "jp": "{v:0011}とぼけるな！{n}人間の魔法使いが我が女王をさらっていったのだぞ！{p}{v:0012}お前たちの仲間だろ！",
-   "en": "{v:0011}Do not play dumb! A human mage has abducted our{n}queen!{p}{v:0012}He is one of your companions, is he not?!",
+   "en": "{v:0011}Do not play dumb! A human mage has abducted{n}our queen!{p}{v:0012}He is one of your companions, is he not?!",
    "term": "end"
   },
   {
@@ -591,7 +591,7 @@
   {
    "id": "scen063.0097",
    "jp": "{v:001A}それは出来ぬ。{n}我々は彼女が過ちを認めるのを待っている。{n}今そなたが彼女の前に出ていっては、逆効果である。",
-   "en": "{v:001A}That I cannot allow. We are waiting for her to admit her{n}wrongdoing. Your presence now would only hinder{n}that.",
+   "en": "{v:001A}That I cannot allow. We are waiting for her to admit her{n}wrongdoing. Your presence now would only{n}hinder that.",
    "term": "end"
   },
   {
@@ -627,7 +627,7 @@
   {
    "id": "scen063.0103",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "Hey! Where do you think you're going at a time like{n}this?!",
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -774,7 +774,7 @@
   {
    "id": "scen063.0127",
    "jp": "お前たちのことを、少しは認めてやろう。{p}だが、勘違いするな。{n}私は人間を認めたわけではないからな！",
-   "en": "I will grant you some measure of respect.{p}But do not misunderstand. I have not accepted{n}humanity!",
+   "en": "I will grant you some measure of respect.{p}But do not misunderstand. I have not{n}accepted humanity!",
    "term": "end"
   },
   {
@@ -828,7 +828,7 @@
   {
    "id": "scen063.0136",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンが居るならば、{n}何かが起こるはずだ。",
-   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something should{n}happen.",
+   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
    "term": "end"
   },
   {

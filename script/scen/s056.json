@@ -99,7 +99,7 @@
   {
    "id": "scen056.0015",
    "jp": "ここはダグラス卿が治めし領地、{n}シュッツベルグです。",
-   "en": "This is Schutzberg, the domain governed by Lord{n}Douglas.",
+   "en": "This is Schutzberg, the domain governed by{n}Lord Douglas.",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen056.0022",
    "jp": "申しわけございませんが、{n}ダグラス卿は多忙のため、お会いできません。",
-   "en": "My apologies, but Lord Douglas is too busy to receive{n}visitors.",
+   "en": "My apologies, but Lord Douglas is too busy to{n}receive visitors.",
    "term": "end"
   },
   {
@@ -257,7 +257,7 @@
   {
    "id": "scen056.0040",
    "jp": "まさか偽者がこの国を操っていたなんてねぇ‥‥。",
-   "en": "To think an impostor was pulling this country's{n}strings...",
+   "en": "To think an impostor was pulling this{n}country's strings...",
    "term": "end"
   },
   {
@@ -281,7 +281,7 @@
   {
    "id": "scen056.0044",
    "jp": "何かさ、災害事故が多いと思わないかい？{n}この近くでも竜巻が起こったって言うし‥‥。{p}でも、この現象って戦争が始まった前後なんだよね。",
-   "en": "Don't you think there have been a lot of disasters and{n}accidents lately? They say there was even a tornado{n}nearby...{p}But all this started around the time the war broke{n}out, didn't it?",
+   "en": "Don't you think there have been a lot of disasters and{n}accidents lately? They say there was even a{n}tornado nearby...{p}But all this started around the time the war broke{n}out, didn't it?",
    "term": "end"
   },
   {
@@ -323,7 +323,7 @@
   {
    "id": "scen056.0051",
    "jp": "なんて思うほど、あの方は美しいのよねぇ‥‥。{n}ダグラス様のご子息は‥‥。",
-   "en": "That's how handsome he is... Douglas-sama's son, I{n}mean...",
+   "en": "That's how handsome he is... Douglas-sama's son,{n}I mean...",
    "term": "end"
   },
   {
@@ -353,7 +353,7 @@
   {
    "id": "scen056.0056",
    "jp": "お待ちなさい。{n}ダグラス卿と会わずに、街を出る気ですか？",
-   "en": "Wait. Do you intend to leave town without seeing Lord{n}Douglas?",
+   "en": "Wait. Do you intend to leave town without seeing{n}Lord Douglas?",
    "term": "end"
   },
   {
@@ -484,7 +484,7 @@
   {
    "id": "scen056.0077",
    "jp": "これはアンジェラ様。{n}ダグラス様ならば屋敷かと。",
-   "en": "Ah, Angela-sama. I believe Douglas-sama is at his{n}manor.",
+   "en": "Ah, Angela-sama. I believe Douglas-sama is at{n}his manor.",
    "term": "end"
   },
   {
@@ -586,7 +586,7 @@
   {
    "id": "scen056.0094",
    "jp": "{v:0011}は？{n}彼、と言われましても、陛下のことでしょうか？",
-   "en": "{v:0011}Pardon? By \"this young man,\" do you mean His{n}Majesty?",
+   "en": "{v:0011}Pardon? By \"this young man,\" do you mean{n}His Majesty?",
    "term": "end"
   },
   {

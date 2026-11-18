@@ -33,19 +33,19 @@
   {
    "id": "scen194.0004",
    "jp": "あの程度の兵で、この俺様を止める気か！",
-   "en": "You think soldiers of that caliber can stop the likes of{n}me?!",
+   "en": "You think soldiers of that caliber can stop the likes{n}of me?!",
    "term": "end"
   },
   {
    "id": "scen194.0005",
    "jp": "充分時間をかせいだな‥‥。{n}よし！　我々も退くぞ！",
-   "en": "We've bought enough time... Good! We're pulling back{n}too!",
+   "en": "We've bought enough time... Good! We're pulling{n}back too!",
    "term": "end"
   },
   {
    "id": "scen194.0006",
    "jp": "{v:0031}私がしんがりを務める！{n}皆は急ぎガラシールズへもどれ！",
-   "en": "{v:0031}I will bring up the rear! Everyone, hurry back to{n}Galashiels!",
+   "en": "{v:0031}I will bring up the rear! Everyone, hurry back{n}to Galashiels!",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen194.0011",
    "jp": "{v:0021}アタシ達にはルイセちゃんがいるから、{n}回り込めたんだ★",
-   "en": "{v:0021}We've got Luise-chan with us, so we could get around{n}them!",
+   "en": "{v:0021}We've got Luise-chan with us, so we could get{n}around them!",
    "term": "end"
   },
   {
@@ -99,7 +99,7 @@
   {
    "id": "scen194.0015",
    "jp": "王都へは、何があっても‥‥",
-   "en": "They mustn't reach the royal capital... no matter{n}what...",
+   "en": "They mustn't reach the royal capital... no{n}matter what...",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen194.0034",
    "jp": "{v:006D}どこで運命の歯車がずれてしまったのだろうな‥‥。{p}{v:006E}それとも、あの日出会ってしまった事が、そもそもの{n}間違いの始まりだったのか‥‥？{p}{v:006F}だがここで嘆いた所で、もはやあの時には戻れぬ！",
-   "en": "{v:006D}When did the gears of fate slip out of place...?{p}{v:006E}Or was our meeting that day the first mistake of all...?{p}{v:006F}But lamenting it here will never take us back to that{n}day!",
+   "en": "{v:006D}When did the gears of fate slip out of place...?{p}{v:006E}Or was our meeting that day the first mistake of all...?{p}{v:006F}But lamenting it here will never take us back to{n}that day!",
    "term": "end"
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "scen194.0062",
    "jp": "‥‥{v:002C}やるな。{FFF9}{FFFB}{n}{v:002D}これ以上被害を増やすのは得策ではないか‥‥。{p}{v:002E}総員、退却準備！{n}ガラシールズに戻って体勢を立て直す！",
-   "en": "...{v:002C}Well fought.{FFF9}{FFFB} {v:002D}It would be unwise to suffer further{n}losses...{p}{v:002E}All troops, prepare to retreat! We will return to{n}Galashiels and regroup!",
+   "en": "...{v:002C}Well fought.{FFF9}{FFFB} {v:002D}It would be unwise to suffer{n}further losses...{p}{v:002E}All troops, prepare to retreat! We will return to{n}Galashiels and regroup!",
    "term": "end"
   },
   {

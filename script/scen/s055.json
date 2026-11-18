@@ -45,7 +45,7 @@
   {
    "id": "scen055.0006",
    "jp": "{v:0002}当たり前だろ？{n}ここはバーンシュタイン内だし、{n}王母を幽閉しているようなところだぞ？",
-   "en": "{v:0002}Of course there are. We're in Burnstein, and this is{n}where they're keeping the Queen Mother locked up,{n}remember?",
+   "en": "{v:0002}Of course there are. We're in Burnstein, and this is{n}where they're keeping the Queen Mother locked{n}up, remember?",
    "term": "end"
   },
   {
@@ -367,7 +367,7 @@
   {
    "id": "scen055.0059",
    "jp": "{v:0037}そうらしいです。{FFF9}{FFFB}{n}‥‥{v:0038}自分でも信じられないけど。{p}{FC07}{FA60}{v:0039}このブレスレットが証拠だそうです。",
-   "en": "{v:0037}That's what I've been told.{FFF9}{FFFB} ...{v:0038}I can hardly believe it{n}myself.{p}{FC07}{FA60}{v:0039}Apparently, this bracelet is the proof.",
+   "en": "{v:0037}That's what I've been told.{FFF9}{FFFB} ...{v:0038}I can hardly believe{n}it myself.{p}{FC07}{FA60}{v:0039}Apparently, this bracelet is the proof.",
    "term": "end"
   },
   {
@@ -385,7 +385,7 @@
   {
    "id": "scen055.0062",
    "jp": "{v:003C}そのブレスレットの内側には、王子の誕生を祝う{n}宮廷魔術師３人の署名が彫り込まれているのです。{p}{v:003D}おそらく偽者のブレスレットは表面だけを{n}真似たものでしょう。",
-   "en": "{v:003C}Inside that bracelet are the engraved signatures of{n}three Court Magicians, commemorating the prince's{n}birth.{p}{v:003D}The impostor's bracelet is most likely a copy of the{n}outside alone.",
+   "en": "{v:003C}Inside that bracelet are the engraved signatures of{n}three Court Magicians, commemorating the{n}prince's birth.{p}{v:003D}The impostor's bracelet is most likely a copy of the{n}outside alone.",
    "term": "end"
   },
   {
@@ -409,7 +409,7 @@
   {
    "id": "scen055.0066",
    "jp": "{v:0041}心配しなくても、それより確かな方法があります。{p}{v:0042}後ろを向いて首筋を見せてください。",
-   "en": "{v:0041}Do not worry. There is a more certain way.{p}{v:0042}Please turn around and show me the back of your{n}neck.",
+   "en": "{v:0041}Do not worry. There is a more certain way.{p}{v:0042}Please turn around and show me the back of{n}your neck.",
    "term": "end"
   },
   {
@@ -469,7 +469,7 @@
   {
    "id": "scen055.0076",
    "jp": "{v:004F}とにかく、これで今の王が始めた戦争を止められるね！",
-   "en": "{v:004F}Anyway, now we can stop the war the current king{n}started!",
+   "en": "{v:004F}Anyway, now we can stop the war the current{n}king started!",
    "term": "end"
   },
   {
@@ -535,7 +535,7 @@
   {
    "id": "scen055.0087",
    "jp": "アンジェラ様も。{n}どちらかお出かけですか？",
-   "en": "Angela-sama, you are here as well. Are you going{n}somewhere?",
+   "en": "Angela-sama, you are here as well. Are you{n}going somewhere?",
    "term": "end"
   },
   {
@@ -559,7 +559,7 @@
   {
    "id": "scen055.0091",
    "jp": "これはアンジェラ様。{n}お城に戻られるのですね。",
-   "en": "Ah, Angela-sama. You are returning to the castle,{n}then.",
+   "en": "Ah, Angela-sama. You are returning to the{n}castle, then.",
    "term": "end"
   },
   {
@@ -601,7 +601,7 @@
   {
    "id": "scen055.0098",
    "jp": "{v:005D}母上を城へお連れするのだ。{n}私の計画に必要なのでな。",
-   "en": "{v:005D}I am taking Mother to the castle. She is needed for my{n}plans.",
+   "en": "{v:005D}I am taking Mother to the castle. She is needed for{n}my plans.",
    "term": "end"
   },
   {
@@ -661,7 +661,7 @@
   {
    "id": "scen055.0108",
    "jp": "兵士が見ているところでテレポートはまずいだろ。",
-   "en": "Using Teleport with soldiers watching would be a bad{n}idea.",
+   "en": "Using Teleport with soldiers watching would be a{n}bad idea.",
    "term": "end"
   },
   {

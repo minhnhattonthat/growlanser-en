@@ -255,7 +255,7 @@
   {
    "id": "scen153.0041",
    "jp": "温泉のご利用の方は、{n}先にこちらで料金をお支払い下さい。",
-   "en": "If you're here to use the hot springs, please pay here{n}first.",
+   "en": "If you're here to use the hot springs, please pay{n}here first.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen153.0050",
    "jp": "温泉のご利用ですか？{n}２０エルムになりますが。",
-   "en": "Would you like to use the hot springs? That will be 20{n}Elm.",
+   "en": "Would you like to use the hot springs? That will be{n}20 Elm.",
    "term": "end"
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "scen153.0057",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "Where do you think you're going, leaving everyone{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {

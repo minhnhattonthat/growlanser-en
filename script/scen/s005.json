@@ -153,13 +153,13 @@
   {
    "id": "scen005.0024",
    "jp": "男が死んでいる。{n}副学院長の知り合いだそうだが‥‥。",
-   "en": "A man lies dead. Apparently, he knew the Vice{n}Headmaster...",
+   "en": "A man lies dead. Apparently, he knew the{n}Vice Headmaster...",
    "term": "end"
   },
   {
    "id": "scen005.0025",
    "jp": "ここで男が死んでいた。{n}副学院長の知り合いだそうだが‥‥。",
-   "en": "A man lay dead here. Apparently, he knew the Vice{n}Headmaster...",
+   "en": "A man lay dead here. Apparently, he knew the{n}Vice Headmaster...",
    "term": "end"
   },
   {
@@ -260,13 +260,13 @@
   {
    "id": "scen005.0041",
    "jp": "{v:004A}この人が殺されたときに、{n}犯人の女性からピアスを奪ったんだね？{n}でも、ピアスをしてた人って誰だろ？",
-   "en": "{v:004A}So when this man was killed, he snatched the earring{n}from the woman who did it? But who was wearing an{n}earring?",
+   "en": "{v:004A}So when this man was killed, he snatched the earring{n}from the woman who did it? But who was wearing{n}an earring?",
    "term": "end"
   },
   {
    "id": "scen005.0042",
    "jp": "{v:004B}でも、いなくなったグローシアンが持ってた{n}ピアスだったら？",
-   "en": "{v:004B}But what if the earring belonged to one of the missing{n}Growsians?",
+   "en": "{v:004B}But what if the earring belonged to one of the{n}missing Growsians?",
    "term": "end"
   },
   {
@@ -332,7 +332,7 @@
   {
    "id": "scen005.0053",
    "jp": "ここで、おしまいみたいだね。{n}この扉の向こうはどうなってるのかな？",
-   "en": "Looks like it ends here. I wonder what's behind this{n}door?",
+   "en": "Looks like it ends here. I wonder what's behind{n}this door?",
    "term": "end"
   },
   {

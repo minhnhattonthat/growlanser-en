@@ -135,7 +135,7 @@
   {
    "id": "scen079.0021",
    "jp": "調査隊を送ってすぐに崩落事故があったんだ。{n}関係者以外は入れちゃもらえないだろうな。",
-   "en": "There was a cave-in right after they sent in the{n}survey team. I doubt they'll let anyone in who isn't{n}involved.",
+   "en": "There was a cave-in right after they sent in the{n}survey team. I doubt they'll let anyone in who{n}isn't involved.",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen079.0031",
    "jp": "{v:0024}透明人間にでもなれれば気づかれないかも‥‥。",
-   "en": "{v:0024}Maybe they wouldn't notice us if we could turn{n}invisible...",
+   "en": "{v:0024}Maybe they wouldn't notice us if we could{n}turn invisible...",
    "term": "end"
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "scen079.0044",
    "jp": "‥‥{v:0059}許せねぇ！{n}ヴェンツェルの奴、絶対に許せねぇ！",
-   "en": "...{v:0059}I won't forgive him! I'll never forgive that bastard{n}Wenzel!",
+   "en": "...{v:0059}I won't forgive him! I'll never forgive that{n}bastard Wenzel!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen079.0054",
    "jp": "{v:0015}お前が育つまでの１４年間。{n}私たちは親代わりをするという任務を果たした。{p}{v:0016}任務が終われば、もう親子ごっこは終わりだ。",
-   "en": "{v:0015}For fourteen years, while you grew up, we carried out{n}our mission of acting as your parents.{p}{v:0016}Now that our mission is over, so is this game of playing{n}family.",
+   "en": "{v:0015}For fourteen years, while you grew up, we carried out{n}our mission of acting as your parents.{p}{v:0016}Now that our mission is over, so is this game of{n}playing family.",
    "term": "end"
   },
   {
@@ -555,7 +555,7 @@
   {
    "id": "scen079.0090",
    "jp": "{v:003B}何言ってんのよ！{n}アタシたち、幽霊にあったじゃない！",
-   "en": "{v:003B}What are you talking about?! We met a ghost,{n}remember?!",
+   "en": "{v:003B}What are you talking about?! We met a{n}ghost, remember?!",
    "term": "end"
   },
   {
@@ -639,7 +639,7 @@
   {
    "id": "scen079.0104",
    "jp": "{v:004A}結構しっかりしてるわね。{n}全然崩れそうな心配はないわよ。",
-   "en": "{v:004A}It's pretty solid. No need to worry about it collapsing at{n}all!",
+   "en": "{v:004A}It's pretty solid. No need to worry about it collapsing{n}at all!",
    "term": "end"
   },
   {
@@ -663,7 +663,7 @@
   {
    "id": "scen079.0108",
    "jp": "{v:004F}調査団が遭った崩落事故の現場じゃねぇか？",
-   "en": "{v:004F}Could this be where the survey team got caught in that{n}cave-in?",
+   "en": "{v:004F}Could this be where the survey team got caught in{n}that cave-in?",
    "term": "end"
   },
   {
@@ -693,7 +693,7 @@
   {
    "id": "scen079.0113",
    "jp": "{v:0053}さっさと詰め込むんだ！{n}人目がないうちに外へ運び出すぞ。",
-   "en": "{v:0053}Hurry up and pack it in! We'll haul it out while no one's{n}looking.",
+   "en": "{v:0053}Hurry up and pack it in! We'll haul it out while no{n}one's looking.",
    "term": "end"
   },
   {
@@ -765,7 +765,7 @@
   {
    "id": "scen079.0125",
    "jp": "{v:006C}う～ん‥‥。{n}そう簡単には、壊れそうもないんだけどなぁ‥‥。",
-   "en": "{v:006C}Hmm... It doesn't look like it'd break that easily,{n}though...",
+   "en": "{v:006C}Hmm... It doesn't look like it'd break that{n}easily, though...",
    "term": "end"
   },
   {
@@ -867,7 +867,7 @@
   {
    "id": "scen079.0142",
    "jp": "{v:007A}さすが！{n}昔ここの警備をしていただけのことはあるね？",
-   "en": "{v:007A}Nice! You really did guard this place back in the day,{n}huh?",
+   "en": "{v:007A}Nice! You really did guard this place back in the{n}day, huh?",
    "term": "end"
   },
   {
@@ -921,7 +921,7 @@
   {
    "id": "scen079.0151",
    "jp": "{v:0084}それもわからんな‥‥。{n}だが、もしそうだとしたら、水晶鉱山を見つけても、{n}うかつに掘るのは危険だ。",
-   "en": "{v:0084}Don't know that either... But if there are, digging{n}carelessly into any crystal mine we find could be{n}dangerous.",
+   "en": "{v:0084}Don't know that either... But if there are, digging{n}carelessly into any crystal mine we find could{n}be dangerous.",
    "term": "end"
   },
   {

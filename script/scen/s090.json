@@ -39,7 +39,7 @@
   {
    "id": "scen090.0005",
    "jp": "{v:0023}ジュリアンさんが来てくれて助かったね、お兄ちゃん。",
-   "en": "{v:0023}It's a good thing Julian-san came to help, isn't it, Big{n}Brother?",
+   "en": "{v:0023}It's a good thing Julian-san came to help, isn't it,{n}Big Brother?",
    "term": "end"
   },
   {
@@ -57,7 +57,7 @@
   {
    "id": "scen090.0008",
    "jp": "‥‥{v:0026}うむ。{n}それを聞いて納得するなら、話してやる。{p}{v:0027}十数年前、俺はある傭兵団にいた。{n}だがある事故で傭兵団は壊滅してしまった。{p}{v:0028}その時、行方不明になった団長を探している。",
-   "en": "...{v:0026}All right. If hearing it will satisfy you, I'll tell you.{p}{v:0027}Over ten years ago, I belonged to a mercenary{n}company. An accident wiped us out.{p}{v:0028}Our captain went missing then. I've been looking for{n}him.",
+   "en": "...{v:0026}All right. If hearing it will satisfy you, I'll tell you.{p}{v:0027}Over ten years ago, I belonged to a mercenary{n}company. An accident wiped us out.{p}{v:0028}Our captain went missing then. I've been looking{n}for him.",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen090.0020",
    "jp": "‥‥{v:0037}私も‥‥私もしばらく一緒にいて良いか？{n}皆の生き様を見ながら、{n}私なりの信念について考えてみたい。",
-   "en": "...{v:0037}May I... may I stay with you a while, too? I would like{n}to watch how you all live and reflect on my own{n}convictions.",
+   "en": "...{v:0037}May I... may I stay with you a while, too? I would like{n}to watch how you all live and reflect on my{n}own convictions.",
    "term": "end"
   },
   {
@@ -210,7 +210,7 @@
   {
    "id": "scen090.0033",
    "jp": "{v:0041}気を悪くしないでね、{n}お兄ちゃんって気むずかしいから‥‥。",
-   "en": "{v:0041}Please don't be upset. Big Brother can be hard to{n}please...",
+   "en": "{v:0041}Please don't be upset. Big Brother can be hard{n}to please...",
    "term": "end"
   },
   {
@@ -234,7 +234,7 @@
   {
    "id": "scen090.0037",
    "jp": "{v:0045}それじゃ、村へ戻るか。{n}それとも中で休んでいくか？",
-   "en": "{v:0045}Well, shall we head back to the village? Or rest inside{n}first?",
+   "en": "{v:0045}Well, shall we head back to the village? Or rest{n}inside first?",
    "term": "end"
   },
   {
@@ -374,7 +374,7 @@
   {
    "id": "scen090.0060",
    "jp": "う～ん、元気★元気！{n}それじゃ、戻ろうよ！",
-   "en": "Mmm, all rested and ready to go! Come on, let's head{n}back!",
+   "en": "Mmm, all rested and ready to go! Come on, let's{n}head back!",
    "term": "end"
   },
   {
@@ -524,7 +524,7 @@
   {
    "id": "scen090.0085",
    "jp": "『{FFEF}回復薬{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}healing potion{FFF1}', but you cannot carry any{n}more...",
+   "en": "Found a '{FFEF}healing potion{FFF1}', but you cannot carry{n}any more...",
    "term": "end"
   },
   {
@@ -665,7 +665,7 @@
   {
    "id": "scen090.0108",
    "jp": "{v:0021}とにかく、助かったんだ。{n}それで良かったじゃねぇか。",
-   "en": "{v:0021}Whatever it was, we're alive. That's good enough, isn't{n}it?",
+   "en": "{v:0021}Whatever it was, we're alive. That's good enough,{n}isn't it?",
    "term": "end"
   },
   {

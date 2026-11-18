@@ -51,7 +51,7 @@
   {
    "id": "scen217.0007",
    "jp": "{v:0033}入ってきたのがあそこだから、{n}指向性を、こう変えて‥‥。",
-   "en": "{v:0033}We came in over there, so if I adjust the direction like{n}this...",
+   "en": "{v:0033}We came in over there, so if I adjust the direction{n}like this...",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen217.0022",
    "jp": "{v:0016}やっぱりあの匂い袋を持っている奴を狙ってるのか？",
-   "en": "{v:0016}So they really are after whoever's carrying that scent{n}pouch?",
+   "en": "{v:0016}So they really are after whoever's carrying that{n}scent pouch?",
    "term": "end"
   },
   {
@@ -186,7 +186,7 @@
   {
    "id": "scen217.0029",
    "jp": "{s:0000}からルイセに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Luise?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Luise?",
    "term": "end"
   },
   {
@@ -198,7 +198,7 @@
   {
    "id": "scen217.0031",
    "jp": "{s:0000}からウォレスに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Wallace?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Wallace?",
    "term": "end"
   },
   {
@@ -210,7 +210,7 @@
   {
    "id": "scen217.0033",
    "jp": "{s:0000}からミーシャに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Misha?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Misha?",
    "term": "end"
   },
   {
@@ -222,7 +222,7 @@
   {
    "id": "scen217.0035",
    "jp": "{s:0000}からアリオストに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Ariost?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Ariost?",
    "term": "end"
   },
   {
@@ -234,7 +234,7 @@
   {
    "id": "scen217.0037",
    "jp": "{s:0000}からカレンに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Karen?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Karen?",
    "term": "end"
   },
   {
@@ -246,7 +246,7 @@
   {
    "id": "scen217.0039",
    "jp": "{s:0000}からゼノスに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Xenos?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Xenos?",
    "term": "end"
   },
   {
@@ -258,7 +258,7 @@
   {
    "id": "scen217.0041",
    "jp": "{s:0000}からエリオットに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Elliot?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Elliot?",
    "term": "end"
   },
   {
@@ -270,7 +270,7 @@
   {
    "id": "scen217.0043",
    "jp": "{s:0000}からジュリアンに{n}匂い袋を渡しますか？",
-   "en": "Pass the scent pouch from {s:0000} to{n}Julian?",
+   "en": "Pass the scent pouch from {s:0000}{n}to Julian?",
    "term": "end"
   },
   {
@@ -666,7 +666,7 @@
   {
    "id": "scen217.0109",
    "jp": "{v:0040}やれやれ、やっとたどり着いたわい。{p}{v:0041}ワシはこれで帰らせてもらう。{n}後はお前さんたち次第じゃ！{p}{v:0042}がんばってくれよ！",
-   "en": "{v:0040}Whew, finally made it, eh?{p}{v:0041}I'll be heading back now. The rest is up to you{n}youngsters!{p}{v:0042}Give it your best!",
+   "en": "{v:0040}Whew, finally made it, eh?{p}{v:0041}I'll be heading back now. The rest is up to{n}you youngsters!{p}{v:0042}Give it your best!",
    "term": "end"
   },
   {

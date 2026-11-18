@@ -33,7 +33,7 @@
   {
    "id": "scen242.0004",
    "jp": "平和だなぁ。{n}戦っているなんて嘘みたいです。",
-   "en": "It's so peaceful. It's hard to believe we've been{n}fighting.",
+   "en": "It's so peaceful. It's hard to believe we've{n}been fighting.",
    "term": "end"
   },
   {

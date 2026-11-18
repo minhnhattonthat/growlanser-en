@@ -21,7 +21,7 @@
   {
    "id": "scen232.0002",
    "jp": "それじゃ、戦い方の説明をするわよ！{n}アンタはまだ魔法使えないから、{n}基本的な攻撃方法からね。{p}まずメニューが表示されたら、{n}次の流れで命令をしていけば大丈夫だよ。{p}{FFEE}１{FFF1}－{FFEF}命令内容を選ぶ{FFF0}♥{FFF1}{n}　　って{FFEE}ＡＴＴＡＣＫ{FFF1}（攻撃）か{FFEE}ＭＯＶＥ{FFF1}（移動）{n}　　くらいしか、今はやれないんだけど‥‥。{p}{FFEE}２{FFF1}－{FFEF}目標を選ぶ{FFF0}♥{FFF1}{n}　　攻撃するときは攻撃目標を選択。{n}　　移動するときは移動したい場所を選んでね。{p}あとは勝手に動き出すはずだから、{n}さっそく始めてみて！",
-   "en": "Okay, I'll explain how to fight! You can't use magic yet,{n}so we'll start with the basics of attacking.{p}Once the menu appears, just follow these steps to give{n}orders.{p}{FFEE}1{FFF1}--{FFEF}Choose a command{FFF0}♥{FFF1} Though right now, you can{n}pretty much only use {FFEE}ATTACK{FFF1} (attack) or {FFEE}MOVE{FFF1}{n}(move)...{p}{FFEE}2{FFF1}--{FFEF}Choose a target{FFF0}♥{FFF1} When attacking, choose your{n}attack target. When moving, choose the spot you want{n}to move to.{p}After that, you should start moving on your own, so go{n}ahead and give it a try!",
+   "en": "Okay, I'll explain how to fight! You can't use magic yet,{n}so we'll start with the basics of attacking.{p}Once the menu appears, just follow these steps to{n}give orders.{p}{FFEE}1{FFF1}--{FFEF}Choose a command{FFF0}♥{FFF1} Though right now, you can{n}pretty much only use {FFEE}ATTACK{FFF1} (attack) or {FFEE}MOVE{FFF1}{n}(move)...{p}{FFEE}2{FFF1}--{FFEF}Choose a target{FFF0}♥{FFF1} When attacking, choose your{n}attack target. When moving, choose the spot you want{n}to move to.{p}After that, you should start moving on your own, so go{n}ahead and give it a try!",
    "term": "end"
   },
   {
@@ -33,7 +33,7 @@
   {
    "id": "scen232.0004",
    "jp": "敵が目前に迫ってきたよ！{p}{FC00}いよいよ攻撃が始まるけど、{n}気を付けておきたいのはＨＰかな？{p}ふだん、画面下に数字とメーターが出てると思うけど{n}左上の数字がＨＰ、右下がＭＰ。{n}んで下のメーターは‥‥、後で説明するわ。{p}{FC02}ＨＰが０になると、そいつの負け。{n}今はアンタしかいないから、{n}アンタのＨＰが０になったら、ゲームオーバーだよ。{p}{FC00}危なくなったら、アイテムの『{FFEF}回復薬{FFF1}』なんかを{n}使うといいわよ。",
-   "en": "The enemy's right on top of you!{p}{FC00}The fighting's about to start, so you'd better keep an{n}eye on your HP!{p}You usually see some numbers and a gauge at the{n}bottom of the screen, right? HP is the number at the{n}upper left, and MP is at the lower right. As for the{p}gauge underneath... I'll explain that later.{p}{FC02}When someone's HP hits 0, they're out. You're the only{n}one fighting right now, so if YOUR HP hits 0, it's game{n}over!{p}{FC00}If things get dangerous, try using an item like a{n}'{FFEF}healing potion{FFF1}'.",
+   "en": "The enemy's right on top of you!{p}{FC00}The fighting's about to start, so you'd better keep an{n}eye on your HP!{p}You usually see some numbers and a gauge at the{n}bottom of the screen, right? HP is the number at the{n}upper left, and MP is at the lower right. As for the{p}gauge underneath... I'll explain that later.{p}{FC02}When someone's HP hits 0, they're out. You're the only{n}one fighting right now, so if YOUR HP hits 0, it's{n}game over!{p}{FC00}If things get dangerous, try using an item like a{n}'{FFEF}healing potion{FFF1}'.",
    "term": "end"
   },
   {

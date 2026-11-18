@@ -116,7 +116,7 @@
   {
    "id": "scen013.0017",
    "jp": "魔法学院はもう行ったじゃない。{n}やめようよ～。",
-   "en": "We've already been to the Magic Academy! Let's not go{n}agaaain.",
+   "en": "We've already been to the Magic Academy! Let's not{n}go agaaain.",
    "term": "end"
   },
   {
@@ -128,7 +128,7 @@
   {
    "id": "scen013.0019",
    "jp": "もう行ったじゃない！{n}別なとこ行きたい！",
-   "en": "We've already been there! I want to go somewhere{n}else!",
+   "en": "We've already been there! I want to go{n}somewhere else!",
    "term": "end"
   },
   {

@@ -27,7 +27,7 @@
   {
    "id": "scen075.0003",
    "jp": "{v:0059}ここがその渓谷だな？{p}{v:005A}俺の目じゃ、よく見えん。{n}状況を教えてくれ。",
-   "en": "{v:0059}This is the gorge, right?{p}{v:005A}Can't see much with these eyes. Tell me what's{n}happening.",
+   "en": "{v:0059}This is the gorge, right?{p}{v:005A}Can't see much with these eyes. Tell me{n}what's happening.",
    "term": "end"
   },
   {
@@ -45,7 +45,7 @@
   {
    "id": "scen075.0006",
    "jp": "{v:005E}橋をつくっているだと！{p}{v:005F}クッ！{n}奴ら南の森を迂回せず、最短距離を進むために{n}ここに橋をつくっているんだ！{p}{v:0060}やばいな。このままじゃすぐに攻め込まれる‥‥。{p}{v:0061}俺の目じゃ、よく見えん。{n}状況を教えてくれ。",
-   "en": "{v:005E}They're building a bridge?!{p}{v:005F}Damn! They're building it here to take the shortest{n}route instead of going around the forest to the south!{p}{v:0060}This is bad. At this rate, they'll be on us in no time...{p}{v:0061}Can't see much with these eyes. Tell me what's{n}happening.",
+   "en": "{v:005E}They're building a bridge?!{p}{v:005F}Damn! They're building it here to take the shortest{n}route instead of going around the forest to the south!{p}{v:0060}This is bad. At this rate, they'll be on us in no time...{p}{v:0061}Can't see much with these eyes. Tell me{n}what's happening.",
    "term": "end"
   },
   {
@@ -63,7 +63,7 @@
   {
    "id": "scen075.0009",
    "jp": "{v:0064}それから作業をしている兵士が２人と、{n}警備員が４人いるよ！",
-   "en": "{v:0064}And there are two soldiers doing the work, plus four{n}guards!",
+   "en": "{v:0064}And there are two soldiers doing the work, plus{n}four guards!",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen075.0011",
    "jp": "この状況に対して、何か提案はありますか？",
-   "en": "Do you have any suggestions for dealing with this{n}situation?",
+   "en": "Do you have any suggestions for dealing with{n}this situation?",
    "term": "end"
   },
   {
@@ -114,7 +114,7 @@
   {
    "id": "scen075.0017",
    "jp": "{v:006B}そうかも知んないけど、{n}援軍が来るのとどっちが早いかなぁ。",
-   "en": "{v:006B}Maybe, but would that be quicker than waiting for{n}reinforcements?",
+   "en": "{v:006B}Maybe, but would that be quicker than waiting{n}for reinforcements?",
    "term": "end"
   },
   {
@@ -228,7 +228,7 @@
   {
    "id": "scen075.0036",
    "jp": "{v:0092}あ、将軍！{n}実はあのローランディアの連中が橋を！",
-   "en": "{v:0092}Oh, General! Those people from Rolandia did this to the{n}bridge!",
+   "en": "{v:0092}Oh, General! Those people from Rolandia did this to{n}the bridge!",
    "term": "end"
   },
   {
@@ -282,7 +282,7 @@
   {
    "id": "scen075.0045",
    "jp": "{v:009E}ね、ジュリアン！{n}戦争は本当なの？{n}どうしてそんなことに？",
-   "en": "{v:009E}Hey, Julian! Is it true we're at war? How did this{n}happen?",
+   "en": "{v:009E}Hey, Julian! Is it true we're at war? How did{n}this happen?",
    "term": "end"
   },
   {
@@ -294,7 +294,7 @@
   {
    "id": "scen075.0047",
    "jp": "{v:00A1}それじゃグレッグ卿が斬りかかったって、{n}本当だったの‥‥。{FFF9}{FFFB}{n}{v:00A2}そんな‥‥。",
-   "en": "{v:00A1}Then it's true that Lord Greg attacked him...{FFF9}{FFFB}{v:00A2}It can't{n}be...",
+   "en": "{v:00A1}Then it's true that Lord Greg attacked him...{FFF9}{FFFB}{v:00A2}It{n}can't be...",
    "term": "end"
   },
   {
@@ -486,7 +486,7 @@
   {
    "id": "scen075.0079",
    "jp": "{FFF5}{v:00C5}それより途中でロープが切れちゃったりしたら、{n}谷底に落ちちゃって、{n}そうしたら絶対に助からなくって‥‥。",
-   "en": "{FFF5}{v:00C5}Worse, what if the rope snaps halfway across? I'll fall{n}to the bottom of the ravine, and there's no way I'd{n}survive...",
+   "en": "{FFF5}{v:00C5}Worse, what if the rope snaps halfway across? I'll fall{n}to the bottom of the ravine, and there's no way{n}I'd survive...",
    "term": "end"
   },
   {

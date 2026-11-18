@@ -39,7 +39,7 @@
   {
    "id": "scen257.0005",
    "jp": "そうか、アリオストさんは{n}ミーシャが好きなんだもんね。",
-   "en": "Oh, right. You're in love with Misha, aren't you,{n}Ariost-san?",
+   "en": "Oh, right. You're in love with Misha, aren't{n}you, Ariost-san?",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen257.0010",
    "jp": "それからね、なんとなく彼女が{n}目に付くようになったんだよ。{FFFB}{n}なにしろ‥‥目立つからね[01BE]。{p}しかし、観察していると非常に興味が湧いてきた。{n}彼女には注意力も学習能力も欠けている。{p}だが、根底にはそれを埋めようと努力する{n}強い意志がある。{p}歩みは遅くても、彼女は少しずつ成長しているんだ。{n}そして僕は思ったんだよ。{n}彼女をずっと見ていたいって。",
-   "en": "After that, I somehow found myself noticing her more{n}often.{FFFB} She does... stand out, after all[01BE].{p}But the more I observed her, the more she intrigued{n}me. She lacks both attentiveness and an aptitude for{n}learning.{p}Yet beneath that, she has a strong will to work hard{n}and make up for those shortcomings.{p}Her progress may be slow, but she is growing, little by{n}little. And I found myself thinking... I wanted to keep{n}watching her, always.",
+   "en": "After that, I somehow found myself noticing her more{n}often.{FFFB} She does... stand out, after all[01BE].{p}But the more I observed her, the more she intrigued{n}me. She lacks both attentiveness and an aptitude{n}for learning.{p}Yet beneath that, she has a strong will to work hard{n}and make up for those shortcomings.{p}Her progress may be slow, but she is growing, little by{n}little. And I found myself thinking... I wanted to keep{n}watching her, always.",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen257.0031",
    "jp": "{v:004F}ふ～ん、そうなんだ‥‥。{FFFB}{n}{v:0050}アリオストさんって、ミーシャが好きだったんだ★",
-   "en": "{v:004F}Hmm, so that's it...{FFFB}{v:0050}You've got a crush on Misha,{n}Ariost-san!",
+   "en": "{v:004F}Hmm, so that's it...{FFFB}{v:0050}You've got a crush on{n}Misha, Ariost-san!",
    "term": "end"
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "scen257.0043",
    "jp": "まぁ、はっきり言っておいた方がいいかな？{n}僕はミーシャ君が好きだ。{p}{s:0000}君、{n}君がミーシャ君と出会うずっと前からね。",
-   "en": "Well, perhaps I should say it plainly. I'm in love with{n}Misha-kun.{p}I have been since long before you met Misha-kun,{n}{s:0000}.",
+   "en": "Well, perhaps I should say it plainly. I'm in love{n}with Misha-kun.{p}I have been since long before you met Misha-kun,{n}{s:0000}.",
    "term": "end"
   },
   {
@@ -330,13 +330,13 @@
   {
    "id": "scen257.0052",
    "jp": "君はさっき、ミーシャ君には{n}気がないと言ったはずだが‥‥。",
-   "en": "I thought you just said you weren't interested in{n}Misha-kun...",
+   "en": "I thought you just said you weren't interested{n}in Misha-kun...",
    "term": "end"
   },
   {
    "id": "scen257.0053",
    "jp": "お互いにがんばろう。{n}どっちが勝っても恨みっこなしだ。{n}現時点では君の方が有利だろうけどね‥‥。",
-   "en": "Let's both do our best. No hard feelings, whoever{n}wins. Though you probably have the advantage at the{n}moment...",
+   "en": "Let's both do our best. No hard feelings, whoever{n}wins. Though you probably have the advantage at{n}the moment...",
    "term": "end"
   },
   {
@@ -348,7 +348,7 @@
   {
    "id": "scen257.0055",
    "jp": "これって、フェザーランドへ行ったときに{n}使った飛行機械だよね？",
-   "en": "Isn't this the flying machine we used when we went to{n}Featherland?",
+   "en": "Isn't this the flying machine we used when we went{n}to Featherland?",
    "term": "end"
   },
   {
@@ -411,7 +411,7 @@
   {
    "id": "scen257.0065",
    "jp": "{v:0003}なにかな？{n}僕に分かることなら教えられるけど。",
-   "en": "{v:0003}What is it? If I know the answer, I'll be happy to tell{n}you.",
+   "en": "{v:0003}What is it? If I know the answer, I'll be happy to{n}tell you.",
    "term": "end"
   },
   {
@@ -474,7 +474,7 @@
   {
    "id": "scen257.0075",
    "jp": "{v:000D}ありがとう。その時にはぜひ頼むよ。{p}{FC00}{v:000E}できなければ、一生母さんには会えないからね。{n}絶対にやりとげる。",
-   "en": "{v:000D}Thank you. When the time comes, I'll certainly ask for{n}your help.{p}{FC00}{v:000E}If I fail, I'll never see my mother again. I have to{n}succeed.",
+   "en": "{v:000D}Thank you. When the time comes, I'll certainly ask for{n}your help.{p}{FC00}{v:000E}If I fail, I'll never see my mother again. I have{n}to succeed.",
    "term": "end"
   },
   {
@@ -543,7 +543,7 @@
   {
    "id": "scen257.0086",
    "jp": "古代文明の事は、{n}まだまだわかっていない事が多いんだよ。",
-   "en": "There's still so much we don't know about ancient{n}civilizations.",
+   "en": "There's still so much we don't know about{n}ancient civilizations.",
    "term": "end"
   },
   {
@@ -612,7 +612,7 @@
   {
    "id": "scen257.0097",
    "jp": "{v:001A}僕はこうやって魔法機械を研究しているけど、{n}昔のグローシアン文明の魔法機械は遙かに進んでいた。{p}{v:001B}だけど、記録にしか残っていないものが多くてね‥‥。{p}{v:001C}いったい過去にはどんなものがあったのか、{n}どんな働きをしていたのか、{n}そしてそれはどのような恩恵を与えていたのか‥‥。{p}{v:001D}そんな事を考えていたんだ。",
-   "en": "{v:001A}I study magical machinery like this, but the machinery{n}of the ancient Growsian civilization was far more{n}advanced.{p}{v:001B}Still, much of it survives only in records...{p}{v:001C}What sorts of things existed back then? What did they{n}do? And how did they benefit people...?{p}{v:001D}Those are the things I was thinking about.",
+   "en": "{v:001A}I study magical machinery like this, but the machinery{n}of the ancient Growsian civilization was far{n}more advanced.{p}{v:001B}Still, much of it survives only in records...{p}{v:001C}What sorts of things existed back then? What did they{n}do? And how did they benefit people...?{p}{v:001D}Those are the things I was thinking about.",
    "term": "end"
   },
   {
@@ -666,7 +666,7 @@
   {
    "id": "scen257.0106",
    "jp": "{v:002A}アタシには応援する事くらいしかできないけど、{n}頑張ってねアリオストさん。",
-   "en": "{v:002A}I can't do much except cheer you on, but keep at it,{n}Ariost-san!",
+   "en": "{v:002A}I can't do much except cheer you on, but keep at{n}it, Ariost-san!",
    "term": "end"
   },
   {

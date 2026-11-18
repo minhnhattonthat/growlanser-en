@@ -93,6 +93,16 @@ DICT       equ 0x4800            ; codes DICT + i = dictionary entry i (tools/di
     addu    v0, v1, v0
 .endif
 
+; Place / scene popup (0x8006BA48): its frame is 12 px per code (s4 = code count, used only for that at
+; 0x8006BC94); make s4 the text's pixel width and the frame s4 px.
+.org 0x8006BBB8
+    jal     popup_width          ; a1 = string start (was subu v0, a0, a1 / srl / addu / sra s4, v0, 1)
+    nop
+    move    s4, v0
+    nop
+.org 0x8006BCA0
+    move    a0, s4               ; was sll a0, v0, 2 (v0 = 3 * s4)
+
 .org FREE_START
 ; Windows draw interleaved (typewriter text beside a name tag), so the x is kept per canvas: 4 slots of
 ; (canvas base1, texel x, last col returned, last row), replaced round-robin.
@@ -493,6 +503,25 @@ vwf_width:
 @@ret:
     jr      ra
     nop
+
+; popup_width: v0 = pixel width of the string at a1 (FFFF ends). Uses a0, v1, t3-t9.
+popup_width:
+    move    t5, a1
+    move    t6, ra
+    move    t4, zero
+    ori     t3, zero, 0xFFFF
+@@next:
+    lhu     a0, 0(t5)
+    nop
+    beq     a0, t3, @@end
+    addiu   t5, t5, 2
+    jal     vwf_width
+    nop
+    b       @@next
+    addu    t4, t4, v0
+@@end:
+    jr      t6
+    move    v0, t4
 
 .align 4
 vwf_mstate:                      ; x, col

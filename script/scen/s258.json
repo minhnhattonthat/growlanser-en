@@ -51,7 +51,7 @@
   {
    "id": "scen258.0007",
    "jp": "あの‥‥。{n}{FE1E}さっきはごめんなさい‥‥。{FFFB}{n}言いたいことだけ言って‥‥。{p}私の気持ちをあなたに押しつけてしまいました‥‥。{n}あなたにあなたの気持ちがあることも考えずに‥‥。{p}{s:0000}さん‥‥。{n}あなたはあなたの自我があって、{n}父とは別の人間なんですよね‥‥。{p}例え、父の姿をして、父の血が流れていても、{n}私を助けてくれたあなたは父じゃない‥‥。{p}やっと、わかりました。",
-   "en": "Um... {FE1E}I'm sorry about earlier...{FFFB} I said everything I{n}wanted to say...{p}I forced my feelings on you... Without even considering{n}that you have feelings of your own...{p}{s:0000}... You have your own identity. You're{n}a different person from my father...{p}Even if you look like him and his blood runs through{n}your veins, the person who saved me wasn't my{n}father...{p}I finally understand.",
+   "en": "Um... {FE1E}I'm sorry about earlier...{FFFB} I said everything I{n}wanted to say...{p}I forced my feelings on you... Without even considering{n}that you have feelings of your own...{p}{s:0000}... You have your own identity. You're{n}a different person from my father...{p}Even if you look like him and his blood runs through{n}your veins, the person who saved me wasn't{n}my father...{p}I finally understand.",
    "term": "end"
   },
   {
@@ -63,7 +63,7 @@
   {
    "id": "scen258.0009",
    "jp": "今日はいろいろとすみませんでした。{n}また、来て下さいね。",
-   "en": "I'm sorry for everything today. Please come and see me{n}again.",
+   "en": "I'm sorry for everything today. Please come and see{n}me again.",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen258.0011",
    "jp": "{v:00A9}あの‥、この間は本当にありがとうございました！{p}{v:00AA}本来ならば、私の方から御挨拶に{n}お伺いしなければならないはずなのに‥‥。",
-   "en": "{v:00A9}Um... Thank you so much for what you did the other{n}day!{p}{v:00AA}I should have been the one to come and thank you in{n}person...",
+   "en": "{v:00A9}Um... Thank you so much for what you did the{n}other day!{p}{v:00AA}I should have been the one to come and thank you{n}in person...",
    "term": "end"
   },
   {
@@ -144,7 +144,7 @@
   {
    "id": "scen258.0022",
    "jp": "{v:00B8}はい。{n}それで、言い出すこともできず、{n}ずっと苦しんでいました。{p}{v:00BA}だけど、あなたと出会ってから、{n}気がつくとあなたのことを探していたんです。{p}{v:00BB}最初はあなたに、{n}兄の幻影を重ねてしまっていると思いました。{p}{v:00BC}だけど違ったんです。{p}{v:00BD}助けに来てくれた、あなたの姿を見たとき、{n}あの暗い地下牢に光が射すのを感じました。{n}もう大丈夫、何も心配しなくてもいいって。{p}{v:00BE}だって、あなたが来てくれたから。{n}たとえ死んでも、悔いはない。{n}そんな気持ちでいっぱいでした。{p}{v:00C0}あなたは私を助け出してくれただけでなく、{n}心までも救ってくれたんです。",
-   "en": "{v:00B8}Yes. That's why I could never tell him. It hurt for so{n}long.{p}{v:00BA}But after I met you, I found myself looking for you{n}before I even realized it.{p}{v:00BB}At first, I thought I was seeing my brother's image in{n}you.{p}{v:00BC}But that wasn't it.{p}{v:00BD}When I saw you coming to save me, I felt light shine{n}into that dark dungeon. Everything would be all right.{n}There was nothing to worry about anymore.{p}{v:00BE}Because you had come for me. Even if I died, I would{n}have no regrets. That was all I could feel.{p}{v:00C0}You saved more than my life. You saved my heart,{n}too.",
+   "en": "{v:00B8}Yes. That's why I could never tell him. It hurt for{n}so long.{p}{v:00BA}But after I met you, I found myself looking for you{n}before I even realized it.{p}{v:00BB}At first, I thought I was seeing my brother's image{n}in you.{p}{v:00BC}But that wasn't it.{p}{v:00BD}When I saw you coming to save me, I felt light shine{n}into that dark dungeon. Everything would be all right.{n}There was nothing to worry about anymore.{p}{v:00BE}Because you had come for me. Even if I died, I would{n}have no regrets. That was all I could feel.{p}{v:00C0}You saved more than my life. You saved my{n}heart, too.",
    "term": "end"
   },
   {
@@ -302,7 +302,7 @@
   {
    "id": "scen258.0048",
    "jp": "{v:002B}まったく、ゼノスも妹に心配かけるなんてさ。{n}傭兵なんて止めればいいのに‥‥。",
-   "en": "{v:002B}Honestly, Xenos ought to know better than to make{n}his sister worry. He should just quit being a{n}mercenary...",
+   "en": "{v:002B}Honestly, Xenos ought to know better than to make{n}his sister worry. He should just quit being{n}a mercenary...",
    "term": "end"
   },
   {
@@ -352,13 +352,13 @@
   {
    "id": "scen258.0056",
    "jp": "{v:0031}ま、こいつは殺しても死にそうにないけどね！",
-   "en": "{v:0031}Well, I doubt this guy would stay dead even if you killed{n}him!",
+   "en": "{v:0031}Well, I doubt this guy would stay dead even if you{n}killed him!",
    "term": "end"
   },
   {
    "id": "scen258.0057",
    "jp": "{v:0033}くすくすっ！{FFF9}{FFFB}{n}{v:0034}私、そろそろ行きますね。{n}皆さんのお手伝いしないと。",
-   "en": "{v:0033}*giggle*{FFF9}{FFFB} {v:0034}I should be going now. I need to help{n}everyone.",
+   "en": "{v:0033}*giggle*{FFF9}{FFFB} {v:0034}I should be going now. I need to{n}help everyone.",
    "term": "end"
   },
   {
@@ -457,7 +457,7 @@
   {
    "id": "scen258.0073",
    "jp": "{v:007E}俺に？{p}{v:007F}俺はまたカレンにちょっかいでも{n}かけに来たのかと思ったぜ。",
-   "en": "{v:007E}Me?{p}{v:007F}And here I thought you'd come to make a move on{n}Karen.",
+   "en": "{v:007E}Me?{p}{v:007F}And here I thought you'd come to make a move{n}on Karen.",
    "term": "end"
   },
   {
@@ -475,7 +475,7 @@
   {
    "id": "scen258.0076",
    "jp": "{v:0082}かどわかすって‥‥。{FFF9}{FFFB}{n}{v:0083}もう、何てこと言うのよ！",
-   "en": "{v:0082}Lure me away...?{FFF9}{FFFB} {v:0083}Honestly, how can you say such{n}things?!",
+   "en": "{v:0082}Lure me away...?{FFF9}{FFFB} {v:0083}Honestly, how can you say{n}such things?!",
    "term": "end"
   },
   {
@@ -604,7 +604,7 @@
   {
    "id": "scen258.0097",
    "jp": "{v:0007}ふ～ん、結構しっかりしてる人ね。{n}カレンさんはこんな人が好みなんだ。",
-   "en": "{v:0007}Hmm, he seems quite dependable. So this is your type,{n}Karen-san.",
+   "en": "{v:0007}Hmm, he seems quite dependable. So this is your{n}type, Karen-san.",
    "term": "end"
   },
   {

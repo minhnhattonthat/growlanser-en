@@ -45,13 +45,13 @@
   {
    "id": "scen212.0006",
    "jp": "{v:0006}しかし、御二方は昨日から一度も休みなく‥‥。",
-   "en": "{v:0006}But neither of you has rested even once since{n}yesterday...",
+   "en": "{v:0006}But neither of you has rested even once{n}since yesterday...",
    "term": "end"
   },
   {
    "id": "scen212.0007",
    "jp": "{v:0007}我々が引けば、{n}あっという間にここを突破されるであろうが。",
-   "en": "{v:0007}If we withdraw, they will break through here in an{n}instant.",
+   "en": "{v:0007}If we withdraw, they will break through here in{n}an instant.",
    "term": "end"
   },
   {
@@ -63,19 +63,19 @@
   {
    "id": "scen212.0009",
    "jp": "{v:0009}相手が相手だ。{n}仕方ないさ。{p}{v:000A}とはいえ、正直疲れてきたな。{n}奴らには疲れはないのか？",
-   "en": "{v:0009}Given our opponents, you can hardly be blamed.{p}{v:000A}Still, I must admit I am growing tired. Do they never{n}tire?",
+   "en": "{v:0009}Given our opponents, you can hardly be blamed.{p}{v:000A}Still, I must admit I am growing tired. Do they{n}never tire?",
    "term": "end"
   },
   {
    "id": "scen212.0010",
    "jp": "{v:000B}さあな。{n}ゲヴェルの能力を受け継いでいるとなれば、{n}我々人間をはるかに越えた回復力を持つのかも知れぬ。",
-   "en": "{v:000B}Who knows? If they have inherited Gevel's abilities,{n}their powers of recovery may far surpass those of us{n}humans.",
+   "en": "{v:000B}Who knows? If they have inherited Gevel's abilities,{n}their powers of recovery may far surpass those of{n}us humans.",
    "term": "end"
   },
   {
    "id": "scen212.0011",
    "jp": "{v:000C}泣き言を言いたくはないが、こちらが不利だな。",
-   "en": "{v:000C}I do not wish to complain, but we are at a{n}disadvantage.",
+   "en": "{v:000C}I do not wish to complain, but we are at{n}a disadvantage.",
    "term": "end"
   },
   {

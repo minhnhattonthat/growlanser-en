@@ -69,7 +69,7 @@
   {
    "id": "scen205.0010",
    "jp": "‥‥{v:002C}見覚えのある荷物‥‥‥‥{n}‥‥ってお兄さまのテントじゃない！",
-   "en": "...{v:002C}That luggage looks familiar... Wait, this is Big Brother's{n}tent!",
+   "en": "...{v:002C}That luggage looks familiar... Wait, this is Big{n}Brother's tent!",
    "term": "end"
   },
   {
@@ -153,7 +153,7 @@
   {
    "id": "scen205.0024",
    "jp": "‥‥{v:0035}そいつがそうか。{n}なるほど、陛下に瓜二つだ‥‥。",
-   "en": "...{v:0035}So that's him. I see... He's the spitting image of His{n}Majesty...",
+   "en": "...{v:0035}So that's him. I see... He's the spitting image of{n}His Majesty...",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen205.0046",
    "jp": "騒がしかったようですが、{n}何かあったんですか？",
-   "en": "It sounded rather noisy out here. Did something{n}happen?",
+   "en": "It sounded rather noisy out here. Did{n}something happen?",
    "term": "end"
   },
   {

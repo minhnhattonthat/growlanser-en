@@ -140,7 +140,7 @@
   {
    "id": "msys.skills.0022",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}技にみがきをか{F4DE}{F4BB}{F4C1}{F4DF}良い物を盗み出す{F4BA}発動：通常{F4C3}時",
-   "en": "Steals an item through an opening while attacking.{n}Refined technique yields better items. On normal{n}attacks.",
+   "en": "Steals an item through an opening while attacking.{n}Refined technique yields better items. On{n}normal attacks.",
    "term": "null"
   },
   {
@@ -188,7 +188,7 @@
   {
    "id": "msys.skills.0030",
    "jp": "周囲に己の分身を{F4A0}し、敵を惑わす{F41C}{F4BA}敵の直接{F4C3}を回避し{F4AF}{F4BD}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "Creates doubles around you to confuse foes, making{n}melee attacks easier to evade. When facing normal{n}attacks.",
+   "en": "Creates doubles around you to confuse foes, making{n}melee attacks easier to evade. When facing{n}normal attacks.",
    "term": "null"
   },
   {

@@ -51,7 +51,7 @@
   {
    "id": "scen158.0007",
    "jp": "{v:0026}こないだは、よくも恥をかかせてくれたな！",
-   "en": "{v:0026}You've got some nerve, showing me up like that last{n}time!",
+   "en": "{v:0026}You've got some nerve, showing me up like that{n}last time!",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen158.0020",
    "jp": "人も助けられないなんて、何のための剣術だ！",
-   "en": "What good is swordsmanship if I cannot even save{n}someone?!",
+   "en": "What good is swordsmanship if I cannot even{n}save someone?!",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen158.0056",
    "jp": "{v:0021}言えねぇなぁ！{p}{v:0022}これ以上、邪魔するっていうなら{n}こっちにも考えがある！",
-   "en": "{v:0021}Wouldn't you like to know!{p}{v:0022}Keep getting in my way, and I've got a little plan of my{n}own!",
+   "en": "{v:0021}Wouldn't you like to know!{p}{v:0022}Keep getting in my way, and I've got a little plan of{n}my own!",
    "term": "end"
   },
   {
@@ -411,7 +411,7 @@
   {
    "id": "scen158.0067",
    "jp": "{v:0037}こんなに追っ手がいたなんて‥‥。{FFF9}{FFFB}{n}{v:0038}もうダメだ‥‥。",
-   "en": "{v:0037}I never knew so many people were after us...{FFF9}{FFFB}{v:0038}There's no{n}hope...",
+   "en": "{v:0037}I never knew so many people were after us...{FFF9}{FFFB}{v:0038}There's{n}no hope...",
    "term": "end"
   },
   {

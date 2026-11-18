@@ -81,7 +81,7 @@
   {
    "id": "scen021.0012",
    "jp": "ウォレスさんに会わなくていいの？{n}それとも忘れ物？",
-   "en": "Aren't we going to see Wallace-san? Or did you forget{n}something?",
+   "en": "Aren't we going to see Wallace-san? Or did you{n}forget something?",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen021.0014",
    "jp": "ルイセちゃんを放って、どこに行く気？",
-   "en": "Where do you think you're going, leaving Luise-chan{n}behind?",
+   "en": "Where do you think you're going, leaving{n}Luise-chan behind?",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen021.0042",
    "jp": "{v:0059}やっぱり年長者の言葉は重みが違うわね～。",
-   "en": "{v:0059}Words really do carry more weight when you're older,{n}huh?",
+   "en": "{v:0059}Words really do carry more weight when you're{n}older, huh?",
    "term": "end"
   },
   {
@@ -397,7 +397,7 @@
   {
    "id": "scen021.0064",
    "jp": "{v:0042}怒鳴ったりして、すまなかった。{n}だが、今は１人にしてくれ。",
-   "en": "{v:0042}I am sorry I shouted. But please leave me alone for{n}now.",
+   "en": "{v:0042}I am sorry I shouted. But please leave me alone{n}for now.",
    "term": "end"
   },
   {
@@ -433,7 +433,7 @@
   {
    "id": "scen021.0070",
    "jp": "インペリアル・ナイトまでいたのに、{n}ブローニュ村が滅ぼされたって話じゃないか！{n}誰もヴェンツェルに勝てやしないよ！",
-   "en": "I hear Boulogne Village was destroyed, even with an{n}Imperial Knight there! Nobody stands a chance against{n}Wenzel!",
+   "en": "I hear Boulogne Village was destroyed, even with an{n}Imperial Knight there! Nobody stands a chance{n}against Wenzel!",
    "term": "end"
   },
   {
@@ -469,7 +469,7 @@
   {
    "id": "scen021.0076",
    "jp": "そんなこと言われても誰もここを通ってないからなぁ。",
-   "en": "Well, that doesn't help much. Nobody's come through{n}here.",
+   "en": "Well, that doesn't help much. Nobody's come{n}through here.",
    "term": "end"
   },
   {
@@ -615,7 +615,7 @@
   {
    "id": "scen021.0099",
    "jp": "ワシのバカ息子も、{n}若い頃はお主らのように旅をしておった‥‥。{p}じゃが回復魔法が苦手でのう。{n}いつも薬草ばかり買っているものだから{n}とにかく貧しい暮らしをしておったよ。{p}‥‥今ではどこへ行ったのか。{n}さっぱり連絡をよこさなくなって、{n}もう１０年は経ったかのう。",
-   "en": "That fool son of mine used to travel just like you when{n}he was young...{p}But healing magic was never his strong suit, you see. He{n}was always buying medicinal herbs, so he lived in{n}poverty.{p}...Where has he gone now, I wonder? It must be ten{n}years since he stopped sending word.",
+   "en": "That fool son of mine used to travel just like you when{n}he was young...{p}But healing magic was never his strong suit, you see. He{n}was always buying medicinal herbs, so he lived{n}in poverty.{p}...Where has he gone now, I wonder? It must be ten{n}years since he stopped sending word.",
    "term": "end"
   },
   {
@@ -651,7 +651,7 @@
   {
    "id": "scen021.0105",
    "jp": "洞窟や遺跡にいるモンスターは倒しても、倒しても、{n}どこからともなく集まってきやがる。{p}だから俺が修行をするときには、{n}洞窟へ行くことにしているんだ。{p}‥‥だが、橋が壊れていて、洞窟へ入れないんだ‥‥。",
-   "en": "No matter how many monsters you kill in caves and{n}ruins, the damn things keep coming from who knows{n}where.{p}That's why I head to the cave when I want to train.{p}...But the bridge is broken, so I can't get into the{n}cave...",
+   "en": "No matter how many monsters you kill in caves and{n}ruins, the damn things keep coming from who{n}knows where.{p}That's why I head to the cave when I want to train.{p}...But the bridge is broken, so I can't get into{n}the cave...",
    "term": "end"
   },
   {
@@ -675,7 +675,7 @@
   {
    "id": "scen021.0109",
    "jp": "何事も、ほどほどが一番じゃ。{n}そうは思いませんかな？",
-   "en": "Moderation in all things is best. Wouldn't you agree,{n}eh?",
+   "en": "Moderation in all things is best. Wouldn't you{n}agree, eh?",
    "term": "end"
   },
   {
@@ -741,7 +741,7 @@
   {
    "id": "scen021.0120",
    "jp": "ところで王都から来られたようですが、{n}南東の洞窟へ向かうなら、注意して下され。{p}ただ武器で殴るだけの攻撃では、{n}あそこのスペクターに苦戦しますぞ。{n}幽霊だけに、なかなか攻撃が当たらんのじゃ。",
-   "en": "You seem to have come from the royal capital. If{n}you're heading to the cave to the southeast, take{n}care.{p}You'll have a hard time with the Specters there if all you{n}do is swing your weapons. Being ghosts, they're hard{n}to hit, you see.",
+   "en": "You seem to have come from the royal capital. If{n}you're heading to the cave to the southeast,{n}take care.{p}You'll have a hard time with the Specters there if all you{n}do is swing your weapons. Being ghosts, they're hard{n}to hit, you see.",
    "term": "end"
   },
   {
@@ -789,7 +789,7 @@
   {
    "id": "scen021.0128",
    "jp": "ああ、王都かグランシルみたいな都会に住みたいわ。",
-   "en": "Oh, I'd love to live in a big city like the royal capital or{n}Grancil.",
+   "en": "Oh, I'd love to live in a big city like the royal capital{n}or Grancil.",
    "term": "end"
   },
   {
@@ -807,7 +807,7 @@
   {
    "id": "scen021.0131",
    "jp": "何か話によると、この国のお偉い人が隣国の王様に{n}斬りかかったそうじゃない？{p}もう、迷惑な話ねぇ‥‥。",
-   "en": "From what I hear, some bigwig from our country tried{n}to cut down the king of our neighboring country, didn't{n}he?{p}Honestly, what a nuisance...",
+   "en": "From what I hear, some bigwig from our country tried{n}to cut down the king of our neighboring country,{n}didn't he?{p}Honestly, what a nuisance...",
    "term": "end"
   },
   {
@@ -935,7 +935,7 @@
   {
    "id": "scen021.0152",
    "jp": "なんだ、知っているのか‥‥。{n}ダンジョンなんかでこれを見つけたら、{n}こまめに記録しておくといいぞ。",
-   "en": "Oh, so you already know... When you find one in a{n}dungeon or somewhere like that, make sure to save{n}often.",
+   "en": "Oh, so you already know... When you find one in a{n}dungeon or somewhere like that, make sure to{n}save often.",
    "term": "end"
   },
   {
@@ -1031,7 +1031,7 @@
   {
    "id": "scen021.0168",
    "jp": "ほら、そこにいる黒ずくめの人が{n}ウォレスさんだよ。",
-   "en": "Look, that man over there dressed all in black is{n}Wallace-san.",
+   "en": "Look, that man over there dressed all in black{n}is Wallace-san.",
    "term": "end"
   },
   {
@@ -1085,7 +1085,7 @@
   {
    "id": "scen021.0177",
    "jp": "{v:0015}そういえば、サンドラ様にお願いしていた物が{n}あったはずだが‥‥。",
-   "en": "{v:0015}Come to think of it, I'd asked Sandra-sama for{n}something...",
+   "en": "{v:0015}Come to think of it, I'd asked Sandra-sama{n}for something...",
    "term": "end"
   },
   {
@@ -1121,7 +1121,7 @@
   {
    "id": "scen021.0183",
    "jp": "{v:001B}あ、あの、お母さんに頼まれて！{n}この魔法の眼をもってきました！",
-   "en": "{v:001B}U-um, Mother asked us to! We brought you this Magic{n}Eye!",
+   "en": "{v:001B}U-um, Mother asked us to! We brought you this{n}Magic Eye!",
    "term": "end"
   },
   {
@@ -1205,7 +1205,7 @@
   {
    "id": "scen021.0197",
    "jp": "{v:0029}なるほど。{n}そういえば、東の森にある山小屋に{n}不審な人物が入るのを見たと、木こりが言っていたな。",
-   "en": "{v:0029}I see. Come to think of it, a woodcutter said he'd seen{n}someone suspicious going into a cabin in the eastern{n}forest.",
+   "en": "{v:0029}I see. Come to think of it, a woodcutter said he'd seen{n}someone suspicious going into a cabin in the{n}eastern forest.",
    "term": "end"
   },
   {
@@ -1229,7 +1229,7 @@
   {
    "id": "scen021.0201",
    "jp": "{v:002D}早くこの眼と義手になれなきゃならねぇからな。{n}それにサンドラ様の子供が危険な目にあったら大変だ。",
-   "en": "{v:002D}I need to get used to this eye and artificial arm soon.{n}Besides, I can't have Sandra-sama's children getting{n}hurt.",
+   "en": "{v:002D}I need to get used to this eye and artificial arm soon.{n}Besides, I can't have Sandra-sama's children{n}getting hurt.",
    "term": "end"
   },
   {

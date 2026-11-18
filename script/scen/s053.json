@@ -57,7 +57,7 @@
   {
    "id": "scen053.0008",
    "jp": "{v:000F}さて、運良くヴェンツェルって奴に{n}会えるといいが‥‥。",
-   "en": "{v:000F}Well, let's hope we're lucky enough to find this Wenzel{n}fellow...",
+   "en": "{v:000F}Well, let's hope we're lucky enough to find this{n}Wenzel fellow...",
    "term": "end"
   },
   {
@@ -159,13 +159,13 @@
   {
    "id": "scen053.0025",
    "jp": "謁見の間は{n}この奥の十字路を右に曲がったところだ。",
-   "en": "For the audience chamber, turn right at the intersection{n}ahead.",
+   "en": "For the audience chamber, turn right at the{n}intersection ahead.",
    "term": "end"
   },
   {
    "id": "scen053.0026",
    "jp": "謁見の間は{n}この奥の十字路を左に曲がったところだ。",
-   "en": "For the audience chamber, turn left at the intersection{n}ahead.",
+   "en": "For the audience chamber, turn left at the{n}intersection ahead.",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen053.0030",
    "jp": "あっちの２体の石像に囲まれた入り口だ。",
-   "en": "It's that entrance over there, between the two stone{n}statues.",
+   "en": "It's that entrance over there, between the two{n}stone statues.",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen053.0038",
    "jp": "{v:0008}遠いところ、ご苦労だったな。{p}{v:0009}この書簡をアルカディウス王に届け、{n}互いに不可侵とする同盟の件、{n}確かに了承したと伝えてくれ。",
-   "en": "{v:0008}You have our thanks for making the long journey.{p}{v:0009}Deliver this letter to King Alcadius. Tell him that we{n}have agreed to the alliance and its pledge of mutual{n}nonaggression.",
+   "en": "{v:0008}You have our thanks for making the long journey.{p}{v:0009}Deliver this letter to King Alcadius. Tell him that we{n}have agreed to the alliance and its pledge of{n}mutual nonaggression.",
    "term": "end"
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "scen053.0044",
    "jp": "{v:000B}とりあえず、ランザックとは{n}友好関係をたもてそうだな。",
-   "en": "{v:000B}Looks like we can stay on good terms with Ranzak for{n}now.",
+   "en": "{v:000B}Looks like we can stay on good terms with Ranzak{n}for now.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen053.0050",
    "jp": "{v:0012}詳しく話せば長くなるが、団長を探している間に、{n}俺は両目と利き腕を失っちまった。{p}{v:0013}この義眼と義手はこいつの母親に作ってもらったんだ。{p}{v:0014}そのお礼と、リハビリを兼ねて、{n}今はこいつらと行動を共にしている。",
-   "en": "{v:0012}It's a long story, but I lost both eyes and my{n}dominant arm while searching for the captain.{p}{v:0013}This kid's mother made this artificial eye and arm for{n}me.{p}{v:0014}I'm traveling with them now to repay her. Helps me get{n}used to this body, too.",
+   "en": "{v:0012}It's a long story, but I lost both eyes and my{n}dominant arm while searching for the captain.{p}{v:0013}This kid's mother made this artificial eye and arm{n}for me.{p}{v:0014}I'm traveling with them now to repay her. Helps me get{n}used to this body, too.",
    "term": "end"
   },
   {
@@ -327,7 +327,7 @@
   {
    "id": "scen053.0053",
    "jp": "{v:0018}お前にも辛いことがあったんだろう。{n}気にするな。{p}{v:0019}それよりお前の所在がわかってよかった。",
-   "en": "{v:0018}You've had your share of hardship. Don't let it trouble{n}you.{p}{v:0019}I'm just glad to know where you are.",
+   "en": "{v:0018}You've had your share of hardship. Don't let it{n}trouble you.{p}{v:0019}I'm just glad to know where you are.",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen053.0056",
    "jp": "{v:001C}そうか。{p}{v:001D}まだ仕事があるから、俺たちはローランディアに戻る。",
-   "en": "{v:001C}I see.{p}{v:001D}We've still got work to do, so we're heading back to{n}Rolandia.",
+   "en": "{v:001C}I see.{p}{v:001D}We've still got work to do, so we're heading back{n}to Rolandia.",
    "term": "end"
   },
   {
@@ -483,7 +483,7 @@
   {
    "id": "scen053.0079",
    "jp": "{v:0032}それが‥‥怪しい者たちに襲われ、{n}手紙を奪われて‥‥。",
-   "en": "{v:0032}Well... some suspicious people attacked us and stole the{n}letter...",
+   "en": "{v:0032}Well... some suspicious people attacked us and stole{n}the letter...",
    "term": "end"
   },
   {
@@ -531,7 +531,7 @@
   {
    "id": "scen053.0087",
    "jp": "{v:003D}さて前置きはこれくらいにして、本題に入ろう。{p}{v:003E}まず、お前たちがゲヴェルについてどこまで{n}知っているか、だが‥‥。",
-   "en": "{v:003D}Now, enough preliminaries. Let us get to the matter at{n}hand.{p}{v:003E}First, how much do you know about Gevel...?",
+   "en": "{v:003D}Now, enough preliminaries. Let us get to the matter{n}at hand.{p}{v:003E}First, how much do you know about Gevel...?",
    "term": "end"
   },
   {
@@ -567,7 +567,7 @@
   {
    "id": "scen053.0093",
    "jp": "{v:0045}はるか昔、グローシアンは人々を支配するために{n}ゲヴェルを生み出した。{p}{v:0046}そして人間を救おうとするグローシアンが、{n}魔法を駆使し、ゲヴェルを水晶鉱山に封じた。",
-   "en": "{v:0045}Long ago, the Growsians created Gevel to rule over{n}humanity.{p}{v:0046}Then Growsians who sought to save humanity used{n}their magic to seal Gevel within the crystal mine.",
+   "en": "{v:0045}Long ago, the Growsians created Gevel to rule{n}over humanity.{p}{v:0046}Then Growsians who sought to save humanity used{n}their magic to seal Gevel within the crystal mine.",
    "term": "end"
   },
   {
@@ -591,7 +591,7 @@
   {
    "id": "scen053.0097",
    "jp": "{v:004B}ゲヴェルとは人々を支配するためだけに{n}生み出された存在。{p}{v:004C}主であるグローシアンがいなくなっても、{n}その命令だけで動いている。{p}{v:004D}まず奴は、過去に自分が敗れ去った原因である、{n}魔法を得ようと考えた。{n}魔法を克服しなければ、また以前の二の舞になる。{p}{v:004E}だがどうやっても魔法を得られぬと知ると、{n}別の方法を考えたのだ。{p}{v:004F}『{FFEF}自分が使えぬなら、{n}　魔法を使える者を部下にすればいい{FFF1}』とな。{n}その時に裏から人間社会を支配することを思いついた。{p}{v:0050}まず、奴は自分の驚異的な増殖能力を使い、{n}生まれたばかりのリシャール王子の複製を作り、{n}すり替えた。",
-   "en": "{v:004B}Gevel was created for the sole purpose of ruling over{n}humanity.{p}{v:004C}Even with his Growsian masters gone, he continues to{n}act on that command alone.{p}{v:004D}First, he sought to acquire magic, the very thing that{n}had defeated him before. Unless he overcame magic, he{n}would suffer the same fate again.{p}{v:004E}But when he learned that he could not acquire magic by{n}any means, he devised another approach.{p}{v:004F}'{FFEF}If I cannot use magic, I need only make those who can{n}my servants{FFF1}.' That was when he conceived the idea of{n}ruling human society from the shadows.{p}{v:0050}First, he used his extraordinary ability to reproduce to{n}create a replica of the newborn Prince Richard and{n}exchange it for the real prince.",
+   "en": "{v:004B}Gevel was created for the sole purpose of ruling{n}over humanity.{p}{v:004C}Even with his Growsian masters gone, he continues to{n}act on that command alone.{p}{v:004D}First, he sought to acquire magic, the very thing that{n}had defeated him before. Unless he overcame magic, he{n}would suffer the same fate again.{p}{v:004E}But when he learned that he could not acquire magic by{n}any means, he devised another approach.{p}{v:004F}'{FFEF}If I cannot use magic, I need only make those who can{n}my servants{FFF1}.' That was when he conceived the idea of{n}ruling human society from the shadows.{p}{v:0050}First, he used his extraordinary ability to reproduce to{n}create a replica of the newborn Prince Richard and{n}exchange it for the real prince.",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen053.0106",
    "jp": "{v:005B}ゲヴェル自身が魔法を得るための研究。{n}すり替わった王子が政権を得るまでの面倒をみること。{p}{v:005C}来るべきゲヴェルの支配のための地盤固めをする{n}手駒として、私は２０年近くも働かされた。{p}{v:005D}他の手駒と違って、宮廷魔術師という身である私は、{n}かなり使い勝手が良かっただろうな。{p}{v:005E}よほどのことがない限り殺すつもりはなかった。{n}だが、そこに私の付け入る隙があった。{p}{v:005F}奴の行動に目を光らせ、監視するには、{n}手下のふりをするのが一番だったからな。{p}{v:0060}だからこそ、始末されそうになった本物の赤子を{n}こっそりと助け出し、育てることが出来た。",
-   "en": "{v:005B}Research into how Gevel himself might acquire magic.{n}Tending to the replacement prince until he could take{n}power.{p}{v:005C}For nearly twenty years, I was forced to work as a{n}pawn, laying the groundwork for Gevel's eventual rule.{p}{v:005D}Unlike his other pawns, my position as Court Magician{n}must have made me particularly useful.{p}{v:005E}He had no intention of killing me without very good{n}reason. But that gave me an opening.{p}{v:005F}Pretending to serve him was the best way to keep a{n}close watch on his actions.{p}{v:0060}That was how I managed to secretly rescue the real{n}infant before he could be disposed of, and raise him.",
+   "en": "{v:005B}Research into how Gevel himself might acquire magic.{n}Tending to the replacement prince until he could{n}take power.{p}{v:005C}For nearly twenty years, I was forced to work as a{n}pawn, laying the groundwork for Gevel's eventual rule.{p}{v:005D}Unlike his other pawns, my position as Court Magician{n}must have made me particularly useful.{p}{v:005E}He had no intention of killing me without very good{n}reason. But that gave me an opening.{p}{v:005F}Pretending to serve him was the best way to keep a{n}close watch on his actions.{p}{v:0060}That was how I managed to secretly rescue the real{n}infant before he could be disposed of, and raise him.",
    "term": "end"
   },
   {
@@ -681,7 +681,7 @@
   {
    "id": "scen053.0112",
    "jp": "{FFF3}‥‥‥‥。{p}{FFF4}{v:0067}お前は王位につくべき人間だ。{n}王が無教養では、国に住む全ての者が困るだろう？",
-   "en": "{FFF3}......{p}{FFF4}{v:0067}You are meant to take the throne. An uneducated king{n}would be a burden to everyone in his kingdom, would he{n}not?",
+   "en": "{FFF3}......{p}{FFF4}{v:0067}You are meant to take the throne. An uneducated king{n}would be a burden to everyone in his kingdom, would{n}he not?",
    "term": "end"
   },
   {
@@ -741,7 +741,7 @@
   {
    "id": "scen053.0122",
    "jp": "{v:0076}ゲヴェルは自分の身体から、{n}自分の複製を作り出すことが出来る。{p}{v:0077}この能力を利用してエリオットと全く同じ情報を{n}持った赤子を作り出したのだ。",
-   "en": "{v:0076}Gevel can create replicas of himself from his own{n}body.{p}{v:0077}He used that ability to create an infant with exactly{n}the same information as Elliot.",
+   "en": "{v:0076}Gevel can create replicas of himself from his{n}own body.{p}{v:0077}He used that ability to create an infant with exactly{n}the same information as Elliot.",
    "term": "end"
   },
   {
@@ -777,13 +777,13 @@
   {
    "id": "scen053.0128",
    "jp": "{v:007E}だんだん読めてきたぜ。{n}エリオットの複製を利用して、{n}自分にとって都合の良いように行動させる。{p}{v:007F}ひょっとして、ティピとサンドラ様の関係同様、{n}テレパシーで繋がってんじゃねぇか？",
-   "en": "{v:007E}It's starting to make sense. He uses Elliot's replica to{n}do whatever suits him.{p}{v:007F}Maybe they're linked by telepathy, just like Tippi and{n}Sandra-sama?",
+   "en": "{v:007E}It's starting to make sense. He uses Elliot's replica to{n}do whatever suits him.{p}{v:007F}Maybe they're linked by telepathy, just like Tippi{n}and Sandra-sama?",
    "term": "end"
   },
   {
    "id": "scen053.0129",
    "jp": "{v:0080}まさにその通り。{n}それ故、奴が表舞台に出ることなく、{n}自分の手駒を動かすことが出来るのだ。{p}{v:0081}さらに奴は他の人材から自分を守るための兵を作った。",
-   "en": "{v:0080}Precisely. That allows him to move his pawns without{n}ever appearing in public himself.{p}{v:0081}He also created soldiers from other people to protect{n}himself.",
+   "en": "{v:0080}Precisely. That allows him to move his pawns without{n}ever appearing in public himself.{p}{v:0081}He also created soldiers from other people to{n}protect himself.",
    "term": "end"
   },
   {
@@ -891,7 +891,7 @@
   {
    "id": "scen053.0147",
    "jp": "{v:0095}あ、待ってください。{n}あと１つだけ、{n}聞きたいことがあるんです。",
-   "en": "{v:0095}Oh, please wait. There's just one more thing I'd like to{n}ask.",
+   "en": "{v:0095}Oh, please wait. There's just one more thing I'd like{n}to ask.",
    "term": "end"
   },
   {
@@ -909,7 +909,7 @@
   {
    "id": "scen053.0150",
    "jp": "{v:0099}ゲヴェルは自分の創造主である{n}グローシアンの前では能力を失う。{p}{v:009A}バーンシュタイン内で起こった{n}グローシアン殺害事件は、自分の弱点をなくすため、{n}ゲヴェルが命じていたものだ。{p}{v:009B}魔法学院のマクスウェルが自分の研究のために{n}グローシアンをさらったのは、ゲヴェルによる{n}グローシアン殺害事件を利用したにすぎん。{p}{v:009C}ゲヴェルはユングという自分の複製の他にも{n}シャドー・ナイツまで利用してバーンシュタイン王国{n}内のグローシアンをすべて抹殺させた。",
-   "en": "{v:0099}Gevel loses his powers in the presence of his{n}creators, the Growsians.{p}{v:009A}Gevel ordered the Growsian murders in Burnstein to{n}eliminate his own weakness.{p}{v:009B}Maxwell of the Magic Academy merely took advantage{n}of Gevel's murders to abduct Growsians for his own{n}research.{p}{v:009C}Gevel used not only his replicas, the Jung, but even the{n}Shadow Knights to exterminate every Growsian in the{n}Kingdom of Burnstein.",
+   "en": "{v:0099}Gevel loses his powers in the presence of his{n}creators, the Growsians.{p}{v:009A}Gevel ordered the Growsian murders in Burnstein to{n}eliminate his own weakness.{p}{v:009B}Maxwell of the Magic Academy merely took advantage{n}of Gevel's murders to abduct Growsians for his{n}own research.{p}{v:009C}Gevel used not only his replicas, the Jung, but even the{n}Shadow Knights to exterminate every Growsian in the{n}Kingdom of Burnstein.",
    "term": "end"
   },
   {
@@ -921,13 +921,13 @@
   {
    "id": "scen053.0152",
    "jp": "{v:009E}シャドー・ナイツは政治の裏の汚れ仕事を請け負う、{n}いわば必要悪の集団として作られた。{p}{v:009F}今やただの暗殺部隊に成り下がったがな。",
-   "en": "{v:009E}The Shadow Knights were formed to handle the dirty{n}work behind political affairs. A necessary evil, one might{n}say.{p}{v:009F}Now they have sunk to being a mere squad of{n}assassins.",
+   "en": "{v:009E}The Shadow Knights were formed to handle the dirty{n}work behind political affairs. A necessary evil, one{n}might say.{p}{v:009F}Now they have sunk to being a mere squad{n}of assassins.",
    "term": "end"
   },
   {
    "id": "scen053.0153",
    "jp": "{v:00A0}ねぇ、ねぇ。{n}どうしてそんなに詳しいの？",
-   "en": "{v:00A0}Hey, wait a minute. How do you know so much about{n}them?",
+   "en": "{v:00A0}Hey, wait a minute. How do you know so much{n}about them?",
    "term": "end"
   },
   {
@@ -963,7 +963,7 @@
   {
    "id": "scen053.0159",
    "jp": "{v:00A8}ルイセよ。{n}お前はグローシアンの中でも一番の能力を持つ。{p}{v:00A9}いわばゲヴェルを倒せる唯一の存在だ。{p}{v:00AA}だから守った。{n}それだけのことだ。",
-   "en": "{v:00A8}Luise. Your powers are the greatest of all the{n}Growsians.{p}{v:00A9}In other words, you are the only one capable of{n}defeating Gevel.{p}{v:00AA}That is why I protected you. Nothing more.",
+   "en": "{v:00A8}Luise. Your powers are the greatest of all{n}the Growsians.{p}{v:00A9}In other words, you are the only one capable of{n}defeating Gevel.{p}{v:00AA}That is why I protected you. Nothing more.",
    "term": "end"
   },
   {

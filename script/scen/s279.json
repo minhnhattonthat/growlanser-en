@@ -176,7 +176,7 @@
   {
    "id": "scen279.0026",
    "jp": "特殊１－焦りの別バージョン。口パクなし",
-   "en": "Special 1 -- alternate flustered version. No mouth{n}animation",
+   "en": "Special 1 -- alternate flustered version. No{n}mouth animation",
    "term": "end"
   },
   {
@@ -260,7 +260,7 @@
   {
    "id": "scen279.0040",
    "jp": "特殊３－上げ後の固定用（普通顔）{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "Special 3 -- holds pose after raising arm (normal face).{n}Animated{p}{FB00}...{FFFA}",
+   "en": "Special 3 -- holds pose after raising arm (normal{n}face). Animated{p}{FB00}...{FFFA}",
    "term": "end"
   },
   {

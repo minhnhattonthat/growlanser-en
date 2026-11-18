@@ -673,7 +673,7 @@
   {
    "id": "scen018.0099",
    "jp": "ミーシャに花冠をもらったことにする？？",
-   "en": "Set yourself as having received a Flower Crown from{n}Misha??",
+   "en": "Set yourself as having received a Flower Crown{n}from Misha??",
    "term": "end"
   },
   {
@@ -1566,7 +1566,7 @@
   {
    "id": "scen018.0234",
    "jp": "特殊１－焦りの別バージョン。口パクなし",
-   "en": "Special 1 -- alternate flustered expression. No mouth{n}animation.",
+   "en": "Special 1 -- alternate flustered expression. No{n}mouth animation.",
    "term": "end"
   },
   {
@@ -2320,7 +2320,7 @@
   {
    "id": "scen018.0355",
    "jp": "ヴェンツェル３の怒り{n}いわゆる黒ヴェンツェル、怒りの死",
-   "en": "Wenzel 3, angry. Also known as Dark Wenzel dying in{n}anger.",
+   "en": "Wenzel 3, angry. Also known as Dark Wenzel dying{n}in anger.",
    "term": "end"
   },
   {
@@ -2756,7 +2756,7 @@
   {
    "id": "scen018.0422",
    "jp": "あれ？{n}もっと悔しがると思ったのに、{n}なんだか余裕じゃない？",
-   "en": "Huh? I thought that'd really get to you. You're awfully{n}calm!",
+   "en": "Huh? I thought that'd really get to you. You're{n}awfully calm!",
    "term": "end"
   },
   {
@@ -2822,7 +2822,7 @@
   {
    "id": "scen018.0433",
    "jp": "あ、でも、心配しないで下さいね★{n}アタシは、お兄さま一筋ですから！{p}{FC04}お兄さまも寡黙でカッコイイですけど、{n}時には言葉たくみに口説いて欲しいものなんですよ{FFF0}♥{FFF1}",
-   "en": "Oh, but don't you worry! You're the only one for me, Big{n}Brother!{p}{FC04}You're handsome and quiet, Big Brother, but sometimes{n}a girl wants you to sweep her off her feet with sweet{n}words{FFF0}♥{FFF1}",
+   "en": "Oh, but don't you worry! You're the only one for me,{n}Big Brother!{p}{FC04}You're handsome and quiet, Big Brother, but sometimes{n}a girl wants you to sweep her off her feet with sweet{n}words{FFF0}♥{FFF1}",
    "term": "end"
   },
   {

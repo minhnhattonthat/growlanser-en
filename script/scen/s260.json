@@ -83,7 +83,7 @@
   {
    "id": "scen260.0012",
    "jp": "{v:003F}お前は何故私が女であることを、{n}ばらさなかったのだ？{n}その事を言うだけで、私はナイトの称号を剥奪される。{p}{v:0040}ローランディアにとっても{n}悪い話ではなかったはずだが？",
-   "en": "{v:003F}Why did you not reveal that I am a woman? That alone{n}would have cost me my title as a knight.{p}{v:0040}Surely that would have served Rolandia's interests as{n}well?",
+   "en": "{v:003F}Why did you not reveal that I am a woman? That alone{n}would have cost me my title as a knight.{p}{v:0040}Surely that would have served Rolandia's interests{n}as well?",
    "term": "end"
   },
   {
@@ -127,7 +127,7 @@
   {
    "id": "scen260.0019",
    "jp": "{v:0045}ジュリアンってナイツになるために、{n}ずいぶん苦労したんでしょ？{n}その苦労を踏みにじるなんて出来ないよ。{p}{v:0046}それに今までジュリアンは一生懸命{n}やってきたんだから、{n}こっちも勝敗は正々堂々としなきゃね。",
-   "en": "{v:0045}You went through a lot to become an Imperial Knight,{n}didn't you, Julian? We couldn't just trample all over{n}that.{p}{v:0046}Besides, you've worked so hard all this time, Julian. We{n}have to settle things fair and square.",
+   "en": "{v:0045}You went through a lot to become an Imperial Knight,{n}didn't you, Julian? We couldn't just trample all{n}over that.{p}{v:0046}Besides, you've worked so hard all this time, Julian. We{n}have to settle things fair and square.",
    "term": "end"
   },
   {
@@ -139,7 +139,7 @@
   {
    "id": "scen260.0021",
    "jp": "{v:0048}でも、何で女だって事を隠してたの？",
-   "en": "{v:0048}But why were you hiding the fact that you're a{n}woman?",
+   "en": "{v:0048}But why were you hiding the fact that you're{n}a woman?",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen260.0032",
    "jp": "{v:0066}そして時が移り、{n}幼い私は父の手ほどきで剣術を始めた。{n}少しでも父に喜んでもらおうと思ってな。{p}{v:0067}私には剣の才能があったらしく、{n}父は喜んで私に剣を教えてくれた。{n}それが幼い私には、嬉しかったのだ。{p}{v:0068}だが体が弱かった弟が、遅まきながら剣術を始めると、{n}父の興味は弟へと移っていった。{p}{v:0069}そのうち父は弟にかかりきりになり、{n}弟も飛躍的に力をつけていった‥‥。",
-   "en": "{v:0066}Time passed, and as a young child, I began learning{n}swordsmanship from my father. I hoped to bring him{n}even a little joy.{p}{v:0067}It seems I had a talent for the sword, and my father{n}was happy to teach me. As a little girl, that made me{n}happy.{p}{v:0068}But when my younger brother, who had been frail,{n}finally took up swordsmanship, my father's interest{n}shifted to him.{p}{v:0069}Before long, my father devoted all his time to my{n}brother, whose skill grew by leaps and bounds...",
+   "en": "{v:0066}Time passed, and as a young child, I began learning{n}swordsmanship from my father. I hoped to bring him{n}even a little joy.{p}{v:0067}It seems I had a talent for the sword, and my father{n}was happy to teach me. As a little girl, that made{n}me happy.{p}{v:0068}But when my younger brother, who had been frail,{n}finally took up swordsmanship, my father's interest{n}shifted to him.{p}{v:0069}Before long, my father devoted all his time to my{n}brother, whose skill grew by leaps and bounds...",
    "term": "end"
   },
   {
@@ -287,7 +287,7 @@
   {
    "id": "scen260.0045",
    "jp": "{v:0058}これまでは、私の邪魔ばかりする嫌な奴という{n}認識だったが、これからはその認識を改めよう。{p}{v:0059}お前との決着は、次に戦場で会った時につけよう。{n}それまで、せいぜい腕を磨いておけ。{p}{v:005A}それと、私の本当の名は『ジュリア』。{n}ジュリア・ダグラスが私の本当の名だ‥‥。",
-   "en": "{v:0058}Until now, I thought of you as a nuisance who did{n}nothing but get in my way. I shall have to revise that{n}opinion.{p}{v:0059}We shall settle our contest the next time we meet on{n}the battlefield. Until then, you had best keep honing{n}your skills.{p}{v:005A}One more thing. My true name is 'Julia.' Julia Douglas is{n}my true name...",
+   "en": "{v:0058}Until now, I thought of you as a nuisance who did{n}nothing but get in my way. I shall have to revise{n}that opinion.{p}{v:0059}We shall settle our contest the next time we meet on{n}the battlefield. Until then, you had best keep honing{n}your skills.{p}{v:005A}One more thing. My true name is 'Julia.' Julia Douglas is{n}my true name...",
    "term": "end"
   },
   {
@@ -399,13 +399,13 @@
   {
    "id": "scen260.0063",
    "jp": "{v:000E}あら、敵地っていっても、{n}ここから水晶鉱山までは魔法学院の管轄でしょ？{p}{v:000F}だったら敵も味方も関係ないじゃない！",
-   "en": "{v:000E}Oh, enemy territory? Everything from here to the{n}crystal mine is under the Magic Academy's jurisdiction,{n}right?{p}{v:000F}Then it doesn't matter if we're friends or enemies!",
+   "en": "{v:000E}Oh, enemy territory? Everything from here to the{n}crystal mine is under the Magic Academy's{n}jurisdiction, right?{p}{v:000F}Then it doesn't matter if we're friends or enemies!",
    "term": "end"
   },
   {
    "id": "scen260.0064",
    "jp": "‥‥‥{v:0010}ふぅっ！{p}{v:0011}まったく、何を考えているんだか。{n}お前達の気がしれんよ。",
-   "en": "...{v:0010}*sigh*{p}{v:0011}Honestly, what are you thinking? I cannot understand{n}you.",
+   "en": "...{v:0010}*sigh*{p}{v:0011}Honestly, what are you thinking? I cannot{n}understand you.",
    "term": "end"
   },
   {
@@ -483,7 +483,7 @@
   {
    "id": "scen260.0077",
    "jp": "{v:002C}どうしよう‥‥。{n}この事、黙ってたほうがいいのかな‥‥？",
-   "en": "{v:002C}What do we do...? Maybe we should keep this to{n}ourselves...?",
+   "en": "{v:002C}What do we do...? Maybe we should keep this{n}to ourselves...?",
    "term": "end"
   },
   {

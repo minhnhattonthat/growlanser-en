@@ -99,7 +99,7 @@
   {
    "id": "exe.help.0015",
    "jp": "{F415}の強化を最優先し、次いで{F4F4}{F4D1}{F4C0}敵に不利なステイタスを{F496}{F489}{F412}",
-   "en": "Prioritizes strengthening the party, then healing{n}spells, then spells that inflict harmful status effects on{n}enemies.",
+   "en": "Prioritizes strengthening the party, then healing{n}spells, then spells that inflict harmful status effects{n}on enemies.",
    "term": "null"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "exe.help.0030",
    "jp": "修得{F419}を{F4D1}や{F41C}に{F41A}{F41B}{n}名前横の{F41A}部分が{F419}で一杯{F4AE}{F4EE}{n}それを『ＭＡＳＴＥＲ』し、{F4D2}{F4BD}事ができ{F41B}",
-   "en": "Assigns learning points to spells and skills. Fill the gauge{n}beside a name to 'MASTER' that ability and make it{n}usable.",
+   "en": "Assigns learning points to spells and skills. Fill the gauge{n}beside a name to 'MASTER' that ability and make{n}it usable.",
    "term": "null"
   },
   {

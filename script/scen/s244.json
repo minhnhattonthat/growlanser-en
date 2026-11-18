@@ -39,7 +39,7 @@
   {
    "id": "scen244.0005",
    "jp": "おう、{s:0000}。{n}一度、一対一でお前と勝負したいもんだぜ。{n}来年の闘技大会には出るよな？",
-   "en": "Hey, {s:0000}. I'd like to take you on, one on{n}one, sometime. You're entering next year's tournament,{n}right?",
+   "en": "Hey, {s:0000}. I'd like to take you on, one on{n}one, sometime. You're entering next year's{n}tournament, right?",
    "term": "end"
   },
   {
@@ -51,7 +51,7 @@
   {
    "id": "scen244.0007",
    "jp": "よう、{s:0000}。{n}どっかうまい料理を食わせてくれる店、知らねぇか？{n}俺は、こう見えても味にうるさいんでな。{p}今度、俺の行きつけの店を教えてやるからよ。",
-   "en": "Hey, {s:0000}. Know any places that serve{n}good food? I may not look it, but I'm picky about what I{n}eat.{p}I'll tell you about my usual place sometime.",
+   "en": "Hey, {s:0000}. Know any places that serve{n}good food? I may not look it, but I'm picky about what{n}I eat.{p}I'll tell you about my usual place sometime.",
    "term": "end"
   },
   {
@@ -63,7 +63,7 @@
   {
    "id": "scen244.0009",
    "jp": "なんだか、気ままに遠くへ行きたい気分だぜ。{n}事が片づいたら旅にでも出るかな。",
-   "en": "I feel like heading somewhere far away, with nothing{n}tying me down. Maybe I'll take a trip once all this is{n}settled.",
+   "en": "I feel like heading somewhere far away, with nothing{n}tying me down. Maybe I'll take a trip once all this{n}is settled.",
    "term": "end"
   },
   {

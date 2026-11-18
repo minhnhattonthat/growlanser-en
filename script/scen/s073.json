@@ -177,13 +177,13 @@
   {
    "id": "scen073.0028",
    "jp": "{v:0047}そうだな。{n}このことは各国に報告した方がいいかも知れんな。",
-   "en": "{v:0047}Right. Perhaps we should report this to the other{n}nations.",
+   "en": "{v:0047}Right. Perhaps we should report this to the{n}other nations.",
    "term": "end"
   },
   {
    "id": "scen073.0029",
    "jp": "{v:0048}ああ。{n}ランザック国には‥‥我が国の兵士には{n}私から伝えておく。",
-   "en": "{v:0048}Yes. As for Ranzak... I will inform our nation's soldiers{n}myself.",
+   "en": "{v:0048}Yes. As for Ranzak... I will inform our nation's{n}soldiers myself.",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen073.0032",
    "jp": "{v:004B}私も砦に戻り、兵士にこのことを伝えておく。",
-   "en": "{v:004B}I will return to the fort and inform my soldiers as{n}well.",
+   "en": "{v:004B}I will return to the fort and inform my soldiers{n}as well.",
    "term": "end"
   },
   {
@@ -390,7 +390,7 @@
   {
    "id": "scen073.0063",
    "jp": "{v:0009}クックックッ！{n}そろそろやめるとしよう。{p}{v:000A}不毛だよ。{n}しょせんは弱者の遠吠えにしか聞こえぬ。{p}{v:000B}さあ、これ以上吠えぬように殺してやろう。",
-   "en": "{v:0009}Heh heh heh! Let us end this conversation.{p}{v:000A}It is pointless. All I hear is the futile howling of the{n}weak.{p}{v:000B}Now, I shall kill you to stop that howling.",
+   "en": "{v:0009}Heh heh heh! Let us end this conversation.{p}{v:000A}It is pointless. All I hear is the futile howling of{n}the weak.{p}{v:000B}Now, I shall kill you to stop that howling.",
    "term": "end"
   },
   {
@@ -432,7 +432,7 @@
   {
    "id": "scen073.0070",
    "jp": "{v:0012}ゲヴェルを倒した程度で図に乗るな。{p}{v:0013}私の能力は、今やあいつの比ではない。{n}お前たちでは傷もつけられぬ。",
-   "en": "{v:0012}Do not grow arrogant merely because you defeated{n}Gevel.{p}{v:0013}My power now far surpasses his. You cannot even{n}scratch me.",
+   "en": "{v:0012}Do not grow arrogant merely because you{n}defeated Gevel.{p}{v:0013}My power now far surpasses his. You cannot even{n}scratch me.",
    "term": "end"
   },
   {
@@ -510,7 +510,7 @@
   {
    "id": "scen073.0083",
    "jp": "今は膠着状態が続いているが、{n}気を抜くことが出来ない。{n}こんな状況が一番疲れるんだよね。",
-   "en": "The stalemate continues, but we can't let our guard{n}down. This sort of situation wears you out more than{n}anything.",
+   "en": "The stalemate continues, but we can't let our guard{n}down. This sort of situation wears you out more{n}than anything.",
    "term": "end"
   },
   {
@@ -606,7 +606,7 @@
   {
    "id": "scen073.0099",
    "jp": "人間相手でないなら、ためらう必要はありませんね。",
-   "en": "If we aren't fighting humans, there's no need to{n}hesitate.",
+   "en": "If we aren't fighting humans, there's no need{n}to hesitate.",
    "term": "end"
   },
   {
@@ -684,7 +684,7 @@
   {
    "id": "scen073.0111",
    "jp": "お一人様、８エルムで、{n}{FFEB}エルムになりますが？",
-   "en": "At 8 Elm per person, that comes to {FFEB} Elm. Is that all{n}right?",
+   "en": "At 8 Elm per person, that comes to {FFEB} Elm. Is that{n}all right?",
    "term": "end"
   },
   {
@@ -720,7 +720,7 @@
   {
    "id": "scen073.0117",
    "jp": "{v:0001}何をゆったり構えてるのよ！{n}敵が攻めてくるっていうのに！",
-   "en": "{v:0001}How can you be so relaxed?! The enemy's about to{n}attack!",
+   "en": "{v:0001}How can you be so relaxed?! The enemy's about{n}to attack!",
    "term": "end"
   },
   {
@@ -936,7 +936,7 @@
   {
    "id": "scen073.0152",
    "jp": "{v:0027}確かに森に火をつければ、{n}ランザック軍の進路を妨害できるかもしれないけど‥‥。",
-   "en": "{v:0027}Setting fire to the forest might block Ranzak's advance,{n}but...",
+   "en": "{v:0027}Setting fire to the forest might block Ranzak's{n}advance, but...",
    "term": "end"
   },
   {
@@ -978,7 +978,7 @@
   {
    "id": "scen073.0159",
    "jp": "{v:002F}そうね。{n}ルイセちゃんがいれば、{n}私たちも迷わないでしょうから。",
-   "en": "{v:002F}That's true. With Luise-chan here, we shouldn't lose our{n}way.",
+   "en": "{v:002F}That's true. With Luise-chan here, we shouldn't lose{n}our way.",
    "term": "end"
   },
   {
@@ -990,7 +990,7 @@
   {
    "id": "scen073.0161",
    "jp": "{v:0031}なるほど。{n}こちらにはグローシアンであるルイセ君がいるからね。",
-   "en": "{v:0031}I see. We have Luise-kun with us, and she's a{n}Growsian.",
+   "en": "{v:0031}I see. We have Luise-kun with us, and she's{n}a Growsian.",
    "term": "end"
   },
   {
@@ -1038,7 +1038,7 @@
   {
    "id": "scen073.0169",
    "jp": "{v:003B}それでは君たちに頼みたい。{n}何とか魔水晶のかけらを手に入れて、{n}あの遺跡を動かしてくれ。{p}{v:003C}それまでには遺跡の鍵をはずしておく。",
-   "en": "{v:003B}Then I would like to entrust this to you. Find a{n}fragment of magic crystal somehow and activate those{n}ruins.{p}{v:003C}I will have the ruins unlocked by then.",
+   "en": "{v:003B}Then I would like to entrust this to you. Find a{n}fragment of magic crystal somehow and activate{n}those ruins.{p}{v:003C}I will have the ruins unlocked by then.",
    "term": "end"
   },
   {
@@ -1050,7 +1050,7 @@
   {
    "id": "scen073.0171",
    "jp": "‥‥‥。{p}{v:003E}あ、マスター、聞こえる？{p}{v:003F}ううん、まだだけど‥‥。{n}それより大変なの！{p}{v:0040}バーンシュタインとランザックが先に同盟を結んで、{n}攻めてくるのよ！{n}それを防ぐには魔水晶が必要なの！{p}{v:0041}えっ！？{n}魔水晶がある？{p}{v:0042}うん！{n}それじゃ、すぐに取りに行くよ！",
-   "en": "...{p}{v:003E}Oh, Master! Can you hear me?{p}{v:003F}No, not yet... But never mind that! We've got a big{n}problem!{p}{v:0040}Burnstein and Ranzak beat us to forming an alliance,{n}and they're going to attack! We need a magic crystal to{n}stop them!{p}{v:0041}What?! You have a magic crystal?{p}{v:0042}Great! We'll come get it right away!",
+   "en": "...{p}{v:003E}Oh, Master! Can you hear me?{p}{v:003F}No, not yet... But never mind that! We've got a{n}big problem!{p}{v:0040}Burnstein and Ranzak beat us to forming an alliance,{n}and they're going to attack! We need a magic crystal to{n}stop them!{p}{v:0041}What?! You have a magic crystal?{p}{v:0042}Great! We'll come get it right away!",
    "term": "end"
   },
   {
@@ -1092,7 +1092,7 @@
   {
    "id": "scen073.0178",
    "jp": "‥‥ついに来るべき時が来た。{n}君たちは今までにも不可能と思われる任務を{n}やり遂げてきた実力がある。{p}それは仲間同士が信じあう心から生まれた力だと思う。{n}その力を信じて進んでくれ。{p}‥‥今の私には、これくらいの言葉しか見あたらない。{n}とにかく、がんばってくれ！",
-   "en": "...At last, the time has come. You have already proven{n}yourselves by completing missions that seemed{n}impossible.{p}I believe that strength comes from the trust you have{n}in one another. Believe in that strength and press on.{p}...Those are about the only words I can find right now.{n}Just give it your all!",
+   "en": "...At last, the time has come. You have already proven{n}yourselves by completing missions that{n}seemed impossible.{p}I believe that strength comes from the trust you have{n}in one another. Believe in that strength and press on.{p}...Those are about the only words I can find right now.{n}Just give it your all!",
    "term": "end"
   },
   {

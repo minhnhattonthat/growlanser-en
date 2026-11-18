@@ -75,7 +75,7 @@
   {
    "id": "scen102.0011",
    "jp": "{v:0037}ひょっとして、お兄ちゃん、{n}ティピに蹴られるの、楽しんでない？",
-   "en": "{v:0037}Big Brother, do you... actually enjoy getting kicked by{n}Tippi?",
+   "en": "{v:0037}Big Brother, do you... actually enjoy getting kicked{n}by Tippi?",
    "term": "end"
   },
   {
@@ -146,7 +146,7 @@
   {
    "id": "scen102.0022",
    "jp": "{v:003B}こいつの妹であること、考えたら？",
-   "en": "{v:003B}Maybe you should rethink having this guy for a{n}brother.",
+   "en": "{v:003B}Maybe you should rethink having this guy for{n}a brother.",
    "term": "end"
   },
   {
@@ -320,7 +320,7 @@
   {
    "id": "scen102.0051",
    "jp": "{v:002E}ああ。{n}方角的には魔水晶鉱山のずっと北だ。{p}{v:002F}行くとすれば、北のローランディアと{n}バーンシュタインが戦った戦場から東に行くのが{n}いいだろうな。",
-   "en": "{v:002E}Yeah. It's far north of the magic crystal mine.{p}{v:002F}Best way there would be to go east from the{n}battlefield up north, where Rolandia and Burnstein{n}fought.",
+   "en": "{v:002E}Yeah. It's far north of the magic crystal mine.{p}{v:002F}Best way there would be to go east from the{n}battlefield up north, where Rolandia and{n}Burnstein fought.",
    "term": "end"
   },
   {
@@ -356,7 +356,7 @@
   {
    "id": "scen102.0057",
    "jp": "{v:0003}どうするの？{n}あいつらってゲヴェルの手下でしょ？",
-   "en": "{v:0003}What do we do? Those are Gevel's henchmen, aren't{n}they?",
+   "en": "{v:0003}What do we do? Those are Gevel's henchmen,{n}aren't they?",
    "term": "end"
   },
   {

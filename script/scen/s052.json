@@ -69,7 +69,7 @@
   {
    "id": "scen052.0010",
    "jp": "ここは{FFEF}ランザック王都{FFF1}だ。{n}変な騒ぎは起こすなよ。",
-   "en": "This is the {FFEF}Ranzak Royal Capital{FFF1}. Don't go causing{n}trouble.",
+   "en": "This is the {FFEF}Ranzak Royal Capital{FFF1}. Don't go{n}causing trouble.",
    "term": "end"
   },
   {
@@ -447,7 +447,7 @@
   {
    "id": "scen052.0071",
    "jp": "頭が混乱しちゃって、{n}何が何だかわからなくなってきたわ‥‥。",
-   "en": "My head's spinning. I don't know what to think{n}anymore...",
+   "en": "My head's spinning. I don't know what to{n}think anymore...",
    "term": "end"
   },
   {
@@ -525,19 +525,19 @@
   {
    "id": "scen052.0084",
    "jp": "{v:0002}我々はローランディア王国からの使者だ。{p}{v:0003}ここにアルカディウス王がしたためた書簡がある。{n}これをランザック国王に渡し、{n}説明をするのが我々の役目だ。",
-   "en": "{v:0002}We are envoys from the Kingdom of Rolandia.{p}{v:0003}We bear a letter written by King Alcadius. Our duty is{n}to deliver it to the King of Ranzak and explain its{n}contents.",
+   "en": "{v:0002}We are envoys from the Kingdom of Rolandia.{p}{v:0003}We bear a letter written by King Alcadius. Our duty is{n}to deliver it to the King of Ranzak and explain{n}its contents.",
    "term": "end"
   },
   {
    "id": "scen052.0085",
    "jp": "　{n}『{FFEF}ゲヴェルへの注意を促す書簡{FFF1}』を門番に渡した。",
-   "en": "　{n}Handed the '{FFEF}Letter Warning of Gevel{FFF1}' to the{n}gatekeeper.",
+   "en": "　{n}Handed the '{FFEF}Letter Warning of Gevel{FFF1}' to{n}the gatekeeper.",
    "term": "end"
   },
   {
    "id": "scen052.0086",
    "jp": "　{n}　　　『{FFEF}同盟要請の書簡{FFF1}』を門番に渡した。",
-   "en": "　{n}　　　Handed the '{FFEF}Letter Requesting an Alliance{FFF1}' to the{n}gatekeeper.",
+   "en": "　{n}　　　Handed the '{FFEF}Letter Requesting an Alliance{FFF1}' to{n}the gatekeeper.",
    "term": "end"
   },
   {
@@ -831,7 +831,7 @@
   {
    "id": "scen052.0135",
    "jp": "{v:000D}バーンシュタイン軍も、まだここまでは{n}来てないみたいね。",
-   "en": "{v:000D}Looks like the Burnstein army hasn't made it this far{n}yet.",
+   "en": "{v:000D}Looks like the Burnstein army hasn't made it this{n}far yet.",
    "term": "end"
   },
   {
@@ -897,13 +897,13 @@
   {
    "id": "scen052.0146",
    "jp": "{v:0001}どうしたんだ、ウォレス。{n}陛下に用か？",
-   "en": "{v:0001}What brings you here, Wallace? Business with His{n}Majesty?",
+   "en": "{v:0001}What brings you here, Wallace? Business with{n}His Majesty?",
    "term": "end"
   },
   {
    "id": "scen052.0147",
    "jp": "{v:0002}ちょうど良かった。{n}お前に話したいことがある。",
-   "en": "{v:0002}Good timing. There's something I need to discuss with{n}you.",
+   "en": "{v:0002}Good timing. There's something I need to discuss{n}with you.",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen052.0152",
    "jp": "{v:0007}そうあわてるな。{n}こいつは似ているが、あのリシャールとは別人だ。",
-   "en": "{v:0007}Easy there. He looks like Richard, but he's someone{n}else.",
+   "en": "{v:0007}Easy there. He looks like Richard, but he's{n}someone else.",
    "term": "end"
   },
   {
@@ -963,7 +963,7 @@
   {
    "id": "scen052.0157",
    "jp": "{v:000C}いいえ、わたしたち、エリオット君に{n}王位を取り戻させようとしているのですが‥‥。",
-   "en": "{v:000C}No, we're trying to help Elliot-kun reclaim his throne,{n}but...",
+   "en": "{v:000C}No, we're trying to help Elliot-kun reclaim his{n}throne, but...",
    "term": "end"
   },
   {

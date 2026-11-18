@@ -21,7 +21,7 @@
   {
    "id": "scen207.0002",
    "jp": "{v:0004}エリオット陛下、折り入って、お願いがあります。",
-   "en": "{v:0004}Your Majesty Elliot, I have a personal request to{n}make.",
+   "en": "{v:0004}Your Majesty Elliot, I have a personal request{n}to make.",
    "term": "end"
   },
   {
@@ -45,7 +45,7 @@
   {
    "id": "scen207.0006",
    "jp": "{v:000A}上手く言えないけれど、称号に忠誠を誓ったか、{n}人柄に忠誠を誓ったかの違いですね。",
-   "en": "{v:000A}It is hard to put into words, but the difference is{n}whether your loyalty is to someone's title or to their{n}character.",
+   "en": "{v:000A}It is hard to put into words, but the difference is{n}whether your loyalty is to someone's title or to{n}their character.",
    "term": "end"
   },
   {

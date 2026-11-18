@@ -69,7 +69,7 @@
   {
    "id": "scen195.0010",
    "jp": "{v:003C}お前はよくやってくれたぞ。{n}さすがワシの傑作だ。",
-   "en": "{v:003C}You have done well. Just as I would expect of my{n}masterpiece.",
+   "en": "{v:003C}You have done well. Just as I would expect of{n}my masterpiece.",
    "term": "end"
   },
   {
@@ -81,7 +81,7 @@
   {
    "id": "scen195.0012",
    "jp": "{v:003E}感情の希薄なあの女より、よほど人間らしいわい。{p}{v:003F}だが、その感情が今後は邪魔になるのだ！{n}いますぐ破棄してくれる！",
-   "en": "{v:003E}You are far more human than that unfeeling woman,{n}eh?{p}{v:003F}But those emotions will only get in the way from now{n}on! I shall dispose of you at once!",
+   "en": "{v:003E}You are far more human than that unfeeling{n}woman, eh?{p}{v:003F}But those emotions will only get in the way from now{n}on! I shall dispose of you at once!",
    "term": "end"
   },
   {
@@ -307,7 +307,7 @@
   {
    "id": "scen195.0049",
    "jp": "{v:0062}アンタだって被害者だもん。{n}怒ったっていいんだよ？{p}{v:0063}悪いのはあいつなんだから！",
-   "en": "{v:0062}You're a victim too. You're allowed to be angry, you{n}know?{p}{v:0063}He's the one to blame!",
+   "en": "{v:0062}You're a victim too. You're allowed to be angry,{n}you know?{p}{v:0063}He's the one to blame!",
    "term": "end"
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "scen195.0069",
    "jp": "{v:00AE}それ以上は無理しないで！{n}アイリーンさんのためにも！",
-   "en": "{v:00AE}Don't push yourself any further! For Irene-san's sake{n}too!",
+   "en": "{v:00AE}Don't push yourself any further! For Irene-san's{n}sake too!",
    "term": "end"
   },
   {
@@ -481,7 +481,7 @@
   {
    "id": "scen195.0078",
    "jp": "{v:008F}尊い命を軽んじる人は許せません！",
-   "en": "{v:008F}I cannot forgive anyone who treats precious lives so{n}lightly!",
+   "en": "{v:008F}I cannot forgive anyone who treats precious lives{n}so lightly!",
    "term": "end"
   },
   {
@@ -559,7 +559,7 @@
   {
    "id": "scen195.0091",
    "jp": "‥‥{v:0077}死んだか。{n}いや、無に返ったというべきか。{p}{v:0078}まあよい。{n}道具など新しく作ればいいだけだ。",
-   "en": "...{v:0077}Dead? No, perhaps I should say returned to{n}nothingness.{p}{v:0078}No matter. If I need another tool, I can simply make{n}one.",
+   "en": "...{v:0077}Dead? No, perhaps I should say returned{n}to nothingness.{p}{v:0078}No matter. If I need another tool, I can simply{n}make one.",
    "term": "end"
   },
   {
@@ -571,7 +571,7 @@
   {
    "id": "scen195.0093",
    "jp": "{v:007A}アタシは‥アタシは道具じゃない！{p}{v:007B}自分で考えて、自分で動ける！{n}道具なんかじゃないよ！",
-   "en": "{v:007A}I'm... I'm not a tool!{p}{v:007B}I can think for myself and act for myself! I'm not some{n}tool!",
+   "en": "{v:007A}I'm... I'm not a tool!{p}{v:007B}I can think for myself and act for myself! I'm not{n}some tool!",
    "term": "end"
   },
   {

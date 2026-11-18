@@ -45,7 +45,7 @@
   {
    "id": "scen179.0006",
    "jp": "{v:005D}さて、おしゃべりは終わりだ。{n}いつまでもお前たちに構ってるほど暇じゃないんだ。{p}{v:005E}じゃあな！",
-   "en": "{v:005D}Well, enough chitchat. I ain't got all day to waste on you{n}lot.{p}{v:005E}See ya!",
+   "en": "{v:005D}Well, enough chitchat. I ain't got all day to waste on{n}you lot.{p}{v:005E}See ya!",
    "term": "end"
   },
   {

@@ -33,7 +33,7 @@
   {
    "id": "scen226.0004",
    "jp": "リシャール様に適度に攻撃をし、{n}私が説得する隙をつくってくれ。{n}今のままでは私の言葉を聞いてはもらえまい。",
-   "en": "Attack Richard-sama, but hold back. Give me an opening{n}to reason with him. As things stand, he will not listen to{n}me.",
+   "en": "Attack Richard-sama, but hold back. Give me an opening{n}to reason with him. As things stand, he will not listen{n}to me.",
    "term": "end"
   },
   {
@@ -45,7 +45,7 @@
   {
    "id": "scen226.0006",
    "jp": "でも、親友が攻撃されて、アンタは平気なの？",
-   "en": "But will you really be okay with us attacking your best{n}friend?",
+   "en": "But will you really be okay with us attacking your{n}best friend?",
    "term": "end"
   },
   {
@@ -105,7 +105,7 @@
   {
    "id": "scen226.0016",
    "jp": "{v:0037}お前は、リシャールと、リーヴスと３人で{n}未来を誓いあったのではないか？{n}誰もが幸せに暮らせる世界を作ろうと。{p}{v:0038}その誓いを忘れたのか？",
-   "en": "{v:0037}Did you, Richard and Reeves not swear to build a{n}future together? A world where everyone could live{n}happily?{p}{v:0038}Have you forgotten that oath?",
+   "en": "{v:0037}Did you, Richard and Reeves not swear to build a{n}future together? A world where everyone could{n}live happily?{p}{v:0038}Have you forgotten that oath?",
    "term": "end"
   },
   {
@@ -246,7 +246,7 @@
   {
    "id": "scen226.0039",
    "jp": "{v:0050}私は、リシャール様に、{n}本当の御自分を取り戻していただきたいだけです。",
-   "en": "{v:0050}I only wish for you to regain your true self,{n}Richard-sama.",
+   "en": "{v:0050}I only wish for you to regain your true{n}self, Richard-sama.",
    "term": "end"
   },
   {
@@ -300,7 +300,7 @@
   {
    "id": "scen226.0048",
    "jp": "{v:0053}リシャール様！{n}もう一度、思い出して下さい！{n}あの、優しい心を！",
-   "en": "{v:0053}Richard-sama! Please, remember! Remember your kind{n}heart!",
+   "en": "{v:0053}Richard-sama! Please, remember! Remember your{n}kind heart!",
    "term": "end"
   },
   {
@@ -342,7 +342,7 @@
   {
    "id": "scen226.0055",
    "jp": "‥‥{v:005D}助けてくれ、アーネスト‥‥。{n}声が‥声が私に命じる‥‥。{p}{v:005E}私を‥‥止めてくれ！",
-   "en": "...{v:005D}Help me, Ernest... The voice... The voice is commanding{n}me...{p}{v:005E}Please... stop me!",
+   "en": "...{v:005D}Help me, Ernest... The voice... The voice is{n}commanding me...{p}{v:005E}Please... stop me!",
    "term": "end"
   },
   {

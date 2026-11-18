@@ -57,7 +57,7 @@
   {
    "id": "scen151.0008",
    "jp": "おさげに眼鏡の子だろ？{n}誰にでもぶつかってるよ‥‥。",
-   "en": "The girl with pigtails and glasses? She bumps into{n}everyone...",
+   "en": "The girl with pigtails and glasses? She bumps{n}into everyone...",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen151.0046",
    "jp": "やあ、君たちか。{n}来てくれたのは嬉しいけど、{n}今、手が放せないんだ。{p}部屋の中は勝手に見てくれてかまわないよ。",
-   "en": "Oh, it's you. I'm glad you came, but I'm in the middle of{n}something.{p}Feel free to look around the room.",
+   "en": "Oh, it's you. I'm glad you came, but I'm in the middle{n}of something.{p}Feel free to look around the room.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen151.0050",
    "jp": "それはね、遺跡で見つけたものなんだけど{n}材質がなんだかわからないんだ。{n}表面のなめらかさは磨いて出るものじゃない。{p}かと言って自然のものでもないね。{n}古代文明に関しては、{n}まだまだわからないことだらけだよ。",
-   "en": "I found that in some ruins, but I can't identify the{n}material. Polishing couldn't make its surface that{n}smooth.{p}Yet it isn't natural, either. There's still so much we{n}don't know about ancient civilization.",
+   "en": "I found that in some ruins, but I can't identify the{n}material. Polishing couldn't make its surface{n}that smooth.{p}Yet it isn't natural, either. There's still so much we{n}don't know about ancient civilization.",
    "term": "end"
   },
   {
@@ -321,7 +321,7 @@
   {
    "id": "scen151.0052",
    "jp": "僕は僕で地道に努力するさ。{n}彼女を幸せにするためにね。",
-   "en": "I'll keep working at it in my own way. To make her{n}happy.",
+   "en": "I'll keep working at it in my own way. To make{n}her happy.",
    "term": "end"
   },
   {
@@ -634,7 +634,7 @@
   {
    "id": "scen151.0100",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "Where do you think you're going, leaving everyone{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {
@@ -664,7 +664,7 @@
   {
    "id": "scen151.0105",
    "jp": "ちょっとアンタ、いくら相手がミーシャでも{n}それはないでしょ！",
-   "en": "Hey, you! Even if it is Misha, that's no way to treat{n}her!",
+   "en": "Hey, you! Even if it is Misha, that's no way to{n}treat her!",
    "term": "end"
   },
   {

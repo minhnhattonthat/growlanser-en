@@ -63,7 +63,7 @@
   {
    "id": "scen223.0009",
    "jp": "{v:0022}だからって、ヴェンツェルは{n}人間を支配しようとしてるんだよ？",
-   "en": "{v:0022}Even so, Wenzel's trying to rule over humanity, you{n}know?",
+   "en": "{v:0022}Even so, Wenzel's trying to rule over humanity,{n}you know?",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen223.0017",
    "jp": "{v:0030}『あきらめぬ』‥‥か。{n}口で言うのは簡単な言葉だ。{p}{v:0031}だが、あのお方の強大な力に、{n}どうやって対抗しようというのだ？{p}{v:0032}仮に倒せたところで、{n}あのお方は我々を道連れにするだろう。{n}時空を操り、この世界を分離させてな。{p}{v:0033}つまり我々に残された道は、{n}ヴェンツェル様に従うことだけだ。",
-   "en": "{v:0030}'We will not give up'... Easy words to say.{p}{v:0031}But how do you intend to stand against his immense{n}power?{p}{v:0032}Even if you defeated him, he would take us with him.{n}He would manipulate space-time and split this world{n}apart.{p}{v:0033}Our only remaining path, then, is to obey Wenzel-sama.",
+   "en": "{v:0030}'We will not give up'... Easy words to say.{p}{v:0031}But how do you intend to stand against his{n}immense power?{p}{v:0032}Even if you defeated him, he would take us with him.{n}He would manipulate space-time and split this{n}world apart.{p}{v:0033}Our only remaining path, then, is to obey Wenzel-sama.",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen223.0021",
    "jp": "{v:0037}協力だと？{n}ヴェンツェル様を裏切り、死ねというのか？{p}‥‥{v:0038}ふははははっ！{p}{v:0085}面白い！{n}私の手を借りたければ、私を屈服させてみろ！{p}{v:0039}そうすれば私の命、貴様らにくれてやる！",
-   "en": "{v:0037}Join you? You would have me betray Wenzel-sama and{n}die?{p}...{v:0038}Ha ha ha ha!{p}{v:0085}How amusing! If you want my help, force me to submit!{p}{v:0039}Do that, and my life is yours!",
+   "en": "{v:0037}Join you? You would have me betray Wenzel-sama{n}and die?{p}...{v:0038}Ha ha ha ha!{p}{v:0085}How amusing! If you want my help, force me to submit!{p}{v:0039}Do that, and my life is yours!",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen223.0034",
    "jp": "{v:0048}全ては私の意志で決めること。{n}誰の指図も受けぬ！",
-   "en": "{v:0048}I make all my own decisions. I take orders from no{n}one!",
+   "en": "{v:0048}I make all my own decisions. I take orders from{n}no one!",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen223.0047",
    "jp": "{v:0086}私が忠義を尽くすのは、リシャール様だけだ。{p}{v:0057}リシャール様がヴェンツェルに従うなら、{n}私も従うまで。{n}それだけのことだ。",
-   "en": "{v:0086}My loyalty belongs to Richard-sama alone.{p}{v:0057}If Richard-sama follows Wenzel, then so shall I. That is{n}all.",
+   "en": "{v:0086}My loyalty belongs to Richard-sama alone.{p}{v:0057}If Richard-sama follows Wenzel, then so shall I. That{n}is all.",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen223.0064",
    "jp": "‥‥{v:0069}抵抗はしない。{p}{v:006A}だが、大人しく捕まる気もない‥‥。",
-   "en": "...{v:0069}I will not resist.{p}{v:006A}But I have no intention of letting you capture me,{n}either...",
+   "en": "...{v:0069}I will not resist.{p}{v:006A}But I have no intention of letting you capture{n}me, either...",
    "term": "end"
   },
   {

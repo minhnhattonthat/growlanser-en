@@ -135,7 +135,7 @@
   {
    "id": "scen038.0021",
    "jp": "俺は客でも患者でも、医者でもない。{n}それじゃ何だって？{p}ここがこれだけ整備されているのは、{n}俺たちが影ながら働いているからだ！",
-   "en": "I'm not a guest, a patient, or a doctor. What am I,{n}then?{p}We're the ones working behind the scenes to keep this{n}place in such good shape!",
+   "en": "I'm not a guest, a patient, or a doctor. What am{n}I, then?{p}We're the ones working behind the scenes to keep this{n}place in such good shape!",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen038.0033",
    "jp": "‥‥でも、結婚するなら、お金持ちじゃないとね‥‥。",
-   "en": "...But if I'm going to marry someone, he'll have to be{n}rich...",
+   "en": "...But if I'm going to marry someone, he'll have to{n}be rich...",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen038.0036",
    "jp": "ここラシェルは、大陸でも有名な保養地なんですよ。",
-   "en": "Rachelle is a health resort famous throughout the{n}continent.",
+   "en": "Rachelle is a health resort famous throughout{n}the continent.",
    "term": "end"
   },
   {
@@ -325,7 +325,7 @@
   {
    "id": "scen038.0052",
    "jp": "{v:0037}あのね、風向きのいい時には東の森の方から、{n}とっても綺麗な歌が聞こえて来るんだよ。",
-   "en": "{v:0037}You know, when the wind blows the right way, I can{n}hear really pretty singing from the forest to the{n}east.",
+   "en": "{v:0037}You know, when the wind blows the right way, I can{n}hear really pretty singing from the forest to{n}the east.",
    "term": "end"
   },
   {
@@ -397,7 +397,7 @@
   {
    "id": "scen038.0064",
    "jp": "保養所の前に犬がじっと待っているのを{n}知っているかね？",
-   "en": "Have you noticed the dog waiting patiently outside the{n}sanatorium?",
+   "en": "Have you noticed the dog waiting patiently outside{n}the sanatorium?",
    "term": "end"
   },
   {
@@ -487,13 +487,13 @@
   {
    "id": "scen038.0079",
    "jp": "{v:0060}ゴメンね、お兄ちゃん。{n}わたし、アリオストさんを放っておけないよ！",
-   "en": "{v:0060}I'm sorry, Big Brother. I can't just leave Ariost-san like{n}this!",
+   "en": "{v:0060}I'm sorry, Big Brother. I can't just leave Ariost-san{n}like this!",
    "term": "end"
   },
   {
    "id": "scen038.0080",
    "jp": "{v:0061}母親を思う気持ちは誰でも同じだ。{n}みんなで行ってやるとしようぜ？",
-   "en": "{v:0061}We all care about our mothers. Let's all go with him,{n}eh?",
+   "en": "{v:0061}We all care about our mothers. Let's all go with{n}him, eh?",
    "term": "end"
   },
   {
@@ -505,7 +505,7 @@
   {
    "id": "scen038.0082",
    "jp": "メディスから来たそこのご夫婦、{n}とっても仲がいいのよね。{n}あてられちゃうわ[01BE]",
-   "en": "That couple over there came from Medis. They're so{n}close, you know. All that lovey-dovey talk is getting to{n}me[01BE]",
+   "en": "That couple over there came from Medis. They're so{n}close, you know. All that lovey-dovey talk is getting{n}to me[01BE]",
    "term": "end"
   },
   {
@@ -523,7 +523,7 @@
   {
    "id": "scen038.0085",
    "jp": "そうじゃな‥‥。{n}じゃが、安心せえ、{n}ワシがお前さんを守ってやるわい。",
-   "en": "So it has... But don't you worry, my dear. I'll keep you{n}safe.",
+   "en": "So it has... But don't you worry, my dear. I'll keep{n}you safe.",
    "term": "end"
   },
   {
@@ -541,7 +541,7 @@
   {
    "id": "scen038.0088",
    "jp": "お互い、この歳まで生きられるとは{n}思わなかったのう‥‥。",
-   "en": "Neither of us thought we'd live to this ripe old age,{n}eh...?",
+   "en": "Neither of us thought we'd live to this ripe old{n}age, eh...?",
    "term": "end"
   },
   {
@@ -627,7 +627,7 @@
   {
    "id": "scen038.0102",
    "jp": "ふぅっ‥‥。{n}他の団員に何て言おうか‥‥。",
-   "en": "*sigh*... What am I going to tell the rest of the{n}troupe...?",
+   "en": "*sigh*... What am I going to tell the rest of{n}the troupe...?",
    "term": "end"
   },
   {
@@ -747,7 +747,7 @@
   {
    "id": "scen038.0122",
    "jp": "{v:0057}それじゃ、隊長はヴェンツェルの実験のために？",
-   "en": "{v:0057}Then, Captain, it was because of Wenzel's{n}experiments...?",
+   "en": "{v:0057}Then, Captain, it was because of{n}Wenzel's experiments...?",
    "term": "end"
   },
   {
@@ -789,7 +789,7 @@
   {
    "id": "scen038.0129",
    "jp": "{v:0062}お前の母は、私の親友の妻だった。{n}私もシエラを亡くし、{n}男手一つでゼノスを育てることが難しくなっていた。{p}{v:0063}そして、互いの子をつれ、再婚した‥‥。",
-   "en": "{v:0062}Your mother was my closest friend's wife. I, too, had{n}lost Sierra, and was finding it difficult to raise Xenos{n}on my own.{p}{v:0063}So we married, each bringing a child into our new{n}family...",
+   "en": "{v:0062}Your mother was my closest friend's wife. I, too, had{n}lost Sierra, and was finding it difficult to raise Xenos{n}on my own.{p}{v:0063}So we married, each bringing a child into our{n}new family...",
    "term": "end"
   },
   {
@@ -819,7 +819,7 @@
   {
    "id": "scen038.0134",
    "jp": "{v:0068}後のことは頼むぞ‥‥。{n}絶対に奴を‥倒して‥‥くれ‥‥‥。",
-   "en": "{v:0068}I leave the rest to you... You must... defeat him...{n}Please...",
+   "en": "{v:0068}I leave the rest to you... You must... defeat{n}him... Please...",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen038.0152",
    "jp": "{v:0004}奴にはパワーストーンなどという物を{n}使ってくれた礼があるからな。",
-   "en": "{v:0004}I owe him my thanks for using that wretched Power{n}Stone.",
+   "en": "{v:0004}I owe him my thanks for using that wretched{n}Power Stone.",
    "term": "end"
   },
   {
@@ -969,7 +969,7 @@
   {
    "id": "scen038.0159",
    "jp": "‥{v:000B}みんなか‥‥。{n}気をつけろ！{n}ヴェンツェルは、手強いぞ！",
-   "en": "...{v:000B}So you're all here... Be careful! Wenzel is a formidable{n}foe!",
+   "en": "...{v:000B}So you're all here... Be careful! Wenzel is a{n}formidable foe!",
    "term": "end"
   },
   {
@@ -1414,7 +1414,7 @@
   {
    "id": "scen038.0229",
    "jp": "{v:0019}その場所に、なにか特別な思い出がありそうね。",
-   "en": "{v:0019}Sounds like you've got some special memories of that{n}place.",
+   "en": "{v:0019}Sounds like you've got some special memories of{n}that place.",
    "term": "end"
   },
   {
@@ -1432,13 +1432,13 @@
   {
    "id": "scen038.0232",
    "jp": "{v:001D}あの時、人の優しさ、温かさを感じたんだ。{n}だから、故郷のお花畑は私の１番のお気に入り‥‥。",
-   "en": "{v:001D}That was when I felt how kind and warm people could{n}be. That's why the flower field back home is my favorite{n}place...",
+   "en": "{v:001D}That was when I felt how kind and warm people could{n}be. That's why the flower field back home is my{n}favorite place...",
    "term": "end"
   },
   {
    "id": "scen038.0233",
    "jp": "{v:001E}でも、あの学院長がお花？{n}何だか似合わないなぁ‥‥。",
-   "en": "{v:001E}But the Headmaster, giving flowers? I just can't picture{n}it...",
+   "en": "{v:001E}But the Headmaster, giving flowers? I just can't{n}picture it...",
    "term": "end"
   },
   {
@@ -1508,7 +1508,7 @@
   {
    "id": "scen038.0244",
    "jp": "{v:006E}ヒドイですぅ‥‥。{FFF9}{FFFB}{n}{v:0026}お兄さま、ティピちゃんがいじめるぅ～。",
-   "en": "{v:006E}That's so mean...{FFF9}{FFFB}{v:0026}Big Brother, Tippi-chan's picking on{n}meee!",
+   "en": "{v:006E}That's so mean...{FFF9}{FFFB}{v:0026}Big Brother, Tippi-chan's picking{n}on meee!",
    "term": "end"
   },
   {
@@ -1559,7 +1559,7 @@
   {
    "id": "scen038.0252",
    "jp": "{v:0027}うん、お兄さまがそういうなら、アタシ気にしない★",
-   "en": "{v:0027}Okay! If you say so, Big Brother, I won't let it bother{n}me!",
+   "en": "{v:0027}Okay! If you say so, Big Brother, I won't let it{n}bother me!",
    "term": "end"
   },
   {
@@ -1589,7 +1589,7 @@
   {
    "id": "scen038.0257",
    "jp": "{v:0030}今度は勝手に遊びにいかないでよ？",
-   "en": "{v:0030}Don't go running off to play on your own this time,{n}okay?",
+   "en": "{v:0030}Don't go running off to play on your own this{n}time, okay?",
    "term": "end"
   },
   {
@@ -1694,7 +1694,7 @@
   {
    "id": "scen038.0274",
    "jp": "{v:004A}１人で悩むな。{n}俺たちは仲間だろ？",
-   "en": "{v:004A}Don't struggle with it alone. We're your friends, aren't{n}we?",
+   "en": "{v:004A}Don't struggle with it alone. We're your friends,{n}aren't we?",
    "term": "end"
   },
   {

@@ -93,13 +93,13 @@
   {
    "id": "scen071.0014",
    "jp": "{v:0008}本当にゴメンね。{n}でも授業で少し習ったから、{n}何かあったら説明くらいは出来るかも‥‥。",
-   "en": "{v:0008}I'm really sorry. But we learned a little about this in{n}class, so I might be able to explain things if we find{n}anything...",
+   "en": "{v:0008}I'm really sorry. But we learned a little about this in{n}class, so I might be able to explain things if we{n}find anything...",
    "term": "end"
   },
   {
    "id": "scen071.0015",
    "jp": "{v:0009}うん、期待してる！{n}さ、アリオストさんを探そ！",
-   "en": "{v:0009}Okay, I'm counting on you! Come on, let's find{n}Ariost-san!",
+   "en": "{v:0009}Okay, I'm counting on you! Come on, let's{n}find Ariost-san!",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen071.0058",
    "jp": "‥‥{v:004C}ああ。{n}{FC00}僕が空を飛ぶ研究をしているのは知っているね？",
-   "en": "...{v:004C}Oh, right. {FC00}You know I've been researching flight, don't{n}you?",
+   "en": "...{v:004C}Oh, right. {FC00}You know I've been researching flight,{n}don't you?",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen071.0066",
    "jp": "{v:0056}浮かぶことしかできないんだ。{n}移動するには風の力に頼るしかない。{p}{v:0057}やってみてわかったけど、{n}高度によって風の吹く方向がいろいろとあってね。{n}その風に乗れば目的地へは何とか行けるんだけど。",
-   "en": "{v:0056}All it can do is float. It has to rely on the wind to{n}move.{p}{v:0057}Testing showed me that the wind blows in different{n}directions at different altitudes. By riding those winds,{n}I can reach my destination, more or less.",
+   "en": "{v:0056}All it can do is float. It has to rely on the wind{n}to move.{p}{v:0057}Testing showed me that the wind blows in different{n}directions at different altitudes. By riding those winds,{n}I can reach my destination, more or less.",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen071.0078",
    "jp": "{v:0065}また、この娘は！{n}すぐ泣くんだからぁ！",
-   "en": "{v:0065}Oh, there she goes again! You cry at the drop of a{n}hat!",
+   "en": "{v:0065}Oh, there she goes again! You cry at the drop of{n}a hat!",
    "term": "end"
   },
   {
@@ -537,7 +537,7 @@
   {
    "id": "scen071.0088",
    "jp": "こんな場所があるなんて、思わなかっただろ？{n}驚いたかい？",
-   "en": "You never imagined a place like this existed, did you?{n}Surprised?",
+   "en": "You never imagined a place like this existed, did{n}you? Surprised?",
    "term": "end"
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "scen071.0102",
    "jp": "フェザリアンの歴代女王を記した本があるね。",
-   "en": "There's a book recording the successive Featherian{n}queens.",
+   "en": "There's a book recording the successive{n}Featherian queens.",
    "term": "end"
   },
   {
@@ -633,7 +633,7 @@
   {
    "id": "scen071.0104",
    "jp": "子供の正しいしつけ方‥‥とか{n}そんなのばかりだね。",
-   "en": "'How to Raise Children Properly'... They're all things like{n}that.",
+   "en": "'How to Raise Children Properly'... They're all things{n}like that.",
    "term": "end"
   },
   {

@@ -147,7 +147,7 @@
   {
    "id": "scen106.0023",
    "jp": "{v:002F}僕の祖父は若い頃、孤児たちを引き取って、{n}ここに村を作った。{p}{v:0030}孤児たちを養うために畑を作り、{n}出来た物を売って暮らしの必需品を買った。{n}それがこの村のはじまりだ。{p}{v:0031}最初は養われることに甘えていた孤児たちだったけど、{n}そのうち、自然と畑仕事を手伝うように{n}なったそうだよ。{p}{v:0032}僕の父も孤児の１人だった。",
-   "en": "{v:002F}When my grandfather was young, he took in orphans{n}and founded a village here.{p}{v:0030}He planted fields to feed them and sold the crops to{n}buy everyday necessities. That was how this village{n}began.{p}{v:0031}At first, the orphans took being cared for for{n}granted. But in time, they began helping in the fields of{n}their own accord.{p}{v:0032}My father was one of those orphans.",
+   "en": "{v:002F}When my grandfather was young, he took in orphans{n}and founded a village here.{p}{v:0030}He planted fields to feed them and sold the crops to{n}buy everyday necessities. That was how this{n}village began.{p}{v:0031}At first, the orphans took being cared for for{n}granted. But in time, they began helping in the fields of{n}their own accord.{p}{v:0032}My father was one of those orphans.",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen106.0027",
    "jp": "{v:003A}だからアリオストさんが成功すると、{n}皆さんも嬉しいんですね。",
-   "en": "{v:003A}So that's why everyone is so happy when you succeed,{n}Ariost-san.",
+   "en": "{v:003A}So that's why everyone is so happy when you{n}succeed, Ariost-san.",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen106.0030",
    "jp": "{v:003F}今の僕があるのは、{n}父から母のことを聞いたからなんだ。{p}{v:0040}母がフェザリアンで、{n}天にある都市にいるということを聞かされてから。{p}{v:0041}僕は、僕の欲のために、{n}母さんに会いたいというだけで研究をしてきた！{n}ただそれだけの理由で‥‥。",
-   "en": "{v:003F}I became who I am today because of what my father{n}told me about my mother.{p}{v:0040}He told me she was a Featherian, living in a city in the{n}sky.{p}{v:0041}I've done all this research for my own selfish wish,{n}just because I wanted to see my mother! That was my{n}only reason...",
+   "en": "{v:003F}I became who I am today because of what my father{n}told me about my mother.{p}{v:0040}He told me she was a Featherian, living in a city in{n}the sky.{p}{v:0041}I've done all this research for my own selfish wish,{n}just because I wanted to see my mother! That was my{n}only reason...",
    "term": "end"
   },
   {
@@ -288,13 +288,13 @@
   {
    "id": "scen106.0046",
    "jp": "{v:0055}なるほど。{n}君の母親は、最初から人間に好意を{n}持っていたわけじゃないんだな？{p}{v:0056}つまり彼女が、君の父のどこにひかれたのか？{n}それがフェザリアンを説得する鍵だな。",
-   "en": "{v:0055}I see. So your mother wasn't fond of humans from the{n}start?{p}{v:0056}Then what drew her to your father? That's the key to{n}persuading the Featherians.",
+   "en": "{v:0055}I see. So your mother wasn't fond of humans from{n}the start?{p}{v:0056}Then what drew her to your father? That's the key to{n}persuading the Featherians.",
    "term": "end"
   },
   {
    "id": "scen106.0047",
    "jp": "{v:0057}その答えがわかれば、他のフェザリアンも{n}母さんのように理解を示してくれるかもしれない‥‥。",
-   "en": "{v:0057}If we can find that answer, perhaps the other{n}Featherians will show the same understanding Mother{n}did...",
+   "en": "{v:0057}If we can find that answer, perhaps the other{n}Featherians will show the same understanding{n}Mother did...",
    "term": "end"
   },
   {
@@ -342,7 +342,7 @@
   {
    "id": "scen106.0055",
    "jp": "{FB00}{v:0060}国の使節にでもなれば、{n}公務でバーンシュタイン王国に行くようなことが{n}あるかも知れないけど。{p}{FC00}{v:0061}あれ？{n}そういえば、コムスプリングスへの旅行の話を{n}どこかで聞いたような気がするな。",
-   "en": "{FB00}{v:0060}If we became envoys or something, we might have a{n}chance to visit the Kingdom of Burnstein on official{n}business.{p}{FC00}{v:0061}Hm? Come to think of it, I seem to remember hearing{n}something about a trip to Comsprings.",
+   "en": "{FB00}{v:0060}If we became envoys or something, we might have a{n}chance to visit the Kingdom of Burnstein on{n}official business.{p}{FC00}{v:0061}Hm? Come to think of it, I seem to remember hearing{n}something about a trip to Comsprings.",
    "term": "end"
   },
   {
@@ -390,7 +390,7 @@
   {
    "id": "scen106.0063",
    "jp": "{v:0069}父の受け売りなんだけどね。{n}　『{FFEF}人は生きている限り諦めず、{n}　　　　　　自分の信念を貫くんだ{FFF1}』って。{p}{v:006A}僕に出来ることは、これだけだから、魔法を研究する。{n}人の知らないことを調べて、新しいことを見つける。{p}{v:006B}たとえ今は世に出せない技術かも知れないけど、{n}後の人が別の物を造りだそうというときに、{n}僕たちの研究が役に立つ。{p}{v:006C}そう信じているから、{n}そうすることが僕の生き方だから。{p}{v:006D}だから、僕という人間が{n}この世界に存在したという『証』なんだ。",
-   "en": "{v:0069}I'm only repeating what Father told me. '{FFEF}As long as you{n}live, never give up. Stay true to your convictions.{FFF1}'{p}{v:006A}This is all I can do, so I study magic. I investigate what{n}people don't know and discover new things.{p}{v:006B}Even if we can't share this technology with the world{n}now, our research will help people in the future when{n}they try to create something else.{p}{v:006C}That's what I believe. It's how I choose to live.{p}{v:006D}And so it's 'proof' that I, as a person, existed in this{n}world.",
+   "en": "{v:0069}I'm only repeating what Father told me. '{FFEF}As long as you{n}live, never give up. Stay true to your convictions.{FFF1}'{p}{v:006A}This is all I can do, so I study magic. I investigate what{n}people don't know and discover new things.{p}{v:006B}Even if we can't share this technology with the world{n}now, our research will help people in the future when{n}they try to create something else.{p}{v:006C}That's what I believe. It's how I choose to live.{p}{v:006D}And so it's 'proof' that I, as a person, existed in{n}this world.",
    "term": "end"
   },
   {
@@ -662,7 +662,7 @@
   {
    "id": "scen106.0108",
    "jp": "書棚からあふれた本が{n}床に積んである。",
-   "en": "Books that wouldn't fit on the shelves are piled on the{n}floor.",
+   "en": "Books that wouldn't fit on the shelves are piled on{n}the floor.",
    "term": "end"
   },
   {
@@ -680,7 +680,7 @@
   {
    "id": "scen106.0111",
    "jp": "{v:0011}虫じゃないって～の！{n}寝るなら、１人で寝なさい！",
-   "en": "{v:0011}I told you, I'm NOT a bug! If you want to sleep, go by{n}yourself!",
+   "en": "{v:0011}I told you, I'm NOT a bug! If you want to sleep, go{n}by yourself!",
    "term": "end"
   },
   {
@@ -704,7 +704,7 @@
   {
    "id": "scen106.0115",
    "jp": "{v:0016}奪われたってことは、学院長の事件と同じ？",
-   "en": "{v:0016}Stole it? You mean, like what happened with the{n}Headmaster?",
+   "en": "{v:0016}Stole it? You mean, like what happened with{n}the Headmaster?",
    "term": "end"
   },
   {
@@ -716,7 +716,7 @@
   {
    "id": "scen106.0117",
    "jp": "‥‥{v:0018}ルイセちゃん、アタシのことも覚えてないの。{n}それに、魔法だって‥‥。",
-   "en": "...{v:0018}Luise-chan doesn't even remember me. And her{n}magic...",
+   "en": "...{v:0018}Luise-chan doesn't even remember me. And{n}her magic...",
    "term": "end"
   },
   {
@@ -752,13 +752,13 @@
   {
    "id": "scen106.0123",
    "jp": "{v:001F}俺は結婚もしていないが、{n}もし娘がいたらと思うと‥‥。{n}治療法は絶対に見つけてやるさ。{p}{v:0020}とりあえず、その前に保養所でルイセを{n}預かってもらおう。",
-   "en": "{v:001F}I'm not even married, but when I think what it'd be like{n}if I had a daughter... I'll find a way to treat her. I swear{n}it.{p}{v:0020}First, though, let's leave Luise in the sanatorium's care.",
+   "en": "{v:001F}I'm not even married, but when I think what it'd be like{n}if I had a daughter... I'll find a way to treat her. I{n}swear it.{p}{v:0020}First, though, let's leave Luise in the sanatorium's care.",
    "term": "end"
   },
   {
    "id": "scen106.0124",
    "jp": "{v:0021}そうですね。{p}{v:0022}さぁ、みなさんもお疲れでしょう。{n}今夜はゆっくり休んで下さい。",
-   "en": "{v:0021}Yes, let's.{p}{v:0022}Now, you must all be tired. Please get some rest{n}tonight.",
+   "en": "{v:0021}Yes, let's.{p}{v:0022}Now, you must all be tired. Please get some{n}rest tonight.",
    "term": "end"
   },
   {
@@ -959,7 +959,7 @@
   {
    "id": "scen106.0157",
    "jp": "{v:0041}やめろ、ティピ。{n}こいつを責めてもどうにもならん。{p}{v:0042}だが、あの仮面野郎の言葉が{n}本当だってのは証明されたがな。",
-   "en": "{v:0041}Stop it, Tippi. Blaming him won't help.{p}{v:0042}Still, this proves that masked bastard was telling the{n}truth.",
+   "en": "{v:0041}Stop it, Tippi. Blaming him won't help.{p}{v:0042}Still, this proves that masked bastard was telling{n}the truth.",
    "term": "end"
   },
   {
@@ -1013,7 +1013,7 @@
   {
    "id": "scen106.0166",
    "jp": "{v:004D}お前を責めてるわけじゃねぇ。{n}‥‥本当につらいのはお前の方だろ。{p}{v:004E}とにかく、ルイセを保養所に連れて行く。{n}そして一刻も早くグローシュを取り戻す方法を探す。",
-   "en": "{v:004D}I'm not blaming you. ...You're the one hurting the most{n}here.{p}{v:004E}Anyway, we'll take Luise to the sanatorium. Then we'll{n}find a way to get her Grosh back as soon as we can.",
+   "en": "{v:004D}I'm not blaming you. ...You're the one hurting the{n}most here.{p}{v:004E}Anyway, we'll take Luise to the sanatorium. Then we'll{n}find a way to get her Grosh back as soon as we can.",
    "term": "end"
   }
  ]

@@ -108,7 +108,7 @@
   {
    "id": "scen060.0016",
    "jp": "{v:00CD}せっかくだから、手ぐらい握ってあげなさいよ。",
-   "en": "{v:00CD}Come on, at least take her hand while you've got the{n}chance.",
+   "en": "{v:00CD}Come on, at least take her hand while you've got{n}the chance.",
    "term": "end"
   },
   {
@@ -138,7 +138,7 @@
   {
    "id": "scen060.0021",
    "jp": "{v:00CA}あまり長い間、主賓が席を外すのも問題ですね。{n}そろそろ戻りましょう。{p}{v:00CB}私は着替えてから戻りますので、ここで。{p}{v:00CC}楽しいひとときをありがとうございました。",
-   "en": "{v:00CA}It would not do for the guest of honor to be absent{n}for too long. We should return.{p}{v:00CB}I shall change before I rejoin you, so we must part{n}here.{p}{v:00CC}Thank you for such a lovely time.",
+   "en": "{v:00CA}It would not do for the guest of honor to be absent{n}for too long. We should return.{p}{v:00CB}I shall change before I rejoin you, so we must{n}part here.{p}{v:00CC}Thank you for such a lovely time.",
    "term": "end"
   },
   {
@@ -506,13 +506,13 @@
   {
    "id": "scen060.0082",
    "jp": "{v:0040}もう、すねない、すねない！{n}‥‥でも、なんだか平和ねぇ‥‥。",
-   "en": "{v:0040}Oh, come on, don't sulk! ...It really does feel peaceful,{n}though...",
+   "en": "{v:0040}Oh, come on, don't sulk! ...It really does feel{n}peaceful, though...",
    "term": "end"
   },
   {
    "id": "scen060.0083",
    "jp": "{v:0041}あの{s:0116}も倒しちゃったってことは、{n}もうみんなで冒険できないってことですよね？{p}‥‥{v:0042}ちょっと寂しいなぁ。",
-   "en": "{v:0041}Now that we've even defeated {s:0116}, does{n}that mean we won't get to go adventuring together{n}anymore?{p}...{v:0042}I'll miss that a little.",
+   "en": "{v:0041}Now that we've even defeated {s:0116}, does{n}that mean we won't get to go adventuring{n}together anymore?{p}...{v:0042}I'll miss that a little.",
    "term": "end"
   },
   {
@@ -536,7 +536,7 @@
   {
    "id": "scen060.0087",
    "jp": "‥‥{v:0047}まだまだ、色気よりも食い気なのかしら‥‥。",
-   "en": "...{v:0047}I wonder if she's still hungrier for food than{n}romance...",
+   "en": "...{v:0047}I wonder if she's still hungrier for food{n}than romance...",
    "term": "end"
   },
   {
@@ -644,7 +644,7 @@
   {
    "id": "scen060.0105",
    "jp": "{v:004D}え、えぇ‥‥。{p}{v:004E}恥ずかしい話ですけど、私、テーブルマナーというか、{n}こういったパーティーでどうしたらいいのか、{n}よくわからないのです。",
-   "en": "{v:004D}Y-yes...{p}{v:004E}It's embarrassing to admit, but I don't really know much{n}about table manners, or how to behave at a party like{n}this.",
+   "en": "{v:004D}Y-yes...{p}{v:004E}It's embarrassing to admit, but I don't really know much{n}about table manners, or how to behave at a party{n}like this.",
    "term": "end"
   },
   {
@@ -743,7 +743,7 @@
   {
    "id": "scen060.0121",
    "jp": "{v:005E}おいしく食べられればそれでいいと思うけどね。",
-   "en": "{v:005E}I think as long as you enjoy the food, that's what{n}matters.",
+   "en": "{v:005E}I think as long as you enjoy the food, that's{n}what matters.",
    "term": "end"
   },
   {
@@ -779,7 +779,7 @@
   {
    "id": "scen060.0127",
    "jp": "{v:0067}俺はシャドー・ナイツの手先として、{n}ローランディア王国と戦ってたんだぜ？{p}{v:0068}いわばバーンシュタイン王国にとっちゃ、{n}忘れたい過去の汚点だ。{p}{v:0069}そんな俺がここに招かれているってのは、{n}やっぱり変じゃねぇか？",
-   "en": "{v:0067}I fought against the Kingdom of Rolandia as a pawn of{n}the Shadow Knights, remember?{p}{v:0068}You could say I'm a stain on the Kingdom of Burnstein's{n}past they'd rather forget.{p}{v:0069}Doesn't it seem odd that someone like me got invited{n}here?",
+   "en": "{v:0067}I fought against the Kingdom of Rolandia as a pawn of{n}the Shadow Knights, remember?{p}{v:0068}You could say I'm a stain on the Kingdom of Burnstein's{n}past they'd rather forget.{p}{v:0069}Doesn't it seem odd that someone like me got{n}invited here?",
    "term": "end"
   },
   {
@@ -965,7 +965,7 @@
   {
    "id": "scen060.0158",
    "jp": "{v:007F}では、先に行っていてください。{n}私はちょっと準備がありますので‥‥。",
-   "en": "{v:007F}Then please go on ahead. I have a few preparations to{n}make...",
+   "en": "{v:007F}Then please go on ahead. I have a few preparations{n}to make...",
    "term": "end"
   },
   {
@@ -1103,7 +1103,7 @@
   {
    "id": "scen060.0181",
    "jp": "{v:00AE}おお、君たちか。{n}実は今度の理事会で、{n}私が正式に学院長になることが決まりそうなんだ。",
-   "en": "{v:00AE}Oh, there you are. As it happens, the next board{n}meeting will likely make my appointment as Headmaster{n}official.",
+   "en": "{v:00AE}Oh, there you are. As it happens, the next board{n}meeting will likely make my appointment as{n}Headmaster official.",
    "term": "end"
   },
   {
@@ -1235,7 +1235,7 @@
   {
    "id": "scen060.0203",
    "jp": "{v:0006}すごいなぁ、こんな技術を持っていたのか‥‥。",
-   "en": "{v:0006}Amazing... I had no idea they possessed such a{n}technique...",
+   "en": "{v:0006}Amazing... I had no idea they possessed such{n}a technique...",
    "term": "end"
   },
   {
@@ -1355,7 +1355,7 @@
   {
    "id": "scen060.0223",
    "jp": "{v:001A}アタシを連れてってくれますか！{n}お兄さまのお役に立ちたいの！",
-   "en": "{v:001A}Will you take me with you?! I want to help you, Big{n}Brother!",
+   "en": "{v:001A}Will you take me with you?! I want to help you,{n}Big Brother!",
    "term": "end"
   },
   {
@@ -1367,7 +1367,7 @@
   {
    "id": "scen060.0225",
    "jp": "{v:001B}{s:0006}、がんばるであります！",
-   "en": "{v:001B}{s:0006}, reporting for duty! I'll do my best,{n}sir!",
+   "en": "{v:001B}{s:0006}, reporting for duty! I'll do my{n}best, sir!",
    "term": "end"
   },
   {

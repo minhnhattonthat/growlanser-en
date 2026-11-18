@@ -123,7 +123,7 @@
   {
    "id": "scen064.0019",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "Hey! Where do you think you're going at a time like{n}this?!",
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen064.0022",
    "jp": "人間たちにスキマ商売を教えたのはこの私だ。{p}そいつは{n}　　　　『天啓を受けた！』{n}　　　　　　　　　　　　　などと言っていたがな。{p}とにかくお前たち人間に売っても良いという{n}お達しが出たことだ。{n}さっそく商品を見ていくがいい。",
-   "en": "I was the one who taught humans the Nook Shop{n}business.{p}That fellow claimed, 'I received a divine revelation!' or{n}some such nonsense.{p}In any case, I have been given permission to sell to you{n}humans. Go on, have a look at my wares.",
+   "en": "I was the one who taught humans the Nook{n}Shop business.{p}That fellow claimed, 'I received a divine revelation!' or{n}some such nonsense.{p}In any case, I have been given permission to sell to you{n}humans. Go on, have a look at my wares.",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen064.0029",
    "jp": "{v:0009}はるか昔、グローシアンが人々を支配していたことは{n}知っておろう。{p}{v:000A}ヴェンツェルは、その当時から生き延びてきた{n}グローシアンであり、しかもその最後の王でもある。",
-   "en": "{v:0009}You know that the Growsians ruled over the people long{n}ago.{p}{v:000A}Wenzel is a Growsian who has survived since that age.{n}Moreover, he was their last king.",
+   "en": "{v:0009}You know that the Growsians ruled over the people{n}long ago.{p}{v:000A}Wenzel is a Growsian who has survived since that age.{n}Moreover, he was their last king.",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen064.0032",
    "jp": "{v:000D}寿命については、追って説明しよう。{n}まず、当時のグローシアンが、{n}突如として姿を消した事も知っておるな？",
-   "en": "{v:000D}I shall explain his longevity in due course. First, you also{n}know that the Growsians of that age suddenly{n}vanished?",
+   "en": "{v:000D}I shall explain his longevity in due course. First, you also{n}know that the Growsians of that age{n}suddenly vanished?",
    "term": "end"
   },
   {
@@ -249,13 +249,13 @@
   {
    "id": "scen064.0040",
    "jp": "{v:0019}そう。{n}そしてその融合は、さらに危険なもう１つの力を、{n}手にする可能性がある。{p}{v:001A}時空の歪みを自在に操る力をな‥‥。",
-   "en": "{v:0019}Yes. And that fusion could grant yet another, even{n}more dangerous power.{p}{v:001A}The power to manipulate distortions in space-time at{n}will...",
+   "en": "{v:0019}Yes. And that fusion could grant yet another, even{n}more dangerous power.{p}{v:001A}The power to manipulate distortions in space-time{n}at will...",
    "term": "end"
   },
   {
    "id": "scen064.0041",
    "jp": "{v:001B}時空の歪みを操るって、どういうこと？",
-   "en": "{v:001B}What do you mean, manipulate distortions in{n}space-time?",
+   "en": "{v:001B}What do you mean, manipulate distortions{n}in space-time?",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen064.0043",
    "jp": "{v:001D}元の世界にあるグローシュを使うことができるから、{n}ですよね？",
-   "en": "{v:001D}Because they can use the Grosh in our original world,{n}right?",
+   "en": "{v:001D}Because they can use the Grosh in our original{n}world, right?",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen064.0046",
    "jp": "{v:0022}我々や、そなたら人間は、{n}元々この世界の住人ではない。{p}{v:0023}そして逆に、ゲヴェルは元々、{n}この世界に住んでいた生物。{p}{v:0024}つまり人とゲヴェルとの融合は、{n}２つの世界の融合でもあるのだ。{p}{v:0025}ましてヴェンツェルは皆既日食のグローシアン。{n}より強く、２つの世界に干渉する力が得られよう。{p}{v:0026}だが融合実験は、{n}完全には成功していなかったと見える。",
-   "en": "{v:0022}Neither we nor you humans originally inhabited this{n}world.{p}{v:0023}Gevel, on the other hand, was originally a creature{n}native to this world.{p}{v:0024}Thus, fusion between a human and Gevel is also a{n}fusion of the two worlds.{p}{v:0025}Moreover, Wenzel is a Growsian born during a total{n}solar eclipse. He could gain even greater power to{n}influence both worlds.{p}{v:0026}However, it seems the fusion experiment was not{n}entirely successful.",
+   "en": "{v:0022}Neither we nor you humans originally inhabited{n}this world.{p}{v:0023}Gevel, on the other hand, was originally a creature{n}native to this world.{p}{v:0024}Thus, fusion between a human and Gevel is also a{n}fusion of the two worlds.{p}{v:0025}Moreover, Wenzel is a Growsian born during a total{n}solar eclipse. He could gain even greater power to{n}influence both worlds.{p}{v:0026}However, it seems the fusion experiment was not{n}entirely successful.",
    "term": "end"
   },
   {
@@ -321,7 +321,7 @@
   {
    "id": "scen064.0052",
    "jp": "{v:0031}人間には正しい記録が残っていないようであるな。{p}{v:0032}その昔、我々の世界の太陽に異変が起こったという。{n}そこでフェザリアンの科学力と、人間の持つ魔力とを{n}合わせて、{FFEF}時空制御装置{FFF1}を造ったのだ。",
-   "en": "{v:0031}It seems no accurate records have survived among{n}humans.{p}{v:0032}It is said that long ago, something went wrong with{n}the sun in our world. So Featherian science and human{n}magic were combined to create the {FFEF}Space-Time Control{p}Device{FFF1}.",
+   "en": "{v:0031}It seems no accurate records have survived{n}among humans.{p}{v:0032}It is said that long ago, something went wrong with{n}the sun in our world. So Featherian science and human{n}magic were combined to create the {FFEF}Space-Time Control{p}Device{FFF1}.",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen064.0061",
    "jp": "{v:003D}その方法を知らせるため、アリオスト、{n}そなたを呼んだ。{p}{v:003E}ジーナは反省室で待っておる。{n}すぐに向かうがよい。",
-   "en": "{v:003D}Ariost, I summoned you so that she might tell you of{n}her plan.{p}{v:003E}Gina awaits you in the Reflection Room. Go to her at{n}once.",
+   "en": "{v:003D}Ariost, I summoned you so that she might tell you of{n}her plan.{p}{v:003E}Gina awaits you in the Reflection Room. Go to her{n}at once.",
    "term": "end"
   },
   {
@@ -417,7 +417,7 @@
   {
    "id": "scen064.0068",
    "jp": "‥‥{v:0045}そうか、その顔‥‥。{n}貴様がすべての計画を狂わせた張本人か‥‥。",
-   "en": "...{v:0045}I see... That face... So you are the one who ruined all my{n}plans...",
+   "en": "...{v:0045}I see... That face... So you are the one who ruined all{n}my plans...",
    "term": "end"
   },
   {
@@ -564,7 +564,7 @@
   {
    "id": "scen064.0092",
    "jp": "{v:003E}ジーナは反省室で待っておる。{n}すぐに向かうがよい。",
-   "en": "{v:003E}Gina awaits you in the Reflection Room. Go to her at{n}once.",
+   "en": "{v:003E}Gina awaits you in the Reflection Room. Go to her{n}at once.",
    "term": "end"
   },
   {
@@ -594,7 +594,7 @@
   {
    "id": "scen064.0097",
    "jp": "{v:0005}不用意に盗み出されることがないよう、{n}そのようにしたのだ。{p}{v:0006}しかしそのモンスターが外へ出ないようにする{n}仕掛けのせいで、洞窟内では魔法が使えぬ。",
-   "en": "{v:0005}I arranged it so that no one could simply steal the{n}unit.{p}{v:0006}However, the mechanism that keeps the monsters from{n}escaping also prevents the use of magic inside the{n}cave.",
+   "en": "{v:0005}I arranged it so that no one could simply steal{n}the unit.{p}{v:0006}However, the mechanism that keeps the monsters from{n}escaping also prevents the use of magic inside{n}the cave.",
    "term": "end"
   },
   {
@@ -606,7 +606,7 @@
   {
    "id": "scen064.0099",
    "jp": "{v:0008}あの中にはグローシュが全くないのだ。{n}だが、パワーストーンの制御装置のある扉を開くには、{n}魔法が必要であるぞ。",
-   "en": "{v:0008}There is no Grosh whatsoever inside. Yet magic is{n}required to open the door to the Power Stone's control{n}unit.",
+   "en": "{v:0008}There is no Grosh whatsoever inside. Yet magic is{n}required to open the door to the Power Stone's{n}control unit.",
    "term": "end"
   },
   {
@@ -690,7 +690,7 @@
   {
    "id": "scen064.0113",
    "jp": "ステラ様にもしもの事があれば{n}私が許しません。",
-   "en": "If anything happens to Stella-sama, I will never forgive{n}you.",
+   "en": "If anything happens to Stella-sama, I will never{n}forgive you.",
    "term": "end"
   },
   {
@@ -744,7 +744,7 @@
   {
    "id": "scen064.0122",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンがいるならば、{n}何かが起こるはずだ。",
-   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something should{n}happen.",
+   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
    "term": "end"
   },
   {
@@ -756,7 +756,7 @@
   {
    "id": "scen064.0124",
    "jp": "ここは『資料保管庫』だ。{n}女王ステラに命じられ、過去の記録を調べている。{n}邪魔をしないでいただきたい。",
-   "en": "These are the 'Archives'. I am examining historical{n}records on Queen Stella's orders. Kindly do not disturb{n}me.",
+   "en": "These are the 'Archives'. I am examining historical{n}records on Queen Stella's orders. Kindly do not{n}disturb me.",
    "term": "end"
   },
   {
@@ -840,7 +840,7 @@
   {
    "id": "scen064.0138",
    "jp": "{v:005E}城に戻っておいでって。{n}そこで話し合いましょうってさ。",
-   "en": "{v:005E}She said to come back to the castle. We'll talk it over{n}there.",
+   "en": "{v:005E}She said to come back to the castle. We'll talk it{n}over there.",
    "term": "end"
   },
   {
@@ -1124,7 +1124,7 @@
   {
    "id": "scen064.0185",
    "jp": "{v:002F}それは蓄えた歪みの力を解放しただけです。{p}{v:0030}時空制御装置を使うときには、{n}歪みの吸収のために使うので、問題はありません。{p}{v:0031}あなた達が何度か使ったように、{n}今度はヴェンツェルに対してその力を使うのです。",
-   "en": "{v:002F}That merely released the energy of the distortions it{n}had stored up.{p}{v:0030}When operating the space-time control device, the{n}stone is used to absorb distortions, so that poses no{n}problem.{p}{v:0031}Just as you have used its power several times{n}before, you must now use that power against Wenzel.",
+   "en": "{v:002F}That merely released the energy of the distortions it{n}had stored up.{p}{v:0030}When operating the space-time control device, the{n}stone is used to absorb distortions, so that poses{n}no problem.{p}{v:0031}Just as you have used its power several times{n}before, you must now use that power against Wenzel.",
    "term": "end"
   },
   {
@@ -1160,13 +1160,13 @@
   {
    "id": "scen064.0191",
    "jp": "{v:003C}でも、ずっと飛んでないよ？{n}すぐに落ちちゃうじゃない。",
-   "en": "{v:003C}But it doesn't keep flying, does it? It falls right back{n}down!",
+   "en": "{v:003C}But it doesn't keep flying, does it? It falls right{n}back down!",
    "term": "end"
   },
   {
    "id": "scen064.0192",
    "jp": "{v:003D}それが正しいのです。{p}{v:003E}長い間、石を飛ばすには、それだけ力を使って{n}投げなくてはなりません。その力が無くなったとき、{n}石は本来ある現象に戻るため、落下します。{p}{v:003F}このように、因果律の和は常に保たれようとします。",
-   "en": "{v:003D}That is exactly right.{p}{v:003E}To keep a stone flying longer, you must throw it with{n}that much more force. When that force is exhausted,{n}the stone returns to its natural state and falls.{p}{v:003F}In this way, causality always seeks to maintain its{n}balance.",
+   "en": "{v:003D}That is exactly right.{p}{v:003E}To keep a stone flying longer, you must throw it with{n}that much more force. When that force is exhausted,{n}the stone returns to its natural state and falls.{p}{v:003F}In this way, causality always seeks to maintain{n}its balance.",
    "term": "end"
   },
   {
@@ -1268,13 +1268,13 @@
   {
    "id": "scen064.0209",
    "jp": "{v:0054}はい。彼は私が地上に行き、{n}翼を痛めて飛べなくなっていたときに、{n}優しく治療してくれたのです。",
-   "en": "{v:0054}Yes. When I went down to the surface, I injured my{n}wings and could no longer fly. He kindly tended to my{n}injuries.",
+   "en": "{v:0054}Yes. When I went down to the surface, I injured my{n}wings and could no longer fly. He kindly tended to{n}my injuries.",
    "term": "end"
   },
   {
    "id": "scen064.0210",
    "jp": "{v:0055}最初は私も人間を軽蔑していました。{n}しかし、傷が癒える間、彼と行動を共にしている間に、{n}その考えは変わりました。{p}{v:0056}あの人は街で盗みをしていた孤児を見かけると、{n}自分の村に連れて帰り、養いました‥‥。",
-   "en": "{v:0055}At first, I too looked down on humans. But as I{n}accompanied him while my injuries healed, my views{n}changed.{p}{v:0056}Whenever he saw orphans stealing in town, he would{n}bring them back to his village and raise them...",
+   "en": "{v:0055}At first, I too looked down on humans. But as I{n}accompanied him while my injuries healed, my{n}views changed.{p}{v:0056}Whenever he saw orphans stealing in town, he would{n}bring them back to his village and raise them...",
    "term": "end"
   },
   {
@@ -1304,7 +1304,7 @@
   {
    "id": "scen064.0215",
    "jp": "{v:0006}ならばそんな社会を作った人間が{n}いけないのではないか！",
-   "en": "{v:0006}Then surely the humans who built such a society are to{n}blame!",
+   "en": "{v:0006}Then surely the humans who built such a society are{n}to blame!",
    "term": "end"
   },
   {
@@ -1334,7 +1334,7 @@
   {
    "id": "scen064.0220",
    "jp": "{v:000C}僕たちが作ったお野菜！{n}こーんなに大きくなったよ！",
-   "en": "{v:000C}These are the vegetables we grew! Look how biiig they{n}got!",
+   "en": "{v:000C}These are the vegetables we grew! Look how biiig{n}they got!",
    "term": "end"
   },
   {
@@ -1352,7 +1352,7 @@
   {
    "id": "scen064.0223",
    "jp": "{v:0010}これで野菜スープ作ってもらうんだ！",
-   "en": "{v:0010}We're going to have someone make vegetable soup with{n}these!",
+   "en": "{v:0010}We're going to have someone make vegetable soup{n}with these!",
    "term": "end"
   },
   {
@@ -1394,7 +1394,7 @@
   {
    "id": "scen064.0230",
    "jp": "{v:0018}この村の創始者であり、{n}僕たちの父が言っていた口グセさ。{p}{v:0019}これで社会が変わるとは思えないけど、{n}人は変えられる。{p}{v:001A}それでも、僕がしていることは無駄なのかな？",
-   "en": "{v:0018}It's something our father, the founder of this village,{n}always used to say.{p}{v:0019}I don't expect this to change society, but it can change{n}people.{p}{v:001A}Do you still think I'm wasting my efforts?",
+   "en": "{v:0018}It's something our father, the founder of this village,{n}always used to say.{p}{v:0019}I don't expect this to change society, but it can{n}change people.{p}{v:001A}Do you still think I'm wasting my efforts?",
    "term": "end"
   },
   {
@@ -1406,7 +1406,7 @@
   {
    "id": "scen064.0232",
    "jp": "{v:001C}それから私は彼のしていること、{n}そしてその結果を見守りました。{p}{v:001D}そして分かったのです。{n}人間には、フェザリアンにない物がある。{p}{v:001E}それは、あきらめない心。{p}{v:001F}私たちはいつしか愛し合い、そこでアリオスト。{n}お前が生まれたのです。",
-   "en": "{v:001C}After that, I watched what he did and the results it{n}brought.{p}{v:001D}And then I understood. Humans possess something that{n}we Featherians lack.{p}{v:001E}A heart that will not give up.{p}{v:001F}In time, we fell in love. And there, Ariost, you were{n}born.",
+   "en": "{v:001C}After that, I watched what he did and the results{n}it brought.{p}{v:001D}And then I understood. Humans possess something that{n}we Featherians lack.{p}{v:001E}A heart that will not give up.{p}{v:001F}In time, we fell in love. And there, Ariost, you{n}were born.",
    "term": "end"
   },
   {

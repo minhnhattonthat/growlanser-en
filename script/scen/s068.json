@@ -81,13 +81,13 @@
   {
    "id": "scen068.0012",
    "jp": "まず彼に会って、フェザリアンの所へ行く方法を{n}探す事だな。{p}サンドラ様が危ないんだろ？{n}遊んでいる暇はないぞ。",
-   "en": "First, we meet him and find a way to reach the{n}Featherians.{p}Sandra-sama's life is in danger, isn't it? We've got no{n}time to fool around.",
+   "en": "First, we meet him and find a way to reach{n}the Featherians.{p}Sandra-sama's life is in danger, isn't it? We've got no{n}time to fool around.",
    "term": "end"
   },
   {
    "id": "scen068.0013",
    "jp": "魔法学院ならウォレスさんと会った村よりずっと東、{n}バーンシュタイン王国との境にあるの。",
-   "en": "The Magic Academy is far east of the village where we{n}met Wallace-san, on the border with the Kingdom of{n}Burnstein.",
+   "en": "The Magic Academy is far east of the village where we{n}met Wallace-san, on the border with the Kingdom{n}of Burnstein.",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen068.0022",
    "jp": "{v:000C}僕はいつか、フェザリアンの住むあの浮き島に{n}行ってやるんだ。{n}だがそのためには、もっと研究をしなくては‥‥。",
-   "en": "{v:000C}Someday, I'll reach that floating island where the{n}Featherians live. But I'll need to do more research{n}first...",
+   "en": "{v:000C}Someday, I'll reach that floating island where the{n}Featherians live. But I'll need to do more{n}research first...",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen068.0038",
    "jp": "{v:001F}アンタ、自分の妹のことでしょ！{n}覚えておきなさいよね！",
-   "en": "{v:001F}Hey, she's YOUR little sister! You'd better remember{n}this!",
+   "en": "{v:001F}Hey, she's YOUR little sister! You'd better{n}remember this!",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen068.0042",
    "jp": "{v:0025}あ、この『ふわふわぴかぴか』のこと？{n}これがグローシュなんだ‥‥。",
-   "en": "{v:0025}Oh, you mean this 'floaty-sparkly stuff'? So THIS is{n}Grosh...",
+   "en": "{v:0025}Oh, you mean this 'floaty-sparkly stuff'? So THIS{n}is Grosh...",
    "term": "end"
   },
   {
@@ -362,7 +362,7 @@
   {
    "id": "scen068.0058",
    "jp": "{v:0040}‥‥あれから２０年。{n}ずっと待っていました‥‥。",
-   "en": "{v:0040}...Twenty years since then. I've been waiting all this{n}time...",
+   "en": "{v:0040}...Twenty years since then. I've been waiting all{n}this time...",
    "term": "end"
   },
   {
@@ -434,7 +434,7 @@
   {
    "id": "scen068.0070",
    "jp": "{v:004A}い、今のって‥‥？{n}えっ？{n}アンタの夢に出てきた人？",
-   "en": "{v:004A}W-what was that...? Huh? She's the woman from your{n}dream?",
+   "en": "{v:004A}W-what was that...? Huh? She's the woman from{n}your dream?",
    "term": "end"
   },
   {
@@ -446,7 +446,7 @@
   {
    "id": "scen068.0072",
    "jp": "ちょっと！{n}アタシを残して、どこ行くつもりよ！",
-   "en": "Hey! Where do you think you're going, leaving me{n}behind?!",
+   "en": "Hey! Where do you think you're going, leaving{n}me behind?!",
    "term": "end"
   },
   {
@@ -482,7 +482,7 @@
   {
    "id": "scen068.0078",
    "jp": "{v:0013}アリオストさんが動かすから、あと１人‥‥。",
-   "en": "{v:0013}Ariost-san will be operating it, so there's room for one{n}more...",
+   "en": "{v:0013}Ariost-san will be operating it, so there's room for{n}one more...",
    "term": "end"
   },
   {

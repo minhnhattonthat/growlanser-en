@@ -141,7 +141,7 @@
   {
    "id": "scen081.0022",
    "jp": "{v:0024}途中で落ちる速度がゆっくりになったよね！？",
-   "en": "{v:0024}We started falling more slowly partway down, didn't{n}we?!",
+   "en": "{v:0024}We started falling more slowly partway down,{n}didn't we?!",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen081.0034",
    "jp": "{v:0031}あの濁流にのまれていたら、{n}生きてはいないだろうな。",
-   "en": "{v:0031}We wouldn't have survived if that torrent had swept us{n}away.",
+   "en": "{v:0031}We wouldn't have survived if that torrent had swept{n}us away.",
    "term": "end"
   },
   {

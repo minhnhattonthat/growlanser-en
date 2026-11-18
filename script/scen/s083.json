@@ -402,7 +402,7 @@
   {
    "id": "scen083.0065",
    "jp": "{v:000F}それじゃ、夢に出てきたっていう、{n}マスターを襲った連中も‥‥？",
-   "en": "{v:000F}Then those guys who attacked Master in your{n}dream...?",
+   "en": "{v:000F}Then those guys who attacked Master in{n}your dream...?",
    "term": "end"
   },
   {
@@ -426,19 +426,19 @@
   {
    "id": "scen083.0069",
    "jp": "{v:0001}まさかお兄ちゃんが夢で見た場所って、ここなの？",
-   "en": "{v:0001}Big Brother, is this really the place you saw in your{n}dream?",
+   "en": "{v:0001}Big Brother, is this really the place you saw in{n}your dream?",
    "term": "end"
   },
   {
    "id": "scen083.0070",
    "jp": "{v:0002}村からの距離を考えると、たしかにこの辺りだ。{p}{v:0003}だとすると、お前の見た夢ってのは{n}かなり信憑性があるって事か。",
-   "en": "{v:0002}Judging by the distance from the village, it was{n}definitely around here.{p}{v:0003}If so, there's good reason to believe that dream of{n}yours.",
+   "en": "{v:0002}Judging by the distance from the village, it was{n}definitely around here.{p}{v:0003}If so, there's good reason to believe that dream{n}of yours.",
    "term": "end"
   },
   {
    "id": "scen083.0071",
    "jp": "{v:0004}それじゃ、夢に出てきたっていう、{n}マスターを襲った連中も‥‥？",
-   "en": "{v:0004}Then those guys who attacked Master in your{n}dream...?",
+   "en": "{v:0004}Then those guys who attacked Master in{n}your dream...?",
    "term": "end"
   },
   {
@@ -534,7 +534,7 @@
   {
    "id": "scen083.0087",
    "jp": "{v:0015}ああ。{n}だが何も起こらないってのがかえって不気味だぜ。",
-   "en": "{v:0015}Yeah. But nothing happening makes it all the more{n}unsettling.",
+   "en": "{v:0015}Yeah. But nothing happening makes it all the{n}more unsettling.",
    "term": "end"
   },
   {

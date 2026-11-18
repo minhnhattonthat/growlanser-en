@@ -39,7 +39,7 @@
   {
    "id": "scen047.0005",
    "jp": "{v:0013}おい、誰か、あのカレンとかいう娘を！",
-   "en": "{v:0013}Hey, someone! That girl, Karen or whatever her name{n}is!",
+   "en": "{v:0013}Hey, someone! That girl, Karen or whatever her{n}name is!",
    "term": "end"
   },
   {
@@ -87,7 +87,7 @@
   {
    "id": "scen047.0013",
    "jp": "{v:0017}だからって蹴らないでよ！{n}バカになっちゃう～！",
-   "en": "{v:0017}That doesn't mean you have to kick me! You'll make me{n}stupiiid!",
+   "en": "{v:0017}That doesn't mean you have to kick me! You'll make{n}me stupiiid!",
    "term": "end"
   },
   {
@@ -189,13 +189,13 @@
   {
    "id": "scen047.0030",
    "jp": "{v:00A2}いいえ、兄さんこそ、私のせいでこんなことに‥‥。",
-   "en": "{v:00A2}No, Brother. It's my fault you got caught up in all{n}this...",
+   "en": "{v:00A2}No, Brother. It's my fault you got caught up in{n}all this...",
    "term": "end"
   },
   {
    "id": "scen047.0031",
    "jp": "‥‥{v:00A3}さぁ、家に帰ろう。{n}そして昔のように一緒に暮らそう。",
-   "en": "...{v:00A3}Come on, let's go home. Let's live together like we used{n}to.",
+   "en": "...{v:00A3}Come on, let's go home. Let's live together like we{n}used to.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen047.0050",
    "jp": "{v:002D}そんなこと言っちゃダメ！{n}アタシたちが助けるから！{p}{v:002E}絶対呪いを解いてあげるから！{n}だから、もう少し我慢して！",
-   "en": "{v:002D}Don't say that! We're going to save you!{p}{v:002E}We'll break that curse, I promise! Just hang on a little{n}longer!",
+   "en": "{v:002D}Don't say that! We're going to save you!{p}{v:002E}We'll break that curse, I promise! Just hang on a{n}little longer!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen047.0054",
    "jp": "ごめんなさい‥‥。{n}私のせいで、みなさんまで危険な目に{n}あわせてしまって‥‥。",
-   "en": "I'm sorry... I've put all of you in danger because of{n}me...",
+   "en": "I'm sorry... I've put all of you in danger because{n}of me...",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen047.0064",
    "jp": "{v:0031}この娘を助け出すためにお前たちが来ると{n}読んだのは正解だったな。{p}{v:0032}だがお前たちにその娘は助けられん。{n}我が呪いは、瞬時に発動するからな。",
-   "en": "{v:0031}I was right to expect you to come for this girl.{p}{v:0032}But you cannot save her. My curse takes effect in an{n}instant.",
+   "en": "{v:0031}I was right to expect you to come for this girl.{p}{v:0032}But you cannot save her. My curse takes effect in{n}an instant.",
    "term": "end"
   },
   {

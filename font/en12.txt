@@ -96,3 +96,15 @@ U+2026 9 #.#.#
 U+2014 6 ######
 U+266A 2 ..##./..#.#/..#../..#../.##../###../.#...
 U+2665 3 .##.##./#######/#######/.#####./..###../...#...
+# Spacers (enfont.SPACERS): blank, advance 1-11 px, for centring labels in frames sized by code count.
+U+E001 0 w=1 .
+U+E002 0 w=2 .
+U+E003 0 w=3 .
+U+E004 0 w=4 .
+U+E005 0 w=5 .
+U+E006 0 w=6 .
+U+E007 0 w=7 .
+U+E008 0 w=8 .
+U+E009 0 w=9 .
+U+E00A 0 w=10 .
+U+E00B 0 w=11 .

@@ -33,6 +33,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (e) empty dialogue body: bt_bandits f002400 (Wallace), ev_charamake f003600 (Citizen): check frame timing first.
     (f) one-word last lines: dn_glocian f002640 "interior.", st_vac01 f003360 "closer.", st_vac02 f003240
         "person.": reword or make the wrapper avoid a single-word final line.
+- **Phase 8 session 2 (2026-11-19): vqa issues (a)-(f) fixed** (shots work/qa/fix2-fix4, pop1, bern, bandits*):
+  (a) field-menu bubbles (exe.sys.0062-0067): frame = 12 px x codes, label at its left edge; `insert.Encoder.centre`
+  leads with blank spacer glyphs (font U+E001-E00B, advance 1-11 px, `enfont.SPACERS`, decode drops them).
+  (b) place popup (exe.places and scene strings like "Nostridge Plains Garrison"): asm `popup_width` hooks
+  0x8006BBB8/0x8006BCA0 so the frame is the text's VWF pixel width. "Dels'lage" and (c) were the popup's
+  open/close scale animation (full frames read fine). (d) name entry: grids exe.sys.0070-0099 kept JP (one code per
+  key, D14); exe.sys.0069 is one printed line cut into fixed slices (title 60 px, blank 12, labels 24 px):
+  `insert.SLOTS` + `Encoder.slots`, labels Hira/Kata/ABC/Del/OK. (e) empty box = JP too (box opens ~24 frames
+  before text). (f) `batches.py widows --write` (also run by `wrap`): a page's one-word last line takes the word
+  before it unless that line ends a sentence; 1,899 lines changed, lint 0 problems.
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
   contact sheets, visual-QA verdicts with `qa_gate.py`, graphics text G1-G8 from docs/re/graphics.md, `inkbox.py`
   on choice/centred boxes, `textcover.py`). Things to watch, found in phase 7: (1) any other window the game sizes

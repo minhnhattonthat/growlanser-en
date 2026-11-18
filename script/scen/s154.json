@@ -137,7 +137,7 @@
   {
    "id": "scen154.0021",
    "jp": "{v:00A3}かまわん。{n}お前なら大丈夫だろう。",
-   "en": "{v:00A3}That does not matter. I am sure you will do well{n}enough.",
+   "en": "{v:00A3}That does not matter. I am sure you will do{n}well enough.",
    "term": "end"
   },
   {
@@ -175,7 +175,7 @@
   {
    "id": "scen154.0027",
    "jp": "{v:00A6}お前なら知っていると思ったが‥‥。{FFF9}{FFFB}{n}{v:00A7}しかたない。{n}少し探すとしよう。",
-   "en": "{v:00A6}I thought you would know...{FFF9}{FFFB}{v:00A7}No matter. Let us look{n}around.",
+   "en": "{v:00A6}I thought you would know...{FFF9}{FFFB}{v:00A7}No matter. Let us{n}look around.",
    "term": "end"
   },
   {
@@ -279,13 +279,13 @@
   {
    "id": "scen154.0044",
    "jp": "{v:010A}申し訳ありません、{n}みなさんを騒ぎに巻き込んでしまったようです。{p}{v:010B}今日の所はこれでお開きにしましょう。{n}この埋め合わせは、{n}また次の機会にでもしたいと思います。",
-   "en": "{v:010A}My apologies. It seems I have drawn you all into this{n}disturbance.{p}{v:010B}Let us bring the festivities to a close for today. I{n}hope to make this up to you on another occasion.",
+   "en": "{v:010A}My apologies. It seems I have drawn you all into{n}this disturbance.{p}{v:010B}Let us bring the festivities to a close for today. I{n}hope to make this up to you on another occasion.",
    "term": "end"
   },
   {
    "id": "scen154.0045",
    "jp": "{v:00EC}ふぅ‥‥お前が変なことをするから、{n}かえって暑くなってきたぞ。{p}‥‥{v:00ED}しかし不思議な男だ。{n}お前に愛される女は、きっと果報者なのだろうな‥‥。{p}{v:00EE}私はこれまで男という存在を{n}特別視したことはなかったが、{n}どうやらお前はそういうものに値するやもしれん‥‥。",
-   "en": "{v:00EC}Whew... Your strange antics have only made me feel{n}warmer.{p}...{v:00ED}You are a curious man, though. Any woman you love{n}must surely be fortunate...{p}{v:00EE}I have never felt that way about a man before, but{n}perhaps you could be the exception...",
+   "en": "{v:00EC}Whew... Your strange antics have only made me{n}feel warmer.{p}...{v:00ED}You are a curious man, though. Any woman you love{n}must surely be fortunate...{p}{v:00EE}I have never felt that way about a man before, but{n}perhaps you could be the exception...",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen154.0049",
    "jp": "{v:00F3}くっ！{n}見つかったか！{n}もう少しで、王の所まで忍び寄れたものを！{p}{v:00F4}まぁいい。{n}欠陥品共々、ここで蹴散らしてくれる！",
-   "en": "{v:00F3}Damn! Spotted! I was so close to reaching the king{n}unnoticed!{p}{v:00F4}No matter. I'll crush you here, along with that{n}defective specimen!",
+   "en": "{v:00F3}Damn! Spotted! I was so close to reaching the{n}king unnoticed!{p}{v:00F4}No matter. I'll crush you here, along with that{n}defective specimen!",
    "term": "end"
   },
   {
@@ -351,13 +351,13 @@
   {
    "id": "scen154.0056",
    "jp": "リーヴス、俺を酔わせてどうするつもりだ？",
-   "en": "Reeves, what are you planning to do once you have me{n}drunk?",
+   "en": "Reeves, what are you planning to do once you have{n}me drunk?",
    "term": "end"
   },
   {
    "id": "scen154.0057",
    "jp": "どうだいライエル？{n}このシュッツベルグ産のワインは絶品だよ。",
-   "en": "What do you think, Lyell? This wine from Schutzberg is{n}exquisite.",
+   "en": "What do you think, Lyell? This wine from Schutzberg{n}is exquisite.",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen154.0071",
    "jp": "招待客もそろった事ですし、{n}パーティーを始めましょう。",
-   "en": "Now that all our guests are here, let us begin the{n}party.",
+   "en": "Now that all our guests are here, let us begin{n}the party.",
    "term": "end"
   },
   {
@@ -459,13 +459,13 @@
   {
    "id": "scen154.0074",
    "jp": "{v:00CD}今日はもう１つ、{n}みなさんにお知らせしたいことがあります。",
-   "en": "{v:00CD}There is one more thing I would like to announce{n}today.",
+   "en": "{v:00CD}There is one more thing I would like to{n}announce today.",
    "term": "end"
   },
   {
    "id": "scen154.0075",
    "jp": "{v:00CE}彼女の名はジュリア・ダグラス。{n}心技体すべてにおいて優れ、{n}人々の模範となれる素晴らしい女性です。{p}{v:00CF}そして私は、彼女を女性で最初の、{n}インペリアル・ナイトに任命します！",
-   "en": "{v:00CE}Her name is Julia Douglas. She is an exceptional woman,{n}outstanding in character, skill, and strength, and an{n}example to us all.{p}{v:00CF}And I hereby appoint her our first female Imperial{n}Knight!",
+   "en": "{v:00CE}Her name is Julia Douglas. She is an exceptional woman,{n}outstanding in character, skill, and strength, and an{n}example to us all.{p}{v:00CF}And I hereby appoint her our first female{n}Imperial Knight!",
    "term": "end"
   },
   {
@@ -531,7 +531,7 @@
   {
    "id": "scen154.0086",
    "jp": "あれ以来、化け物の姿はなくなりました。",
-   "en": "There have been no sightings of the monster since{n}then.",
+   "en": "There have been no sightings of the monster{n}since then.",
    "term": "end"
   },
   {
@@ -750,7 +750,7 @@
   {
    "id": "scen154.0122",
    "jp": "{v:0163}あれ誰だ？　あんな美人、見かけたことないぞ？",
-   "en": "{v:0163}Who's that? I've never seen a beauty like her around{n}here!",
+   "en": "{v:0163}Who's that? I've never seen a beauty like her{n}around here!",
    "term": "end"
   },
   {
@@ -1006,7 +1006,7 @@
   {
    "id": "scen154.0164",
    "jp": "{v:00EA}そうか‥‥。{n}お前の戦いぶりを見物しようと考えていたのだが‥‥。{n}残念だ。",
-   "en": "{v:00EA}I see... I was hoping to watch you fight... What a{n}shame.",
+   "en": "{v:00EA}I see... I was hoping to watch you fight... What{n}a shame.",
    "term": "end"
   },
   {
@@ -1090,7 +1090,7 @@
   {
    "id": "scen154.0178",
    "jp": "{v:00AC}よし、いっちょ上がり！{n}ほらできたぜ！{n}俺特製のスペシャルランチだ！",
-   "en": "{v:00AC}All right, order up! Here you go! My very own special{n}lunch!",
+   "en": "{v:00AC}All right, order up! Here you go! My very own{n}special lunch!",
    "term": "end"
   },
   {
@@ -1207,7 +1207,7 @@
   {
    "id": "scen154.0197",
    "jp": "{v:00BF}まったく、うまいと分かったら途端にこれだ。{n}{FC04}ほら、ゆっくり食え。{n}飯は逃げたりしないからな。",
-   "en": "{v:00BF}Sheesh, the moment you find out it's good, you start{n}doing this. {FC04}Hey, slow down. The food's not going{n}anywhere.",
+   "en": "{v:00BF}Sheesh, the moment you find out it's good, you start{n}doing this. {FC04}Hey, slow down. The food's not{n}going anywhere.",
    "term": "end"
   },
   {
@@ -1219,7 +1219,7 @@
   {
    "id": "scen154.0199",
    "jp": "{v:00C1}ああ、傭兵だなんだと出稼ぎにでることが多くてな。{n}自然と料理の腕も鍛えられたのさ。",
-   "en": "{v:00C1}Yeah, but I was away a lot, earning a living as a{n}mercenary and whatnot. Picked up cooking along the{n}way.",
+   "en": "{v:00C1}Yeah, but I was away a lot, earning a living as a{n}mercenary and whatnot. Picked up cooking along{n}the way.",
    "term": "end"
   },
   {
@@ -1279,7 +1279,7 @@
   {
    "id": "scen154.0209",
    "jp": "{v:010E}いよいよ、チャンピオンに挑戦ですね。{n}用意はよろしいですか？",
-   "en": "{v:010E}It is finally time to challenge the champion. Are you{n}ready?",
+   "en": "{v:010E}It is finally time to challenge the champion. Are{n}you ready?",
    "term": "end"
   },
   {
@@ -1357,7 +1357,7 @@
   {
    "id": "scen154.0222",
    "jp": "{v:0135}はっ！{n}ありがたき光栄に存じます。{p}{v:0136}私、ジュリア・ダグラスは、あなたに忠誠を誓います。{n}これから私は、マイ＝ロード、{n}あなたを守る剣となります。{p}‥‥{FE1E}{v:0138}申し訳ありません。{n}１つ言い忘れておりました。{p}{v:0139}私はインペリアル・ナイツとして{n}陛下に剣を捧げた者です。{p}{v:013A}対外的な問題もあり、{n}人前でマイ＝ロードとお呼びすることができません。{p}{v:013B}そのため、人目のない場所でのみ{n}マイ＝ロードと呼ぶことをお許しください。{p}{v:013C}それでは私は、インペリアル・ナイトとしての{n}仕事がありますので、一時、戻らせていただきます。{p}{v:013D}本日はありがとうございました。{n}これからも、よろしくお願いいたします。",
-   "en": "{v:0135}Yes! You do me a great honor.{p}{v:0136}I, Julia Douglas, swear my loyalty to you. From this day{n}forth, My Lord, I shall be the sword that protects{n}you.{p}...{FE1E}{v:0138}Forgive me. There is one thing I forgot to mention.{p}{v:0139}As a member of the Imperial Knights, I have pledged my{n}sword to His Majesty.{p}{v:013A}Given the complications it would cause in our public{n}dealings, I cannot address you as My Lord before{n}others.{p}{v:013B}I therefore ask your permission to call you My Lord{n}only when we are alone.{p}{v:013C}Now, I have duties to attend to as an Imperial Knight,{n}so I must take my leave for a time.{p}{v:013D}Thank you for today. I look forward to serving you.",
+   "en": "{v:0135}Yes! You do me a great honor.{p}{v:0136}I, Julia Douglas, swear my loyalty to you. From this day{n}forth, My Lord, I shall be the sword that{n}protects you.{p}...{FE1E}{v:0138}Forgive me. There is one thing I forgot to mention.{p}{v:0139}As a member of the Imperial Knights, I have pledged my{n}sword to His Majesty.{p}{v:013A}Given the complications it would cause in our public{n}dealings, I cannot address you as My Lord{n}before others.{p}{v:013B}I therefore ask your permission to call you My Lord{n}only when we are alone.{p}{v:013C}Now, I have duties to attend to as an Imperial Knight,{n}so I must take my leave for a time.{p}{v:013D}Thank you for today. I look forward to serving you.",
    "term": "end"
   },
   {
@@ -1369,7 +1369,7 @@
   {
    "id": "scen154.0224",
    "jp": "{v:0140}さっきは私のわがままにつき合わせて{n}すまなかったな。{n}だがこれでもう迷うことはあるまい。{p}{v:0141}さっきの戦いの中で、{n}自分の中にたまっていたものに{n}けりをつけることが出来た。{p}{v:0142}これもお前のおかげだな。{p}{v:0147}それでは私は少し用があるので、{n}これで失礼させてもらう。{p}{v:0148}また会おう。",
-   "en": "{v:0140}I am sorry I made you indulge my selfish wishes earlier.{n}But now I shall have no more doubts.{p}{v:0141}During our battle, I was able to settle the feelings{n}that had been building within me.{p}{v:0142}I have you to thank for that.{p}{v:0147}Now, I have something to attend to, so I must take my{n}leave.{p}{v:0148}Until we meet again.",
+   "en": "{v:0140}I am sorry I made you indulge my selfish wishes earlier.{n}But now I shall have no more doubts.{p}{v:0141}During our battle, I was able to settle the feelings{n}that had been building within me.{p}{v:0142}I have you to thank for that.{p}{v:0147}Now, I have something to attend to, so I must take{n}my leave.{p}{v:0148}Until we meet again.",
    "term": "end"
   },
   {

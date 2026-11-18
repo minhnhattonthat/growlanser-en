@@ -141,7 +141,7 @@
   {
    "id": "scen072.0022",
    "jp": "{v:0018}アルカディウス王からの伝令だな？{n}よし、入れ。",
-   "en": "{v:0018}You're messengers from King Alcadius? All right, come{n}in.",
+   "en": "{v:0018}You're messengers from King Alcadius? All right,{n}come in.",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen072.0033",
    "jp": "{v:0005}わっ！{n}レティシア姫とお友達だって！{n}どうしよう、ルイセちゃん！",
-   "en": "{v:0005}Wow! Friends with Princess Leticia! What do we do,{n}Luise-chan?!",
+   "en": "{v:0005}Wow! Friends with Princess Leticia! What do we{n}do, Luise-chan?!",
    "term": "end"
   },
   {
@@ -321,7 +321,7 @@
   {
    "id": "scen072.0052",
    "jp": "{v:001C}ここでその姫さんに傷１つでも負わせれば、{n}護衛役のお前らが責任をとらなきゃいけねぇ。{p}{v:001D}これでお前らの信用はガタ落ち‥‥、{n}下手すれば死刑ってすんぽうよ！",
-   "en": "{v:001C}If that princess gets so much as a scratch here, you{n}lot'll have to answer for it. You're her guards, after{n}all.{p}{v:001D}Your reputation'll be in the gutter... and if you're{n}unlucky, you'll get the death penalty!",
+   "en": "{v:001C}If that princess gets so much as a scratch here, you{n}lot'll have to answer for it. You're her guards,{n}after all.{p}{v:001D}Your reputation'll be in the gutter... and if you're{n}unlucky, you'll get the death penalty!",
    "term": "end"
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "scen072.0062",
    "jp": "これは、レティシア姫！{n}お怪我などありませんか？{n}どうぞ、中で休まれて下さい！",
-   "en": "Princess Leticia! Are you hurt? Please, come inside and{n}rest!",
+   "en": "Princess Leticia! Are you hurt? Please, come inside{n}and rest!",
    "term": "end"
   },
   {
@@ -525,7 +525,7 @@
   {
    "id": "scen072.0085",
    "jp": "お一人様、８エルムで、{n}{FFEB}エルムになりますが？",
-   "en": "At 8 Elm per person, that comes to {FFEB} Elm. Is that all{n}right?",
+   "en": "At 8 Elm per person, that comes to {FFEB} Elm. Is that{n}all right?",
    "term": "end"
   },
   {
@@ -651,7 +651,7 @@
   {
    "id": "scen072.0106",
    "jp": "{v:0009}私からも父上によく言っておきますわ。",
-   "en": "{v:0009}I shall be sure to speak highly of you to Father as{n}well.",
+   "en": "{v:0009}I shall be sure to speak highly of you to Father{n}as well.",
    "term": "end"
   },
   {
@@ -717,7 +717,7 @@
   {
    "id": "scen072.0117",
    "jp": "{v:0035}ですから、戦争です！{n}バーンシュタイン王国が宣戦布告をしてきました！",
-   "en": "{v:0035}War, sir! The Kingdom of Burnstein has declared war on{n}us!",
+   "en": "{v:0035}War, sir! The Kingdom of Burnstein has declared war{n}on us!",
    "term": "end"
   },
   {
@@ -825,7 +825,7 @@
   {
    "id": "scen072.0135",
    "jp": "{v:0026}本来、バーンシュタイン側から兵を進めるには、{n}峡谷を迂回し、南の森を通過する必要がある。{p}{v:0027}だが連中は峡谷に橋を架け、{n}最短距離で進軍するつもりなのだ。{p}{v:0028}そうすれば迂回ルートより、{n}１週間は早くこの砦に着ける。",
-   "en": "{v:0026}Normally, troops advancing from Burnstein must go{n}around the gorge and pass through the forest to the{n}south.{p}{v:0027}But they intend to bridge the gorge and advance by the{n}shortest route.{p}{v:0028}That would bring them to this fort a full week sooner{n}than the route around.",
+   "en": "{v:0026}Normally, troops advancing from Burnstein must go{n}around the gorge and pass through the forest to{n}the south.{p}{v:0027}But they intend to bridge the gorge and advance by the{n}shortest route.{p}{v:0028}That would bring them to this fort a full week sooner{n}than the route around.",
    "term": "end"
   },
   {
@@ -891,7 +891,7 @@
   {
    "id": "scen072.0146",
    "jp": "{v:0037}慌てない、慌てない！{n}しばらく敵は来られなくなったから。",
-   "en": "{v:0037}Easy, easy! The enemy won't be coming this way for a{n}while!",
+   "en": "{v:0037}Easy, easy! The enemy won't be coming this way for{n}a while!",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen072.0153",
    "jp": "{v:0040}バーンシュタイン王国内に侵入させた者からの{n}緊急報告が入りました。{p}{v:0041}姫を乗せた馬車が、監禁場所から出たとの事です。{n}そして護送先は‥‥、{FFF9}{FFFB}{n}{v:0042}ガルアオス監獄です。",
-   "en": "{v:0040}An urgent report has arrived from our agent inside{n}Burnstein.{p}{v:0041}A carriage carrying the princess has left the place{n}where she was being held. Her destination is...{FFF9}{FFFB}{v:0042}Garuaos{n}Prison.",
+   "en": "{v:0040}An urgent report has arrived from our agent{n}inside Burnstein.{p}{v:0041}A carriage carrying the princess has left the place{n}where she was being held. Her destination is...{FFF9}{FFFB}{v:0042}Garuaos{n}Prison.",
    "term": "end"
   },
   {
@@ -945,13 +945,13 @@
   {
    "id": "scen072.0155",
    "jp": "{v:0044}難攻不落のガルアオス監獄か‥‥。{FFF9}{FFFB}{n}{v:0045}やっかいなところに。",
-   "en": "{v:0044}The impregnable Garuaos Prison...{FFF9}{FFFB}{v:0045}A troublesome{n}destination.",
+   "en": "{v:0044}The impregnable Garuaos Prison...{FFF9}{FFFB}{v:0045}A{n}troublesome destination.",
    "term": "end"
   },
   {
    "id": "scen072.0156",
    "jp": "{v:0046}俺たちの任務は人質の救出だ。{n}姫の居場所がわかったなら、そこへ行く。{n}それに狙うなら、護送中の今が一番だ。{p}{v:0047}あんな監獄へ移されたら、助け出すのはまず不可能だ。",
-   "en": "{v:0046}Our job is to rescue the hostage. Now that we know{n}where the princess is, that's where we're going.{n}Besides, our best chance is while she's being moved.{p}{v:0047}Once she's in that prison, getting her out will be next to{n}impossible.",
+   "en": "{v:0046}Our job is to rescue the hostage. Now that we know{n}where the princess is, that's where we're going.{n}Besides, our best chance is while she's being moved.{p}{v:0047}Once she's in that prison, getting her out will be next{n}to impossible.",
    "term": "end"
   },
   {
@@ -1035,7 +1035,7 @@
   {
    "id": "scen072.0170",
    "jp": "{v:0058}なに、すぐにわかるさ。{n}君たちが橋を落とした峡谷へ行ってくれ。{n}すぐに向こうへ渡れるようになる。",
-   "en": "{v:0058}You will see soon enough. Go to the gorge where you{n}brought down the bridge. We will have you across in no{n}time.",
+   "en": "{v:0058}You will see soon enough. Go to the gorge where you{n}brought down the bridge. We will have you across in{n}no time.",
    "term": "end"
   },
   {
@@ -1083,7 +1083,7 @@
   {
    "id": "scen072.0178",
    "jp": "{v:002E}お前たちの仕事は、私たちと違って、{n}いろんな所へおもむかねばならん。{p}{v:002F}そして自分たちで分析し、その場で判断し、{n}必要ならば実行せねばならん。{p}{v:0030}大変な仕事だ。{n}がんばるのだぞ。",
-   "en": "{v:002E}Unlike ours, your duties require you to travel to many{n}places.{p}{v:002F}You must assess each situation yourselves, make{n}decisions on the spot, and act when necessary.{p}{v:0030}It is demanding work. Do your best.",
+   "en": "{v:002E}Unlike ours, your duties require you to travel to{n}many places.{p}{v:002F}You must assess each situation yourselves, make{n}decisions on the spot, and act when necessary.{p}{v:0030}It is demanding work. Do your best.",
    "term": "end"
   },
   {
@@ -1095,7 +1095,7 @@
   {
    "id": "scen072.0180",
    "jp": "{v:001B}今集まる兵は送るけど、{n}戦争が出来るほどの兵を収集するには{n}時間がかかるって言ってました。",
-   "en": "{v:001B}They said they'd send whatever troops they can{n}gather now, but it'll take time to muster enough for a{n}war.",
+   "en": "{v:001B}They said they'd send whatever troops they can{n}gather now, but it'll take time to muster enough for{n}a war.",
    "term": "end"
   },
   {

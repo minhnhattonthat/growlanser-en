@@ -33,7 +33,7 @@
   {
    "id": "scen089.0004",
    "jp": "{v:0020}アンタ！{n}素通りしてどうすんのっ！",
-   "en": "{v:0020}Hey, you! What do you think you're doing, walking right{n}past?!",
+   "en": "{v:0020}Hey, you! What do you think you're doing, walking{n}right past?!",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen089.0038",
    "jp": "{v:001D}あの橋の上にいる人かな？{n}持っていってあげようよ！",
-   "en": "{v:001D}Maybe it's that person on the bridge? Let's take it{n}over!",
+   "en": "{v:001D}Maybe it's that person on the bridge? Let's take{n}it over!",
    "term": "end"
   },
   {

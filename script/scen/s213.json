@@ -15,7 +15,7 @@
   {
    "id": "scen213.0001",
    "jp": "鍵穴が上下に２つある。鍵を使いますか？",
-   "en": "There are two keyholes, one above the other. Use a{n}key?",
+   "en": "There are two keyholes, one above the other. Use{n}a key?",
    "term": "end"
   },
   {

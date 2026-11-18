@@ -183,7 +183,7 @@
   {
    "id": "scen039.0029",
    "jp": "{v:0046}私、グローシアンに対しての認識を{n}改めなくちゃいけないわね。{p}{v:0047}今まで話に聞いていただけだったから、{n}もっと特別な人だと思ってた。{p}{v:0048}だけど、アイリーンさんもルイセちゃんも{n}普通の人と変わらないのね。",
-   "en": "{v:0046}I'll have to rethink how I see Growsians.{p}{v:0047}I'd only heard stories about them before, so I imagined{n}they were more extraordinary.{p}{v:0048}But Irene-san and Luise-chan are just like ordinary{n}people.",
+   "en": "{v:0046}I'll have to rethink how I see Growsians.{p}{v:0047}I'd only heard stories about them before, so I imagined{n}they were more extraordinary.{p}{v:0048}But Irene-san and Luise-chan are just like{n}ordinary people.",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen039.0042",
    "jp": "ええ、実は怪我をしてここへ運ばれて‥‥。{n}今ではここを手伝っているんですよ。",
-   "en": "Yes, I was injured and brought here... Now I help out{n}here.",
+   "en": "Yes, I was injured and brought here... Now I help{n}out here.",
    "term": "end"
   },
   {
@@ -511,7 +511,7 @@
   {
    "id": "scen039.0083",
    "jp": "なんだね？{n}診察なら順番を待ちたまえ。",
-   "en": "What is it? If you need an examination, wait your{n}turn.",
+   "en": "What is it? If you need an examination, wait{n}your turn.",
    "term": "end"
   },
   {
@@ -559,7 +559,7 @@
   {
    "id": "scen039.0091",
    "jp": "君たちが謝ることはない。{n}それに、この事件を解決したのは君たちなんだろう？{n}ならむしろ、胸を張るべきだよ。{p}君たちがいたからこそ、{n}多くのグローシアンの人たちが助かったんだから。",
-   "en": "You have nothing to apologize for. Besides, you're the{n}ones who solved this case, aren't you? You should hold{n}your heads high.{p}It's thanks to you that so many Growsians were{n}saved.",
+   "en": "You have nothing to apologize for. Besides, you're the{n}ones who solved this case, aren't you? You should hold{n}your heads high.{p}It's thanks to you that so many Growsians{n}were saved.",
    "term": "end"
   },
   {
@@ -571,7 +571,7 @@
   {
    "id": "scen039.0093",
    "jp": "それに‥‥。{n}僕がしっかりしなくちゃ、ミラに怒られてしまうしね。{p}‥‥君たちにはお礼を言わなくちゃね。{n}ミラのことで一生懸命になってくれて、ありがとう。{p}さ、これで湿っぽい話は終わりだ。{n}君たちは、まだやることがあるんだろう？{n}僕のことは気にしないで、その事に集中してくれ。",
-   "en": "Besides... Mira would be cross with me if I didn't pull{n}myself together.{p}...I owe you all my thanks. Thank you for trying so hard{n}to help Mira.{p}Now, that's enough gloomy talk. You still have things to{n}do, don't you? Don't worry about me. Concentrate on{n}those.",
+   "en": "Besides... Mira would be cross with me if I didn't pull{n}myself together.{p}...I owe you all my thanks. Thank you for trying so hard{n}to help Mira.{p}Now, that's enough gloomy talk. You still have things to{n}do, don't you? Don't worry about me. Concentrate{n}on those.",
    "term": "end"
   },
   {
@@ -595,7 +595,7 @@
   {
    "id": "scen039.0097",
    "jp": "何だって！？{n}魔法学院からグローシアンが消えただって！？{p}じゃあ‥‥それじゃあ、ミラも‥‥。",
-   "en": "What?! The Growsians have disappeared from the Magic{n}Academy?!{p}Then... Then Mira, too...",
+   "en": "What?! The Growsians have disappeared from the{n}Magic Academy?!{p}Then... Then Mira, too...",
    "term": "end"
   },
   {
@@ -619,7 +619,7 @@
   {
    "id": "scen039.0101",
    "jp": "‥‥僕の方こそ、すまなかった。{n}つい、かっとなって‥‥。{p}君たちはミラのことを伝えてくれただけなのに、{n}まるで君たちが悪いみたいに当たってしまって‥‥。{FFFB}{n}本当にすまなかった‥‥。",
-   "en": "...No, I'm the one who should apologize. I lost my{n}temper...{p}You were only telling me about Mira, and I lashed out as{n}though it were your fault...{FFFB} I'm truly sorry...",
+   "en": "...No, I'm the one who should apologize. I lost{n}my temper...{p}You were only telling me about Mira, and I lashed out as{n}though it were your fault...{FFFB} I'm truly sorry...",
    "term": "end"
   },
   {
@@ -681,7 +681,7 @@
   {
    "id": "scen039.0111",
    "jp": "すまないね‥‥。{n}何だか、無理させてしまったみたいで‥‥。",
-   "en": "I'm sorry... It seems I've put you in a difficult{n}position...",
+   "en": "I'm sorry... It seems I've put you in a{n}difficult position...",
    "term": "end"
   },
   {
@@ -705,7 +705,7 @@
   {
    "id": "scen039.0115",
    "jp": "ああ‥‥。{n}勝手な話だけど、ミラのこと‥‥よろしく頼むよ。",
-   "en": "Yes... I know it's selfish of me, but please... Take care of{n}Mira.",
+   "en": "Yes... I know it's selfish of me, but please... Take care{n}of Mira.",
    "term": "end"
   },
   {
@@ -729,7 +729,7 @@
   {
    "id": "scen039.0119",
    "jp": "くそっ！{n}僕のこの体さえまともに動いてくれたら‥‥。",
-   "en": "Damn it! If only this body of mine would work{n}properly...",
+   "en": "Damn it! If only this body of mine would{n}work properly...",
    "term": "end"
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "scen039.0123",
    "jp": "だったら大丈夫よ♪{n}グローシアンはみんな魔法学院で保護されてるから★{p}多分、それで忙しくて手紙が出せないでいるのよ。",
-   "en": "Then there's nothing to worry about♪ All the Growsians{n}are being kept safe at the Magic Academy!{p}She's probably been too busy with all that to send a{n}letter.",
+   "en": "Then there's nothing to worry about♪ All the Growsians{n}are being kept safe at the Magic Academy!{p}She's probably been too busy with all that to send{n}a letter.",
    "term": "end"
   },
   {
@@ -855,13 +855,13 @@
   {
    "id": "scen039.0140",
    "jp": "ねーね♪{n}ミラって誰？あなたの恋人？{n}どこで出会ったの？",
-   "en": "Hey, hey♪ Who's Mira? Your girlfriend? Where did you{n}meet?",
+   "en": "Hey, hey♪ Who's Mira? Your girlfriend? Where did{n}you meet?",
    "term": "end"
   },
   {
    "id": "scen039.0141",
    "jp": "僕とミラは、昔に離ればなれになった幼なじみでね。{n}１０年ぶりにグランシルで再会したんだ。{p}１０年間会えなかった想いが爆発したのか、{n}僕は彼女にあった途端、{n}すぐに告白してしまったんだよ。",
-   "en": "Mira and I were childhood friends, but we lost touch{n}long ago. We met again in Grancil after ten years apart.{p}Perhaps all those feelings from ten years apart just{n}burst out. The moment I saw her, I told her I loved{n}her.",
+   "en": "Mira and I were childhood friends, but we lost touch{n}long ago. We met again in Grancil after ten years apart.{p}Perhaps all those feelings from ten years apart just{n}burst out. The moment I saw her, I told her I{n}loved her.",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen039.0152",
    "jp": "あの、記憶を無くした患者さんが{n}薪を割っているところを見たんじゃが‥‥。{p}それはもう、見事な手つきじゃった。",
-   "en": "I saw that patient who lost his memory chopping{n}firewood...{p}My, he certainly knew how to handle an axe.",
+   "en": "I saw that patient who lost his memory{n}chopping firewood...{p}My, he certainly knew how to handle an axe.",
    "term": "end"
   },
   {
@@ -993,7 +993,7 @@
   {
    "id": "scen039.0163",
    "jp": "うん、アタシたちがここに来る前からいるんでしょう？",
-   "en": "Yeah, he's been here since before we arrived, hasn't{n}he?",
+   "en": "Yeah, he's been here since before we arrived,{n}hasn't he?",
    "term": "end"
   },
   {
@@ -1005,7 +1005,7 @@
   {
    "id": "scen039.0165",
    "jp": "へ～、そうなんだ？{n}何か怖い目にでもあったのかしらね？",
-   "en": "Oh, really? I wonder if something frightened him{n}terribly.",
+   "en": "Oh, really? I wonder if something frightened{n}him terribly.",
    "term": "end"
   },
   {
@@ -1155,7 +1155,7 @@
   {
    "id": "scen039.0190",
    "jp": "うわ～。{n}妖精さんのカードだぁ～。{n}でも、悪い人みた～い。",
-   "en": "Wooow! It's the fairy's card! But she looks like a{n}baddie...",
+   "en": "Wooow! It's the fairy's card! But she looks like{n}a baddie...",
    "term": "end"
   },
   {
@@ -1173,7 +1173,7 @@
   {
    "id": "scen039.0193",
    "jp": "うぅ～。{n}そうだよね、お兄ちゃんだって{n}カード集めたいもんね‥‥。",
-   "en": "Awww... I guess you want to collect the cards too, Big{n}Brother...",
+   "en": "Awww... I guess you want to collect the cards too,{n}Big Brother...",
    "term": "end"
   },
   {
@@ -1233,7 +1233,7 @@
   {
    "id": "scen039.0203",
    "jp": "ありがとう、お兄ちゃん。{n}アタシ、お兄ちゃんが来るのを楽しみにしてるよ！",
-   "en": "Thank you, Big Brother. I always look forward to your{n}visits!",
+   "en": "Thank you, Big Brother. I always look forward to{n}your visits!",
    "term": "end"
   },
   {
@@ -1377,7 +1377,7 @@
   {
    "id": "scen039.0227",
    "jp": "{v:0073}ニックという人で、アイリーンと離れたくなくて、{n}自ら辺境警備を申し出たという話よ。{p}{v:0074}たしか西にあるメディス村に住んでいるって。",
-   "en": "{v:0073}His name is Nick. I hear he volunteered for border duty{n}because he didn't want to be apart from Irene.{p}{v:0074}He lives in Medis Village to the west, if I remember{n}correctly.",
+   "en": "{v:0073}His name is Nick. I hear he volunteered for border duty{n}because he didn't want to be apart from Irene.{p}{v:0074}He lives in Medis Village to the west, if I{n}remember correctly.",
    "term": "end"
   },
   {

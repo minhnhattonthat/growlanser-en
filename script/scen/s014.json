@@ -93,13 +93,13 @@
   {
    "id": "scen014.0014",
    "jp": "{v:000A}魔導を研究する者ならば、{n}他人の研究は気になるものです。{n}それを奪おうと考えたりはするかも知れませんが。",
-   "en": "{v:000A}Anyone who studies magic takes an interest in the{n}research of others. Some might even consider stealing{n}it.",
+   "en": "{v:000A}Anyone who studies magic takes an interest in the{n}research of others. Some might even consider{n}stealing it.",
    "term": "end"
   },
   {
    "id": "scen014.0015",
    "jp": "{v:000B}まさか命まで取ろうとする者はいないでしょう。{n}自分に不利益をもたらすほどの者でなければ‥‥。",
-   "en": "{v:000B}But surely no one would go so far as to take a life.{n}Unless the victim posed a serious threat to their{n}interests...",
+   "en": "{v:000B}But surely no one would go so far as to take a life.{n}Unless the victim posed a serious threat to{n}their interests...",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen014.0032",
    "jp": "サンドラ様をそっちの部屋へ運ぶから、{n}ベッドの用意をしてくれ。",
-   "en": "I'll carry Sandra-sama into that room. Get the bed{n}ready.",
+   "en": "I'll carry Sandra-sama into that room. Get the{n}bed ready.",
    "term": "end"
   },
   {
@@ -293,7 +293,7 @@
   {
    "id": "scen014.0047",
    "jp": "{v:0010}研究室の中には、賊の一人の死体が残っていた。{p}{v:0011}おそらく君が倒したはずなんだ。{n}何しろ、君の剣に血が残っていたからね。",
-   "en": "{v:0010}The body of one of the thieves was left in the{n}laboratory.{p}{v:0011}You were probably the one who killed him. There was{n}still blood on your sword, after all.",
+   "en": "{v:0010}The body of one of the thieves was left in{n}the laboratory.{p}{v:0011}You were probably the one who killed him. There was{n}still blood on your sword, after all.",
    "term": "end"
   },
   {
@@ -349,7 +349,7 @@
   {
    "id": "scen014.0056",
    "jp": "{v:0019}しかし誰が、何の目的でサンドラ様の研究を{n}盗んだのか。",
-   "en": "{v:0019}But who stole Sandra-sama's research, and for what{n}purpose?",
+   "en": "{v:0019}But who stole Sandra-sama's research, and for{n}what purpose?",
    "term": "end"
   },
   {
@@ -391,7 +391,7 @@
   {
    "id": "scen014.0063",
    "jp": "{v:0022}ほとんどの人は忘れ去っていますが、私たち人類は、{n}本来この世界の住人ではありません。{p}{v:0023}我々がいた世界は、ある理由で滅びの危機を{n}迎えました。{p}{v:0024}５００年前、人間の持つ英知である魔法を結集し、{n}この世界に渡ってきたのです。{p}{v:0025}それまでは誰しもが強力な魔法を使えましたが、{n}この世界に来て以来、{n}わずかな魔力しか持てなくなってしまったのです。",
-   "en": "{v:0022}Most people have forgotten, but we humans are not{n}originally inhabitants of this world.{p}{v:0023}For a certain reason, our former world faced{n}destruction.{p}{v:0024}Five hundred years ago, we pooled our magic, the{n}culmination of human wisdom, and crossed over to this{n}world.{p}{v:0025}Until then, everyone could use powerful magic. But since{n}coming here, we have been able to possess only a{n}small amount of magical energy.",
+   "en": "{v:0022}Most people have forgotten, but we humans are not{n}originally inhabitants of this world.{p}{v:0023}For a certain reason, our former world{n}faced destruction.{p}{v:0024}Five hundred years ago, we pooled our magic, the{n}culmination of human wisdom, and crossed over to{n}this world.{p}{v:0025}Until then, everyone could use powerful magic. But since{n}coming here, we have been able to possess only a{n}small amount of magical energy.",
    "term": "end"
   },
   {
@@ -415,7 +415,7 @@
   {
    "id": "scen014.0067",
    "jp": "{v:002B}そのためにはグローシアンの生まれから{n}説明しなければなりませんね。",
-   "en": "{v:002B}To answer that, I must first explain how Growsians are{n}born.",
+   "en": "{v:002B}To answer that, I must first explain how Growsians{n}are born.",
    "term": "end"
   },
   {
@@ -433,7 +433,7 @@
   {
    "id": "scen014.0070",
    "jp": "{v:002F}それが日食や月食として見えるのですが、{n}この時に生まれた者は、無意識にこの時の{n}空間の歪みを記憶し、自分の中に向こうの世界との{n}チャンネルを開けるようになるのです。{p}{v:0030}ルイセたちグローシアンは、{n}このチャンネルを利用して、{n}向こうの世界のグローシュを使うことが{n}出来るのです。{p}{v:0031}ですからグローシアンは、{n}精神力だけを利用する私たちと比べて、{n}はるかに強力な魔法を使う事ができるのです。",
-   "en": "{v:002F}We see it as a solar or lunar eclipse. Those born during{n}an eclipse unconsciously remember the spatial distortion{n}at that moment, allowing them to open a channel to the{p}other world within themselves.{p}{v:0030}Growsians like Luise can use this channel to draw upon{n}the Grosh in the other world.{p}{v:0031}That is why Growsians can use far more powerful{n}magic than those of us who rely solely on spiritual{n}energy.",
+   "en": "{v:002F}We see it as a solar or lunar eclipse. Those born during{n}an eclipse unconsciously remember the spatial distortion{n}at that moment, allowing them to open a channel to the{p}other world within themselves.{p}{v:0030}Growsians like Luise can use this channel to draw upon{n}the Grosh in the other world.{p}{v:0031}That is why Growsians can use far more powerful{n}magic than those of us who rely solely on{n}spiritual energy.",
    "term": "end"
   },
   {
@@ -451,7 +451,7 @@
   {
    "id": "scen014.0073",
    "jp": "{v:0034}とにかく、このグローシュを人工的に取り出し、{n}活用出来れば、誰もが昔のように強力な魔法を{n}使うことが出来るようになるはずです。{p}{v:0035}たぶん、その方法を欲した者が{n}私の研究を奪ったのでしょう。",
-   "en": "{v:0034}In any case, if we can artificially extract and harness{n}Grosh, everyone should be able to use powerful magic{n}as we once did.{p}{v:0035}Someone who wanted that method probably stole my{n}research.",
+   "en": "{v:0034}In any case, if we can artificially extract and harness{n}Grosh, everyone should be able to use powerful magic{n}as we once did.{p}{v:0035}Someone who wanted that method probably stole{n}my research.",
    "term": "end"
   },
   {
@@ -529,13 +529,13 @@
   {
    "id": "scen014.0086",
    "jp": "{v:0045}義手に義眼‥‥すごい怪我でもしたのかな？",
-   "en": "{v:0045}An artificial arm and eye... I wonder if he was badly{n}hurt.",
+   "en": "{v:0045}An artificial arm and eye... I wonder if he was{n}badly hurt.",
    "term": "end"
   },
   {
    "id": "scen014.0087",
    "jp": "{v:0046}私は当分、城の研究室にこもることになるでしょう。{n}何かあったら、城の方に来なさい。",
-   "en": "{v:0046}I expect to be shut away in my laboratory at the{n}castle for some time. If anything happens, come to the{n}castle.",
+   "en": "{v:0046}I expect to be shut away in my laboratory at the{n}castle for some time. If anything happens, come to{n}the castle.",
    "term": "end"
   },
   {
@@ -547,7 +547,7 @@
   {
    "id": "scen014.0089",
    "jp": "{v:0048}ねぇ、アンタ。犯人を見たんでしょ？{n}だったら、他の兵隊さんより、{n}アンタの方が見つけやすいと思うんだけど。",
-   "en": "{v:0048}Hey, you saw the culprit, didn't you? Then I bet you'd{n}have an easier time finding them than the soldiers{n}would.",
+   "en": "{v:0048}Hey, you saw the culprit, didn't you? Then I bet you'd{n}have an easier time finding them than the{n}soldiers would.",
    "term": "end"
   },
   {
@@ -694,7 +694,7 @@
   {
    "id": "scen014.0113",
    "jp": "{v:0011}何となく分かってきたんだ。{n}自分の目指す道が。{p}{v:0013}やっぱり私は剣に生きる。{n}人々を守るために剣を振るおうと思う。",
-   "en": "{v:0011}I am beginning to understand which path I wish to{n}follow.{p}{v:0013}My life belongs to the sword, after all. I intend to wield{n}it to protect the people.",
+   "en": "{v:0011}I am beginning to understand which path I wish{n}to follow.{p}{v:0013}My life belongs to the sword, after all. I intend to wield{n}it to protect the people.",
    "term": "end"
   },
   {
@@ -952,7 +952,7 @@
   {
    "id": "scen014.0156",
    "jp": "{v:0046}サンドラ様のことは私に任せてください。{n}どうか、お気をつけて。",
-   "en": "{v:0046}Leave Sandra-sama's care to me. Please, take care of{n}yourselves.",
+   "en": "{v:0046}Leave Sandra-sama's care to me. Please, take care{n}of yourselves.",
    "term": "end"
   },
   {
@@ -1024,7 +1024,7 @@
   {
    "id": "scen014.0168",
    "jp": "‥‥‥。{n}{v:0039}今の人間にはこれ以上の薬は作れない‥‥。{p}{v:003A}だけど‥‥人間以上の知識を持つ存在だったら‥‥。",
-   "en": "...{v:0039}Humans can't make any better medicine than this{n}yet...{p}{v:003A}But... beings with knowledge beyond ours might...",
+   "en": "...{v:0039}Humans can't make any better medicine than{n}this yet...{p}{v:003A}But... beings with knowledge beyond ours might...",
    "term": "end"
   },
   {
@@ -1226,7 +1226,7 @@
   {
    "id": "scen014.0201",
    "jp": "{v:0012}お前か。{n}この辺りをかぎ回っている男は。",
-   "en": "{v:0012}So you are the man who has been snooping around{n}here.",
+   "en": "{v:0012}So you are the man who has been snooping{n}around here.",
    "term": "end"
   },
   {

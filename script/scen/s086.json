@@ -291,7 +291,7 @@
   {
    "id": "scen086.0045",
    "jp": "{v:002A}忌々しい小娘だな‥‥。{p}{v:002B}だが、いずれわかるだろう。{n}自分たちの非力さがな！",
-   "en": "{v:002A}You wretched little girl...{p}{v:002B}But soon you will understand just how powerless you{n}are!",
+   "en": "{v:002A}You wretched little girl...{p}{v:002B}But soon you will understand just how powerless{n}you are!",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen086.0048",
    "jp": "{v:002E}悲しい存在ですね。{n}私たちがその呪縛を解き放ってあげる。",
-   "en": "{v:002E}What a sorrowful existence. We will free you from that{n}curse.",
+   "en": "{v:002E}What a sorrowful existence. We will free you from{n}that curse.",
    "term": "end"
   },
   {

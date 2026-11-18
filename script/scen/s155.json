@@ -127,7 +127,7 @@
   {
    "id": "scen155.0019",
    "jp": "そんな‥‥。{n}僕はまだそれほど強い人間ではありません。{n}見捨てないで下さいね。",
-   "en": "But... I'm not that strong yet. Please don't give up on{n}me.",
+   "en": "But... I'm not that strong yet. Please don't give up{n}on me.",
    "term": "end"
   },
   {
@@ -163,7 +163,7 @@
   {
    "id": "scen155.0025",
    "jp": "確かに、ライエルやリシャールは強い。{n}だが、こちらには{s:0000}、{n}お前やルイセ、ウォレスがいる。",
-   "en": "Lyell and Richard are certainly strong. But we have you{n}on our side, {s:0000}, along with Luise and{n}Wallace.",
+   "en": "Lyell and Richard are certainly strong. But we have you{n}on our side, {s:0000}, along with Luise{n}and Wallace.",
    "term": "end"
   },
   {
@@ -187,7 +187,7 @@
   {
    "id": "scen155.0029",
    "jp": "短い間だったがライエルは良き同僚だった。{n}インペリアル・ナイツ同士で戦わねばならん。",
-   "en": "Lyell was a fine comrade, though we served together{n}only briefly. Now we Imperial Knights must fight one{n}another.",
+   "en": "Lyell was a fine comrade, though we served together{n}only briefly. Now we Imperial Knights must fight{n}one another.",
    "term": "end"
   },
   {
@@ -232,7 +232,7 @@
   {
    "id": "scen155.0036",
    "jp": "そうだな。{n}こんな戦いは早く終わらさねば‥‥。",
-   "en": "You are right. We must bring this fighting to an end{n}quickly...",
+   "en": "You are right. We must bring this fighting to an{n}end quickly...",
    "term": "end"
   },
   {
@@ -244,7 +244,7 @@
   {
    "id": "scen155.0038",
    "jp": "よせ、{s:0000}。{n}私は戦う決意をしたのだ。{p}こんな戦いは早く終わらさねば‥‥。",
-   "en": "Enough, {s:0000}. I have made my decision to{n}fight.{p}We must bring this fighting to an end quickly...",
+   "en": "Enough, {s:0000}. I have made my decision{n}to fight.{p}We must bring this fighting to an end quickly...",
    "term": "end"
   },
   {
@@ -319,7 +319,7 @@
   {
    "id": "scen155.0050",
    "jp": "謙虚だな。{n}確かにいきなり大軍を率いることはできんだろう。{p}だが、お前も騎士だ。{n}いずれ軍を率いるときが来るかも知れん。{n}学べることはジュリアンから学んでおけ。{p}お前ならジュリアンにも負けない将軍になれる。",
-   "en": "Modest, aren't you? True, you can't expect to lead a{n}great army right away.{p}But you're a knight too. You may lead an army someday.{n}Learn what you can from Julian.{p}You could become a general every bit as good as{n}Julian.",
+   "en": "Modest, aren't you? True, you can't expect to lead a{n}great army right away.{p}But you're a knight too. You may lead an army someday.{n}Learn what you can from Julian.{p}You could become a general every bit as good{n}as Julian.",
    "term": "end"
   },
   {
@@ -382,7 +382,7 @@
   {
    "id": "scen155.0060",
    "jp": "う、うん！{n}わたし、お兄ちゃんになら{n}全部任せられるよ！",
-   "en": "Y-yes! I know I can leave everything to you, Big{n}Brother!",
+   "en": "Y-yes! I know I can leave everything to you,{n}Big Brother!",
    "term": "end"
   },
   {
@@ -463,7 +463,7 @@
   {
    "id": "scen155.0073",
    "jp": "ええ、お兄さまがいればアタシは安心です。{n}お兄さまについて行きます！",
-   "en": "Yes, I feel safe with you here, Big Brother. I'll go with{n}you!",
+   "en": "Yes, I feel safe with you here, Big Brother. I'll go{n}with you!",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen155.0104",
    "jp": "こちらはバーンシュタイン軍士官の{n}宿舎となっています。",
-   "en": "These are the quarters for officers of the Burnstein{n}army.",
+   "en": "These are the quarters for officers of the{n}Burnstein army.",
    "term": "end"
   },
   {
@@ -685,7 +685,7 @@
   {
    "id": "scen155.0109",
    "jp": "バーンシュタインの誇るインペリアル・ナイトが{n}敵味方にわかれて戦うなんて前代未聞だよ。",
-   "en": "The Imperial Knights, the pride of Burnstein, split into{n}opposing sides and fighting each other... It's unheard{n}of.",
+   "en": "The Imperial Knights, the pride of Burnstein, split into{n}opposing sides and fighting each other... It's{n}unheard of.",
    "term": "end"
   },
   {
@@ -850,7 +850,7 @@
   {
    "id": "scen155.0136",
    "jp": "現在、作戦会議中ですので{n}お通しできません。",
-   "en": "A strategy meeting is in progress. I cannot let you{n}through.",
+   "en": "A strategy meeting is in progress. I cannot let{n}you through.",
    "term": "end"
   },
   {
@@ -925,7 +925,7 @@
   {
    "id": "scen155.0148",
    "jp": "アタシたちだって、任務をこなしてるんだよ。{n}別に気ままに旅をしているわけじゃないもん。",
-   "en": "We have missions to carry out too, you know! It's not{n}like we're just wandering around doing whatever we{n}want!",
+   "en": "We have missions to carry out too, you know! It's not{n}like we're just wandering around doing whatever{n}we want!",
    "term": "end"
   },
   {
@@ -943,7 +943,7 @@
   {
    "id": "scen155.0151",
    "jp": "では、作戦会議を始めよう。{p}{s:0000}、ティピ、{n}すまんがまた後でな。",
-   "en": "Then let us begin the strategy meeting.{p}{s:0000}, Tippi, forgive me. We shall talk{n}later.",
+   "en": "Then let us begin the strategy meeting.{p}{s:0000}, Tippi, forgive me. We shall{n}talk later.",
    "term": "end"
   },
   {
@@ -991,7 +991,7 @@
   {
    "id": "scen155.0159",
    "jp": "偉く‥‥か。{n}確かに責任のある立場にはなったな。",
-   "en": "A big shot... I certainly have greater responsibilities{n}now.",
+   "en": "A big shot... I certainly have greater{n}responsibilities now.",
    "term": "end"
   },
   {
@@ -1036,7 +1036,7 @@
   {
    "id": "scen155.0166",
    "jp": "努力‥‥か。{n}それを認めてもらえるのがいちばんうれしい。{p}お前に出会うまでは、自分の剣の腕を上げることしか{n}考えていなかった。{p}だが今は、部下がいて、君主がいて、仲間がいる。{n}ただ強くなるだけで満足していては{n}いけないと気づいたよ。",
-   "en": "Hard work... Your recognition of that means the most{n}to me.{p}Until I met you, I thought of nothing but improving my{n}swordsmanship.{p}But now I have soldiers under my command, a{n}sovereign to serve, and friends at my side. I have{n}realized that simply growing stronger is not enough.",
+   "en": "Hard work... Your recognition of that means the most{n}to me.{p}Until I met you, I thought of nothing but improving{n}my swordsmanship.{p}But now I have soldiers under my command, a{n}sovereign to serve, and friends at my side. I have{n}realized that simply growing stronger is not enough.",
    "term": "end"
   },
   {
@@ -1096,7 +1096,7 @@
   {
    "id": "scen155.0176",
    "jp": "あっ、{s:0000}さん。{n}今、作戦会議が終わったところなんですよ。",
-   "en": "Oh, {s:0000}. The strategy meeting just{n}ended.",
+   "en": "Oh, {s:0000}. The strategy meeting{n}just ended.",
    "term": "end"
   },
   {
@@ -1195,7 +1195,7 @@
   {
    "id": "scen155.0192",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "Where do you think you're going, leaving everyone{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {

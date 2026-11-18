@@ -81,7 +81,7 @@
   {
    "id": "scen163.0012",
    "jp": "ありゃりゃ？{n}全部、アタシ達だけで倒しちゃったね★",
-   "en": "Well, whaddaya know? We took them ALL down{n}ourselves!",
+   "en": "Well, whaddaya know? We took them ALL{n}down ourselves!",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen163.0017",
    "jp": "く～っ！{n}１匹も倒せないなんて、アンタ、何やってるのよ！",
-   "en": "Grrr! You couldn't even take down ONE?! What are you{n}doing?!",
+   "en": "Grrr! You couldn't even take down ONE?! What are{n}you doing?!",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen163.0019",
    "jp": "さぁ、この２組に勝敗を付けてもらいましょう！{n}勝負は簡単。{p}１匹だけ出るゲルを、どちらが早く倒すか？{n}ゲルが出る場所は会場中央！{n}みなさん、ご注目下さい！",
-   "en": "Now, let's have these two teams settle this! The rules{n}are simple.{p}Who can defeat a single Gel first? The Gel will appear in{n}the center of the arena! All eyes on the center,{n}everyone!",
+   "en": "Now, let's have these two teams settle this! The rules{n}are simple.{p}Who can defeat a single Gel first? The Gel will appear in{n}the center of the arena! All eyes on the{n}center, everyone!",
    "term": "end"
   },
   {

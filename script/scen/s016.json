@@ -45,7 +45,7 @@
   {
    "id": "scen016.0006",
    "jp": "{v:003E}彼が我々を助けてくれたのは、{n}油断させるためだったのだろうか？",
-   "en": "{v:003E}Could he have helped us in order to make us lower our{n}guard?",
+   "en": "{v:003E}Could he have helped us in order to make us lower{n}our guard?",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen016.0010",
    "jp": "{v:0042}我々を油断させておいて、{n}ルイセのグローシュを狙っていたのか？",
-   "en": "{v:0042}Was he after Luise's Grosh, making us lower our guard{n}first?",
+   "en": "{v:0042}Was he after Luise's Grosh, making us lower our{n}guard first?",
    "term": "end"
   },
   {
@@ -93,13 +93,13 @@
   {
    "id": "scen016.0014",
    "jp": "{v:0045}考えてみろ。{n}ゲヴェルが現れた頃は、{n}まだルイセは生まれちゃいなかった。{p}{v:0046}その後エリオットが生まれ、すり替え事件の際に、{n}奴はエリオットを助けた。{n}さらにその後、ルイセが生まれた。{p}{v:0047}順番的にはちょっとおかしい。",
-   "en": "{v:0045}Think about it. Luise hadn't even been born when Gevel{n}appeared.{p}{v:0046}Then Elliot was born, and he saved Elliot when the{n}infants were switched. Luise was born after that.{p}{v:0047}The timing doesn't quite add up.",
+   "en": "{v:0045}Think about it. Luise hadn't even been born when{n}Gevel appeared.{p}{v:0046}Then Elliot was born, and he saved Elliot when the{n}infants were switched. Luise was born after that.{p}{v:0047}The timing doesn't quite add up.",
    "term": "end"
   },
   {
    "id": "scen016.0015",
    "jp": "{v:0048}そうですね。{n}それに、グローシュを奪う事が目的ならば、{n}他のグローシアンがいた頃に出来たはず。{p}{FC03}{v:0049}彼がルイセからグローシュを奪ったのは、{n}途中経過なのかも知れません‥‥。",
-   "en": "{v:0048}That is true. Besides, if stealing Grosh was his goal, he{n}could have done so when there were other Growsians{n}around.{p}{FC03}{v:0049}Taking Luise's Grosh may have been only one step along{n}the way...",
+   "en": "{v:0048}That is true. Besides, if stealing Grosh was his goal, he{n}could have done so when there were other{n}Growsians around.{p}{FC03}{v:0049}Taking Luise's Grosh may have been only one step along{n}the way...",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen016.0020",
    "jp": "{v:004E}う～ん‥‥。{n}わたし、どうしたの？{n}‥‥なんだか頭が重いよ‥‥。",
-   "en": "{v:004E}Mmm... What happened to me? ...My head feels so{n}heavy...",
+   "en": "{v:004E}Mmm... What happened to me? ...My head feels{n}so heavy...",
    "term": "end"
   },
   {
@@ -330,7 +330,7 @@
   {
    "id": "scen016.0053",
    "jp": "{v:00DC}『真のグローシュの発現の鍵は、{n}グローシアンの発生の元となる現象』{n}‥‥何やら意味深ですね。",
-   "en": "{v:00DC}'The key to awakening true Grosh is the phenomenon{n}that gives rise to Growsians.' ...That seems quite{n}significant.",
+   "en": "{v:00DC}'The key to awakening true Grosh is the phenomenon{n}that gives rise to Growsians.' ...That seems{n}quite significant.",
    "term": "end"
   },
   {
@@ -348,7 +348,7 @@
   {
    "id": "scen016.0056",
    "jp": "{v:0038}ああ、副学院長もそう言っていたな。{n}真の能力が発現すると、{n}倍の力が出せることもあるとか。",
-   "en": "{v:0038}Yeah, the Vice Headmaster said that too. Apparently,{n}awakening that true ability can sometimes double its{n}power.",
+   "en": "{v:0038}Yeah, the Vice Headmaster said that too. Apparently,{n}awakening that true ability can sometimes double{n}its power.",
    "term": "end"
   },
   {
@@ -412,7 +412,7 @@
   {
    "id": "scen016.0066",
    "jp": "{v:003E}グローシアンは必ず、{n}『{FFEF}日食{FFF1}』『{FFEF}月食{FFF1}』の間に生まれます。{n}このまれな天体現象がグローシアンには必要なのです。{p}{FC03}{v:003F}しかしそれは今のルイセには関係ないことでしょう。{p}{v:0040}問題はどうすればルイセが元に戻るのか‥‥。",
-   "en": "{v:003E}Growsians are always born during a '{FFEF}solar eclipse{FFF1}' or a{n}'{FFEF}lunar eclipse{FFF1}.' These rare celestial phenomena are{n}necessary for Growsians to be born.{p}{FC03}{v:003F}But that likely has no bearing on Luise's present{n}condition.{p}{v:0040}The question is how to restore Luise to normal...",
+   "en": "{v:003E}Growsians are always born during a '{FFEF}solar eclipse{FFF1}' or a{n}'{FFEF}lunar eclipse{FFF1}.' These rare celestial phenomena are{n}necessary for Growsians to be born.{p}{FC03}{v:003F}But that likely has no bearing on Luise's{n}present condition.{p}{v:0040}The question is how to restore Luise to normal...",
    "term": "end"
   },
   {
@@ -628,7 +628,7 @@
   {
    "id": "scen016.0102",
    "jp": "{v:001B}マジックアロー？{n}お家の中で使ったら、お部屋壊れちゃうよ？",
-   "en": "{v:001B}Magic Arrow? But if I use it in the house, I'll break{n}things!",
+   "en": "{v:001B}Magic Arrow? But if I use it in the house, I'll{n}break things!",
    "term": "end"
   },
   {
@@ -694,7 +694,7 @@
   {
    "id": "scen016.0113",
    "jp": "{v:002F}やむを得ませんね。{n}グローシュを戻す方法が見つかるまで、{n}保養所に預けましょう。",
-   "en": "{v:002F}There is no other choice. We will leave her in the{n}sanatorium's care until we find a way to restore her{n}Grosh.",
+   "en": "{v:002F}There is no other choice. We will leave her in the{n}sanatorium's care until we find a way to restore{n}her Grosh.",
    "term": "end"
   },
   {
@@ -946,7 +946,7 @@
   {
    "id": "scen016.0154",
    "jp": "{v:00C9}うん、わかってる。{n}早く何とかしてあげなくちゃね‥‥。",
-   "en": "{v:00C9}Yeah, I know. We've got to find a way to help her, and{n}fast...",
+   "en": "{v:00C9}Yeah, I know. We've got to find a way to help her,{n}and fast...",
    "term": "end"
   },
   {
@@ -964,7 +964,7 @@
   {
    "id": "scen016.0157",
    "jp": "{v:0051}ルイセちゃんは、アタシがルイセちゃんを{n}見張るために作られたと知った後も、{n}今までと変わらず接してくれたんです。{p}{v:0052}アタシの事を親友だって言ってくれて‥‥、{n}いつも気を遣ってくれて‥‥。{p}{v:0053}ルイセちゃんといる間は、{n}自分がホムンクルスだって事を忘れられるんです。{p}{v:0054}だから、今度はアタシが助ける番なのに、{n}でもアタシ、バカだから治す方法がわからなくて、{n}何もできない‥‥。{p}{v:0055}それが悔しくて、悔しくて‥‥。",
-   "en": "{v:0051}Even after Luise-chan found out I was created to{n}keep watch on her, she treated me just the same as{n}before.{p}{v:0052}She called me her best friend... She's always been so{n}thoughtful...{p}{v:0053}When I'm with Luise-chan, I can forget I'm a{n}homunculus.{p}{v:0054}So now it's my turn to help her, but I'm too stupid to{n}know how to make her better. I can't do anything...{p}{v:0055}And I hate that... I hate it so much...",
+   "en": "{v:0051}Even after Luise-chan found out I was created to{n}keep watch on her, she treated me just the same{n}as before.{p}{v:0052}She called me her best friend... She's always been{n}so thoughtful...{p}{v:0053}When I'm with Luise-chan, I can forget I'm{n}a homunculus.{p}{v:0054}So now it's my turn to help her, but I'm too stupid to{n}know how to make her better. I can't do anything...{p}{v:0055}And I hate that... I hate it so much...",
    "term": "end"
   },
   {
@@ -1053,7 +1053,7 @@
   {
    "id": "scen016.0171",
    "jp": "{v:005D}アタシ、ルイセちゃんを助ける方法を、{n}もう一度探してみる。{p}{v:005E}そしてアタシに出来る方法で、{n}ルイセちゃんを助けてみせる！{p}{v:005F}だからお兄さまも元気を出してください！{n}アタシももう泣かないから！",
-   "en": "{v:005D}I'm going to look for a way to help Luise-chan again.{p}{v:005E}And I'll find something I can do to save her!{p}{v:005F}So please, cheer up, Big Brother! I won't cry anymore{n}either!",
+   "en": "{v:005D}I'm going to look for a way to help Luise-chan again.{p}{v:005E}And I'll find something I can do to save her!{p}{v:005F}So please, cheer up, Big Brother! I won't cry{n}anymore either!",
    "term": "end"
   },
   {
@@ -1482,7 +1482,7 @@
   {
    "id": "scen016.0240",
    "jp": "{v:0094}とにかく、みんなのためにもしっかりして下さいね。{p}{v:0095}それじゃ、僕はこれで失礼します。",
-   "en": "{v:0094}In any case, please stay strong for everyone's sake,{n}too.{p}{v:0095}Well then, I'll leave you now.",
+   "en": "{v:0094}In any case, please stay strong for everyone's{n}sake, too.{p}{v:0095}Well then, I'll leave you now.",
    "term": "end"
   },
   {
@@ -1533,7 +1533,7 @@
   {
    "id": "scen016.0248",
    "jp": "{v:00D0}ホントね‥‥。{n}今でもルイセちゃんのグローシュが{n}抜き取られたって信じられないもの‥‥。",
-   "en": "{v:00D0}Yeah... I still can't believe someone took Luise-chan's{n}Grosh...",
+   "en": "{v:00D0}Yeah... I still can't believe someone took{n}Luise-chan's Grosh...",
    "term": "end"
   },
   {

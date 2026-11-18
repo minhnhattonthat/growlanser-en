@@ -57,7 +57,7 @@
   {
    "id": "scen150.0008",
    "jp": "俺は客でも患者でも、医者でもない。{n}それじゃ何だって？{p}ここがこれだけ整備されているのは、{n}俺たちが影ながら働いているからだ！",
-   "en": "I'm no visitor, patient, or doctor. So what am I, you{n}ask?{p}This place is so well maintained because we're working{n}behind the scenes!",
+   "en": "I'm no visitor, patient, or doctor. So what am I,{n}you ask?{p}This place is so well maintained because we're working{n}behind the scenes!",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen150.0010",
    "jp": "お兄ちゃん達、{n}僕のプロポーズをジャマしないでよ！",
-   "en": "Big Brother, don't you and your friends interrupt my{n}proposal!",
+   "en": "Big Brother, don't you and your friends interrupt{n}my proposal!",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen150.0036",
    "jp": "‥‥{v:00D3}あ。{p}{v:00D4}ねぇ、どうする？{n}カレンさん、思い詰めた顔してるけど‥‥。",
-   "en": "...{v:00D3}Oh.{p}{v:00D4}Hey, what should we do? Karen-san looks really{n}troubled...",
+   "en": "...{v:00D3}Oh.{p}{v:00D4}Hey, what should we do? Karen-san looks{n}really troubled...",
    "term": "end"
   },
   {
@@ -315,7 +315,7 @@
   {
    "id": "scen150.0051",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "Where do you think you're going, leaving everyone{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen150.0061",
    "jp": "じゃあ、夕方ここでな。{n}みんな、集合に遅れるんじゃねぇぞ。",
-   "en": "See you here this evening, then. Don't any of you be{n}late.",
+   "en": "See you here this evening, then. Don't any of you{n}be late.",
    "term": "end"
   },
   {

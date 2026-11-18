@@ -270,7 +270,7 @@
   {
    "id": "scen029.0043",
    "jp": "{v:0035}うん！{n}向こうに行ったら、お背中、流しっこしようね♪",
-   "en": "{v:0035}Yeah! Let's wash each other's backs when we get{n}there♪",
+   "en": "{v:0035}Yeah! Let's wash each other's backs when we{n}get there♪",
    "term": "end"
   },
   {
@@ -300,7 +300,7 @@
   {
    "id": "scen029.0048",
    "jp": "やっと土砂崩れが片づいたよ！{n}これでラシェルへ帰れるぞ！",
-   "en": "They finally cleared the landslide! Now I can go home to{n}Rachelle!",
+   "en": "They finally cleared the landslide! Now I can go home{n}to Rachelle!",
    "term": "end"
   },
   {
@@ -499,7 +499,7 @@
   {
    "id": "scen029.0079",
    "jp": "うーん、悩んでるって言えば悩んでるかな。",
-   "en": "Hmm... I suppose you could say something's bothering{n}me.",
+   "en": "Hmm... I suppose you could say something's{n}bothering me.",
    "term": "end"
   },
   {
@@ -610,7 +610,7 @@
   {
    "id": "scen029.0096",
    "jp": "それよりさ、ローランディアとバーンシュタインが{n}戦争を始めたんだろ？{p}ランザックはどっちかにつくのかなぁ？{n}それとも中立をとるのかなぁ？",
-   "en": "Anyway, Rolandia and Burnstein have gone to war,{n}right?{p}I wonder if Ranzak will take a side. Or will we stay{n}neutral?",
+   "en": "Anyway, Rolandia and Burnstein have gone to{n}war, right?{p}I wonder if Ranzak will take a side. Or will we{n}stay neutral?",
    "term": "end"
   },
   {
@@ -799,7 +799,7 @@
   {
    "id": "scen029.0126",
    "jp": "アリオストさん、{n}今度は戦争を止めさせるような機械を{n}作ってくれないかな～。",
-   "en": "Ariost-san, couldn't you build a machine to stop the war{n}next?",
+   "en": "Ariost-san, couldn't you build a machine to stop the{n}war next?",
    "term": "end"
   },
   {
@@ -817,7 +817,7 @@
   {
    "id": "scen029.0129",
    "jp": "最近、ストレス発散の場が無くて{n}欲求不満‥‥。",
-   "en": "I haven't had anywhere to let off steam lately. It's so{n}frustrating...",
+   "en": "I haven't had anywhere to let off steam lately. It's{n}so frustrating...",
    "term": "end"
   },
   {
@@ -946,7 +946,7 @@
   {
    "id": "scen029.0149",
    "jp": "『{FFEF}グローシアンの特殊能力{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -982,7 +982,7 @@
   {
    "id": "scen029.0155",
    "jp": "『{FFEF}古代遺跡とその出土品{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -1006,7 +1006,7 @@
   {
    "id": "scen029.0159",
    "jp": "『{FFEF}迷いの森遺跡調査報告{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -1030,13 +1030,13 @@
   {
    "id": "scen029.0163",
    "jp": "本を散らかすなんて迷惑な人ですね！{n}アタシが注意してあげます！",
-   "en": "Messing up the books? What a nuisance! I'll give her a{n}talking-to!",
+   "en": "Messing up the books? What a nuisance! I'll give her{n}a talking-to!",
    "term": "end"
   },
   {
    "id": "scen029.0164",
    "jp": "‥‥じゃあ、ちゃんと注意してくれよ、君自身にさ。",
-   "en": "...Then make sure you do. Give yourself a good{n}talking-to.",
+   "en": "...Then make sure you do. Give yourself a{n}good talking-to.",
    "term": "end"
   },
   {
@@ -1060,7 +1060,7 @@
   {
    "id": "scen029.0168",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -1147,7 +1147,7 @@
   {
    "id": "scen029.0181",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -1276,7 +1276,7 @@
   {
    "id": "scen029.0201",
    "jp": "教授は透明になる薬を研究しているの。",
-   "en": "The Professor is researching a potion that makes you{n}invisible.",
+   "en": "The Professor is researching a potion that makes{n}you invisible.",
    "term": "end"
   },
   {
@@ -1336,7 +1336,7 @@
   {
    "id": "scen029.0211",
    "jp": "{v:0053}クリアノ草をすりつぶして‥‥。{n}この薬と混ぜ合わせれば‥‥。",
-   "en": "{v:0053}Grind up the Kuriano Herb... Then mix it with this{n}potion...",
+   "en": "{v:0053}Grind up the Kuriano Herb... Then mix it with{n}this potion...",
    "term": "end"
   },
   {
@@ -1543,7 +1543,7 @@
   {
    "id": "scen029.0244",
    "jp": "{v:0040}せっかくきれいな人なのに、{n}ちょっと愛想がないのよねぇ‥‥。",
-   "en": "{v:0040}She's so pretty, too. A shame she's not a little{n}friendlier...",
+   "en": "{v:0040}She's so pretty, too. A shame she's not a{n}little friendlier...",
    "term": "end"
   },
   {
@@ -1567,13 +1567,13 @@
   {
    "id": "scen029.0248",
    "jp": "確かにお預かりしました。{n}学院長へは、後で私から渡しておきます。",
-   "en": "I have received it. I will give it to the Headmaster{n}later.",
+   "en": "I have received it. I will give it to the{n}Headmaster later.",
    "term": "end"
   },
   {
    "id": "scen029.0249",
    "jp": "{v:0001}闘技大会で優勝したので、{n}コムスプリングスへの通行証が欲しいのですが。",
-   "en": "{v:0001}We won the tournament, so we'd like a pass to{n}Comsprings.",
+   "en": "{v:0001}We won the tournament, so we'd like a pass{n}to Comsprings.",
    "term": "end"
   },
   {
@@ -1597,7 +1597,7 @@
   {
    "id": "scen029.0253",
    "jp": "{v:0056}もう、ケチね。{n}会うくらいいいじゃない。",
-   "en": "{v:0056}Hmph, you're no fun. What's wrong with just seeing{n}him?",
+   "en": "{v:0056}Hmph, you're no fun. What's wrong with just{n}seeing him?",
    "term": "end"
   },
   {
@@ -1627,7 +1627,7 @@
   {
    "id": "scen029.0258",
    "jp": "{v:0004}おお、来たな。{n}君たちが優勝するとは思わなかったわい。",
-   "en": "{v:0004}Ah, there you are. I never thought you would win, you{n}know.",
+   "en": "{v:0004}Ah, there you are. I never thought you would win,{n}you know.",
    "term": "end"
   },
   {
@@ -1669,13 +1669,13 @@
   {
    "id": "scen029.0265",
    "jp": "{v:001A}国から発行された、立入検査依頼書はあるかの？",
-   "en": "{v:001A}Do you have a Search Warrant issued by the kingdom,{n}then?",
+   "en": "{v:001A}Do you have a Search Warrant issued by the{n}kingdom, then?",
    "term": "end"
   },
   {
    "id": "scen029.0266",
    "jp": "{v:001B}国から発行された、立入検査依頼書はあるかの？",
-   "en": "{v:001B}Do you have a Search Warrant issued by the kingdom,{n}then?",
+   "en": "{v:001B}Do you have a Search Warrant issued by the{n}kingdom, then?",
    "term": "end"
   },
   {
@@ -1753,7 +1753,7 @@
   {
    "id": "scen029.0279",
    "jp": "{v:002A}うむ。{n}実は水晶鉱山で困ったことが起こっていてな。{p}{v:002B}鉱山から採れる魔水晶を横流ししている連中が{n}いるみたいなんじゃ。",
-   "en": "{v:002A}Well, now. There has been some trouble at the crystal{n}mine.{p}{v:002B}It seems some people are illicitly selling off the magic{n}crystals mined there.",
+   "en": "{v:002A}Well, now. There has been some trouble at the{n}crystal mine.{p}{v:002B}It seems some people are illicitly selling off the magic{n}crystals mined there.",
    "term": "end"
   },
   {
@@ -2059,7 +2059,7 @@
   {
    "id": "scen029.0328",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
@@ -2188,7 +2188,7 @@
   {
    "id": "scen029.0348",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "This is Vice Headmaster Bradley's laboratory, you{n}know.",
+   "en": "This is Vice Headmaster Bradley's laboratory,{n}you know.",
    "term": "end"
   },
   {

@@ -249,7 +249,7 @@
   {
    "id": "scen208.0040",
    "jp": "‥‥{v:004F}おかしい！？　どうしたんだ、私の体は‥‥。{p}{v:0050}こんな時に‥力が‥‥力がはいらん‥‥。{p}{v:0051}いや、力が吸い取られてゆく！？",
-   "en": "...{v:004F}Something is wrong! What is happening to my body...?{p}{v:0050}At a time like this... My strength... I cannot summon my{n}strength...{p}{v:0051}No, my strength is being drained away?!",
+   "en": "...{v:004F}Something is wrong! What is happening to my body...?{p}{v:0050}At a time like this... My strength... I cannot summon{n}my strength...{p}{v:0051}No, my strength is being drained away?!",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen208.0047",
    "jp": "{v:007B}我らの崇高な計画を貴様らなどに邪魔されるものか！",
-   "en": "{v:007B}I will not let the likes of you interfere with our noble{n}plan!",
+   "en": "{v:007B}I will not let the likes of you interfere with our{n}noble plan!",
    "term": "end"
   },
   {
@@ -513,7 +513,7 @@
   {
    "id": "scen208.0084",
    "jp": "‥‥{v:0074}なに、用事が済めばすぐに去る。{n}お前を倒し、ゲヴェルの野望に待ったをかけたらな。",
-   "en": "...{v:0074}Oh, I shall leave as soon as my business is done. Once{n}I have defeated you and put a stop to Gevel's{n}ambitions.",
+   "en": "...{v:0074}Oh, I shall leave as soon as my business is done. Once{n}I have defeated you and put a stop to{n}Gevel's ambitions.",
    "term": "end"
   },
   {

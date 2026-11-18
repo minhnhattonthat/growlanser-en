@@ -33,7 +33,7 @@
   {
    "id": "scen119.0004",
    "jp": "{v:0023}ここからグローシアンが作った所みたいだね。",
-   "en": "{v:0023}It looks like the Growsians built everything from here{n}on.",
+   "en": "{v:0023}It looks like the Growsians built everything from{n}here on.",
    "term": "end"
   },
   {
@@ -128,7 +128,7 @@
   {
    "id": "scen119.0019",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my very{n}best!",
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
    "term": "end"
   },
   {
@@ -280,7 +280,7 @@
   {
    "id": "scen119.0044",
    "jp": "いろいろご心配をおかけしましたが、{n}もう大丈夫です。",
-   "en": "I'm sorry to have worried you so much, but I'm all right{n}now.",
+   "en": "I'm sorry to have worried you so much, but I'm all{n}right now.",
    "term": "end"
   },
   {
@@ -504,7 +504,7 @@
   {
    "id": "scen119.0081",
    "jp": "{v:0029}話を聞いてよ！{p}{v:002A}アンタがいれば、世界を救えるんだよ！？{n}アタシ達に協力してよ！",
-   "en": "{v:0029}Listen to us!{p}{v:002A}With you here, we can save the world! Help us out, will{n}you?!",
+   "en": "{v:0029}Listen to us!{p}{v:002A}With you here, we can save the world! Help us out,{n}will you?!",
    "term": "end"
   },
   {
@@ -600,7 +600,7 @@
   {
    "id": "scen119.0097",
    "jp": "‥‥{v:0003}{s:0000}がやるしかないようだな。",
-   "en": "...{v:0003}Looks like {s:0000} has no choice but to do{n}it.",
+   "en": "...{v:0003}Looks like {s:0000} has no choice but to{n}do it.",
    "term": "end"
   },
   {
@@ -642,7 +642,7 @@
   {
    "id": "scen119.0104",
    "jp": "{v:000A}ここまで来て、{n}ヴェンツェルに降伏するしかないのですか？",
-   "en": "{v:000A}After coming all this way, must we surrender to{n}Wenzel?",
+   "en": "{v:000A}After coming all this way, must we surrender{n}to Wenzel?",
    "term": "end"
   },
   {

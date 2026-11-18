@@ -105,7 +105,7 @@
   {
    "id": "scen164.0016",
    "jp": "勝負あり！{p}１回戦Ｄグループの勝者が決まりました！{n}見事、２回戦進出の権利を獲得したチームは‥‥",
-   "en": "The match is over!{p}We have our winner for Group D of the first round! The{n}team that has earned its place in the second round{n}is...",
+   "en": "The match is over!{p}We have our winner for Group D of the first round! The{n}team that has earned its place in the second{n}round is...",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen164.0025",
    "jp": "奴ら、魔法は使えないのか？{n}アミュレットを買ったのに、無駄だったか‥‥。",
-   "en": "They can't use magic? Guess buying that Amulet was a{n}waste...",
+   "en": "They can't use magic? Guess buying that Amulet was{n}a waste...",
    "term": "end"
   }
  ]

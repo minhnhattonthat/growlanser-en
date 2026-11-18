@@ -33,6 +33,23 @@ class Insert(unittest.TestCase):
                 self.assertEqual(got, want, doc["entries"][i]["id"])
 
 
+class Layout(unittest.TestCase):
+    """Encoder.centre balances the blank in a 12 px-per-code frame; Encoder.slots fills fixed pixel slices."""
+    def test_centre_and_slots(self):
+        import enfont
+        import insert
+        enc = insert.Encoder("jp")
+        for text in ("Magic", "Equipment", "Strategy", "Items"):
+            w = enc.centre(text, False)
+            adv = sum(map(enc.advance, w))
+            left, right = adv - enfont.width(text), 12 * len(w) - adv
+            self.assertLessEqual(abs(left - right), 1, text)
+            self.assertEqual(enc.en.decode(w), text)
+        w = enc.slots("exe.sys.0069", "Enter Name　Hira Kata ABC Del OK")
+        self.assertEqual(sum(map(enc.advance, w)), sum(insert.SLOTS["exe.sys.0069"]))
+        self.assertEqual(enc.en.decode(w), "Enter NameHiraKataABCDelOK")
+
+
 @unittest.skipUnless(HAVE, "needs work/disc1/tree and armips")
 class English(unittest.TestCase):
     """The full English insert: only allowed bytes change, and every compressed pool reads back as its `en`."""

@@ -57,7 +57,7 @@
   {
    "id": "scen103.0008",
    "jp": "来たな。{p}ここを東に行けば、バーンシュタイン王都だ。",
-   "en": "You have arrived.{p}Head east from here to reach the Burnstein Royal{n}Capital.",
+   "en": "You have arrived.{p}Head east from here to reach the Burnstein{n}Royal Capital.",
    "term": "end"
   },
   {
@@ -87,7 +87,7 @@
   {
    "id": "scen103.0013",
    "jp": "{v:0008}今、ダグラス卿たちが攻撃を仕掛けているところです。{p}{v:0009}僕も戦う準備が出来ています。{n}さ、行きましょう！",
-   "en": "{v:0008}Lord Douglas and the others are launching their attack{n}now.{p}{v:0009}I'm ready to fight, too. Come on, let's go!",
+   "en": "{v:0008}Lord Douglas and the others are launching their{n}attack now.{p}{v:0009}I'm ready to fight, too. Come on, let's go!",
    "term": "end"
   },
   {
@@ -185,7 +185,7 @@
   {
    "id": "scen103.0029",
    "jp": "{v:0010}おやめ下さい、ジュリアン様。{FFF9}{FFFB}{n}{v:0011}リーヴス様は‥‥。{p}{v:0012}私は聞いてしまったのです。{n}リーヴス様とライエル様の話を‥‥。",
-   "en": "{v:0010}Please stop, Julian-sama.{FFF9}{FFFB}{v:0011}Reeves-sama...{p}{v:0012}I happened to overhear his conversation with{n}Lyell-sama...",
+   "en": "{v:0010}Please stop, Julian-sama.{FFF9}{FFFB}{v:0011}Reeves-sama...{p}{v:0012}I happened to overhear his conversation{n}with Lyell-sama...",
    "term": "end"
   },
   {
@@ -323,7 +323,7 @@
   {
    "id": "scen103.0052",
    "jp": "月並みな言葉しか浮かばないけど、{n}気をしっかりもってくれ。",
-   "en": "I know these words must sound trite, but please, stay{n}strong.",
+   "en": "I know these words must sound trite, but please,{n}stay strong.",
    "term": "end"
   },
   {
@@ -509,7 +509,7 @@
   {
    "id": "scen103.0083",
    "jp": "{v:0049}あ、言わなかったっけ？{n}リーヴスって人、ダグラス卿の仲間になったのよね。",
-   "en": "{v:0049}Oh, didn't I tell you? That Reeves fellow joined Lord{n}Douglas.",
+   "en": "{v:0049}Oh, didn't I tell you? That Reeves fellow joined{n}Lord Douglas.",
    "term": "end"
   },
   {
@@ -689,7 +689,7 @@
   {
    "id": "scen103.0113",
    "jp": "{v:0007}少し会わぬうちに、同僚の声も聞き忘れたか？",
-   "en": "{v:0007}Have you forgotten a comrade's voice in so short a{n}time?",
+   "en": "{v:0007}Have you forgotten a comrade's voice in so short{n}a time?",
    "term": "end"
   },
   {
@@ -767,7 +767,7 @@
   {
    "id": "scen103.0126",
    "jp": "‥‥{v:0014}よかろう。{n}お前の相手は私だ。{n}かかってこい！{p}{v:0015}お前たちはリシャール王を騙る、不届き者を探し出せ！",
-   "en": "...{v:0014}Very well. You shall face me. Come!{p}{v:0015}The rest of you, find the scoundrel impersonating King{n}Richard!",
+   "en": "...{v:0014}Very well. You shall face me. Come!{p}{v:0015}The rest of you, find the scoundrel impersonating{n}King Richard!",
    "term": "end"
   },
   {
@@ -827,13 +827,13 @@
   {
    "id": "scen103.0136",
    "jp": "どこへいくつもりだい？{n}ダグラス卿とタイミングをあわせているんだよ。{n}はやく王都へ突入しよう。",
-   "en": "Where are you going? We're coordinating our timing{n}with Lord Douglas. Let's hurry and storm the royal{n}capital.",
+   "en": "Where are you going? We're coordinating our timing{n}with Lord Douglas. Let's hurry and storm the{n}royal capital.",
    "term": "end"
   },
   {
    "id": "scen103.0137",
    "jp": "ダメだよ、お兄ちゃん。{n}ちゃんと状況を考えてよ‥‥。",
-   "en": "You can't, Big Brother. Please think about the{n}situation...",
+   "en": "You can't, Big Brother. Please think about{n}the situation...",
    "term": "end"
   }
  ]

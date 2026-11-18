@@ -105,7 +105,7 @@
   {
    "id": "scen218.0016",
    "jp": "‥‥{v:002B}クックックッ‥‥。{p}{v:002C}まったく、下等動物のすることは理解できぬ！",
-   "en": "...{v:002B}Heh heh heh...{p}{v:002C}Truly, the workings of inferior creatures are beyond{n}comprehension!",
+   "en": "...{v:002B}Heh heh heh...{p}{v:002C}Truly, the workings of inferior creatures are{n}beyond comprehension!",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen218.0031",
    "jp": "ちょ、ちょっと！{n}アンタがやられちゃったら、誰がパワーストーンを使うのよ！",
-   "en": "H-Hey! If you go down, who's gonna use the Power{n}Stone?!",
+   "en": "H-Hey! If you go down, who's gonna use the{n}Power Stone?!",
    "term": "end"
   },
   {

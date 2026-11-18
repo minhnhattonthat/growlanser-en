@@ -255,7 +255,7 @@
   {
    "id": "scen024.0041",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "How rude! Hot springs are a perfectly valid subject of{n}research!",
+   "en": "How rude! Hot springs are a perfectly valid subject{n}of research!",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen024.0048",
    "jp": "ん？{n}君たちはグローシアンなのかい？{p}最近、よく魔法学院にグローシアンが来るものでね。{n}てっきりそうだと思ったんだが、違うようだね。",
-   "en": "Hmm? Are you Growsians?{p}We've had so many Growsians visiting the Magic Academy{n}lately. I assumed you were, too, but it seems I was{n}mistaken.",
+   "en": "Hmm? Are you Growsians?{p}We've had so many Growsians visiting the Magic Academy{n}lately. I assumed you were, too, but it seems I{n}was mistaken.",
    "term": "end"
   },
   {
@@ -399,7 +399,7 @@
   {
    "id": "scen024.0065",
    "jp": "魔法エフェクトは{FFEE}✕ボタン{FFF1}で早送りが出来て、{n}さらに{FFEE}○ボタン{FFF1}でスキップが可能‥‥。{p}魔法には{FFEF}属性{FFF1}があり、対象の魔法耐性によっては{n}{FFF0}攻撃魔法で、より多くのダメージを与える{FFF1}{n}{FFF0}攻撃魔法を吸収し、ＨＰを回復させる{FFF1}などがある。{p}例をあげると、ヘルハウンドに炎属性の魔法は厳禁。{n}逆にアンデッドには炎属性が有効‥‥‥。{p}‥‥はあ、魔導書の丸暗記だけは出来るんだけどなぁ。{n}いざ戦闘となると忘れちゃうんだろうなぁ‥‥。",
-   "en": "You can speed up spell effects with the {FFEE}X button{FFF1}, or{n}skip them with the {FFEE}Circle button{FFF1}...{p}Spells have {FFEF}elemental attributes{FFF1}. Depending on the{n}target's magic resistance, {FFF0}attack spells may deal extra{n}damage{FFF1}, or {FFF0}be absorbed to restore HP{FFF1}, among other{p}effects.{p}For example, never use fire spells on a Hellhound. Fire{n}is effective against the undead, however...{p}...*sigh* I can memorize a spellbook word for word, at{n}least. I'll probably forget it all when I'm actually in{n}battle...",
+   "en": "You can speed up spell effects with the {FFEE}X button{FFF1}, or{n}skip them with the {FFEE}Circle button{FFF1}...{p}Spells have {FFEF}elemental attributes{FFF1}. Depending on the{n}target's magic resistance, {FFF0}attack spells may deal extra{n}damage{FFF1}, or {FFF0}be absorbed to restore HP{FFF1}, among other{p}effects.{p}For example, never use fire spells on a Hellhound. Fire{n}is effective against the undead, however...{p}...*sigh* I can memorize a spellbook word for word, at{n}least. I'll probably forget it all when I'm actually{n}in battle...",
    "term": "end"
   },
   {
@@ -483,7 +483,7 @@
   {
    "id": "scen024.0079",
    "jp": "僕もグランシルの闘技大会に出場して{n}ドカーンと‥‥{FE1E}予選落ちするんだろうな‥‥。",
-   "en": "I could enter the tournament in Grancil and make a big{n}splash...{FE1E}by getting knocked out in the preliminaries,{n}probably...",
+   "en": "I could enter the tournament in Grancil and make a big{n}splash...{FE1E}by getting knocked out in the{n}preliminaries, probably...",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen024.0082",
    "jp": "アリオストさん？{n}さっき図書室で見たかな？",
-   "en": "Ariost-san? I think I saw him in the library a little while{n}ago.",
+   "en": "Ariost-san? I think I saw him in the library a little{n}while ago.",
    "term": "end"
   },
   {
@@ -619,7 +619,7 @@
   {
    "id": "scen024.0101",
    "jp": "{v:004B}おまけにそんな事までされちゃったり‥‥。{FFF9}{FFFB}{n}{v:004C}うわ～、悲惨よね～。",
-   "en": "{v:004B}And then he might even do THAT to you...{FFF9}{FFFB}{v:004C}Oooh, how{n}awful!",
+   "en": "{v:004B}And then he might even do THAT to you...{FFF9}{FFFB}{v:004C}Oooh,{n}how awful!",
    "term": "end"
   },
   {
@@ -637,7 +637,7 @@
   {
    "id": "scen024.0104",
    "jp": "{v:004F}あ、ごめん、ルイセちゃん。{n}大丈夫、そんなことないって！",
-   "en": "{v:004F}Oh, sorry, Luise-chan. Don't worry! Nothing like that'll{n}happen!",
+   "en": "{v:004F}Oh, sorry, Luise-chan. Don't worry! Nothing like{n}that'll happen!",
    "term": "end"
   },
   {
@@ -779,7 +779,7 @@
   {
    "id": "scen024.0127",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my very{n}best!",
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
    "term": "end"
   },
   {
@@ -809,7 +809,7 @@
   {
    "id": "scen024.0132",
    "jp": "そうなんだ？{n}あたしも魔法教育論、受けてみようかな？",
-   "en": "Really? Maybe I should take Magical Education Theory,{n}too.",
+   "en": "Really? Maybe I should take Magical Education{n}Theory, too.",
    "term": "end"
   },
   {
@@ -869,7 +869,7 @@
   {
    "id": "scen024.0142",
    "jp": "後でって‥‥、{n}最近、研究室にいることないじゃないですか！",
-   "en": "Later...? But you're never in your laboratory these{n}days!",
+   "en": "Later...? But you're never in your laboratory{n}these days!",
    "term": "end"
   },
   {
@@ -965,7 +965,7 @@
   {
    "id": "scen024.0158",
    "jp": "あのね、ティピ。{n}実はこの世界はとっても不安定な時空に{n}存在しているんだって。{p}正確には２つの時空が重なっているんだけど、{n}そっちの詳しい説明はまた今度ね。{p}それで、２つの時空の隙間が大きい場所は、{n}その隙間から魔法のエネルギーである{n}グローシュが流れ込んで来る量が多いんだ。",
-   "en": "Well, Tippi... They say this world exists in very unstable{n}space-time.{p}To be precise, two layers of space-time overlap, but{n}I'll explain that part another time.{p}Where the gap between those two layers is wider,{n}more Grosh, the energy used for magic, flows in{n}through it.",
+   "en": "Well, Tippi... They say this world exists in very{n}unstable space-time.{p}To be precise, two layers of space-time overlap, but{n}I'll explain that part another time.{p}Where the gap between those two layers is wider,{n}more Grosh, the energy used for magic, flows in{n}through it.",
    "term": "end"
   },
   {
@@ -989,7 +989,7 @@
   {
    "id": "scen024.0162",
    "jp": "ちょ、ちょっと待て！{n}この送魔線の話を聞かんでいいのか？{n}な、中身の回路が新型なんじゃぞ？",
-   "en": "W-wait a moment! Don't you want to hear about this{n}mana line? It's got a new kind of circuit inside, you{n}know!",
+   "en": "W-wait a moment! Don't you want to hear about this{n}mana line? It's got a new kind of circuit inside,{n}you know!",
    "term": "end"
   },
   {
@@ -1021,7 +1021,7 @@
   {
    "id": "scen024.0167",
    "jp": "そんなの集めてどうするの？{n}食べられないし。",
-   "en": "What's the point of collecting that stuff? You can't eat{n}it.",
+   "en": "What's the point of collecting that stuff? You can't{n}eat it.",
    "term": "end"
   },
   {
@@ -1033,7 +1033,7 @@
   {
    "id": "scen024.0169",
    "jp": "グローシュを溜めておける方法は、{n}サンドラ先生が研究しておったりするが‥‥。{p}今の所はこうやって送魔線で集め続けるしかない。{n}だから、この送魔線の設置場所、{n}その中身の回路の出来がじゃな‥‥。",
-   "en": "Sandra-sensei is researching ways to store Grosh, mind{n}you...{p}For now, all we can do is keep gathering it through{n}mana lines like this. So, where we install these mana{n}lines, and the quality of the circuitry inside them, you{p}see...",
+   "en": "Sandra-sensei is researching ways to store Grosh,{n}mind you...{p}For now, all we can do is keep gathering it through{n}mana lines like this. So, where we install these mana{n}lines, and the quality of the circuitry inside them, you{p}see...",
    "term": "end"
   },
   {
@@ -1081,7 +1081,7 @@
   {
    "id": "scen024.0177",
    "jp": "{v:000E}今？{n}今はマジックタイム停止装置の調整を{n}していただけだけど‥‥。",
-   "en": "{v:000E}Right now? I was just adjusting the Magic Time{n}Stopper...",
+   "en": "{v:000E}Right now? I was just adjusting the Magic{n}Time Stopper...",
    "term": "end"
   },
   {
@@ -1093,7 +1093,7 @@
   {
    "id": "scen024.0179",
    "jp": "{v:0010}どうやって行くんだい？{n}あそこはバーンシュタイン国内だよ。",
-   "en": "{v:0010}How are we going to get there? It's in Burnstein, you{n}know.",
+   "en": "{v:0010}How are we going to get there? It's in Burnstein,{n}you know.",
    "term": "end"
   },
   {
@@ -1147,7 +1147,7 @@
   {
    "id": "scen024.0188",
    "jp": "{v:0075}ああ、そうだ。{n}君たちに話すことがあったんだ。{p}{v:0076}その前に一緒に学院長の所へつきあってくれ。",
-   "en": "{v:0075}Oh, that's right. There was something I wanted to tell{n}you.{p}{v:0076}But first, come along with me to see the Headmaster.",
+   "en": "{v:0075}Oh, that's right. There was something I wanted to{n}tell you.{p}{v:0076}But first, come along with me to see the Headmaster.",
    "term": "end"
   },
   {
@@ -1201,13 +1201,13 @@
   {
    "id": "scen024.0197",
    "jp": "{v:006E}ふ～ん。{p}{v:006F}それがあれば空を飛べるの？{FFF9}{FFFB}{n}‥‥{v:0070}って、アタシは飛んでるけどね。",
-   "en": "{v:006E}Huh.{p}{v:006F}So that thing will let you fly?{FFF9}{FFFB} ...{v:0070}Of course, I can already{n}fly.",
+   "en": "{v:006E}Huh.{p}{v:006F}So that thing will let you fly?{FFF9}{FFFB} ...{v:0070}Of course, I can{n}already fly.",
    "term": "end"
   },
   {
    "id": "scen024.0198",
    "jp": "{v:0071}動力は水晶のエネルギーを使う。{p}{v:0072}この中に浮遊円盤を６枚格納していてね、{n}それが力場を形成することで{n}この装置を浮かせることが出来る。{p}{v:0073}エネルギーの量を調整すれば、{n}高さを自在に変えることが出来るんだけど、{n}さっきも話した通り、風任せで流されるしかないんだ。",
-   "en": "{v:0071}It runs on crystal energy.{p}{v:0072}There are six levitation discs housed inside. They{n}generate a force field that lifts the apparatus into the{n}air.{p}{v:0073}Adjusting the energy output lets me change the{n}altitude at will. But as I said earlier, it can only drift{n}wherever the wind takes it.",
+   "en": "{v:0071}It runs on crystal energy.{p}{v:0072}There are six levitation discs housed inside. They{n}generate a force field that lifts the apparatus into{n}the air.{p}{v:0073}Adjusting the energy output lets me change the{n}altitude at will. But as I said earlier, it can only drift{n}wherever the wind takes it.",
    "term": "end"
   },
   {
@@ -1237,13 +1237,13 @@
   {
    "id": "scen024.0203",
    "jp": "{v:0078}ねぇ、ねぇ。{n}難しい話はいいからさぁ。{n}まだかかるの？",
-   "en": "{v:0078}Hey, hey! Enough with the complicated stuff! How much{n}longer?",
+   "en": "{v:0078}Hey, hey! Enough with the complicated stuff! How{n}much longer?",
    "term": "end"
   },
   {
    "id": "scen024.0204",
    "jp": "{v:0079}ああ、もうちょっと‥‥ここをつなげば‥‥{n}‥‥よし、完成だ！",
-   "en": "{v:0079}Just a little longer... Connect this here... All right, it's{n}finished!",
+   "en": "{v:0079}Just a little longer... Connect this here... All right,{n}it's finished!",
    "term": "end"
   },
   {
@@ -1399,7 +1399,7 @@
   {
    "id": "scen024.0230",
    "jp": "{v:005D}コムスプリングスか。{n}隣の国の温泉街だね。{p}{FC00}{v:0061}あれ？{n}そういえば、コムスプリングスへの旅行の話を{n}どこかで聞いたような気がするな。",
-   "en": "{v:005D}Comsprings... The hot spring town in the neighboring{n}country.{p}{FC00}{v:0061}Hmm? Come to think of it, I seem to remember hearing{n}something about a trip to Comsprings.",
+   "en": "{v:005D}Comsprings... The hot spring town in the{n}neighboring country.{p}{FC00}{v:0061}Hmm? Come to think of it, I seem to remember hearing{n}something about a trip to Comsprings.",
    "term": "end"
   },
   {

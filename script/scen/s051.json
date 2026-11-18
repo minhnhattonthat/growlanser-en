@@ -78,7 +78,7 @@
   {
    "id": "scen051.0011",
    "jp": "{v:0000}あなた方のことは、ジュリアン将軍から{n}うかがっております。{n}どうぞ、お通り下さい。",
-   "en": "{v:0000}General Julian has told us about you. Please, go{n}through.",
+   "en": "{v:0000}General Julian has told us about you. Please,{n}go through.",
    "term": "end"
   },
   {
@@ -108,7 +108,7 @@
   {
    "id": "scen051.0016",
    "jp": "私は色んな国の武官を見てきましたが‥‥。{n}やはりインペリアル・ナイツだけは特別ですな。{p}武力だけでなく、知力や気品も{n}かねそなえているのですからね‥‥。",
-   "en": "I have seen military officers from many countries... But{n}the Imperial Knights are in a class of their own,{n}indeed.{p}They possess not only martial prowess, but intelligence{n}and dignity as well...",
+   "en": "I have seen military officers from many countries... But{n}the Imperial Knights are in a class of their{n}own, indeed.{p}They possess not only martial prowess, but intelligence{n}and dignity as well...",
    "term": "end"
   },
   {
@@ -266,7 +266,7 @@
   {
    "id": "scen051.0041",
    "jp": "{v:0000}あなた方のことはジュリアン将軍から{n}うかがっております。{n}どうぞ、お通り下さい。",
-   "en": "{v:0000}General Julian has told us about you. Please, go{n}through.",
+   "en": "{v:0000}General Julian has told us about you. Please,{n}go through.",
    "term": "end"
   },
   {
@@ -296,7 +296,7 @@
   {
    "id": "scen051.0046",
    "jp": "{v:0013}ちょうどこれから士官クラスの者に説明するところだ。",
-   "en": "{v:0013}I was just about to explain the situation to the{n}officers.",
+   "en": "{v:0013}I was just about to explain the situation to{n}the officers.",
    "term": "end"
   },
   {
@@ -368,13 +368,13 @@
   {
    "id": "scen051.0058",
    "jp": "{v:001F}すでに我が父ダグラス卿が、アンジェラ様とともに{n}王都へ向かう準備をしている。{p}{v:0020}そこで私も簒奪者を討つために王都へ向かうつもりだ。",
-   "en": "{v:001F}My father, Lord Douglas, is already preparing to march{n}on the royal capital with Angela-sama.{p}{v:0020}I, too, intend to march on the capital to defeat the{n}usurper.",
+   "en": "{v:001F}My father, Lord Douglas, is already preparing to march{n}on the royal capital with Angela-sama.{p}{v:0020}I, too, intend to march on the capital to defeat{n}the usurper.",
    "term": "end"
   },
   {
    "id": "scen051.0059",
    "jp": "{v:0021}あ、あの‥‥。{n}僕は今まで自分が王となる人間だなんて、{n}知らないで育ってきました。{p}{FC02}{v:0022}ですが今の王は世界征服を企む悪者の手先なのです！{n}このままではバーンシュタイン王国だけでなく、{n}世界中にゲヴェルの魔手が及ぶでしょう。{p}{v:0023}僕はそれをくい止めたい！{n}この大陸の人々を救いたい！{p}{v:0024}お願いです。{n}みなさんの力を貸して下さい！",
-   "en": "{v:0021}U-um... I grew up without ever knowing I was meant to{n}become king.{p}{FC02}{v:0022}But the current king serves an evil being who plans to{n}conquer the world! If this continues, Gevel's evil grasp{n}will reach beyond the Kingdom of Burnstein to the{p}whole world.{p}{v:0023}I want to stop that! I want to save the people of this{n}continent!{p}{v:0024}Please. Lend me your strength!",
+   "en": "{v:0021}U-um... I grew up without ever knowing I was meant to{n}become king.{p}{FC02}{v:0022}But the current king serves an evil being who plans to{n}conquer the world! If this continues, Gevel's evil grasp{n}will reach beyond the Kingdom of Burnstein to the{p}whole world.{p}{v:0023}I want to stop that! I want to save the people of{n}this continent!{p}{v:0024}Please. Lend me your strength!",
    "term": "end"
   },
   {
@@ -510,7 +510,7 @@
   {
    "id": "scen051.0081",
    "jp": "偽王リシャールを討つための戦いか‥‥。{n}それは自国の兵士同士で殺し合うということだ。{n}しかも家族を国に残したものもいるだろう‥‥。{p}いくらインペリアル・ナイトを信じるといっても、{n}その選択をしたのは彼ら自身。{n}もう後戻りは許されない。{p}それこそ、辛い選択だっただろうな‥‥。{n}敵の兵士だったとはいえ、尊敬に値すると思わないか？",
-   "en": "A war to bring down the false king Richard... That means{n}soldiers of the same country killing each other. Some of{n}them must have left families back home, too...{p}They may trust their Imperial Knight, but they made{n}that choice themselves. There's no turning back now.{p}That must have been a painful choice... They were{n}enemy soldiers, but don't you think they deserve our{n}respect?",
+   "en": "A war to bring down the false king Richard... That means{n}soldiers of the same country killing each other. Some of{n}them must have left families back home, too...{p}They may trust their Imperial Knight, but they made{n}that choice themselves. There's no turning back now.{p}That must have been a painful choice... They were{n}enemy soldiers, but don't you think they deserve{n}our respect?",
    "term": "end"
   },
   {
@@ -576,7 +576,7 @@
   {
    "id": "scen051.0092",
    "jp": "{v:003C}はい。{n}陛下に同行していただければ、{n}兵の士気も高まるでしょう。{p}{v:003D}その代わり、陛下のお命は、{n}私が命に代えても守ります。",
-   "en": "{v:003C}Yes. Your presence among us would raise the soldiers'{n}morale.{p}{v:003D}In return, I will protect Your Majesty, even at the cost{n}of my own life.",
+   "en": "{v:003C}Yes. Your presence among us would raise the{n}soldiers' morale.{p}{v:003D}In return, I will protect Your Majesty, even at the cost{n}of my own life.",
    "term": "end"
   },
   {
@@ -636,13 +636,13 @@
   {
    "id": "scen051.0102",
    "jp": "ジュリアン将軍は、いつも我々のために{n}最も危険な場所で戦ってくれた。{n}そんな方を裏切るなんて、俺にはできないよ。",
-   "en": "General Julian always fought in the most dangerous{n}places for our sake. I could never betray someone like{n}that.",
+   "en": "General Julian always fought in the most dangerous{n}places for our sake. I could never betray someone{n}like that.",
    "term": "end"
   },
   {
    "id": "scen051.0103",
    "jp": "あの少年‥‥、いや陛下の目を見ていて、{n}ジュリアン将軍の話が真実だと思ったよ。{p}たしかにリシャール王が魔物の手先という話は、{n}簡単に信じられる内容ではない。{n}だが、俺はこの戦いにかけることにする。",
-   "en": "Looking into that boy's... No, His Majesty's eyes, I knew{n}General Julian was telling the truth.{p}Sure, it's hard to believe King Richard serves a{n}monster. But I'm going to stake everything on this{n}war.",
+   "en": "Looking into that boy's... No, His Majesty's eyes, I knew{n}General Julian was telling the truth.{p}Sure, it's hard to believe King Richard serves a{n}monster. But I'm going to stake everything on{n}this war.",
    "term": "end"
   },
   {
@@ -666,13 +666,13 @@
   {
    "id": "scen051.0107",
    "jp": "まさかリシャール王が偽者だったなんて‥‥。{n}びっくりしたよ。",
-   "en": "I never imagined King Richard was an impostor... What a{n}shock.",
+   "en": "I never imagined King Richard was an impostor... What{n}a shock.",
    "term": "end"
   },
   {
    "id": "scen051.0108",
    "jp": "見張りの邪魔です！{n}話しかけないで下さい。",
-   "en": "You're interfering with my watch! Please don't talk to{n}me.",
+   "en": "You're interfering with my watch! Please don't talk{n}to me.",
    "term": "end"
   },
   {
@@ -720,7 +720,7 @@
   {
    "id": "scen051.0116",
    "jp": "{v:0048}それなら父上の方の様子を見てくれないか？{p}{FC03}{v:0049}父はもう歳だ。{n}無理をしていなければいいが‥‥。",
-   "en": "{v:0048}Then would you check on how things are going with my{n}father?{p}{FC03}{v:0049}He is getting on in years. I hope he is not pushing{n}himself too hard...",
+   "en": "{v:0048}Then would you check on how things are going with{n}my father?{p}{FC03}{v:0049}He is getting on in years. I hope he is not pushing{n}himself too hard...",
    "term": "end"
   },
   {
@@ -762,7 +762,7 @@
   {
    "id": "scen051.0123",
    "jp": "{v:0001}ガラシールズは、ランザック軍と{n}バーンシュタイン軍がにらみ合ってる場所だろ？{p}{v:0002}俺たちローランディアの者が行って、{n}余計なことにならねぇか？",
-   "en": "{v:0001}Galashiels is where the Ranzak and Burnstein armies{n}are facing off, right?{p}{v:0002}Won't we stir up more trouble if we go there, being from{n}Rolandia?",
+   "en": "{v:0001}Galashiels is where the Ranzak and Burnstein armies{n}are facing off, right?{p}{v:0002}Won't we stir up more trouble if we go there, being{n}from Rolandia?",
    "term": "end"
   },
   {
@@ -948,7 +948,7 @@
   {
    "id": "scen051.0153",
    "jp": "{v:001C}で、でも、ほら！{n}そっくりさんに務まるくらいだから、{n}エリオット君にも出来るわよ！",
-   "en": "{v:001C}B-but look! If your double can manage it, you can too,{n}Elliot-kun!",
+   "en": "{v:001C}B-but look! If your double can manage it, you can{n}too, Elliot-kun!",
    "term": "end"
   },
   {
@@ -984,7 +984,7 @@
   {
    "id": "scen051.0159",
    "jp": "{v:0022}そうですね！{n}ありがとうございます！{n}やる気がわいてきました！",
-   "en": "{v:0022}You're right! Thank you! I'm starting to feel ready for{n}this!",
+   "en": "{v:0022}You're right! Thank you! I'm starting to feel ready{n}for this!",
    "term": "end"
   },
   {
@@ -1032,7 +1032,7 @@
   {
    "id": "scen051.0167",
    "jp": "{v:002A}で、でも、ほら！{n}そっくりさんに務まるくらいだから、{n}エリオット君にも出来るわよ！",
-   "en": "{v:002A}B-but look! If your double can manage it, you can too,{n}Elliot-kun!",
+   "en": "{v:002A}B-but look! If your double can manage it, you can{n}too, Elliot-kun!",
    "term": "end"
   },
   {
@@ -1044,7 +1044,7 @@
   {
    "id": "scen051.0169",
    "jp": "{v:002C}ですよねぇ‥‥。{FFF9}{FFFB}{n}{v:002D}実際、自信ないんですよ。",
-   "en": "{v:002C}I thought so...{FFF9}{FFFB}{v:002D}To be honest, I don't have much{n}confidence.",
+   "en": "{v:002C}I thought so...{FFF9}{FFFB}{v:002D}To be honest, I don't have{n}much confidence.",
    "term": "end"
   },
   {
@@ -1146,7 +1146,7 @@
   {
    "id": "scen051.0186",
    "jp": "結局、ガラシールズはジュリアンたちに{n}占領されたままなのね。",
-   "en": "So Galashiels is still occupied by Julian's forces after{n}all.",
+   "en": "So Galashiels is still occupied by Julian's forces{n}after all.",
    "term": "end"
   },
   {
@@ -1176,7 +1176,7 @@
   {
    "id": "scen051.0191",
    "jp": "ここはバーンシュタイン軍に占領されている。{n}下手に出ていって、{n}街の人を戦闘に巻き込むマネはよせ。",
-   "en": "The Burnstein army occupies this place. Don't go{n}blundering out there and drag the townspeople into a{n}fight.",
+   "en": "The Burnstein army occupies this place. Don't go{n}blundering out there and drag the townspeople into{n}a fight.",
    "term": "end"
   },
   {

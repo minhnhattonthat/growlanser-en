@@ -99,7 +99,7 @@
   {
    "id": "scen042.0015",
    "jp": "最近、この街も捨てたもんじゃないって{n}思えるようになったんだよ。",
-   "en": "Lately, I've started thinking this town isn't so bad after{n}all.",
+   "en": "Lately, I've started thinking this town isn't so bad{n}after all.",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen042.0018",
    "jp": "{v:0000}俺たちも、兵隊じゃねぇけど、{n}みんなを守るために自警団を作ったんだ。{p}{v:0001}だから、この町のことは任せてくれ！",
-   "en": "{v:0000}We ain't soldiers, but we've formed a militia to protect{n}everyone.{p}{v:0001}So leave this town to us!",
+   "en": "{v:0000}We ain't soldiers, but we've formed a militia to{n}protect everyone.{p}{v:0001}So leave this town to us!",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen042.0020",
    "jp": "{v:0004}あ、お兄ちゃん達だ！{n}僕ね、畑仕事を手伝ってるんだ！{p}{v:0005}だって、お腹がすいたら、戦えないでしょ？",
-   "en": "{v:0004}Oh, it's Big Brother and everyone! I'm helping out in the{n}fields!{p}{v:0005}You can't fight on an empty stomach, right?",
+   "en": "{v:0004}Oh, it's Big Brother and everyone! I'm helping out in{n}the fields!{p}{v:0005}You can't fight on an empty stomach, right?",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen042.0029",
    "jp": "{v:0027}ようお出でなさった。{n}ここでは、いろんな道具を扱っておるんじゃ。",
-   "en": "{v:0027}Well, welcome. We carry all sorts of items here, you{n}see.",
+   "en": "{v:0027}Well, welcome. We carry all sorts of items here,{n}you see.",
    "term": "end"
   },
   {
@@ -475,7 +475,7 @@
   {
    "id": "scen042.0075",
    "jp": "何でも他人のせいにして生きてる奴らだな‥‥。",
-   "en": "They go through life blaming everyone else for{n}everything...",
+   "en": "They go through life blaming everyone else{n}for everything...",
    "term": "end"
   },
   {
@@ -694,7 +694,7 @@
   {
    "id": "scen042.0110",
    "jp": "{v:005B}その意気よ。{n}あの悪い奴は、アタシ達がやっつけてあげるから！",
-   "en": "{v:005B}That's the spirit! We'll take care of that nasty creep for{n}you!",
+   "en": "{v:005B}That's the spirit! We'll take care of that nasty creep{n}for you!",
    "term": "end"
   },
   {
@@ -880,7 +880,7 @@
   {
    "id": "scen042.0141",
    "jp": "{v:0014}どうせ王様が変わるだけだ！{n}俺たちの生活は何も変わらない。",
-   "en": "{v:0014}It's just a different king, that's all! Our lives won't{n}change.",
+   "en": "{v:0014}It's just a different king, that's all! Our lives{n}won't change.",
    "term": "end"
   },
   {
@@ -1027,19 +1027,19 @@
   {
    "id": "scen042.0165",
    "jp": "{v:002C}何言ってんのよ！{n}その武器は飾りなの！？",
-   "en": "{v:002C}What are you talking about?! Is that weapon just for{n}show?!",
+   "en": "{v:002C}What are you talking about?! Is that weapon just{n}for show?!",
    "term": "end"
   },
   {
    "id": "scen042.0166",
    "jp": "{v:002D}そうは言っても、どうやって戦えば‥‥。",
-   "en": "{v:002D}Easy for you to say, but how are we supposed to{n}fight...?",
+   "en": "{v:002D}Easy for you to say, but how are we supposed{n}to fight...?",
    "term": "end"
   },
   {
    "id": "scen042.0167",
    "jp": "{v:002E}コイツの指示に従えばいいから！{n}死にたくなかったら戦いなさい！",
-   "en": "{v:002E}Just follow this guy's orders! If you don't want to die,{n}fight!",
+   "en": "{v:002E}Just follow this guy's orders! If you don't want to{n}die, fight!",
    "term": "end"
   },
   {
@@ -1267,7 +1267,7 @@
   {
    "id": "scen042.0204",
    "jp": "このドレッサーにカレンの姿が映ることは{n}もう２度とない。",
-   "en": "Karen's reflection will never grace this dressing table{n}again.",
+   "en": "Karen's reflection will never grace this dressing{n}table again.",
    "term": "end"
   }
  ]

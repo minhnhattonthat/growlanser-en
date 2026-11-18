@@ -57,7 +57,7 @@
   {
    "id": "scen070.0008",
    "jp": "相手は複数だったので、全員は覚えていないが‥‥。",
-   "en": "There were several of them. I do not remember them{n}all...",
+   "en": "There were several of them. I do not remember{n}them all...",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen070.0021",
    "jp": "{v:0009}それは、そこの入り口の話だよ。{n}あれは内部調査をするために{n}学院が無理矢理開けた穴だ。{p}{v:000A}グローシアンだけにしか反応しない、本来の扉がある。{n}ルイセ君、君なら開けられるはずだ。",
-   "en": "{v:0009}That only applies to the entrance over there. The{n}Academy forced that opening to investigate the{n}interior.{p}{v:000A}There is an original door that responds only to{n}Growsians. Luise-kun, you should be able to open it.",
+   "en": "{v:0009}That only applies to the entrance over there. The{n}Academy forced that opening to investigate{n}the interior.{p}{v:000A}There is an original door that responds only to{n}Growsians. Luise-kun, you should be able to open it.",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen070.0027",
    "jp": "{v:0010}グローシアンだけに反応する扉があるはずだ。",
-   "en": "{v:0010}There should be a door that responds only to{n}Growsians.",
+   "en": "{v:0010}There should be a door that responds only{n}to Growsians.",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen070.0035",
    "jp": "『{FFEF}スタデッドレザー{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Studded Leather{FFF1}', but you cannot carry any{n}more...",
+   "en": "Found '{FFEF}Studded Leather{FFF1}', but you cannot carry{n}any more...",
    "term": "end"
   },
   {
@@ -463,7 +463,7 @@
   {
    "id": "scen070.0075",
    "jp": "{v:001B}これは暗証キーだね。{p}{v:001C}５色のボタンがあるだろ？{n}これのうち４つを決められた順番で押せばいい。{n}１つは使わない。{p}{v:001D}４つが正しい順番に押されたならば、鍵が開くはずだ。",
-   "en": "{v:001B}This is a combination lock.{p}{v:001C}See the five colored buttons? We need to press four of{n}them in a particular order. One isn't used.{p}{v:001D}If we press the four in the right order, it should{n}unlock.",
+   "en": "{v:001B}This is a combination lock.{p}{v:001C}See the five colored buttons? We need to press four of{n}them in a particular order. One isn't used.{p}{v:001D}If we press the four in the right order, it{n}should unlock.",
    "term": "end"
   },
   {
@@ -505,7 +505,7 @@
   {
    "id": "scen070.0082",
    "jp": "５色のボタンがある。どれから押しますか？",
-   "en": "There are five colored buttons. Which will you press{n}first?",
+   "en": "There are five colored buttons. Which will you{n}press first?",
    "term": "end"
   },
   {
@@ -865,7 +865,7 @@
   {
    "id": "scen070.0139",
    "jp": "{v:004C}仕方ないよ。{n}わたしも想像つかないもの‥‥。",
-   "en": "{v:004C}Don't be so hard on him. I can't think of anything,{n}either...",
+   "en": "{v:004C}Don't be so hard on him. I can't think of{n}anything, either...",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen070.0172",
    "jp": "{v:0073}机の上に本と、何かの書類みたいなものがあるよ？",
-   "en": "{v:0073}There's a book on the desk, and what looks like some{n}documents.",
+   "en": "{v:0073}There's a book on the desk, and what looks like{n}some documents.",
    "term": "end"
   },
   {
@@ -1117,7 +1117,7 @@
   {
    "id": "scen070.0181",
    "jp": "{v:007E}確かに我々は人間に比べて数が少ない。{n}だがこの偉大な力がある。{p}{v:007F}たいした力を持たない下民が、{n}我々グローシアンにたてつくとは愚の骨頂だ。{p}{v:0080}それにしても気にかかるのは、{n}グローシアンでありながら{n}下民に味方しようとする連中の存在だ。{p}{v:0081}奴らはゲヴェルが我々の前では{n}真の力を発揮できないことを知っている。{n}これを逆手に取られたら‥‥。{p}{v:0082}すぐにでも新型を完成させなければならない‥‥。{p}{FC00}‥‥{v:0083}こんな所ね。",
-   "en": "{v:007E}It is true that humans outnumber us. But we possess{n}this tremendous power.{p}{v:007F}For the rabble, with their meager power, to defy us{n}Growsians is the height of folly.{p}{v:0080}What concerns me, however, is the existence of those{n}who would side with the rabble despite being Growsians{n}themselves.{p}{v:0081}They know that Gevel cannot unleash his true power in{n}our presence. If they were to use that against us...{p}{v:0082}We must complete the new model at once...{p}{FC00}...{v:0083}That's about it.",
+   "en": "{v:007E}It is true that humans outnumber us. But we possess{n}this tremendous power.{p}{v:007F}For the rabble, with their meager power, to defy us{n}Growsians is the height of folly.{p}{v:0080}What concerns me, however, is the existence of those{n}who would side with the rabble despite being{n}Growsians themselves.{p}{v:0081}They know that Gevel cannot unleash his true power in{n}our presence. If they were to use that against us...{p}{v:0082}We must complete the new model at once...{p}{FC00}...{v:0083}That's about it.",
    "term": "end"
   },
   {
@@ -1159,13 +1159,13 @@
   {
    "id": "scen070.0188",
    "jp": "{v:008C}えっと、こっちは何かの報告書みたい。{n}読んでみるね。{p}{FC02}{v:008D}『新型ゲヴェルの開発に向けて』{n}現行型生体兵器であるゲヴェルの弱点は、魔法である。{p}{v:008E}ゲヴェルは自らが魔法を使うことは出来ない。{n}また魔法への耐性も設計値を下回る。{p}{v:008F}これは我々グローシアンに危害を加えないようにする{n}ための処理が悪影響を及ぼしていると思われる。{p}{v:0090}現行型でも、一般人が使用する魔法には{n}十分な耐性を持つが、{n}新型では改善するべきポイントである。{p}{FC00}‥‥{v:0091}だって。",
-   "en": "{v:008C}Um, this looks like some kind of report. I'll read it.{p}{FC02}{v:008D}'Toward the Development of a New Gevel Model' The{n}weakness of Gevel, our current biological weapon, is{n}magic.{p}{v:008E}Gevel cannot use magic himself. His resistance to magic{n}also falls below design specifications.{p}{v:008F}This appears to be an adverse effect of the{n}modifications made to prevent him from harming us{n}Growsians.{p}{v:0090}Even the current model has sufficient resistance to{n}magic used by ordinary people, but this is an area that{n}should be improved in the new model.{p}{FC00}...{v:0091}That's what it says.",
+   "en": "{v:008C}Um, this looks like some kind of report. I'll read it.{p}{FC02}{v:008D}'Toward the Development of a New Gevel Model' The{n}weakness of Gevel, our current biological weapon,{n}is magic.{p}{v:008E}Gevel cannot use magic himself. His resistance to magic{n}also falls below design specifications.{p}{v:008F}This appears to be an adverse effect of the{n}modifications made to prevent him from harming{n}us Growsians.{p}{v:0090}Even the current model has sufficient resistance to{n}magic used by ordinary people, but this is an area that{n}should be improved in the new model.{p}{FC00}...{v:0091}That's what it says.",
    "term": "end"
   },
   {
    "id": "scen070.0189",
    "jp": "{v:0092}ゲヴェルは魔法に弱い、か。{n}これはいいことを知ったぜ。",
-   "en": "{v:0092}Gevel's weak against magic, huh? Now that's good to{n}know.",
+   "en": "{v:0092}Gevel's weak against magic, huh? Now that's good{n}to know.",
    "term": "end"
   },
   {
@@ -1189,19 +1189,19 @@
   {
    "id": "scen070.0193",
    "jp": "‥‥装置は順調に動いている。{n}おかげでゲヴェルたちも下民どもを殺しまくっている。{p}確かに我々は人間に比べて数が少ない。{n}だがこの偉大な力がある。{p}たいした力を持たない下民が、{n}我々グローシアンにたてつくとは愚の骨頂だ。{p}それにしても気にかかるのは、{n}グローシアンでありながら{n}下民に味方しようとする連中の存在だ。{p}奴らはゲヴェルが我々の前では{n}真の力を発揮できないことを知っている。{n}これを逆手に取られたら‥‥。{p}すぐにでも新型を完成させなければならない‥‥。",
-   "en": "...The device is functioning smoothly. Thanks to it, the{n}Gevel creatures are slaughtering the lowborn in{n}droves.{p}It is true that we are fewer in number than humans.{n}But we possess this magnificent power.{p}For powerless lowborn to defy us Growsians is folly of{n}the highest order.{p}Still, one thing troubles me: those who would side with{n}the lowborn despite being Growsians themselves.{p}They know that Gevel cannot unleash its true power in{n}our presence. If they were to turn that against us...{p}We must complete the new model without delay...",
+   "en": "...The device is functioning smoothly. Thanks to it, the{n}Gevel creatures are slaughtering the lowborn{n}in droves.{p}It is true that we are fewer in number than humans.{n}But we possess this magnificent power.{p}For powerless lowborn to defy us Growsians is folly of{n}the highest order.{p}Still, one thing troubles me: those who would side with{n}the lowborn despite being Growsians themselves.{p}They know that Gevel cannot unleash its true power in{n}our presence. If they were to turn that against us...{p}We must complete the new model without delay...",
    "term": "end"
   },
   {
    "id": "scen070.0194",
    "jp": "『{FFEF}新型ゲヴェルの開発に向けて{FFF1}』{n}現行型生体兵器であるゲヴェルの弱点は、魔法である。{p}ゲヴェルは自らが魔法を使うことは出来ない。{n}また魔法への耐性も設計値を下回る。{p}これは我々グローシアンに危害を加えないようにする{n}ための処理が悪影響を及ぼしていると思われる。{p}現行型でも、一般人が使用する魔法には{n}十分な耐性を持つが、{n}新型では改善するべきポイントである。",
-   "en": "'{FFEF}Toward the Development of a New Gevel Model{FFF1}' The{n}weakness of our current biological weapon, Gevel, is{n}magic.{p}Gevel cannot use magic itself. Its resistance to magic{n}also falls below design specifications.{p}This appears to be an adverse effect of the{n}modifications intended to prevent it from harming us{n}Growsians.{p}Even the current model has sufficient resistance to{n}magic used by ordinary humans, but this is an area to{n}improve in the new model.",
+   "en": "'{FFEF}Toward the Development of a New Gevel Model{FFF1}' The{n}weakness of our current biological weapon, Gevel,{n}is magic.{p}Gevel cannot use magic itself. Its resistance to magic{n}also falls below design specifications.{p}This appears to be an adverse effect of the{n}modifications intended to prevent it from harming{n}us Growsians.{p}Even the current model has sufficient resistance to{n}magic used by ordinary humans, but this is an area to{n}improve in the new model.",
    "term": "end"
   },
   {
    "id": "scen070.0195",
    "jp": "コラ！{n}ここまで来て、どこへ行くのよ！",
-   "en": "Hey! We've come all this way! Where do you think you're{n}going?!",
+   "en": "Hey! We've come all this way! Where do you think{n}you're going?!",
    "term": "end"
   },
   {

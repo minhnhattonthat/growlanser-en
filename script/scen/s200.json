@@ -39,13 +39,13 @@
   {
    "id": "scen200.0005",
    "jp": "{v:0023}要はこの粉の匂いが伝わればいいのです。{n}風や水は手段にすぎないのですよ。",
-   "en": "{v:0023}All that matters is that the scent of this powder{n}spreads. Wind and water are merely means to that{n}end.",
+   "en": "{v:0023}All that matters is that the scent of this powder{n}spreads. Wind and water are merely means to{n}that end.",
    "term": "end"
   },
   {
    "id": "scen200.0006",
    "jp": "{v:0024}それじゃ、アンタがいなくなれば{n}モンスターも元通りね！",
-   "en": "{v:0024}Then once you're gone, the monsters will go back to{n}normal!",
+   "en": "{v:0024}Then once you're gone, the monsters will go back{n}to normal!",
    "term": "end"
   },
   {
@@ -75,7 +75,7 @@
   {
    "id": "scen200.0011",
    "jp": "{v:0029}彼らは私の友であり道具です。{n}農夫が馬に畑を耕させる。{n}狩人が犬に獲物を追わせる。{p}{v:002A}私はモンスターを戦わせる。{n}同じことですよ。",
-   "en": "{v:0029}They are my friends and my tools. A farmer has{n}horses plow his fields. A hunter has dogs chase his{n}prey.{p}{v:002A}I have monsters fight. It is precisely the same.",
+   "en": "{v:0029}They are my friends and my tools. A farmer has{n}horses plow his fields. A hunter has dogs chase{n}his prey.{p}{v:002A}I have monsters fight. It is precisely the same.",
    "term": "end"
   },
   {

@@ -231,7 +231,7 @@
   {
    "id": "scen009.0037",
    "jp": "うん‥‥。{n}もしかしたら他の水晶鉱山にもいるかも知れない‥‥。",
-   "en": "Yes... There might be others in other crystal mines,{n}too...",
+   "en": "Yes... There might be others in other crystal{n}mines, too...",
    "term": "end"
   },
   {
@@ -306,7 +306,7 @@
   {
    "id": "scen009.0049",
    "jp": "やっぱりそうですよね‥‥。{n}でも僕、剣の腕に自信がなくて‥‥。",
-   "en": "I suppose you're right... But I'm not very confident in my{n}swordsmanship...",
+   "en": "I suppose you're right... But I'm not very confident in{n}my swordsmanship...",
    "term": "end"
   },
   {
@@ -348,7 +348,7 @@
   {
    "id": "scen009.0056",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
    "term": "end"
   },
   {
@@ -414,7 +414,7 @@
   {
    "id": "scen009.0067",
    "jp": "{v:0055}城に入り込んでまで、エリオットを殺しにかかった。{n}そこまでしてくるとは、よほどの事だ。",
-   "en": "{v:0055}They went so far as to sneak into the castle to kill{n}Elliot. They must have a damn good reason to go that{n}far.",
+   "en": "{v:0055}They went so far as to sneak into the castle to kill{n}Elliot. They must have a damn good reason to go{n}that far.",
    "term": "end"
   },
   {
@@ -462,7 +462,7 @@
   {
    "id": "scen009.0075",
    "jp": "{v:005E}バーンシュタインの宮廷魔術師だったヴェンツェルを、{n}ランザック城で見かけたとの哮があります。{p}{v:005F}もし本当なら彼と引き合わせてみたいのです。",
-   "en": "{v:005E}There are rumors that Wenzel, the former Court{n}Magician of Burnstein, has been seen at Ranzak Castle.{p}{v:005F}If they are true, I would like the two of them to{n}meet.",
+   "en": "{v:005E}There are rumors that Wenzel, the former Court{n}Magician of Burnstein, has been seen at Ranzak Castle.{p}{v:005F}If they are true, I would like the two of them{n}to meet.",
    "term": "end"
   },
   {
@@ -480,13 +480,13 @@
   {
    "id": "scen009.0078",
    "jp": "{v:0063}わかった。{n}ではこの書簡を届けに行く任務を授ける。{p}{v:0064}ゲヴェルの調査がある程度進んだので、{n}その注意を促すための書簡をしたためてあったのだ。",
-   "en": "{v:0063}Very well. We shall assign you to deliver this letter.{p}{v:0064}Our investigation into Gevel has made some progress,{n}so we had prepared a letter warning them of the{n}danger.",
+   "en": "{v:0063}Very well. We shall assign you to deliver this letter.{p}{v:0064}Our investigation into Gevel has made some progress,{n}so we had prepared a letter warning them of{n}the danger.",
    "term": "end"
   },
   {
    "id": "scen009.0079",
    "jp": "{v:0065}これをランザックの王に届けよ。{n}その代わり、なんとしても魔術師ヴェンツェルに会い、{n}ことの真相を確かめるのだ。",
-   "en": "{v:0065}Deliver this to the King of Ranzak. In return, you must{n}find a way to meet the Mage Wenzel and learn the{n}truth.",
+   "en": "{v:0065}Deliver this to the King of Ranzak. In return, you must{n}find a way to meet the Mage Wenzel and learn{n}the truth.",
    "term": "end"
   },
   {
@@ -560,7 +560,7 @@
   {
    "id": "scen009.0091",
    "jp": "{v:000A}おお、戻ったか。{n}サンドラから話は聞いた。{p}{v:000B}まさか魔法学院の学院長がグローシアンを‥‥。{n}いまだに信じられん。",
-   "en": "{v:000A}Ah, you have returned. Sandra has told us what{n}happened.{p}{v:000B}To think that the Headmaster of the Magic Academy{n}would do such things to Growsians... We still find it hard{n}to believe.",
+   "en": "{v:000A}Ah, you have returned. Sandra has told us{n}what happened.{p}{v:000B}To think that the Headmaster of the Magic Academy{n}would do such things to Growsians... We still find it hard{n}to believe.",
    "term": "end"
   },
   {
@@ -686,7 +686,7 @@
   {
    "id": "scen009.0112",
    "jp": "{v:0006}実はあのゲヴェルですが、{n}昔のグローシアンが造りだした物らしいのです。",
-   "en": "{v:0006}It seems Gevel was actually created by the ancient{n}Growsians.",
+   "en": "{v:0006}It seems Gevel was actually created by the{n}ancient Growsians.",
    "term": "end"
   },
   {
@@ -704,7 +704,7 @@
   {
    "id": "scen009.0115",
    "jp": "{v:000B}そのゲヴェルが、今この世界を脅かしていると{n}いうのか‥‥。",
-   "en": "{v:000B}And you say that same Gevel now threatens our{n}world...",
+   "en": "{v:000B}And you say that same Gevel now threatens{n}our world...",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen009.0137",
    "jp": "{v:001B}全部自分で決めるなんて、なんだか調子狂っちゃうね。",
-   "en": "{v:001B}Having to decide everything ourselves feels kind of{n}weird!",
+   "en": "{v:001B}Having to decide everything ourselves feels kind{n}of weird!",
    "term": "end"
   },
   {
@@ -923,7 +923,7 @@
   {
    "id": "scen009.0150",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "B-Big Brother... You shouldn't use magic in front of the{n}King...",
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
    "term": "end"
   },
   {
@@ -1007,7 +1007,7 @@
   {
    "id": "scen009.0164",
    "jp": "{v:0050}王がお呼びだ。{n}その者を連れて急げ。",
-   "en": "{v:0050}The King summons you. Bring that person with you, and{n}hurry.",
+   "en": "{v:0050}The King summons you. Bring that person with you,{n}and hurry.",
    "term": "end"
   }
  ]

@@ -111,7 +111,7 @@
   {
    "id": "scen222.0017",
    "jp": "‥‥{v:0029}これだ。{p}{v:002A}これがあれば、一時的ではあるが、{n}彼の寿命を延ばすことが出来る。{p}{v:002B}このパワーストーンを‥‥。",
-   "en": "...{v:0029}Here it is.{p}{v:002A}With this, I can extend his life, though only for a short{n}time.{p}{v:002B}This Power Stone...",
+   "en": "...{v:0029}Here it is.{p}{v:002A}With this, I can extend his life, though only for a{n}short time.{p}{v:002B}This Power Stone...",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen222.0019",
    "jp": "{v:002D}私に任せておけ。{p}{v:002E}私はこの秘石と共に、時を越えた者だ。{n}こいつの使い方は誰よりも良く知っている。{p}{v:002F}たとえわずかしか力が残っていなくても、{n}それを有効に使える。",
-   "en": "{v:002D}Leave it to me.{p}{v:002E}I crossed time with this mystic stone. I know how to{n}use it better than anyone.{p}{v:002F}Even if only a little power remains, I can put it to good{n}use.",
+   "en": "{v:002D}Leave it to me.{p}{v:002E}I crossed time with this mystic stone. I know how to{n}use it better than anyone.{p}{v:002F}Even if only a little power remains, I can put it to{n}good use.",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen222.0023",
    "jp": "{v:0033}今からパワーストーンの力で{n}ゲヴェルの波動を彼に与える。",
-   "en": "{v:0033}I will now use the Power Stone to give him Gevel's{n}energy.",
+   "en": "{v:0033}I will now use the Power Stone to give him{n}Gevel's energy.",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen222.0028",
    "jp": "{v:0037}君は私自身‥‥絶対に成功するはずだ！{n}自分を信じろ！",
-   "en": "{v:0037}You are my very self... This has to work! Believe in{n}yourself!",
+   "en": "{v:0037}You are my very self... This has to work! Believe{n}in yourself!",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen222.0035",
    "jp": "{v:003D}数日間の延命でしかないが、{n}その間は本来の力を発揮できるだろう。{n}さぁ、奴を倒すんだ！",
-   "en": "{v:003D}This will only give you a few more days, but you should{n}have your full strength for that time. Now, defeat{n}him!",
+   "en": "{v:003D}This will only give you a few more days, but you should{n}have your full strength for that time. Now,{n}defeat him!",
    "term": "end"
   },
   {

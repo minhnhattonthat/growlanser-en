@@ -219,7 +219,7 @@
   {
    "id": "scen019.0035",
    "jp": "{v:0022}それほどすぐには分かりませんよ。{p}{v:0023}今回呼んだのは、これを届けてほしいからです。",
-   "en": "{v:0022}I cannot find answers quite that quickly.{p}{v:0023}I called you here because I would like you to deliver{n}this.",
+   "en": "{v:0022}I cannot find answers quite that quickly.{p}{v:0023}I called you here because I would like you to{n}deliver this.",
    "term": "end"
   },
   {
@@ -249,7 +249,7 @@
   {
    "id": "scen019.0040",
    "jp": "{v:0028}これを{FFEF}学院長{FFF1}か{FFEF}副学院長{FFF1}に渡せば、{n}後は卒業研究だけですね。",
-   "en": "{v:0028}Once you give this to the {FFEF}Headmaster{FFF1} or {FFEF}Vice{n}Headmaster{FFF1}, all that remains is your graduation{n}research.",
+   "en": "{v:0028}Once you give this to the {FFEF}Headmaster{FFF1} or {FFEF}Vice{n}Headmaster{FFF1}, all that remains is your{n}graduation research.",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen019.0043",
    "jp": "{v:002A}ミーシャ君だってがんばっているじゃないか。{n}きっと報われるよ。",
-   "en": "{v:002A}You're working hard too, Misha-kun. I'm sure it'll pay{n}off.",
+   "en": "{v:002A}You're working hard too, Misha-kun. I'm sure it'll{n}pay off.",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen019.0061",
    "jp": "{v:0031}その時、旧坑道の天井はどうでしたか？",
-   "en": "{v:0031}What condition was the ceiling of the old mine tunnel{n}in?",
+   "en": "{v:0031}What condition was the ceiling of the old mine{n}tunnel in?",
    "term": "end"
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "scen019.0063",
    "jp": "旧坑道の天井はどうでしたか？",
-   "en": "What condition was the ceiling of the old mine tunnel{n}in?",
+   "en": "What condition was the ceiling of the old mine{n}tunnel in?",
    "term": "end"
   },
   {
@@ -450,7 +450,7 @@
   {
    "id": "scen019.0073",
    "jp": "{v:003A}ええ。{n}この２つの事故は人為的なものかも知れません。{p}{v:003B}そしてこの両方の調査に参加しているのは、{n}ただ１人‥‥。",
-   "en": "{v:003A}Yes. These two accidents may have been deliberately{n}caused.{p}{v:003B}And only one person took part in both investigations...",
+   "en": "{v:003A}Yes. These two accidents may have been{n}deliberately caused.{p}{v:003B}And only one person took part in both investigations...",
    "term": "end"
   },
   {
@@ -537,7 +537,7 @@
   {
    "id": "scen019.0087",
    "jp": "{v:002F}ゲヴェルの件は、何か分かり次第、{n}すぐに知らせるようにします。{n}それまではあなた達だけでがんばってくださいね。",
-   "en": "{v:002F}I will let you know as soon as I learn anything about{n}Gevel. Until then, you will have to do your best on your{n}own.",
+   "en": "{v:002F}I will let you know as soon as I learn anything about{n}Gevel. Until then, you will have to do your best on{n}your own.",
    "term": "end"
   },
   {
@@ -606,7 +606,7 @@
   {
    "id": "scen019.0098",
    "jp": "{v:0011}たしかガルアオス監獄のあたりで、そんなこと言ってたよね？",
-   "en": "{v:0011}You said something about that near Garuaos Prison,{n}right?",
+   "en": "{v:0011}You said something about that near Garuaos{n}Prison, right?",
    "term": "end"
   },
   {
@@ -762,7 +762,7 @@
   {
    "id": "scen019.0124",
    "jp": "どうしたのです？{n}早く魔法学院に行かねば、{n}予告の時間に間に合わなくなりますよ？",
-   "en": "What is the matter? Unless you hurry to the Magic{n}Academy, you will not arrive before the announced{n}time.",
+   "en": "What is the matter? Unless you hurry to the Magic{n}Academy, you will not arrive before the{n}announced time.",
    "term": "end"
   },
   {
@@ -780,7 +780,7 @@
   {
    "id": "scen019.0127",
    "jp": "そうですね。{p}それにしても、リシャールが協力してくれれば、{n}事はもっと楽になるのですが‥‥。{p}リシャールを説得できるような何かが、{n}バーンシュタインの城にないものでしょうか？",
-   "en": "Indeed.{p}Still, things would be much easier if Richard would help{n}us...{p}Could there be something in Burnstein Castle that{n}might persuade Richard?",
+   "en": "Indeed.{p}Still, things would be much easier if Richard would{n}help us...{p}Could there be something in Burnstein Castle that{n}might persuade Richard?",
    "term": "end"
   },
   {
@@ -828,7 +828,7 @@
   {
    "id": "scen019.0135",
    "jp": "本当、コイツにあんな能力があったなんてね。{p}グローシアンをつくる方法があったんだもん、{n}この世界も助かるよね？",
-   "en": "Yeah! Who'd have thought this guy had a power like{n}that?{p}Now that we know there's a way to create Growsians,{n}we can save this world, right?",
+   "en": "Yeah! Who'd have thought this guy had a power{n}like that?{p}Now that we know there's a way to create Growsians,{n}we can save this world, right?",
    "term": "end"
   },
   {
@@ -858,13 +858,13 @@
   {
    "id": "scen019.0140",
    "jp": "他のグローシアンもルイセのように{n}回復すれば良いのですが‥‥。",
-   "en": "If only the other Growsians could recover as Luise{n}did...",
+   "en": "If only the other Growsians could recover as{n}Luise did...",
    "term": "end"
   },
   {
    "id": "scen019.0141",
    "jp": "どうやら御師様は{n}本気でこの世界の支配を企んでいるようですね。{p}それにしても、ブローニュ村の人々は無事だったのでしょうか？",
-   "en": "It seems my teacher truly intends to rule this world.{p}Still, I wonder if the people of Boulogne Village are{n}safe.",
+   "en": "It seems my teacher truly intends to rule this world.{p}Still, I wonder if the people of Boulogne Village{n}are safe.",
    "term": "end"
   },
   {
@@ -912,7 +912,7 @@
   {
    "id": "scen019.0149",
    "jp": "我が国の兵をあげて、居場所を探しているのですが、{n}すぐに逃げられてしまい、なかなかはかどりません。",
-   "en": "We have mobilized all our nation's soldiers to find him,{n}but he escapes so quickly that we are making little{n}progress.",
+   "en": "We have mobilized all our nation's soldiers to find him,{n}but he escapes so quickly that we are making{n}little progress.",
    "term": "end"
   },
   {
@@ -1119,7 +1119,7 @@
   {
    "id": "scen019.0183",
    "jp": "{v:0024}やはりそうか。ならば話は早い。{p}{v:0025}確かに魔水晶に含まれるグローシュは{n}燃えカスの様なものだ。{p}{v:0026}だが漠然と燃えカスと言っても、{n}どのように成分が違うのかはわかっていない。{p}{v:0027}そこでルイセのグローシュ波動との{n}比較をしてみたいのだ。",
-   "en": "{v:0024}Just as I thought. That will simplify matters.{p}{v:0025}Indeed, the Grosh within magic crystals is something{n}like burnt-out embers.{p}{v:0026}But that is only a vague comparison. We do not yet{n}know how its composition differs.{p}{v:0027}That is why I wish to compare it with Luise's Grosh{n}waves.",
+   "en": "{v:0024}Just as I thought. That will simplify matters.{p}{v:0025}Indeed, the Grosh within magic crystals is something{n}like burnt-out embers.{p}{v:0026}But that is only a vague comparison. We do not yet{n}know how its composition differs.{p}{v:0027}That is why I wish to compare it with Luise's{n}Grosh waves.",
    "term": "end"
   },
   {
@@ -1209,13 +1209,13 @@
   {
    "id": "scen019.0198",
    "jp": "{v:0039}とにかく、ここじゃ何だ。{n}家にでも戻ろう！",
-   "en": "{v:0039}Anyway, we can't stay here. Let's get back to the{n}house!",
+   "en": "{v:0039}Anyway, we can't stay here. Let's get back to{n}the house!",
    "term": "end"
   },
   {
    "id": "scen019.0199",
    "jp": "{v:0013}それはマジックジャマー。{n}ホムンクルスのテレパシーを妨害するアイテムです。{p}{v:0016}事件が一段落したら、返しに来なさい。",
-   "en": "{v:0013}That is a Magic Jammer. It interferes with a{n}homunculus's telepathy.{p}{v:0016}Come and return it once this matter has settled{n}down.",
+   "en": "{v:0013}That is a Magic Jammer. It interferes with a{n}homunculus's telepathy.{p}{v:0016}Come and return it once this matter has{n}settled down.",
    "term": "end"
   },
   {
@@ -1233,7 +1233,7 @@
   {
    "id": "scen019.0202",
    "jp": "{v:0013}それはマジックジャマー。{n}ホムンクルスのテレパシーを妨害するアイテムです。{p}{v:0014}これを持っていれば、ティピのテレパシーを{n}傍受されることはなくなるでしょう。{p}{v:0015}逆に私との通話もできなくなってしまいますが、{n}調査を終えるまでなら大丈夫でしょう。{p}{v:0016}事件が一段落したら、返しに来なさい。",
-   "en": "{v:0013}That is a Magic Jammer. It interferes with a{n}homunculus's telepathy.{p}{v:0014}As long as you carry it, no one should be able to{n}intercept Tippi's telepathy.{p}{v:0015}You will also be unable to communicate with me, but that{n}should be fine until your investigation is complete.{p}{v:0016}Come and return it once this matter has settled{n}down.",
+   "en": "{v:0013}That is a Magic Jammer. It interferes with a{n}homunculus's telepathy.{p}{v:0014}As long as you carry it, no one should be able to{n}intercept Tippi's telepathy.{p}{v:0015}You will also be unable to communicate with me, but that{n}should be fine until your investigation is complete.{p}{v:0016}Come and return it once this matter has{n}settled down.",
    "term": "end"
   },
   {
@@ -1263,7 +1263,7 @@
   {
    "id": "scen019.0207",
    "jp": "{v:001B}あ、ここ、マスターの研究室の前だ！{FFF9}{FFFB}{n}{v:001C}ってことは‥‥。",
-   "en": "{v:001B}Oh, we're right outside Master's laboratory!{FFF9}{FFFB} {v:001C}Then that{n}means...",
+   "en": "{v:001B}Oh, we're right outside Master's laboratory!{FFF9}{FFFB} {v:001C}Then{n}that means...",
    "term": "end"
   },
   {
@@ -1293,7 +1293,7 @@
   {
    "id": "scen019.0212",
    "jp": "‥‥{v:0000}まさか、私の魔法がほとんど効かないなんて‥‥。",
-   "en": "...{v:0000}I never imagined my magic would have so little{n}effect...",
+   "en": "...{v:0000}I never imagined my magic would have so{n}little effect...",
    "term": "end"
   },
   {
@@ -1425,7 +1425,7 @@
   {
    "id": "scen019.0234",
    "jp": "{v:002B}日食や月食の期間に生まれた者は、{n}特別な魔力が宿るのです。{n}その能力を宿した者をグローシアンと呼びます。{p}{v:002C}その能力は月食、日食、皆既月食、皆既日食の順に{n}強くなります。{n}ルイセは皆既日食に生まれたグローシアン。{n}一番強い魔力を秘めているのです。",
-   "en": "{v:002B}Those born during a solar or lunar eclipse possess{n}special magical power. People with this ability are called{n}Growsians.{p}{v:002C}Their power increases in this order: lunar eclipse, solar{n}eclipse, total lunar eclipse, and total solar eclipse. Luise{n}is a Growsian born during a total solar eclipse. She holds{p}the greatest magical power of all.",
+   "en": "{v:002B}Those born during a solar or lunar eclipse possess{n}special magical power. People with this ability are{n}called Growsians.{p}{v:002C}Their power increases in this order: lunar eclipse, solar{n}eclipse, total lunar eclipse, and total solar eclipse. Luise{n}is a Growsian born during a total solar eclipse. She holds{p}the greatest magical power of all.",
    "term": "end"
   },
   {

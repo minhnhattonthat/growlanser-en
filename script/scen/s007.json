@@ -63,7 +63,7 @@
   {
    "id": "scen007.0009",
    "jp": "この先にはアルカディウス王がいらっしゃる。{n}くれぐれもそそうのないようにな。",
-   "en": "King Alcadius is just ahead. Mind your manners in his{n}presence.",
+   "en": "King Alcadius is just ahead. Mind your manners in{n}his presence.",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen007.0023",
    "jp": "{v:0033}そうやってるのが一番失礼よ！",
-   "en": "{v:0033}Making a fuss like that is the rudest thing you could{n}do!",
+   "en": "{v:0033}Making a fuss like that is the rudest thing you{n}could do!",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen007.0025",
    "jp": "{v:0035}それはアタシたちじゃなくて{n}お姫様にすることでしょ？",
-   "en": "{v:0035}Shouldn't you be apologizing to the princess instead of{n}us?",
+   "en": "{v:0035}Shouldn't you be apologizing to the princess instead{n}of us?",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen007.0030",
    "jp": "だって、ほら！{n}仕官するのはお兄さまとルイセちゃんだし、アタシっ{n}てば、ウォレスさんみたく、ちゃんとしてないし‥‥。",
-   "en": "Well, see! You're the ones entering royal service, Big{n}Brother, you and Luise-chan. And I'm not as proper as{n}Wallace-san...",
+   "en": "Well, see! You're the ones entering royal service, Big{n}Brother, you and Luise-chan. And I'm not as proper{n}as Wallace-san...",
    "term": "end"
   },
   {
@@ -249,7 +249,7 @@
   {
    "id": "scen007.0040",
    "jp": "{FFF0}料理の基本①{FFF1}{n}調味料を入れる順序は、{n}{FFEF}さしすせそ{FFF1}だ。{p}{FFEF}さ{FFF1}は、砂糖{n}{FFEF}し{FFF1}は、塩{n}{FFEF}す{FFF1}は、酢‥‥{p}というように、{n}調味料により入れる手順があるんだよ。",
-   "en": "{FFF0}Cooking Basics 1{FFF1} Add seasonings in this order: {FFEF}sugar,{n}salt, vinegar, soy sauce, miso{FFF1}.{p}{FFEF}Sugar{FFF1} first, then {FFEF}salt{FFF1}, then {FFEF}vinegar{FFF1}...{p}You see, each seasoning has its proper place in the{n}sequence.",
+   "en": "{FFF0}Cooking Basics 1{FFF1} Add seasonings in this order: {FFEF}sugar,{n}salt, vinegar, soy sauce, miso{FFF1}.{p}{FFEF}Sugar{FFF1} first, then {FFEF}salt{FFF1}, then {FFEF}vinegar{FFF1}...{p}You see, each seasoning has its proper place in{n}the sequence.",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen007.0047",
    "jp": "騎士になられたそうですね？{n}おめでとうございます！",
-   "en": "You've been made a knight, haven't you?{n}Congratulations!",
+   "en": "You've been made a knight, haven't{n}you? Congratulations!",
    "term": "end"
   },
   {
@@ -372,7 +372,7 @@
   {
    "id": "scen007.0060",
    "jp": "くすくすっ★{n}ウォレスさんって、お父さんみたいだね？",
-   "en": "Heehee! Wallace-san, you sound just like a father, don't{n}you?",
+   "en": "Heehee! Wallace-san, you sound just like a father,{n}don't you?",
    "term": "end"
   },
   {
@@ -396,7 +396,7 @@
   {
    "id": "scen007.0064",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
    "term": "end"
   },
   {
@@ -462,7 +462,7 @@
   {
    "id": "scen007.0075",
    "jp": "{v:0008}本当にグレッグ卿がリシャール王に斬りかかったのか？",
-   "en": "{v:0008}Did Lord Greg truly raise his sword against King{n}Richard?",
+   "en": "{v:0008}Did Lord Greg truly raise his sword against{n}King Richard?",
    "term": "end"
   },
   {
@@ -480,7 +480,7 @@
   {
    "id": "scen007.0078",
    "jp": "{v:000B}しかし、それも思い返せば妙な気がします。",
-   "en": "{v:000B}Yet, looking back, something about it strikes me as{n}strange.",
+   "en": "{v:000B}Yet, looking back, something about it strikes me{n}as strange.",
    "term": "end"
   },
   {
@@ -516,7 +516,7 @@
   {
    "id": "scen007.0084",
    "jp": "{v:0011}それが、バーンシュタイン王国の新しい王様に{n}そっくりなんです。{p}{v:0012}今回の戦争と何か関係があるかも知れないと思って。",
-   "en": "{v:0011}And he looks just like the new King of Burnstein.{p}{v:0012}We thought there might be some connection to this{n}war.",
+   "en": "{v:0011}And he looks just like the new King of Burnstein.{p}{v:0012}We thought there might be some connection to{n}this war.",
    "term": "end"
   },
   {
@@ -540,7 +540,7 @@
   {
    "id": "scen007.0088",
    "jp": "{v:0016}はい‥‥。{n}僕が王都へ参ったのは、父に命じられたためです。{p}{v:0017}その時、王にお渡しするための手紙を受け取って{n}いたのですが、その手紙をなくしてしまい、{n}今までここを訪れることが出来ませんでした。",
-   "en": "{v:0016}Yes... I came to the royal capital at my father's{n}instruction.{p}{v:0017}He gave me a letter to deliver to Your Majesty, but I{n}lost it. That is why I could not come here until now.",
+   "en": "{v:0016}Yes... I came to the royal capital at my{n}father's instruction.{p}{v:0017}He gave me a letter to deliver to Your Majesty, but I{n}lost it. That is why I could not come here until now.",
    "term": "end"
   },
   {
@@ -576,7 +576,7 @@
   {
    "id": "scen007.0094",
    "jp": "{v:001D}役に立つかどうかは、わかりませんが‥‥。{p}{FC00}{v:001E}僕の両親は本当の両親じゃないと、{n}ここへ来る途中に知らされました。{n}ある人に預けられたそうです。",
-   "en": "{v:001D}I don't know whether this will help...{p}{FC00}{v:001E}On my way here, I learned that my parents aren't my{n}birth parents. Apparently, someone entrusted me to{n}them.",
+   "en": "{v:001D}I don't know whether this will help...{p}{FC00}{v:001E}On my way here, I learned that my parents aren't my{n}birth parents. Apparently, someone entrusted me{n}to them.",
    "term": "end"
   },
   {
@@ -606,7 +606,7 @@
   {
    "id": "scen007.0099",
    "jp": "{v:0024}バーンシュタイン王国宮廷魔術師長にして、{n}私の師です。",
-   "en": "{v:0024}He is the Chief Court Magician of Burnstein, and my{n}teacher.",
+   "en": "{v:0024}He is the Chief Court Magician of Burnstein, and{n}my teacher.",
    "term": "end"
   },
   {
@@ -618,7 +618,7 @@
   {
    "id": "scen007.0101",
    "jp": "{v:0026}少し話が見えてきたみたいですね。{n}もう一度整理してみましょう。{p}{v:0027}まずあなたの両親は、我が師ヴェンツェルから、{n}あなたを預かった。{p}{v:0028}そしてあなた自身はリシャール王と瓜二つ、{n}同じブレスレットまでしている。{p}{v:0029}さらにリシャール王の戴冠式にあわせるように、{n}あなたは狙われはじめ、ついに戦争が始まった。",
-   "en": "{v:0026}The situation seems a little clearer now. Let us go over{n}it once more.{p}{v:0027}First, my teacher Wenzel entrusted you to your{n}parents.{p}{v:0028}You are the very image of King Richard, and even wear{n}an identical bracelet.{p}{v:0029}Then, as though timed to coincide with King Richard's{n}coronation, the attacks on you began. Finally, war broke{n}out.",
+   "en": "{v:0026}The situation seems a little clearer now. Let us go over{n}it once more.{p}{v:0027}First, my teacher Wenzel entrusted you to{n}your parents.{p}{v:0028}You are the very image of King Richard, and even wear{n}an identical bracelet.{p}{v:0029}Then, as though timed to coincide with King Richard's{n}coronation, the attacks on you began. Finally, war{n}broke out.",
    "term": "end"
   },
   {
@@ -720,7 +720,7 @@
   {
    "id": "scen007.0118",
    "jp": "{v:0044}つまり１０の力も、{n}５と５に分けなきゃいけなくなっちゃうってことか。",
-   "en": "{v:0044}So we'd have to split a force of ten into two forces of{n}five?",
+   "en": "{v:0044}So we'd have to split a force of ten into two forces{n}of five?",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen007.0121",
    "jp": "ランザック王国との二面戦争を避けるには、{n}どうしますか？",
-   "en": "How will you prevent Ranzak from opening a second{n}front?",
+   "en": "How will you prevent Ranzak from opening a{n}second front?",
    "term": "end"
   },
   {
@@ -791,25 +791,25 @@
   {
    "id": "scen007.0129",
    "jp": "{v:004B}あ、そっか。{n}ようするに攻めて来ないって約束があればいいんだ。",
-   "en": "{v:004B}Oh, right! All we need is a promise that they won't{n}attack!",
+   "en": "{v:004B}Oh, right! All we need is a promise that they{n}won't attack!",
    "term": "end"
   },
   {
    "id": "scen007.0130",
    "jp": "{v:004C}たしかに戦争を未然に防ぐにはいい方法だな。{p}{v:004D}どうでしょうか、王？",
-   "en": "{v:004C}That would certainly be a sound way to prevent a{n}war.{p}{v:004D}What do you think, Your Majesty?",
+   "en": "{v:004C}That would certainly be a sound way to prevent{n}a war.{p}{v:004D}What do you think, Your Majesty?",
    "term": "end"
   },
   {
    "id": "scen007.0131",
    "jp": "{v:004E}ま、このままランザック王国が参戦してこなけりゃ、{n}それもいいかも知れねぇがな。{n}だが、攻めてこられたらどうする？{p}{v:004F}今は攻めてこないようにする方法を考えるときだ。",
-   "en": "{v:004E}Well, that might work if Ranzak stays out of the war.{n}But what if they attack?{p}{v:004F}Right now, we need to figure out how to keep that from{n}happening.",
+   "en": "{v:004E}Well, that might work if Ranzak stays out of the war.{n}But what if they attack?{p}{v:004F}Right now, we need to figure out how to keep that{n}from happening.",
    "term": "end"
   },
   {
    "id": "scen007.0132",
    "jp": "{v:0050}おいおい、潔いにもほどがあるぜ。",
-   "en": "{v:0050}Hey, there's such a thing as being too quick to admit{n}defeat.",
+   "en": "{v:0050}Hey, there's such a thing as being too quick to{n}admit defeat.",
    "term": "end"
   },
   {
@@ -863,7 +863,7 @@
   {
    "id": "scen007.0141",
    "jp": "{v:005A}よし。{n}では、お前たちが休暇を終えるまでに、{n}ランザック王宛の書簡を書き上げておく。{p}{v:005B}休暇が終わったら、それをランザック王城まで{n}届けてもらうことになろう。{n}ご苦労であった。",
-   "en": "{v:005A}Very well. We shall have a letter to the King of Ranzak{n}ready by the time your leave ends.{p}{v:005B}You will then deliver it to Ranzak Castle. You have our{n}thanks.",
+   "en": "{v:005A}Very well. We shall have a letter to the King of Ranzak{n}ready by the time your leave ends.{p}{v:005B}You will then deliver it to Ranzak Castle. You have{n}our thanks.",
    "term": "end"
   },
   {
@@ -968,7 +968,7 @@
   {
    "id": "scen007.0157",
    "jp": "{v:0005}つまりバーンシュタイン王国には気付かれるなと{n}いうことですな？",
-   "en": "{v:0005}In other words, we must keep Burnstein from noticing{n}us?",
+   "en": "{v:0005}In other words, we must keep Burnstein from{n}noticing us?",
    "term": "end"
   },
   {
@@ -1046,7 +1046,7 @@
   {
    "id": "scen007.0170",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "B-Big Brother... You shouldn't use magic in front of the{n}King...",
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
    "term": "end"
   },
   {

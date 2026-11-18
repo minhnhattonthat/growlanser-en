@@ -159,7 +159,7 @@
   {
    "id": "scen059.0025",
    "jp": "{v:0027}行きたくないのですか？{n}親友の待つ場所へ？",
-   "en": "{v:0027}Don't you want to go? To where your dear friend{n}awaits?",
+   "en": "{v:0027}Don't you want to go? To where your dear{n}friend awaits?",
    "term": "end"
   },
   {
@@ -227,7 +227,7 @@
   {
    "id": "scen059.0036",
    "jp": "{v:0030}先に行くんだ。{n}ガムラン相手に全員でかかる必要もあるまい。",
-   "en": "{v:0030}Go on ahead. It hardly takes all of us to deal with{n}Gamlan.",
+   "en": "{v:0030}Go on ahead. It hardly takes all of us to deal{n}with Gamlan.",
    "term": "end"
   },
   {
@@ -331,7 +331,7 @@
   {
    "id": "scen059.0053",
    "jp": "外部からの侵入を防ぐように{n}重く厚い扉が閉じられている。",
-   "en": "A thick, heavy door stands closed, barring entry from{n}outside.",
+   "en": "A thick, heavy door stands closed, barring entry{n}from outside.",
    "term": "end"
   },
   {
@@ -403,7 +403,7 @@
   {
    "id": "scen059.0065",
    "jp": "{v:0016}自分のことだ、知っていたさ‥‥。{p}{v:0017}私の頭の中に、あの声が響き始めてから、{n}私の心は２つになってしまった。{p}{v:0018}ゲヴェルに作られた自分‥‥。{n}人としての自分‥‥。{p}{v:0019}どちらが本来の自分だかわからぬが‥‥{n}ゲヴェルの支配はあまりにも強かった。{n}次第に自分が自分でなくなり‥‥。",
-   "en": "{v:0016}It was my own nature. Of course I knew...{p}{v:0017}Ever since that voice began echoing in my head, my{n}mind has been divided in two.{p}{v:0018}The self that Gevel created... And my human self...{p}{v:0019}I do not know which was my true self... but Gevel's hold{n}was far too strong. Little by little, I ceased to be{n}myself...",
+   "en": "{v:0016}It was my own nature. Of course I knew...{p}{v:0017}Ever since that voice began echoing in my head, my{n}mind has been divided in two.{p}{v:0018}The self that Gevel created... And my human self...{p}{v:0019}I do not know which was my true self... but Gevel's hold{n}was far too strong. Little by little, I ceased to{n}be myself...",
    "term": "end"
   },
   {
@@ -445,13 +445,13 @@
   {
    "id": "scen059.0072",
    "jp": "{v:0022}実際に防いだのは彼らです。{n}私の出る幕はありませんでした。",
-   "en": "{v:0022}They were the ones who thwarted it. I had no part to{n}play.",
+   "en": "{v:0022}They were the ones who thwarted it. I had no part{n}to play.",
    "term": "end"
   },
   {
    "id": "scen059.0073",
    "jp": "{v:0023}そんなことはありません。{n}あなたがいたから、ここまで来られたのです。",
-   "en": "{v:0023}That is not true. We only made it this far because of{n}you.",
+   "en": "{v:0023}That is not true. We only made it this far because{n}of you.",
    "term": "end"
   },
   {
@@ -487,7 +487,7 @@
   {
    "id": "scen059.0079",
    "jp": "{v:002A}はぁ‥‥。{p}{FC04}{v:00CD}今までずっとエリオットと呼ばれてきたので、{n}今更リシャールと呼ばれても‥‥。{p}{v:002B}出来れば、今まで通り、{n}エリオットと呼んでほしいのですが？",
-   "en": "{v:002A}Well...{p}{FC04}{v:00CD}I've been called Elliot all my life, so being called Richard{n}now...{p}{v:002B}If possible, could you keep calling me Elliot?",
+   "en": "{v:002A}Well...{p}{FC04}{v:00CD}I've been called Elliot all my life, so being called{n}Richard now...{p}{v:002B}If possible, could you keep calling me Elliot?",
    "term": "end"
   },
   {
@@ -571,13 +571,13 @@
   {
    "id": "scen059.0093",
    "jp": "{v:003D}しかし、それでは示しがつきません。{n}なにとぞ、罰をお与え下さい。",
-   "en": "{v:003D}But that would set a poor example. I beg you to punish{n}me.",
+   "en": "{v:003D}But that would set a poor example. I beg you to{n}punish me.",
    "term": "end"
   },
   {
    "id": "scen059.0094",
    "jp": "‥‥{v:003E}一理あるな。{n}国民への示し‥‥、{n}そして何よりその男が納得すまい。",
-   "en": "...{v:003E}There is reason in that. An example must be set for{n}the people... Above all, the man himself would not be{n}satisfied.",
+   "en": "...{v:003E}There is reason in that. An example must be set for{n}the people... Above all, the man himself would not{n}be satisfied.",
    "term": "end"
   },
   {
@@ -595,7 +595,7 @@
   {
    "id": "scen059.0097",
    "jp": "‥‥{v:0041}わかりました。{n}あなたには、大きな罰を与えます。",
-   "en": "...{v:0041}Very well. I shall impose a severe punishment upon{n}you.",
+   "en": "...{v:0041}Very well. I shall impose a severe punishment{n}upon you.",
    "term": "end"
   },
   {
@@ -679,7 +679,7 @@
   {
    "id": "scen059.0111",
    "jp": "{v:0053}それはありがたい。{n}では、後日、改めて訪ねさせてもらおう。{n}久々にサンドラの顔も見てみたいしな。",
-   "en": "{v:0053}I would be grateful. Then I shall call on you another{n}day. It has been some time since I last saw Sandra,{n}too.",
+   "en": "{v:0053}I would be grateful. Then I shall call on you another{n}day. It has been some time since I last saw{n}Sandra, too.",
    "term": "end"
   },
   {
@@ -817,7 +817,7 @@
   {
    "id": "scen059.0134",
    "jp": "{v:006C}君が女であることを必死で隠しているようだから、{n}みんなで気づかないフリをしていようってね、{n}アーネストが‥‥。",
-   "en": "{v:006C}You seemed so determined to hide the fact that you{n}were a woman, Ernest suggested we all pretend not to{n}notice...",
+   "en": "{v:006C}You seemed so determined to hide the fact that you{n}were a woman, Ernest suggested we all pretend not{n}to notice...",
    "term": "end"
   },
   {
@@ -841,7 +841,7 @@
   {
    "id": "scen059.0138",
    "jp": "{v:0071}僕たちが告げ口をするような男に見えるかい？",
-   "en": "{v:0071}Do we look like the sort of men who would inform on{n}you?",
+   "en": "{v:0071}Do we look like the sort of men who would inform{n}on you?",
    "term": "end"
   },
   {
@@ -889,7 +889,7 @@
   {
    "id": "scen059.0146",
    "jp": "{v:00C8}どうやら話もまとまったようですね。{n}そこで私から提案があります。{p}{v:00C9}明日、内々でエリオットのお披露目の宴を{n}開きたいと思います。{n}そこでみなさんにもご出席していただきたいのです。{p}{v:00CA}みなさまもお忙しい身ですから無理にとは申しません。{p}{v:00CC}気が向かれたらぜひいらしてください。",
-   "en": "{v:00C8}It seems everything has been settled. Now, I have a{n}proposal.{p}{v:00C9}Tomorrow, I would like to hold a private banquet to{n}introduce Elliot. I would like all of you to attend as well.{p}{v:00CA}I know you all have many demands on your time, so I{n}shall not insist.{p}{v:00CC}But please do come if you wish.",
+   "en": "{v:00C8}It seems everything has been settled. Now, I have{n}a proposal.{p}{v:00C9}Tomorrow, I would like to hold a private banquet to{n}introduce Elliot. I would like all of you to attend as well.{p}{v:00CA}I know you all have many demands on your time, so I{n}shall not insist.{p}{v:00CC}But please do come if you wish.",
    "term": "end"
   },
   {
@@ -913,7 +913,7 @@
   {
    "id": "scen059.0150",
    "jp": "あなたにはお世話になりました。{n}このご恩は絶対に忘れません。{p}これから後、この国の人々を幸せにするのは{n}僕の仕事ですね。{n}精一杯がんばりますよ。",
-   "en": "You've done so much for me. I'll never forget your{n}kindness.{p}From now on, it is my duty to make the people of this{n}country happy. I'll do everything I can.",
+   "en": "You've done so much for me. I'll never forget{n}your kindness.{p}From now on, it is my duty to make the people of this{n}country happy. I'll do everything I can.",
    "term": "end"
   },
   {
@@ -1057,7 +1057,7 @@
   {
    "id": "scen059.0174",
    "jp": "‥‥{v:0002}ああ。{n}こんな戦いは久しぶりだ。",
-   "en": "...{v:0002}Yeah. Been a long time since I fought a battle like{n}that.",
+   "en": "...{v:0002}Yeah. Been a long time since I fought a battle{n}like that.",
    "term": "end"
   },
   {

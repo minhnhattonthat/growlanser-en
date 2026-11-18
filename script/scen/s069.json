@@ -99,7 +99,7 @@
   {
    "id": "scen069.0015",
    "jp": "モニター上に文字が浮かび上がっており、{n}『正しい答えを選べ』と書いてある。",
-   "en": "Words appear on the monitor: 'Select the correct{n}answer.'",
+   "en": "Words appear on the monitor: 'Select the{n}correct answer.'",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen069.0025",
    "jp": "魔法学院に立っている集魔柱は？",
-   "en": "How many mana collection pillars stand at the Magic{n}Academy?",
+   "en": "How many mana collection pillars stand at the{n}Magic Academy?",
    "term": "end"
   },
   {
@@ -192,7 +192,7 @@
   {
    "id": "scen069.0029",
    "jp": "机の上には数冊の古書が無造作に置かれているが、{n}その上にもほこりが積もっている。{n}どうやら長い間使われていないようだ。",
-   "en": "Several old books lie haphazardly on the desk, covered{n}in dust. They don't seem to have been used in a long{n}time.",
+   "en": "Several old books lie haphazardly on the desk, covered{n}in dust. They don't seem to have been used in a{n}long time.",
    "term": "end"
   },
   {
@@ -552,13 +552,13 @@
   {
    "id": "scen069.0084",
    "jp": "{v:00B5}命は無事でも、彼女はもう‥‥。",
-   "en": "{v:00B5}Her life is out of danger, but she'll never be the{n}same...",
+   "en": "{v:00B5}Her life is out of danger, but she'll never be{n}the same...",
    "term": "end"
   },
   {
    "id": "scen069.0085",
    "jp": "{v:00B6}なんでこんな酷い事が出来るんだろう‥‥。{p}{v:00B7}いくら研究のためでも、人を傷つけていいなんて、{n}そんなの、間違ってるよ‥‥。",
-   "en": "{v:00B6}How could anyone do something so cruel...?{p}{v:00B7}Hurting people can't be right, even if it's for{n}research...",
+   "en": "{v:00B6}How could anyone do something so cruel...?{p}{v:00B7}Hurting people can't be right, even if it's{n}for research...",
    "term": "end"
   },
   {
@@ -606,19 +606,19 @@
   {
    "id": "scen069.0093",
    "jp": "{v:00C0}何言ってるのよ！{n}ミーシャはミーシャでしょ！？",
-   "en": "{v:00C0}What are you talking about?! You're still Misha, aren't{n}you?!",
+   "en": "{v:00C0}What are you talking about?! You're still Misha,{n}aren't you?!",
    "term": "end"
   },
   {
    "id": "scen069.0094",
    "jp": "{v:00C1}それだけじゃなくって、{n}ルイセちゃんを監視するために作られたんだって‥‥。",
-   "en": "{v:00C1}That's not all... He said I was made to spy on you,{n}Luise-chan...",
+   "en": "{v:00C1}That's not all... He said I was made to spy on{n}you, Luise-chan...",
    "term": "end"
   },
   {
    "id": "scen069.0095",
    "jp": "{v:00C2}わたし、ミーシャと一緒にいるとき、{n}とっても楽しかったよ？{p}{v:00C3}一緒に遊んだり、一緒におしゃべりしたり、{n}全部楽しかったよ！{p}{v:00C4}あのときの気持ちは本物だった！{n}あのときの友情は本物だった！",
-   "en": "{v:00C2}But I was so happy when we were together, Misha.{p}{v:00C3}Playing together, talking together... I enjoyed every{n}moment!{p}{v:00C4}Those feelings were real! Our friendship was real!",
+   "en": "{v:00C2}But I was so happy when we were together, Misha.{p}{v:00C3}Playing together, talking together... I enjoyed{n}every moment!{p}{v:00C4}Those feelings were real! Our friendship was real!",
    "term": "end"
   },
   {
@@ -654,7 +654,7 @@
   {
    "id": "scen069.0101",
    "jp": "{v:00CC}こっちも一段落ついたようだな。{p}{v:00CD}そろそろティピもいい頃だろう。{n}王都へ戻らないか？",
-   "en": "{v:00CC}Looks like things have settled down here, too.{p}{v:00CD}Tippi should be done by now. Shall we head back to the{n}capital?",
+   "en": "{v:00CC}Looks like things have settled down here, too.{p}{v:00CD}Tippi should be done by now. Shall we head back to{n}the capital?",
    "term": "end"
   },
   {
@@ -726,7 +726,7 @@
   {
    "id": "scen069.0113",
    "jp": "あ、こら！{n}こんな時に、どこへ行く気よ！",
-   "en": "Hey, you! Where do you think you're going at a time like{n}this?!",
+   "en": "Hey, you! Where do you think you're going at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen069.0115",
    "jp": "{v:000F}そんなこと関係ないでしょ！{n}アイリーンさん達を放しなさいよ！",
-   "en": "{v:000F}What does that matter?! Let Irene-san and the others{n}go!",
+   "en": "{v:000F}What does that matter?! Let Irene-san and the{n}others go!",
    "term": "end"
   },
   {
@@ -804,7 +804,7 @@
   {
    "id": "scen069.0126",
    "jp": "{v:0019}どうして‥‥{n}どうしてアイリーンさん達をこんな目にあわせるの！",
-   "en": "{v:0019}Why...? Why are you doing this to Irene-san and the{n}others?!",
+   "en": "{v:0019}Why...? Why are you doing this to Irene-san and{n}the others?!",
    "term": "end"
   },
   {
@@ -822,7 +822,7 @@
   {
    "id": "scen069.0129",
    "jp": "{v:001C}私はね、はるか過去に滅んだ{n}支配階級グローシアンの末裔なのだよ。{n}しかも王族のね。{p}{v:001D}だがいかなグローシアンといえど、普通の人間と{n}交わればグローシュの能力はそこで途絶える。{p}{v:001E}これでわかったかな？{n}ただの人間になった私がグローシュを欲するわけが！",
-   "en": "{v:001C}You see, I am descended from the Growsians, the ruling{n}class that perished in the distant past. Royal blood, no{n}less.{p}{v:001D}But even a Growsian's line loses the power of Grosh{n}upon breeding with an ordinary human.{p}{v:001E}Do you understand now? Why I, reduced to an ordinary{n}human, desire Grosh?!",
+   "en": "{v:001C}You see, I am descended from the Growsians, the ruling{n}class that perished in the distant past. Royal blood,{n}no less.{p}{v:001D}But even a Growsian's line loses the power of Grosh{n}upon breeding with an ordinary human.{p}{v:001E}Do you understand now? Why I, reduced to an ordinary{n}human, desire Grosh?!",
    "term": "end"
   },
   {
@@ -888,7 +888,7 @@
   {
    "id": "scen069.0140",
    "jp": "{v:002C}そうよ。{n}私はマスターの手伝いをするために{n}作られた魔法生命体。{p}{v:002D}そして、ミーシャ。{n}あなたも。",
-   "en": "{v:002C}That's right. I am a magical life-form created to assist{n}Master.{p}{v:002D}And Misha... so are you.",
+   "en": "{v:002C}That's right. I am a magical life-form created to{n}assist Master.{p}{v:002D}And Misha... so are you.",
    "term": "end"
   },
   {
@@ -948,7 +948,7 @@
   {
    "id": "scen069.0150",
    "jp": "{v:0038}飛んで火にいる夏の虫！{n}貴様のグローシュも取り出してやる！",
-   "en": "{v:0038}Like a moth to the flame! I'll extract your Grosh as{n}well!",
+   "en": "{v:0038}Like a moth to the flame! I'll extract your Grosh{n}as well!",
    "term": "end"
   },
   {

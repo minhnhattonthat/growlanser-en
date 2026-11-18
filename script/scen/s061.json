@@ -111,7 +111,7 @@
   {
    "id": "scen061.0017",
    "jp": "{v:0006}インペリアル・ナイツもいた方がいい。{n}ライエルは？",
-   "en": "{v:0006}The Imperial Knights should be there, too. Where is{n}Lyell?",
+   "en": "{v:0006}The Imperial Knights should be there, too. Where{n}is Lyell?",
    "term": "end"
   },
   {
@@ -620,7 +620,7 @@
   {
    "id": "scen061.0101",
    "jp": "{v:0013}そうよ！{n}今は争うときじゃないって知ってるでしょ？",
-   "en": "{v:0013}That's right! You know this isn't the time to fight, don't{n}you?",
+   "en": "{v:0013}That's right! You know this isn't the time to fight,{n}don't you?",
    "term": "end"
   },
   {
@@ -728,13 +728,13 @@
   {
    "id": "scen061.0119",
    "jp": "{v:0027}どうやら彼は、今でも{s:001B}を{n}第一に考えているみたいですね。",
-   "en": "{v:0027}It seems he still puts {s:001B} before all{n}else.",
+   "en": "{v:0027}It seems he still puts {s:001B} before{n}all else.",
    "term": "end"
   },
   {
    "id": "scen061.0120",
    "jp": "{v:0028}申し訳ありません、{s:0004}陛下。{n}私はアーネストを‥‥。",
-   "en": "{v:0028}Forgive me, King {s:0004}. I could not...{n}Ernest...",
+   "en": "{v:0028}Forgive me, King {s:0004}. I could{n}not... Ernest...",
    "term": "end"
   },
   {
@@ -764,7 +764,7 @@
   {
    "id": "scen061.0125",
    "jp": "{v:002E}はい。{n}一時のような混乱や悲壮感は{n}なくなりつつあります。{p}{v:002F}みなさんの活躍が、皆に活力を与えているようです。",
-   "en": "{v:002E}Well, the confusion and despair we saw before are{n}beginning to subside.{p}{v:002F}Your efforts seem to be giving everyone new{n}strength.",
+   "en": "{v:002E}Well, the confusion and despair we saw before are{n}beginning to subside.{p}{v:002F}Your efforts seem to be giving everyone{n}new strength.",
    "term": "end"
   },
   {
@@ -890,7 +890,7 @@
   {
    "id": "scen061.0146",
    "jp": "{v:000D}{s:0022}の奴は、あの{s:0116}との融合体だ。{p}{v:000E}元々がグローシアンだったから、魔法も強力。{n}おまけに時空まで操れるときている。",
-   "en": "{v:000D}That bastard {s:0022} is fused with{n}{s:0116}.{p}{v:000E}He was a Growsian to start with, so his magic's{n}powerful. And on top of that, he can control{n}space-time.",
+   "en": "{v:000D}That bastard {s:0022} is fused with{n}{s:0116}.{p}{v:000E}He was a Growsian to start with, so his magic's{n}powerful. And on top of that, he can{n}control space-time.",
    "term": "end"
   },
   {
@@ -995,7 +995,7 @@
   {
    "id": "scen061.0163",
    "jp": "{v:001E}つまり、今の彼はけっして不死身じゃないの。{n}ダメージを与え続ければ、いずれは勝てる{n}‥‥はずだったんだけど。",
-   "en": "{v:001E}In other words, he's certainly not invincible now. If we{n}keep hurting him, we should eventually win... Or so we{n}thought.",
+   "en": "{v:001E}In other words, he's certainly not invincible now. If we{n}keep hurting him, we should eventually win... Or so{n}we thought.",
    "term": "end"
   },
   {
@@ -1196,7 +1196,7 @@
   {
    "id": "scen061.0196",
    "jp": "{v:0018}そりゃ、もうパワーストーンにエネルギーは{n}残ってないけどさ‥‥。",
-   "en": "{v:0018}Sure, the Power Stone doesn't have any energy left,{n}but...",
+   "en": "{v:0018}Sure, the Power Stone doesn't have any energy{n}left, but...",
    "term": "end"
   },
   {
@@ -1280,7 +1280,7 @@
   {
    "id": "scen061.0210",
    "jp": "{v:002B}冷たいようだが、私は渡さない方がいいと思う。{p}{v:002C}奴が村に手出ししないという確証がない以上、{n}切り札を渡すことには反対だ。",
-   "en": "{v:002B}It may sound heartless, but I believe we should{n}refuse.{p}{v:002C}Without any assurance that he will spare the village, I{n}oppose giving him our trump card.",
+   "en": "{v:002B}It may sound heartless, but I believe we{n}should refuse.{p}{v:002C}Without any assurance that he will spare the village, I{n}oppose giving him our trump card.",
    "term": "end"
   },
   {
@@ -1316,7 +1316,7 @@
   {
    "id": "scen061.0216",
    "jp": "{v:0032}わかりました。{n}パワーストーンは渡しません。{p}{v:0033}代わりに我々で何とかする手段を‥‥。",
-   "en": "{v:0032}Very well. We will not hand over the Power Stone.{p}{v:0033}Instead, we must find some way to resolve this{n}ourselves...",
+   "en": "{v:0032}Very well. We will not hand over the Power Stone.{p}{v:0033}Instead, we must find some way to resolve{n}this ourselves...",
    "term": "end"
   },
   {
@@ -1382,7 +1382,7 @@
   {
    "id": "scen061.0227",
    "jp": "‥‥{s:0022}め！{n}よくもやってくれたな‥‥。{p}それより、お前たちならすぐに{n}ブローニュ村へ向かえるだろう？{n}村の様子を見に行ってくれないか？",
-   "en": "...Damn you, {s:0022}! How dare you...{p}But you can reach Boulogne Village at once, can you{n}not? Would you go and see how the villagers are{n}faring?",
+   "en": "...Damn you, {s:0022}! How dare you...{p}But you can reach Boulogne Village at once, can you{n}not? Would you go and see how the villagers{n}are faring?",
    "term": "end"
   },
   {
@@ -1484,7 +1484,7 @@
   {
    "id": "scen061.0244",
    "jp": "地下牢にいた、{s:001B}もいないんです。",
-   "en": "{s:001B} is missing from the dungeon as{n}well.",
+   "en": "{s:001B} is missing from the dungeon{n}as well.",
    "term": "end"
   },
   {
@@ -1592,7 +1592,7 @@
   {
    "id": "scen061.0262",
    "jp": "これは、{s:0004}陛下。{n}ご機嫌うるわしゅう。",
-   "en": "Ah, King {s:0004}. I trust Your Majesty is{n}well.",
+   "en": "Ah, King {s:0004}. I trust Your Majesty{n}is well.",
    "term": "end"
   },
   {

@@ -75,7 +75,7 @@
   {
    "id": "scen173.0011",
    "jp": "くそっ！{n}まさかローランディアが我々の動きに{n}気づくとはな‥‥。",
-   "en": "Damn! I never thought Rolandia would catch on to our{n}movements...",
+   "en": "Damn! I never thought Rolandia would catch on to{n}our movements...",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen173.0017",
    "jp": "{v:0083}よし、完成だ！{n}向こう側へ進軍を開始するぞ！",
-   "en": "{v:0083}Good, it's finished! Begin the advance to the other{n}bank!",
+   "en": "{v:0083}Good, it's finished! Begin the advance to the{n}other bank!",
    "term": "end"
   },
   {

@@ -51,7 +51,7 @@
   {
    "id": "scen065.0007",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "Hey! Where do you think you're going at a time like{n}this?!",
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen065.0010",
    "jp": "人間たちにスキマ商売を教えたのはこの私だ。{p}そいつは{n}　　　　『天啓を受けた！』{n}　　　　　　　　　　　　　などと言っていたがな。{p}とにかくお前たち人間に売っても良いという{n}お達しが出たことだ。{n}さっそく商品を見ていくがいい。",
-   "en": "I am the one who taught humans the Nook Shop{n}trade.{p}Though that fellow claimed he'd 'received a divine{n}revelation!'{p}At any rate, permission has been granted to sell to{n}you humans. Go ahead and inspect my wares.",
+   "en": "I am the one who taught humans the Nook{n}Shop trade.{p}Though that fellow claimed he'd 'received a{n}divine revelation!'{p}At any rate, permission has been granted to sell to{n}you humans. Go ahead and inspect my wares.",
    "term": "end"
   },
   {
@@ -81,7 +81,7 @@
   {
    "id": "scen065.0012",
    "jp": "ジーナに会いに来たのか？{n}彼女はもう反省室を出ている。{p}どうやら私たちの考えの方が{n}間違えていたようであるな。",
-   "en": "Have you come to see Gina? She has already left the{n}reflection room.{p}It seems we were the ones whose views were{n}mistaken.",
+   "en": "Have you come to see Gina? She has already left the{n}reflection room.{p}It seems we were the ones whose views{n}were mistaken.",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen065.0014",
    "jp": "よく来るようになったな。{n}今度は何用だ？",
-   "en": "You visit quite often now. What brings you here this{n}time?",
+   "en": "You visit quite often now. What brings you here{n}this time?",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen065.0021",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンがいるならば、{n}何かが起こるはずだ。",
-   "en": "Then try examining that stone statue from the front.{p}If there is a Growsian among you, something should{n}happen.",
+   "en": "Then try examining that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
    "term": "end"
   },
   {
@@ -147,31 +147,31 @@
   {
    "id": "scen065.0023",
    "jp": "ここは『資料保管庫』だ。{n}女王ステラに命じられ、過去の記録を調べている。{n}邪魔をしないでいただきたい。",
-   "en": "This is the 'Archives'. I am researching past records on{n}Queen Stella's orders. Kindly refrain from disturbing{n}me.",
+   "en": "This is the 'Archives'. I am researching past records on{n}Queen Stella's orders. Kindly refrain from{n}disturbing me.",
    "term": "end"
   },
   {
    "id": "scen065.0024",
    "jp": "また来たのか。{n}さては私の紫の髪が気に入ったな？{p}だが私は、トガリ髪にしか興味がない。{n}残念だったな。",
-   "en": "Back again? You must have taken a liking to my purple{n}hair.{p}Unfortunately for you, I am only interested in people{n}with spiky hair.",
+   "en": "Back again? You must have taken a liking to my{n}purple hair.{p}Unfortunately for you, I am only interested in people{n}with spiky hair.",
    "term": "end"
   },
   {
    "id": "scen065.0025",
    "jp": "空を見て、地上を見て、{n}この隔たりが我々と人間の距離だと思っていた。",
-   "en": "I used to look at the sky and the surface below and{n}think that gulf was the distance between us and{n}humans.",
+   "en": "I used to look at the sky and the surface below and{n}think that gulf was the distance between us{n}and humans.",
    "term": "end"
   },
   {
    "id": "scen065.0026",
    "jp": "もし人間にも翼があれば、{n}我々と同じ考えを持つにいたるのだろうか？",
-   "en": "If humans had wings, would they come to think as we{n}do?",
+   "en": "If humans had wings, would they come to think as{n}we do?",
    "term": "end"
   },
   {
    "id": "scen065.0027",
    "jp": "ジーナに会いに来たのか？{n}ジーナは外出中だが？",
-   "en": "Have you come to see Gina? Gina is out at the{n}moment.",
+   "en": "Have you come to see Gina? Gina is out at{n}the moment.",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen065.0037",
    "jp": "{v:0008}それほど体力を消耗するのですか‥‥。{n}これでヴェンツェルが頻繁にその能力を使わない{n}理由がわかりました。{p}{v:0009}ただし相手はゲヴェルの生命力を得た超生命体。{n}時間さえあれば、体力は回復するでしょう。",
-   "en": "{v:0008}It drains that much strength...? Now I understand why{n}Wenzel does not use that ability often.{p}{v:0009}However, he is a superhuman being who has acquired{n}Gevel's life force. Given enough time, his strength will{n}recover.",
+   "en": "{v:0008}It drains that much strength...? Now I understand why{n}Wenzel does not use that ability often.{p}{v:0009}However, he is a superhuman being who has acquired{n}Gevel's life force. Given enough time, his strength{n}will recover.",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen065.0039",
    "jp": "{v:000B}いや、元となるゲヴェルを倒したからな。{n}今のこいつの体力は、普通の人間と変わらねぇ。{p}{v:000C}それに何度も能力が使えたところで、{n}時空の歪みを大きくするだけだ。",
-   "en": "{v:000B}No. We killed Gevel, the source of his power. He's only{n}got as much stamina as an ordinary human now.{p}{v:000C}Besides, even if he could use that ability over and{n}over, he'd only make the distortion in space-time{n}worse.",
+   "en": "{v:000B}No. We killed Gevel, the source of his power. He's only{n}got as much stamina as an ordinary human now.{p}{v:000C}Besides, even if he could use that ability over and{n}over, he'd only make the distortion in{n}space-time worse.",
    "term": "end"
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "scen065.0044",
    "jp": "‥‥{v:0011}そうですね。{n}とりあえず話はしましょう。{n}決めるのはそれからでもいいですから。{p}{v:0012}ヴェンツェルが人々の頭の中に、{n}直接話しかけているのを知っていますね？{n}あれは時空制御装置の機能の１つなのです。",
-   "en": "...{v:0011}You are right. I will at least explain it. We can decide{n}afterward.{p}{v:0012}You know how Wenzel speaks directly into people's{n}minds? That is one of the space-time control device's{n}functions.",
+   "en": "...{v:0011}You are right. I will at least explain it. We can{n}decide afterward.{p}{v:0012}You know how Wenzel speaks directly into people's{n}minds? That is one of the space-time control{n}device's functions.",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen065.0046",
    "jp": "{v:0014}正確に言えば、パワーストーン精製装置の機能です。{p}{v:0015}パワーストーンを作るためには、{n}多くの人たちの意志を１つにする必要があります。{p}{v:0016}そこで、人々にテレパシーで話しかける機能が{n}あるのです。{p}{v:0017}その機能を使えば、１度で多くの人を{n}グローシアンにすることが出来るかもしれません。",
-   "en": "{v:0014}To be precise, it is a function of the Power Stone{n}synthesizer.{p}{v:0015}Creating a Power Stone requires many people to unite{n}their wills.{p}{v:0016}That is why it has a function for speaking to people{n}through telepathy.{p}{v:0017}Using that function, you may be able to turn many{n}people into Growsians at once.",
+   "en": "{v:0014}To be precise, it is a function of the Power{n}Stone synthesizer.{p}{v:0015}Creating a Power Stone requires many people to unite{n}their wills.{p}{v:0016}That is why it has a function for speaking to people{n}through telepathy.{p}{v:0017}Using that function, you may be able to turn many{n}people into Growsians at once.",
    "term": "end"
   },
   {
@@ -367,7 +367,7 @@
   {
    "id": "scen065.0059",
    "jp": "{FFF5}{v:001F}でも‥やっぱり嫌だよ！{n}お兄ちゃんを犠牲にするなんて‥‥。",
-   "en": "{FFF5}{v:001F}But... I still don't want that! Sacrificing you, Big{n}Brother...",
+   "en": "{FFF5}{v:001F}But... I still don't want that! Sacrificing you,{n}Big Brother...",
    "term": "end"
   },
   {
@@ -403,7 +403,7 @@
   {
    "id": "scen065.0065",
    "jp": "{v:0026}ウォレスさん、忘れちゃったの？{n}もう１人、いるじゃない！",
-   "en": "{v:0026}Wallace-san, have you forgotten? There's still one{n}more!",
+   "en": "{v:0026}Wallace-san, have you forgotten? There's still{n}one more!",
    "term": "end"
   },
   {
@@ -629,7 +629,7 @@
   {
    "id": "scen065.0102",
    "jp": "{v:0016}その上、ヴェンツェルはテレポートで{n}自由に移動することが出来ます。",
-   "en": "{v:0016}Furthermore, Wenzel can use Teleport to move about{n}freely.",
+   "en": "{v:0016}Furthermore, Wenzel can use Teleport to move{n}about freely.",
    "term": "end"
   },
   {

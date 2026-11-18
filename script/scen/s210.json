@@ -51,7 +51,7 @@
   {
    "id": "scen210.0007",
    "jp": "{v:0001}逃げ遅れた市民の救助を優先させなさい。",
-   "en": "{v:0001}Make rescuing the civilians who could not escape your{n}priority.",
+   "en": "{v:0001}Make rescuing the civilians who could not escape{n}your priority.",
    "term": "end"
   },
   {

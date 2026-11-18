@@ -159,7 +159,7 @@
   {
    "id": "scen246.0024",
    "jp": "{v:003F}うん、よくお兄ちゃんに{n}キャッチボールで遊んで貰ったんだ。",
-   "en": "{v:003F}Yes. Big Brother used to play catch with me all the{n}time.",
+   "en": "{v:003F}Yes. Big Brother used to play catch with me all{n}the time.",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen246.0046",
    "jp": "{v:004D}うん！{n}お兄ちゃんが遊んでくれるなら、{n}わたし、がんばるね！",
-   "en": "{v:004D}Yes! If you'll keep playing with me, Big Brother, I'll do my{n}best!",
+   "en": "{v:004D}Yes! If you'll keep playing with me, Big Brother, I'll do{n}my best!",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen246.0048",
    "jp": "{v:004F}それじゃ、{n}次はルイセちゃんがうまくなってからね！",
-   "en": "{v:004F}Then we'll do this again once you're better at it,{n}Luise-chan!",
+   "en": "{v:004F}Then we'll do this again once you're better at{n}it, Luise-chan!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen246.0052",
    "jp": "{FFF5}{v:0054}ゴメンね、お兄ちゃん‥‥。{FFF9}{FFFB}{n}{v:0055}気を遣わせちゃって‥‥。{p}{FC00}{v:0056}今度はちゃんとするからね！",
-   "en": "{FFF5}{v:0054}I'm sorry, Big Brother...{FFF9}{FFFB}{v:0055}For making you worry about{n}me...{p}{FC00}{v:0056}I'll do better next time!",
+   "en": "{FFF5}{v:0054}I'm sorry, Big Brother...{FFF9}{FFFB}{v:0055}For making you worry{n}about me...{p}{FC00}{v:0056}I'll do better next time!",
    "term": "end"
   },
   {
@@ -420,7 +420,7 @@
   {
    "id": "scen246.0066",
    "jp": "やっぱり‥‥ダメだよね？{n}もう子供じゃないしね‥‥。",
-   "en": "I guess... I shouldn't, should I? I'm not a little kid{n}anymore...",
+   "en": "I guess... I shouldn't, should I? I'm not a little{n}kid anymore...",
    "term": "end"
   },
   {
@@ -438,7 +438,7 @@
   {
    "id": "scen246.0069",
    "jp": "ねえ、お兄ちゃん。{n}お母さんからわたしたちが本当の兄妹じゃないって{n}聞かされたときの事、おぼえてる？{p}わたし、すっごくショックだった。{n}何だか心の一部が無くなっちゃったみたいで‥‥{n}すっごく悲しくて、切なくて、いっぱい泣いちゃった。{p}お兄ちゃんはあのとき、どうだった？",
-   "en": "Say, Big Brother. Do you remember when Mother told{n}us we weren't really brother and sister?{p}I was so shocked. It felt like part of my heart was{n}gone... I was so sad, and it hurt so much. I cried and{n}cried.{p}How did you feel then, Big Brother?",
+   "en": "Say, Big Brother. Do you remember when Mother told{n}us we weren't really brother and sister?{p}I was so shocked. It felt like part of my heart was{n}gone... I was so sad, and it hurt so much. I cried{n}and cried.{p}How did you feel then, Big Brother?",
    "term": "end"
   },
   {
@@ -588,7 +588,7 @@
   {
    "id": "scen246.0093",
    "jp": "そのうちいっぱいおこづかいためて、{n}自分で買うよ。{n}その頃にはドレスの似合う大人になってなくちゃね。",
-   "en": "I'll save up my allowance and buy one myself someday.{n}By then, I'll have to be grown up enough to look good in{n}it.",
+   "en": "I'll save up my allowance and buy one myself someday.{n}By then, I'll have to be grown up enough to look good{n}in it.",
    "term": "end"
   },
   {
@@ -696,7 +696,7 @@
   {
    "id": "scen246.0110",
    "jp": "‥‥やっぱりおぼえてないんだ？{n}今日、わたしのお誕生日だったのに‥‥。",
-   "en": "...So you don't remember after all? But today's my{n}birthday...",
+   "en": "...So you don't remember after all? But today's{n}my birthday...",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen246.0143",
    "jp": "今日はちょっとお勉強するからまた後でね。",
-   "en": "I'm going to do a little studying today, so I'll see you{n}later.",
+   "en": "I'm going to do a little studying today, so I'll see{n}you later.",
    "term": "end"
   },
   {

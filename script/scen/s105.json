@@ -69,7 +69,7 @@
   {
    "id": "scen105.0010",
    "jp": "ジュリアンの事は、そっとしておこうよ。{n}それより、みんなの所に戻ろ？",
-   "en": "Let's leave Julian alone. Come on, let's go back to the{n}others.",
+   "en": "Let's leave Julian alone. Come on, let's go back to{n}the others.",
    "term": "end"
   },
   {
@@ -174,7 +174,7 @@
   {
    "id": "scen105.0027",
    "jp": "‥‥{v:005E}どうしてこんな時代に生まれてしまったのだろう。{n}別の時代に生まれていれば、{n}私は女として生きてゆけたはず。",
-   "en": "...{v:005E}Why did I have to be born in an age like this? Had I{n}been born in another time, I could have lived as a{n}woman.",
+   "en": "...{v:005E}Why did I have to be born in an age like this? Had I{n}been born in another time, I could have lived as{n}a woman.",
    "term": "end"
   },
   {
@@ -258,7 +258,7 @@
   {
    "id": "scen105.0041",
    "jp": "{v:0019}将軍の手をわずらわせる必要はない。{n}我々だけで連中を倒すぞ。",
-   "en": "{v:0019}No need to trouble the General. We'll defeat them{n}ourselves.",
+   "en": "{v:0019}No need to trouble the General. We'll defeat{n}them ourselves.",
    "term": "end"
   },
   {
@@ -318,7 +318,7 @@
   {
    "id": "scen105.0051",
    "jp": "{v:0049}そうか。{FFF9}{FFFB}{n}{v:004A}また困った事があったら、いつでも呼んでくれ。{n}力になる。",
-   "en": "{v:0049}I see.{FFF9}{FFFB} {v:004A}If you're in trouble again, just call. We'll lend a{n}hand.",
+   "en": "{v:0049}I see.{FFF9}{FFFB} {v:004A}If you're in trouble again, just call. We'll lend{n}a hand.",
    "term": "end"
   },
   {

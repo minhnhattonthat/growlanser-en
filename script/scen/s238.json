@@ -21,7 +21,7 @@
   {
    "id": "scen238.0002",
    "jp": "なんだ、俺の所ばかり来ないで、{n}他の奴らの様子でも見てこい。",
-   "en": "What, back here again? Go see how the others are{n}doing.",
+   "en": "What, back here again? Go see how the others{n}are doing.",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen238.0010",
    "jp": "{v:0042}そうだな‥‥{FE1E}ウェーバーとはある意味正反対な{n}男だったな。{p}{v:0043}無口だったが、いつも腹の中で何を考えているのか{n}分からない奴だった。{p}{v:0044}そして前線で指揮するより、後方で様々な魔法を{n}駆使して自分に有利な戦局を生み出す男だった。{p}{v:0045}ウェーバーはなんとか合わせていたようだが、{n}俺とはよくぶつかっていた。{p}{v:0046}隊長がいなけりゃ、あっというまに部隊はバラバラに{n}なっていただろう。",
-   "en": "{v:0042}Let's see...{FE1E}In some ways, he was Weber's exact{n}opposite.{p}{v:0043}Didn't say much, but you could never tell what he was{n}really thinking.{p}{v:0044}Instead of commanding from the front, he'd stay in the{n}rear and use all sorts of magic to turn the battle his{n}way.{p}{v:0045}Weber seemed to manage with him somehow, but he{n}and I often clashed.{p}{v:0046}Without the captain, the unit would've fallen apart in{n}no time.",
+   "en": "{v:0042}Let's see...{FE1E}In some ways, he was Weber's{n}exact opposite.{p}{v:0043}Didn't say much, but you could never tell what he was{n}really thinking.{p}{v:0044}Instead of commanding from the front, he'd stay in the{n}rear and use all sorts of magic to turn the battle{n}his way.{p}{v:0045}Weber seemed to manage with him somehow, but he{n}and I often clashed.{p}{v:0046}Without the captain, the unit would've fallen apart in{n}no time.",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen238.0018",
    "jp": "小さいころ、俺に剣の稽古を{n}付けてくれたのは兄貴だった。{n}村で一番強くてな。{p}まあ、兵士になって辺境の争いに出て{n}死んじまったよ。{p}ま、そんなもんさ。",
-   "en": "My older brother taught me swordsmanship when I{n}was little. Strongest man in the village.{p}Then he became a soldier and died fighting out on the{n}frontier.{p}Well, that's how it goes.",
+   "en": "My older brother taught me swordsmanship when I{n}was little. Strongest man in the village.{p}Then he became a soldier and died fighting out on{n}the frontier.{p}Well, that's how it goes.",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen238.0020",
    "jp": "この義手にもだいぶ馴れたが、{n}難しいのは力加減だ。{p}微妙に力を入れることができなくてな。{n}卵を割ったりして訓練したよ。",
-   "en": "I've gotten used to this artificial arm, but controlling its{n}strength is tricky.{p}Couldn't manage a delicate touch. Practiced by cracking{n}eggs.",
+   "en": "I've gotten used to this artificial arm, but controlling its{n}strength is tricky.{p}Couldn't manage a delicate touch. Practiced by{n}cracking eggs.",
    "term": "end"
   },
   {

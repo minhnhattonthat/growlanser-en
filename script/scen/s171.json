@@ -21,7 +21,7 @@
   {
    "id": "scen171.0002",
    "jp": "あぁ‥‥{n}クリアノ草を持っていたのに、{n}やられちゃうなんて‥‥。",
-   "en": "Oh... To be beaten when we already had the Kuriano{n}Herb...",
+   "en": "Oh... To be beaten when we already had the{n}Kuriano Herb...",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen171.0010",
    "jp": "時間がない。{n}急いでクリアノ草を取って、脱出するぞ！",
-   "en": "We're out of time. Grab the Kuriano Herb and get out,{n}quick!",
+   "en": "We're out of time. Grab the Kuriano Herb and get{n}out, quick!",
    "term": "end"
   },
   {
@@ -153,7 +153,7 @@
   {
    "id": "scen171.0024",
    "jp": "{FFF6}{v:0024}あまり時間をかけるな。{n}ガスが吹き出してくるまで時間がないぞ‥‥。",
-   "en": "{FFF6}{v:0024}Do not linger. There is little time before the gas{n}erupts...",
+   "en": "{FFF6}{v:0024}Do not linger. There is little time before the{n}gas erupts...",
    "term": "end"
   },
   {

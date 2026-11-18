@@ -51,7 +51,7 @@
   {
    "id": "scen022.0007",
    "jp": "{v:0072}この子をローランディアの王都まで{n}連れていってくれないでしょうか？",
-   "en": "{v:0072}Would you take this boy to the royal capital of{n}Rolandia?",
+   "en": "{v:0072}Would you take this boy to the royal capital{n}of Rolandia?",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen022.0032",
    "jp": "{v:006A}お疲れでしょうから、今夜は村で休んでいって下さい。",
-   "en": "{v:006A}You must be tired. Please stay in the village and rest{n}tonight.",
+   "en": "{v:006A}You must be tired. Please stay in the village and{n}rest tonight.",
    "term": "end"
   },
   {
@@ -340,7 +340,7 @@
   {
    "id": "scen022.0054",
    "jp": "{v:0085}えっ、どうして？{n}学院にもいっぱい人がいるんじゃないの？",
-   "en": "{v:0085}Huh? Why's that? Aren't there lots of people at the{n}Academy?",
+   "en": "{v:0085}Huh? Why's that? Aren't there lots of people at{n}the Academy?",
    "term": "end"
   },
   {
@@ -352,7 +352,7 @@
   {
    "id": "scen022.0056",
    "jp": "{v:0088}そっか。{n}グローシアンにも、グローシアンの悩みがあるんだ。",
-   "en": "{v:0088}Oh, I see. Even Growsians have their own troubles,{n}huh?",
+   "en": "{v:0088}Oh, I see. Even Growsians have their own{n}troubles, huh?",
    "term": "end"
   },
   {
@@ -370,7 +370,7 @@
   {
    "id": "scen022.0059",
    "jp": "{v:008B}あれ？{n}アタシ達は子供だから仕方ないとして、{n}どうしてウォレスさんまでお酒飲んでないの？",
-   "en": "{v:008B}Huh? It makes sense that we're not drinking, since{n}we're kids, but why aren't you drinking either,{n}Wallace-san?",
+   "en": "{v:008B}Huh? It makes sense that we're not drinking, since{n}we're kids, but why aren't you drinking{n}either, Wallace-san?",
    "term": "end"
   },
   {
@@ -466,7 +466,7 @@
   {
    "id": "scen022.0075",
    "jp": "私のことも放っておいてくれ。{n}今、少し考え事をしているんだ。",
-   "en": "Then leave me alone as well. I have something on my{n}mind.",
+   "en": "Then leave me alone as well. I have something on{n}my mind.",
    "term": "end"
   },
   {
@@ -502,7 +502,7 @@
   {
    "id": "scen022.0081",
    "jp": "{FFF6}{v:00A8}私のことも放っておいてくれ。{n}今、少し考え事をしているんだ。",
-   "en": "{FFF6}{v:00A8}Then leave me alone as well. I have something on my{n}mind.",
+   "en": "{FFF6}{v:00A8}Then leave me alone as well. I have something on{n}my mind.",
    "term": "end"
   },
   {
@@ -520,7 +520,7 @@
   {
    "id": "scen022.0084",
    "jp": "うん、うん。{n}アタシの魅力がわかっているみたいね。",
-   "en": "Mm-hmm, mm-hmm. Looks like you appreciate my{n}charms!",
+   "en": "Mm-hmm, mm-hmm. Looks like you appreciate{n}my charms!",
    "term": "end"
   },
   {
@@ -573,19 +573,19 @@
   {
    "id": "scen022.0092",
    "jp": "{v:00B0}んだとぉ！{n}バカって言う奴は、自分がバカなんだぞぉ！",
-   "en": "{v:00B0}Whaaat?! Whoever calls someone an idiot is the real{n}idiot!",
+   "en": "{v:00B0}Whaaat?! Whoever calls someone an idiot is the{n}real idiot!",
    "term": "end"
   },
   {
    "id": "scen022.0093",
    "jp": "{v:00B1}ぎゃ～、バカ！！{n}いきなりなめる奴があるかぁ！",
-   "en": "{v:00B1}Aaaah, you idiot!! Who just licks someone out of{n}nowhere?!",
+   "en": "{v:00B1}Aaaah, you idiot!! Who just licks someone out{n}of nowhere?!",
    "term": "end"
   },
   {
    "id": "scen022.0094",
    "jp": "{v:00B2}うん、うん。{n}アタシの魅力がわかってるみたいね。",
-   "en": "{v:00B2}Mm-hmm, mm-hmm. Looks like you appreciate my{n}charms!",
+   "en": "{v:00B2}Mm-hmm, mm-hmm. Looks like you appreciate{n}my charms!",
    "term": "end"
   },
   {
@@ -841,13 +841,13 @@
   {
    "id": "scen022.0136",
    "jp": "{v:000C}へぇ～。{n}そんなに強い人って、ほとんどいないんじゃない？",
-   "en": "{v:000C}Wooow. There can't be many people that strong, can{n}there?",
+   "en": "{v:000C}Wooow. There can't be many people that strong,{n}can there?",
    "term": "end"
   },
   {
    "id": "scen022.0137",
    "jp": "{v:000D}そうだな。今のインペリアル・ナイツ・メンバーは、{n}リシャール王子、アーネスト・ライエル卿、{n}オスカー・リーヴス卿でなっている。",
-   "en": "{v:000D}Indeed. The current members of the Imperial Knights{n}are Prince Richard, Sir Ernest Lyell, and Sir Oscar{n}Reeves.",
+   "en": "{v:000D}Indeed. The current members of the Imperial Knights{n}are Prince Richard, Sir Ernest Lyell, and Sir{n}Oscar Reeves.",
    "term": "end"
   },
   {
@@ -859,7 +859,7 @@
   {
    "id": "scen022.0139",
    "jp": "{v:000F}インペリアル・ナイトになるには、{n}剣術だけでなく、学問、人柄など、{n}全ての面が問われるのだ。{p}{v:0010}だからインペリアル・ナイトが一人も{n}いなかった時代も珍しくない。{p}{v:0011}その称号が、大陸最高の栄誉と呼ばれるのも{n}わかるだろう。",
-   "en": "{v:000F}To become an Imperial Knight, one is judged in every{n}respect: swordsmanship, scholarship, character, and{n}more.{p}{v:0010}Thus, periods without a single Imperial Knight have not{n}been uncommon.{p}{v:0011}Now you understand why the title is considered the{n}continent's highest honor.",
+   "en": "{v:000F}To become an Imperial Knight, one is judged in every{n}respect: swordsmanship, scholarship, character,{n}and more.{p}{v:0010}Thus, periods without a single Imperial Knight have not{n}been uncommon.{p}{v:0011}Now you understand why the title is considered the{n}continent's highest honor.",
    "term": "end"
   },
   {
@@ -871,7 +871,7 @@
   {
    "id": "scen022.0141",
    "jp": "{v:0013}私の家はバーンシュタイン王国の貴族でな。{n}しかも代々、多くのインペリアル・ナイトを{n}輩出している。{p}{v:0014}父自身も数年前までナイトをつとめていた。",
-   "en": "{v:0013}My family belongs to the nobility of Burnstein. We have{n}produced many Imperial Knights over the generations.{p}{v:0014}My father himself served as a Knight until a few years{n}ago.",
+   "en": "{v:0013}My family belongs to the nobility of Burnstein. We have{n}produced many Imperial Knights over the generations.{p}{v:0014}My father himself served as a Knight until a few{n}years ago.",
    "term": "end"
   },
   {
@@ -883,7 +883,7 @@
   {
    "id": "scen022.0143",
    "jp": "{v:0016}だから、父の期待は大きかった。{p}{v:0017}私もそれに応えようと、剣術にいそしんだ。{n}そしていつしか父に誉めて欲しくて剣を握っていた。{p}{v:0018}私にとって剣術をみがくと言うことは、{n}強くなることではなく、{n}父に誉められるための手段になっていたんだ。{p}{FC03}{v:001A}それも数年前、我が家に本当の息子が{n}生まれてからは‥‥。",
-   "en": "{v:0016}Naturally, my father had high expectations of me.{p}{v:0017}I devoted myself to swordsmanship to meet them.{n}Before I knew it, I was taking up my sword simply to{n}earn his praise.{p}{v:0018}For me, honing my swordsmanship had become a means{n}of winning my father's praise, rather than growing{n}stronger.{p}{FC03}{v:001A}But a few years ago, a real son was born into our{n}family...",
+   "en": "{v:0016}Naturally, my father had high expectations of me.{p}{v:0017}I devoted myself to swordsmanship to meet them.{n}Before I knew it, I was taking up my sword simply to{n}earn his praise.{p}{v:0018}For me, honing my swordsmanship had become a means{n}of winning my father's praise, rather than{n}growing stronger.{p}{FC03}{v:001A}But a few years ago, a real son was born into{n}our family...",
    "term": "end"
   },
   {
@@ -895,7 +895,7 @@
   {
    "id": "scen022.0145",
    "jp": "{v:001C}ああ。{n}私は本当の息子ではないのだ。{p}‥‥{v:001D}そう。{n}本当の息子が生まれてからは、{n}父の期待は完全にその子に移ってしまった。{p}{v:001E}それ以来、私には見向きもしない‥‥。{p}‥‥{v:001F}フッ。{n}それが私が剣を捨てようかと悩んでいた理由だ。",
-   "en": "{v:001C}Yes. I am not his real son.{p}...{v:001D}Indeed. Once his real son was born, my father placed{n}all his hopes in that child.{p}{v:001E}Since then, he has barely spared me a glance...{p}...{v:001F}Heh. That is why I was considering laying down my{n}sword.",
+   "en": "{v:001C}Yes. I am not his real son.{p}...{v:001D}Indeed. Once his real son was born, my father placed{n}all his hopes in that child.{p}{v:001E}Since then, he has barely spared me a glance...{p}...{v:001F}Heh. That is why I was considering laying down{n}my sword.",
    "term": "end"
   },
   {
@@ -954,7 +954,7 @@
   {
    "id": "scen022.0154",
    "jp": "{v:0022}なるほど。自分のためか。{n}単純で、なおかつ筋の通った答えだ。",
-   "en": "{v:0022}I see. For your own sake. A simple answer, yet a sound{n}one.",
+   "en": "{v:0022}I see. For your own sake. A simple answer, yet a{n}sound one.",
    "term": "end"
   },
   {
@@ -1044,13 +1044,13 @@
   {
    "id": "scen022.0169",
    "jp": "{v:000C}どうして、マスターの危機が夢でわかったんだろう？{p}{FC02}{v:000D}って、そんなことは後でいいわ！{n}アタシ、みんなを呼んでくる！",
-   "en": "{v:000C}How did you know Master was in danger from a{n}dream?{p}{FC02}{v:000D}Wait, that can wait! I'll go get everyone!",
+   "en": "{v:000C}How did you know Master was in danger from{n}a dream?{p}{FC02}{v:000D}Wait, that can wait! I'll go get everyone!",
    "term": "end"
   },
   {
    "id": "scen022.0170",
    "jp": "{v:000E}ティピに聞いたよ！{n}お母さんが狙われている夢を見たって！{p}‥‥{v:000F}ああ、お母さん‥‥。",
-   "en": "{v:000E}Tippi told me! You dreamed that someone was after{n}Mother!{p}...{v:000F}Oh, Mother...",
+   "en": "{v:000E}Tippi told me! You dreamed that someone was{n}after Mother!{p}...{v:000F}Oh, Mother...",
    "term": "end"
   },
   {
@@ -1150,7 +1150,7 @@
   {
    "id": "scen022.0186",
    "jp": "そんなにすぐ決めなきゃいけないことなの？{n}{v:0032}人に押しつけられて、それで満足なの？",
-   "en": "Do you really have to decide right this second? {v:0032}Would{n}you be happy with an answer someone else forced on{n}you?",
+   "en": "Do you really have to decide right this second? {v:0032}Would{n}you be happy with an answer someone else forced{n}on you?",
    "term": "end"
   },
   {
@@ -1168,7 +1168,7 @@
   {
    "id": "scen022.0189",
    "jp": "‥‥{v:0035}そうだな。{n}もう少しゆっくり考えてみるよ。{p}{v:0036}すまなかったな。{n}私の悩みにつきあわせてしまって。",
-   "en": "...{v:0035}You are right. I shall take a little more time to think it{n}over.{p}{v:0036}Forgive me for burdening you with my troubles.",
+   "en": "...{v:0035}You are right. I shall take a little more time to think{n}it over.{p}{v:0036}Forgive me for burdening you with my troubles.",
    "term": "end"
   },
   {
@@ -1198,7 +1198,7 @@
   {
    "id": "scen022.0194",
    "jp": "{v:003D}確かにその通りだ。{n}他人のために振るう剣もあるのだな‥‥。{p}{v:003E}ありがとう。{n}答えが見つかったような気がするよ。",
-   "en": "{v:003D}Indeed it did. A sword can be wielded for the sake of{n}others...{p}{v:003E}Thank you. I think I have found my answer.",
+   "en": "{v:003D}Indeed it did. A sword can be wielded for the sake{n}of others...{p}{v:003E}Thank you. I think I have found my answer.",
    "term": "end"
   },
   {
@@ -1210,7 +1210,7 @@
   {
    "id": "scen022.0196",
    "jp": "{v:0040}ああ。{n}やっぱり君たちを訪ねて正解だったよ。{n}本当にありがとう。{p}{v:0041}久々に気持ちよく眠れそうだ。",
-   "en": "{v:0040}Yes. Coming to see you both was the right decision{n}after all. Thank you, truly.{p}{v:0041}I think I shall sleep well tonight, for the first time in{n}ages.",
+   "en": "{v:0040}Yes. Coming to see you both was the right decision{n}after all. Thank you, truly.{p}{v:0041}I think I shall sleep well tonight, for the first time{n}in ages.",
    "term": "end"
   },
   {
@@ -1222,7 +1222,7 @@
   {
    "id": "scen022.0198",
    "jp": "{v:0045}もう少し優しくしてあげれば良かったんじゃないの？{p}{v:0046}アンタのことを信頼して、{n}いろいろ打ち明けてくれたのにさ。",
-   "en": "{v:0045}Couldn't you have been a little nicer?{p}{v:0046}Julian trusted you enough to tell you all that, you{n}know.",
+   "en": "{v:0045}Couldn't you have been a little nicer?{p}{v:0046}Julian trusted you enough to tell you all that,{n}you know.",
    "term": "end"
   },
   {

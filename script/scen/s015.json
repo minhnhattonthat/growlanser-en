@@ -81,7 +81,7 @@
   {
    "id": "scen015.0012",
    "jp": "{v:002F}マスターを襲った仮面の男たちが、{n}見たこともない怪物に命令されてる夢だって。",
-   "en": "{v:002F}He says the masked men who attacked you, Master,{n}were taking orders from a monster he'd never seen{n}before.",
+   "en": "{v:002F}He says the masked men who attacked you, Master,{n}were taking orders from a monster he'd never{n}seen before.",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen015.0021",
    "jp": "{v:0038}たしか、化け物が暴れて、って話だったよね？",
-   "en": "{v:0038}That's the story about a monster going on a rampage,{n}right?",
+   "en": "{v:0038}That's the story about a monster going on a{n}rampage, right?",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen015.0026",
    "jp": "{v:003F}このあいだ戦ったとき、似ていると思ったよ。{p}{v:0040}俺はこの通り、シルエットしか見えねぇが、{n}あんな形をしてりゃ、すぐに分かるぜ。{p}{v:0041}話を聞く限りじゃ同じ連中のようだな。",
-   "en": "{v:003F}I thought they looked familiar when we fought them the{n}other day.{p}{v:0040}I can only make out silhouettes with these eyes, but{n}I'd know that shape anywhere.{p}{v:0041}From what you've told me, they sound like the same{n}bunch.",
+   "en": "{v:003F}I thought they looked familiar when we fought them the{n}other day.{p}{v:0040}I can only make out silhouettes with these eyes, but{n}I'd know that shape anywhere.{p}{v:0041}From what you've told me, they sound like the{n}same bunch.",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen015.0028",
    "jp": "{v:0043}えっ？{p}{v:0044}ウォレスさんが腕を斬られたときの夢を{n}見たことがあるって？",
-   "en": "{v:0043}Huh?{p}{v:0044}You've had a dream about Wallace-san getting his arm{n}slashed?",
+   "en": "{v:0043}Huh?{p}{v:0044}You've had a dream about Wallace-san getting his{n}arm slashed?",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen015.0030",
    "jp": "‥‥{v:0047}やっぱりサンドラ様を襲った奴か‥‥。",
-   "en": "...{v:0047}So it was the one who attacked Sandra-sama after{n}all...",
+   "en": "...{v:0047}So it was the one who attacked Sandra-sama{n}after all...",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen015.0033",
    "jp": "{v:004B}それでも見ていたってことは、{n}ただの夢だとは思えないなぁ。{n}お兄さまって、すごい特技があるんですね！",
-   "en": "{v:004B}If you were seeing it even then, I don't think it could be{n}just a dream. What an amazing gift you have, Big{n}Brother!",
+   "en": "{v:004B}If you were seeing it even then, I don't think it could be{n}just a dream. What an amazing gift you have,{n}Big Brother!",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen015.0039",
    "jp": "{v:0053}伝承では、数人のグローシアンが{n}ゲヴェルと戦ったそうです。{p}{v:0054}くわしい事は分かりませんが、それ以降ゲヴェルも、{n}当時いたグローシアンもいなくなったそうです。{p}{v:0055}もし夢で見た異形がゲヴェルだったら‥‥。",
-   "en": "{v:0053}According to the legends, several Growsians fought{n}Gevel.{p}{v:0054}The details are unclear, but afterward, both Gevel and{n}the Growsians of that time are said to have vanished.{p}{v:0055}If the creature you saw in your dream was Gevel...",
+   "en": "{v:0053}According to the legends, several Growsians{n}fought Gevel.{p}{v:0054}The details are unclear, but afterward, both Gevel and{n}the Growsians of that time are said to have vanished.{p}{v:0055}If the creature you saw in your dream was Gevel...",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen015.0048",
    "jp": "{v:005F}うん、それでコムスプリングスまで行って来たんだ！",
-   "en": "{v:005F}Yep! That's how we got to go all the way to{n}Comsprings!",
+   "en": "{v:005F}Yep! That's how we got to go all the way{n}to Comsprings!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen015.0054",
    "jp": "{v:0069}これでウォレスさんの目的にも、一歩近づいたね！",
-   "en": "{v:0069}That brings us one step closer to your goal too,{n}Wallace-san!",
+   "en": "{v:0069}That brings us one step closer to your goal{n}too, Wallace-san!",
    "term": "end"
   },
   {
@@ -423,7 +423,7 @@
   {
    "id": "scen015.0069",
    "jp": "{v:0024}仮面の男たちの鎧に似てる？{n}それですごく大きいのね？{p}{FC03}{v:0025}その夢の話はマスターに話した方が良さそうね。",
-   "en": "{v:0024}It looks like the masked men's armor? And it's really{n}huge?{p}{FC03}{v:0025}We'd better tell Master about that dream.",
+   "en": "{v:0024}It looks like the masked men's armor? And it's{n}really huge?{p}{FC03}{v:0025}We'd better tell Master about that dream.",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen015.0082",
    "jp": "{v:005F}王都の西側につなごうとしている道だよね。{n}そろそろ完成してもいい頃だよ。",
-   "en": "{v:005F}That's the road they're trying to connect to the west{n}side of the capital, right? It should be finished any day{n}now.",
+   "en": "{v:005F}That's the road they're trying to connect to the west{n}side of the capital, right? It should be finished any{n}day now.",
    "term": "end"
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "scen015.0102",
    "jp": "アンタ！{n}１人でどこへ行くのよ！",
-   "en": "Hey, you! Where do you think you're going all by{n}yourself?!",
+   "en": "Hey, you! Where do you think you're going all{n}by yourself?!",
    "term": "end"
   },
   {
@@ -633,7 +633,7 @@
   {
    "id": "scen015.0104",
    "jp": "{v:000A}そうですね。{p}{v:000B}僕は家に戻って、もっと両親のことを調べてみます。{p}{v:000C}母が父を理解した具体的なきっかけがわかれば、{n}フェザリアンたちも人間を理解してくれるかも{n}知れない。",
-   "en": "{v:000A}You're right.{p}{v:000B}I'll go home and see what else I can find out about my{n}parents.{p}{v:000C}If I can discover exactly what led my mother to{n}understand my father, perhaps the Featherians will{n}come to understand humans too.",
+   "en": "{v:000A}You're right.{p}{v:000B}I'll go home and see what else I can find out about{n}my parents.{p}{v:000C}If I can discover exactly what led my mother to{n}understand my father, perhaps the Featherians will{n}come to understand humans too.",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen015.0106",
    "jp": "{v:000E}礼を言われるようなことはしてないよ。{n}それよりこっちがお礼を言いたいくらいだ。{p}{FC00}{v:000F}それじゃ、僕は村に戻るから。{n}何かあったら、村か研究室の方に来てくれれば{n}会えると思う。",
-   "en": "{v:000E}I haven't done anything worth thanking me for. If{n}anything, I should be thanking you.{p}{FC00}{v:000F}Well, I'm heading back to the village. If anything comes{n}up, you should be able to find me there or at my{n}laboratory.",
+   "en": "{v:000E}I haven't done anything worth thanking me for. If{n}anything, I should be thanking you.{p}{FC00}{v:000F}Well, I'm heading back to the village. If anything comes{n}up, you should be able to find me there or at{n}my laboratory.",
    "term": "end"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "scen015.0110",
    "jp": "{v:0012}さて、俺たちも少し休むとしようか。{n}いろいろと疲れたしな。",
-   "en": "{v:0012}Well, we should get some rest too. It's been a tiring{n}time.",
+   "en": "{v:0012}Well, we should get some rest too. It's been a{n}tiring time.",
    "term": "end"
   },
   {

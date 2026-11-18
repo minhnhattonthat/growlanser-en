@@ -159,7 +159,7 @@
   {
    "id": "scen045.0025",
    "jp": "負けた‥‥。{n}かんぺきに負けた‥‥。{n}小遣いが全部パーだよ‥‥。",
-   "en": "I lost... Lost everything... There goes all my spending{n}money...",
+   "en": "I lost... Lost everything... There goes all my{n}spending money...",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen045.0027",
    "jp": "参加者の方は中の受付へどうぞ。",
-   "en": "Participants, please proceed to the registration desk{n}inside.",
+   "en": "Participants, please proceed to the registration{n}desk inside.",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen045.0036",
    "jp": "次のフリーバトルが開かれるまで、{n}闘技場はしばらくお休みです。",
-   "en": "The arena will be closed for a while, until the next Free{n}Battle.",
+   "en": "The arena will be closed for a while, until the next{n}Free Battle.",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen045.0056",
    "jp": "闘技大会は終了しました。{n}ここへの立入はできません。",
-   "en": "The tournament has ended. Entry is no longer{n}permitted.",
+   "en": "The tournament has ended. Entry is no{n}longer permitted.",
    "term": "end"
   },
   {
@@ -369,19 +369,19 @@
   {
    "id": "scen045.0060",
    "jp": "{v:007A}ええっ？{n}だってエキスパートの優勝者って、{n}すっごく強いんじゃ‥‥。",
-   "en": "{v:007A}What?! But wouldn't the Expert champion be really{n}strong...?",
+   "en": "{v:007A}What?! But wouldn't the Expert champion be{n}really strong...?",
    "term": "end"
   },
   {
    "id": "scen045.0061",
    "jp": "{v:007B}多分勝てないだろうね。{p}{v:007C}というか、勝てなくてもいいんだよ。{n}それが普通だからね。{p}{v:007D}エキスパートの優勝者が{n}どれくらい強いかを示すための、余興の１つなんだ。{p}{v:007E}ま、エキスパートで優勝するくらいの人がどれくらい{n}強いのか、自分とのレベル差がどれくらいあるのかを{n}知るいいチャンスだと思えばいい。",
-   "en": "{v:007B}You probably won't be able to win.{p}{v:007C}Or rather, you don't have to win. Losing is what's{n}expected.{p}{v:007D}It's part of the entertainment, to show everyone just{n}how strong the Expert champion is.{p}{v:007E}Well, think of it as a good chance to see how strong{n}someone has to be to win the Expert division, and how{n}far you are from that level.",
+   "en": "{v:007B}You probably won't be able to win.{p}{v:007C}Or rather, you don't have to win. Losing is{n}what's expected.{p}{v:007D}It's part of the entertainment, to show everyone just{n}how strong the Expert champion is.{p}{v:007E}Well, think of it as a good chance to see how strong{n}someone has to be to win the Expert division, and how{n}far you are from that level.",
    "term": "end"
   },
   {
    "id": "scen045.0062",
    "jp": "ここから先は関係者以外、立入禁止です。",
-   "en": "Only authorized personnel are permitted beyond this{n}point.",
+   "en": "Only authorized personnel are permitted beyond{n}this point.",
    "term": "end"
   },
   {
@@ -508,7 +508,7 @@
   {
    "id": "scen045.0082",
    "jp": "{v:0069}あんたって、バカ？{n}どーしてアリオストさんなのよ？",
-   "en": "{v:0069}Are you an idiot? How does he look anything like{n}Ariost-san?!",
+   "en": "{v:0069}Are you an idiot? How does he look anything{n}like Ariost-san?!",
    "term": "end"
   },
   {
@@ -532,7 +532,7 @@
   {
    "id": "scen045.0086",
    "jp": "{v:006D}あんたって、バカ？{n}どーしてジュリアンなのよ？",
-   "en": "{v:006D}Are you an idiot? How does he look anything like{n}Julian?!",
+   "en": "{v:006D}Are you an idiot? How does he look anything{n}like Julian?!",
    "term": "end"
   },
   {
@@ -646,7 +646,7 @@
   {
    "id": "scen045.0105",
    "jp": "ゼノスも惜しかったよな～。{p}でも、決勝になった途端、{n}いきなり弱くなったような気が‥‥。{p}ま、気のせいか。",
-   "en": "Xenos was so close, too.{p}But the moment the final started, he suddenly seemed{n}weaker...{p}Eh, must've been my imagination.",
+   "en": "Xenos was so close, too.{p}But the moment the final started, he suddenly{n}seemed weaker...{p}Eh, must've been my imagination.",
    "term": "end"
   },
   {
@@ -658,7 +658,7 @@
   {
    "id": "scen045.0107",
    "jp": "いま見た戦いを思い出してるんだ。{n}話しかけないでくれ！",
-   "en": "I'm reliving the match I just watched. Don't interrupt{n}me!",
+   "en": "I'm reliving the match I just watched. Don't{n}interrupt me!",
    "term": "end"
   },
   {

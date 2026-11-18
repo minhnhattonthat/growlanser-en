@@ -159,7 +159,7 @@
   {
    "id": "scen010.0025",
    "jp": "やっと終わったね‥‥。{n}もう戦争なんてこりごりだよ‥‥。",
-   "en": "It's finally over... I've had enough of war to last a{n}lifetime...",
+   "en": "It's finally over... I've had enough of war to last{n}a lifetime...",
    "term": "end"
   },
   {
@@ -211,13 +211,13 @@
   {
    "id": "scen010.0033",
    "jp": "{v:001E}よろけたぁ！？{n}休みボケじゃないの？{n}久々の任務だからって！{p}{v:001F}ほら、気を引き締めなさいよ！{n}パーティーに出るんでしょ！",
-   "en": "{v:001E}You stuuumbled?! Been on leave so long you've{n}forgotten how to work? It's our first assignment in{n}ages!{p}{v:001F}Come on, pull yourself together! We're going to a party!",
+   "en": "{v:001E}You stuuumbled?! Been on leave so long you've{n}forgotten how to work? It's our first assignment{n}in ages!{p}{v:001F}Come on, pull yourself together! We're going to a party!",
    "term": "end"
   },
   {
    "id": "scen010.0034",
    "jp": "{v:0020}ひょっとして、{n}ティピがパーティーに出たいだけじゃ‥‥。",
-   "en": "{v:0020}Tippi, could it be that you just want to go to the{n}party...?",
+   "en": "{v:0020}Tippi, could it be that you just want to go to{n}the party...?",
    "term": "end"
   },
   {
@@ -229,7 +229,7 @@
   {
    "id": "scen010.0036",
    "jp": "{v:0023}もう、紛らわしいことしないでよね！{n}せっかくのパーティーなんだから！",
-   "en": "{v:0023}Oh, don't scare us like that! We've got a party to{n}enjoy!",
+   "en": "{v:0023}Oh, don't scare us like that! We've got a party{n}to enjoy!",
    "term": "end"
   },
   {
@@ -337,7 +337,7 @@
   {
    "id": "scen010.0054",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
    "term": "end"
   },
   {
@@ -367,7 +367,7 @@
   {
    "id": "scen010.0059",
    "jp": "{v:000C}サンドラの研究塔に行っているようだが‥‥。",
-   "en": "{v:000C}It seems they have gone to Sandra's research{n}tower...",
+   "en": "{v:000C}It seems they have gone to Sandra's{n}research tower...",
    "term": "end"
   },
   {
@@ -403,7 +403,7 @@
   {
    "id": "scen010.0065",
    "jp": "{v:000E}用事でも出来たんじゃねぇか？{n}保養所か、実家か‥‥。{p}{v:000F}ま、そんなところだろ。",
-   "en": "{v:000E}Maybe something came up. At the sanatorium, or back{n}home...{p}{v:000F}Well, probably something like that.",
+   "en": "{v:000E}Maybe something came up. At the sanatorium, or{n}back home...{p}{v:000F}Well, probably something like that.",
    "term": "end"
   },
   {
@@ -433,7 +433,7 @@
   {
    "id": "scen010.0070",
    "jp": "{v:0001}おお、良いところに戻ってきたな。{p}{v:0002}今宵、国中をあげての建国記念祭を{n}することとなっておるのだ。",
-   "en": "{v:0001}Ah, you have returned at an opportune time.{p}{v:0002}Tonight, the whole kingdom will celebrate the Founding{n}Festival.",
+   "en": "{v:0001}Ah, you have returned at an opportune time.{p}{v:0002}Tonight, the whole kingdom will celebrate the{n}Founding Festival.",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen010.0072",
    "jp": "{v:0004}私も今年の建国祭は控えようと思っておったのだ。{p}{v:0005}だが国民の方から願い出てきてな。{n}これも人々に活気が戻ったからであろう。{n}ひとえにお前たちの働きのおかげだ。",
-   "en": "{v:0004}We, too, had intended to forgo this year's Founding{n}Festival.{p}{v:0005}But the people themselves requested it. Surely this{n}means their spirits have recovered. It is all thanks to{n}your efforts.",
+   "en": "{v:0004}We, too, had intended to forgo this year's{n}Founding Festival.{p}{v:0005}But the people themselves requested it. Surely this{n}means their spirits have recovered. It is all thanks to{n}your efforts.",
    "term": "end"
   },
   {
@@ -481,7 +481,7 @@
   {
    "id": "scen010.0078",
    "jp": "{v:000C}焦る気持ちも分かるが、我々はまだ奴の居場所すら{n}わかっておらんのだ。{p}{v:000D}今宵ぐらい休んではどうだ？{n}これは任務として受けてくれ。",
-   "en": "{v:000C}We understand your urgency, but we do not even know{n}where he is yet.{p}{v:000D}Surely you can rest for one evening? Consider this an{n}assignment.",
+   "en": "{v:000C}We understand your urgency, but we do not even know{n}where he is yet.{p}{v:000D}Surely you can rest for one evening? Consider this{n}an assignment.",
    "term": "end"
   },
   {
@@ -493,7 +493,7 @@
   {
    "id": "scen010.0080",
    "jp": "{v:0002}おお、戻ったか。{n}だいたいの報告は聞いている。{p}{v:0003}それで、バーンシュタイン王国や魔法学院は{n}どうだったかな？",
-   "en": "{v:0002}Ah, you have returned. We have heard the general{n}report.{p}{v:0003}Now, how were matters in the Kingdom of Burnstein{n}and at the Magic Academy?",
+   "en": "{v:0002}Ah, you have returned. We have heard the{n}general report.{p}{v:0003}Now, how were matters in the Kingdom of Burnstein{n}and at the Magic Academy?",
    "term": "end"
   },
   {
@@ -545,7 +545,7 @@
   {
    "id": "scen010.0088",
    "jp": "{v:0006}うむ、市民に被害がないことがせめてもの救いだな。",
-   "en": "{v:0006}Indeed. It is some small mercy that the civilians are{n}unharmed.",
+   "en": "{v:0006}Indeed. It is some small mercy that the civilians{n}are unharmed.",
    "term": "end"
   },
   {
@@ -563,13 +563,13 @@
   {
    "id": "scen010.0091",
    "jp": "{v:0009}むぅ‥‥一般人は狙われていないように{n}思えたのだが‥‥。",
-   "en": "{v:0009}Hmm... We had thought he was not targeting ordinary{n}people...",
+   "en": "{v:0009}Hmm... We had thought he was not targeting{n}ordinary people...",
    "term": "end"
   },
   {
    "id": "scen010.0092",
    "jp": "{v:000A}学院の生徒は、少なからず魔法が使えますから、{n}反対勢力になり得ると判断したのでしょう。",
-   "en": "{v:000A}The Academy's students have some ability to use{n}magic. He must have judged them a potential source of{n}resistance.",
+   "en": "{v:000A}The Academy's students have some ability to use{n}magic. He must have judged them a potential source{n}of resistance.",
    "term": "end"
   },
   {
@@ -581,7 +581,7 @@
   {
    "id": "scen010.0094",
    "jp": "{v:000C}アンタ、どうしてこの状況で、{n}安心なんて言ってられるの！？",
-   "en": "{v:000C}How can you tell anyone to rest assured at a time like{n}this?!",
+   "en": "{v:000C}How can you tell anyone to rest assured at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -755,7 +755,7 @@
   {
    "id": "scen010.0122",
    "jp": "{v:0019}ゲヴェルの生命力と、グローシアンの魔力。{n}そして時空を操る能力までも持った存在。{n}それがヴェンツェルです。",
-   "en": "{v:0019}A being with Gevel's life force, a Growsian's magic, and{n}even the ability to manipulate space and time. That is{n}Wenzel.",
+   "en": "{v:0019}A being with Gevel's life force, a Growsian's magic, and{n}even the ability to manipulate space and time. That{n}is Wenzel.",
    "term": "end"
   },
   {
@@ -779,7 +779,7 @@
   {
    "id": "scen010.0126",
    "jp": "{v:001E}ええと、ヴェンツェルはわたし達が倒したゲヴェルと、{n}グローシアンとを融合した存在なんです。{p}{v:001F}そして、時空を自由に操る能力まで持っている{n}らしいんです。",
-   "en": "{v:001E}Um, Wenzel is a fusion of the Gevel we defeated and a{n}Growsian.{p}{v:001F}And apparently, he can even manipulate space and time{n}at will.",
+   "en": "{v:001E}Um, Wenzel is a fusion of the Gevel we defeated and{n}a Growsian.{p}{v:001F}And apparently, he can even manipulate space and time{n}at will.",
    "term": "end"
   },
   {
@@ -791,7 +791,7 @@
   {
    "id": "scen010.0128",
    "jp": "{v:0022}フェザリアンの所からもらってきた、{n}パワーストーンの制御装置を使うの！",
-   "en": "{v:0022}We'll use the Power Stone controller we got from the{n}Featherians!",
+   "en": "{v:0022}We'll use the Power Stone controller we got from{n}the Featherians!",
    "term": "end"
   },
   {
@@ -851,7 +851,7 @@
   {
    "id": "scen010.0138",
    "jp": "{v:0000}おお、戻ったか！{n}とうとうゲヴェルを倒したようだな！",
-   "en": "{v:0000}Ah, you have returned! You have finally defeated{n}Gevel!",
+   "en": "{v:0000}Ah, you have returned! You have finally{n}defeated Gevel!",
    "term": "end"
   },
   {
@@ -863,7 +863,7 @@
   {
    "id": "scen010.0140",
    "jp": "{v:0002}ティピ。{n}国王の前で、はしゃぎすぎですよ。",
-   "en": "{v:0002}Tippi. You are getting far too excited in the King's{n}presence.",
+   "en": "{v:0002}Tippi. You are getting far too excited in the{n}King's presence.",
    "term": "end"
   },
   {
@@ -1249,7 +1249,7 @@
   {
    "id": "scen010.0201",
    "jp": "{v:0004}そうか。{n}いよいよ王位奪還が始まるのか。{p}{v:0005}では、我が軍も彼らに合流させて、{n}援護をさせるとしよう。{p}{v:0006}これが成功すれば、今この大陸で起こっている戦争を{n}止めることが出来るはず。{n}今しばらくがんばってくれ。{p}{v:0007}とりあえず今のうちに休んでおくといい。",
-   "en": "{v:0004}I see. So the campaign to reclaim the throne is finally{n}beginning.{p}{v:0005}Then our army shall join them and lend its support.{p}{v:0006}If this succeeds, we should be able to end the war now{n}raging across the continent. Persevere a little longer.{p}{v:0007}For now, take this opportunity to rest.",
+   "en": "{v:0004}I see. So the campaign to reclaim the throne is{n}finally beginning.{p}{v:0005}Then our army shall join them and lend its support.{p}{v:0006}If this succeeds, we should be able to end the war now{n}raging across the continent. Persevere a little longer.{p}{v:0007}For now, take this opportunity to rest.",
    "term": "end"
   },
   {
@@ -1482,7 +1482,7 @@
   {
    "id": "scen010.0238",
    "jp": "偽王を討つために、力を蓄えておかなくては‥‥。",
-   "en": "We must build up our strength to defeat the false{n}king...",
+   "en": "We must build up our strength to defeat the{n}false king...",
    "term": "end"
   },
   {
@@ -1650,7 +1650,7 @@
   {
    "id": "scen010.0266",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "B-Big Brother... You shouldn't use magic in front of the{n}King...",
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
    "term": "end"
   },
   {

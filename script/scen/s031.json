@@ -367,7 +367,7 @@
   {
    "id": "scen031.0056",
    "jp": "バーンシュタインの子の視線がもの凄く痛い‥‥。{p}僕はランザックに住んでいるだけで、{n}今回の戦争とは全然関係ないのになぁ‥‥[01BE]",
-   "en": "That student from Burnstein keeps glaring daggers at{n}me...{p}I only live in Ranzak. I've got nothing to do with this{n}war...[01BE]",
+   "en": "That student from Burnstein keeps glaring daggers{n}at me...{p}I only live in Ranzak. I've got nothing to do with{n}this war...[01BE]",
    "term": "end"
   },
   {
@@ -502,7 +502,7 @@
   {
    "id": "scen031.0077",
    "jp": "アリオストさん、{n}今度は戦争を止めさせるような機械を{n}作ってくれないかな～。",
-   "en": "Ariost-san, couldn't you build a machine to stop the war{n}next?",
+   "en": "Ariost-san, couldn't you build a machine to stop the{n}war next?",
    "term": "end"
   },
   {
@@ -514,7 +514,7 @@
   {
    "id": "scen031.0079",
    "jp": "最近、ストレス発散の場が無くて欲求不満‥‥。",
-   "en": "I've had nowhere to let off steam lately. It's so{n}frustrating...",
+   "en": "I've had nowhere to let off steam lately. It's{n}so frustrating...",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen031.0101",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about the{n}monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
    "term": "end"
   },
   {
@@ -667,7 +667,7 @@
   {
    "id": "scen031.0103",
    "jp": "『{FFEF}迷いの森遺跡調査報告{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -697,7 +697,7 @@
   {
    "id": "scen031.0108",
    "jp": "気がつくと、本がちらかっているんだよなぁ‥‥。",
-   "en": "Every time I look, the books are scattered all over the{n}place...",
+   "en": "Every time I look, the books are scattered all over{n}the place...",
    "term": "end"
   },
   {
@@ -709,7 +709,7 @@
   {
    "id": "scen031.0110",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -796,7 +796,7 @@
   {
    "id": "scen031.0123",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -913,13 +913,13 @@
   {
    "id": "scen031.0141",
    "jp": "{v:0024}また透明になる薬がほしいんですが‥‥。",
-   "en": "{v:0024}We'd like some more of the potion that makes us{n}invisible...",
+   "en": "{v:0024}We'd like some more of the potion that makes{n}us invisible...",
    "term": "end"
   },
   {
    "id": "scen031.0142",
    "jp": "{v:0025}ちょうどいいタイミングだね。{n}実はおとといクリアノ草が届いて、さっき薬が{n}完成したところなんだ。",
-   "en": "{v:0025}Your timing is perfect. The Kuriano Herb arrived the day{n}before yesterday, and I just finished making the{n}potion.",
+   "en": "{v:0025}Your timing is perfect. The Kuriano Herb arrived the day{n}before yesterday, and I just finished making{n}the potion.",
    "term": "end"
   },
   {
@@ -931,7 +931,7 @@
   {
    "id": "scen031.0144",
    "jp": "{v:0027}ああ、君たちには世話になったからね。{n}少しだけなら分けてあげるよ。",
-   "en": "{v:0027}Yes, you've been a great help to me. I can spare a{n}little.",
+   "en": "{v:0027}Yes, you've been a great help to me. I can spare{n}a little.",
    "term": "end"
   },
   {
@@ -961,7 +961,7 @@
   {
    "id": "scen031.0149",
    "jp": "あの薬なら、もうやらんぞ。",
-   "en": "If it's that potion you want, you're not getting any{n}more.",
+   "en": "If it's that potion you want, you're not getting{n}any more.",
    "term": "end"
   },
   {
@@ -1261,7 +1261,7 @@
   {
    "id": "scen031.0197",
    "jp": "{v:001B}たぶん、今ならお会いできると思います。{n}どうぞ。",
-   "en": "{v:001B}I believe he should be able to see you now. Please go{n}in.",
+   "en": "{v:001B}I believe he should be able to see you now. Please{n}go in.",
    "term": "end"
   },
   {
@@ -1309,7 +1309,7 @@
   {
    "id": "scen031.0205",
    "jp": "{v:0020}なっ！？{p}{v:0021}君たちは何を言っているんだ！{n}そんなこと、出来るわけないだろう！{p}{v:0022}バカなことを言ってないで、{n}さっさと出て行きたまえ！",
-   "en": "{v:0020}What?!{p}{v:0021}What are you talking about?! That is quite out of the{n}question!{p}{v:0022}Enough of this nonsense! Leave at once!",
+   "en": "{v:0020}What?!{p}{v:0021}What are you talking about?! That is quite out of{n}the question!{p}{v:0022}Enough of this nonsense! Leave at once!",
    "term": "end"
   },
   {
@@ -1474,7 +1474,7 @@
   {
    "id": "scen031.0231",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
@@ -1579,7 +1579,7 @@
   {
    "id": "scen031.0247",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "This is Vice Headmaster Bradley's laboratory, you{n}know.",
+   "en": "This is Vice Headmaster Bradley's laboratory,{n}you know.",
    "term": "end"
   },
   {
@@ -1615,7 +1615,7 @@
   {
    "id": "scen031.0253",
    "jp": "{v:0037}ワシは、強大な魔力を持つ{n}グローシアンについて研究しておる。{p}{v:0038}なぜこの世界で、彼らだけが強い魔力を持てるのか？{n}普通の者がグローシアン並みの魔力を持つ事は{n}可能なのかをな。",
-   "en": "{v:0037}I study the Growsians and their formidable magical{n}power.{p}{v:0038}Why are they alone in this world capable of such{n}powerful magic? Could an ordinary person ever{n}possess magical power to rival a Growsian's?",
+   "en": "{v:0037}I study the Growsians and their formidable{n}magical power.{p}{v:0038}Why are they alone in this world capable of such{n}powerful magic? Could an ordinary person ever{n}possess magical power to rival a Growsian's?",
    "term": "end"
   },
   {
@@ -1681,7 +1681,7 @@
   {
    "id": "scen031.0264",
    "jp": "{v:0048}そうはいかんのじゃ。{n}魔水晶に含まれるグローシュとグローシアンの持つ{n}グローシュとは、まったく次元が違うものなのじゃ。{p}{v:0049}簡単に言ってしまえば、魔水晶のグローシュは{n}使い終わった残りカスのようなものでな。{p}{v:004A}水晶の中から出してしまうと、{n}もう魔力を増幅させることは出来ぬのじゃよ。{p}{v:004B}グローシアンが、魔法を使ったときに放出する{n}グローシュも同じじゃ。",
-   "en": "{v:0048}Not quite, I am afraid. The Grosh in magic crystals is{n}entirely different in nature from the Grosh within a{n}Growsian.{p}{v:0049}To put it simply, the Grosh in magic crystals is rather{n}like the dregs left after it has been used.{p}{v:004A}Once removed from the crystal, it can no longer{n}amplify magical power, you see.{p}{v:004B}The same is true of the Grosh that Growsians release{n}when they use magic.",
+   "en": "{v:0048}Not quite, I am afraid. The Grosh in magic crystals is{n}entirely different in nature from the Grosh within{n}a Growsian.{p}{v:0049}To put it simply, the Grosh in magic crystals is rather{n}like the dregs left after it has been used.{p}{v:004A}Once removed from the crystal, it can no longer{n}amplify magical power, you see.{p}{v:004B}The same is true of the Grosh that Growsians release{n}when they use magic.",
    "term": "end"
   },
   {
@@ -1705,7 +1705,7 @@
   {
    "id": "scen031.0268",
    "jp": "{v:0050}おお、すまん、すまん。{p}{v:0051}さて、こんなところでいいかな？{n}ワシもそろそろ部屋に戻らんといかん。",
-   "en": "{v:0050}Ah, my apologies, my apologies.{p}{v:0051}Well, will that suffice? I must be getting back to my{n}office.",
+   "en": "{v:0050}Ah, my apologies, my apologies.{p}{v:0051}Well, will that suffice? I must be getting back to{n}my office.",
    "term": "end"
   },
   {
@@ -1777,7 +1777,7 @@
   {
    "id": "scen031.0280",
    "jp": "{v:0058}そうだね。{n}まじめに研究しているだけみたいだし。",
-   "en": "{v:0058}Right. It looks like he's just working hard on his{n}research.",
+   "en": "{v:0058}Right. It looks like he's just working hard on{n}his research.",
    "term": "end"
   },
   {
@@ -1869,7 +1869,7 @@
   {
    "id": "scen031.0295",
    "jp": "{v:0069}人を急かしておいて、遅かったじゃないか！",
-   "en": "{v:0069}You certainly took your time, after rushing me down{n}here!",
+   "en": "{v:0069}You certainly took your time, after rushing me{n}down here!",
    "term": "end"
   },
   {
@@ -1905,7 +1905,7 @@
   {
    "id": "scen031.0301",
    "jp": "{v:006F}ついでに、どのような研究をしているのか、{n}教えてもらえますか？",
-   "en": "{v:006F}While we are here, could you tell us about your{n}research?",
+   "en": "{v:006F}While we are here, could you tell us about{n}your research?",
    "term": "end"
   },
   {
@@ -1947,7 +1947,7 @@
   {
    "id": "scen031.0308",
    "jp": "{v:0077}呪いと言っても、私は人を呪うために{n}研究をしているのではない。{p}{v:0078}古代の遺跡には様々なワナに混じって、{n}呪いを施してあるものも多い。{n}うっかり呪いを発動させてしまう者もいる。{p}{v:0079}そこで私はこの世界の呪いを研究し、系統分けし、{n}その解除方法をまとめているのだ。{p}{v:007A}グローシアンの遺跡の本格調査が最近まで{n}行われなかったのは、これらにかけられた{n}呪いの解除方法がわかっていなかったからだ。{p}{v:007B}なにしろグローシアンが使う呪いは、{n}桁違いの強さをもっているからな。",
-   "en": "{v:0077}I may study curses, but my aim is not to curse people.{p}{v:0078}Many ancient ruins contain curses alongside their{n}various traps. Some people activate these curses by{n}accident.{p}{v:0079}That is why I study and classify the curses of this{n}world, and compile methods for lifting them.{p}{v:007A}Serious exploration of Growsian ruins only began{n}recently because we did not know how to lift the{n}curses placed upon them.{p}{v:007B}After all, Growsian curses are vastly more powerful{n}than any others.",
+   "en": "{v:0077}I may study curses, but my aim is not to curse people.{p}{v:0078}Many ancient ruins contain curses alongside their{n}various traps. Some people activate these curses{n}by accident.{p}{v:0079}That is why I study and classify the curses of this{n}world, and compile methods for lifting them.{p}{v:007A}Serious exploration of Growsian ruins only began{n}recently because we did not know how to lift the{n}curses placed upon them.{p}{v:007B}After all, Growsian curses are vastly more powerful{n}than any others.",
    "term": "end"
   },
   {
@@ -2112,7 +2112,7 @@
   {
    "id": "scen031.0335",
    "jp": "{v:0094}他の人ねぇ‥‥。{p}{v:0095}そういえば、あのピアスの件もあるしね‥‥。",
-   "en": "{v:0094}Someone else, huh...{p}{v:0095}Come to think of it, there's that earring business,{n}too...",
+   "en": "{v:0094}Someone else, huh...{p}{v:0095}Come to think of it, there's that earring{n}business, too...",
    "term": "end"
   },
   {
@@ -2184,7 +2184,7 @@
   {
    "id": "scen031.0347",
    "jp": "{v:00A1}う～ん、{n}マスターだったら、詳しいことを知ってるかな‥‥。{n}ちょっと聞いてみるね！",
-   "en": "{v:00A1}Hmm... Maybe Master knows more about this. I'll just ask{n}her!",
+   "en": "{v:00A1}Hmm... Maybe Master knows more about this. I'll just{n}ask her!",
    "term": "end"
   },
   {

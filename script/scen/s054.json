@@ -243,7 +243,7 @@
   {
    "id": "scen054.0039",
    "jp": "‥‥{v:005B}とにかく、一度城に戻って報告した方が{n}良さそうだな。",
-   "en": "...{v:005B}Either way, we'd better head back to the castle and{n}report.",
+   "en": "...{v:005B}Either way, we'd better head back to the castle{n}and report.",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen054.0042",
    "jp": "‥‥なんでもない。{n}ちょっと、カレンのことを思い出しちまっただけだ。{p}{FC00}それより、{n}さっさとガムランの野郎を倒しに行こうぜ！",
-   "en": "...Nothing. Just thought of Karen for a second.{p}{FC00}Anyway, let's get moving and take down that bastard{n}Gamlan!",
+   "en": "...Nothing. Just thought of Karen for a second.{p}{FC00}Anyway, let's get moving and take down that{n}bastard Gamlan!",
    "term": "end"
   },
   {
@@ -435,7 +435,7 @@
   {
    "id": "scen054.0071",
    "jp": "{v:0026}この村の村長が‥‥、{n}我が国最後のグローシアンだったからだ。",
-   "en": "{v:0026}This village's chief... was the last Growsian in our{n}country.",
+   "en": "{v:0026}This village's chief... was the last Growsian in{n}our country.",
    "term": "end"
   },
   {
@@ -523,13 +523,13 @@
   {
    "id": "scen054.0085",
    "jp": "{v:0033}まだ人間がグローシアンの支配を受けていた頃、{n}人間を殺りくしていた怪物。{p}{v:0034}どうも、それは伝承なんかじゃなくて、{n}本当にいるみたいなの。",
-   "en": "{v:0033}A monster that slaughtered humans back when they{n}were still ruled by the Growsians.{p}{v:0034}Looks like it isn't just some legend. It might actually{n}exist.",
+   "en": "{v:0033}A monster that slaughtered humans back when they{n}were still ruled by the Growsians.{p}{v:0034}Looks like it isn't just some legend. It might{n}actually exist.",
    "term": "end"
   },
   {
    "id": "scen054.0086",
    "jp": "{v:0035}水晶鉱山の中から出てきたっていう証拠も{n}見つけたんだから！",
-   "en": "{v:0035}We even found proof that it came out of the crystal{n}mine!",
+   "en": "{v:0035}We even found proof that it came out of the{n}crystal mine!",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen054.0107",
    "jp": "これで我が国には１人もグローシアンが{n}いなくなったか‥‥。{p}どうやら、これら変死事件の背後には{n}大きな組織が絡んでいるようだな‥‥。",
-   "en": "So there isn't a single Growsian left in our country...{p}It seems a large organization is behind these suspicious{n}deaths...",
+   "en": "So there isn't a single Growsian left in our country...{p}It seems a large organization is behind these{n}suspicious deaths...",
    "term": "end"
   },
   {
@@ -709,7 +709,7 @@
   {
    "id": "scen054.0116",
    "jp": "{v:0033}おお、覚えているとも。{n}お主、裏の滝に向かって、{n}それっきり帰って来なんだからのう。",
-   "en": "{v:0033}Oh, of course I remember. You set off for the{n}waterfall behind the village and never came back, my{n}boy.",
+   "en": "{v:0033}Oh, of course I remember. You set off for the{n}waterfall behind the village and never came back,{n}my boy.",
    "term": "end"
   },
   {
@@ -787,7 +787,7 @@
   {
    "id": "scen054.0129",
    "jp": "{v:0049}今までは、なぜワシだけが無事戻れたのか、{n}わからんかった。{n}だがお嬢ちゃんと会って、気付いたよ。{p}{v:004A}ワシがグローシュを持つ者だからかも知れん。{n}だから話す決心がついたのじゃ。",
-   "en": "{v:0049}Until now, I never understood why I alone returned{n}unharmed. But meeting you, young lady, made me realize{n}something.{p}{v:004A}It may be because I possess Grosh. That is why I{n}decided to tell you.",
+   "en": "{v:0049}Until now, I never understood why I alone returned{n}unharmed. But meeting you, young lady, made me{n}realize something.{p}{v:004A}It may be because I possess Grosh. That is why I{n}decided to tell you.",
    "term": "end"
   },
   {
@@ -799,7 +799,7 @@
   {
    "id": "scen054.0131",
    "jp": "{v:004C}とりあえず、向こうへ行くことは許可しよう。{n}だが、危険を感じたらすぐに戻ってくるのじゃよ。",
-   "en": "{v:004C}For now, I shall give you permission to go there. But{n}come straight back if you sense any danger, do you{n}hear?",
+   "en": "{v:004C}For now, I shall give you permission to go there. But{n}come straight back if you sense any danger, do{n}you hear?",
    "term": "end"
   },
   {
@@ -841,7 +841,7 @@
   {
    "id": "scen054.0138",
    "jp": "{v:0053}それだけではない。{n}中には変死体で見つかった者もおってな。{p}{v:0054}そうか、知らなかったのか。{n}不安がらせてしまうだけだったかの。",
-   "en": "{v:0053}And that is not all. Some have been found dead under{n}suspicious circumstances.{p}{v:0054}Ah, so you hadn't heard. Perhaps I've only made you{n}worry.",
+   "en": "{v:0053}And that is not all. Some have been found dead under{n}suspicious circumstances.{p}{v:0054}Ah, so you hadn't heard. Perhaps I've only made{n}you worry.",
    "term": "end"
   },
   {
@@ -961,7 +961,7 @@
   {
    "id": "scen054.0158",
    "jp": "{v:004E}ああ、たぶんな。{n}この家から逃げていく男の影を見たんだ。{p}{v:004F}ちょっとごつくて、白っぽい鎧を着た男だった。",
-   "en": "{v:004E}Yeah, probably. I caught sight of a man fleeing this{n}house.{p}{v:004F}He was fairly burly, wearing whitish armor.",
+   "en": "{v:004E}Yeah, probably. I caught sight of a man fleeing{n}this house.{p}{v:004F}He was fairly burly, wearing whitish armor.",
    "term": "end"
   },
   {
@@ -1045,7 +1045,7 @@
   {
    "id": "scen054.0172",
    "jp": "{v:0029}アンタ、さっき村長さんから許可をもらったのを{n}もう忘れたの！？",
-   "en": "{v:0029}Did you already forget we just got the village chief's{n}permission?!",
+   "en": "{v:0029}Did you already forget we just got the village{n}chief's permission?!",
    "term": "end"
   },
   {

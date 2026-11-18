@@ -156,7 +156,7 @@
   {
    "id": "scen261.0024",
    "jp": "この前は、カレンの見舞い、ありがとよ。",
-   "en": "Thanks for visiting Karen the other day while she was{n}sick.",
+   "en": "Thanks for visiting Karen the other day while she{n}was sick.",
    "term": "end"
   },
   {
@@ -168,7 +168,7 @@
   {
    "id": "scen261.0026",
    "jp": "ああ、俺か？{n}仕事が見つかってな。{n}それが始まるまでぶらぶらしてる。",
-   "en": "Oh, me? Found myself a job. Just killing time till it{n}starts.",
+   "en": "Oh, me? Found myself a job. Just killing time till{n}it starts.",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen261.0031",
    "jp": "あんまり人のことを詮索するもんじゃねぇ。",
-   "en": "You shouldn't go poking your nose into other people's{n}business.",
+   "en": "You shouldn't go poking your nose into other{n}people's business.",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen261.0036",
    "jp": "それで、傭兵なんて危険な仕事を‥‥",
-   "en": "So that's why you took such a dangerous job as a{n}mercenary...",
+   "en": "So that's why you took such a dangerous job as{n}a mercenary...",
    "term": "end"
   },
   {

@@ -292,7 +292,7 @@
   {
    "id": "scen033.0045",
    "jp": "うーん、悩んでるって言えば悩んでるかな。",
-   "en": "Hmm... I suppose you could say something's bothering{n}me.",
+   "en": "Hmm... I suppose you could say something's{n}bothering me.",
    "term": "end"
   },
   {
@@ -595,7 +595,7 @@
   {
    "id": "scen033.0091",
    "jp": "『{FFEF}グローシアンの特殊能力{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -625,7 +625,7 @@
   {
    "id": "scen033.0096",
    "jp": "『{FFEF}古代遺跡とその出土品{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -643,7 +643,7 @@
   {
    "id": "scen033.0099",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about the{n}monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen033.0101",
    "jp": "『{FFEF}迷いの森遺跡調査報告{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -685,7 +685,7 @@
   {
    "id": "scen033.0106",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -772,7 +772,7 @@
   {
    "id": "scen033.0119",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -973,7 +973,7 @@
   {
    "id": "scen033.0151",
    "jp": "‥‥{v:000F}フッフッフッ‥‥。{n}ハッハッハッ！{p}{v:0010}そうか、そうか！{n}ワシの力が必要か！{n}悪者を倒すのに必要か！",
-   "en": "...{v:000F}Heh heh heh... Ha ha ha!{p}{v:0010}I see, I see! You need my skills! To defeat a villain, no{n}less!",
+   "en": "...{v:000F}Heh heh heh... Ha ha ha!{p}{v:0010}I see, I see! You need my skills! To defeat a villain,{n}no less!",
    "term": "end"
   },
   {
@@ -1102,7 +1102,7 @@
   {
    "id": "scen033.0171",
    "jp": "学院長も秘書も、もういない。",
-   "en": "Neither the Headmaster nor the secretary is here{n}anymore.",
+   "en": "Neither the Headmaster nor the secretary is{n}here anymore.",
    "term": "end"
   },
   {
@@ -1162,7 +1162,7 @@
   {
    "id": "scen033.0181",
    "jp": "副学院長はまだ地下の研究室に{n}こもりっきりです。",
-   "en": "The Vice Headmaster is still shut away in the basement{n}laboratory.",
+   "en": "The Vice Headmaster is still shut away in the{n}basement laboratory.",
    "term": "end"
   },
   {
@@ -1312,7 +1312,7 @@
   {
    "id": "scen033.0206",
    "jp": "{v:0026}時空の歪みが大きくなったときに{n}グローシアンが生まれる。{p}{v:0027}逆にルイセ君が戻ったとき、{n}歪みが大きくなっても不思議ではあるまい。{p}{v:0028}つまり、歪みを作ることと、{n}グローシュが戻ることには関係がある。{p}{v:0029}そしてそのペンダントが割れたという事実。",
-   "en": "{v:0026}Growsians are born when distortions in space-time{n}intensify.{p}{v:0027}Conversely, it would hardly be surprising if a distortion{n}intensified when Luise-kun recovered.{p}{v:0028}In other words, creating a distortion and restoring{n}Grosh are connected.{p}{v:0029}Then there is the fact that the pendant broke.",
+   "en": "{v:0026}Growsians are born when distortions in{n}space-time intensify.{p}{v:0027}Conversely, it would hardly be surprising if a distortion{n}intensified when Luise-kun recovered.{p}{v:0028}In other words, creating a distortion and restoring{n}Grosh are connected.{p}{v:0029}Then there is the fact that the pendant broke.",
    "term": "end"
   },
   {
@@ -1426,7 +1426,7 @@
   {
    "id": "scen033.0225",
    "jp": "{v:0004}確か、アンタは呪い研究のスペシャリストだったよな？",
-   "en": "{v:0004}You're a specialist in curse research, if I remember{n}right?",
+   "en": "{v:0004}You're a specialist in curse research, if I{n}remember right?",
    "term": "end"
   },
   {
@@ -1498,7 +1498,7 @@
   {
    "id": "scen033.0237",
    "jp": "{v:0014}なるほどな。{n}だから人質に取った場合くらいにしか使えないんだ。",
-   "en": "{v:0014}I see. So it's only really useful when you've taken a{n}hostage.",
+   "en": "{v:0014}I see. So it's only really useful when you've taken{n}a hostage.",
    "term": "end"
   },
   {
@@ -1681,7 +1681,7 @@
   {
    "id": "scen033.0266",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
@@ -1792,7 +1792,7 @@
   {
    "id": "scen033.0283",
    "jp": "学院長が死んでからまだ中の調査が終わっていません。{n}関係者以外立入禁止となっています。",
-   "en": "We have not finished investigating the rooms since the{n}headmaster's death. Only authorized personnel may{n}enter.",
+   "en": "We have not finished investigating the rooms since the{n}headmaster's death. Only authorized personnel{n}may enter.",
    "term": "end"
   },
   {
@@ -1954,7 +1954,7 @@
   {
    "id": "scen033.0310",
    "jp": "{v:0080}王都があの仮面の連中に包囲されてるって！",
-   "en": "{v:0080}She says those masked creeps have surrounded the{n}capital!",
+   "en": "{v:0080}She says those masked creeps have surrounded{n}the capital!",
    "term": "end"
   },
   {

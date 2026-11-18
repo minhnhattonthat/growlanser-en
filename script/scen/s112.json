@@ -111,7 +111,7 @@
   {
    "id": "scen112.0017",
    "jp": "{v:004D}驚きましたか？{n}スペースの有効利用ですよ！{p}{v:004E}場所は狭くても、扱っている商品は{n}他店に引けを取らないからね！",
-   "en": "{v:004D}Surprised? That's how you make the most of your{n}space!{p}{v:004E}It may be cramped, but our selection is as good as any{n}other shop's!",
+   "en": "{v:004D}Surprised? That's how you make the most of{n}your space!{p}{v:004E}It may be cramped, but our selection is as good as any{n}other shop's!",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen112.0021",
    "jp": "ありがとう！{n}君のおかげでスキマ屋で買い物ができたよ！",
-   "en": "Thank you! Thanks to you, I got to shop at the Nook{n}Shop!",
+   "en": "Thank you! Thanks to you, I got to shop at the{n}Nook Shop!",
    "term": "end"
   },
   {
@@ -386,13 +386,13 @@
   {
    "id": "scen112.0061",
    "jp": "ねぇねぇ！{n}お兄ちゃんってさ、妖精をペットにしてるんだね。{p}僕、初めて見たよ。{n}今度、僕にも貸してね！",
-   "en": "Hey, hey! You've got a fairy for a pet, Big Brother!{p}I've never seen one before. Let me borrow her{n}sometime!",
+   "en": "Hey, hey! You've got a fairy for a pet, Big Brother!{p}I've never seen one before. Let me borrow{n}her sometime!",
    "term": "end"
   },
   {
    "id": "scen112.0062",
    "jp": "誰がペットだって！{n}今度言ったら、蹴るわよ！",
-   "en": "Who are you calling a pet?! Say that again and I'll kick{n}you!",
+   "en": "Who are you calling a pet?! Say that again and I'll{n}kick you!",
    "term": "end"
   },
   {
@@ -470,7 +470,7 @@
   {
    "id": "scen112.0075",
    "jp": "そこのお店の女の子、俺の好みのタイプなんだよ。{p}それで告白しようかなって思ったら、こいつが{n}『俺の方が先に彼女を狙っていた』とか{n}言い出しやがるんだよ。",
-   "en": "The girl in that shop is just my type.{p}So I was thinking of telling her how I feel, and this jerk{n}starts going on about how he 'had his eye on her{n}first'!",
+   "en": "The girl in that shop is just my type.{p}So I was thinking of telling her how I feel, and this jerk{n}starts going on about how he 'had his eye on{n}her first'!",
    "term": "end"
   },
   {
@@ -569,7 +569,7 @@
   {
    "id": "scen112.0090",
    "jp": "そうだよ！{n}自分たちの都合だけで恋愛を決めちゃダメじゃない。{p}２人とも彼女の事が好きなら、{n}あとは相手の気持ち次第じゃない？",
-   "en": "Exactly! You can't decide matters of love just to suit{n}yourselves!{p}If you both like her, then what matters now is how she{n}feels, right?",
+   "en": "Exactly! You can't decide matters of love just to{n}suit yourselves!{p}If you both like her, then what matters now is how she{n}feels, right?",
    "term": "end"
   },
   {
@@ -617,7 +617,7 @@
   {
    "id": "scen112.0098",
    "jp": "この階段、上るのがこんなに大変だなんて、{n}思いもしなかったわ‥‥。",
-   "en": "I never imagined climbing these stairs would be so{n}hard...",
+   "en": "I never imagined climbing these stairs would be{n}so hard...",
    "term": "end"
   },
   {
@@ -701,7 +701,7 @@
   {
    "id": "scen112.0112",
    "jp": "うふふ‥‥。{n}ありがとう。{n}でも、変なトコ、さわったりしないでね。",
-   "en": "Hee hee... Thank you. Just watch where you put your{n}hands.",
+   "en": "Hee hee... Thank you. Just watch where you put{n}your hands.",
    "term": "end"
   },
   {
@@ -755,7 +755,7 @@
   {
    "id": "scen112.0121",
    "jp": "何とかここまで来たけど、帰りは大丈夫かしら‥‥。",
-   "en": "I managed to get this far, but I wonder if I'll make it{n}back...",
+   "en": "I managed to get this far, but I wonder if I'll make{n}it back...",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen112.0136",
    "jp": "　{n}　　　　　南大通り商店街、改装中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District Under{n}Renovation!!",
+   "en": "　{n}　　　　　South Avenue Shopping District{n}Under Renovation!!",
    "term": "end"
   },
   {
@@ -893,7 +893,7 @@
   {
    "id": "scen112.0144",
    "jp": "はぁ‥‥。{n}困ったねぇ‥‥。{p}しばらくの間、誰かに店の番を頼めないもんかねぇ。",
-   "en": "*Sigh*... What am I going to do?{p}I wonder if someone could mind the shop for a little{n}while.",
+   "en": "*Sigh*... What am I going to do?{p}I wonder if someone could mind the shop for a{n}little while.",
    "term": "end"
   },
   {
@@ -1003,7 +1003,7 @@
   {
    "id": "scen112.0162",
    "jp": "じゃあさ、これからの冒険、何を楽しみにしてる？",
-   "en": "So, what are you looking forward to on our{n}adventure?",
+   "en": "So, what are you looking forward to on{n}our adventure?",
    "term": "end"
   },
   {
@@ -1203,7 +1203,7 @@
   {
    "id": "scen112.0192",
    "jp": "ま、待て、バカ！{n}そんなのぞき方したら、怪しまれるだろうが！",
-   "en": "H-Hold it, idiot! Peeking in like that'll make us look{n}suspicious!",
+   "en": "H-Hold it, idiot! Peeking in like that'll make us{n}look suspicious!",
    "term": "end"
   },
   {
@@ -1215,7 +1215,7 @@
   {
    "id": "scen112.0194",
    "jp": "まったく‥‥。{n}世話を焼かせるなよ、新米。{p}俺たちは、例の娘が宿屋に泊まっているかどうか{n}調べるだけでいいんだ。{n}いつもの仕事みたいに警戒する必要はねぇよ。{p}堂々と行こうぜ、堂々と。",
-   "en": "Sheesh... Don't make me babysit you, rookie.{p}All we gotta do is find out if that girl's staying at the{n}inn. No need to be as wary as we are on our usual{n}jobs.{p}Let's just walk right up. Act natural.",
+   "en": "Sheesh... Don't make me babysit you, rookie.{p}All we gotta do is find out if that girl's staying at the{n}inn. No need to be as wary as we are on our{n}usual jobs.{p}Let's just walk right up. Act natural.",
    "term": "end"
   },
   {
@@ -1296,7 +1296,7 @@
   {
    "id": "scen112.0207",
    "jp": "この野郎！{n}下手に出れば、つけ上がりやがって！",
-   "en": "You bastard! I try being nice, and you get all high and{n}mighty!",
+   "en": "You bastard! I try being nice, and you get all high{n}and mighty!",
    "term": "end"
   },
   {
@@ -1350,13 +1350,13 @@
   {
    "id": "scen112.0216",
    "jp": "お店の番、引き受けたんだから、{n}ちゃんとやらないとダメだよ？{p}暇だけど、おばさんが戻ってくるまで{n}ここでじっと待ってようね。",
-   "en": "You agreed to mind the shop, so you'd better do it{n}properly!{p}It's boring, but let's stay put until that lady gets back.",
+   "en": "You agreed to mind the shop, so you'd better do{n}it properly!{p}It's boring, but let's stay put until that lady gets back.",
    "term": "end"
   },
   {
    "id": "scen112.0217",
    "jp": "ま、アタシもつき合ってあげるから、感謝しなさい！",
-   "en": "Well, I'll keep you company, so you'd better be{n}grateful!",
+   "en": "Well, I'll keep you company, so you'd better{n}be grateful!",
    "term": "end"
   },
   {
@@ -1422,7 +1422,7 @@
   {
    "id": "scen112.0228",
    "jp": "これから俺様が作ったヒントを頼りに、{n}宝物を探してみな！{p}あちこちにヒントがあるが、{n}あまりヒントを見ずに宝をゲットすれば、{n}高ポイントだ！{p}もっとも何が高ポイントかって聞かれても困るけどよ。{n}まぁ、自分への挑戦だとでも思ってくれ。",
-   "en": "Now, try finding the treasure using the clues I came{n}up with!{p}I've left clues all over the place, but you'll score more{n}points if you find the treasure without reading too{n}many!{p}Mind you, don't ask me what those points are good for.{n}Just think of it as a challenge for yourself.",
+   "en": "Now, try finding the treasure using the clues I came{n}up with!{p}I've left clues all over the place, but you'll score more{n}points if you find the treasure without reading{n}too many!{p}Mind you, don't ask me what those points are good for.{n}Just think of it as a challenge for yourself.",
    "term": "end"
   },
   {
@@ -1458,7 +1458,7 @@
   {
    "id": "scen112.0234",
    "jp": "普通に歩くだけじゃ、隠し場所には行けないぜ。",
-   "en": "You ain't gonna reach the hiding place just by walking{n}around.",
+   "en": "You ain't gonna reach the hiding place just by{n}walking around.",
    "term": "end"
   },
   {
@@ -1482,7 +1482,7 @@
   {
    "id": "scen112.0238",
    "jp": "張り紙、見たか？{n}あれ以上のヒントはないぞ？",
-   "en": "Seen the notice? You won't find a better hint than{n}that.",
+   "en": "Seen the notice? You won't find a better hint{n}than that.",
    "term": "end"
   },
   {
@@ -1542,7 +1542,7 @@
   {
    "id": "scen112.0248",
    "jp": "何の変化もない。{n}どうやら、このボタンではないようだ。",
-   "en": "Nothing happens. This doesn't seem to be the right{n}button.",
+   "en": "Nothing happens. This doesn't seem to be the{n}right button.",
    "term": "end"
   },
   {
@@ -1668,7 +1668,7 @@
   {
    "id": "scen112.0269",
    "jp": "左から順に、どう並んでいると思う？",
-   "en": "What order do you think they're in, starting from the{n}left?",
+   "en": "What order do you think they're in, starting from{n}the left?",
    "term": "end"
   },
   {
@@ -1734,7 +1734,7 @@
   {
    "id": "scen112.0279",
    "jp": "ま、放っておくのもなんだし、探してあげようよ？",
-   "en": "We can't just leave them there. Come on, let's find{n}them!",
+   "en": "We can't just leave them there. Come on, let's{n}find them!",
    "term": "end"
   },
   {

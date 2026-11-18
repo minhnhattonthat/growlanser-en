@@ -183,7 +183,7 @@
   {
    "id": "scen050.0029",
    "jp": "アンタ達、薬草売りだって？{n}薬草を探すならローランディア王国に{n}いい場所があるって聞いたことがあるよ。{p}この辺りに、何か珍しいものでも採れるのかい？",
-   "en": "So, you sell medicinal herbs, do you? I've heard there's{n}a good place to gather them in the Kingdom of{n}Rolandia.{p}Can you find something unusual around here?",
+   "en": "So, you sell medicinal herbs, do you? I've heard there's{n}a good place to gather them in the Kingdom{n}of Rolandia.{p}Can you find something unusual around here?",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen050.0033",
    "jp": "ジュリアン様って素敵なのよ‥‥。{n}もう私、メロメロ‥‥。",
-   "en": "Julian-sama is so wonderful... Oh, I'm completely{n}smitten...",
+   "en": "Julian-sama is so wonderful... Oh, I'm{n}completely smitten...",
    "term": "end"
   },
   {
@@ -347,7 +347,7 @@
   {
    "id": "scen050.0055",
    "jp": "ジュリアン将軍か‥‥。{n}敵ながら、りりしくて格好良かったな。",
-   "en": "General Julian, eh...? An enemy, but so gallant and{n}handsome.",
+   "en": "General Julian, eh...? An enemy, but so gallant{n}and handsome.",
    "term": "end"
   },
   {
@@ -359,13 +359,13 @@
   {
    "id": "scen050.0057",
    "jp": "ちょっと前まで、{n}街外れの一軒家に、人が出入りしていたんだけど‥‥。{n}急に静かになったなぁ。",
-   "en": "Until recently, people were coming and going from that{n}house on the edge of town... Then it suddenly went{n}quiet.",
+   "en": "Until recently, people were coming and going from that{n}house on the edge of town... Then it suddenly{n}went quiet.",
    "term": "end"
   },
   {
    "id": "scen050.0058",
    "jp": "ガラシールズはバーンシュタイン軍に占領されている。{n}下手に出ていって、{n}街の人を戦闘に巻き込むマネはよせ。",
-   "en": "Galashiels is occupied by the Burnstein army. Don't go{n}blundering out there and drag the townspeople into a{n}fight.",
+   "en": "Galashiels is occupied by the Burnstein army. Don't go{n}blundering out there and drag the townspeople into{n}a fight.",
    "term": "end"
   },
   {
@@ -407,7 +407,7 @@
   {
    "id": "scen050.0065",
    "jp": "何がしたいんだ？{n}用がないなら戻れ！",
-   "en": "What do you want? If you've no business here, turn{n}back!",
+   "en": "What do you want? If you've no business here,{n}turn back!",
    "term": "end"
   },
   {
@@ -491,7 +491,7 @@
   {
    "id": "scen050.0079",
    "jp": "{v:003B}私の部下が世話になったようだな。",
-   "en": "{v:003B}It seems I owe you thanks for helping my{n}subordinate.",
+   "en": "{v:003B}It seems I owe you thanks for helping{n}my subordinate.",
    "term": "end"
   },
   {
@@ -509,7 +509,7 @@
   {
    "id": "scen050.0082",
    "jp": "{v:003E}ふむ‥‥。{p}{v:003F}そういえば、お前たちは{n}アルカディウス王の使いであったな？",
-   "en": "{v:003E}Hmm...{p}{v:003F}Come to think of it, you are King Alcadius's envoys,{n}correct?",
+   "en": "{v:003E}Hmm...{p}{v:003F}Come to think of it, you are King Alcadius's{n}envoys, correct?",
    "term": "end"
   },
   {
@@ -737,7 +737,7 @@
   {
    "id": "scen050.0120",
    "jp": "せっかくここまで来たというのに、{n}先へ進めないんだ。",
-   "en": "We've come all this way, and now we can't go any{n}farther.",
+   "en": "We've come all this way, and now we can't go{n}any farther.",
    "term": "end"
   },
   {

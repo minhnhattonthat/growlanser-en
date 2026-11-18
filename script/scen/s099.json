@@ -51,7 +51,7 @@
   {
    "id": "scen099.0007",
    "jp": "おい！{n}エリオットの行為を無駄にする気か？",
-   "en": "Hey! You trying to make everything Elliot did go to{n}waste?",
+   "en": "Hey! You trying to make everything Elliot did go{n}to waste?",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen099.0014",
    "jp": "{v:0007}私も忍びの外出ゆえ、{n}通達を出していなかったのだから、仕方ないがな。",
-   "en": "{v:0007}I was traveling incognito and sent no notice, so it is{n}understandable.",
+   "en": "{v:0007}I was traveling incognito and sent no notice, so it{n}is understandable.",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen099.0037",
    "jp": "ん？{n}お前たちどこかで‥‥。{n}気のせいか‥‥。",
-   "en": "Hmm? Haven't I seen you somewhere...? Must be my{n}imagination...",
+   "en": "Hmm? Haven't I seen you somewhere...? Must be{n}my imagination...",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen099.0041",
    "jp": "{v:0015}どうするんですか！{n}こんなところに隠れる場所はありませんよ！",
-   "en": "{v:0015}What are we going to do?! There's nowhere to hide{n}here!",
+   "en": "{v:0015}What are we going to do?! There's nowhere to{n}hide here!",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen099.0050",
    "jp": "{v:001D}カ、カレン‥‥。{n}お前、まだそいつらと一緒にいたのか！？{p}{v:001E}これ以上そいつらと一緒にいるなと、{n}手紙を送っただろう！？",
-   "en": "{v:001D}K-Karen... You're still with them?!{p}{v:001E}Didn't I send you a letter telling you to stay away from{n}them?!",
+   "en": "{v:001D}K-Karen... You're still with them?!{p}{v:001E}Didn't I send you a letter telling you to stay away{n}from them?!",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen099.0058",
    "jp": "{v:0029}おい、待てよ。{n}今、誰と言った？{n}ガムランと言わなかったか？",
-   "en": "{v:0029}Hey, hold on. Who did you just say? Did you say{n}Gamlan?",
+   "en": "{v:0029}Hey, hold on. Who did you just say? Did you{n}say Gamlan?",
    "term": "end"
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "scen099.0063",
    "jp": "{v:0033}そんな‥‥そんな‥‥。{n}ならば、俺のやってきたことは‥‥いったい‥‥。",
-   "en": "{v:0033}No... No... Then what... what have I been doing all this{n}time...?",
+   "en": "{v:0033}No... No... Then what... what have I been doing all{n}this time...?",
    "term": "end"
   },
   {
@@ -576,7 +576,7 @@
   {
    "id": "scen099.0094",
    "jp": "{v:0009}えぇ～～～っ！？{n}せっかくここまで来たのに、違うのぉ～？",
-   "en": "{v:0009}Whaaat?! We came all this way, and it's the wrong{n}place?!",
+   "en": "{v:0009}Whaaat?! We came all this way, and it's the{n}wrong place?!",
    "term": "end"
   },
   {

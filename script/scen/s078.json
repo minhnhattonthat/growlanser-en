@@ -81,7 +81,7 @@
   {
    "id": "scen078.0012",
    "jp": "ちょっと！{n}いったんガスがおさまるのを待たないと{n}危ないでしょ！",
-   "en": "Hey! It's dangerous unless we wait for the gas to stop{n}first!",
+   "en": "Hey! It's dangerous unless we wait for the gas to{n}stop first!",
    "term": "end"
   },
   {
@@ -213,13 +213,13 @@
   {
    "id": "scen078.0034",
    "jp": "別に用ってほどの事じゃないんだけど‥‥。",
-   "en": "Well, we don't really have any particular business{n}here...",
+   "en": "Well, we don't really have any particular{n}business here...",
    "term": "end"
   },
   {
    "id": "scen078.0035",
    "jp": "ここは危険なところで、{n}地元の者でも絶対に足を踏み入れないんだ。{p}もし鉱山街に行きたいなら、分かれ道を北に。{n}温泉の街コムスプリングスへ行くなら、{n}南に進めばいい。",
-   "en": "This place is dangerous. Even the locals won't set foot{n}inside.{p}If you're going to the mining town, head north at the{n}fork. For the hot spring town of Comsprings, head{n}south.",
+   "en": "This place is dangerous. Even the locals won't set{n}foot inside.{p}If you're going to the mining town, head north at the{n}fork. For the hot spring town of Comsprings,{n}head south.",
    "term": "end"
   },
   {
@@ -249,13 +249,13 @@
   {
    "id": "scen078.0040",
    "jp": "他の魔法は使えそうだけど、{n}テレポートだけはダメだよ‥‥。{p}全然集中できないの！",
-   "en": "I think I can use other magic, but Teleport just won't{n}work...{p}I can't concentrate at all!",
+   "en": "I think I can use other magic, but Teleport just{n}won't work...{p}I can't concentrate at all!",
    "term": "end"
   },
   {
    "id": "scen078.0041",
    "jp": "おい。{n}俺たちの命は{s:0000}に預ける。{n}お前の判断がすべてだ。",
-   "en": "Listen. We're putting our lives in your hands,{n}{s:0000}. It all comes down to your{n}judgment.",
+   "en": "Listen. We're putting our lives in your hands,{n}{s:0000}. It all comes down to{n}your judgment.",
    "term": "end"
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "scen078.0063",
    "jp": "{v:0022}どうやらこのモンスターを倒さないと近づけないな。{p}{v:0023}時間がない。{n}誰かがクリアノ草を取ったら、急いで脱出しよう。",
-   "en": "{v:0022}Looks like we can't get near it without beating these{n}monsters.{p}{v:0023}We're short on time. Once someone grabs the Kuriano{n}Herb, let's get out fast.",
+   "en": "{v:0022}Looks like we can't get near it without beating{n}these monsters.{p}{v:0023}We're short on time. Once someone grabs the Kuriano{n}Herb, let's get out fast.",
    "term": "end"
   },
   {

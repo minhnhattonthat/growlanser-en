@@ -108,7 +108,7 @@
   {
    "id": "scen255.0016",
    "jp": "それは言い過ぎだろう？{n}ルイセはいい妹じゃないか。",
-   "en": "That's going a bit far, isn't it? Luise's a good little{n}sister.",
+   "en": "That's going a bit far, isn't it? Luise's a good{n}little sister.",
    "term": "end"
   },
   {
@@ -132,7 +132,7 @@
   {
    "id": "scen255.0020",
    "jp": "{s:0000}か‥‥。{n}{FE1E}今日は何を話したものかな‥‥。",
-   "en": "Ah, {s:0000}... {FE1E}What should we talk about{n}today...?",
+   "en": "Ah, {s:0000}... {FE1E}What should we talk{n}about today...?",
    "term": "end"
   },
   {
@@ -144,7 +144,7 @@
   {
    "id": "scen255.0022",
    "jp": "そして今はサンドラ様の息子である、{n}お前につきあうことを誓った。{p}最初は、お前が独り立ち出来れば、{n}俺はお前たちから別れて隊長を捜すつもりだった。{p}だが、ゲヴェルが隊長の一件にからんでいる事を{n}知ってからは、その考え方も変わった。{p}お前たちについていけば、{n}隊長には会えなくとも隊長の手がかりに{n}出会えるかもしれないとな。",
-   "en": "And now I've sworn to stick with you, Sandra-sama's{n}son.{p}At first, I meant to leave you all and go looking for the{n}captain once you could stand on your own.{p}But that changed when I learned Gevel was involved in{n}what happened to him.{p}I thought that if I stayed with you, I might find a lead{n}on the captain, even if I didn't find the man himself.",
+   "en": "And now I've sworn to stick with you,{n}Sandra-sama's son.{p}At first, I meant to leave you all and go looking for the{n}captain once you could stand on your own.{p}But that changed when I learned Gevel was involved in{n}what happened to him.{p}I thought that if I stayed with you, I might find a lead{n}on the captain, even if I didn't find the man himself.",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen255.0029",
    "jp": "ありがとよ。{n}俺は絶対に会ってみせる。{p}{FE1E}そのために２０年もこの世界を{n}放浪していたんだからな。",
-   "en": "Thanks. I'll find him. You can count on that.{p}{FE1E}That's why I've spent twenty years wandering this{n}world.",
+   "en": "Thanks. I'll find him. You can count on that.{p}{FE1E}That's why I've spent twenty years wandering{n}this world.",
    "term": "end"
   },
   {
@@ -246,7 +246,7 @@
   {
    "id": "scen255.0038",
    "jp": "ああ、傭兵時代の仲間のことは{n}忘れられない。{p}だがな、今は仲間って言ったら{n}お前たちの事だぜ。",
-   "en": "Yeah, I'll never forget the men I fought beside as a{n}mercenary.{p}But these days, when I talk about my companions, I{n}mean you lot.",
+   "en": "Yeah, I'll never forget the men I fought beside as{n}a mercenary.{p}But these days, when I talk about my companions, I{n}mean you lot.",
    "term": "end"
   },
   {
@@ -306,7 +306,7 @@
   {
    "id": "scen255.0048",
    "jp": "{v:007E}俺は目が見えない代わりに、{n}他人の気配ってやつがよく分かる。{p}{v:007F}どうも、お前と一緒にいるときの反応が{n}普段と違う感じだったんでな。",
-   "en": "{v:007E}I can't see, but I've got a keen sense of other people's{n}presence.{p}{v:007F}She seemed to react differently around you than she{n}usually does.",
+   "en": "{v:007E}I can't see, but I've got a keen sense of other{n}people's presence.{p}{v:007F}She seemed to react differently around you than she{n}usually does.",
    "term": "end"
   },
   {
@@ -519,7 +519,7 @@
   {
    "id": "scen255.0082",
    "jp": "いい湯だったぜ。{n}しかし、お前も風呂が好きだな。",
-   "en": "That was a good soak. You sure do like your baths,{n}kid.",
+   "en": "That was a good soak. You sure do like your{n}baths, kid.",
    "term": "end"
   },
   {
@@ -600,7 +600,7 @@
   {
    "id": "scen255.0095",
    "jp": "{v:00C0}アンタ、なに偉そうにしてるのよ！{n}忘れてるくせに！",
-   "en": "{v:00C0}What are you acting so smug for?! You don't remember{n}either!",
+   "en": "{v:00C0}What are you acting so smug for?! You don't{n}remember either!",
    "term": "end"
   },
   {
@@ -630,7 +630,7 @@
   {
    "id": "scen255.0100",
    "jp": "{v:00C5}そーよ、この寂しいおじさんになんて事言うのよ！",
-   "en": "{v:00C5}That's right! How could you say that to this lonely old{n}man?!",
+   "en": "{v:00C5}That's right! How could you say that to this lonely{n}old man?!",
    "term": "end"
   },
   {
@@ -654,7 +654,7 @@
   {
    "id": "scen255.0104",
    "jp": "{v:00C9}１７年前、死ぬことを考えていた母娘を{n}助けた事を覚えていらっしゃいませんか？",
-   "en": "{v:00C9}Do you remember saving a mother and daughter who{n}were thinking of ending their lives seventeen years{n}ago?",
+   "en": "{v:00C9}Do you remember saving a mother and daughter who{n}were thinking of ending their lives seventeen{n}years ago?",
    "term": "end"
   },
   {
@@ -666,7 +666,7 @@
   {
    "id": "scen255.0106",
    "jp": "{v:00CC}お世話になったあなたのことを、母が口癖のように{n}言っていたので、一目見て分かりました。{p}{v:00CD}私が母と一緒にいられるのは、{n}全部あなたのおかげです。{p}{v:00CE}あなたに助けていただかなければ、{n}私たちは今頃どうなっていたか‥‥。",
-   "en": "{v:00CC}Mother spoke so often of the man who helped us that{n}I recognized you at once.{p}{v:00CD}It's entirely thanks to you that I could stay with{n}Mother.{p}{v:00CE}If you hadn't saved us, I don't know what would have{n}become of us...",
+   "en": "{v:00CC}Mother spoke so often of the man who helped us that{n}I recognized you at once.{p}{v:00CD}It's entirely thanks to you that I could stay{n}with Mother.{p}{v:00CE}If you hadn't saved us, I don't know what would have{n}become of us...",
    "term": "end"
   },
   {
@@ -843,7 +843,7 @@
   {
    "id": "scen255.0135",
    "jp": "‥‥{s:0000}か。{n}お前にはいろいろと話したものだ。{p}２０年近く一人で放浪を続けて、{n}じっくり誰かと話すことなどなかったからな。{p}今まで、寂しいと思ったことはなかったが、{n}こうして話しが出来るのはいいもんだ。{p}男同士、２人でもじっくり語り合えるのが{n}本当の友ってものさ。",
-   "en": "...Oh, {s:0000}. I've told you quite a few{n}stories.{p}Spent nearly twenty years wandering alone. Never had{n}much chance to sit and talk with anyone.{p}Never thought of myself as lonely, but it's good to be{n}able to talk like this.{p}Two men who can sit down alone and really talk... That's{n}what true friends are.",
+   "en": "...Oh, {s:0000}. I've told you quite a{n}few stories.{p}Spent nearly twenty years wandering alone. Never had{n}much chance to sit and talk with anyone.{p}Never thought of myself as lonely, but it's good to be{n}able to talk like this.{p}Two men who can sit down alone and really talk... That's{n}what true friends are.",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen255.0144",
    "jp": "こいつの教訓は、{n}休暇中でも浮かれ過ぎるなってことだ。{p}常に適度な緊張を保っておけ。{n}それが戦士の勤めだ。{p}ま、堅くなる必要はない。{n}要は自分自身を把握できるようにしろってことだ。{n}がんばれよ。",
-   "en": "The lesson is, don't get too carried away, even on{n}leave.{p}Always keep your guard up a little. That's a warrior's{n}duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in hand. You'll get there.",
+   "en": "The lesson is, don't get too carried away, even{n}on leave.{p}Always keep your guard up a little. That's a{n}warrior's duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in hand. You'll get there.",
    "term": "end"
   },
   {
@@ -911,7 +911,7 @@
   {
    "id": "scen255.0146",
    "jp": "そうだな‥‥{FE1E}また昔話でもするか。{n}前に話した、傭兵時代の仲間の話だ。{p}そいつは腕がよかったんで、{n}他の奴らより多めに稼いでいたのさ。{p}そこでそいつは、かさばらずにすむように、{n}稼ぎを宝石にして持ち歩こうと考えた。",
-   "en": "Let's see...{FE1E}How about another old story? About that{n}comrade from my mercenary days I mentioned before.{p}He was good at his work, so he earned more than the{n}others.{p}He figured he'd turn his earnings into gems. Less bulk{n}to carry around.",
+   "en": "Let's see...{FE1E}How about another old story? About that{n}comrade from my mercenary days I mentioned before.{p}He was good at his work, so he earned more than{n}the others.{p}He figured he'd turn his earnings into gems. Less bulk{n}to carry around.",
    "term": "end"
   },
   {
@@ -956,7 +956,7 @@
   {
    "id": "scen255.0153",
    "jp": "お前もそう思うか。{n}他人の失敗ってのは面白いもんさ。",
-   "en": "You think so too, eh? Other people's mistakes can be{n}funny.",
+   "en": "You think so too, eh? Other people's mistakes can{n}be funny.",
    "term": "end"
   },
   {
@@ -968,7 +968,7 @@
   {
    "id": "scen255.0155",
    "jp": "元ランザックの宝石商って奴がたまたま部隊にいてな。{p}知ってるか？{n}{FE1E}ランザックってのは、大陸でも有数の宝石の産地だ。{n}そこの宝石商だからな、腕の方は信用できる。{p}で、偽物と分かった時には遅かった。{n}{FE1E}もう店は跡形もなく消えていて、{n}後に残ったのは偽物の石だけってオチだ。",
-   "en": "There happened to be a former Ranzak jeweler in the{n}company.{p}Did you know? {FE1E}Ranzak is one of the continent's leading{n}sources of gems. You can trust a jeweler from there to{n}know his trade.{p}But by the time they found out it was fake, it was too{n}late. {FE1E}The shop had vanished without a trace. All he had{n}left was a worthless stone.",
+   "en": "There happened to be a former Ranzak jeweler in{n}the company.{p}Did you know? {FE1E}Ranzak is one of the continent's leading{n}sources of gems. You can trust a jeweler from there to{n}know his trade.{p}But by the time they found out it was fake, it was too{n}late. {FE1E}The shop had vanished without a trace. All he had{n}left was a worthless stone.",
    "term": "end"
   },
   {
@@ -1132,7 +1132,7 @@
   {
    "id": "scen255.0181",
    "jp": "と、まあ‥‥{FE1E}こんな感じだったんだがな。{p}ゲヴェルの事件の後、次々と仲間たちは抜けて、{n}孤独が平気‥‥{FE0A}ってな顔をしてきたが‥‥。{p}‥‥部隊の連中が集まって騒いだ狭い酒場が、{n}広く見えた時は、何だか例えようもなく{n}虚ろな気分になったのを覚えてるぜ‥‥。{p}‥‥あいつらが居たからこそ、{n}大事な物が見えてたんだな‥‥。{p}仲間ってヤツは、いなくなってから大切だと分かる。{n}{FE1E}‥‥因果なもんだ。",
-   "en": "Well...{FE1E}that's how it was.{p}After the Gevel incident, the others left one by one. I{n}acted like being alone...{FE0A}didn't bother me.{p}...But I remember when that cramped tavern, where{n}the whole unit used to raise hell, started looking{n}spacious. Never felt so empty in my life...{p}...Having those guys around was what let me see what{n}mattered...{p}You only learn how much your comrades mean to you{n}once they're gone. {FE1E}...Hell of a thing.",
+   "en": "Well...{FE1E}that's how it was.{p}After the Gevel incident, the others left one by one. I{n}acted like being alone...{FE0A}didn't bother me.{p}...But I remember when that cramped tavern, where{n}the whole unit used to raise hell, started looking{n}spacious. Never felt so empty in my life...{p}...Having those guys around was what let me see{n}what mattered...{p}You only learn how much your comrades mean to you{n}once they're gone. {FE1E}...Hell of a thing.",
    "term": "end"
   },
   {
@@ -1150,7 +1150,7 @@
   {
    "id": "scen255.0184",
    "jp": "‥‥俺が探している隊長の事を、{n}お前には話しておきたい。",
-   "en": "...I want to tell you about the captain I've been looking{n}for.",
+   "en": "...I want to tell you about the captain I've been{n}looking for.",
    "term": "end"
   },
   {
@@ -1183,7 +1183,7 @@
   {
    "id": "scen255.0189",
    "jp": "強かったぜ‥‥{FE1E}心も剣もな。{p}なんせ、誰ともつるまなかった俺が部隊に入ったのは{n}その背中にならついていってもいい‥‥{n}{FE1E}そう思ったからだ。",
-   "en": "He was strong...{FE1E}in spirit and with a sword.{p}I never ran with anyone. But I joined his unit because I{n}figured he was a man I could follow...{FE1E}That's what I{n}thought.",
+   "en": "He was strong...{FE1E}in spirit and with a sword.{p}I never ran with anyone. But I joined his unit because I{n}figured he was a man I could follow...{FE1E}That's what{n}I thought.",
    "term": "end"
   },
   {

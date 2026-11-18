@@ -63,13 +63,13 @@
   {
    "id": "scen062.0009",
    "jp": "もう少し早く駆けつけられれば、{n}私も手を貸せたのだが‥‥。",
-   "en": "If only I had arrived a little sooner, I could have{n}helped...",
+   "en": "If only I had arrived a little sooner, I could{n}have helped...",
    "term": "end"
   },
   {
    "id": "scen062.0010",
    "jp": "‥‥私はナイツの名にかけて、市民を守る‥‥。",
-   "en": "...On my honor as an Imperial Knight, I will protect the{n}citizens...",
+   "en": "...On my honor as an Imperial Knight, I will protect{n}the citizens...",
    "term": "end"
   },
   {
@@ -269,7 +269,7 @@
   {
    "id": "scen062.0043",
    "jp": "リシャールとライエルがいないそうですね。{n}先ほどリーヴスから報告を受けました‥‥。{n}何事もなければ良いのですが‥‥。",
-   "en": "I hear that Richard and Lyell are missing. Reeves{n}reported it to me a little while ago... I hope nothing is{n}wrong...",
+   "en": "I hear that Richard and Lyell are missing. Reeves{n}reported it to me a little while ago... I hope nothing{n}is wrong...",
    "term": "end"
   },
   {
@@ -293,7 +293,7 @@
   {
    "id": "scen062.0047",
    "jp": "はやくゲヴェルを倒して、{n}平和な世界を作りたいですね。",
-   "en": "I hope we can defeat Gevel soon and make the world{n}peaceful.",
+   "en": "I hope we can defeat Gevel soon and make the{n}world peaceful.",
    "term": "end"
   },
   {

@@ -357,7 +357,7 @@
   {
    "id": "scen180.0058",
    "jp": "そうか、我が隊を混乱させているのは{n}お前たちだったのか‥‥。{p}よくここまで腕を上げたものだ。{n}だが次はこうはいかんぞ！",
-   "en": "I see. So you were the ones throwing my troops into{n}confusion...{p}Your skills have improved considerably. But next time{n}will be different!",
+   "en": "I see. So you were the ones throwing my troops{n}into confusion...{p}Your skills have improved considerably. But next time{n}will be different!",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen180.0072",
    "jp": "{v:0018}何か問題が起こって、{n}伝令をよこしたのかもしれんぞ。",
-   "en": "{v:0018}Perhaps something went wrong and they sent a{n}messenger.",
+   "en": "{v:0018}Perhaps something went wrong and they sent{n}a messenger.",
    "term": "end"
   },
   {
@@ -549,7 +549,7 @@
   {
    "id": "scen180.0090",
    "jp": "{v:002D}そうか、我が隊を混乱させているのはお前たちか。",
-   "en": "{v:002D}I see. So you are the ones throwing my troops into{n}confusion.",
+   "en": "{v:002D}I see. So you are the ones throwing my troops{n}into confusion.",
    "term": "end"
   },
   {
@@ -607,7 +607,7 @@
   {
    "id": "scen180.0099",
    "jp": "{v:0032}まあ、いい。{n}お前とは敵であるという事実だけで十分だ！",
-   "en": "{v:0032}Very well. The fact that we are enemies is all I need to{n}know!",
+   "en": "{v:0032}Very well. The fact that we are enemies is all I need{n}to know!",
    "term": "end"
   },
   {
@@ -649,7 +649,7 @@
   {
    "id": "scen180.0106",
    "jp": "{v:0039}その声はジュリアンか。{n}一軍を指揮するようになったのか。",
-   "en": "{v:0039}That voice... Julian? So you're commanding an army{n}now.",
+   "en": "{v:0039}That voice... Julian? So you're commanding an{n}army now.",
    "term": "end"
   },
   {

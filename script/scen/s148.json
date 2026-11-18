@@ -465,13 +465,13 @@
   {
    "id": "scen148.0076",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
    "id": "scen148.0077",
    "jp": "{n}　　　　　お買い物は南大通り商店街へ",
-   "en": "{n}　　　　　For all your shopping, visit South Avenue{n}Shopping{p}District!",
+   "en": "{n}　　　　　For all your shopping, visit South{n}Avenue Shopping{p}District!",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen148.0082",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {
@@ -555,7 +555,7 @@
   {
    "id": "scen148.0091",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "Where do you think you're going, leaving everyone{n}behind?!",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {
@@ -579,7 +579,7 @@
   {
    "id": "scen148.0095",
    "jp": "ルイセちゃん、コイツ、ルイセちゃんに{n}お誕生日プレゼント買ってあるんだよ。",
-   "en": "Luise-chan, this guy's already bought you a birthday{n}present!",
+   "en": "Luise-chan, this guy's already bought you a{n}birthday present!",
    "term": "end"
   },
   {

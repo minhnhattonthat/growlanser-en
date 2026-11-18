@@ -304,7 +304,7 @@
   {
    "id": "scen027.0047",
    "jp": "なんか俺たち、魔法の実験にでも{n}使われているんじゃ‥‥。",
-   "en": "You don't think they're using us for some kind of magic{n}experiment...?",
+   "en": "You don't think they're using us for some kind of{n}magic experiment...?",
    "term": "end"
   },
   {
@@ -697,7 +697,7 @@
   {
    "id": "scen027.0108",
    "jp": "{FC05}{v:00A2}あー、びっくりした！{FFF9}{FFFB}{n}{FC00}‥‥{v:00A3}あら、ルイセちゃんじゃない。{n}どうしたの？",
-   "en": "{FC05}{v:00A2}Oh, you startled me!{FFF9}{FFFB}{FC00}...{v:00A3}Oh, it's you, Luise-chan. What's the{n}matter?",
+   "en": "{FC05}{v:00A2}Oh, you startled me!{FFF9}{FFFB}{FC00}...{v:00A3}Oh, it's you, Luise-chan. What's{n}the matter?",
    "term": "end"
   },
   {
@@ -715,7 +715,7 @@
   {
    "id": "scen027.0111",
    "jp": "{v:00A6}それより、聞いて、聞いて！{n}さっきね、すっごく素敵な人に会ったの！",
-   "en": "{v:00A6}Anyway, listen, listen! I just met the most wonderful{n}guy!",
+   "en": "{v:00A6}Anyway, listen, listen! I just met the most{n}wonderful guy!",
    "term": "end"
   },
   {
@@ -787,7 +787,7 @@
   {
    "id": "scen027.0123",
    "jp": "{FB00}{v:00B3}もう、ちゃんと紹介してあげるから、こっちきて！",
-   "en": "{FB00}{v:00B3}Oh, come on! I'll introduce you properly, so come over{n}here!",
+   "en": "{FB00}{v:00B3}Oh, come on! I'll introduce you properly, so come{n}over here!",
    "term": "end"
   },
   {
@@ -901,7 +901,7 @@
   {
    "id": "scen027.0142",
    "jp": "{v:00CA}急げば遺跡の中で会えそうだね。",
-   "en": "{v:00CA}If we hurry, we should be able to catch him in the{n}ruins.",
+   "en": "{v:00CA}If we hurry, we should be able to catch him in{n}the ruins.",
    "term": "end"
   },
   {
@@ -937,7 +937,7 @@
   {
    "id": "scen027.0148",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
    "term": "end"
   },
   {
@@ -967,7 +967,7 @@
   {
    "id": "scen027.0153",
    "jp": "『{FFEF}グローシアンの特殊能力{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -1003,7 +1003,7 @@
   {
    "id": "scen027.0159",
    "jp": "『{FFEF}古代遺跡とその出土品{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -1021,13 +1021,13 @@
   {
    "id": "scen027.0162",
    "jp": "『{FFEF}謎の洞窟探索記{FFF1}』{n}もうすぐ入ります！{n}しばらくお待ち下さい！",
-   "en": "'{FFEF}Exploring the Mysterious Cave{FFF1}' Arriving soon! Please be{n}patient!",
+   "en": "'{FFEF}Exploring the Mysterious Cave{FFF1}' Arriving soon! Please{n}be patient!",
    "term": "end"
   },
   {
    "id": "scen027.0163",
    "jp": "『{FFEF}迷いの森遺跡調査報告{FFF1}』{n}貸し出し中！",
-   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Currently checked{n}out!",
+   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Currently{n}checked out!",
    "term": "end"
   },
   {
@@ -1108,7 +1108,7 @@
   {
    "id": "scen027.0175",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -1225,7 +1225,7 @@
   {
    "id": "scen027.0193",
    "jp": "教授は透明になる薬を研究しているの。",
-   "en": "The Professor is researching a potion that makes you{n}invisible.",
+   "en": "The Professor is researching a potion that makes{n}you invisible.",
    "term": "end"
   },
   {
@@ -1243,7 +1243,7 @@
   {
    "id": "scen027.0196",
    "jp": "体力を回復し、精神を研ぎ澄ますという{n}すばらしい調合を発見したんだが、{n}副作用が心配じゃ。{p}もっと実験を重ねないとのう‥‥。{n}ふふふ。",
-   "en": "I've discovered a marvelous concoction that restores{n}stamina and sharpens the mind, but the side effects{n}worry me, you see.{p}I'll have to conduct more experiments yet... Heh heh{n}heh.",
+   "en": "I've discovered a marvelous concoction that restores{n}stamina and sharpens the mind, but the side effects{n}worry me, you see.{p}I'll have to conduct more experiments yet... Heh{n}heh heh.",
    "term": "end"
   },
   {
@@ -1448,7 +1448,7 @@
   {
    "id": "scen027.0228",
    "jp": "{v:001B}えっとね、ピアスはルビーのティアドロップだよ。{n}で、口紅の色はね‥‥。",
-   "en": "{v:001B}Let's see, the earrings are ruby teardrops. And her{n}lipstick...",
+   "en": "{v:001B}Let's see, the earrings are ruby teardrops. And{n}her lipstick...",
    "term": "end"
   },
   {
@@ -1490,13 +1490,13 @@
   {
    "id": "scen027.0235",
    "jp": "{v:0022}はい。{n}時空の歪み計を見に行っているのです。",
-   "en": "{v:0022}Yes. He has gone to check the space-time distortion{n}gauge.",
+   "en": "{v:0022}Yes. He has gone to check the space-time{n}distortion gauge.",
    "term": "end"
   },
   {
    "id": "scen027.0236",
    "jp": "{v:001F}ええ。{n}今は空いている時間なので、{n}お会いになれると思いますが。",
-   "en": "{v:001F}Yes. He is free at the moment, so I believe he can see{n}you.",
+   "en": "{v:001F}Yes. He is free at the moment, so I believe he can{n}see you.",
    "term": "end"
   },
   {
@@ -1532,7 +1532,7 @@
   {
    "id": "scen027.0242",
    "jp": "もう、ケチね。{n}会うくらいいいじゃない。",
-   "en": "Hmph, what a meanie! What's wrong with just seeing{n}him?",
+   "en": "Hmph, what a meanie! What's wrong with just{n}seeing him?",
    "term": "end"
   },
   {
@@ -1574,7 +1574,7 @@
   {
    "id": "scen027.0249",
    "jp": "{v:005D}はい。{n}ブラッドレー副学院長は{n}呪術学研究のスペシャリストなのです。",
-   "en": "{v:005D}Yes. Vice Headmaster Bradley is a specialist in hexcraft{n}research.",
+   "en": "{v:005D}Yes. Vice Headmaster Bradley is a specialist in{n}hexcraft research.",
    "term": "end"
   },
   {
@@ -1616,7 +1616,7 @@
   {
    "id": "scen027.0256",
    "jp": "{v:00EE}実は、南の遺跡に入る許可をいただきたいのです。",
-   "en": "{v:00EE}Actually, we would like permission to enter the Southern{n}Ruins.",
+   "en": "{v:00EE}Actually, we would like permission to enter the{n}Southern Ruins.",
    "term": "end"
   },
   {
@@ -1640,7 +1640,7 @@
   {
    "id": "scen027.0260",
    "jp": "{v:002C}やった！{n}やっぱりそこだったんだ！{n}実はアリオストさんを探してたんだ。",
-   "en": "{v:002C}Yes! So that IS where he went! We've been looking for{n}Ariost-san!",
+   "en": "{v:002C}Yes! So that IS where he went! We've been looking{n}for Ariost-san!",
    "term": "end"
   },
   {
@@ -1664,7 +1664,7 @@
   {
    "id": "scen027.0264",
    "jp": "{v:0030}何すんのよ！{n}放せ、バカ、エロじじい！",
-   "en": "{v:0030}What do you think you're doing?! Let go, you stupid old{n}pervert!",
+   "en": "{v:0030}What do you think you're doing?! Let go, you stupid{n}old pervert!",
    "term": "end"
   },
   {
@@ -1682,7 +1682,7 @@
   {
    "id": "scen027.0267",
    "jp": "{v:0033}サンドラ殿のか。{n}さすが良くできておる。",
-   "en": "{v:0033}Sandra-dono's work, eh? As finely crafted as one would{n}expect.",
+   "en": "{v:0033}Sandra-dono's work, eh? As finely crafted as one{n}would expect.",
    "term": "end"
   },
   {
@@ -1871,7 +1871,7 @@
   {
    "id": "scen027.0297",
    "jp": "{v:00D2}これはね、時空の歪みを{n}測定するための装置だよ。{p}{v:00D3}エレベーターの上にあるセンサーが捕らえた歪みを{n}ここで記録しているんだ。",
-   "en": "{v:00D2}This is a device for measuring distortions in{n}space-time.{p}{v:00D3}It records the distortions detected by the sensor{n}above the elevator.",
+   "en": "{v:00D2}This is a device for measuring distortions{n}in space-time.{p}{v:00D3}It records the distortions detected by the sensor{n}above the elevator.",
    "term": "end"
   },
   {
@@ -1883,7 +1883,7 @@
   {
    "id": "scen027.0299",
    "jp": "{v:00D5}我々の世界は、無理矢理２つの時空を重ねることで{n}成り立っている。{n}つまり非常に不自然な世界なのだよ。{p}{v:00D6}この２つの時空が離れるということは我々にとって{n}死活問題だ。{p}{v:00D7}だから観測を怠るわけにはいかないのだよ。",
-   "en": "{v:00D5}Our world exists because two space-times have been{n}forcibly overlapped. In other words, it is a highly{n}unnatural world.{p}{v:00D6}The separation of these two space-times would be a{n}matter of life and death for us.{p}{v:00D7}That is why we cannot afford to neglect our{n}observations.",
+   "en": "{v:00D5}Our world exists because two space-times have been{n}forcibly overlapped. In other words, it is a highly{n}unnatural world.{p}{v:00D6}The separation of these two space-times would be a{n}matter of life and death for us.{p}{v:00D7}That is why we cannot afford to neglect{n}our observations.",
    "term": "end"
   },
   {
@@ -1919,7 +1919,7 @@
   {
    "id": "scen027.0305",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
@@ -2042,7 +2042,7 @@
   {
    "id": "scen027.0324",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "This is Vice Headmaster Bradley's laboratory, you{n}know.",
+   "en": "This is Vice Headmaster Bradley's laboratory,{n}you know.",
    "term": "end"
   },
   {

@@ -87,7 +87,7 @@
   {
    "id": "scen020.0013",
    "jp": "{v:006A}サンドラ様の塔の上で見るのですか？",
-   "en": "{v:006A}We will be watching from the top of Sandra-sama's{n}tower?",
+   "en": "{v:006A}We will be watching from the top of{n}Sandra-sama's tower?",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen020.0017",
    "jp": "{v:0085}サンドラ様の塔の上で見るのですか？",
-   "en": "{v:0085}We will be watching from the top of Sandra-sama's{n}tower?",
+   "en": "{v:0085}We will be watching from the top of{n}Sandra-sama's tower?",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen020.0027",
    "jp": "どこいくのよぉ～！{n}花火、見るんでしょぉ～！",
-   "en": "Where are you goooing?! We're watching the fireworks,{n}remember?!",
+   "en": "Where are you goooing?! We're watching the{n}fireworks, remember?!",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen020.0029",
    "jp": "{v:0032}ちょっと早いみたいだね。{n}ここでもう少し待ってようよ。",
-   "en": "{v:0032}Looks like we're a little early. Let's wait here a bit{n}longer.",
+   "en": "{v:0032}Looks like we're a little early. Let's wait here a{n}bit longer.",
    "term": "end"
   },
   {
@@ -379,7 +379,7 @@
   {
    "id": "scen020.0061",
    "jp": "{v:0029}うん、サイコー！{n}アタシ、こんな綺麗なの見るの初めて‥‥。{p}{FC02}{v:002A}こんな綺麗なものを{n}アンタの方がいっぱい見てたって思うと、{n}なんだかムカついてきた。{p}{FC00}{v:002B}ま、でも花火が綺麗だから許しちゃう★{n}それにしても、毎日花火をあげればいいのにね。",
-   "en": "{v:0029}Yeah, it's amazing! I've never seen anything this{n}pretty...{p}{FC02}{v:002A}Thinking how you've seen so many more beautiful things{n}like this than I have is starting to tick me off.{p}{FC00}{v:002B}Well, the fireworks are so pretty, I'll forgive you! Still,{n}I wish they'd set off fireworks every day.",
+   "en": "{v:0029}Yeah, it's amazing! I've never seen anything{n}this pretty...{p}{FC02}{v:002A}Thinking how you've seen so many more beautiful things{n}like this than I have is starting to tick me off.{p}{FC00}{v:002B}Well, the fireworks are so pretty, I'll forgive you! Still,{n}I wish they'd set off fireworks every day.",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen020.0077",
    "jp": "{v:0040}うん、屋根の上に登るのが禁止になっちゃった[01BE]",
-   "en": "{v:0040}Well, we weren't allowed to climb onto the roof{n}anymore.[01BE]",
+   "en": "{v:0040}Well, we weren't allowed to climb onto the{n}roof anymore.[01BE]",
    "term": "end"
   },
   {
@@ -579,7 +579,7 @@
   {
    "id": "scen020.0094",
    "jp": "{v:0057}アタシの記憶の中の花火よりずっと綺麗‥‥。{p}{v:0058}あ、誤解しないで下さい。{n}アタシまた暗くなってるわけじゃないです。{p}{FC05}{v:0059}自分が人間じゃないことでショックを受けたし、{n}嫌なことも色々あったのは事実ですけど‥‥。{p}{FC06}{v:005A}でもお兄さまに出会えたのも、{n}楽しいことをいっぱい経験できたのも、{n}こうして作られたおかげだって。",
-   "en": "{v:0057}They're so much prettier than the fireworks in my{n}memories...{p}{v:0058}Oh, please don't misunderstand. I'm not getting gloomy{n}again.{p}{FC05}{v:0059}Finding out I wasn't human was a shock, and yes, I've{n}been through some awful things...{p}{FC06}{v:005A}But being created this way is what let me meet you,{n}Big Brother, and experience so many wonderful things.",
+   "en": "{v:0057}They're so much prettier than the fireworks in{n}my memories...{p}{v:0058}Oh, please don't misunderstand. I'm not getting{n}gloomy again.{p}{FC05}{v:0059}Finding out I wasn't human was a shock, and yes, I've{n}been through some awful things...{p}{FC06}{v:005A}But being created this way is what let me meet you,{n}Big Brother, and experience so many wonderful things.",
    "term": "end"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "scen020.0109",
    "jp": "{v:0072}綺麗‥‥。{p}{v:0073}こんな綺麗な花火は久しぶりに見ました‥‥。",
-   "en": "{v:0072}Beautiful...{p}{v:0073}It's been so long since I've seen such beautiful{n}fireworks...",
+   "en": "{v:0072}Beautiful...{p}{v:0073}It's been so long since I've seen such{n}beautiful fireworks...",
    "term": "end"
   },
   {
@@ -687,7 +687,7 @@
   {
    "id": "scen020.0112",
    "jp": "{v:0074}昔は兄と一緒に、こんな風に花火を{n}見に行ったものです。{p}{v:0075}最近は見に行く機会に恵まれなくて、{n}寂しい思いをしていましたけど‥‥。",
-   "en": "{v:0074}My brother and I used to go and watch fireworks like{n}this.{p}{v:0075}I haven't had the chance lately, and I've been missing{n}it...",
+   "en": "{v:0074}My brother and I used to go and watch fireworks{n}like this.{p}{v:0075}I haven't had the chance lately, and I've been{n}missing it...",
    "term": "end"
   },
   {
@@ -815,7 +815,7 @@
   {
    "id": "scen020.0133",
    "jp": "{v:0098}マイ＝ロードのお側で花火を見られるなんて、{n}光栄です。",
-   "en": "{v:0098}It is an honor to watch the fireworks at your side, My{n}Lord.",
+   "en": "{v:0098}It is an honor to watch the fireworks at your side,{n}My Lord.",
    "term": "end"
   },
   {
@@ -901,7 +901,7 @@
   {
    "id": "scen020.0147",
    "jp": "{v:00A7}やはり、光が点滅するようにしか見えんな‥‥。{p}{v:00A8}だが腹の底に響くこの音が心地良い。{n}この力強い音が、俺には民衆の活気づいた勢いに{n}思えてな‥‥。{p}{v:00A9}ふっ、やる気が出てきたぜ。{n}あとはヴェンツェルを倒すだけだ！{p}{v:00AA}その時には俺を頼りにしてくれ。{n}この剣にかけて、必ずヤツを討ち倒す！",
-   "en": "{v:00A7}Just flashes of light to me, as I thought...{p}{v:00A8}But I like that sound. Feel it deep in your gut. To me,{n}that powerful rumble is the sound of the people{n}finding their spirit again...{p}{v:00A9}Heh. Gets my blood up. All that's left is to defeat{n}Wenzel!{p}{v:00AA}Count on me when the time comes. I swear on this{n}sword, I'll bring him down!",
+   "en": "{v:00A7}Just flashes of light to me, as I thought...{p}{v:00A8}But I like that sound. Feel it deep in your gut. To me,{n}that powerful rumble is the sound of the people{n}finding their spirit again...{p}{v:00A9}Heh. Gets my blood up. All that's left is to{n}defeat Wenzel!{p}{v:00AA}Count on me when the time comes. I swear on this{n}sword, I'll bring him down!",
    "term": "end"
   },
   {
@@ -975,7 +975,7 @@
   {
    "id": "scen020.0159",
    "jp": "{v:00B6}とにかく、こうやって高まってきた活気を{n}殺さないためにも、{n}僕たちはヴェンツェルに勝つ必要がある。{p}{v:00B7}それがどんなに困難な事でも、{n}僕たちは勝たなければならない。{p}{v:00B8}今までそうやって、多くの困難を乗り越えてきたんだ。{p}{v:00B9}諦めずに挑み続ければ、かならず出来る。{n}だから頑張っていこう。",
-   "en": "{v:00B6}In any case, we need to defeat Wenzel to keep this{n}renewed spirit from dying out.{p}{v:00B7}However difficult it may be, we have to win.{p}{v:00B8}That's how we've overcome so many difficulties{n}already.{p}{v:00B9}If we keep trying without giving up, we'll succeed. So{n}let's keep at it.",
+   "en": "{v:00B6}In any case, we need to defeat Wenzel to keep this{n}renewed spirit from dying out.{p}{v:00B7}However difficult it may be, we have to win.{p}{v:00B8}That's how we've overcome so many{n}difficulties already.{p}{v:00B9}If we keep trying without giving up, we'll succeed. So{n}let's keep at it.",
    "term": "end"
   },
   {
@@ -1029,7 +1029,7 @@
   {
    "id": "scen020.0168",
    "jp": "{v:00FB}仕方ありません。{n}花火大会は終わりですね。",
-   "en": "{v:00FB}There's nothing we can do. The fireworks festival is{n}over.",
+   "en": "{v:00FB}There's nothing we can do. The fireworks festival{n}is over.",
    "term": "end"
   },
   {
@@ -1065,7 +1065,7 @@
   {
    "id": "scen020.0174",
    "jp": "{v:00FC}まったく、あの野郎はろくなことしねぇな。",
-   "en": "{v:00FC}Damn it, that bastard never does anything but cause{n}trouble.",
+   "en": "{v:00FC}Damn it, that bastard never does anything but{n}cause trouble.",
    "term": "end"
   },
   {
@@ -1077,7 +1077,7 @@
   {
    "id": "scen020.0176",
    "jp": "{v:00E6}大変！{n}ヴェンツェルのヤツ、学院を破壊する気だよ！",
-   "en": "{v:00E6}Oh, no! That creep Wenzel's going to destroy the{n}Academy!",
+   "en": "{v:00E6}Oh, no! That creep Wenzel's going to destroy{n}the Academy!",
    "term": "end"
   },
   {
@@ -1089,7 +1089,7 @@
   {
    "id": "scen020.0178",
    "jp": "ちょっと！{n}マスターを放って、どこ行く気？",
-   "en": "Hey! Where do you think you're going, leaving Master{n}behind?",
+   "en": "Hey! Where do you think you're going, leaving{n}Master behind?",
    "term": "end"
   },
   {

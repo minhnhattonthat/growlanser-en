@@ -45,7 +45,7 @@
   {
    "id": "scen239.0006",
    "jp": "あ、ティピちゃん、{n}お兄さま{FFF0}♥{FFF1}{n}何か面白いこと、ありましたか？",
-   "en": "Oh, Tippi-chan! Big Brother{FFF0}♥{FFF1} Has anything fun{n}happened?",
+   "en": "Oh, Tippi-chan! Big Brother{FFF0}♥{FFF1} Has anything{n}fun happened?",
    "term": "end"
   },
   {
@@ -111,13 +111,13 @@
   {
    "id": "scen239.0017",
    "jp": "これからも、いっぱい教えてあげますね！{n}次回を楽しみにして下さいねぇ～！",
-   "en": "I'll teach you lots more! Look forward to our next{n}lesson!",
+   "en": "I'll teach you lots more! Look forward to our{n}next lesson!",
    "term": "end"
   },
   {
    "id": "scen239.0018",
    "jp": "ピンクのバラの花言葉って『暖かい心』なんですよ。",
-   "en": "In the language of flowers, a pink rose means 'a warm{n}heart'.",
+   "en": "In the language of flowers, a pink rose means 'a{n}warm heart'.",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen239.0020",
    "jp": "カーネーションの花言葉って{n}『愛を信じる』事なんです。{p}もちろん、アタシはいつも信じてます。",
-   "en": "In the language of flowers, a carnation means 'faith in{n}love'.{p}Of course, I always have faith!",
+   "en": "In the language of flowers, a carnation means 'faith{n}in love'.{p}Of course, I always have faith!",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen239.0026",
    "jp": "タチアオイの花言葉は『大きな望み』{n}なんです。{p}アタシの望みは‥‥。",
-   "en": "In the language of flowers, hollyhocks mean 'great{n}hopes'.{p}What I hope for is...",
+   "en": "In the language of flowers, hollyhocks mean{n}'great hopes'.{p}What I hope for is...",
    "term": "end"
   },
   {
@@ -177,13 +177,13 @@
   {
    "id": "scen239.0028",
    "jp": "ヒナゲシのようなアタシ‥‥。{p}えっ？{FFFB}{n}花言葉は『乙女らしさ』ですよ。",
-   "en": "I'm just like a poppy...{p}Hmm?{FFFB}In the language of flowers, it means 'maidenly{n}grace'.",
+   "en": "I'm just like a poppy...{p}Hmm?{FFFB}In the language of flowers, it means{n}'maidenly grace'.",
    "term": "end"
   },
   {
    "id": "scen239.0029",
    "jp": "マリゴールドの花言葉は{n}『可憐な愛情』なんです。",
-   "en": "In the language of flowers, a marigold means 'tender{n}affection'.",
+   "en": "In the language of flowers, a marigold means{n}'tender affection'.",
    "term": "end"
   },
   {
@@ -207,19 +207,19 @@
   {
    "id": "scen239.0033",
    "jp": "アマリリスの花言葉は『誇り』{n}ああ、お兄さまにぴったり！",
-   "en": "Amaryllis means 'pride'. Oh, it suits you perfectly, Big{n}Brother!",
+   "en": "Amaryllis means 'pride'. Oh, it suits you perfectly,{n}Big Brother!",
    "term": "end"
   },
   {
    "id": "scen239.0034",
    "jp": "サクラソウの花言葉って『少年時代の希望』{n}なんですよ。{p}{FC04}ああ、お兄さまの少年時代って‥‥。",
-   "en": "In the language of flowers, a primrose means 'the{n}hopes of boyhood'.{p}{FC04}Oh, what you must have been like as a little boy, Big{n}Brother...",
+   "en": "In the language of flowers, a primrose means 'the{n}hopes of boyhood'.{p}{FC04}Oh, what you must have been like as a little boy,{n}Big Brother...",
    "term": "end"
   },
   {
    "id": "scen239.0035",
    "jp": "お兄さまとの出会いはエーデルワイスのよう。{n}花言葉は‥‥{FE1E}{FC04}そう、『初恋の感動』",
-   "en": "Meeting you was like edelweiss, Big Brother. In the{n}language of flowers, it means...{FE1E}{FC04}Yes, 'the thrill of first{n}love'.",
+   "en": "Meeting you was like edelweiss, Big Brother. In the{n}language of flowers, it means...{FE1E}{FC04}Yes, 'the thrill of{n}first love'.",
    "term": "end"
   },
   {

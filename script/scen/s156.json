@@ -69,7 +69,7 @@
   {
    "id": "scen156.0010",
    "jp": "{v:001B}ほら、何してんのよ！{n}あの人、連れて行かれちゃうでしょ！",
-   "en": "{v:001B}Hey, what are you doing?! They're going to take her{n}away!",
+   "en": "{v:001B}Hey, what are you doing?! They're going to take{n}her away!",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen156.0023",
    "jp": "おい！{n}お前らも、娘を狙え！{n}その小僧なら、無視してもいい！",
-   "en": "Hey! You lot go after the girl too! You can ignore that{n}brat!",
+   "en": "Hey! You lot go after the girl too! You can ignore{n}that brat!",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen156.0028",
    "jp": "{v:0052}それに俺たちの仕事は奴の妹の方だ！{n}失敗は許されねぇぞ！",
-   "en": "{v:0052}Besides, our job's to grab his sister! Failure ain't an{n}option!",
+   "en": "{v:0052}Besides, our job's to grab his sister! Failure ain't{n}an option!",
    "term": "end"
   },
   {
@@ -486,7 +486,7 @@
   {
    "id": "scen156.0079",
    "jp": "{v:0043}お兄さんなの？{n}あなたの妹さんが、この悪漢にさらわれそうに{n}なってるのよ！",
-   "en": "{v:0043}You're her brother? This villain's trying to kidnap your{n}sister!",
+   "en": "{v:0043}You're her brother? This villain's trying to kidnap{n}your sister!",
    "term": "end"
   },
   {
@@ -546,7 +546,7 @@
   {
    "id": "scen156.0089",
    "jp": "{v:0045}ちょっと待ってよ！{n}今は協力するべきだと思わない？",
-   "en": "{v:0045}Hold on! Don't you think we should work together right{n}now?",
+   "en": "{v:0045}Hold on! Don't you think we should work together{n}right now?",
    "term": "end"
   },
   {

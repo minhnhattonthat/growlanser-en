@@ -57,7 +57,7 @@
   {
    "id": "scen025.0008",
    "jp": "{v:0003}えぇっ！{n}ルイセちゃん、もう実習終わったの？{p}{FC03}{v:0004}うぅ～、また差を付けられちゃった‥‥。{p}{FC02}{v:0005}こうなったら、{n}アタシもルイセちゃんを見習わないとっ！{p}{FC00}{v:0006}見習うためにはルイセちゃんのそばにいなきゃ！{p}{FC06}{v:0007}というわけで、しばらくやっかいになりま～す！",
-   "en": "{v:0003}Whaaat?! Luise-chan, you've finished your practicum{n}already?{p}{FC03}{v:0004}Ughhh, you've pulled ahead of me again...{p}{FC02}{v:0005}Well, then I'll just have to learn from your example,{n}Luise-chan!{p}{FC00}{v:0006}And to do that, I need to stay close to you!{p}{FC06}{v:0007}Sooo, I'll be tagging along for a while!",
+   "en": "{v:0003}Whaaat?! Luise-chan, you've finished your{n}practicum already?{p}{FC03}{v:0004}Ughhh, you've pulled ahead of me again...{p}{FC02}{v:0005}Well, then I'll just have to learn from your{n}example, Luise-chan!{p}{FC00}{v:0006}And to do that, I need to stay close to you!{p}{FC06}{v:0007}Sooo, I'll be tagging along for a while!",
    "term": "end"
   },
   {
@@ -69,7 +69,7 @@
   {
    "id": "scen025.0010",
    "jp": "メンバーが多すぎます。{n}１人外してください。",
-   "en": "There are too many party members. Please remove{n}one.",
+   "en": "There are too many party members. Please{n}remove one.",
    "term": "end"
   },
   {
@@ -203,7 +203,7 @@
   {
    "id": "scen025.0032",
    "jp": "{v:000C}ここはルイセちゃんが通ってた魔法学院じゃない！{p}{v:000D}まさか、ミーシャもアリオストさんのことも{n}覚えてないの？",
-   "en": "{v:000C}This is the Magic Academy you went to, Luise-chan!{p}{v:000D}Don't tell me you don't remember Misha or Ariost-san,{n}either?",
+   "en": "{v:000C}This is the Magic Academy you went to, Luise-chan!{p}{v:000D}Don't tell me you don't remember Misha or{n}Ariost-san, either?",
    "term": "end"
   },
   {
@@ -257,7 +257,7 @@
   {
    "id": "scen025.0041",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "How rude! Hot springs are a perfectly valid subject of{n}research!",
+   "en": "How rude! Hot springs are a perfectly valid subject{n}of research!",
    "term": "end"
   },
   {
@@ -341,7 +341,7 @@
   {
    "id": "scen025.0055",
    "jp": "とうとう戦乱の世の中になってしまったか‥‥。{n}魔法学院で培ってきた力が役に立てばいいんだけど。",
-   "en": "So the world's finally been plunged into war... I hope the{n}abilities I've developed at the Magic Academy will be of{n}use.",
+   "en": "So the world's finally been plunged into war... I hope the{n}abilities I've developed at the Magic Academy will be{n}of use.",
    "term": "end"
   },
   {
@@ -455,7 +455,7 @@
   {
    "id": "scen025.0074",
    "jp": "そうか。{n}じゃあ、とりあえず校舎を探してみるよ。{p}君たちも、学院長か副学院長を見かけたら{n}僕に教えてくれ。",
-   "en": "I see. I'll try looking around the school building for{n}now.{p}If you see the Headmaster or Vice Headmaster, let me{n}know.",
+   "en": "I see. I'll try looking around the school building{n}for now.{p}If you see the Headmaster or Vice Headmaster, let{n}me know.",
    "term": "end"
   },
   {
@@ -527,7 +527,7 @@
   {
    "id": "scen025.0086",
    "jp": "その通りさ。{n}それで、ホールに入る許可をもらおうと、{n}責任者を捜しているんだが、見つからなくてね。",
-   "en": "That's right. I've been looking for whoever's in charge{n}to get permission to enter the hall, but I can't find{n}them.",
+   "en": "That's right. I've been looking for whoever's in charge{n}to get permission to enter the hall, but I can't{n}find them.",
    "term": "end"
   },
   {
@@ -593,7 +593,7 @@
   {
    "id": "scen025.0097",
    "jp": "‥‥{v:0003}そうか‥‥。{FFF9}{FFFB}{n}{v:0004}出来たら、思い過ごしであって欲しかったが‥‥。",
-   "en": "...{v:0003}I see...{FFF9}{FFFB}{v:0004}I had hoped I was merely worrying over{n}nothing...",
+   "en": "...{v:0003}I see...{FFF9}{FFFB}{v:0004}I had hoped I was merely worrying{n}over nothing...",
    "term": "end"
   },
   {
@@ -641,7 +641,7 @@
   {
    "id": "scen025.0105",
    "jp": "{v:000D}この歪み量は自然のものとも思えんのだ。{p}{v:000E}何か悪いことが起きなければいいのだが‥‥。{p}{v:000F}とにかく、観測を怠らずに慎重に調べてみる。",
-   "en": "{v:000D}I cannot believe this degree of distortion is natural.{p}{v:000E}I only hope nothing dreadful comes of it...{p}{v:000F}In any case, I will keep a close watch and investigate{n}carefully.",
+   "en": "{v:000D}I cannot believe this degree of distortion is natural.{p}{v:000E}I only hope nothing dreadful comes of it...{p}{v:000F}In any case, I will keep a close watch and{n}investigate carefully.",
    "term": "end"
   },
   {
@@ -665,7 +665,7 @@
   {
    "id": "scen025.0109",
    "jp": "え？{n}学院長の秘書さん？{n}きれいな人だよね！{p}さっき正門の方へ歩いていったよ。",
-   "en": "Huh? The Headmaster's secretary? She's beautiful,{n}isn't she!{p}She was heading toward the main gate a little while{n}ago.",
+   "en": "Huh? The Headmaster's secretary? She's beautiful,{n}isn't she!{p}She was heading toward the main gate a little{n}while ago.",
    "term": "end"
   },
   {
@@ -807,7 +807,7 @@
   {
    "id": "scen025.0132",
    "jp": "ねえ、学院長の秘書ってさ、全然愛想がないよね～。",
-   "en": "Hey, the Headmaster's secretary isn't friendly at all, is{n}she?",
+   "en": "Hey, the Headmaster's secretary isn't friendly at all,{n}is she?",
    "term": "end"
   },
   {
@@ -831,7 +831,7 @@
   {
    "id": "scen025.0136",
    "jp": "‥‥それって表情変えなくても美人ってことよね。",
-   "en": "...So you're saying she's pretty even without any{n}expression.",
+   "en": "...So you're saying she's pretty even without{n}any expression.",
    "term": "end"
   },
   {
@@ -861,7 +861,7 @@
   {
    "id": "scen025.0141",
    "jp": "あ、聞いた聞いた。{n}学院に来たグローシアンがいなくなったのって、{n}学院長の仕業だって哮じゃない？",
-   "en": "Oh, I heard! Isn't the Headmaster supposed to be{n}behind the Growsians who came to the Academy{n}disappearing?",
+   "en": "Oh, I heard! Isn't the Headmaster supposed to be{n}behind the Growsians who came to the{n}Academy disappearing?",
    "term": "end"
   },
   {
@@ -891,7 +891,7 @@
   {
    "id": "scen025.0146",
    "jp": "{v:0093}何言ってんのよ！{n}中のグローシアンの人たち、{n}いなくなってるじゃないの！",
-   "en": "{v:0093}What are you talking about?! The Growsians inside are{n}gone!",
+   "en": "{v:0093}What are you talking about?! The Growsians inside{n}are gone!",
    "term": "end"
   },
   {
@@ -903,13 +903,13 @@
   {
    "id": "scen025.0148",
    "jp": "{v:0095}やっぱり、あっちから、らしいな。",
-   "en": "{v:0095}Looks like they went out the other way, just as we{n}thought.",
+   "en": "{v:0095}Looks like they went out the other way, just as{n}we thought.",
    "term": "end"
   },
   {
    "id": "scen025.0149",
    "jp": "すまないが、学院長か副学院長にこのことを{n}伝えてくれないか？{p}自分はここで、{n}現場が荒らされないように見張っているから。{p}頼んだぞ。",
-   "en": "Sorry, but could you report this to the Headmaster or{n}Vice Headmaster?{p}I'll stand guard here to make sure no one disturbs the{n}scene.{p}I'm counting on you.",
+   "en": "Sorry, but could you report this to the Headmaster or{n}Vice Headmaster?{p}I'll stand guard here to make sure no one disturbs{n}the scene.{p}I'm counting on you.",
    "term": "end"
   },
   {
@@ -921,13 +921,13 @@
   {
    "id": "scen025.0151",
    "jp": "{v:000E}ここにはグローシアンの方々が保護されて{n}おられるのだ。",
-   "en": "{v:000E}The Growsians are being kept here for their{n}protection.",
+   "en": "{v:000E}The Growsians are being kept here for{n}their protection.",
    "term": "end"
   },
   {
    "id": "scen025.0152",
    "jp": "{v:000F}知り合いがいるんですけど、{n}会わせていただけないでしょうか？",
-   "en": "{v:000F}Someone we know is inside. Could you please let us see{n}them?",
+   "en": "{v:000F}Someone we know is inside. Could you please let us{n}see them?",
    "term": "end"
   },
   {
@@ -981,7 +981,7 @@
   {
    "id": "scen025.0161",
    "jp": "このホールは閉鎖されている。{n}立入許可の無い者は、{n}この中へ入ることはできん。",
-   "en": "This hall is closed. No one may enter without{n}permission.",
+   "en": "This hall is closed. No one may enter{n}without permission.",
    "term": "end"
   },
   {
@@ -1047,7 +1047,7 @@
   {
    "id": "scen025.0172",
    "jp": "{v:0083}学院長か副学院長の許可がなければ入れないホール。{n}それから、地下にある専用の研究室‥‥。{p}{v:0084}なんだかにおうわね。",
-   "en": "{v:0083}A hall you can't enter without the Headmaster's or Vice{n}Headmaster's permission. And a private laboratory{n}underground...{p}{v:0084}Something smells fishy.",
+   "en": "{v:0083}A hall you can't enter without the Headmaster's or Vice{n}Headmaster's permission. And a private{n}laboratory underground...{p}{v:0084}Something smells fishy.",
    "term": "end"
   },
   {
@@ -1149,7 +1149,7 @@
   {
    "id": "scen025.0189",
    "jp": "{v:007C}あれ、言わなかったっけ？{p}{v:007D}校内に持ち込まれたんだけど、{n}どこにも見あたらないんだ。{n}となるとおそらく地下だね。",
-   "en": "{v:007C}Oh, didn't I tell you?{p}{v:007D}They were taken into the school building, but they're{n}nowhere to be seen. That probably means they're{n}underground.",
+   "en": "{v:007C}Oh, didn't I tell you?{p}{v:007D}They were taken into the school building, but they're{n}nowhere to be seen. That probably means{n}they're underground.",
    "term": "end"
   },
   {
@@ -1248,13 +1248,13 @@
   {
    "id": "scen025.0205",
    "jp": "{v:006F}書類かぁ‥‥。{p}{v:0070}たしかに学校には、{n}たくさんの書類がありますからねぇ！",
-   "en": "{v:006F}Documents, huh...{p}{v:0070}Well, a school certainly does have plenty of{n}documents!",
+   "en": "{v:006F}Documents, huh...{p}{v:0070}Well, a school certainly does have plenty{n}of documents!",
    "term": "end"
   },
   {
    "id": "scen025.0206",
    "jp": "{v:0071}だーーーっ！{n}どうしてこの会話の流れでそうなるのよ！",
-   "en": "{v:0071}Aaargh! How did you get THAT from what we've been{n}saying?!",
+   "en": "{v:0071}Aaargh! How did you get THAT from what we've{n}been saying?!",
    "term": "end"
   },
   {
@@ -1350,7 +1350,7 @@
   {
    "id": "scen025.0222",
    "jp": "それでは私が外れましょう。{n}ミーシャちゃんのこと、お願いしますね。",
-   "en": "Then I'll leave the party. Please take care of{n}Misha-chan.",
+   "en": "Then I'll leave the party. Please take care{n}of Misha-chan.",
    "term": "end"
   },
   {
@@ -1560,7 +1560,7 @@
   {
    "id": "scen025.0257",
    "jp": "{v:0089}ちょっと待って！{p}‥‥{v:008A}うん、みんなここにいるけど。{n}どうしたの、マスター？{p}{FFF3}‥‥‥。{p}{FC02}{FFF4}{v:008B}えぇっ！？{n}バーンシュタイン軍がランザック王国に？{p}‥‥{v:008C}うん、わかった。{n}ちゃんと伝えるから！",
-   "en": "{v:0089}Hang on a second!{p}...{v:008A}Yeah, everyone's here. What's up, Master?{p}{FFF3}...{p}{FC02}{FFF4}{v:008B}What?! The Burnstein army's attacking the Kingdom of{n}Ranzak?{p}...{v:008C}Okay, got it. I'll tell them!",
+   "en": "{v:0089}Hang on a second!{p}...{v:008A}Yeah, everyone's here. What's up, Master?{p}{FFF3}...{p}{FC02}{FFF4}{v:008B}What?! The Burnstein army's attacking the Kingdom{n}of Ranzak?{p}...{v:008C}Okay, got it. I'll tell them!",
    "term": "end"
   },
   {
@@ -1572,7 +1572,7 @@
   {
    "id": "scen025.0259",
    "jp": "{v:008E}うん！{n}それで、ランザック王国から応援要請が{n}出てるんだって。{p}{FC03}{v:008F}もしアタシたちも行けたら、行くようにって、{n}言われちゃったんだけど‥‥。",
-   "en": "{v:008E}Yeah! And the Kingdom of Ranzak's asking for{n}reinforcements.{p}{FC03}{v:008F}She told us to go too, if we can...",
+   "en": "{v:008E}Yeah! And the Kingdom of Ranzak's asking{n}for reinforcements.{p}{FC03}{v:008F}She told us to go too, if we can...",
    "term": "end"
   },
   {

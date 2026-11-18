@@ -315,7 +315,7 @@
   {
    "id": "scen046.0049",
    "jp": "今日も日が暮れたら、{n}ゴミを片づけないとね‥‥。",
-   "en": "I'll have to clean up the litter again once the sun goes{n}down...",
+   "en": "I'll have to clean up the litter again once the sun{n}goes down...",
    "term": "end"
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "scen046.0060",
    "jp": "‥‥幸せだなぁ。{n}ここはのどかで、本当にいい所だよ。",
-   "en": "...I'm so lucky. It's peaceful here. What a wonderful{n}place.",
+   "en": "...I'm so lucky. It's peaceful here. What a{n}wonderful place.",
    "term": "end"
   },
   {
@@ -495,7 +495,7 @@
   {
    "id": "scen046.0079",
    "jp": "立ち話も何だから、ささ、中へ入ってくれ。",
-   "en": "No sense standing about to talk. Come, come, do step{n}inside.",
+   "en": "No sense standing about to talk. Come, come, do{n}step inside.",
    "term": "end"
   },
   {
@@ -645,13 +645,13 @@
   {
    "id": "scen046.0104",
    "jp": "おい、あんまり不用意にここに来ねぇほうが{n}いいと思うぞ。{n}この間は上手く入れたが{n}今度も上手くいくとは限らん。",
-   "en": "Hey, we'd better not come here without a plan. We got{n}in last time, but that doesn't mean we'll manage it{n}again.",
+   "en": "Hey, we'd better not come here without a plan. We got{n}in last time, but that doesn't mean we'll manage{n}it again.",
    "term": "end"
   },
   {
    "id": "scen046.0105",
    "jp": "呪いを解く準備が出来てからにした方が{n}良さそうね。",
-   "en": "I think we'd better wait until we're ready to lift the{n}curse.",
+   "en": "I think we'd better wait until we're ready to lift{n}the curse.",
    "term": "end"
   },
   {
@@ -717,7 +717,7 @@
   {
    "id": "scen046.0116",
    "jp": "今、ここの温泉の水質調査に来ているんだ。",
-   "en": "I'm here to study the water quality of the hot{n}springs.",
+   "en": "I'm here to study the water quality of the{n}hot springs.",
    "term": "end"
   },
   {
@@ -878,7 +878,7 @@
   {
    "id": "scen046.0142",
    "jp": "{v:0089}それより、あのフェザリアンを{n}どうやったら納得させられると思うよ？",
-   "en": "{v:0089}Anyway, how do you think we can convince that{n}Featherian?",
+   "en": "{v:0089}Anyway, how do you think we can convince{n}that Featherian?",
    "term": "end"
   },
   {
@@ -952,7 +952,7 @@
   {
    "id": "scen046.0154",
    "jp": "{v:0093}君、どこへ行くつもりだい？{p}{v:0094}もしかして、女湯をのぞきに行こうなんて{n}思ってるんじゃないだろうね？{p}{v:0095}君、恥を知りたまえ、恥を！",
-   "en": "{v:0093}Where do you think you're going?{p}{v:0094}Surely you're not thinking of peeking into the women's{n}bath?{p}{v:0095}You should be ashamed of yourself! Ashamed!",
+   "en": "{v:0093}Where do you think you're going?{p}{v:0094}Surely you're not thinking of peeking into the{n}women's bath?{p}{v:0095}You should be ashamed of yourself! Ashamed!",
    "term": "end"
   },
   {
@@ -1009,7 +1009,7 @@
   {
    "id": "scen046.0163",
    "jp": "{FE14}‥{FE14}‥{v:009C}仕方がありませんね。{n}僕も付いていきます。{p}{FC03}{v:009D}行っておきますが、別にやましい気持ちで{n}行くんじゃありませんからね。{p}{FC04}{v:009E}あくまでも君の監視ということで{n}行くわけですから‥‥。",
-   "en": "{FE14}...{FE14}...{v:009C}Well, it can't be helped. I'll come with you.{p}{FC03}{v:009D}Let me make this clear: I'm not going with any improper{n}intentions.{p}{FC04}{v:009E}I'm going strictly to keep an eye on you...",
+   "en": "{FE14}...{FE14}...{v:009C}Well, it can't be helped. I'll come with you.{p}{FC03}{v:009D}Let me make this clear: I'm not going with any{n}improper intentions.{p}{FC04}{v:009E}I'm going strictly to keep an eye on you...",
    "term": "end"
   },
   {
@@ -1079,7 +1079,7 @@
   {
    "id": "scen046.0174",
    "jp": "{v:00A3}こ、これは‥‥その‥‥。{p}{FC02}{v:00A4}君に変なことをさせないための処置だ！",
-   "en": "{v:00A3}W-well, this is... Er...{p}{FC02}{v:00A4}It's a precaution to keep you from doing anything{n}improper!",
+   "en": "{v:00A3}W-well, this is... Er...{p}{FC02}{v:00A4}It's a precaution to keep you from doing{n}anything improper!",
    "term": "end"
   },
   {
@@ -1193,7 +1193,7 @@
   {
    "id": "scen046.0193",
    "jp": "{v:00BC}あれ？{FFF9}{FFFB}{n}{v:00BD}どうしたんですか、アリオスト先輩？{n}なんだか疲れた顔してる‥‥。",
-   "en": "{v:00BC}Huh?{FFF9}{FFFB}{v:00BD}What's wrong, Ariost-senpai? You look awfully{n}tired...",
+   "en": "{v:00BC}Huh?{FFF9}{FFFB}{v:00BD}What's wrong, Ariost-senpai? You look{n}awfully tired...",
    "term": "end"
   },
   {
@@ -1241,7 +1241,7 @@
   {
    "id": "scen046.0201",
    "jp": "温泉のご利用は宿泊される方のみと{n}させていただいております。",
-   "en": "The hot springs are reserved for guests staying at the{n}inn.",
+   "en": "The hot springs are reserved for guests staying at{n}the inn.",
    "term": "end"
   },
   {
@@ -1397,7 +1397,7 @@
   {
    "id": "scen046.0227",
    "jp": "{v:0021}うむ。{p}{v:0022}ではまず、彼らが我々人間を嫌っていることから{n}話すべきだろうな。",
-   "en": "{v:0021}Very well.{p}{v:0022}First, I suppose I should explain that they dislike us{n}humans.",
+   "en": "{v:0021}Very well.{p}{v:0022}First, I suppose I should explain that they dislike{n}us humans.",
    "term": "end"
   },
   {
@@ -1445,7 +1445,7 @@
   {
    "id": "scen046.0235",
    "jp": "{v:002D}知っての通り、{n}この世界にはほとんどグローシュがない。{p}{v:002E}今まで魔法に頼ってきた人間は、{n}その支えを失ってしまった。{p}{v:002F}それを助けてくれたのが、{n}科学を持ったフェザリアンだった。{p}{v:0030}だが、偶然能力を取り戻すに至った{n}グローシアンたちが、その魔力を武器に反乱。{n}人間やフェザリアンを支配するようになった。{p}{v:0031}一部の人間の起こした反乱だが、彼らにしてみれば、{n}恩をアダで返されたようなものだ。",
-   "en": "{v:002D}As you know, there is almost no Grosh in this world.{p}{v:002E}Humans had always relied on magic. Now, that support{n}was gone.{p}{v:002F}It was the Featherians who helped us, with their{n}science.{p}{v:0030}But the Growsians, who had regained their powers by{n}chance, rose in revolt. Wielding magic as a weapon, they{n}came to rule over humans and Featherians alike.{p}{v:0031}Only some humans took part in the revolt, but to the{n}Featherians, it was as though we'd repaid their{n}kindness with treachery.",
+   "en": "{v:002D}As you know, there is almost no Grosh in this world.{p}{v:002E}Humans had always relied on magic. Now, that support{n}was gone.{p}{v:002F}It was the Featherians who helped us, with{n}their science.{p}{v:0030}But the Growsians, who had regained their powers by{n}chance, rose in revolt. Wielding magic as a weapon, they{n}came to rule over humans and Featherians alike.{p}{v:0031}Only some humans took part in the revolt, but to the{n}Featherians, it was as though we'd repaid their{n}kindness with treachery.",
    "term": "end"
   },
   {
@@ -1469,7 +1469,7 @@
   {
    "id": "scen046.0239",
    "jp": "{v:0038}そんな考え方を持った彼らだ。{n}自分勝手に生きる人間を元々見下していただろうね。{p}{v:0039}それにみんなが一丸となって目的に当たるから、{n}１つの技術を極めることもできる。{n}結果として、高い知識と技術を持つにいたった。{p}{v:003A}だから彼らの技術を見てみたまえ。{n}どうでもいいようなものなど何一つない。",
-   "en": "{v:0038}With that way of thinking, they probably looked down{n}on humans for living as they pleased even before the{n}revolt.{p}{v:0039}And because they all work together toward a common{n}goal, they can perfect a particular technology. That is{n}how they attained such advanced knowledge and{p}technology.{p}{v:003A}Just look at their technology. You won't find a single{n}frivolous invention.",
+   "en": "{v:0038}With that way of thinking, they probably looked down{n}on humans for living as they pleased even before{n}the revolt.{p}{v:0039}And because they all work together toward a common{n}goal, they can perfect a particular technology. That is{n}how they attained such advanced knowledge and{p}technology.{p}{v:003A}Just look at their technology. You won't find a single{n}frivolous invention.",
    "term": "end"
   },
   {

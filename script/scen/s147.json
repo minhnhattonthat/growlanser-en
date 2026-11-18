@@ -165,7 +165,7 @@
   {
    "id": "scen147.0026",
    "jp": "むむ？{n}お前！{n}たるんでいるぞ！{p}私も負けずにたるんでやる！{n}今日は休みだ。{p}{FFF0}{FFEC}　　ダ{FE0F}ン{FE0F}ジ{FE0F}ョ{FE0F}ン{FE0F}閉{FE0F}鎖！{FFED}{FFF1}",
-   "en": "Hmm? You there! You're slacking off!{p}Well, I won't let you out-slack me! I'm taking the day{n}off.{p}{FFF0}{FFEC}D{FE0F}UN{FE0F}GE{FE0F}ON{FE0F} CLO{FE0F}SE{FE0F}D!{FFED}{FFF1}",
+   "en": "Hmm? You there! You're slacking off!{p}Well, I won't let you out-slack me! I'm taking the{n}day off.{p}{FFF0}{FFEC}D{FE0F}UN{FE0F}GE{FE0F}ON{FE0F} CLO{FE0F}SE{FE0F}D!{FFED}{FFF1}",
    "term": "end"
   },
   {
@@ -513,7 +513,7 @@
   {
    "id": "scen147.0084",
    "jp": "どこからか芸術家を連れてこないとダメだね★",
-   "en": "We'll have to find an artist somewhere and bring them{n}here!",
+   "en": "We'll have to find an artist somewhere and bring{n}them here!",
    "term": "end"
   },
   {
@@ -663,7 +663,7 @@
   {
    "id": "scen147.0109",
    "jp": "これは、{s:0000}様。{n}ボート遊びをなさりたいのですか？",
-   "en": "Ah, Lord {s:0000}. Would you care to go{n}boating?",
+   "en": "Ah, Lord {s:0000}. Would you care to{n}go boating?",
    "term": "end"
   },
   {
@@ -783,7 +783,7 @@
   {
    "id": "scen147.0129",
    "jp": "こんな眺めのいいところで食事が出来るなんて★{n}う～ん、ぜいたくだわ♪",
-   "en": "Dining somewhere with a view like this! Mmm, what a{n}luxury♪",
+   "en": "Dining somewhere with a view like this! Mmm, what{n}a luxury♪",
    "term": "end"
   },
   {
@@ -801,7 +801,7 @@
   {
    "id": "scen147.0132",
    "jp": "ここに高級レストランが出来たって聞いて、{n}ためていたお金をもって食べにきたのよ。",
-   "en": "I heard a fancy restaurant had opened here, so I{n}brought the money I'd been saving and came for a{n}meal.",
+   "en": "I heard a fancy restaurant had opened here, so I{n}brought the money I'd been saving and came for{n}a meal.",
    "term": "end"
   },
   {
@@ -843,7 +843,7 @@
   {
    "id": "scen147.0139",
    "jp": "{FFF5}マイ＝ロード、{n}こういう雰囲気も悪くないですね。",
-   "en": "{FFF5}My Lord, this sort of atmosphere is quite pleasant,{n}too.",
+   "en": "{FFF5}My Lord, this sort of atmosphere is quite{n}pleasant, too.",
    "term": "end"
   },
   {
@@ -891,7 +891,7 @@
   {
    "id": "scen147.0147",
    "jp": "薬草に近い味ですね。{n}身体に良さそうです。",
-   "en": "It tastes rather like medicinal herbs. It seems good for{n}you.",
+   "en": "It tastes rather like medicinal herbs. It seems good{n}for you.",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen147.0153",
    "jp": "豪華だし、すごくおいしいね。{n}ありがとう、お兄ちゃん。",
-   "en": "It's so fancy, and it tastes wonderful. Thank you, Big{n}Brother.",
+   "en": "It's so fancy, and it tastes wonderful. Thank you,{n}Big Brother.",
    "term": "end"
   },
   {
@@ -999,7 +999,7 @@
   {
    "id": "scen147.0165",
    "jp": "あっ、お兄ちゃん。{n}ミーシャはアリオストさんのおかげで{n}立ち直ってくれたよ。",
-   "en": "Oh, Big Brother. Misha's back on her feet, thanks to{n}Ariost-san.",
+   "en": "Oh, Big Brother. Misha's back on her feet, thanks{n}to Ariost-san.",
    "term": "end"
   },
   {
@@ -1305,7 +1305,7 @@
   {
    "id": "scen147.0216",
    "jp": "{s:0000}さん。{n}一緒にお散歩しませんか？",
-   "en": "{s:0000}. Would you like to take a walk with{n}me?",
+   "en": "{s:0000}. Would you like to take a walk{n}with me?",
    "term": "end"
   },
   {
@@ -1341,7 +1341,7 @@
   {
    "id": "scen147.0222",
    "jp": "劇場があるといいですね。{n}僕はヴァイオリンが趣味なんですけど、{n}一度大きな劇場で弾いてみたいんです。",
-   "en": "It would be nice to have a theater here. I play the{n}violin as a hobby, and I'd love to play in a large theater{n}someday.",
+   "en": "It would be nice to have a theater here. I play the{n}violin as a hobby, and I'd love to play in a large{n}theater someday.",
    "term": "end"
   },
   {

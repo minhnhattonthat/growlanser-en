@@ -261,7 +261,7 @@
   {
    "id": "scen149.0042",
    "jp": "{v:00AC}なるほど、君と一緒に花火を見るのも悪くなさそうだ。",
-   "en": "{v:00AC}I see. Watching the fireworks with you sounds rather{n}nice.",
+   "en": "{v:00AC}I see. Watching the fireworks with you sounds{n}rather nice.",
    "term": "end"
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "scen149.0055",
    "jp": "妖精ちゃん。{n}あなたも彼と一緒に頑張ってね！",
-   "en": "Little fairy, you keep doing your best alongside him,{n}too!",
+   "en": "Little fairy, you keep doing your best alongside{n}him, too!",
    "term": "end"
   },
   {
@@ -397,7 +397,7 @@
   {
    "id": "scen149.0064",
    "jp": "やっと商店街へ買い出しに行って来たよ。",
-   "en": "I finally got to the shopping district to pick up some{n}supplies.",
+   "en": "I finally got to the shopping district to pick up{n}some supplies.",
    "term": "end"
   },
   {
@@ -421,7 +421,7 @@
   {
    "id": "scen149.0068",
    "jp": "‥‥なんか、ず～っと物陰に隠れていると{n}眠くなっちゃうなぁ‥‥。",
-   "en": "...Hiding here out of sight for sooo long is making me{n}sleepy...",
+   "en": "...Hiding here out of sight for sooo long is making{n}me sleepy...",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen149.0072",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
@@ -587,7 +587,7 @@
   {
    "id": "scen149.0095",
    "jp": "建国祭をきっかけに{n}ここもにぎやかになるといいわね。",
-   "en": "I hope the Founding Festival helps liven this place up,{n}too.",
+   "en": "I hope the Founding Festival helps liven this place{n}up, too.",
    "term": "end"
   },
   {
@@ -671,13 +671,13 @@
   {
    "id": "scen149.0109",
    "jp": "今、このおじいさんに花火の仕組みを教えていたの。",
-   "en": "I was just explaining how fireworks work to this old{n}man.",
+   "en": "I was just explaining how fireworks work to this{n}old man.",
    "term": "end"
   },
   {
    "id": "scen149.0110",
    "jp": "わしも打ち上げ花火のように{n}派手な魔法を使いたいのう‥‥。",
-   "en": "I wish I could cast magic as flashy as those fireworks,{n}eh...",
+   "en": "I wish I could cast magic as flashy as those{n}fireworks, eh...",
    "term": "end"
   },
   {
@@ -779,13 +779,13 @@
   {
    "id": "scen149.0127",
    "jp": "仲間と力を合わせて頑張って下さい！",
-   "en": "Work together with your companions, and give it your{n}best!",
+   "en": "Work together with your companions, and give it{n}your best!",
    "term": "end"
   },
   {
    "id": "scen149.0128",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "Monsters have been appearing lately, so we're out on{n}patrol.{p}We've spotted a suspicious magician who seems to be{n}controlling them several times, but he vanishes by the{n}time our troops converge on him.",
+   "en": "Monsters have been appearing lately, so we're out{n}on patrol.{p}We've spotted a suspicious magician who seems to be{n}controlling them several times, but he vanishes by the{n}time our troops converge on him.",
    "term": "end"
   },
   {
@@ -803,7 +803,7 @@
   {
    "id": "scen149.0131",
    "jp": "建国祭だというのに今夜も仕事ですよ‥‥。",
-   "en": "It's the Founding Festival, and I'm still working{n}tonight...",
+   "en": "It's the Founding Festival, and I'm still{n}working tonight...",
    "term": "end"
   },
   {
@@ -815,7 +815,7 @@
   {
    "id": "scen149.0133",
    "jp": "‥‥結構、手続きって面倒なんだな‥‥。",
-   "en": "...These procedures are more of a hassle than I{n}thought...",
+   "en": "...These procedures are more of a hassle than{n}I thought...",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen149.0138",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {

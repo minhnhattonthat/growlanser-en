@@ -69,7 +69,7 @@
   {
    "id": "scen098.0010",
    "jp": "{v:0004}たしかに言っていたな。{n}シャドー・ナイトとか‥‥。",
-   "en": "{v:0004}He did say that. Something about being a Shadow{n}Knight...",
+   "en": "{v:0004}He did say that. Something about being a{n}Shadow Knight...",
    "term": "end"
   },
   {
@@ -87,7 +87,7 @@
   {
    "id": "scen098.0013",
    "jp": "{v:0007}シャドー・ナイトは、{n}インペリアル・ナイトと全く逆の存在だ。",
-   "en": "{v:0007}A Shadow Knight is the exact opposite of an Imperial{n}Knight.",
+   "en": "{v:0007}A Shadow Knight is the exact opposite of an{n}Imperial Knight.",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen098.0017",
    "jp": "{v:000C}そうだ。{n}特殊な存在だけに、一般にはまったく知られていない。{p}{v:000D}われわれ軍部がこのことを知ったのも、{n}つい最近のことだ。",
-   "en": "{v:000C}That's right. Because of their unusual role, the public{n}knows nothing about them.{p}{v:000D}Even we in the military only learned of them very{n}recently.",
+   "en": "{v:000C}That's right. Because of their unusual role, the public{n}knows nothing about them.{p}{v:000D}Even we in the military only learned of them{n}very recently.",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen098.0034",
    "jp": "‥‥いよいよ出撃かぁ‥‥。{p}戦いなんて、しなくて済めば、{n}ソレが一番だと思わないかい？",
-   "en": "...So we're finally heading into battle...{p}Don't you think it'd be best if we didn't have to fight at{n}all?",
+   "en": "...So we're finally heading into battle...{p}Don't you think it'd be best if we didn't have to fight{n}at all?",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen098.0043",
    "jp": "{v:0042}本当に君たちだけで{n}インペリアル・ナイトを追い払ってしまうとは‥‥。{p}{v:0043}まだ信じられん‥‥。",
-   "en": "{v:0042}You really drove off the Imperial Knight all by{n}yourselves...{p}{v:0043}I still can't believe it...",
+   "en": "{v:0042}You really drove off the Imperial Knight all{n}by yourselves...{p}{v:0043}I still can't believe it...",
    "term": "end"
   },
   {
@@ -372,7 +372,7 @@
   {
    "id": "scen098.0060",
    "jp": "{v:000A}ちょっと手強そうだし、それなりの準備が必要よね。",
-   "en": "{v:000A}He looks pretty tough. We'd better get ourselves{n}ready.",
+   "en": "{v:000A}He looks pretty tough. We'd better get{n}ourselves ready.",
    "term": "end"
   },
   {
@@ -440,7 +440,7 @@
   {
    "id": "scen098.0071",
    "jp": "インペリアル・ナイト相手に、{n}この兵力で勝てるのか‥‥？",
-   "en": "Can we really defeat an Imperial Knight with so few{n}troops...?",
+   "en": "Can we really defeat an Imperial Knight with so{n}few troops...?",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen098.0077",
    "jp": "後は私たちに任せて、{n}君たちは君たちの任務に戻るといい。",
-   "en": "Leave the rest to us. You should return to your own{n}mission.",
+   "en": "Leave the rest to us. You should return to your{n}own mission.",
    "term": "end"
   },
   {
@@ -488,7 +488,7 @@
   {
    "id": "scen098.0079",
    "jp": "いや～、君たちは本当に凄いな。{n}あのインペリアル・ナイトを退けるなんて‥‥。{p}私もその場面を見てみたかったな～。",
-   "en": "Well, you really are remarkable. Driving off that Imperial{n}Knight...{p}I wish I could have seen it myself.",
+   "en": "Well, you really are remarkable. Driving off that{n}Imperial Knight...{p}I wish I could have seen it myself.",
    "term": "end"
   },
   {
@@ -518,7 +518,7 @@
   {
    "id": "scen098.0084",
    "jp": "あなた達の戦いを見て士気の上がっている今なら、{n}バーンシュタイン兵を押し返す事ができるでしょう。",
-   "en": "Seeing you fight has raised our troops' spirits. We{n}should be able to push back the Burnstein soldiers{n}now.",
+   "en": "Seeing you fight has raised our troops' spirits. We{n}should be able to push back the Burnstein{n}soldiers now.",
    "term": "end"
   },
   {
@@ -668,7 +668,7 @@
   {
    "id": "scen098.0109",
    "jp": "{v:0085}まもなく橋の向こうまで押し返すことが出来るだろう。{p}{v:0022}そうすれば君たちもオリビエ湖まで行くことが{n}出来るはずだ。",
-   "en": "{v:0085}We should soon be able to push them back across the{n}bridge.{p}{v:0022}Then you should be able to reach Lake Olivier.",
+   "en": "{v:0085}We should soon be able to push them back across{n}the bridge.{p}{v:0022}Then you should be able to reach Lake Olivier.",
    "term": "end"
   },
   {
@@ -770,7 +770,7 @@
   {
    "id": "scen098.0126",
    "jp": "{v:004B}橋が渡れないと、オリビエ湖には行けないね。",
-   "en": "{v:004B}We can't get to Lake Olivier unless we can cross the{n}bridge.",
+   "en": "{v:004B}We can't get to Lake Olivier unless we can cross{n}the bridge.",
    "term": "end"
   },
   {

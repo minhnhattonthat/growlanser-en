@@ -123,7 +123,7 @@
   {
    "id": "scen037.0019",
    "jp": "{v:0007}ヒドイなぁっ！{n}そりゃ、アタシ、バカだけど、そんなに変じゃないよ！",
-   "en": "{v:0007}That's so mean! Sure, I'm dumb, but I'm not that{n}weird!",
+   "en": "{v:0007}That's so mean! Sure, I'm dumb, but I'm not{n}that weird!",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen037.0026",
    "jp": "{v:000A}来てくれたら、お茶くらいごちそうしますよ！",
-   "en": "{v:000A}If you come over, I can at least treat you to some{n}tea!",
+   "en": "{v:000A}If you come over, I can at least treat you to{n}some tea!",
    "term": "end"
   },
   {
@@ -237,13 +237,13 @@
   {
    "id": "scen037.0038",
    "jp": "{v:0018}確かに今までも変だったよね。{p}{v:0019}この村に来るといつもいなくなっちゃってたし、{n}同じ村に住んでたはずの副学院長を{n}知らなかったり。",
-   "en": "{v:0018}There were some odd things before, too, weren't{n}there?{p}{v:0019}She always disappeared whenever we came here, and{n}she didn't know the Vice Headmaster, even though{n}they supposedly lived in the same village.",
+   "en": "{v:0018}There were some odd things before, too,{n}weren't there?{p}{v:0019}She always disappeared whenever we came here, and{n}she didn't know the Vice Headmaster, even though{n}they supposedly lived in the same village.",
    "term": "end"
   },
   {
    "id": "scen037.0039",
    "jp": "{v:001A}ミーシャの言ってたことも食い違ってるし‥‥。{p}{v:001B}それから、ブレーム山にクリアノ草を採りに{n}行った時だって、いきなり変な口調で喋ったり‥‥。{p}{v:001C}親友を疑うなんて、わたし、いけない子なのかな‥‥。",
-   "en": "{v:001A}Some of the things Misha said don't add up, either...{p}{v:001B}And when we went to Mount Brehm to gather Kuriano{n}Herb, she suddenly started talking in such a strange{n}way...{p}{v:001C}Am I a bad person for doubting my best friend...?",
+   "en": "{v:001A}Some of the things Misha said don't add up, either...{p}{v:001B}And when we went to Mount Brehm to gather Kuriano{n}Herb, she suddenly started talking in such a{n}strange way...{p}{v:001C}Am I a bad person for doubting my best friend...?",
    "term": "end"
   },
   {
@@ -276,7 +276,7 @@
   {
    "id": "scen037.0044",
    "jp": "{v:0024}う‥うん。{n}そうだよね‥‥。{p}{FC00}{v:0025}ミーシャはわたしの親友だもんね！{n}何があっても、信じるよ！",
-   "en": "{v:0024}Y-yes. You're right...{p}{FC00}{v:0025}Misha is my best friend! I'll believe in her, no matter{n}what!",
+   "en": "{v:0024}Y-yes. You're right...{p}{FC00}{v:0025}Misha is my best friend! I'll believe in her, no{n}matter what!",
    "term": "end"
   },
   {
@@ -402,7 +402,7 @@
   {
    "id": "scen037.0065",
    "jp": "学院長の秘書を見かけなかったかって？{n}どんな人だかわからないけど、{n}誰もこの村には来てないわよ？",
-   "en": "Have I seen the Headmaster's secretary? I don't know{n}what they look like, but no one's come to the village, you{n}know.",
+   "en": "Have I seen the Headmaster's secretary? I don't know{n}what they look like, but no one's come to the village,{n}you know.",
    "term": "end"
   },
   {
@@ -414,7 +414,7 @@
   {
    "id": "scen037.0067",
    "jp": "最近、何かと物騒ねぇ。",
-   "en": "Things have been rather dangerous lately, haven't{n}they?",
+   "en": "Things have been rather dangerous lately,{n}haven't they?",
    "term": "end"
   },
   {
@@ -508,7 +508,7 @@
   {
    "id": "scen037.0082",
    "jp": "副学院長、居留守してたりして‥‥。",
-   "en": "Maybe the Vice Headmaster's pretending he's not{n}home...",
+   "en": "Maybe the Vice Headmaster's pretending he's{n}not home...",
    "term": "end"
   },
   {
@@ -832,7 +832,7 @@
   {
    "id": "scen037.0136",
    "jp": "{v:0035}しっかりしてよ、ミーシャ！{n}きっと場所を間違えたんだよ！",
-   "en": "{v:0035}Pull yourself together, Misha! You must have the wrong{n}place!",
+   "en": "{v:0035}Pull yourself together, Misha! You must have the{n}wrong place!",
    "term": "end"
   },
   {
@@ -868,7 +868,7 @@
   {
    "id": "scen037.0142",
    "jp": "{v:003A}そんなわけ、ないじゃない！{n}いくら、アタシが方向オンチでも、{n}自分の育ったお家を忘れるわけないじゃない！",
-   "en": "{v:003A}There's no way! I may have a terrible sense of{n}direction, but how could I forget the home I grew up{n}in?!",
+   "en": "{v:003A}There's no way! I may have a terrible sense of{n}direction, but how could I forget the home I grew{n}up in?!",
    "term": "end"
   },
   {
@@ -880,7 +880,7 @@
   {
    "id": "scen037.0144",
    "jp": "{FFF5}{v:003C}確かにここだった！{n}ここで暮らしてた！{n}お花畑に囲まれた、小さなお家で暮らしてた！{p}{FC03}‥‥{v:003D}でも、ないの‥‥。{p}{v:003E}車百合のお花畑も‥‥。{n}赤い屋根の小さなお家も‥‥。{p}{v:003F}なんで、ないのよ！？",
-   "en": "{FFF5}{v:003C}It was here! I lived here! I lived in a little house{n}surrounded by flowers!{p}{FC03}...{v:003D}But it's gone...{p}{v:003E}The field of wheel lilies... The little house with the red{n}roof...{p}{v:003F}Why is it all gone?!",
+   "en": "{FFF5}{v:003C}It was here! I lived here! I lived in a little house{n}surrounded by flowers!{p}{FC03}...{v:003D}But it's gone...{p}{v:003E}The field of wheel lilies... The little house with the{n}red roof...{p}{v:003F}Why is it all gone?!",
    "term": "end"
   },
   {
@@ -950,7 +950,7 @@
   {
    "id": "scen037.0155",
    "jp": "{v:004A}１人で悩むな。{n}俺たちは仲間だろ？",
-   "en": "{v:004A}Don't shoulder it all yourself. We're your friends, aren't{n}we?",
+   "en": "{v:004A}Don't shoulder it all yourself. We're your friends,{n}aren't we?",
    "term": "end"
   },
   {
@@ -968,7 +968,7 @@
   {
    "id": "scen037.0158",
    "jp": "{v:004D}何事も急いじゃダメよ。{n}急いだって、何にもならないんだから。",
-   "en": "{v:004D}You mustn't rush things. Rushing won't get you{n}anywhere.",
+   "en": "{v:004D}You mustn't rush things. Rushing won't get{n}you anywhere.",
    "term": "end"
   },
   {
@@ -1034,7 +1034,7 @@
   {
    "id": "scen037.0169",
    "jp": "‥‥{v:005B}ごめんね、みんな‥‥。{n}確かに今のアタシはここにいるよ？{p}{v:005C}でも、過去のアタシの積み重ねが{n}今のアタシなの‥‥。{FFF9}{FFFB}{n}{v:005D}過去が違ってたら、今のアタシだって違っちゃうよ！",
-   "en": "...{v:005B}I'm sorry, everyone... Yes, I'm here now.{p}{v:005C}But everything I've been through made me who I am...{FFF9}{FFFB}{v:005D}If{n}my past is different, then who I am now is different,{n}too!",
+   "en": "...{v:005B}I'm sorry, everyone... Yes, I'm here now.{p}{v:005C}But everything I've been through made me who I am...{FFF9}{FFFB}{v:005D}If{n}my past is different, then who I am now is{n}different, too!",
    "term": "end"
   },
   {
@@ -1064,7 +1064,7 @@
   {
    "id": "scen037.0174",
    "jp": "‥‥{v:0063}アタシはいったい誰なの？{p}{v:0064}ここで生まれたんじゃないなら、{n}アタシはどこで生まれたの！？{n}アタシは‥‥アタシは‥‥アタシは誰！？",
-   "en": "...{v:0063}Who am I, really?{p}{v:0064}If I wasn't born here, where was I born?! I... I... Who am{n}I?!",
+   "en": "...{v:0063}Who am I, really?{p}{v:0064}If I wasn't born here, where was I born?! I... I... Who{n}am I?!",
    "term": "end"
   },
   {
@@ -1142,7 +1142,7 @@
   {
    "id": "scen037.0187",
    "jp": "‥‥そうだよね。{n}どこかに隠し部屋があるのかなぁ‥‥。",
-   "en": "...You're right. I wonder if there's a hidden room{n}somewhere...",
+   "en": "...You're right. I wonder if there's a hidden{n}room somewhere...",
    "term": "end"
   },
   {
@@ -1202,7 +1202,7 @@
   {
    "id": "scen037.0197",
    "jp": "{v:003F}そうね。{n}勝手にいじって壊したら困るモンね。",
-   "en": "{v:003F}Right. We'd be in trouble if we fiddled with it and broke{n}something.",
+   "en": "{v:003F}Right. We'd be in trouble if we fiddled with it and{n}broke something.",
    "term": "end"
   },
   {
@@ -1355,13 +1355,13 @@
   {
    "id": "scen037.0222",
    "jp": "　大呪術学体系　（序）{n}　　　　　　魔法学院副学院長　ブラッドレー著{p}どうやら副学院長が執筆した本らしい。",
-   "en": "　'A Compendium of Cursecraft' (Introduction){n}By Bradley, Vice Headmaster of the Magic Academy{p}It appears to be a book written by the Vice{n}Headmaster.",
+   "en": "　'A Compendium of Cursecraft' (Introduction){n}By Bradley, Vice Headmaster of the Magic Academy{p}It appears to be a book written by the{n}Vice Headmaster.",
    "term": "end"
   },
   {
    "id": "scen037.0223",
    "jp": "‥‥ツボがある。{FFFB}{n}‥‥くずかご代わりに使われているようだ。{p}特に怪しいところはない。",
-   "en": "...There's a pot here.{FFFB} ...It seems to be used as a{n}wastebasket.{p}Nothing seems particularly suspicious.",
+   "en": "...There's a pot here.{FFFB} ...It seems to be used as{n}a wastebasket.{p}Nothing seems particularly suspicious.",
    "term": "end"
   },
   {
@@ -1415,7 +1415,7 @@
   {
    "id": "scen037.0232",
    "jp": "大きなタルだ。{n}中に人の入っている様子はない。",
-   "en": "A large barrel. There doesn't seem to be anyone{n}inside.",
+   "en": "A large barrel. There doesn't seem to be{n}anyone inside.",
    "term": "end"
   },
   {

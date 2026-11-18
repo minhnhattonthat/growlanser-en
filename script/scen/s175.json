@@ -51,7 +51,7 @@
   {
    "id": "scen175.0007",
    "jp": "{v:0080}この場にいる敵をすべて倒すんだ！{n}それから姫さんを助け出す！",
-   "en": "{v:0080}Take down every enemy here! Then we get the princess{n}out!",
+   "en": "{v:0080}Take down every enemy here! Then we get the{n}princess out!",
    "term": "end"
   },
   {
@@ -147,13 +147,13 @@
   {
    "id": "scen175.0023",
    "jp": "{v:009E}この兵を突破するのは無理だろう！{n}ハッハッハッハッ！",
-   "en": "{v:009E}You will never break through these troops! Ha ha ha{n}ha!",
+   "en": "{v:009E}You will never break through these troops! Ha ha{n}ha ha!",
    "term": "end"
   },
   {
    "id": "scen175.0024",
    "jp": "{v:008F}い、痛い！{n}何をする、無礼な！",
-   "en": "{v:008F}Ow! That hurts! What are you doing, you insolent{n}wretch?!",
+   "en": "{v:008F}Ow! That hurts! What are you doing, you{n}insolent wretch?!",
    "term": "end"
   },
   {
@@ -165,7 +165,7 @@
   {
    "id": "scen175.0026",
    "jp": "{v:009C}フッ。{n}ここまでくれば、あとは走り抜けるだけだ！",
-   "en": "{v:009C}Heh. Now that we're this far, we need only race{n}through!",
+   "en": "{v:009C}Heh. Now that we're this far, we need only{n}race through!",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen175.0030",
    "jp": "くっ、まさか‥‥。{n}ここまで腕を上げていたか‥‥。{p}インペリアル・ナイトになったこの私を倒すとは、{n}さすがだ‥‥。{p}次はこうはいかんぞ、{s:0000}！",
-   "en": "Ugh, I never imagined... Your skill has improved so{n}much...{p}To defeat me, an Imperial Knight... Impressive indeed...{p}Next time will be different, {s:0000}!",
+   "en": "Ugh, I never imagined... Your skill has improved{n}so much...{p}To defeat me, an Imperial Knight... Impressive indeed...{p}Next time will be different, {s:0000}!",
    "term": "end"
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "scen175.0055",
    "jp": "{v:0098}そのままでは囲まれる危険がある！{n}馬車を捨てるんだ！",
-   "en": "{v:0098}You'll be surrounded if you stay there! Abandon the{n}carriage!",
+   "en": "{v:0098}You'll be surrounded if you stay there! Abandon{n}the carriage!",
    "term": "end"
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "scen175.0057",
    "jp": "{v:0089}橋を落として馬車の動きを封じたつもりか！？{p}{v:008A}おい、そのままでは小回りがきかん！{n}馬車を捨てて戦うのだ！",
-   "en": "{v:0089}You think bringing down the bridge will stop the{n}carriage?!{p}{v:008A}You there! You can't maneuver in that thing! Abandon{n}the carriage and fight!",
+   "en": "{v:0089}You think bringing down the bridge will stop{n}the carriage?!{p}{v:008A}You there! You can't maneuver in that thing! Abandon{n}the carriage and fight!",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen175.0064",
    "jp": "バカ！{n}今、切ったら、お姫様を助けられないじゃない！",
-   "en": "Idiot! Cut it now and we won't be able to rescue the{n}princess!",
+   "en": "Idiot! Cut it now and we won't be able to rescue{n}the princess!",
    "term": "end"
   },
   {

@@ -75,7 +75,7 @@
   {
    "id": "scen204.0011",
    "jp": "{v:0046}みんな、何をしているんだ？{n}このままじゃ殺されてしまうぞ！",
-   "en": "{v:0046}Everyone, what are you doing? At this rate, we'll be{n}killed!",
+   "en": "{v:0046}Everyone, what are you doing? At this rate, we'll{n}be killed!",
    "term": "end"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen204.0020",
    "jp": "‥‥{v:0092}ええい、貴様などもう要らん！{n}ここでまとめて殺してやる！",
-   "en": "...{v:0092}Bah! I have no more use for you! I'll kill you all right{n}here!",
+   "en": "...{v:0092}Bah! I have no more use for you! I'll kill you all{n}right here!",
    "term": "end"
   },
   {

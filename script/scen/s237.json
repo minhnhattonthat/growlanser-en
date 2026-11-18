@@ -105,7 +105,7 @@
   {
    "id": "scen237.0015",
    "jp": "‥‥やっぱりおぼえてないんだ？{n}今日、わたしのお誕生日だったのに‥‥。",
-   "en": "...So you don't remember after all? But today's my{n}birthday...",
+   "en": "...So you don't remember after all? But today's{n}my birthday...",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen237.0026",
    "jp": "あっ、お兄ちゃん。{n}休みの日ってなんだかお買い物したくなるよね。{n}そんなおこづかい残ってないけど。{p}じゃあ、また後でね。",
-   "en": "Oh, Big Brother. Days off always make me want to go{n}shopping, you know? I don't have much allowance left,{n}though.{p}Well, see you later.",
+   "en": "Oh, Big Brother. Days off always make me want to go{n}shopping, you know? I don't have much allowance{n}left, though.{p}Well, see you later.",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen237.0038",
    "jp": "あっ、お兄ちゃん、へんなものがついてる！{p}{FC00}って思ったらティピだった。",
-   "en": "Oh, Big Brother, there's something strange stuck to{n}you!{p}{FC00}...Or so I thought, but it's just Tippi.",
+   "en": "Oh, Big Brother, there's something strange stuck{n}to you!{p}{FC00}...Or so I thought, but it's just Tippi.",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen237.0040",
    "jp": "最近、魔法を戦いにばかり使ってる‥‥。{n}平和になったらもっと人の役に立つように{n}魔法を使いたいな。",
-   "en": "Lately, I've only been using magic to fight... When{n}there's peace again, I'd like to use it to help people{n}more.",
+   "en": "Lately, I've only been using magic to fight... When{n}there's peace again, I'd like to use it to help{n}people more.",
    "term": "end"
   },
   {

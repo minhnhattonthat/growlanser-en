@@ -26,7 +26,9 @@ by hand with {n}). Dialogue prints a page at a time (vwf.asm skips the typewrite
 | Skill names | exe.skills | 8 cells (96 px) | 1 | measured | work/qa/p8m/gs_ci (status, Circle: skills share the spell list column, "Critical 1" under "Magic Arrow") |
 | Class names | exe.classes | 11 cells | 1 | lower bound | JP max 11 cells: the field shows the longest JP class, so it is at least that wide; not seen yet |
 | Unit names | exe.units | 144 px clip | 1 | lower bound | JP max 12 cells (144 px); battle UI not reached yet |
-| Place names | exe.places | 12 cells, frame 12 px x code count (tag_pad) | 1 | disassembly | popup at 0x8006BB78: getter 0x80070E60, frame width 12 * codes (0x8006BC94), printed by 0x800708E8(win, 12, 1); world map not reached |
+| Place names | exe.places, scene strings shown in the popup | 12 cells; frame = VWF pixel width (asm popup_width, phase 8; was 12 px x code count) | 1 | measured | popup 0x8006BA48 (struct byte 8 = 0: scene message via 0x80070C04, else place getter 0x80070E60), printed by 0x800708E8(win, 12, 1); "Nostridge Plains Garrison" centred (work/qa/bern); world map not reached |
+| Field-menu bubble | exe.sys.0062-0067 | frame 12 px x code count, label at the left edge | 1 | measured | insert.Encoder.centre leads with spacer glyphs (work/qa/fix2/menu_2) |
+| Name-entry labels | exe.sys.0069 | one line cut into slices: title 60 px, blank 12, 5 labels x 24 px | 1 | measured | insert.SLOTS (work/qa/fix4/name_entry) |
 | Growth graph | exe.sys.0102 caption, exe.sys.0103 legend | caption 24 cells x 3; legend 4 cells per label, 7 lines | 3 / 7 | lower bound | JP caption line 3 = 23 cells with the heading centred by 9 blanks; JP labels max 4 cells; screen not reached |
 | Other system text | exe.sys (rest) | 24 cells (guess) | 3 | guess | every current string passes (check gates warnings too); battle messages, shop, inn, save screen: phase 8 tour |
 | Double-size text | printer path 0x80071650 | ? | ? | never seen on screen | vwf_big handles it (unicorn test only) |

@@ -21,13 +21,13 @@
   {
    "id": "scen240.0002",
    "jp": "学問は好きかい？{n}僕は知りたいことがたくさんあってね。{n}いくら勉強しても足りないよ。{p}このまま一生、学問を楽しめそうだ。",
-   "en": "Do you enjoy studying? There are so many things I{n}want to know. No matter how much I study, it's never{n}enough.{p}At this rate, I could happily spend my whole life{n}learning.",
+   "en": "Do you enjoy studying? There are so many things I{n}want to know. No matter how much I study, it's{n}never enough.{p}At this rate, I could happily spend my whole{n}life learning.",
    "term": "end"
   },
   {
    "id": "scen240.0003",
    "jp": "僕は科学と魔法、両方を合わせた技術の{n}研究をしているんだ。{p}まあその分、倍の疑問が出て来るんだけどね。",
-   "en": "I'm researching technology that combines science and{n}magic.{p}Of course, that means twice as many questions come{n}up.",
+   "en": "I'm researching technology that combines science{n}and magic.{p}Of course, that means twice as many questions{n}come up.",
    "term": "end"
   },
   {
@@ -39,19 +39,19 @@
   {
    "id": "scen240.0005",
    "jp": "技術って言うのは人が使うためにあるわけだ。{n}だから、人という要素を抜きに{n}技術を考えることはできないんだよ。",
-   "en": "Technology exists for people to use. So you can't{n}consider technology without taking people into{n}account.",
+   "en": "Technology exists for people to use. So you can't{n}consider technology without taking people{n}into account.",
    "term": "end"
   },
   {
    "id": "scen240.0006",
    "jp": "新しい技術が、{n}人のためになるとは限らない。{p}でも、危険な技術にも興味は湧くものだよ。{n}大きな力というのは人を引きつけるんだ。{p}だから、誘惑に負けないようにしないとね。",
-   "en": "New technology doesn't always benefit people.{p}But even dangerous technology can arouse our{n}curiosity. Great power draws people in.{p}That's why we must be careful not to give in to{n}temptation.",
+   "en": "New technology doesn't always benefit people.{p}But even dangerous technology can arouse our{n}curiosity. Great power draws people in.{p}That's why we must be careful not to give in{n}to temptation.",
    "term": "end"
   },
   {
    "id": "scen240.0007",
    "jp": "最近は魔導機械の研究ばかりしているけど、{n}考えてみればいろいろやってきたよ。{p}魔導生命や詠唱技術なんかもね。{n}もちろん、一つも無駄にはなっていない。{p}今の研究に生かされているんだよ。",
-   "en": "Lately, I've been researching nothing but magical{n}machinery, but looking back, I've studied all sorts of{n}things.{p}Magical life and incantation techniques, for instance. Of{n}course, none of it has gone to waste.{p}It all contributes to my current research.",
+   "en": "Lately, I've been researching nothing but magical{n}machinery, but looking back, I've studied all sorts{n}of things.{p}Magical life and incantation techniques, for instance. Of{n}course, none of it has gone to waste.{p}It all contributes to my current research.",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen240.0017",
    "jp": "ブローニュ村の野菜はよくできているだろう？{n}でも、あそこは元々、栽培に適した土地では{n}なかったんだよ。{p}長年かけて土地の質を変えたのさ。{n}それが人間の力だよ。",
-   "en": "The vegetables in Boulogne Village grow well, don't{n}they? But the land wasn't originally suited to{n}cultivation.{p}They spent years improving the soil. That's what human{n}effort can accomplish.",
+   "en": "The vegetables in Boulogne Village grow well, don't{n}they? But the land wasn't originally suited{n}to cultivation.{p}They spent years improving the soil. That's what human{n}effort can accomplish.",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen240.0021",
    "jp": "はじめて自分の唱えた魔法が発動したときの感動は{n}忘れられないよ。{p}もっとも、その時は疲労のあまり{n}動けなくなってしまったけどね。",
-   "en": "I'll never forget the thrill of casting my first{n}successful spell.{p}Though I was so exhausted afterward that I couldn't{n}move.",
+   "en": "I'll never forget the thrill of casting my first{n}successful spell.{p}Though I was so exhausted afterward that I{n}couldn't move.",
    "term": "end"
   },
   {

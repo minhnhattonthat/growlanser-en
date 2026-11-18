@@ -27,7 +27,7 @@
   {
    "id": "scen248.0003",
    "jp": "じゃあみんな、{n}ずっと学院長に監視されていたの？",
-   "en": "So the Headmaster was watching us all the whole{n}time?",
+   "en": "So the Headmaster was watching us all the{n}whole time?",
    "term": "end"
   },
   {
@@ -162,7 +162,7 @@
   {
    "id": "scen248.0025",
    "jp": "今、アリオストさんが通ったよ。{n}ミーシャ君のことは僕に任せて欲しいって。{p}アリオストさんなら、{n}ミーシャを立ち直らせてくれるかな？",
-   "en": "Ariost-san just came by. He said, \"Leave Misha-kun to{n}me.\"{p}Do you think Ariost-san can help Misha get back on her{n}feet?",
+   "en": "Ariost-san just came by. He said, \"Leave Misha-kun{n}to me.\"{p}Do you think Ariost-san can help Misha get back on{n}her feet?",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen248.0036",
    "jp": "ミーシャはお兄ちゃんの事が好きなんだよ。{n}お兄ちゃんじゃなくちゃダメなの。",
-   "en": "Misha is in love with you, Big Brother. It has to be{n}you.",
+   "en": "Misha is in love with you, Big Brother. It has to{n}be you.",
    "term": "end"
   },
   {
@@ -426,7 +426,7 @@
   {
    "id": "scen248.0068",
    "jp": "いいんだよ。{n}僕はいつも元気なミーシャ君を見ていたいんだ。",
-   "en": "It's all right. I just want to see you always full of life,{n}Misha-kun.",
+   "en": "It's all right. I just want to see you always full of{n}life, Misha-kun.",
    "term": "end"
   },
   {
@@ -587,13 +587,13 @@
   {
    "id": "scen248.0094",
    "jp": "{v:0268}そうだね、自分を信じなきゃ何もできないよね‥‥。",
-   "en": "{v:0268}You're right. I can't do anything unless I believe in{n}myself...",
+   "en": "{v:0268}You're right. I can't do anything unless I believe{n}in myself...",
    "term": "end"
   },
   {
    "id": "scen248.0095",
    "jp": "{v:0269}お兄さまありがとう！{n}アタシ、もう一度最初から頑張ってみる！",
-   "en": "{v:0269}Thank you, Big Brother! I'll start over and give it my{n}all!",
+   "en": "{v:0269}Thank you, Big Brother! I'll start over and give it{n}my all!",
    "term": "end"
   },
   {

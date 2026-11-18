@@ -77,13 +77,13 @@
   {
    "id": "scen233.0011",
    "jp": "{v:00FA}奇襲に失敗した以上、長居は無用か。",
-   "en": "{v:00FA}Now that our ambush has failed, there is no point in{n}lingering.",
+   "en": "{v:00FA}Now that our ambush has failed, there is no point{n}in lingering.",
    "term": "end"
   },
   {
    "id": "scen233.0012",
    "jp": "{v:00FB}この借り、忘れはせん。{n}次に会うときは、覚悟しておくのだな。",
-   "en": "{v:00FB}I will not forget this debt. Be ready the next time we{n}meet.",
+   "en": "{v:00FB}I will not forget this debt. Be ready the next time{n}we meet.",
    "term": "end"
   },
   {

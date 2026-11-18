@@ -339,7 +339,7 @@
   {
    "id": "scen110.0055",
    "jp": "{v:005A}勝者にはリシャール様より、{n}バーンシュタイン王国コムスプリングスへの{n}旅行券がプレゼントされます！",
-   "en": "{v:005A}Richard-sama will present the winners with a Travel{n}Voucher for a trip to Comsprings in the Kingdom of{n}Burnstein!",
+   "en": "{v:005A}Richard-sama will present the winners with a Travel{n}Voucher for a trip to Comsprings in the Kingdom{n}of Burnstein!",
    "term": "end"
   },
   {
@@ -351,13 +351,13 @@
   {
    "id": "scen110.0057",
    "jp": "{v:0000}フレッシュマン、優勝チームの入場です！",
-   "en": "{v:0000}Here comes the winning team from the Freshman{n}division!",
+   "en": "{v:0000}Here comes the winning team from the{n}Freshman division!",
    "term": "end"
   },
   {
    "id": "scen110.0058",
    "jp": "{v:0001}そしてエキスパート、優勝者の入場です！",
-   "en": "{v:0001}And now, the champion of the Expert division makes an{n}entrance!",
+   "en": "{v:0001}And now, the champion of the Expert division makes{n}an entrance!",
    "term": "end"
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "scen110.0062",
    "jp": "{v:0006}あぁ、ありがとう。{n}君たちこそ、優勝おめでとう。",
-   "en": "{v:0006}Yes, thank you. Congratulations on your victory as{n}well.",
+   "en": "{v:0006}Yes, thank you. Congratulations on your victory{n}as well.",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen110.0066",
    "jp": "{v:000A}では、これよりエキシビジョンマッチを始めます。{n}両者、よろしいか？{p}{v:000B}試合、開始！",
-   "en": "{v:000A}We will now begin the exhibition match. Are both sides{n}ready?{p}{v:000B}Begin!",
+   "en": "{v:000A}We will now begin the exhibition match. Are both{n}sides ready?{p}{v:000B}Begin!",
    "term": "end"
   },
   {
@@ -441,13 +441,13 @@
   {
    "id": "scen110.0072",
    "jp": "{FFF5}‥‥{v:0047}気にするな。{n}全力で来い！",
-   "en": "{FFF5}...{v:0047}Do not worry about that. Come at me with all your{n}strength!",
+   "en": "{FFF5}...{v:0047}Do not worry about that. Come at me with all{n}your strength!",
    "term": "end"
   },
   {
    "id": "scen110.0073",
    "jp": "ずっとここの警備をしながら大会を見てきたけど、{n}こんなことは初めてだよ。",
-   "en": "I've watched the tournaments all these years while{n}guarding this place, but I've never seen anything like{n}this.",
+   "en": "I've watched the tournaments all these years while{n}guarding this place, but I've never seen anything{n}like this.",
    "term": "end"
   },
   {

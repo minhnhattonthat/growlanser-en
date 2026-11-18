@@ -105,7 +105,7 @@
   {
    "id": "scen113.0016",
    "jp": "私、そこにある魔法教室で先生をやっているの。{p}今はこのおじいさんにプライベートレッスンを{n}してたのよ。",
-   "en": "I teach at the magic school over there.{p}I was just giving this elderly gentleman a private{n}lesson.",
+   "en": "I teach at the magic school over there.{p}I was just giving this elderly gentleman a{n}private lesson.",
    "term": "end"
   },
   {
@@ -376,7 +376,7 @@
   {
    "id": "scen113.0057",
    "jp": "違うわ。{n}これは大気中に流れ出た魔力エネルギーなのよ。",
-   "en": "No. It's magical energy that has flowed out into the{n}atmosphere.",
+   "en": "No. It's magical energy that has flowed out into{n}the atmosphere.",
    "term": "end"
   },
   {
@@ -440,7 +440,7 @@
   {
    "id": "scen113.0067",
    "jp": "あなたの結果だけど‥‥。{n}もう少し知識を増やした方がいいと思うわ。",
-   "en": "As for your results... I think you should learn a little{n}more.",
+   "en": "As for your results... I think you should learn a{n}little more.",
    "term": "end"
   },
   {
@@ -536,13 +536,13 @@
   {
    "id": "scen113.0083",
    "jp": "普通に歩くだけじゃ、隠し場所には行けないぜ。",
-   "en": "You can't reach the hiding place just by walking{n}normally.",
+   "en": "You can't reach the hiding place just by{n}walking normally.",
    "term": "end"
   },
   {
    "id": "scen113.0084",
    "jp": "宝が見つからねぇ時は、川辺で遊んでみな。",
-   "en": "If you can't find the treasure, try playing by the{n}river.",
+   "en": "If you can't find the treasure, try playing by{n}the river.",
    "term": "end"
   },
   {
@@ -590,7 +590,7 @@
   {
    "id": "scen113.0092",
    "jp": "仕方ないや。{n}先に戻って、みんなが捕まるのを待ってよ‥‥。",
-   "en": "Oh, well. I'll head back and wait for everyone else to get{n}caught...",
+   "en": "Oh, well. I'll head back and wait for everyone else to{n}get caught...",
    "term": "end"
   },
   {
@@ -626,7 +626,7 @@
   {
    "id": "scen113.0098",
    "jp": "だ～{FE1E}か～{FE1E}ら～{FE14}っ！{FFFB}{n}右に行ったら、川に出ちゃうでしょ！{p}左に行くの！{n}{FE1E}ひ{FE1E}だ{FE1E}り！",
-   "en": "For{FE1E} the{FE1E} last{FE14} time!{FFFB} If you go right, you'll end up at the{n}river!{p}You go left!{FE1E} To{FE1E} the{FE1E} left!",
+   "en": "For{FE1E} the{FE1E} last{FE14} time!{FFFB} If you go right, you'll end up at{n}the river!{p}You go left!{FE1E} To{FE1E} the{FE1E} left!",
    "term": "end"
   },
   {
@@ -668,7 +668,7 @@
   {
    "id": "scen113.0105",
    "jp": "これから交代の時間なんだ。{n}ようやくゆっくり休めるよ‥‥。{p}と言っても、そこにある詰め所で寝るんだけどね。",
-   "en": "It's almost time for the next shift. I can finally get{n}some proper rest...{p}Though I'll just be sleeping in that guard station over{n}there.",
+   "en": "It's almost time for the next shift. I can finally get{n}some proper rest...{p}Though I'll just be sleeping in that guard station{n}over there.",
    "term": "end"
   },
   {
@@ -744,7 +744,7 @@
   {
    "id": "scen113.0117",
    "jp": "すまんのう‥‥。{n}もうこれ以上の物はないんじゃ‥‥。",
-   "en": "I'm sorry, my boy... I haven't anything better than{n}this...",
+   "en": "I'm sorry, my boy... I haven't anything better{n}than this...",
    "term": "end"
   },
   {
@@ -837,7 +837,7 @@
   {
    "id": "scen113.0132",
    "jp": "ちょっと！{n}何あつくなってるのよ！{p}今そんなことしたって、逆効果でしょ？{n}もっと落ち着きなさいよ！",
-   "en": "Hey! What are you getting so worked up for?!{p}Doing that now would only make things worse! Just calm{n}down!",
+   "en": "Hey! What are you getting so worked up for?!{p}Doing that now would only make things worse! Just{n}calm down!",
    "term": "end"
   },
   {
@@ -855,7 +855,7 @@
   {
    "id": "scen113.0135",
    "jp": "いろいろグチを言ってすまなかったね。{p}でも、‥‥もういいんだ。{n}どうせ俺たちの人生なんて、こんなものだからさ。",
-   "en": "Sorry for going on and on about our troubles.{p}But... it's all right now. That's just how our lives go,{n}anyway.",
+   "en": "Sorry for going on and on about our troubles.{p}But... it's all right now. That's just how our lives{n}go, anyway.",
    "term": "end"
   },
   {
@@ -971,7 +971,7 @@
   {
    "id": "scen113.0154",
    "jp": "そうだよ！{n}『恋のない人生なんて、無意味だ』って{n}偉い先生も言ってるしね。",
-   "en": "Exactly! As one great scholar said, 'Life without love is{n}meaningless.'",
+   "en": "Exactly! As one great scholar said, 'Life without love{n}is meaningless.'",
    "term": "end"
   },
   {
@@ -995,7 +995,7 @@
   {
    "id": "scen113.0158",
    "jp": "お、おい！{n}そこの女兵士、めちゃくちゃカッコ良くないか？",
-   "en": "H-hey! Isn't that woman soldier over there incredibly{n}cool?",
+   "en": "H-hey! Isn't that woman soldier over there{n}incredibly cool?",
    "term": "end"
   },
   {

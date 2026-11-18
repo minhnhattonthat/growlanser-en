@@ -320,7 +320,7 @@
   {
    "id": "scen254.0051",
    "jp": "あの時は大変だったんだよ。{n}お兄ちゃんに作ってあげようと思ってたのに、{n}なかなかうまい具合に焼けなくて‥‥。{p}{FFF5}そのうち日が暮れちゃって、{n}最後にはわたしが泣いちゃったんだよね‥‥。{p}{FC00}でも、お兄ちゃんが最後までわたしに{n}つき合ってくれたから、クッキーが焼けたんだよ。{p}あの時のクッキー‥‥おいしかったなぁ‥‥。",
-   "en": "It was so hard. I wanted to make you some cookies, Big{n}Brother, but I just couldn't get them to bake right...{p}{FFF5}Before I knew it, the sun had set, and I ended up{n}crying...{p}{FC00}But you stayed with me until the very end, Big{n}Brother, so I finally managed to bake them.{p}Those cookies... They were so good...",
+   "en": "It was so hard. I wanted to make you some cookies, Big{n}Brother, but I just couldn't get them to bake right...{p}{FFF5}Before I knew it, the sun had set, and I ended{n}up crying...{p}{FC00}But you stayed with me until the very end, Big{n}Brother, so I finally managed to bake them.{p}Those cookies... They were so good...",
    "term": "end"
   },
   {
@@ -449,7 +449,7 @@
   {
    "id": "scen254.0072",
    "jp": "ルイセちゃん、お菓子づくりの才能あるよ！",
-   "en": "Luise-chan, you've got a real talent for baking{n}sweets!",
+   "en": "Luise-chan, you've got a real talent for{n}baking sweets!",
    "term": "end"
   },
   {
@@ -572,7 +572,7 @@
   {
    "id": "scen254.0092",
    "jp": "泣かせるって‥‥。{n}プロミス・ペンダントの約束ね。{n}{FB00}こんなことでかなうのかしら[01BE]",
-   "en": "Make you cry...? Oh, the promise you made with the{n}Promise Pendant. {FB00}I wonder if this sort of thing would{n}count.[01BE]",
+   "en": "Make you cry...? Oh, the promise you made with the{n}Promise Pendant. {FB00}I wonder if this sort of thing{n}would count.[01BE]",
    "term": "end"
   },
   {

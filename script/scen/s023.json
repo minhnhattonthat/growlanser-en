@@ -57,7 +57,7 @@
   {
    "id": "scen023.0008",
    "jp": "{v:0005}アリオストさんのお父さん？{n}それじゃお母さんは？",
-   "en": "{v:0005}Your father, Ariost-san? Then what about your{n}mother?",
+   "en": "{v:0005}Your father, Ariost-san? Then what about{n}your mother?",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen023.0029",
    "jp": "{v:0014}パワーストーンが壊されてしまったなんて‥‥。{p}{v:0015}それではヴェンツェルを倒したとしても、{n}この世界を救う方法が‥‥。",
-   "en": "{v:0014}The Power Stone has been destroyed...{p}{v:0015}Then even if we defeat Wenzel, how can we save this{n}world...?",
+   "en": "{v:0014}The Power Stone has been destroyed...{p}{v:0015}Then even if we defeat Wenzel, how can we save{n}this world...?",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen023.0031",
    "jp": "{v:0017}パワーストーンが、{n}時空制御装置の要だという話はしましたね。{n}あれがなければ制御装置は動きません。{p}{v:0018}つまり、この世界を維持できないのです。{p}{v:0019}現在、徐々にではありますが、{n}２つの世界は元の位置に戻ろうと、離れ始めています。{p}{v:001A}それを止めることができるのは時空制御装置。{n}もしくは‥‥。",
-   "en": "{v:0017}I told you that the Power Stone is the heart of the{n}space-time control device. Without it, the device cannot{n}function.{p}{v:0018}In other words, we cannot sustain this world.{p}{v:0019}Even now, the two worlds are slowly beginning to{n}separate, trying to return to their original positions.{p}{v:001A}Only the space-time control device can stop that. Either{n}that, or...",
+   "en": "{v:0017}I told you that the Power Stone is the heart of the{n}space-time control device. Without it, the device{n}cannot function.{p}{v:0018}In other words, we cannot sustain this world.{p}{v:0019}Even now, the two worlds are slowly beginning to{n}separate, trying to return to their original positions.{p}{v:001A}Only the space-time control device can stop that. Either{n}that, or...",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen023.0036",
    "jp": "{v:0020}奴を倒したところで、{n}世界は破滅に向かうってわけか‥‥。",
-   "en": "{v:0020}So even if we beat him, the world's still headed for{n}ruin...",
+   "en": "{v:0020}So even if we beat him, the world's still headed{n}for ruin...",
    "term": "end"
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "scen023.0057",
    "jp": "{v:0006}いやぁ、僕はみんなみたいに{n}村の仕事をしていないから。",
-   "en": "{v:0006}Well, I don't do any of the village work like the rest of{n}you.",
+   "en": "{v:0006}Well, I don't do any of the village work like the rest{n}of you.",
    "term": "end"
   },
   {
@@ -429,7 +429,7 @@
   {
    "id": "scen023.0070",
    "jp": "{v:0016}オラたちは親もなく、捨てられた存在だったさ。{n}その日の飢えをしのぐのに人の物を盗んだり、{n}悪いこともしたさ。{p}{v:0017}だけどそんなオラたちを引き取って、{n}この村に連れてきてくれたのが{n}彼のお父さんだったのさ。{p}{v:0018}そしてオラたちに畑の耕し方を教えてくれたさ。",
-   "en": "{v:0016}We had no parents. Nobody wanted us. We stole from{n}folks and did bad things just to keep from going{n}hungry each day.{p}{v:0017}But his father took us in and brought us to this{n}village.{p}{v:0018}Then he taught us how to work the fields.",
+   "en": "{v:0016}We had no parents. Nobody wanted us. We stole from{n}folks and did bad things just to keep from going{n}hungry each day.{p}{v:0017}But his father took us in and brought us to{n}this village.{p}{v:0018}Then he taught us how to work the fields.",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen023.0072",
    "jp": "{v:001E}あの人が才能や運だけであそこまでになったなんて、{n}誰も思っちゃいないさ。{p}{v:001F}いつだってあの人は勉強している。{n}それはすごいことさ。{p}{v:0020}それどころか今日みたいに、{n}学院から報奨金が出ると村のために回してくれるのさ。",
-   "en": "{v:001E}Nobody thinks he got where he is on talent or luck{n}alone.{p}{v:001F}He's always studying, that man. It's something to{n}admire.{p}{v:0020}And on top of that, whenever the Academy gives him a{n}cash award, he puts it toward the village, just like{n}today.",
+   "en": "{v:001E}Nobody thinks he got where he is on talent or{n}luck alone.{p}{v:001F}He's always studying, that man. It's something{n}to admire.{p}{v:0020}And on top of that, whenever the Academy gives him a{n}cash award, he puts it toward the village, just{n}like today.",
    "term": "end"
   },
   {
@@ -573,7 +573,7 @@
   {
    "id": "scen023.0094",
    "jp": "ここが僕の家だ。{n}ちらかっているから、中に入るのはやめてくれ。",
-   "en": "This is my house. It's a mess, so please don't go{n}inside.",
+   "en": "This is my house. It's a mess, so please don't{n}go inside.",
    "term": "end"
   },
   {
@@ -615,7 +615,7 @@
   {
    "id": "scen023.0101",
    "jp": "さっきの女性、綺麗だったなぁ‥‥。",
-   "en": "That woman who was here just now sure was{n}pretty...",
+   "en": "That woman who was here just now sure{n}was pretty...",
    "term": "end"
   },
   {
@@ -651,19 +651,19 @@
   {
    "id": "scen023.0107",
    "jp": "グランシルへは行ったけ？{n}にぎやかでなんでもそろってる大都会さ。{n}行くなら村を出てしばらく南さ。",
-   "en": "Been to Grancil? It's a big, bustling city with everything{n}you could want. Head out of the village and go south a{n}ways.",
+   "en": "Been to Grancil? It's a big, bustling city with everything{n}you could want. Head out of the village and go south{n}a ways.",
    "term": "end"
   },
   {
    "id": "scen023.0108",
    "jp": "いや～、いい目の保養になったさ！{n}魔法学院にはあんな美人がいるんだね。{n}アリオストさんがうらやましいさ。{p}え？{n}その人なら村を素通りして西へ向かったけど。",
-   "en": "Ah, what a sight for sore eyes! So they've got{n}beauties like that at the Magic Academy. I envy{n}Ariost-san!{p}Hm? She passed straight through the village and headed{n}west.",
+   "en": "Ah, what a sight for sore eyes! So they've got{n}beauties like that at the Magic Academy. I{n}envy Ariost-san!{p}Hm? She passed straight through the village and{n}headed west.",
    "term": "end"
   },
   {
    "id": "scen023.0109",
    "jp": "その人村を素通りして西へ向かったさ。{p}いや～、魔法学院にはあんな美人がいるんだね。{n}アリオストさんがうらやましいよ。",
-   "en": "She passed straight through the village and headed{n}west.{p}Ah, so they've got beauties like that at the Magic{n}Academy. I envy Ariost-san!",
+   "en": "She passed straight through the village and{n}headed west.{p}Ah, so they've got beauties like that at the Magic{n}Academy. I envy Ariost-san!",
    "term": "end"
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "scen023.0115",
    "jp": "おや、アンタたちかい？{n}これからもアリオストさんのこと、よろしく頼むさ。",
-   "en": "Oh, it's you folks! Keep looking out for Ariost-san, won't{n}you?",
+   "en": "Oh, it's you folks! Keep looking out for Ariost-san,{n}won't you?",
    "term": "end"
   },
   {
@@ -711,7 +711,7 @@
   {
    "id": "scen023.0117",
    "jp": "アリオストさんの言ったとおり、{n}こいつなら年に２回収穫できるさ。",
-   "en": "Just like Ariost-san said, we can harvest this twice a{n}year.",
+   "en": "Just like Ariost-san said, we can harvest this twice{n}a year.",
    "term": "end"
   },
   {
@@ -723,7 +723,7 @@
   {
    "id": "scen023.0119",
    "jp": "そのかわり、一年中、畑を耕しているような‥‥。",
-   "en": "Only now it feels like we're tilling the fields all year{n}round...",
+   "en": "Only now it feels like we're tilling the fields all{n}year round...",
    "term": "end"
   },
   {
@@ -783,13 +783,13 @@
   {
    "id": "scen023.0129",
    "jp": "この先には、村の功労者が眠っているんです。",
-   "en": "Someone who did a great deal for this village rests up{n}ahead.",
+   "en": "Someone who did a great deal for this village rests{n}up ahead.",
    "term": "end"
   },
   {
    "id": "scen023.0130",
    "jp": "実は私、こう見えても絵心があるのよ。",
-   "en": "You might not guess it, but I have a talent for{n}painting.",
+   "en": "You might not guess it, but I have a talent{n}for painting.",
    "term": "end"
   },
   {
@@ -975,7 +975,7 @@
   {
    "id": "scen023.0161",
    "jp": "{v:0015}西の、王都の方へ行ったけど？{n}何かあったのかい？",
-   "en": "{v:0015}West, toward the royal capital. Has something{n}happened?",
+   "en": "{v:0015}West, toward the royal capital. Has{n}something happened?",
    "term": "end"
   },
   {
@@ -1091,7 +1091,7 @@
   {
    "id": "scen023.0180",
    "jp": "{v:0004}だって、パワーストーン渡しちゃったのって‥‥。",
-   "en": "{v:0004}But we were the ones who handed over the Power{n}Stone...",
+   "en": "{v:0004}But we were the ones who handed over the{n}Power Stone...",
    "term": "end"
   },
   {
@@ -1121,7 +1121,7 @@
   {
    "id": "scen023.0185",
    "jp": "当店をご利用でしたら、こちらで記帳なさって下さい。",
-   "en": "If you would like to stay here, please sign the{n}register.",
+   "en": "If you would like to stay here, please sign{n}the register.",
    "term": "end"
   },
   {
@@ -1239,7 +1239,7 @@
   {
    "id": "scen023.0204",
    "jp": "{v:0005}約束の物を持ってきた。{n}村人を解放してもらおうか。",
-   "en": "{v:0005}We've brought what we promised. Now release the{n}villagers.",
+   "en": "{v:0005}We've brought what we promised. Now release{n}the villagers.",
    "term": "end"
   },
   {

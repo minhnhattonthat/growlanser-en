@@ -87,7 +87,7 @@
   {
    "id": "scen057.0013",
    "jp": "ようこそ。{n}大陸でもっとも文明が進んだ街、バーンシュタインへ！",
-   "en": "Welcome to Burnstein, the most advanced city on the{n}continent!",
+   "en": "Welcome to Burnstein, the most advanced city on{n}the continent!",
    "term": "end"
   },
   {
@@ -99,7 +99,7 @@
   {
    "id": "scen057.0015",
    "jp": "このあたりには、{n}もうリシャール派の兵はいません！",
-   "en": "There are no more soldiers loyal to Richard in this{n}area!",
+   "en": "There are no more soldiers loyal to Richard in{n}this area!",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen057.0030",
    "jp": "{v:0036}厚かましい頼みだけど、{n}君たちにゲヴェルを倒して欲しいんだ。",
-   "en": "{v:0036}I know it is much to ask, but I want you to defeat{n}Gevel.",
+   "en": "{v:0036}I know it is much to ask, but I want you to{n}defeat Gevel.",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen057.0066",
    "jp": "よく見ると古井戸の中に通路がある。{n}中へ入りますか？",
-   "en": "A closer look reveals a passage inside the old well.{n}Enter?",
+   "en": "A closer look reveals a passage inside the old{n}well. Enter?",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen057.0072",
    "jp": "{v:0005}レティシア姫、サンドラ様、お待ちしておりました。",
-   "en": "{v:0005}Princess Leticia, Sandra-sama. We have been expecting{n}you.",
+   "en": "{v:0005}Princess Leticia, Sandra-sama. We have been{n}expecting you.",
    "term": "end"
   },
   {
@@ -543,7 +543,7 @@
   {
    "id": "scen057.0089",
    "jp": "あれ以来、化け物の姿はなくなりました。",
-   "en": "There have been no sightings of the monsters since{n}then.",
+   "en": "There have been no sightings of the monsters{n}since then.",
    "term": "end"
   },
   {
@@ -768,7 +768,7 @@
   {
    "id": "scen057.0126",
    "jp": "どうだ！{n}思い知ったか、下等な人間ども！",
-   "en": "How's that?! Have you learned your lesson, you lowly{n}humans?!",
+   "en": "How's that?! Have you learned your lesson, you{n}lowly humans?!",
    "term": "end"
   },
   {
@@ -786,7 +786,7 @@
   {
    "id": "scen057.0129",
    "jp": "{v:0033}クックックッ！{n}暴れろ！{n}食らえ！{p}{v:0034}我々の恐ろしさを、人間どもに刻みつけてやれ！",
-   "en": "{v:0033}Heh heh heh! Rampage! Devour!{p}{v:0034}Teach these humans to fear us! Make sure they never{n}forget!",
+   "en": "{v:0033}Heh heh heh! Rampage! Devour!{p}{v:0034}Teach these humans to fear us! Make sure they{n}never forget!",
    "term": "end"
   },
   {
@@ -864,7 +864,7 @@
   {
    "id": "scen057.0142",
    "jp": "あ、ラルフ兄ちゃん！{n}今度勉強みてくれよ。",
-   "en": "Oh, Big Brother Ralph! Help me with my studies{n}sometime!",
+   "en": "Oh, Big Brother Ralph! Help me with my{n}studies sometime!",
    "term": "end"
   },
   {
@@ -888,7 +888,7 @@
   {
    "id": "scen057.0146",
    "jp": "‥‥っとその前に、{n}お近づきのしるしにこれをあげよう。",
-   "en": "...But first, let me give you this as a token of our new{n}friendship.",
+   "en": "...But first, let me give you this as a token of our{n}new friendship.",
    "term": "end"
   },
   {
@@ -918,7 +918,7 @@
   {
    "id": "scen057.0151",
    "jp": "だれだい？{n}最近よく見かける顔だなぁ‥‥。",
-   "en": "Who are you? I've been seeing your face around a lot{n}lately...",
+   "en": "Who are you? I've been seeing your face around a{n}lot lately...",
    "term": "end"
   },
   {
@@ -954,7 +954,7 @@
   {
    "id": "scen057.0157",
    "jp": "あんたらがローランディアの騎士さんたちだね？{n}早いとこ、あいつを倒してよ。{n}安心して生活できないじゃないの。",
-   "en": "You're those knights from Rolandia, aren't you? Hurry{n}up and defeat that thing! We can't live in peace like{n}this.",
+   "en": "You're those knights from Rolandia, aren't you? Hurry{n}up and defeat that thing! We can't live in peace{n}like this.",
    "term": "end"
   },
   {
@@ -1082,7 +1082,7 @@
   {
    "id": "scen057.0177",
    "jp": "ここから先では、ジュリアン将軍が戦われています！{n}あなた達ははやく城内へ！",
-   "en": "General Julian is fighting up ahead! Hurry inside the{n}castle!",
+   "en": "General Julian is fighting up ahead! Hurry inside{n}the castle!",
    "term": "end"
   },
   {

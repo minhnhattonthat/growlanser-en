@@ -111,7 +111,7 @@
   {
    "id": "scen001.0017",
    "jp": "{v:0049}フェザリアンって、{n}あの高～い岩の上の方に住んでるんでしょ？{p}{v:004A}とてもじゃないけど、アタシは飛んでいけないよ。",
-   "en": "{v:0049}The Featherians live way up on that reeeally tall rock,{n}right?{p}{v:004A}There's no way I can fly all the way up there!",
+   "en": "{v:0049}The Featherians live way up on that reeeally tall{n}rock, right?{p}{v:004A}There's no way I can fly all the way up there!",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen001.0019",
    "jp": "え？{n}サンドラ様の研究室で調べ物をしたいって？{p}悪いけどそれはダメなんだ‥‥。{n}例えそれが緊急の用であっても、{n}一般市民を城の中へ入れることは出来ないんだ‥‥。{p}すまないね‥‥。",
-   "en": "Hm? You want to do some research in Sandra-sama's{n}laboratory?{p}Sorry, but I can't allow that... Even if it's urgent, I{n}can't let ordinary citizens into the castle...{p}I'm sorry...",
+   "en": "Hm? You want to do some research in{n}Sandra-sama's laboratory?{p}Sorry, but I can't allow that... Even if it's urgent, I{n}can't let ordinary citizens into the castle...{p}I'm sorry...",
    "term": "end"
   },
   {
@@ -325,7 +325,7 @@
   {
    "id": "scen001.0052",
    "jp": "久しぶりにお客さんが来たよ‥‥。{n}もう嬉しくって泣けてくるねぇ‥‥。",
-   "en": "A customer, after all this time... I'm so happy I could{n}cry...",
+   "en": "A customer, after all this time... I'm so happy I{n}could cry...",
    "term": "end"
   },
   {
@@ -421,7 +421,7 @@
   {
    "id": "scen001.0068",
    "jp": "{v:005F}本当だって！{n}顔にお面を着けた奴が出てきたんだよ！",
-   "en": "{v:005F}I'm telling you, it's true! A guy wearing a mask came{n}out!",
+   "en": "{v:005F}I'm telling you, it's true! A guy wearing a mask{n}came out!",
    "term": "end"
   },
   {
@@ -497,7 +497,7 @@
   {
    "id": "scen001.0080",
    "jp": "{v:0067}アタシが聞くのぉ？{n}‥‥なんか、ヤな予感‥‥。",
-   "en": "{v:0067}You want ME to ask? ...I've got a bad feeling about{n}this...",
+   "en": "{v:0067}You want ME to ask? ...I've got a bad feeling{n}about this...",
    "term": "end"
   },
   {
@@ -795,7 +795,7 @@
   {
    "id": "scen001.0129",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
@@ -961,7 +961,7 @@
   {
    "id": "scen001.0156",
    "jp": "ここにいると思ったのに‥‥。{n}他に隠れられる場所、あったっけなぁ‥‥。",
-   "en": "I thought they'd be here... Was there anywhere else to{n}hide...?",
+   "en": "I thought they'd be here... Was there anywhere else{n}to hide...?",
    "term": "end"
   },
   {
@@ -991,7 +991,7 @@
   {
    "id": "scen001.0161",
    "jp": "一生懸命勉強して魔法学院に入って‥‥{p}王様に認められて宮廷魔術師になって‥‥{p}あげくの果てに襲われて殺されるんじゃ{n}イヤだな‥‥{p}‥‥魔術師になるばっかりが{n}人生じゃないかも。",
-   "en": "Study as hard as I can, get into the Magic Academy...{p}Earn the king's recognition and become a Court{n}Magician...{p}Only to end up getting attacked and killed? No thanks...{p}...Maybe there's more to life than becoming a mage.",
+   "en": "Study as hard as I can, get into the Magic Academy...{p}Earn the king's recognition and become a{n}Court Magician...{p}Only to end up getting attacked and killed? No thanks...{p}...Maybe there's more to life than becoming a mage.",
    "term": "end"
   },
   {
@@ -1071,7 +1071,7 @@
   {
    "id": "scen001.0174",
    "jp": "いま赤く囲った場所は、{n}{FFF0}ＥＸＰ{FFF1}：現在の経験値{n}{FFF0}ＮＥＸＴ{FFF1}：次のＬＶになるために必要な経験値{n}を意味するの。{p}私の場合、現在の経験値は０。{n}今のＬＶは１で、ＬＶ２になるためには{n}経験値を１５必要としているわ。",
-   "en": "Here's what the area I've outlined in red means:{n}{FFF0}EXP{FFF1}: Current experience points{n}{FFF0}NEXT{FFF1}: Experience points needed for the next level{p}In my case, I currently have 0 experience points. I'm at{n}level 1, and I need 15 experience points to reach level{n}2.",
+   "en": "Here's what the area I've outlined in red means:{n}{FFF0}EXP{FFF1}: Current experience points{n}{FFF0}NEXT{FFF1}: Experience points needed for the next level{p}In my case, I currently have 0 experience points. I'm at{n}level 1, and I need 15 experience points to reach{n}level 2.",
    "term": "end"
   },
   {
@@ -1119,13 +1119,13 @@
   {
    "id": "scen001.0182",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you would like to know about{n}abilities?",
+   "en": "Is there anything else you would like to know{n}about abilities?",
    "term": "end"
   },
   {
    "id": "scen001.0183",
    "jp": "だいたいはわかったんじゃが‥‥。{n}１つ聞いてもいいかのぉ。",
-   "en": "I think I've got the gist of it... But might I ask one{n}thing?",
+   "en": "I think I've got the gist of it... But might I ask{n}one thing?",
    "term": "end"
   },
   {
@@ -1155,7 +1155,7 @@
   {
    "id": "scen001.0188",
    "jp": "もうこの王都に怪しい奴は通さない！{n}だから、君たちは自分のすべきことに専念してくれ！",
-   "en": "I won't let anyone suspicious into the royal capital{n}again! So you can concentrate on what you need to{n}do!",
+   "en": "I won't let anyone suspicious into the royal capital{n}again! So you can concentrate on what you need{n}to do!",
    "term": "end"
   },
   {
@@ -1185,7 +1185,7 @@
   {
    "id": "scen001.0193",
    "jp": "フェザリアン？{n}ああ、この先の岬で目撃されることもあるけどね。{n}直接、会ったことのある人はいないようだな。",
-   "en": "A Featherian? Ah, they're sometimes spotted at the{n}cape up ahead. But it seems no one's ever met one in{n}person.",
+   "en": "A Featherian? Ah, they're sometimes spotted at the{n}cape up ahead. But it seems no one's ever met one{n}in person.",
    "term": "end"
   },
   {
@@ -1245,7 +1245,7 @@
   {
    "id": "scen001.0203",
    "jp": "ここはローランディア王国の王都、ローザリアです。",
-   "en": "This is Rosaria, the royal capital of the Kingdom of{n}Rolandia.",
+   "en": "This is Rosaria, the royal capital of the Kingdom{n}of Rolandia.",
    "term": "end"
   },
   {
@@ -1293,19 +1293,19 @@
   {
    "id": "scen001.0211",
    "jp": "サボっているわけじゃないぞ。{n}交代の時間だから、申し送りをしているんだ。{p}何か異常がなかったかとかね。{n}大切なことなんだぞ！",
-   "en": "We're not slacking off. It's time to change shifts, so{n}we're passing things on.{p}Like whether we saw anything unusual. It's important{n}work!",
+   "en": "We're not slacking off. It's time to change shifts, so{n}we're passing things on.{p}Like whether we saw anything unusual. It's{n}important work!",
    "term": "end"
   },
   {
    "id": "scen001.0212",
    "jp": "これから交代の時間なんだ。{n}ようやくゆっくり休めるよ‥‥。{p}と言っても、そこにある詰め所で寝るんだけどね。",
-   "en": "My shift's about to end. Finally, I can get some proper{n}rest...{p}Though I'll just be sleeping in that guard post over{n}there.",
+   "en": "My shift's about to end. Finally, I can get some{n}proper rest...{p}Though I'll just be sleeping in that guard post{n}over there.",
    "term": "end"
   },
   {
    "id": "scen001.0213",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {

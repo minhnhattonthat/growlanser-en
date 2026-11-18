@@ -117,7 +117,7 @@
   {
    "id": "scen002.0018",
    "jp": "くせ者？{n}それらしい者は見かけていないが‥‥。",
-   "en": "An intruder? I haven't seen anyone who fits that{n}description...",
+   "en": "An intruder? I haven't seen anyone who fits{n}that description...",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen002.0022",
    "jp": "この者たちを王にお目通りさせたいのです。",
-   "en": "I would like these people to have an audience with the{n}King.",
+   "en": "I would like these people to have an audience with{n}the King.",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen002.0025",
    "jp": "ここから先は用のない者は入れないよ。",
-   "en": "You can't go any farther unless you have business{n}inside.",
+   "en": "You can't go any farther unless you have{n}business inside.",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen002.0029",
    "jp": "ついに君も騎士になったか‥‥。{p}ま、君の功績を考えれば当然って感じだな‥‥。",
-   "en": "So you've finally become a knight...{p}Well, with all you've done, it was only a matter of{n}time...",
+   "en": "So you've finally become a knight...{p}Well, with all you've done, it was only a matter{n}of time...",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen002.0033",
    "jp": "こののどかな国を守るためにも、{n}君たちも頑張ってくれよ！",
-   "en": "Do your part to protect this peaceful country, all{n}right?",
+   "en": "Do your part to protect this peaceful country,{n}all right?",
    "term": "end"
   },
   {
@@ -409,7 +409,7 @@
   {
    "id": "scen002.0066",
    "jp": "サンドラ様がお倒れになったらしいわね。{n}大したことじゃないといいのだけれど‥‥。",
-   "en": "I hear Sandra-sama has fallen ill. I do hope it isn't{n}serious...",
+   "en": "I hear Sandra-sama has fallen ill. I do hope it{n}isn't serious...",
    "term": "end"
   },
   {
@@ -421,7 +421,7 @@
   {
    "id": "scen002.0068",
    "jp": "妖精ちゃん。{n}あなたも彼と一緒に頑張ってね！",
-   "en": "Little fairy, you keep doing your best alongside him,{n}too!",
+   "en": "Little fairy, you keep doing your best alongside{n}him, too!",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen002.0072",
    "jp": "‥‥なんて、のんびりしてられないか。{n}今、隣国との戦争まっただ中だもんな‥‥。{p}ったく、なんてことしてくれたんだ。{n}この国のお偉いさんはさ‥‥。",
-   "en": "...Then again, I can't just take it easy. We're in the{n}middle of a war with our neighbor...{p}Damn it, what have this country's big shots gotten us{n}into?",
+   "en": "...Then again, I can't just take it easy. We're in the{n}middle of a war with our neighbor...{p}Damn it, what have this country's big shots gotten{n}us into?",
    "term": "end"
   },
   {
@@ -511,7 +511,7 @@
   {
    "id": "scen002.0083",
    "jp": "じゃ、急いで他を探そう！{n}逃げられちゃうよ！",
-   "en": "Then let's hurry and look somewhere else! He's getting{n}away!",
+   "en": "Then let's hurry and look somewhere else! He's{n}getting away!",
    "term": "end"
   },
   {
@@ -541,7 +541,7 @@
   {
    "id": "scen002.0088",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "　{n}　　　　　South Avenue Shopping District: Open for{n}Business!!",
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
    "term": "end"
   },
   {
@@ -565,13 +565,13 @@
   {
    "id": "scen002.0092",
    "jp": "覆面をした男？{n}アンタ達の探してるヤツかどうかわからないけど、{n}怪しいヤツならここをまっすぐ走っていったわよ。",
-   "en": "A masked man? I don't know if he's the one you're{n}after, but someone suspicious ran straight down this{n}way.",
+   "en": "A masked man? I don't know if he's the one you're{n}after, but someone suspicious ran straight down{n}this way.",
    "term": "end"
   },
   {
    "id": "scen002.0093",
    "jp": "あたしゃ戦争なんか嫌いだね。{n}だってさ、ひょっとしたら家の息子も駆り出される{n}かもしれないだろ？",
-   "en": "I can't stand war. My own son might get called up, you{n}know?",
+   "en": "I can't stand war. My own son might get called up,{n}you know?",
    "term": "end"
   },
   {
@@ -705,7 +705,7 @@
   {
    "id": "scen002.0114",
    "jp": "おお、これはこれはレティシア姫。{n}ご機嫌うるわしゅう‥‥。",
-   "en": "Oh, well, well, Princess Leticia. I trust you are in good{n}spirits...",
+   "en": "Oh, well, well, Princess Leticia. I trust you are in{n}good spirits...",
    "term": "end"
   },
   {
@@ -723,7 +723,7 @@
   {
    "id": "scen002.0117",
    "jp": "‥‥何か、言い方がカチンとくるんだけど、{n}それは、アタシの気のせい？",
-   "en": "...Is it just me, or is the way he talks REALLY{n}annoying?",
+   "en": "...Is it just me, or is the way he talks{n}REALLY annoying?",
    "term": "end"
   },
   {
@@ -783,13 +783,13 @@
   {
    "id": "scen002.0127",
    "jp": "実技も上々の結果よ♪{n}さ～ってと、{n}あとは、残った時間でやりたいことをやろうっと♪",
-   "en": "I did wonderfully on the practical exam, too♪ Now{n}then, I'll spend the time I have left doing whatever I{n}like♪",
+   "en": "I did wonderfully on the practical exam, too♪ Now{n}then, I'll spend the time I have left doing whatever{n}I like♪",
    "term": "end"
   },
   {
    "id": "scen002.0128",
    "jp": "あなたに教えることは、もうなさそうね。{p}だけどこのおじいさんは、{n}まだまだ勉強が必要みたい[01BE]",
-   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying to{n}do[01BE]",
+   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying{n}to do[01BE]",
    "term": "end"
   },
   {
@@ -801,13 +801,13 @@
   {
    "id": "scen002.0130",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you would like to know about{n}abilities?",
+   "en": "Is there anything else you would like to know{n}about abilities?",
    "term": "end"
   },
   {
    "id": "scen002.0131",
    "jp": "だいたいはわかったんじゃが‥‥。{n}１つ聞いてもいいかのぉ。",
-   "en": "I think I've got the gist of it... But might I ask one{n}thing?",
+   "en": "I think I've got the gist of it... But might I ask{n}one thing?",
    "term": "end"
   },
   {
@@ -951,7 +951,7 @@
   {
    "id": "scen002.0155",
    "jp": "{v:0057}そうそう！{n}ねぇ、ゼノス。{n}こっちに怪しい男が逃げてこなかった？",
-   "en": "{v:0057}Oh, right! Hey, Xenos! Did some suspicious guy run this{n}way?",
+   "en": "{v:0057}Oh, right! Hey, Xenos! Did some suspicious guy run{n}this way?",
    "term": "end"
   },
   {
@@ -1005,7 +1005,7 @@
   {
    "id": "scen002.0164",
    "jp": "{v:0062}それにしても、逃げ足の速い奴ね！{n}もうこの街にはいないってことかな？",
-   "en": "{v:0062}Still, that guy sure can run! Think he's already out of{n}town?",
+   "en": "{v:0062}Still, that guy sure can run! Think he's already out{n}of town?",
    "term": "end"
   },
   {
@@ -1053,7 +1053,7 @@
   {
    "id": "scen002.0172",
    "jp": "私は門番でしかないから、{n}ここを動けないのが悔しいです‥‥。",
-   "en": "I am only a gatekeeper, so I cannot leave my post. It is{n}frustrating...",
+   "en": "I am only a gatekeeper, so I cannot leave my post. It{n}is frustrating...",
    "term": "end"
   },
   {
@@ -1224,13 +1224,13 @@
   {
    "id": "scen002.0200",
    "jp": "申し送り中なんだよ。{n}仕事の邪魔をしないでくれ。",
-   "en": "We're handing over our duties. Don't interrupt our{n}work.",
+   "en": "We're handing over our duties. Don't interrupt{n}our work.",
    "term": "end"
   },
   {
    "id": "scen002.0201",
    "jp": "ゆっくり休んだことだし、{n}また見張りをがんばるぞ。",
-   "en": "I've had a good rest. Time to get back to keeping{n}watch.",
+   "en": "I've had a good rest. Time to get back to{n}keeping watch.",
    "term": "end"
   },
   {
@@ -1242,7 +1242,7 @@
   {
    "id": "scen002.0203",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "　{n}　　'Remember to lock up when you go out!' --Rosaria{n}Guard",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
    "term": "end"
   },
   {
@@ -1314,7 +1314,7 @@
   {
    "id": "scen002.0215",
    "jp": "{v:0022}別にお前から金を取ろうなんて思っちゃいねぇよ！{n}お前を殺せという依頼があったから‥‥。",
-   "en": "{v:0022}I ain't after your money! Someone hired us to kill you,{n}so...",
+   "en": "{v:0022}I ain't after your money! Someone hired us to kill{n}you, so...",
    "term": "end"
   },
   {
@@ -1566,7 +1566,7 @@
   {
    "id": "scen002.0256",
    "jp": "{v:0077}しかし、リシャール王に{n}双子の兄弟がいるという話は聞いたことがありません。",
-   "en": "{v:0077}But I have never heard of King Richard having a twin{n}brother.",
+   "en": "{v:0077}But I have never heard of King Richard having a{n}twin brother.",
    "term": "end"
   },
   {
@@ -1590,7 +1590,7 @@
   {
    "id": "scen002.0260",
    "jp": "{v:007E}でも戴冠式を偽者に任せるかなぁ？",
-   "en": "{v:007E}But would he let an impostor stand in for him at his{n}coronation?",
+   "en": "{v:007E}But would he let an impostor stand in for him at{n}his coronation?",
    "term": "end"
   },
   {
@@ -1716,7 +1716,7 @@
   {
    "id": "scen002.0281",
    "jp": "すっげ～！{n}お兄ちゃん達って強いんだね！",
-   "en": "Wooow! You and your friends are really strong, Big{n}Brother!",
+   "en": "Wooow! You and your friends are really strong,{n}Big Brother!",
    "term": "end"
   },
   {
@@ -1836,7 +1836,7 @@
   {
    "id": "scen002.0301",
    "jp": "マスターを連れだして、どこへ行くつもりよ！",
-   "en": "Where do you think you're going, dragging Master{n}along?!",
+   "en": "Where do you think you're going, dragging{n}Master along?!",
    "term": "end"
   },
   {

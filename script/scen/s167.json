@@ -81,7 +81,7 @@
   {
    "id": "scen167.0012",
    "jp": "{v:000C}お前たちと剣を交えるのは初めてだな。{n}{FC02}ゆくぞ！",
-   "en": "{v:000C}This is the first time we have crossed swords.{FC02}Here I{n}come!",
+   "en": "{v:000C}This is the first time we have crossed swords.{FC02}Here{n}I come!",
    "term": "end"
   },
   {

@@ -99,7 +99,7 @@
   {
    "id": "scen026.0015",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "How rude! Hot springs are a perfectly valid subject of{n}research!",
+   "en": "How rude! Hot springs are a perfectly valid subject{n}of research!",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen026.0023",
    "jp": "さっき、インペリアル・ナイトの人も{n}奥へ向かったよ。",
-   "en": "An Imperial Knight went farther inside a little while ago,{n}too.",
+   "en": "An Imperial Knight went farther inside a little while{n}ago, too.",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen026.0041",
    "jp": "もぉ、やだぁ‥‥[01BE]{n}ど～して、こんなメにあうのよぉ‥‥[01BE]",
-   "en": "I can't take any mooore...[01BE] Why is this happening to{n}meee...?[01BE]",
+   "en": "I can't take any mooore...[01BE] Why is this happening{n}to meee...?[01BE]",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen026.0061",
    "jp": "{v:0053}う～ん、考えてみると{n}研究を欲しがっているような‥‥。",
-   "en": "{v:0053}Hmm... Come to think of it, it sounds like he wants the{n}research...",
+   "en": "{v:0053}Hmm... Come to think of it, it sounds like he wants{n}the research...",
    "term": "end"
   },
   {
@@ -399,7 +399,7 @@
   {
    "id": "scen026.0065",
    "jp": "{v:0057}つまり、自分を狙う戦力だけを目標にしてるってこと？{p}{v:0058}支配者として、労働力には手を出さない‥‥。",
-   "en": "{v:0057}So he's only targeting forces that might come after{n}him?{p}{v:0058}As their ruler, he leaves his workforce unharmed...",
+   "en": "{v:0057}So he's only targeting forces that might come{n}after him?{p}{v:0058}As their ruler, he leaves his workforce unharmed...",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen026.0072",
    "jp": "{v:0035}あきらめたら、そこで終わりです。{n}希望を捨てないで、がんばりましょう。",
-   "en": "{v:0035}If you give up, it is over. Hold on to hope, and keep{n}trying.",
+   "en": "{v:0035}If you give up, it is over. Hold on to hope, and{n}keep trying.",
    "term": "end"
   },
   {
@@ -453,7 +453,7 @@
   {
    "id": "scen026.0074",
    "jp": "{FFF3}‥‥{FFF4}{v:0037}とはいえ、多勢に無勢。{n}つらいですね‥‥。",
-   "en": "{FFF3}...{FFF4}{v:0037}That said, we are badly outnumbered. This is{n}difficult...",
+   "en": "{FFF3}...{FFF4}{v:0037}That said, we are badly outnumbered. This{n}is difficult...",
    "term": "end"
   },
   {
@@ -471,7 +471,7 @@
   {
    "id": "scen026.0077",
    "jp": "{v:003A}多くの知識を持つことは、決して悪いことではない。{n}だが支配する側から見れば、{n}それは困ったことなのだよ。{p}{v:003B}よってこの学院の関係者は抹殺する！",
-   "en": "{v:003A}Possessing a wealth of knowledge is by no means a{n}bad thing. From a ruler's perspective, however, it is{n}rather troublesome.{p}{v:003B}Therefore, everyone connected to this Academy shall be{n}eliminated!",
+   "en": "{v:003A}Possessing a wealth of knowledge is by no means a{n}bad thing. From a ruler's perspective, however, it is{n}rather troublesome.{p}{v:003B}Therefore, everyone connected to this Academy shall{n}be eliminated!",
    "term": "end"
   },
   {
@@ -519,7 +519,7 @@
   {
    "id": "scen026.0085",
    "jp": "{v:0045}だったらお前を倒して、{n}名実ともに英雄になってやらぁ！",
-   "en": "{v:0045}Then I'll beat you and become a hero in more than just{n}name!",
+   "en": "{v:0045}Then I'll beat you and become a hero in more than{n}just name!",
    "term": "end"
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "scen026.0102",
    "jp": "{v:0009}奴のテレポート能力がなくなった！？{n}おい、何をやったんだ、ウォレス？",
-   "en": "{v:0009}He can't teleport anymore?! Hey, Wallace, what did you{n}do?",
+   "en": "{v:0009}He can't teleport anymore?! Hey, Wallace, what did{n}you do?",
    "term": "end"
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "scen026.0115",
    "jp": "{v:0017}無理じゃない。{n}無理じゃないけど、実用的じゃないよ。",
-   "en": "{v:0017}It's not impossible. Not impossible, but not practical,{n}either.",
+   "en": "{v:0017}It's not impossible. Not impossible, but not{n}practical, either.",
    "term": "end"
   },
   {
@@ -789,7 +789,7 @@
   {
    "id": "scen026.0130",
    "jp": "{v:0028}あの城が浮いている原理は、{n}我々フェザリアンが過去に確立した技術です。{p}{v:0029}そして我々が今住んでいるあの島も、{n}同じ技術で浮いています。{p}{v:002A}その技術とは、{n}この世界に、ある種の力を与え続けることで、{n}特定の装置に浮力を与える物。{p}{v:002B}その力を止めてしまえば、{n}あの城は浮いていられなくなります。",
-   "en": "{v:0028}That castle floats using technology we Featherians{n}developed long ago.{p}{v:0029}The island where we now live is kept aloft by the same{n}technology.{p}{v:002A}By continuously supplying this world with a certain kind{n}of force, it allows specific devices to float.{p}{v:002B}If we stop supplying that force, the castle will no{n}longer be able to stay aloft.",
+   "en": "{v:0028}That castle floats using technology we Featherians{n}developed long ago.{p}{v:0029}The island where we now live is kept aloft by the{n}same technology.{p}{v:002A}By continuously supplying this world with a certain kind{n}of force, it allows specific devices to float.{p}{v:002B}If we stop supplying that force, the castle will no{n}longer be able to stay aloft.",
    "term": "end"
   },
   {
@@ -819,7 +819,7 @@
   {
    "id": "scen026.0135",
    "jp": "{v:0030}はるか昔、我々フェザリアンも、{n}この大地で生活していた民だった。{p}{v:0031}だが人間との思想の違いから、大地を捨て、{n}フェザーランドに移り住むこととなった。",
-   "en": "{v:0030}Long ago, we Featherians also lived upon this land.{p}{v:0031}But differences between our beliefs and those of{n}humans led us to abandon the land and settle in{n}Featherland.",
+   "en": "{v:0030}Long ago, we Featherians also lived upon this land.{p}{v:0031}But differences between our beliefs and those of{n}humans led us to abandon the land and settle{n}in Featherland.",
    "term": "end"
   },
   {
@@ -855,7 +855,7 @@
   {
    "id": "scen026.0141",
    "jp": "{v:0045}いいえ。{n}人間がヴェンツェルのテレポートを奪ったのです。{p}{v:00A9}皆のあきらめない気持ちが１つになったとき、{n}意志の力が奇跡を起こしました。{n}まるでパワーストーンのように‥‥。",
-   "en": "{v:0045}No. It was humanity that took Wenzel's power to{n}teleport.{p}{v:00A9}When everyone's determination to persevere became{n}one, the power of their will worked a miracle. Just like a{n}Power Stone...",
+   "en": "{v:0045}No. It was humanity that took Wenzel's power{n}to teleport.{p}{v:00A9}When everyone's determination to persevere became{n}one, the power of their will worked a miracle. Just like a{n}Power Stone...",
    "term": "end"
   },
   {
@@ -1075,7 +1075,7 @@
   {
    "id": "scen026.0177",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my very{n}best!",
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
    "term": "end"
   },
   {

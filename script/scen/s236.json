@@ -15,7 +15,7 @@
   {
    "id": "scen236.0001",
    "jp": "さあ、お前の力を私に見せてみろ！{FFFB}{n}そして、私が私だという証明をさせてくれ！",
-   "en": "Come, show me your strength!{FFFB} And let me prove who I{n}am!",
+   "en": "Come, show me your strength!{FFFB} And let me prove who{n}I am!",
    "term": "end"
   },
   {
@@ -39,7 +39,7 @@
   {
    "id": "scen236.0005",
    "jp": "どうした！{n}そんなことで私を変えられると思っているのか！？",
-   "en": "What is wrong?! Do you think you can change me like{n}that?!",
+   "en": "What is wrong?! Do you think you can change me{n}like that?!",
    "term": "end"
   },
   {

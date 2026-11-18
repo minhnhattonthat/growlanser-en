@@ -39,7 +39,7 @@
   {
    "id": "scen193.0005",
    "jp": "{v:0061}ああっ！{n}あの部屋もメチャメチャにされちゃった！{p}{v:0062}せっかく秘密がわかると思ったのに‥‥。",
-   "en": "{v:0061}Ah! They've trashed that room too!{p}{v:0062}And I thought we were finally going to uncover the{n}secret...",
+   "en": "{v:0061}Ah! They've trashed that room too!{p}{v:0062}And I thought we were finally going to uncover{n}the secret...",
    "term": "end"
   },
   {

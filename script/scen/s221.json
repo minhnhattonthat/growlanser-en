@@ -87,7 +87,7 @@
   {
    "id": "scen221.0013",
    "jp": "{v:004E}さて、お前たちで、{n}どこまで民間人を守りきれるかな？",
-   "en": "{v:004E}Now, let us see how long you can keep these civilians{n}safe.",
+   "en": "{v:004E}Now, let us see how long you can keep these{n}civilians safe.",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen221.0017",
    "jp": "{v:0053}本当は最後まで見てみたいが、私も暇ではないのでね。{n}これで失礼させてもらうよ。",
-   "en": "{v:0053}I would dearly like to watch this to the end, but I have{n}other matters to attend to. You will have to excuse{n}me.",
+   "en": "{v:0053}I would dearly like to watch this to the end, but I have{n}other matters to attend to. You will have to{n}excuse me.",
    "term": "end"
   }
  ]
