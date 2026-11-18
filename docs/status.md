@@ -2,7 +2,26 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, next (phase 7 done 2026-11-19).
+- **Phase:** 8. QA in the emulator, in progress (phase 7 done 2026-11-19).
+- **Phase 8 session 1 (2026-11-19):** tools + first tour.
+  - Tour: `warp_all.py --cue <build cue> --out work/qa/tour --shot-every 120` (tour mode = per-warp `--sheet`):
+    68/68 landed, 224 sheets in work/qa/tour/manifest.tsv (qa_gate init, --build disc 1 bin); JP baseline
+    work/qa/tour_jp (same command on rom/). Brief: docs/visual-qa-brief.md (Growlanser non-bugs).
+  - Verdicts: `tools/vqa_run.py work/qa/tour` (qa_gate todo -> codex exec read-only per chunk, final message parsed
+    into work/qa/tour/verdicts/chunk_*.tsv; a chunk missing ids is not written, re-run). Result: see "vqa" below.
+  - Text coverage: `tools/strings.py` (also written by build.py as build/strings.tsv: id -> hash of the printer's
+    words; 24,071 reachable strings) + probe `tools/debug/textlog.lua` (printer entry 0x8006E794, text =
+    *(*(sp+0x1C)), logs `TEXT <hash>`). `warp_all.py --script tools/debug/textlog.lua` adds --debugger. Verified:
+    newgame warp key matched scen000.0003. Report: `textcover.py work/qa/cov build/strings.tsv`.
+  - Message forcing: `tools/debug/msgforce.lua` replaces each scene-message printer call with the next message of
+    the loaded section (shots mKKKK_PP.png). Scene 0 test (work/qa/mf_try): section found (184 messages), 21
+    forced, then the scene's own flow ended (cutscene). Needs a looping trigger (NPC talked to repeatedly, or a
+    `FROM=k` rerun loop) before it can cover every scene: the next session's main job for coverage.
+    `warp_all.py --raw N-M [--then ROUTE] [--frames F]` runs bare scene ids (folders scene_NNN).
+  - G1 title: VRAM page x=640-767 is a mosaic of 8bpp tile pieces (logo, menu words, © line glyphs) from MAP.DAT
+    entry 1161; the arrangement is probably entry 1160 (4 KB: u16 0x0B14, then 0x28 0x0F = 40x15 cells of 8 px = 320x120, the title band? guess;
+    then u32 offsets 0x74 0x48C 0x48C 0x524 0x528 0x634 0x634 0xAE4 0xAE4 to sub-blocks). Decode that before redrawing.
+    D5 reading: drop the katakana subtitle (official English logos have none), キャリアソフト -> CARRIER SOFT.
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
   contact sheets, visual-QA verdicts with `qa_gate.py`, graphics text G1-G8 from docs/re/graphics.md, `inkbox.py`
   on choice/centred boxes, `textcover.py`). Things to watch, found in phase 7: (1) any other window the game sizes

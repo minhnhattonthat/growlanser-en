@@ -34,13 +34,21 @@ def scenes():
     return out
 
 
-def run(cue, out, name, frames, states, probes=()):
+def run(cue, out, name, frames, states, probes=(), every=500, then=None):
     d = out / name
+    raw = re.fullmatch(r"scene_(\d+)", name)  # --raw: a bare scene id, run on the New Game map
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(cue), "--out", str(d),
-           "--script", str(ROOT / "tools" / "debug" / "warp.lua"), "--var", f"SCENE='{name}'",
-           "--frames", str(frames), "--shot-every", "500", "--timeout", str(120 + frames // 20)]
+           "--script", str(ROOT / "tools" / "debug" / "warp.lua"),
+           "--var", f"SCENE='scene {int(raw.group(1))}'" if raw else f"SCENE='{name}'",
+           "--frames", str(frames), "--shot-every", str(every), "--timeout", str(120 + frames // 20)]
+    if raw and then:
+        cmd += ["--var", f"THEN='{then}'"]
+    if every < 500:
+        cmd.append("--sheet")  # tour mode: per-warp contact sheets for visual QA
     for p in probes:
         cmd += ["--script", str(Path(p).resolve())]
+    if probes:
+        cmd.append("--debugger")  # probes use L.on_exec
     if states:
         cmd += ["--state-out", str(ROOT / "work" / "states" / f"{name}.sstate")]
     p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
@@ -59,15 +67,23 @@ def main():
     ap.add_argument("--states", action="store_true")
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "warp"))
     ap.add_argument("--script", action="append", default=[], help="extra probe Lua for every run (repeatable)")
+    ap.add_argument("--shot-every", type=int, default=500, help="below 500 = tour mode: --sheet per warp")
+    ap.add_argument("--raw", help="scene id range N-M instead of scenes.txt names (folders scene_NNN)")
+    ap.add_argument("--then", default="6 circle*250", help="route after landing for --raw runs")
+    ap.add_argument("--frames", type=int, default=11000, help="run length for --raw runs")
     a = ap.parse_args()
+    if a.raw:
+        lo, hi = map(int, a.raw.split("-"))
+        a.names = [f"scene_{i:03d}" for i in range(lo, hi + 1)]
     todo = [s for s in scenes() if not a.names or s[0] in a.names]
+    todo += [(n, a.frames) for n in a.names if n.startswith("scene_")]
     missing = set(a.names) - {s[0] for s in todo}
     if missing:
         sys.exit(f"not in scenes.txt: {' '.join(sorted(missing))}")
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     with ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states, a.script), todo))
+        res = list(ex.map(lambda s: run(a.cue, out, s[0], s[1], a.states, a.script, a.shot_every, a.then), todo))
     with open(out / "results.tsv", "w", encoding="utf-8") as f:
         f.write("name\tok\texit\tlanded_frame\terror\n")
         for r in res:

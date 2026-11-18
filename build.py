@@ -148,6 +148,10 @@ def main():
         files = patches(disc, "marker" if args.marker else "en", args.qa)
         for path in build_disc(disc, ROOT / args.out / f"disc{disc}", files):
             print(f"{sha1(path)}  {path.relative_to(ROOT).as_posix()}")
+    if not (args.marker or args.qa):
+        import strings  # text-coverage keys for textcover.py (phase 8)
+        with open(ROOT / args.out / "strings.tsv", "w", encoding="utf-8", newline="\n") as f:
+            f.writelines(f"{i}\t{k:X}\n" for i, k in strings.rows())
 
 
 if __name__ == "__main__":
