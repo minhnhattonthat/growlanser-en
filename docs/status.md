@@ -22,6 +22,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     entry 1161; the arrangement is probably entry 1160 (4 KB: u16 0x0B14, then 0x28 0x0F = 40x15 cells of 8 px = 320x120, the title band? guess;
     then u32 offsets 0x74 0x48C 0x48C 0x524 0x528 0x634 0x634 0xAE4 0xAE4 to sub-blocks). Decode that before redrawing.
     D5 reading: drop the katakana subtitle (official English logos have none), キャリアソフト -> CARRIER SOFT.
+  - vqa (codex, 2026-11-19, build 2281f05f): 204 ok, 20 issue (work/qa/vqa.log, verdicts in work/qa/tour/verdicts).
+    Open, next session fixes these first, then re-tour the warps and add `verdicts/recheck_N.tsv`:
+    (a) field-menu bubble labels Magic / Equipment / Strategy sit 5-10 px left of centre (menu*, gear_equip,
+        gear_status, menu_save, tour sheet_4): the bubble centres by code count, like the name tags: pad or measure.
+    (b) place popup: "Nostridge Plains Garrison" off-centre (bt_bernard f002640), "Delis Village" drawn overlapped
+        as "Dels'lage" (gear_spell f003360). Popup = 0x8006BB78 (exe.places, width 12, code-count frame).
+    (c) bt_oswald2 f002400: centred popup with two Japanese/garbled glyphs (no popup in the JP frame: timing?).
+    (d) name_entry f002160+: keyboard labels and romanized rows clipped/fragmented (JP intact).
+    (e) empty dialogue body: bt_bandits f002400 (Wallace), ev_charamake f003600 (Citizen): check frame timing first.
+    (f) one-word last lines: dn_glocian f002640 "interior.", st_vac01 f003360 "closer.", st_vac02 f003240
+        "person.": reword or make the wrapper avoid a single-word final line.
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
   contact sheets, visual-QA verdicts with `qa_gate.py`, graphics text G1-G8 from docs/re/graphics.md, `inkbox.py`
   on choice/centred boxes, `textcover.py`). Things to watch, found in phase 7: (1) any other window the game sizes
