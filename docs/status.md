@@ -2,7 +2,17 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 5: tour gate green incl. disc 2 + card warps; next: credits warp, G5).
+- **Phase:** 8. QA in the emulator, in progress (session 6: ending + credits warps found; next: G5 credits redraw).
+- **Phase 8 session 6 (2026-11-19): ending + credits reached.**
+  - `ending` / `credits` in scenes.txt: scene 11 area 81 sub 0 on disc 2 (ティピの日記 epilogue) + mash Circle. JP
+    run work/qa/ending2 (shot every 600): diary + portraits f8000-11000, CAST f12000-19200 (Japanese role／actor
+    lines, romanized actor line under each), staff pages, last page 開発 キャリアソフト / 著作 アトラス／キャリアソフト /
+    制作 アトラス + (c) line ~f28800. Run as `warp_all.py credits --cue <cue>` (~10 min).
+  - Status lead "MAP.DAT 1256/1257 via EXE 0x80109500" was wrong (per-area field gfx table, docs/re/debug.md).
+    G5 source still = MAP.DAT entry 1257 per the sweep: confirm with a VRAM dump on a CAST page (ppudump.lua
+    DUMP_AT ~f13000, then vramsrc.py against MAP.DAT) before redrawing.
+  - G8: jPSXdec v2.1 fetched to tools/jpsxdec/ (gitignored); running it was refused by the auto-mode permission
+    check (new download). Needs the owner to allow `java -jar tools/jpsxdec/...` (see Waiting on the user).
 - **Phase 8 session 5 (2026-11-19): re-tour, disc 2 + memory card warps.**
   - Tour 4 on build 82ef6e4c (work/qa/tourbuild now holds disc 1 and disc 2): 69 + 8 disc 2 story points + title_load /
     title_appendix, JP baseline for all in work/qa/tour_jp. vqa (work/qa/vqa4.log, vqa5.log): all ok except
@@ -100,8 +110,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase 8 still to do (next sessions, in this order):**
   1. (done session 5: tour gate green on 82ef6e4c; any build change -> re-tour into work/qa/tour from a copy in
      work/qa/tourbuild, qa_gate init, vqa_run.py)
-  1b. Credits warp: find the staff-roll entry (reader of the EXE MAP.DAT id list near 0x80109F0A, or the ending scene
-     after the final tower; scene 93 links), then a scenes.txt entry; same for the cleared-game flag (G4 appendix room).
+  1b. (done session 6: `ending`, `credits` warps.) Still open: the cleared-game flag (G4 appendix room); try a card
+     save taken after the `credits` warp finishes (the game may offer a clear save after the staff roll).
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
   3. Graphics text (docs/re/graphics.md): G1-G3 done. G5 credits (see session 4 note; warp first), G6 kana atlas
      (credits font? D14 keeps the name-entry keyboard kana), G4 appendix (needs a memory-card fixture for title
@@ -215,7 +225,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   directly (`SCENE='scene N'`) run on the New Game map unless area/sub is given; correct maps per scene need a
   full VM parse (op lengths partly known).
 - **Open bugs:** none. (The message-speed config option no longer does anything: text prints a page at a time.)
-- **Waiting on the user:** nothing (all once-per-project questions answered in docs/decisions.md).
+- **Waiting on the user:** (not blocking) allow running jPSXdec (`java -jar tools/jpsxdec/jpsxdec_v2.1-beta/jpsxdec.jar`,
+  github.com/m35/jpsxdec v2.1) for G8, the FMV logo subtitle: the auto-mode check refused it as a fresh download.
+  Until then G8 stays as is; everything else continues.
 - **Engine notes:** pair coding costs ~1 byte per English letter (JP: 2 bytes per character), so sections grow
   roughly by the English/JP character ratio / 2. Scene entries are packed back-to-back in RAM: find the
   allocator/cap before English text grows them. The dialogue box takes ~50 English characters per line.

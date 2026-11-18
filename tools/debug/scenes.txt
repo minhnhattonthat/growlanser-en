@@ -45,6 +45,10 @@ st_gevel         scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick
 st_after_gevel   scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 13;6 circle*40;6 circle*80
 st_party_feather scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 14;pick 0;6 circle*40;6 circle*80
 st_party_stone   scene 18 area 2 sub 1 disc 2 frames 7500 then 300 -;pick 3;pick 14;pick 1;6 circle*40;6 circle*80
+# ending (scene 11 = ティピの日記 epilogue, area 81): diary + portraits ~f8000-11000, CAST pages ~f12000-19200,
+# staff pages to the 開発/著作/制作 lines ~f28800 (work/qa/ending2, shot every 600)
+ending           scene 11 area 81 sub 0 disc 2 frames 12000 then 6 circle*1600
+credits          scene 11 area 81 sub 0 disc 2 frames 30000 then 6 circle*3000
 
 # event quick check: dbg 7 -> list
 ev_charamake     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 0;6 circle*60

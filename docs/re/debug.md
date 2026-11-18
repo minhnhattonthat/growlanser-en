@@ -55,9 +55,11 @@ Scene 13 holds a note that it is only used during vacations (休暇). Full text:
   points land on both the original and the English build.
 - `tools/debug/where.lua` logs "WHERE f scene area sub" on each change. 祝賀会以降 (pick 14) loads scene 93 (map
   59/4: Grancil celebration, free roam: Circle alone does not advance it); scene 93 links to scene 2 / area 62.
-  The ending + staff roll (G5) is still unreached: it follows the final tower (時空制御塔). Leads: the MAP.DAT id
-  list at EXE 0x801094FC.. (u16 ids, 1256/1257 at 0x80109F0A, title 1160/1161 at 0x80109E0E) is the special-screen
-  file list; find its reader (not a plain lui/addiu of that address) to get the credits entry point.
+  Ending: scene 11 area 81 sub 0 (ティピの日記, the epilogue; scene 120 links to it) on disc 2: lands, then mashing
+  Circle runs the diary and the portrait-over-sky epilogue (work/qa/ending1, f8100+). Wrong lead, dropped: the u16
+  list at EXE 0x80109500 is not a special-screen file list but per-area field graphics: byte table 0x801083B0
+  (83 areas x 10: u16 base, 8 sub -> record), records 0x801086F0 (16 bytes: 6 x u16 (count<<12 | start) into the
+  list), reader 0x80068EF0 (area gp+0x8fa, sub gp+0x8fe); ids go past 1312, so they are not MAP.DAT entry numbers.
 - Memory card: `warp_all.py card_save` saves a New Game (menu_save route + OK) to work/states/save1.mcd; entries
   marked `card` run with it. With a save the title cursor starts on LOAD. APPENDIX then shows "GROW LANSER /
   AORI's APPENDIX ROOM / Now Closing" (graphics, already English) and goes back: the room itself (G4) needs a
