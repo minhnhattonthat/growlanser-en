@@ -34,3 +34,4 @@ MSYS.DAT    9160-BFF7      G2/G3 resistance labels + element icons, x 192-239 of
 MSYS.DAT    42800-49FFF    text subfiles 6/7 in place
 MSYS.DAT    24B800-FFFFFF  text subfiles 6/7 moved past the original end
 MAP.DAT     635C000-63797FF  entry 1161: English title texture (tools/title.py)
+MAP.DAT     6B9A000-6C11FFF  entry 1257 pages 2-16: English credits cast roles + closing lines (tools/credits.py)

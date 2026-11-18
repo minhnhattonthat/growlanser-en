@@ -29,6 +29,16 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   label). `tools/statusgfx.py` redraws MSYS 0x9100 x 192-239 in place (D15). Label CLUT VRAM (288,505), icon CLUT
   (256,505) (work/qa/g2v dump). Only NULL is seen in the warp (debug unit has all 無効); the other labels' colours
   come from the label's own brightest index.
+- G5 credits (session 7): MAP.DAT entry 1256 ends (at its offset-table field 0x38 = 0x13AC) with 19 upload records
+  (u16 sector in e1257, flags = sectors | 0x100 if 8bpp, VRAM x, y, width px, rows). Pages 2-16 = 4bpp 256x255
+  credit pages shown in record order as one scrolling strip (index ramp 1 = ink .. 15 = white bg; page 16 bg 14);
+  page 18 = the kana+Latin atlas (G6), 12x12 cells from (120,0), baseline row 9. `tools/credits.py` (pages / show /
+  patch, run by insert.patched) erases each cast JP line (role／actor) and right-aligns the English role (glossary
+  names, 36 entries Tippi..Wenzel) in the atlas Latin font above the kept romanized actor line; closing lines ->
+  "Developed by CARRIER SOFT" / "Copyright ATLUS / CARRIER SOFT" / "Produced by ATLUS"; (c) line keeps "(c)ATLUS／"
+  and "1999", CARRIER SOFT in small caps cut from actor lines. In game: work/qa/g5/credits (f012000-f027000).
+- G6: the atlas is loaded with the credits (VRAM 768,256) but never drawn: every credits frame of the JP and English
+  runs (work/qa/ending2, work/qa/g5) shows only the pages. No visible Japanese; left as is.
 
 ## G1 title layout (phase 8 session 3, 2026-11-19)
 - MAP.DAT entry 1160 (4 KB) tail at 0xAE4: 4 upload records (u16 ?, ?, VRAM x, VRAM y, width in bytes, rows):

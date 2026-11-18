@@ -73,7 +73,7 @@ class English(unittest.TestCase):
                 allowed.setdefault(name, []).append(range(int(lo, 16), int(hi or lo, 16) + 1))
         for name in (self.insert.EXE, "MSYS.DAT", "MAP.DAT"):
             writes = [(o, a, b, w) for f, o, a, b, w in self.log if f == name]
-            self.assertTrue(writes, name)  # MAP.DAT: one write (the title entry)
+            self.assertTrue(writes, name)  # MAP.DAT: the title and credits entries
             errs, _ = romdiff.check((extract.TREE / name).read_bytes(), self.out[name], allowed[name], writes)
             self.assertEqual(errs, [], name)
 
