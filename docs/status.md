@@ -2,9 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress (2026-11-18): wave 0 (b001-b017: EXE tables, MSYS descriptions) and the
-  dialogue pilot (b018-b020, scenes 0-2) translated, reviewed, merged; b021-b204 (dialogue) running through
-  `tools/tl_run.py pipeline` (codex exec, -j 8). Last build: 2026-11-18 `build.py --marker` (phase 5), smoke ok.
+- **Phase:** 7. Insert, fit, check: not started (phase 6 done 2026-11-18). No full-English build yet.
+  Last build: 2026-11-18 `build.py --marker` (phase 5), smoke ok.
 - **Done:**
   - Step 0: template, tools fetched (PCSX-Redux nightly 31789, SCPH-5500 BIOS, mkpsxiso 2.30, armips 0.11.0 in
     `tools/`, gitignored), rom.sha1 (3 bins), check + pre-commit hook, guard hook, boot route `tools/routes/boot.txt`
@@ -57,10 +56,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   82 terms added to glossary). docs/translator-brief.md, docs/style-reference.md, docs/synopsis.md (codex, from
   per-scene summaries in docs/scenes/), D9-D11. Item names are hard-capped at 96 px: 15 key items shortened in b003
   (e.g. "[02A4]Search Warrant", "Palsy Ward Tome"); widen the item field in phase 7 if possible, then restore.
-- **Next (phase 6):** when the runner ends, `python -X utf8 tools/tl_run.py status` + work/tl/wave1.log: re-run
-  failed batches (`tl_run.py pipeline bNNN ..`, fix by hand when codex can't fit), merge NEW TERM reports
-  (work/tl/bNNN.report.txt) into glossary.md, `tools/check.py`, commit, push. Phase 6 done when every batch is
-  merged (work/tl/bNNN.done) and check passes.
+- **Phase 6 (done 2026-11-18):** all 204 batches merged (work/tl/bNNN.done), 0 entries without English, lint 0
+  problems on 27,177 entries. b112/b114/b122/b123/b156 (Critical/Important left after 3 codex rounds) fixed by hand
+  from their r2 reviews. `{s:0127}` is 目 drawn from the names table ("Eye"), not a name: `batches.GLYPH_VARS`
+  lets English drop it (brief + glossary note); 9 merged lines fixed. Wave-2 term conflicts picked by majority/table
+  spelling (glossary section "wave 2"), losers fixed; `normalize.py --majority 3 --write` gave 774 repeated strings
+  one English. Reviewer Minors (486 lines) are in docs/polish.md for phase 9.
+- **Next (phase 7):** full-English `build.py`, then the engine items below (MSYS growth, SCEN RAM cap, item-name
+  width; restore the 15 shortened key items if the field widens), width/overflow lint, control codes, romdiff.
 - **Before phase 7 (engine, found in phase 5):** MSYS descriptions have almost no slack (one 4-line ruler in
   items, or 3 rulers in magic+skills, overflow `insert.MSYS_LIMIT`): grow the subfiles (sector table 0x8001273C,
   count table 0x800126BC, load buffers 0x80117B98 / 0x80141778). SCEN entries grow with English: find the scene

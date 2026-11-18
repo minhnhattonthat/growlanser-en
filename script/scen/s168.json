@@ -15,115 +15,115 @@
   {
    "id": "scen168.0001",
    "jp": "警報",
-   "en": "",
+   "en": "Alarm",
    "term": "null"
   },
   {
    "id": "scen168.0002",
    "jp": "う～ん‥‥。",
-   "en": "",
+   "en": "Hmm...",
    "term": "end"
   },
   {
    "id": "scen168.0003",
    "jp": "？{n}どうしたの？",
-   "en": "",
+   "en": "Hm? What's wrong?",
    "term": "end"
   },
   {
    "id": "scen168.0004",
    "jp": "どうも周りにいる発光体のようなものが、{n}あの巨大機械へのエネルギー供給源に{n}なっているような感じだな‥‥。",
-   "en": "",
+   "en": "Those glowing objects around us seem to be supplying{n}energy to that enormous machine...",
    "term": "end"
   },
   {
    "id": "scen168.0005",
    "jp": "つまり、発光体をぜんぶつぶせば、{n}中央のヤツが動かなくなるってことか？",
-   "en": "",
+   "en": "So if we smash all the glowing things, the one in the{n}middle stops moving?",
    "term": "end"
   },
   {
    "id": "scen168.0006",
    "jp": "自信はないけどね。{n}ただ、そんな風に見えないかい？",
-   "en": "",
+   "en": "I can't be sure. But doesn't it look that way to you?",
    "term": "end"
   },
   {
    "id": "scen168.0007",
    "jp": "よくわかんない‥‥。",
-   "en": "",
+   "en": "I can't really tell...",
    "term": "end"
   },
   {
    "id": "scen168.0008",
    "jp": "もっとも、巨大機械を直接つぶす方が{n}早いかもしれないけどね‥‥。",
-   "en": "",
+   "en": "Of course, it might be faster to destroy the enormous{n}machine itself...",
    "term": "end"
   },
   {
    "id": "scen168.0009",
    "jp": "とりあえず、どうするかは{n}{s:0000}に任せよう。",
-   "en": "",
+   "en": "For now, let's leave the decision to{n}{s:0000}.",
    "term": "end"
   },
   {
    "id": "scen168.0010",
    "jp": "むぅぅ‥‥。",
-   "en": "",
+   "en": "Hrrm...",
    "term": "end"
   },
   {
    "id": "scen168.0011",
    "jp": "どうしたの、ウォレスさん？",
-   "en": "",
+   "en": "What's wrong, Wallace-san?",
    "term": "end"
   },
   {
    "id": "scen168.0012",
    "jp": "この魔法の眼を通して見ていると、{n}周りで光っている球体から、真ん中のデカイ奴に{n}動力が流れているように見えるんだ。{p}俺は魔法や、魔導装置に詳しくねぇから、{n}正しいのかどうかわからんがな。{p}とりあえず、判断はお前に任せるぞ、{n}{s:0000}。",
-   "en": "",
+   "en": "Looking through this Magic Eye, I can see what looks{n}like power flowing from those glowing spheres to the{n}big thing in the middle.{p}I don't know much about magic or magical machinery, so{n}I can't say for sure.{p}I'll leave the call to you, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen168.0013",
    "jp": "{v:0040}カウントダウン終了。{n}これより、フロアーを爆破します！",
-   "en": "",
+   "en": "{v:0040}Countdown complete. Detonating this floor now!",
    "term": "end"
   },
   {
    "id": "scen168.0014",
    "jp": "{v:0041}きゃーーーっ！",
-   "en": "",
+   "en": "{v:0041}Aaaah!",
    "term": "end"
   },
   {
    "id": "scen168.0015",
    "jp": "{v:003A}警告します。{n}フロア爆破まで、あと１００カウントです。",
-   "en": "",
+   "en": "{v:003A}Warning. 100 counts until this floor detonates.",
    "term": "end"
   },
   {
    "id": "scen168.0016",
    "jp": "{v:0039}警告します。{n}フロア爆破まで、あと２００カウントです。",
-   "en": "",
+   "en": "{v:0039}Warning. 200 counts until this floor detonates.",
    "term": "end"
   },
   {
    "id": "scen168.0017",
    "jp": "{v:0038}警告します。{n}フロア爆破まで、あと４００カウントです。",
-   "en": "",
+   "en": "{v:0038}Warning. 400 counts until this floor detonates.",
    "term": "end"
   },
   {
    "id": "scen168.0018",
    "jp": "{v:0037}警告します。{n}フロア爆破まで、あと６００カウントです。",
-   "en": "",
+   "en": "{v:0037}Warning. 600 counts until this floor detonates.",
    "term": "end"
   },
   {
    "id": "scen168.0019",
    "jp": "{v:0036}警告します。{n}フロア爆破まで、あと８００カウントです。",
-   "en": "",
+   "en": "{v:0036}Warning. 800 counts until this floor detonates.",
    "term": "end"
   }
  ]

@@ -237,7 +237,7 @@
   {
    "id": "scen038.0038",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "{v:0000}Hi there! Welcome! We've got all sorts of equipment{n}here!",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
    "term": "end"
   },
   {
@@ -283,7 +283,7 @@
   {
    "id": "scen038.0045",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "{v:000B}Come agaaain! I'll be waiting!",
+   "en": "{v:000B}Come back soon! I'll be waiting!",
    "term": "end"
   },
   {
@@ -571,7 +571,7 @@
   {
    "id": "scen038.0093",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Excuse me...[01BE] I'm afraid you don't have enough money.",
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
    "term": "end"
   },
   {
@@ -1315,7 +1315,7 @@
   {
    "id": "scen038.0213",
    "jp": "なんと答えますか？",
-   "en": "How will you respond?",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
@@ -1649,7 +1649,7 @@
   {
    "id": "scen038.0267",
    "jp": "なんと声をかけますか？",
-   "en": "What will you say to her?",
+   "en": "What will you say?",
    "term": "end"
   },
   {

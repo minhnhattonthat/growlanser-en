@@ -15,1618 +15,1618 @@
   {
    "id": "scen100.0001",
    "jp": "ダグラス卿",
-   "en": "",
+   "en": "Lord Douglas",
    "term": "null"
   },
   {
    "id": "scen100.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen100.0003",
    "jp": "王母アンジェラ",
-   "en": "",
+   "en": "Queen Mother Angela",
    "term": "null"
   },
   {
    "id": "scen100.0004",
    "jp": "ティピ",
-   "en": "",
+   "en": "Tippi",
    "term": "null"
   },
   {
    "id": "scen100.0005",
    "jp": "標識",
-   "en": "",
+   "en": "Signpost",
    "term": "null"
   },
   {
    "id": "scen100.0006",
    "jp": "男",
-   "en": "",
+   "en": "Man",
    "term": "null"
   },
   {
    "id": "scen100.0007",
    "jp": "ウォレス",
-   "en": "",
+   "en": "Wallace",
    "term": "null"
   },
   {
    "id": "scen100.0008",
    "jp": "暖炉ガール",
-   "en": "",
+   "en": "Fireplace Girl",
    "term": "null"
   },
   {
    "id": "scen100.0009",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen100.0010",
    "jp": "疲れているのはわかるが、{n}休む前に報告を頼む。",
-   "en": "",
+   "en": "I know you are tired, but I need your report before{n}you rest.",
    "term": "end"
   },
   {
    "id": "scen100.0011",
    "jp": "今日はお疲れでしょう。{n}テントでお休み下さい。",
-   "en": "",
+   "en": "You must be tired after today. Please rest in the{n}tent.",
    "term": "end"
   },
   {
    "id": "scen100.0012",
    "jp": "{s:011B}がお待ちです。",
-   "en": "",
+   "en": "{s:011B} is waiting for you.",
    "term": "end"
   },
   {
    "id": "scen100.0013",
    "jp": "{v:0000}{s:0008}の方はどうだった？",
-   "en": "",
+   "en": "{v:0000}How did things go with {s:0008}?",
    "term": "end"
   },
   {
    "id": "scen100.0014",
    "jp": "{v:0001}協力してくれることになりました。",
-   "en": "",
+   "en": "{v:0001}We have secured his cooperation.",
    "term": "end"
   },
   {
    "id": "scen100.0015",
    "jp": "{v:0002}{s:0004}はどうしていますか？",
-   "en": "",
+   "en": "{v:0002}What is {s:0004} doing?",
    "term": "end"
   },
   {
    "id": "scen100.0016",
    "jp": "{v:0003}彼は{s:0008}と一緒に行動するそうです。",
-   "en": "",
+   "en": "{v:0003}He says he will be accompanying {s:0008}.",
    "term": "end"
   },
   {
    "id": "scen100.0017",
    "jp": "{v:0004}{s:0008}さんと一緒に行動するようです。",
-   "en": "",
+   "en": "{v:0004}It seems he will be accompanying {s:0008}.",
    "term": "end"
   },
   {
    "id": "scen100.0018",
    "jp": "{v:0005}そうですか。",
-   "en": "",
+   "en": "{v:0005}I see.",
    "term": "end"
   },
   {
    "id": "scen100.0019",
    "jp": "{v:0006}ところでどうしてこんな所に本陣を設営しているんだ？{n}もっと進んでいてもいいはずだが‥‥。",
-   "en": "",
+   "en": "{v:0006}By the way, why set up headquarters here? You{n}should've been able to advance farther...",
    "term": "end"
   },
   {
    "id": "scen100.0020",
    "jp": "{v:0007}実は、この先の川で{s:00F2}の集団が暴れており、{n}これ以上進めないのだ。",
-   "en": "",
+   "en": "{v:0007}A group of {s:00F2} is wreaking havoc at{n}the river ahead. We cannot advance any farther.",
    "term": "end"
   },
   {
    "id": "scen100.0021",
    "jp": "{v:0008}{s:00F2}の集団？",
-   "en": "",
+   "en": "{v:0008}A group of {s:00F2}?",
    "term": "end"
   },
   {
    "id": "scen100.0022",
    "jp": "{v:0009}うむ。{p}{v:000A}だが{s:00F2}が暴れている以上、{n}{s:001B}王の差し向けた軍隊も、{n}こちらに来られないでいる。{p}{v:000B}とにかく今日はここで休んでくれ。",
-   "en": "",
+   "en": "{v:0009}Indeed.{p}{v:000A}However, as long as the {s:00F2} continue{n}their rampage, the army sent by King {s:001B}{n}cannot reach us either.{p}{v:000B}In any case, rest here for today.",
    "term": "end"
   },
   {
    "id": "scen100.0023",
    "jp": "色々とお疲れでしょう。{n}テントでお休み下さい。",
-   "en": "",
+   "en": "You must be tired after all you have been through.{n}Please rest in the tent.",
    "term": "end"
   },
   {
    "id": "scen100.0024",
    "jp": "いよいよ戦いの時が来ましたね。",
-   "en": "",
+   "en": "The time to fight has finally come.",
    "term": "end"
   },
   {
    "id": "scen100.0025",
    "jp": "私の働きを見ていて下さい！",
-   "en": "",
+   "en": "Just watch what I can do!",
    "term": "end"
   },
   {
    "id": "scen100.0026",
    "jp": "ゆっくり休んでくれたまえ。",
-   "en": "",
+   "en": "Do get some rest.",
    "term": "end"
   },
   {
    "id": "scen100.0027",
    "jp": "早く戦争が終わるように、{n}がんばりましょう。",
-   "en": "",
+   "en": "Let us do our best to bring this war to a swift end.",
    "term": "end"
   },
   {
    "id": "scen100.0028",
    "jp": "西　：　シュッツベルグ{n}東　：　バーンシュタイン王都方面",
-   "en": "",
+   "en": "West: Schutzberg{n}East: Toward the Burnstein Royal Capital",
    "term": "end"
   },
   {
    "id": "scen100.0029",
    "jp": "　{n}　　　『{FFEF}{s:000B}の可能性６{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}{s:000B}'s Potential 6{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen100.0030",
    "jp": "エビどもがいなくなったら‥‥。",
-   "en": "",
+   "en": "Once those shrimp are gone...",
    "term": "end"
   },
   {
    "id": "scen100.0031",
    "jp": "これじゃ進軍できないぞ‥‥。",
-   "en": "",
+   "en": "We can't march forward like this...",
    "term": "end"
   },
   {
    "id": "scen100.0032",
    "jp": "今度はインペリアル・ナイトだと？",
-   "en": "",
+   "en": "Now it's an Imperial Knight?!",
    "term": "end"
   },
   {
    "id": "scen100.0033",
    "jp": "どうすりゃいいんだ‥‥。",
-   "en": "",
+   "en": "What are we supposed to do...?",
    "term": "end"
   },
   {
    "id": "scen100.0034",
    "jp": "まったく、どうして{s:00F2}が‥‥。",
-   "en": "",
+   "en": "Damn it! Why are the {s:00F2}...?",
    "term": "end"
   },
   {
    "id": "scen100.0035",
    "jp": "あの{s:00F2}達は、{n}我々を進ませないために、集まっている{n}みたいだったな‥‥。",
-   "en": "",
+   "en": "It looked as though those {s:00F2} had{n}gathered there to stop our advance...",
    "term": "end"
   },
   {
    "id": "scen100.0036",
    "jp": "まったく！{n}最初からこれでは、先が思いやられる。",
-   "en": "",
+   "en": "Blast! If this is how we begin, I dread what lies ahead.",
    "term": "end"
   },
   {
    "id": "scen100.0037",
    "jp": "{v:0001}この{s:00F2}のせいで先へ進めないんですよ。",
-   "en": "",
+   "en": "{v:0001}These {s:00F2} are keeping us from{n}advancing.",
    "term": "end"
   },
   {
    "id": "scen100.0038",
    "jp": "{v:0002}どうしてこんなに群れているんだ？{n}この数は異常だ‥‥。",
-   "en": "",
+   "en": "{v:0002}Why are so many gathering here? These numbers{n}aren't normal...",
    "term": "end"
   },
   {
    "id": "scen100.0039",
    "jp": "{v:0003}うえぇっ！{n}こんなにいっぱいいるのぉ？",
-   "en": "",
+   "en": "{v:0003}Ewww! Why are there so MANY?!",
    "term": "end"
   },
   {
    "id": "scen100.0040",
    "jp": "{v:0004}何もしなければ、むこうからは仕掛けてこない{n}みたいなんですが、橋を渡ろうと近づくと、{n}とたんに攻撃して来るんです。{p}{v:0005}水の中にいて倒しにくいうえに、{n}倒したところで次から次へと集まってきて、{n}きりがないんです。",
-   "en": "",
+   "en": "{v:0004}They seem to leave us alone if we do nothing, but the{n}moment we approach the bridge to cross, they attack.{p}{v:0005}They're hard to kill in the water, and even when we{n}manage it, more keep coming. There's no end to them.",
    "term": "end"
   },
   {
    "id": "scen100.0041",
    "jp": "‥‥{v:0006}作為的な物を感じるな。",
-   "en": "",
+   "en": "...{v:0006}Feels like someone's behind this.",
    "term": "end"
   },
   {
    "id": "scen100.0042",
    "jp": "{s:00F2}が群れる理由を探索",
-   "en": "",
+   "en": "Investigate why the {s:00F2} are gathering",
    "term": "end"
   },
   {
    "id": "scen100.0043",
    "jp": "困ったものです。",
-   "en": "",
+   "en": "This is quite a problem.",
    "term": "end"
   },
   {
    "id": "scen100.0044",
    "jp": "さぁ、疲れただろ？{n}この宿に寄っていってくれ！",
-   "en": "",
+   "en": "Hey, you must be tired! Come stay at my inn!",
    "term": "end"
   },
   {
    "id": "scen100.0045",
    "jp": "この辺りに町を作りたくて、{n}こんな宿を作ったんだ！{n}この辺りの名物を{s:0127}指すんだ！",
-   "en": "",
+   "en": "I built this inn because I want to start a town around{n}here! I've got my eye on making it the{n}local attraction!",
    "term": "end"
   },
   {
    "id": "scen100.0046",
    "jp": "こちらのことは私に任せて、{n}君たちは{s:0004}様と行動を共にしてくれ。",
-   "en": "",
+   "en": "Leave matters here to me. You should accompany Lord{n}{s:0004}.",
    "term": "end"
   },
   {
    "id": "scen100.0047",
    "jp": "{s:0004}を頼みます。",
-   "en": "",
+   "en": "Please look after {s:0004}.",
    "term": "end"
   },
   {
    "id": "scen100.0048",
    "jp": "ここは隊列の最後尾だ！",
-   "en": "",
+   "en": "This is the rear of the column!",
    "term": "end"
   },
   {
    "id": "scen100.0049",
    "jp": "なるほど。{n}リーヴス様の突入にあわせるのですね？",
-   "en": "",
+   "en": "I see. We are to time our attack to Reeves-sama's{n}charge?",
    "term": "end"
   },
   {
    "id": "scen100.0050",
    "jp": "では、我が隊が裏から‥‥。",
-   "en": "",
+   "en": "Then our unit will attack from the rear...",
    "term": "end"
   },
   {
    "id": "scen100.0051",
    "jp": "とうとう始まったか‥‥。",
-   "en": "",
+   "en": "So it's finally begun...",
    "term": "end"
   },
   {
    "id": "scen100.0052",
    "jp": "苦しいのは今だけだ！",
-   "en": "",
+   "en": "We just have to get through this!",
    "term": "end"
   },
   {
    "id": "scen100.0053",
    "jp": "{s:0008}将軍は大丈夫だろうか？",
-   "en": "",
+   "en": "I wonder if General {s:0008} is all right.",
    "term": "end"
   },
   {
    "id": "scen100.0054",
    "jp": "{v:001F}うわ、広ぉ～い‥‥。",
-   "en": "",
+   "en": "{v:001F}Wow, it's so biiig...",
    "term": "end"
   },
   {
    "id": "scen100.0055",
    "jp": "{v:0020}よし、{s:0001}ちゃん！{n}向こうまで競争しよう！",
-   "en": "",
+   "en": "{v:0020}All right, {s:0001}! Race you to the other{n}side!",
    "term": "end"
   },
   {
    "id": "scen100.0056",
    "jp": "{v:0021}あ、アタシも！",
-   "en": "",
+   "en": "{v:0021}Hey, me too!",
    "term": "end"
   },
   {
    "id": "scen100.0057",
    "jp": "{v:0022}それじゃ、僕も参加させてもらおうかな。",
-   "en": "",
+   "en": "{v:0022}Well, perhaps I'll join in too.",
    "term": "end"
   },
   {
    "id": "scen100.0058",
    "jp": "{v:0023}それじゃ、よーい、ドン！",
-   "en": "",
+   "en": "{v:0023}Okay, ready... Go!",
    "term": "end"
   },
   {
    "id": "scen100.0059",
    "jp": "{v:0024}彼女、{s:0001}さん、と言いましたね？",
-   "en": "",
+   "en": "{v:0024}Her name is {s:0001}, is it not?",
    "term": "end"
   },
   {
    "id": "scen100.0060",
    "jp": "・妹だと答える",
-   "en": "",
+   "en": "・Say she's your sister",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0061",
    "jp": "・{s:0001}がどうかしたかたずねる",
-   "en": "",
+   "en": "・Ask what about {s:0001}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0062",
    "jp": "{v:0025}あなたの妹さんなんですね。{p}{v:0026}あの子と同じくらいの歳ですよね。",
-   "en": "",
+   "en": "{v:0025}So she is your sister.{p}{v:0026}She must be about the same age as my boy.",
    "term": "end"
   },
   {
    "id": "scen100.0063",
    "jp": "{v:0027}ええ。{n}あの子と同じくらいの歳ですよね。",
-   "en": "",
+   "en": "{v:0027}Yes. She must be about the same age as my boy.",
    "term": "end"
   },
   {
    "id": "scen100.0064",
    "jp": "{v:0028}{s:0004}のことですか？",
-   "en": "",
+   "en": "{v:0028}Do you mean {s:0004}?",
    "term": "end"
   },
   {
    "id": "scen100.0065",
    "jp": "{v:0029}いいえ。{n}{s:001B}のことです。",
-   "en": "",
+   "en": "{v:0029}No. I mean {s:001B}.",
    "term": "end"
   },
   {
    "id": "scen100.0066",
    "jp": "{v:002A}ああ‥‥。",
-   "en": "",
+   "en": "{v:002A}Oh...",
    "term": "end"
   },
   {
    "id": "scen100.0067",
    "jp": "{v:002B}私はまだ半信半疑なところがあるのです。{n}まさか{s:001B}が、偽者だったとは。",
-   "en": "",
+   "en": "{v:002B}Part of me still cannot believe it. To think that {s:001B}{n}was an impostor...",
    "term": "end"
   },
   {
    "id": "scen100.0068",
    "jp": "{v:002C}アンジェラ様‥‥。",
-   "en": "",
+   "en": "{v:002C}Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen100.0069",
    "jp": "{v:002D}アンジェラ様‥‥。",
-   "en": "",
+   "en": "{v:002D}Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen100.0070",
    "jp": "{v:002E}王位についてからの彼は今までとはまったく{n}変わってしまいました。{p}{v:002F}しかし、それまでの１４年間はまぎれもなく{n}親子だったのです。{p}{v:0030}そこへ本当の息子という{s:0004}が現れ、{n}{s:001B}を倒すべく、{s:011B}と兵を起こした。{n}そして自分もそこに身を置いているなんて‥‥。{p}{v:0031}誰かに騙されているようにも、長くて悪い夢を{n}見ているように思うときもあります。",
-   "en": "",
+   "en": "{v:002E}Since taking the throne, he has become an entirely{n}different person.{p}{v:002F}But for the fourteen years before that, we were truly{n}mother and son.{p}{v:0030}Then {s:0004} appeared, said to be my true{n}son, and raised an army with {s:011B} to{n}defeat {s:001B}. And now I find myself{p}among them...{p}{v:0031}At times, I feel as though someone is deceiving me, or{n}that I am trapped in a long, terrible dream.",
    "term": "end"
   },
   {
    "id": "scen100.0071",
    "jp": "{v:0032}でも、{s:0004}には火傷の跡もあったし、{n}それに{s:0022}さんだって‥‥。",
-   "en": "",
+   "en": "{v:0032}But {s:0004} had the burn scar, and even {s:0022}{n}said...",
    "term": "end"
   },
   {
    "id": "scen100.0072",
    "jp": "{v:0033}{s:000B}。{n}アンジェラ様の気持ちも察してやれ。{p}{v:0034}例えば、{s:0000}がいきなり、{n}俺たちの敵に回ったら、お前はどうするよ？",
-   "en": "",
+   "en": "{v:0033}{s:000B}. Try to understand how{n}Angela-sama feels.{p}{v:0034}Suppose {s:0000} suddenly turned against{n}us. What would you do?",
    "term": "end"
   },
   {
    "id": "scen100.0073",
    "jp": "{FFF3}‥‥{FFF4}{v:0035}う‥それは‥‥。",
-   "en": "",
+   "en": "{FFF3}...{FFF4}{v:0035}Uh... That's...",
    "term": "end"
   },
   {
    "id": "scen100.0074",
    "jp": "{v:0036}俺たちの味方をするか？{n}それともコイツについて、敵に回るか？",
-   "en": "",
+   "en": "{v:0036}Would you side with us? Or would you follow him and{n}become our enemy?",
    "term": "end"
   },
   {
    "id": "scen100.0075",
    "jp": "‥{v:0037}そ‥その‥‥あう‥‥[01BE]",
-   "en": "",
+   "en": "...{v:0037}W-well... I... Uhhh...[01BE]",
    "term": "end"
   },
   {
    "id": "scen100.0076",
    "jp": "{v:0038}それが今のアンジェラ様の心境だ。",
-   "en": "",
+   "en": "{v:0038}That's how Angela-sama feels right now.",
    "term": "end"
   },
   {
    "id": "scen100.0077",
    "jp": "‥‥{v:0039}ご、ごめんなさい、アンジェラ様！",
-   "en": "",
+   "en": "...{v:0039}I-I'm sorry, Angela-sama!",
    "term": "end"
   },
   {
    "id": "scen100.0078",
    "jp": "{v:003A}気にしてはいませんよ。{p}{v:003B}それよりも、実際に戦うあなた達に{n}こんなグチをこぼしてしまった、{n}私の方が悪いのですから。",
-   "en": "",
+   "en": "{v:003A}I am not offended.{p}{v:003B}If anything, I am at fault for burdening you with my{n}troubles when you are the ones who must fight.",
    "term": "end"
   },
   {
    "id": "scen100.0079",
    "jp": "{v:003C}少し冷えてきましたね。{n}そろそろ戻りましょうか。",
-   "en": "",
+   "en": "{v:003C}It is getting a little chilly. Shall we head back?",
    "term": "end"
   },
   {
    "id": "scen100.0080",
    "jp": "{v:003D}そうはいきませんよ。",
-   "en": "",
+   "en": "{v:003D}I cannot allow that.",
    "term": "end"
   },
   {
    "id": "scen100.0081",
    "jp": "{v:003E}誰っ！？",
-   "en": "",
+   "en": "{v:003E}Who's there?!",
    "term": "end"
   },
   {
    "id": "scen100.0082",
    "jp": "‥‥{v:003F}俺としたことが、うかつだったぜ。",
-   "en": "",
+   "en": "...{v:003F}Damn. I should've known better than to let my guard{n}down.",
    "term": "end"
   },
   {
    "id": "scen100.0083",
    "jp": "{v:0040}我が子に弓を引くとは、いけない母上ですね。",
-   "en": "",
+   "en": "{v:0040}Taking up arms against your own child? What a wicked{n}mother you are.",
    "term": "end"
   },
   {
    "id": "scen100.0084",
    "jp": "‥‥{v:0041}あなたは‥‥。",
-   "en": "",
+   "en": "...{v:0041}You are...",
    "term": "end"
   },
   {
    "id": "scen100.0085",
    "jp": "{v:0042}忘れもしねぇ、{n}その声は、{s:001D}か‥‥。",
-   "en": "",
+   "en": "{v:0042}I'd never forget that voice. {s:001D}...",
    "term": "end"
   },
   {
    "id": "scen100.0086",
    "jp": "{v:0043}これは、これは{s:0002}。{n}なんとまぁ変わり果てた姿に。",
-   "en": "",
+   "en": "{v:0043}My, my, {s:0002}. Just look at what has{n}become of you.",
    "term": "end"
   },
   {
    "id": "scen100.0087",
    "jp": "{v:0044}相変わらず人をバカにしたような口調だな。",
-   "en": "",
+   "en": "{v:0044}Still sneering at everyone, I see.",
    "term": "end"
   },
   {
    "id": "scen100.0088",
    "jp": "{v:0045}何とでも言いなさい。{p}{v:0046}しかし、わざわざ人気のないところまで{n}来てくれたことには礼を言いましょうか。{p}{v:0047}さ、お前たち！{n}何をするかはわかっていますね？{n}さっさとその女を殺してしまいなさい！",
-   "en": "",
+   "en": "{v:0045}Say what you will.{p}{v:0046}Still, perhaps I should thank you for coming all the way{n}out to such a deserted spot.{p}{v:0047}Now, all of you! You know what to do, yes? Hurry up{n}and kill that woman!",
    "term": "end"
   },
   {
    "id": "scen100.0089",
    "jp": "{v:0048}奴らアンジェラ様を狙うつもりよ！",
-   "en": "",
+   "en": "{v:0048}They're going after Angela-sama!",
    "term": "end"
   },
   {
    "id": "scen100.0090",
    "jp": "{v:0049}そうはさせるか！",
-   "en": "",
+   "en": "{v:0049}Like hell you will!",
    "term": "end"
   },
   {
    "id": "scen100.0091",
    "jp": "{v:004A}そんなこと、させないよ！",
-   "en": "",
+   "en": "{v:004A}We won't let you!",
    "term": "end"
   },
   {
    "id": "scen100.0092",
    "jp": "{v:004B}これを見てもまだそんなことが言えますかね？",
-   "en": "",
+   "en": "{v:004B}I wonder if you will still say that after you see this.",
    "term": "end"
   },
   {
    "id": "scen100.0093",
    "jp": "{v:004C}火だ！{n}お兄さま、大変だよ！",
-   "en": "",
+   "en": "{v:004C}Fire! Big Brother, we're in trouble!",
    "term": "end"
   },
   {
    "id": "scen100.0094",
    "jp": "{v:004D}僕たちを焼き殺すつもりか？",
-   "en": "",
+   "en": "{v:004D}Are they trying to burn us alive?",
    "term": "end"
   },
   {
    "id": "scen100.0095",
    "jp": "‥‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen100.0096",
    "jp": "{v:004E}奴らを倒して突破するしかない！{n}頼むぞ！",
-   "en": "",
+   "en": "{v:004E}We'll have to beat them and break through! I'm{n}counting on you!",
    "term": "end"
   },
   {
    "id": "scen100.0097",
    "jp": "{v:0069}ふわぁ～、ヒドイ{s:0127}にあったわ。",
-   "en": "",
+   "en": "{v:0069}Whew... We really looked death in the eye{n}there.",
    "term": "end"
   },
   {
    "id": "scen100.0098",
    "jp": "{v:006A}あなた達がいなかったらと思うと‥‥。{FFF9}{FFFB}{n}{v:006B}ありがとうございました。",
-   "en": "",
+   "en": "{v:006A}To think what might have happened without you...{FFF9}{FFFB}{v:006B}Thank{n}you so much.",
    "term": "end"
   },
   {
    "id": "scen100.0099",
    "jp": "{v:006C}みんな助かってよかったね。",
-   "en": "",
+   "en": "{v:006C}I'm so glad everyone made it.",
    "term": "end"
   },
   {
    "id": "scen100.0100",
    "jp": "{v:006D}そろそろ覆面を取ったらどうだ？",
-   "en": "",
+   "en": "{v:006D}Isn't it about time you took off that mask?",
    "term": "end"
   },
   {
    "id": "scen100.0101",
    "jp": "‥{FE1E}‥{FE1E}‥。",
-   "en": "",
+   "en": "...{FE1E}...{FE1E}...",
    "term": "end"
   },
   {
    "id": "scen100.0102",
    "jp": "{v:006E}やっぱり{s:0005}じゃない！{p}{FC03}{v:006F}どうして？{n}もうシャドー・ナイツにいる必要は{n}ないんじゃないの！？",
-   "en": "",
+   "en": "{v:006E}I knew it! You're {s:0005}!{p}{FC03}{v:006F}But why? You don't need to stay with the Shadow{n}Knights anymore, do you?!",
    "term": "end"
   },
   {
    "id": "scen100.0103",
    "jp": "{v:0070}確かにお前たちの言ったとおり、{n}すべては{s:001D}が仕組んだことだった。",
-   "en": "",
+   "en": "{v:0070}You were right. {s:001D} was behind it all.",
    "term": "end"
   },
   {
    "id": "scen100.0104",
    "jp": "{v:0071}やっぱりな。{n}奴はお前の力に{s:0127}を付け、{n}是が非でも自分の手駒にしたかったんだろう。",
-   "en": "",
+   "en": "{v:0071}Figured as much. He had his eye on your{n}strength. Must've been dead set on making you his{n}pawn.",
    "term": "end"
   },
   {
    "id": "scen100.0105",
    "jp": "‥‥{v:0072}その通りだ。{n}そしてそのワナに俺はまんまとはまっちまった‥‥。",
-   "en": "",
+   "en": "...{v:0072}That's right. And I walked straight into his trap...",
    "term": "end"
   },
   {
    "id": "scen100.0106",
    "jp": "{v:0076}でもそれがわかっていて、どうして‥‥。",
-   "en": "",
+   "en": "{v:0076}But if you know that, why...?",
    "term": "end"
   },
   {
    "id": "scen100.0107",
    "jp": "{v:0077}言っただろ？{n}『ワナにはまった』ってな‥‥。",
-   "en": "",
+   "en": "{v:0077}I told you, didn't I? I \"fell into his trap\"...",
    "term": "end"
   },
   {
    "id": "scen100.0108",
    "jp": "{v:0078}何がワナなの？{n}詳しく話してくれなきゃわかんないよ！",
-   "en": "",
+   "en": "{v:0078}What trap? We can't understand unless you tell us!",
    "term": "end"
   },
   {
    "id": "scen100.0109",
    "jp": "‥‥{v:0079}{s:0007}が‥‥。",
-   "en": "",
+   "en": "...{v:0079}{s:0007} is...",
    "term": "end"
   },
   {
    "id": "scen100.0110",
    "jp": "{v:007A}えっ？",
-   "en": "",
+   "en": "{v:007A}Huh?",
    "term": "end"
   },
   {
    "id": "scen100.0111",
    "jp": "{v:007B}{s:0007}を人質に取られた‥‥。",
-   "en": "",
+   "en": "{v:007B}They've taken {s:0007} hostage...",
    "term": "end"
   },
   {
    "id": "scen100.0112",
    "jp": "{v:007C}くそっ！{n}どこまでも汚い奴だぜ！",
-   "en": "",
+   "en": "{v:007C}Damn it! There's no end to his dirty tricks!",
    "term": "end"
   },
   {
    "id": "scen100.0113",
    "jp": "‥‥{v:007D}俺のせいで{s:0007}が‥‥。",
-   "en": "",
+   "en": "...{v:007D}It's my fault {s:0007}...",
    "term": "end"
   },
   {
    "id": "scen100.0114",
    "jp": "{v:007E}{s:0005}さん、これからどうするの？",
-   "en": "",
+   "en": "{v:007E}{s:0005}, what are you going to do now?",
    "term": "end"
   },
   {
    "id": "scen100.0115",
    "jp": "‥‥{v:008D}何とかして{s:0007}を探し、助け出す！",
-   "en": "",
+   "en": "...{v:008D}I'll find {s:0007} and rescue her, somehow!",
    "term": "end"
   },
   {
    "id": "scen100.0116",
    "jp": "{v:007F}探すって、あてはあるの？",
-   "en": "",
+   "en": "{v:007F}Find her? Do you have any leads?",
    "term": "end"
   },
   {
    "id": "scen100.0117",
    "jp": "‥‥{v:0080}ない。{p}{v:0081}だがお前たちに勝てない以上、{n}{s:0007}を探すしか方法はないじゃないか！",
-   "en": "",
+   "en": "...{v:0080}No.{p}{v:0081}But if I can't beat you, what choice do I have except to{n}look for {s:0007}?!",
    "term": "end"
   },
   {
    "id": "scen100.0118",
    "jp": "{v:0082}身内を人質に取ってまで‥‥。",
-   "en": "",
+   "en": "{v:0082}To go so far as to take his family hostage...",
    "term": "end"
   },
   {
    "id": "scen100.0119",
    "jp": "{v:0083}早いとこ{s:0004}を王位につけて、{n}そういう連中を切り捨てるしかねぇな。",
-   "en": "",
+   "en": "{v:0083}We'll just have to put {s:0004} on the throne{n}fast and get rid of scum like that.",
    "term": "end"
   },
   {
    "id": "scen100.0120",
    "jp": "{v:0084}どうしました？",
-   "en": "",
+   "en": "{v:0084}What happened?",
    "term": "end"
   },
   {
    "id": "scen100.0121",
    "jp": "{v:0085}{s:011B}‥‥。",
-   "en": "",
+   "en": "{v:0085}{s:011B}...",
    "term": "end"
   },
   {
    "id": "scen100.0122",
    "jp": "{v:0086}くせ者がアンジェラ様の命を狙って現れた。{n}だが、もう心配ない。",
-   "en": "",
+   "en": "{v:0086}An intruder came to take Angela-sama's life. But there{n}is no cause for concern now.",
    "term": "end"
   },
   {
    "id": "scen100.0123",
    "jp": "‥‥{v:0087}君たちが守ってくれたのか。{n}ありがとう。{p}{v:0088}これからはもっと警戒を厳重にしなければならないな。{p}{v:0089}後は我々が警備を強化する。{n}君たちは休んでくれ。",
-   "en": "",
+   "en": "...{v:0087}You protected her? Thank you.{p}{v:0088}We shall have to keep a closer watch from now on.{p}{v:0089}We will strengthen the guard. You should get some{n}rest.",
    "term": "end"
   },
   {
    "id": "scen100.0124",
    "jp": "こんな夜更けに、どちらへ行かれるのですか？",
-   "en": "",
+   "en": "Where are you going at this late hour?",
    "term": "end"
   },
   {
    "id": "scen100.0125",
    "jp": "{v:001E}向こうへ行ってみましょう。",
-   "en": "",
+   "en": "{v:001E}Let us go over there.",
    "term": "end"
   },
   {
    "id": "scen100.0126",
    "jp": "{v:000C}なぁ、川で{s:00F2}が暴れているって言ってたよな？",
-   "en": "",
+   "en": "{v:000C}Hey, didn't they say {s:00F2} were running{n}wild in the river?",
    "term": "end"
   },
   {
    "id": "scen100.0127",
    "jp": "{v:000D}うん、そう言ってたね‥‥。",
-   "en": "",
+   "en": "{v:000D}Yeah, that's what they said...",
    "term": "end"
   },
   {
    "id": "scen100.0128",
    "jp": "{v:000E}やっぱり気になる？",
-   "en": "",
+   "en": "{v:000E}Still bothering you?",
    "term": "end"
   },
   {
    "id": "scen100.0129",
    "jp": "{v:000F}ああ。{n}集団で暴れているってのがな。",
-   "en": "",
+   "en": "{v:000F}Yeah. The way they're running wild in groups.",
    "term": "end"
   },
   {
    "id": "scen100.0130",
    "jp": "{v:0010}このままじゃ行軍できないんでしょ？{p}{v:0011}何とか出来ないかなぁ、お兄ちゃん？",
-   "en": "",
+   "en": "{v:0010}The army can't march while they're there, can it?{p}{v:0011}Isn't there something we can do, Big Brother?",
    "term": "end"
   },
   {
    "id": "scen100.0131",
    "jp": "{v:0012}あら、みなさんこんな所で何をしているんですか？",
-   "en": "",
+   "en": "{v:0012}Oh, what are you all doing out here?",
    "term": "end"
   },
   {
    "id": "scen100.0132",
    "jp": "{v:0013}アンジェラ様‥‥。",
-   "en": "",
+   "en": "{v:0013}Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen100.0133",
    "jp": "{v:0014}えっとね、川で暴れる{s:00F2}について、{n}ちょっと‥‥。{p}{v:0015}アンジェラ様は？",
-   "en": "",
+   "en": "{v:0014}Well, we were just talking about the {s:00F2}{n}running wild in the river...{p}{v:0015}What about you, Angela-sama?",
    "term": "end"
   },
   {
    "id": "scen100.0134",
    "jp": "{v:0016}私は息子のことを考えていたら、{n}こちらから声が聞こえてきたので‥‥。",
-   "en": "",
+   "en": "{v:0016}I was thinking about my son when I heard voices coming{n}from this direction...",
    "term": "end"
   },
   {
    "id": "scen100.0135",
    "jp": "{v:0017}大丈夫です。{n}きっと上手くいきますよ！",
-   "en": "",
+   "en": "{v:0017}It's all right. I'm sure everything will work out!",
    "term": "end"
   },
   {
    "id": "scen100.0136",
    "jp": "{v:0018}あとはアタシたちが何とかしますから、{n}アンジェラ様はお休みになってください。",
-   "en": "",
+   "en": "{v:0018}We'll figure out the rest, so please get some rest,{n}Angela-sama.",
    "term": "end"
   },
   {
    "id": "scen100.0137",
    "jp": "{v:0019}あとのことは我々に任せて、{n}アンジェラ様はお休みください。",
-   "en": "",
+   "en": "{v:0019}Leave the rest to us and please get some rest,{n}Angela-sama.",
    "term": "end"
   },
   {
    "id": "scen100.0138",
    "jp": "{v:001A}頼もしいですね。{p}{v:001B}では後少しだけ、散歩でもしながら、{n}お話をしませんか？",
-   "en": "",
+   "en": "{v:001A}How reassuring.{p}{v:001B}Then, before I retire, would you walk with me a little{n}longer and talk?",
    "term": "end"
   },
   {
    "id": "scen100.0139",
    "jp": "{v:001C}はぁ‥‥。",
-   "en": "",
+   "en": "{v:001C}Um...",
    "term": "end"
   },
   {
    "id": "scen100.0140",
    "jp": "ねぇ‥‥。{n}こんな所に１人で来てどうするの？{n}みんなの所へ戻ろうよ。",
-   "en": "",
+   "en": "Hey... What are you doing coming out here on your own?{n}Let's go back to the others.",
    "term": "end"
   },
   {
    "id": "scen100.0141",
    "jp": "{v:001D}あ、こんな所にも川が流れてたんだ。",
-   "en": "",
+   "en": "{v:001D}Oh, the river runs through here too.",
    "term": "end"
   },
   {
    "id": "scen100.0142",
    "jp": "{v:008A}う～ん、いい天気。",
-   "en": "",
+   "en": "{v:008A}Mmm, what lovely weather.",
    "term": "end"
   },
   {
    "id": "scen100.0143",
    "jp": "ねぇ、お兄ちゃん‥‥。{n}{s:0005}さんのことだけど‥‥。",
-   "en": "",
+   "en": "Um, Big Brother... About {s:0005}...",
    "term": "end"
   },
   {
    "id": "scen100.0144",
    "jp": "うん‥‥、{n}アタシ達で{s:0007}さんを探せればねぇ‥‥。",
-   "en": "",
+   "en": "Yeah... If only we could find {s:0007}{n}ourselves...",
    "term": "end"
   },
   {
    "id": "scen100.0145",
    "jp": "念のために言うが、俺たちの受けている任務は、{n}{s:011B}たちの協力をし、{n}速やかに戦争を終わらせることだ。",
-   "en": "",
+   "en": "Just so we're clear, our orders are to help {s:011B}{n}and the others end this war quickly.",
    "term": "end"
   },
   {
    "id": "scen100.0146",
    "jp": "え～っ！{n}{s:0002}さん、冷たい！",
-   "en": "",
+   "en": "Whaaat?! {s:0002}, that's so cold!",
    "term": "end"
   },
   {
    "id": "scen100.0147",
    "jp": "とりあえず、事実を言ったまでだ。{n}どうするかは任せる。{p}１つ忠告があるんだが、{s:001D}の奴、{n}{s:0005}が意のままにならなくなったと知れば、{n}すぐにでも{s:0007}を殺しかねない。{p}{s:0007}を探すなら、あまり時間はないぞ。",
-   "en": "",
+   "en": "I'm just stating the facts. What we do is up to you.{p}One word of warning. If that bastard {s:001D}{n}learns he can't control {s:0005} anymore, he{n}could kill {s:0007} on the spot.{p}If we're going to find {s:0007}, we haven't{n}got much time.",
    "term": "end"
   },
   {
    "id": "scen100.0148",
    "jp": "うぐぐぐ‥‥[01BE]{n}どうすればイイのよぉ‥‥[01BE]",
-   "en": "",
+   "en": "Ugggh...[01BE] What are we supposed to dooo...?[01BE]",
    "term": "end"
   },
   {
    "id": "scen100.0149",
    "jp": "橋が燃え落ちている。{n}あの時の炎の勢いがうかがえるようだ。",
-   "en": "",
+   "en": "The bridge has burned down. It gives some idea of how{n}fierce the flames must have been.",
    "term": "end"
   },
   {
    "id": "scen100.0150",
    "jp": "いつまでもここで足止めをくらっていては、{n}{s:001B}に時間を与えるだけだ‥‥。{p}あの水辺の{s:00F2}は、{n}なぜあんな群れ方をするんだろう？",
-   "en": "",
+   "en": "The longer we remain stranded here, the more time we{n}give {s:001B}...{p}Why do those {s:00F2} gather at the{n}water's edge in such numbers?",
    "term": "end"
   },
   {
    "id": "scen100.0151",
    "jp": "昨夜はありがとう。{n}おかげで助かりました。",
-   "en": "",
+   "en": "Thank you for last night. You saved me.",
    "term": "end"
   },
   {
    "id": "scen100.0152",
    "jp": "すぐに水中へ逃げられるので、{n}{s:00F2}に致命傷を与えられないのだ。",
-   "en": "",
+   "en": "The {s:00F2} escape into the water so{n}quickly that we cannot strike a fatal blow.",
    "term": "end"
   },
   {
    "id": "scen100.0153",
    "jp": "川に毒を流すという手もあるが、{n}それでは下流に住む住民に迷惑をかけてしまう‥‥。",
-   "en": "",
+   "en": "We could put poison in the river, but that would harm{n}the people living downstream...",
    "term": "end"
   },
   {
    "id": "scen100.0154",
    "jp": "何かいい手はないものか‥‥。",
-   "en": "",
+   "en": "Surely there must be some way...",
    "term": "end"
   },
   {
    "id": "scen100.0155",
    "jp": "見回りばかりしていては、{n}さすがにあきてくるな。",
-   "en": "",
+   "en": "Nothing but patrols all day. It's getting pretty dull.",
    "term": "end"
   },
   {
    "id": "scen100.0156",
    "jp": "やっと動けるのね！",
-   "en": "",
+   "en": "We can finally move out!",
    "term": "end"
   },
   {
    "id": "scen100.0157",
    "jp": "このままいつまでもここにいると、{n}兵の士気が下がってしまうわ。",
-   "en": "",
+   "en": "If we stay here much longer, the soldiers will lose{n}heart.",
    "term": "end"
   },
   {
    "id": "scen100.0158",
    "jp": "{s:0008}軍の援護",
-   "en": "",
+   "en": "Support for {s:0008}'s army",
    "term": "end"
   },
   {
    "id": "scen100.0159",
    "jp": "{v:0024}こちらのことはもう心配しなくとも良いようだ。",
-   "en": "",
+   "en": "{v:0024}It seems there is no further cause for concern here.",
    "term": "end"
   },
   {
    "id": "scen100.0160",
    "jp": "{v:0025}君たちは確かローランディア王国の‥‥。",
-   "en": "",
+   "en": "{v:0025}You are from the Kingdom of Rolandia, if I recall...",
    "term": "end"
   },
   {
    "id": "scen100.0161",
    "jp": "{v:0026}そうだよ。{n}アタシ達、この戦争を終わらせたいの！",
-   "en": "",
+   "en": "{v:0026}That's right! We want to put an end to this war!",
    "term": "end"
   },
   {
    "id": "scen100.0162",
    "jp": "{v:0027}彼らが{s:0004}を連れてきてくれました。{p}{v:0028}戴冠式の席で、グレッグ卿が{s:001B}に{n}斬りかかったことは、全くの狂言。{n}あの場にいた私が、証人です。{p}{v:0029}バーンシュタインもローランディアも、{n}本当は戦う必要はないのです。{p}{v:002A}真に倒すべきは{s:001B}と、その背後で糸を引く者。",
-   "en": "",
+   "en": "{v:0027}They brought {s:0004} to us.{p}{v:0028}Lord Greg's attack on {s:001B} at the{n}coronation was entirely staged. I was there, and I can{n}testify to it.{p}{v:0029}There is truly no need for Burnstein and Rolandia to{n}fight.{p}{v:002A}The ones we must defeat are {s:001B} and{n}whoever is pulling the strings behind him.",
    "term": "end"
   },
   {
    "id": "scen100.0163",
    "jp": "{v:002B}そうですね。{n}早く元の平和な世界を取り戻しましょう。",
-   "en": "",
+   "en": "{v:002B}Indeed. Let us restore the peaceful world we once had{n}as soon as possible.",
    "term": "end"
   },
   {
    "id": "scen100.0164",
    "jp": "{v:002C}ね、あの人に何か聞いておくことないの？{n}せっかくのチャンスだよ？",
-   "en": "",
+   "en": "{v:002C}Hey, isn't there anything you want to ask him? This is{n}your chance!",
    "term": "end"
   },
   {
    "id": "scen100.0165",
    "jp": "リーヴスに質問することはありますか？",
-   "en": "",
+   "en": "Do you have any questions for Reeves?",
    "term": "end"
   },
   {
    "id": "scen100.0166",
    "jp": "・なぜ協力的になったのか",
-   "en": "",
+   "en": "・Why are you helping us now?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0167",
    "jp": "・{s:001D}という男を知っているか",
-   "en": "",
+   "en": "・Do you know a man called {s:001D}?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0168",
    "jp": "・{s:0008}を知っているか",
-   "en": "",
+   "en": "・Do you know {s:0008}?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0169",
    "jp": "・{s:0022}を知っているか",
-   "en": "",
+   "en": "・Do you know {s:0022}?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0170",
    "jp": "・聞くことはない",
-   "en": "",
+   "en": "・No questions",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0171",
    "jp": "{v:002D}僕は国王に忠誠を誓う騎士だ。{n}偽王にではなく、ね。{p}{v:002E}これが答えじゃ不満かい？",
-   "en": "",
+   "en": "{v:002D}I am a knight sworn to serve the King. Not an{n}impostor.{p}{v:002E}Is that not answer enough?",
    "term": "end"
   },
   {
    "id": "scen100.0172",
    "jp": "{v:002F}{s:001D}？",
-   "en": "",
+   "en": "{v:002F}{s:001D}?",
    "term": "end"
   },
   {
    "id": "scen100.0173",
    "jp": "{v:0030}シャドー・ナイツの男だ。{n}知っているか？",
-   "en": "",
+   "en": "{v:0030}He's one of the Shadow Knights. Know him?",
    "term": "end"
   },
   {
    "id": "scen100.0174",
    "jp": "‥‥{v:0031}知ってる。{n}本来は知らないふりをしなければいけない{n}存在だけどね。{p}{v:0032}彼がどうかしたのかい？",
-   "en": "",
+   "en": "...{v:0031}I do. Though officially, I am supposed to pretend I do{n}not.{p}{v:0032}What about him?",
    "term": "end"
   },
   {
    "id": "scen100.0175",
    "jp": "{v:0033}実は、わたしたちの知り合いを人質にして‥‥。",
-   "en": "",
+   "en": "{v:0033}Well, he's taken someone we know hostage...",
    "term": "end"
   },
   {
    "id": "scen100.0176",
    "jp": "{v:0034}彼女の居場所を知りたいんです！{FFF9}{FFFB}{n}{v:0035}{s:0007}さんの居場所を知りませんか？",
-   "en": "",
+   "en": "{v:0034}We need to find her!{FFF9}{FFFB}{v:0035}Do you know where {s:0007}{n}is?",
    "term": "end"
   },
   {
    "id": "scen100.0177",
    "jp": "‥‥{v:0036}人質か。{p}{v:0050}残念ながら僕は知らないよ。",
-   "en": "",
+   "en": "...{v:0036}A hostage, you say.{p}{v:0050}Unfortunately, I do not know.",
    "term": "end"
   },
   {
    "id": "scen100.0178",
    "jp": "‥‥{v:0037}そうですか。",
-   "en": "",
+   "en": "...{v:0037}I see.",
    "term": "end"
   },
   {
    "id": "scen100.0179",
    "jp": "{v:0038}だけど、{s:001D}についてなら少し助言してあげよう。{p}{v:0039}コムスプリングスは知っているね？{n}あそこで何度か見かけたことがあるよ。",
-   "en": "",
+   "en": "{v:0038}But I can offer a little advice concerning{n}{s:001D}.{p}{v:0039}You know Comsprings, I take it? I have seen him there{n}several times.",
    "term": "end"
   },
   {
    "id": "scen100.0180",
    "jp": "‥‥{v:003A}あの温泉街だ‥‥。",
-   "en": "",
+   "en": "...{v:003A}That hot spring town...",
    "term": "end"
   },
   {
    "id": "scen100.0181",
    "jp": "{v:0039}コムスプリングスは知っているね？{n}あそこで何度か見かけたことがあるよ。",
-   "en": "",
+   "en": "{v:0039}You know Comsprings, I take it? I have seen him there{n}several times.",
    "term": "end"
   },
   {
    "id": "scen100.0182",
    "jp": "{v:003B}ただ温泉に来てただけかも知れないけど。{n}だとしたらかなりの温泉好きなんだね。",
-   "en": "",
+   "en": "{v:003B}Perhaps he was simply visiting the hot springs. If so,{n}he must be very fond of them.",
    "term": "end"
   },
   {
    "id": "scen100.0183",
    "jp": "{v:003C}{s:0008}は僕たちインペリアル・ナイツの中では{n}新人だけど、責任感はあるし、行動力もある。{n}立派なナイトだよ。{p}{v:003D}彼がどうしたんだい？",
-   "en": "",
+   "en": "{v:003C}{s:0008} is new to the Imperial Knights, but{n}he has a strong sense of duty and the initiative to{n}act. A fine knight.{p}{v:003D}What about him?",
    "term": "end"
   },
   {
    "id": "scen100.0184",
    "jp": "{v:003E}コイツが言いたいのはね‥‥。",
-   "en": "",
+   "en": "{v:003E}What this guy's trying to say is...",
    "term": "end"
   },
   {
    "id": "scen100.0185",
    "jp": "{v:003F}しっ！{p}{v:0040}それ以上はなしだ。{n}ほら、{s:011B}が怖い顔でにらんでるよ。",
-   "en": "",
+   "en": "{v:003F}Shh!{p}{v:0040}Not another word. Look, {s:011B} is glaring at{n}us.",
    "term": "end"
   },
   {
    "id": "scen100.0186",
    "jp": "{v:0041}知ってはいるけど、今は王宮にはいないよ。{n}彼はここのところ姿を見せていない。",
-   "en": "",
+   "en": "{v:0041}I do know him, but he is not at the palace now. He has{n}not been seen there lately.",
    "term": "end"
   },
   {
    "id": "scen100.0187",
    "jp": "{v:0042}どんな人だったの？",
-   "en": "",
+   "en": "{v:0042}What was he like?",
    "term": "end"
   },
   {
    "id": "scen100.0188",
    "jp": "{v:0043}それほど話したことはないけど、{n}自分にも他人にも厳しくて、{n}どこか近寄り難い人だったね。{p}{v:0044}ああ、そう言えば見かけよりも本当は歳を{n}取っているらしいよ。{p}{v:0045}彼が宮廷魔術師になった時から、{n}外見が変わっていないそうだ。{n}何か魔法で歳を取らなくしているみたいだね。",
-   "en": "",
+   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable about{n}him.{p}{v:0044}Oh, come to think of it, I hear he is actually older than{n}he looks.{p}{v:0045}They say his appearance has not changed since he{n}became Court Magician. He seems to use some sort of{n}magic to keep himself from aging.",
    "term": "end"
   },
   {
    "id": "scen100.0189",
    "jp": "{v:0043}それほど話したことはないけど、{n}自分にも他人にも厳しくて、{n}どこか近寄り難い人だったね。",
-   "en": "",
+   "en": "{v:0043}We rarely spoke, but he was hard on himself and others{n}alike. There was something rather unapproachable about{n}him.",
    "term": "end"
   },
   {
    "id": "scen100.0190",
    "jp": "{v:0047}他に何かあるのかい？",
-   "en": "",
+   "en": "{v:0047}Was there anything else?",
    "term": "end"
   },
   {
    "id": "scen100.0191",
    "jp": "{v:0048}それでは、僕は{s:00E7}に事情を話して、{n}これからの行動を{s:011B}と決めなければ{n}ならないから。{p}{v:0049}これで失礼するよ。",
-   "en": "",
+   "en": "{v:0048}Well, I must explain the situation to {s:00E7}{n}and decide our next course of action with{n}{s:011B}.{p}{v:0049}If you will excuse me.",
    "term": "end"
   },
   {
    "id": "scen100.0192",
    "jp": "{v:004A}ありがとうございます。",
-   "en": "",
+   "en": "{v:004A}Thank you.",
    "term": "end"
   },
   {
    "id": "scen100.0193",
    "jp": "{v:004B}あ、それから１つだけ。{p}{v:004C}早く{s:0008}のところに行ってあげた方がいい。{p}{v:004D}あっちには頑固にも{s:001B}の味方をする、{n}アーネスト‥‥ライエル将軍が出撃しているからね。",
-   "en": "",
+   "en": "{v:004B}Oh, one more thing.{p}{v:004C}You should go to {s:0008} as soon as you{n}can.{p}{v:004D}Ernest... General Lyell has marched out that way. He{n}stubbornly insists on siding with {s:001B}.",
    "term": "end"
   },
   {
    "id": "scen100.0194",
    "jp": "{v:004E}インペリアル・ナイト同士の戦いか‥‥。{p}{v:004F}{s:0008}、大変そうだね。",
-   "en": "",
+   "en": "{v:004E}One Imperial Knight fighting another...{p}{v:004F}Sounds like {s:0008} has a tough fight{n}ahead.",
    "term": "end"
   },
   {
    "id": "scen100.0195",
    "jp": "{v:0000}君たち、戻ってくれたか。",
-   "en": "",
+   "en": "{v:0000}Ah, you have returned.",
    "term": "end"
   },
   {
    "id": "scen100.0196",
    "jp": "{v:0001}状況は？",
-   "en": "",
+   "en": "{v:0001}What's the situation?",
    "term": "end"
   },
   {
    "id": "scen100.0197",
    "jp": "{v:0002}ここに群れていた{s:00F2}に変化が見られたので、{n}すぐに部隊を集結させておいたのだ。{p}{v:0003}すると{s:00F2}は徐々に姿を消したのだが、{n}ここで足止めをくらっていた間に、{n}バーンシュタイン軍が対岸まで来ていたのだ。",
-   "en": "",
+   "en": "{v:0002}We noticed a change in the {s:00F2}{n}gathered here, so I had the troops assemble at once.{p}{v:0003}The {s:00F2} gradually disappeared, but{n}while we were stranded here, the Burnstein army had{n}reached the opposite bank.",
    "term": "end"
   },
   {
    "id": "scen100.0198",
    "jp": "{v:0004}{s:011B}！{n}リーヴス将軍が１人で橋を渡ってきます！",
-   "en": "",
+   "en": "{v:0004}{s:011B}! General Reeves is crossing the{n}bridge alone!",
    "term": "end"
   },
   {
    "id": "scen100.0199",
    "jp": "{v:0005}１人で？",
-   "en": "",
+   "en": "{v:0005}Alone?",
    "term": "end"
   },
   {
    "id": "scen100.0200",
    "jp": "{v:0006}と、止まれ！",
-   "en": "",
+   "en": "{v:0006}H-Halt!",
    "term": "end"
   },
   {
    "id": "scen100.0201",
    "jp": "{v:0007}慌てるな。{n}話し合いに来た。{n}そちらの代表を呼んでもらおうか。",
-   "en": "",
+   "en": "{v:0007}Calm yourself. I have come to talk. Would you summon{n}your representative?",
    "term": "end"
   },
   {
    "id": "scen100.0202",
    "jp": "{v:0008}この隊を指揮しているのは私だ。",
-   "en": "",
+   "en": "{v:0008}I command this force.",
    "term": "end"
   },
   {
    "id": "scen100.0203",
    "jp": "{v:0009}これは{s:011B}。{n}お久しゅうございます。",
-   "en": "",
+   "en": "{v:0009}Ah, {s:011B}. It has been some time.",
    "term": "end"
   },
   {
    "id": "scen100.0204",
    "jp": "{v:000A}挨拶は後にして、手短に用件を済ませようか。{n}{s:00E7}たちが神経質になっているのでな。",
-   "en": "",
+   "en": "{v:000A}Let us save the greetings and keep this brief. {s:00E7}{n}and the others are on edge.",
    "term": "end"
   },
   {
    "id": "scen100.0205",
    "jp": "‥‥{v:000B}では単刀直入に伝えましょう。{p}{v:000C}我が隊は貴殿らと戦う気はございません。{n}逆に貴殿の配下に加えていただきたい。",
-   "en": "",
+   "en": "...{v:000B}Then I shall speak plainly.{p}{v:000C}My troops have no intention of fighting you. On the{n}contrary, I ask that you take us under your command.",
    "term": "end"
   },
   {
    "id": "scen100.0206",
    "jp": "‥‥{v:000D}なっ？",
-   "en": "",
+   "en": "...{v:000D}What?!",
    "term": "end"
   },
   {
    "id": "scen100.0207",
    "jp": "{v:000E}信じていただけませんかな？{p}{v:000F}私はインペリアル・ナイツとして国王陛下の{n}身近にいた者です。{n}しかし最近の陛下は、すっかり変わってしまわれた。{p}{v:0010}そんな折り、あの陛下は真っ赤な偽者であると{n}貴殿らは反乱を起こされた。{p}{v:0011}それだけならまだしも、{n}アンジェラ様までが貴殿らを支持している。",
-   "en": "",
+   "en": "{v:000E}Do you find that hard to believe?{p}{v:000F}As one of the Imperial Knights, I served close to His{n}Majesty the King. Yet of late, His Majesty has changed{n}completely.{p}{v:0010}Then you rose in rebellion, declaring that this king was{n}an outright impostor.{p}{v:0011}That alone might not have swayed me, but even{n}Angela-sama supports your cause.",
    "term": "end"
   },
   {
    "id": "scen100.0208",
    "jp": "{v:0012}母が実の子を見間違えるはずがありません。{n}私は真実が貴殿らにあると判断し、{n}インペリアル・ナイツとしての使命を果たすべく、{n}ここへ参上しました。",
-   "en": "",
+   "en": "{v:0012}A mother could never fail to recognize her own child. I{n}concluded that the truth lay with you, and came here{n}to fulfill my duty as one of the Imperial Knights.",
    "term": "end"
   },
   {
    "id": "scen100.0209",
    "jp": "{v:0013}それでは協力していただけるのですね？",
-   "en": "",
+   "en": "{v:0013}Then you will lend us your aid?",
    "term": "end"
   },
   {
    "id": "scen100.0210",
    "jp": "{v:0014}アンジェラ様‥‥。",
-   "en": "",
+   "en": "{v:0014}Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen100.0211",
    "jp": "{v:0015}これはアンジェラ様‥‥。{p}{v:0016}失礼を承知で、おうかがいしたいことがございます。",
-   "en": "",
+   "en": "{v:0015}Ah, Angela-sama...{p}{v:0016}Forgive my impertinence, but there is something I must{n}ask.",
    "term": "end"
   },
   {
    "id": "scen100.0212",
    "jp": "{v:0017}なんでしょう？",
-   "en": "",
+   "en": "{v:0017}What is it?",
    "term": "end"
   },
   {
    "id": "scen100.0213",
    "jp": "{v:0018}本当に陛下は偽者なのですね？{n}世を乱す王を討つため、{n}嘘をおっしゃっているわけではないのですね？",
-   "en": "",
+   "en": "{v:0018}His Majesty truly is an impostor? You have not{n}fabricated this claim to depose a king who brings{n}turmoil to the world?",
    "term": "end"
   },
   {
    "id": "scen100.0214",
    "jp": "{v:0019}いろいろと心配をかけたようですね。{n}しかしもう心配はいりません。{p}{v:001A}今王位についている者は幼少の頃すり替えられた偽者。{n}本当の息子は、今{s:0008}将軍と{n}行動を共にしています。",
-   "en": "",
+   "en": "{v:0019}It seems I have given you much cause for concern. But{n}you need worry no longer.{p}{v:001A}The one who now sits upon the throne is an impostor,{n}substituted for my son during childhood. My true son{n}is now with General {s:0008}.",
    "term": "end"
   },
   {
    "id": "scen100.0215",
    "jp": "{v:001B}先ほどの無礼をお許し下さい。{p}{v:001C}私、{s:0019}。{n}騎士の名に賭けて、忠誠を尽くすのは{n}真の王のみでございます。{p}{v:001D}あなた様の協力をさせていただきたく存じます。",
-   "en": "",
+   "en": "{v:001B}Please forgive my earlier discourtesy.{p}{v:001C}I, {s:0019}, swear upon my honor as a{n}knight that my loyalty belongs only to the true King.{p}{v:001D}I humbly ask to lend you my aid.",
    "term": "end"
   },
   {
    "id": "scen100.0216",
    "jp": "{v:001E}{s:011B}。{n}私は彼を信じても良いと思います。",
-   "en": "",
+   "en": "{v:001E}{s:011B}. I believe we may trust him.",
    "term": "end"
   },
   {
    "id": "scen100.0217",
    "jp": "{v:001F}しかし、アンジェラ様‥‥。",
-   "en": "",
+   "en": "{v:001F}But, Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen100.0218",
    "jp": "{v:0020}インペリアル・ナイツが、{n}スパイじみた作戦をとると思いますか？{p}{v:0021}それに彼の忠誠は、私もよく知っております。{n}心配はありません。",
-   "en": "",
+   "en": "{v:0020}Do you believe the Imperial Knights would resort to a{n}spy's tactics?{p}{v:0021}Besides, I know his loyalty well. There is nothing to{n}fear.",
    "term": "end"
   },
   {
    "id": "scen100.0219",
    "jp": "{v:0022}わかりました。{n}彼を信用しましょう。",
-   "en": "",
+   "en": "{v:0022}Very well. We shall trust him.",
    "term": "end"
   },
   {
    "id": "scen100.0220",
    "jp": "{v:0023}ありがとうございます。",
-   "en": "",
+   "en": "{v:0023}Thank you.",
    "term": "end"
   },
   {
    "id": "scen100.0221",
    "jp": "彼の言葉が気になる。{n}{s:0008}は大丈夫だろうか‥‥？",
-   "en": "",
+   "en": "His words trouble me. Will {s:0008} be all{n}right...?",
    "term": "end"
   },
   {
    "id": "scen100.0222",
    "jp": "リーヴスが我々についてくれるとは‥‥。{n}勝機も見えてきましたね。",
-   "en": "",
+   "en": "To think Reeves would join us... Victory is beginning to{n}seem possible.",
    "term": "end"
   },
   {
    "id": "scen100.0223",
    "jp": "あの{s:00F2}に手間取っていた間に{n}{s:001B}がナイツをよこしたのですね‥‥。",
-   "en": "",
+   "en": "So while those {s:00F2} were holding us up,{n}{s:001B} sent his Knights...",
    "term": "end"
   },
   {
    "id": "scen100.0224",
    "jp": "こっちは何とかなりそうだが、{n}{s:0008}様は大丈夫だろうか？",
-   "en": "",
+   "en": "We should be able to manage here, but will {s:0008}{n}be all right?",
    "term": "end"
   },
   {
    "id": "scen100.0225",
    "jp": "いよいよ本格的な戦いになるぞ‥‥。",
-   "en": "",
+   "en": "Now the fighting starts in earnest...",
    "term": "end"
   },
   {
    "id": "scen100.0226",
    "jp": "これで我が軍の兵力が、倍になったな。",
-   "en": "",
+   "en": "This doubles our army's strength.",
    "term": "end"
   },
   {
    "id": "scen100.0227",
    "jp": "相手はリーヴス様か‥‥。{n}だが、負けられぬ！",
-   "en": "",
+   "en": "Our opponent is Reeves-sama... But we cannot lose!",
    "term": "end"
   },
   {
    "id": "scen100.0228",
    "jp": "リーヴス様の姿を確認した時、{n}思わず死を覚悟したよ‥‥。",
-   "en": "",
+   "en": "The moment I caught sight of Reeves-sama, I couldn't{n}help bracing myself for death...",
    "term": "end"
   },
   {
    "id": "scen100.0229",
    "jp": "アンジェラ様、危険です。{n}ここは我々に任せて、下がって下さい。",
-   "en": "",
+   "en": "Angela-sama, it is dangerous here. Please fall back and{n}leave this to us.",
    "term": "end"
   },
   {
    "id": "scen100.0230",
    "jp": "いや～。{n}正直言って、ほっとしたよ。",
-   "en": "",
+   "en": "Whew! To be honest, that's a relief.",
    "term": "end"
   },
   {
    "id": "scen100.0231",
    "jp": "ダグラス様だって、元ナイツメンバーだ。{n}そう簡単に、負けてたまるか！",
-   "en": "",
+   "en": "Douglas-sama was an Imperial Knight himself. We won't{n}go down that easily!",
    "term": "end"
   },
   {
    "id": "scen100.0232",
    "jp": "こんな事になるなんて、驚いたわ。",
-   "en": "",
+   "en": "I never imagined things would turn out like this.",
    "term": "end"
   },
   {
    "id": "scen100.0233",
    "jp": "いよいよね‥‥。",
-   "en": "",
+   "en": "The time has finally come...",
    "term": "end"
   },
   {
    "id": "scen100.0234",
    "jp": "我々はただリーヴス様についていくだけです。",
-   "en": "",
+   "en": "We shall simply follow Reeves-sama.",
    "term": "end"
   },
   {
    "id": "scen100.0235",
    "jp": "偽王{s:001B}を討つため、{n}我々も戦います！",
-   "en": "",
+   "en": "We too shall fight to overthrow the false king,{n}{s:001B}!",
    "term": "end"
   },
   {
    "id": "scen100.0236",
    "jp": "ひょっとしてあなた方ですかな？{n}リーヴス将軍を退けた方は？",
-   "en": "",
+   "en": "Might you be the ones who drove back General Reeves?",
    "term": "end"
   },
   {
    "id": "scen100.0237",
    "jp": "スイッチがある。{n}押してみますか？",
-   "en": "",
+   "en": "There is a switch. Press it?",
    "term": "end"
   },
   {
    "id": "scen100.0238",
    "jp": "　{n}　　　　　驚いていただけました？",
-   "en": "",
+   "en": "Did I give you a surprise?",
    "term": "end"
   },
   {
    "id": "scen100.0239",
    "jp": "いらっしゃいませ。{n}当ホテルをご利用になられますか？",
-   "en": "",
+   "en": "Welcome. Would you like to stay at our hotel?",
    "term": "end"
   },
   {
    "id": "scen100.0240",
    "jp": "以前、ウチの女子社員にひどい事しましたから‥‥。",
-   "en": "",
+   "en": "After what you did to our female employee last time...",
    "term": "end"
   },
   {
    "id": "scen100.0241",
    "jp": "１泊、{FFEB}エルムになりますが？",
-   "en": "",
+   "en": "It will be {FFEB} Elm for one night. Is that all right?",
    "term": "end"
   },
   {
    "id": "scen100.0242",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
    "term": "end"
   },
   {
    "id": "scen100.0243",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
+   "en": "We look forward to your next visit.",
    "term": "end"
   },
   {
    "id": "scen100.0244",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
    "term": "end"
   },
   {
    "id": "scen100.0245",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
+   "en": "{v:0002}Now, what can I do for you?",
    "term": "end"
   },
   {
    "id": "scen100.0246",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0247",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0248",
    "jp": "まだ用事はあるかい？",
-   "en": "",
+   "en": "Anything else you need?",
    "term": "end"
   },
   {
    "id": "scen100.0249",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0250",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0251",
    "jp": "{v:000B}またおいで～。{n}待ってるよ～。",
-   "en": "",
+   "en": "{v:000B}Come agaaain! I'll be waiting!",
    "term": "end"
   },
   {
    "id": "scen100.0252",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
    "term": "end"
   },
   {
    "id": "scen100.0253",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
    "id": "scen100.0254",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0255",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0256",
    "jp": "まだ何か用か？",
-   "en": "",
+   "en": "Need anything else?",
    "term": "end"
   },
   {
    "id": "scen100.0257",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0258",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen100.0259",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
+   "en": "{v:0025}See ya.",
    "term": "end"
   },
   {
    "id": "scen100.0260",
    "jp": "ダメですよ、話しかけちゃ。{n}知らないふりをするのもマナーですよ。",
-   "en": "",
+   "en": "You're not supposed to talk to me. It's only polite to{n}pretend you haven't noticed.",
    "term": "end"
   },
   {
    "id": "scen100.0261",
    "jp": "暖炉に火を付けますか？",
-   "en": "",
+   "en": "Light a fire in the fireplace?",
    "term": "end"
   },
   {
    "id": "scen100.0262",
    "jp": "ちょ、ちょっと！{n}何する気！？{n}やめてください！",
-   "en": "",
+   "en": "H-hey! What are you doing?! Stop it!",
    "term": "end"
   },
   {
    "id": "scen100.0263",
    "jp": "中に人がいるようだが、火を付けますか？",
-   "en": "",
+   "en": "There seems to be someone inside. Light a fire anyway?",
    "term": "end"
   },
   {
    "id": "scen100.0264",
    "jp": "{FFF0}ぎゃーーーーっ！{FFF1}",
-   "en": "",
+   "en": "{FFF0}Aaaaaaah!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen100.0265",
    "jp": "‥‥‥ほっ。",
-   "en": "",
+   "en": "...Whew.",
    "term": "end"
   },
   {
    "id": "scen100.0266",
    "jp": "せっかく休ませてもらえるんだから、{n}ちゃんと休もうよ！",
-   "en": "",
+   "en": "We've been given a chance to rest, so let's make the{n}most of it!",
    "term": "end"
   },
   {
    "id": "scen100.0267",
    "jp": "アンジェラ様に誘われているのに、{n}無視したら失礼だよ。",
-   "en": "",
+   "en": "Angela-sama invited us. It'd be rude to ignore her.",
    "term": "end"
   }
  ]

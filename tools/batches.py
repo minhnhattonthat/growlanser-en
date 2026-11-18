@@ -30,6 +30,7 @@ TOKEN = re.compile(r"\{[^}\n]*\}|\[[0-9A-F]{4}\]")  # control codes, placeholder
 FREE = {"{n}", "{p}"}  # layout codes the English may place freely (the wrapper adds them)
 DICT = re.compile(r"\{F4([0-9A-F]{2})\}")  # dictionary words: shown expanded to translators, spelled out in English
 VARIABLE = r"\{s:[0-9A-F]{4}\}"  # a name the game draws: no suffix glued on
+GLYPH_VARS = {"{s:0127}"}  # 目 drawn from the names table (exe.names "Eye"), a kanji not a name: English spells the word
 HONORIFICS = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun"}  # D1: honorifics kept
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # tools/insert.py KEEP_JP: punctuation data, not drawn as text
 WRAPPED = ("scen", "exe.help", "msys")  # multi-line boxes the wrapper lays out; {p} only added in scen dialogue
@@ -198,7 +199,7 @@ def problems(entry, en, terms):
     if re.search(r"\\u[0-9a-fA-F]{4}", en) or "\t" in en or "\\n" in en:
         out.append("escape sequence or tab in the English (write {n} for a forced line break)")
     free = FREE if entry["id"].startswith(WRAPPED) else set()  # menu/list strings keep one {n} per row
-    want = Counter(t for t in TOKEN.findall(jp) if t not in free and not DICT.fullmatch(t))
+    want = Counter(t for t in TOKEN.findall(jp) if t not in free | GLYPH_VARS and not DICT.fullmatch(t))
     have = Counter(t for t in TOKEN.findall(en) if t not in free)
     if want != have:
         out.append(f"control codes differ: JP {dict(want)} EN {dict(have)}")

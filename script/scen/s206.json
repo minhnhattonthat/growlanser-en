@@ -15,133 +15,133 @@
   {
    "id": "scen206.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen206.0002",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
+   "en": "Burnstein Captain",
    "term": "null"
   },
   {
    "id": "scen206.0003",
    "jp": "{FFEE}街の北西で集結しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Regroup in the northwest of town!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen206.0004",
    "jp": "やっと着いた‥‥。",
-   "en": "",
+   "en": "Finally made it...",
    "term": "end"
   },
   {
    "id": "scen206.0005",
    "jp": "‥‥ふうっ。",
-   "en": "",
+   "en": "...Whew.",
    "term": "end"
   },
   {
    "id": "scen206.0006",
    "jp": "やれやれ。",
-   "en": "",
+   "en": "Good grief.",
    "term": "end"
   },
   {
    "id": "scen206.0007",
    "jp": "よし、着いたぞ。",
-   "en": "",
+   "en": "All right, we're here.",
    "term": "end"
   },
   {
    "id": "scen206.0008",
    "jp": "疲れた‥‥。",
-   "en": "",
+   "en": "I'm exhausted...",
    "term": "end"
   },
   {
    "id": "scen206.0009",
    "jp": "‥‥ふへぇ。",
-   "en": "",
+   "en": "...Whewww.",
    "term": "end"
   },
   {
    "id": "scen206.0010",
    "jp": "ったく、やっと着いたぜ。",
-   "en": "",
+   "en": "Damn, we're finally here.",
    "term": "end"
   },
   {
    "id": "scen206.0011",
    "jp": "ふぅ‥‥。",
-   "en": "",
+   "en": "Phew...",
    "term": "end"
   },
   {
    "id": "scen206.0012",
    "jp": "{v:0004}さすがに敵が多いな。",
-   "en": "",
+   "en": "{v:0004}There are plenty of enemies, all right.",
    "term": "end"
   },
   {
    "id": "scen206.0013",
    "jp": "{v:000C}みんな、用意はいいですか？{p}{v:000D}では行きましょう。",
-   "en": "",
+   "en": "{v:000C}Is everyone ready?{p}{v:000D}Then let us go.",
    "term": "end"
   },
   {
    "id": "scen206.0014",
    "jp": "{v:0003}そっちじゃない。{n}城は街の北西だ！",
-   "en": "",
+   "en": "{v:0003}Not that way. The castle is in the northwest of town!",
    "term": "end"
   },
   {
    "id": "scen206.0015",
    "jp": "ま、まだ‥‥",
-   "en": "",
+   "en": "N-not yet...",
    "term": "end"
   },
   {
    "id": "scen206.0016",
    "jp": "グオォォーッ！",
-   "en": "",
+   "en": "Graaagh!",
    "term": "end"
   },
   {
    "id": "scen206.0017",
    "jp": "ガハッ！",
-   "en": "",
+   "en": "Gah!",
    "term": "end"
   },
   {
    "id": "scen206.0018",
    "jp": "グッ！",
-   "en": "",
+   "en": "Gh!",
    "term": "end"
   },
   {
    "id": "scen206.0019",
    "jp": "な、なぜ勝てない‥‥",
-   "en": "",
+   "en": "W-why can't I win...?",
    "term": "end"
   },
   {
    "id": "scen206.0020",
    "jp": "俺の力は、まだまだこんなものじゃないぞ‥‥",
-   "en": "",
+   "en": "This isn't anywhere near the limit of my strength...",
    "term": "end"
   },
   {
    "id": "scen206.0021",
    "jp": "やるわね‥‥",
-   "en": "",
+   "en": "You're quite good...",
    "term": "end"
   },
   {
    "id": "scen206.0022",
    "jp": "こ、これ程とは‥‥",
-   "en": "",
+   "en": "S-so powerful...",
    "term": "end"
   }
  ]

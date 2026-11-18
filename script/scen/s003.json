@@ -69,7 +69,7 @@
   {
    "id": "scen003.0010",
    "jp": "ＬＬＭ魔法教室講師",
-   "en": "LLM Magic School Instructor",
+   "en": "LLM Magic Class Instructor",
    "term": "null"
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "scen003.0020",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "{v:0054}Keep the Nook Shop in mind next time, too!",
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
    "term": "end"
   },
   {
@@ -165,13 +165,13 @@
   {
    "id": "scen003.0026",
    "jp": "{v:000D}いらっしゃいませ。{n}当店では、様々なグッズを取り扱っております。",
-   "en": "{v:000D}Welcome! We carry a wide variety of goods.",
+   "en": "{v:000D}Welcome. We carry a wide variety of goods.",
    "term": "end"
   },
   {
    "id": "scen003.0027",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:000E}Would you like to buy something? Or would you like to{n}sell?",
+   "en": "{v:000E}Would you like to buy or sell?",
    "term": "end"
   },
   {
@@ -241,19 +241,19 @@
   {
    "id": "scen003.0038",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Ain't selling a thing{FE1E}.{FE1E}..{FFFB}... Ain't nobody coming, either...",
+   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
    "term": "end"
   },
   {
    "id": "scen003.0039",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "Bargains galore!{n}Coco's Item Shop",
+   "en": "Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen003.0040",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore!{n}Nook Shop",
+   "en": "Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -271,7 +271,7 @@
   {
    "id": "scen003.0043",
    "jp": "マンホールがまるい形をしているのは、{n}向きがずれても落ちないためだ。",
-   "en": "Manhole covers are round so they can't fall through,{n}no matter which way they're turned.",
+   "en": "Manhole covers are round so they won't fall through,{n}no matter which way they're turned.",
    "term": "end"
   },
   {
@@ -295,7 +295,7 @@
   {
    "id": "scen003.0047",
    "jp": "うぅ‥‥。{n}なんか寂しいよ‥‥。",
-   "en": "Aw... I feel kind of lonely...",
+   "en": "Ugh... I feel so lonely...",
    "term": "end"
   },
   {
@@ -307,7 +307,7 @@
   {
    "id": "scen003.0049",
    "jp": "僕の彼女、ここを散歩するのが好きだったんだ‥‥。",
-   "en": "My girlfriend used to like walking here...",
+   "en": "My girlfriend used to love walking here...",
    "term": "end"
   },
   {
@@ -319,7 +319,7 @@
   {
    "id": "scen003.0051",
    "jp": "あぁ‥‥。{n}これから私はどうしたらいいの‥‥。",
-   "en": "Oh... What am I going to do now...?",
+   "en": "Oh... What am I supposed to do now...?",
    "term": "end"
   },
   {
@@ -349,7 +349,7 @@
   {
    "id": "scen003.0056",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Would you like to buy something today? Or would you{n}like to sell?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen003.0059",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else I can do for you?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -395,7 +395,7 @@
   {
    "id": "scen003.0063",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "{v:000C}Welcome! We carry a wide range of equipment.",
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
    "term": "end"
   },
   {
@@ -419,7 +419,7 @@
   {
    "id": "scen003.0067",
    "jp": "ごめ～ん。{n}今、手が放せないの。{n}しばらくしたら、また来て。",
-   "en": "Sooorry! I've got my hands full right now. Come back in{n}a little while.",
+   "en": "Sorryyy. I'm busy right now. Come back in a little while.",
    "term": "end"
   },
   {
@@ -431,7 +431,7 @@
   {
    "id": "scen003.0069",
    "jp": "デリス村の村長は私の叔父なのよ。{n}今でこそ、ぼ～っとして見えてるけど{n}昔はけっこう切れ者だったらしいわ。",
-   "en": "The village chief of Delis Village is my uncle. He may{n}seem a bit absent-minded now, but apparently he was{n}quite sharp in his younger days.",
+   "en": "The chief of Delis Village is my uncle. He may seem{n}rather absentminded now, but I hear he used to be{n}quite sharp.",
    "term": "end"
   },
   {
@@ -443,7 +443,7 @@
   {
    "id": "scen003.0071",
    "jp": "へぇ～。{n}こんな所に出るんだ‥‥。{n}面白いね。",
-   "en": "Ohhh. So this is where it comes out... Neat.",
+   "en": "Wow... So this is where it comes out... That's neat.",
    "term": "end"
   },
   {
@@ -467,13 +467,13 @@
   {
    "id": "scen003.0075",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "South Avenue Shopping District is open for{n}business!!",
+   "en": "South Avenue Shopping District: Open for Business!!",
    "term": "end"
   },
   {
    "id": "scen003.0076",
    "jp": "今では兵隊さんが品物を買いに来て、大忙しだ。{n}ああ、忙しい。",
-   "en": "Now soldiers come here to buy goods, and I'm rushed{n}off my feet. Ah, so much to do!",
+   "en": "Now soldiers are coming to buy things, and I'm run off{n}my feet. Oh, so busy!",
    "term": "end"
   },
   {
@@ -491,7 +491,7 @@
   {
    "id": "scen003.0079",
    "jp": "よく、ここへ来る方法がわかったな‥‥。{n}ここに気づいたのは、お前が初めてだ。",
-   "en": "I'm impressed you figured out how to get here... You're{n}the first person to find this place.",
+   "en": "So you figured out how to get here... You're the first{n}to notice this place.",
    "term": "end"
   },
   {
@@ -503,7 +503,7 @@
   {
    "id": "scen003.0081",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "{v:001B}Here to buy? Or got something to sell?",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
@@ -603,13 +603,13 @@
   {
    "id": "scen003.0097",
    "jp": "このマンホールをくぐると地底都市が！！{FFFB}{n}‥‥ということは絶対にない。",
-   "en": "There's an underground city through this manhole!!{FFFB}...No,{n}there definitely isn't.",
+   "en": "Through this manhole lies an underground city!!{FFFB}{n}...Absolutely no chance of that.",
    "term": "end"
   },
   {
    "id": "scen003.0098",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% Magic Academy acceptance rate!{n}A trusted preparatory school with a proven record{n}'LLM Magic School'",
+   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
    "term": "end"
   },
   {
@@ -639,19 +639,19 @@
   {
    "id": "scen003.0103",
    "jp": "あなたに教えることは、もうなさそうね。{p}だけどこのおじいさんは、{n}まだまだ勉強が必要みたい[01BE]",
-   "en": "It seems there's nothing left for me to teach you.{p}This old gentleman, though, still has quite a bit to{n}learn.[01BE]",
+   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying to{n}do[01BE]",
    "term": "end"
   },
   {
    "id": "scen003.0104",
    "jp": "‥‥ふむふむ。",
-   "en": "...Hmm, yes, I see.",
+   "en": "...Hmm, I see.",
    "term": "end"
   },
   {
    "id": "scen003.0105",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you would like explained about{n}abilities?",
+   "en": "Is there anything else you would like to know about{n}abilities?",
    "term": "end"
   },
   {
@@ -669,19 +669,19 @@
   {
    "id": "scen003.0108",
    "jp": "わしも経験をつめば、剣とかを振り回して、{n}きめぽぉずをとるんじゃろうか？",
-   "en": "If I gain enough experience, will I be swinging a sword{n}about and striking a dashing pose, too, eh?",
+   "en": "If I gain enough experience, will I be swinging swords{n}about and striking dashing poses, too, eh?",
    "term": "end"
   },
   {
    "id": "scen003.0109",
    "jp": "え‥‥[01BE]",
-   "en": "Er...?[01BE]",
+   "en": "Er...[01BE]",
    "term": "end"
   },
   {
    "id": "scen003.0110",
    "jp": "わしも経験をつめば、{n}きめぽぉずをとるんじゃろうか？{n}そこがいちばん知りたいのぉ‥‥。",
-   "en": "If I gain enough experience, will I strike a dashing pose,{n}too, eh? That's what I'd most like to know...",
+   "en": "If I gain enough experience, will I be striking dashing{n}poses, too, eh? That's what I'd most like to know...",
    "term": "end"
   },
   {
@@ -867,7 +867,7 @@
   {
    "id": "scen003.0141",
    "jp": "{v:0014}えっ？",
-   "en": "{v:0014}What?",
+   "en": "{v:0014}Huh?",
    "term": "end"
   },
   {
@@ -1014,7 +1014,7 @@
   {
    "id": "scen003.0165",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "'Remember to lock up before going out!' --Rosaria{n}Guard",
+   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
    "term": "end"
   },
   {
@@ -1206,7 +1206,7 @@
   {
    "id": "scen003.0197",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
@@ -1218,7 +1218,7 @@
   {
    "id": "scen003.0199",
    "jp": "{FFEC}ティピちゃーん、きーっく{FFED}",
-   "en": "{FFEC}Tippi-chan kiiick!{FFED}",
+   "en": "{FFEC}Tippi-chan Kiiick!{FFED}",
    "term": "end"
   },
   {
@@ -1248,25 +1248,25 @@
   {
    "id": "scen003.0204",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It's just a{n}manhole cover!",
+   "en": "Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {
    "id": "scen003.0205",
    "jp": "マンホールのふたは、雨の日によく滑る。",
-   "en": "Manhole covers are very slippery on rainy days.",
+   "en": "Manhole covers get very slippery on rainy days.",
    "term": "end"
   },
   {
    "id": "scen003.0206",
    "jp": "マンホールのふたは{n}４０キログラムと、かなり重い。",
-   "en": "Manhole covers are quite heavy, weighing 40 kilograms.",
+   "en": "Manhole covers weigh a hefty 40 kilograms.",
    "term": "end"
   },
   {
    "id": "scen003.0207",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "Star Road Weapons and Armor -- Royal Capital Rosaria{n}Main Store",
+   "en": "Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
    "term": "end"
   },
   {

@@ -15,214 +15,214 @@
   {
    "id": "scen157.0001",
    "jp": "{FFEE}敵を逃がすな！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Do not let the enemy escape!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen157.0002",
    "jp": "{v:0010}ぼやぼやしてると、研究書を取り戻せないよ！",
-   "en": "",
+   "en": "{v:0010}If you keep dawdling, we'll never get the research back!",
    "term": "end"
   },
   {
    "id": "scen157.0003",
    "jp": "{v:001D}ああ、やばいよ！{n}逃げられちゃう！",
-   "en": "",
+   "en": "{v:001D}Oh, this is bad! They're getting away!",
    "term": "end"
   },
   {
    "id": "scen157.0004",
    "jp": "{v:001E}くっ！",
-   "en": "",
+   "en": "{v:001E}Gah!",
    "term": "end"
   },
   {
    "id": "scen157.0005",
    "jp": "ふん、ノロマな奴め！{n}そこで遊んでいるがいい！",
-   "en": "",
+   "en": "Hmph, you slowpoke! Stay there and play!",
    "term": "end"
   },
   {
    "id": "scen157.0006",
    "jp": "この研究書は確かにいただいたぞ！",
-   "en": "",
+   "en": "This research is mine now!",
    "term": "end"
   },
   {
    "id": "scen157.0007",
    "jp": "そんな‥‥。逃げられちゃうなんて‥‥。",
-   "en": "",
+   "en": "No... How could we let them get away...?",
    "term": "end"
   },
   {
    "id": "scen157.0008",
    "jp": "{v:0011}お前は、あの時の！？{n}ええい！しつこい奴め！",
-   "en": "",
+   "en": "{v:0011}You! From before?! Bah! You persistent pest!",
    "term": "end"
   },
   {
    "id": "scen157.0009",
    "jp": "{v:0012}泥棒のくせに何言ってんのよ！{n}マスターの研究書を返しなさいよ！",
-   "en": "",
+   "en": "{v:0012}You're a thief! Who are you to talk?! Give back Master's{n}research!",
    "term": "end"
   },
   {
    "id": "scen157.0010",
    "jp": "{v:0013}邪魔をすると容赦はせぬぞ！",
-   "en": "",
+   "en": "{v:0013}Interfere, and I shall show you no mercy!",
    "term": "end"
   },
   {
    "id": "scen157.0011",
    "jp": "{v:0014}ムッカ～ッ！",
-   "en": "",
+   "en": "{v:0014}Ooh, you make me sooo mad!",
    "term": "end"
   },
   {
    "id": "scen157.0012",
    "jp": "逃がさないから！",
-   "en": "",
+   "en": "You're not getting away!",
    "term": "end"
   },
   {
    "id": "scen157.0013",
    "jp": "逃がすか！",
-   "en": "",
+   "en": "You're not escaping!",
    "term": "end"
   },
   {
    "id": "scen157.0014",
    "jp": "目障りだ！　死ねい！！",
-   "en": "",
+   "en": "Out of my sight! Die!",
    "term": "end"
   },
   {
    "id": "scen157.0015",
    "jp": "すまねぇ‥‥。{n}役に立てなかった‥‥",
-   "en": "",
+   "en": "Sorry... Wasn't any use...",
    "term": "end"
   },
   {
    "id": "scen157.0016",
    "jp": "　{n}　　　『{FFEF}サンドラの研究書{FFF1}』を取り戻した！",
-   "en": "",
+   "en": "Recovered '{FFEF}Sandra's Study{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen157.0017",
    "jp": "お、おのれ‥‥",
-   "en": "",
+   "en": "Y-you bastard...",
    "term": "end"
   },
   {
    "id": "scen157.0018",
    "jp": "ここまでか‥‥",
-   "en": "",
+   "en": "So this is it...",
    "term": "end"
   },
   {
    "id": "scen157.0019",
    "jp": "ざ、残念だったな‥‥。{n}俺は持ってないぜ‥‥",
-   "en": "",
+   "en": "T-too bad for you... I ain't got it...",
    "term": "end"
   },
   {
    "id": "scen157.0020",
    "jp": "くそっ‥‥。{n}もう少しで逃げられたのに‥‥",
-   "en": "",
+   "en": "Damn... I was so close to getting away...",
    "term": "end"
   },
   {
    "id": "scen157.0021",
    "jp": "{v:000D}これは！？",
-   "en": "",
+   "en": "{v:000D}What is this?!",
    "term": "end"
   },
   {
    "id": "scen157.0022",
    "jp": "{v:000E}追っ手だ！{n}お前は我々の脱出を手伝ってくれ！",
-   "en": "",
+   "en": "{v:000E}Our pursuers! Help us escape!",
    "term": "end"
   },
   {
    "id": "scen157.0023",
    "jp": "{v:000F}承知した！",
-   "en": "",
+   "en": "{v:000F}Understood!",
    "term": "end"
   },
   {
    "id": "scen157.0024",
    "jp": "ジュリアン？{n}どうしてここに？",
-   "en": "",
+   "en": "Julian? What are you doing here?",
    "term": "end"
   },
   {
    "id": "scen157.0025",
    "jp": "心配になってきたのだが‥‥。{n}どうやら無用な気づかいだったようだな。",
-   "en": "",
+   "en": "I came because I was concerned... It seems my concern{n}was unnecessary.",
    "term": "end"
   },
   {
    "id": "scen157.0026",
    "jp": "{v:0015}危なっかしい戦い方だな。",
-   "en": "",
+   "en": "{v:0015}That is a reckless way to fight.",
    "term": "end"
   },
   {
    "id": "scen157.0027",
    "jp": "{v:0016}ジュリアン？{n}どうしてここに？",
-   "en": "",
+   "en": "{v:0016}Julian? What are you doing here?",
    "term": "end"
   },
   {
    "id": "scen157.0028",
    "jp": "{v:0017}そんな事はどうでもいい！{n}今はこいつらを倒すんだろ？{n}私も加勢する！{p}{v:0018}どうして欲しい？",
-   "en": "",
+   "en": "{v:0017}That does not matter! You need to defeat them now,{n}correct? I shall assist!{p}{v:0018}What would you have me do?",
    "term": "end"
   },
   {
    "id": "scen157.0029",
    "jp": "さぁ、次はどいつを狙えばいい？",
-   "en": "",
+   "en": "Now, which one should I target next?",
    "term": "end"
   },
   {
    "id": "scen157.0030",
    "jp": "ジュリアンにどう指示しますか？",
-   "en": "",
+   "en": "What orders will you give Julian?",
    "term": "end"
   },
   {
    "id": "scen157.0031",
    "jp": "・攻撃目標を指定",
-   "en": "",
+   "en": "・Choose an attack target",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen157.0032",
    "jp": "・自由に戦って欲しい",
-   "en": "",
+   "en": "・Ask Julian to fight freely",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen157.0033",
    "jp": "・その場で待機",
-   "en": "",
+   "en": "・Wait in place",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen157.0034",
    "jp": "{v:0019}こいつでいいんだな？",
-   "en": "",
+   "en": "{v:0019}This is the one, correct?",
    "term": "end"
   },
   {
    "id": "scen157.0035",
    "jp": "{v:001A}わかった！",
-   "en": "",
+   "en": "{v:001A}Understood!",
    "term": "end"
   }
  ]

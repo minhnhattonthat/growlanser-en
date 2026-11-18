@@ -81,7 +81,7 @@
   {
    "id": "scen044.0012",
    "jp": "{v:003C}うわ～、大きいね。",
-   "en": "{v:003C}Woooow, it's huge!",
+   "en": "{v:003C}Wow, it's huge!",
    "term": "end"
   },
   {
@@ -579,7 +579,7 @@
   {
    "id": "scen044.0095",
    "jp": "ここから先は関係者以外、立入禁止です。",
-   "en": "Authorized personnel only beyond this point.",
+   "en": "Only authorized personnel are permitted beyond this{n}point.",
    "term": "end"
   },
   {
@@ -723,7 +723,7 @@
   {
    "id": "scen044.0119",
    "jp": "失礼ですが、お金が足りないようです。",
-   "en": "I am sorry, but you do not seem to have enough{n}money.",
+   "en": "I'm sorry, but you don't seem to have enough money.",
    "term": "end"
   },
   {

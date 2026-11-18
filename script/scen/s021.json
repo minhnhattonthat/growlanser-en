@@ -511,7 +511,7 @@
   {
    "id": "scen021.0083",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
@@ -569,7 +569,7 @@
   {
    "id": "scen021.0092",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "{v:0002}Now then, what can I do for you?",
+   "en": "{v:0002}Now, what can I do for you?",
    "term": "end"
   },
   {
@@ -1013,7 +1013,7 @@
   {
    "id": "scen021.0165",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you very much. Take care on your journey.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {

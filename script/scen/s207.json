@@ -15,175 +15,175 @@
   {
    "id": "scen207.0001",
    "jp": "{v:0003}ちょっと緊張しますね。",
-   "en": "",
+   "en": "{v:0003}I'm a little nervous.",
    "term": "end"
   },
   {
    "id": "scen207.0002",
    "jp": "{v:0004}エリオット陛下、折り入って、お願いがあります。",
-   "en": "",
+   "en": "{v:0004}Your Majesty Elliot, I have a personal request to{n}make.",
    "term": "end"
   },
   {
    "id": "scen207.0003",
    "jp": "{v:0005}どうしたんですか、あらたまって。",
-   "en": "",
+   "en": "{v:0005}What is it? You sound so formal.",
    "term": "end"
   },
   {
    "id": "scen207.0004",
    "jp": "{v:0006}我々がこの戦いで勝った場合、{n}アーネスト・ライエルを{n}罰しないでいただきたいのです。{p}{v:0007}自分の主を守るのがインペリアル・ナイツとしての{n}当然の義務。{p}{v:0008}本来ならば誓いがありながら、{n}反乱に荷担した私の方が罰せられるべきなのです。",
-   "en": "",
+   "en": "{v:0006}If we win this battle, I ask that you spare Ernest{n}Lyell from punishment.{p}{v:0007}Protecting one's lord is the sworn duty of the{n}Imperial Knights.{p}{v:0008}By rights, I am the one who should be punished for{n}joining a rebellion despite my oath.",
    "term": "end"
   },
   {
    "id": "scen207.0005",
    "jp": "{v:0009}だけど、それは偽者を倒すために仕方ないことでしょ？{n}あなたはどこも悪くないんじゃない？",
-   "en": "",
+   "en": "{v:0009}But you had to do it to bring down the impostor,{n}right? You haven't done anything wrong!",
    "term": "end"
   },
   {
    "id": "scen207.0006",
    "jp": "{v:000A}上手く言えないけれど、称号に忠誠を誓ったか、{n}人柄に忠誠を誓ったかの違いですね。",
-   "en": "",
+   "en": "{v:000A}It is hard to put into words, but the difference is{n}whether your loyalty is to someone's title or to their{n}character.",
    "term": "end"
   },
   {
    "id": "scen207.0007",
    "jp": "{v:000B}わかりました、約束しましょう。",
-   "en": "",
+   "en": "{v:000B}I understand. You have my word.",
    "term": "end"
   },
   {
    "id": "scen207.0008",
    "jp": "{v:000C}ありがとうございます。{p}{v:000D}そしてもう１つ、リシャール王の事ですが‥‥。",
-   "en": "",
+   "en": "{v:000C}Thank you.{p}{v:000D}One more thing, concerning King Richard...",
    "term": "end"
   },
   {
    "id": "scen207.0009",
    "jp": "{v:000E}彼が何か？",
-   "en": "",
+   "en": "{v:000E}What about him?",
    "term": "end"
   },
   {
    "id": "scen207.0010",
    "jp": "{v:000F}彼は国王陛下の名を騙る偽者だったわけですが、{n}昔は本当に素直で優しい方でした。{p}{v:0010}王として即位する直前から、何かに憑かれたように{n}人が変わってしまいました。{p}{v:0011}もし彼がゲヴェルに操られているなら、{n}また元の彼に戻る可能性もあるのでは{n}ないでしょうか？",
-   "en": "",
+   "en": "{v:000F}Though he was an impostor posing as king, he was{n}once truly honest and kind.{p}{v:0010}Shortly before his coronation, he changed completely, as{n}though something had possessed him.{p}{v:0011}If Gevel is controlling him, might there be a chance he{n}could return to his former self?",
    "term": "end"
   },
   {
    "id": "scen207.0011",
    "jp": "{v:0012}ゲヴェルを倒せば、{n}元の彼に戻るかも知れないと言うのですね？",
-   "en": "",
+   "en": "{v:0012}You mean he might return to his former self if we{n}defeat Gevel?",
    "term": "end"
   },
   {
    "id": "scen207.0012",
    "jp": "‥‥{v:0013}はい。",
-   "en": "",
+   "en": "...{v:0013}Yes.",
    "term": "end"
   },
   {
    "id": "scen207.0013",
    "jp": "{v:0014}わかりました。{n}彼を捕らえた後、ゲヴェルを倒すまで、{n}彼の身柄の安全を約束しましょう。",
-   "en": "",
+   "en": "{v:0014}Very well. Once we capture him, I promise to keep him{n}safe until Gevel is defeated.",
    "term": "end"
   },
   {
    "id": "scen207.0014",
    "jp": "‥‥{v:0015}まことに申し訳ございません。",
-   "en": "",
+   "en": "...{v:0015}I am truly sorry to ask so much of you.",
    "term": "end"
   },
   {
    "id": "scen207.0015",
    "jp": "{v:0041}いっけーーっ！",
-   "en": "",
+   "en": "{v:0041}Go get him!",
    "term": "end"
   },
   {
    "id": "scen207.0016",
    "jp": "{v:0042}人の命をもてあそぶ人は許せない！",
-   "en": "",
+   "en": "{v:0042}I can't forgive anyone who toys with people's lives!",
    "term": "end"
   },
   {
    "id": "scen207.0017",
    "jp": "‥‥{v:0043}さぁ、決着をつけるとしようか！",
-   "en": "",
+   "en": "...{v:0043}Now, let's settle this!",
    "term": "end"
   },
   {
    "id": "scen207.0018",
    "jp": "{v:0044}人質を取るような卑怯者は、許せませんね。",
-   "en": "",
+   "en": "{v:0044}I cannot forgive a coward who takes hostages.",
    "term": "end"
   },
   {
    "id": "scen207.0019",
    "jp": "{v:0045}アンタのせいでみんな苦しんだんだからね！",
-   "en": "",
+   "en": "{v:0045}Everyone suffered because of you!",
    "term": "end"
   },
   {
    "id": "scen207.0020",
    "jp": "{v:0046}兄を苦しめたあなたを、私は許しません！",
-   "en": "",
+   "en": "{v:0046}I will never forgive you for making my brother suffer!",
    "term": "end"
   },
   {
    "id": "scen207.0021",
    "jp": "{v:0047}今までの借りはまとめて返すぜ！",
-   "en": "",
+   "en": "{v:0047}Time to pay you back for everything!",
    "term": "end"
   },
   {
    "id": "scen207.0022",
    "jp": "‥{v:0048}フン！{n}返り討ちにしてあげますよ！",
-   "en": "",
+   "en": "...{v:0048}Hmph! You will be the ones to fall!",
    "term": "end"
   },
   {
    "id": "scen207.0023",
    "jp": "{v:0049}よくもカレンさんを！",
-   "en": "",
+   "en": "{v:0049}How dare you do that to Karen-san!",
    "term": "end"
   },
   {
    "id": "scen207.0024",
    "jp": "{v:004A}お前を殺したところでカレンは帰って来ない。{n}そんなことはわかってるさ。{p}{v:004B}それでもお前だけは許せねぇんだよ！",
-   "en": "",
+   "en": "{v:004A}Killing you won't bring Karen back. I know that.{p}{v:004B}But I'll be damned if I ever forgive you!",
    "term": "end"
   },
   {
    "id": "scen207.0025",
    "jp": "{v:004C}フン！{n}あの世で彼女と暮らしなさい！",
-   "en": "",
+   "en": "{v:004C}Hmph! Go live with her in the afterlife!",
    "term": "end"
   },
   {
    "id": "scen207.0026",
    "jp": "‥{v:004D}ぐっ！{FFF9}{FFFB}{n}‥‥{v:004E}こんな‥‥ぐはっ！",
-   "en": "",
+   "en": "...{v:004D}Guh!{FFF9}{FFFB} ...{v:004E}This can't... Gah!",
    "term": "end"
   },
   {
    "id": "scen207.0027",
    "jp": "‥‥{v:004F}地獄へ落ちやがれ！",
-   "en": "",
+   "en": "...{v:004F}Go to hell!",
    "term": "end"
   },
   {
    "id": "scen207.0028",
    "jp": "‥‥{v:0050}仇はとったぜ、カレン‥‥。",
-   "en": "",
+   "en": "...{v:0050}I've avenged you, Karen...",
    "term": "end"
   },
   {
    "id": "scen207.0029",
    "jp": "‥‥{v:0051}アバヨ‥‥。",
-   "en": "",
+   "en": "...{v:0051}So long...",
    "term": "end"
   }
  ]

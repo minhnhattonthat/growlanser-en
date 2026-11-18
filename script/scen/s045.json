@@ -424,7 +424,7 @@
   {
    "id": "scen045.0069",
    "jp": "・覚えていない",
-   "en": "・I don't remember.",
+   "en": "・I don't remember",
    "term": "end",
    "unref": true
   },
@@ -682,7 +682,7 @@
   {
    "id": "scen045.0111",
    "jp": "そろそろ次の試合が始まるから、{n}君たちは控え室に戻っているといいだろう。",
-   "en": "The next match will be starting soon. You two should{n}head back to the waiting room.",
+   "en": "The next match will be starting soon. You should head{n}back to the waiting room.",
    "term": "end"
   },
   {

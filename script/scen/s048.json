@@ -299,7 +299,7 @@
   {
    "id": "scen048.0048",
    "jp": "他にも用はあるかのぉ？",
-   "en": "Anything else I can do for you, eh?",
+   "en": "Anything else you need, eh?",
    "term": "end"
   },
   {
@@ -457,7 +457,7 @@
   {
    "id": "scen048.0074",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Will you be buying today, or would you like to sell{n}something?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -497,7 +497,7 @@
   {
    "id": "scen048.0080",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "{v:003E}Thank you very much! Please visit us again.",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {

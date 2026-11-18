@@ -81,13 +81,13 @@
   {
    "id": "scen026.0012",
    "jp": "ここは研究に向いてていいよね～。{n}グローシアン遺跡やフェザリアン遺跡が{n}そばにあるし、水晶鉱山もそこそこ近いし。{p}それにローランディアとバーンシュタインの{n}国境沿いでもあるから、学院の立地条件としては{n}まさに最高って感じだな～。",
-   "en": "This is a great place for research, huh? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
+   "en": "This is a great place for research, isn't it? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away, either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
    "term": "end"
   },
   {
    "id": "scen026.0013",
    "jp": "私は薬学を専攻しているから、{n}メディス村とラシェルにしか、用はないけどね。",
-   "en": "I'm studying pharmacy, so Medis Village and Rachelle are{n}the only places I need to visit.",
+   "en": "I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
    "term": "end"
   },
   {
@@ -111,19 +111,19 @@
   {
    "id": "scen026.0017",
    "jp": "って言うかさ～。{n}魔法の才能がある人間を押し込めて、{n}管理してるんじゃないの？{p}教授とかもさ～、アブナイ奴いるからな～。{n}ま、俺は魔法の勉強が出来ればいいや。",
-   "en": "Actually, don't you think they're just keeping everyone{n}with a talent for magic cooped up here so they can{n}control us?{p}Some of the professors are pretty shady, too. Well, as{n}long as I get to study magic, I'm happy.",
+   "en": "Or maybe they're just keeping everyone with a talent{n}for magic cooped up here so they can control us?{p}Some of the professors are pretty dangerous{n}characters, too. Oh well. As long as I get to study{n}magic, I'm happy.",
    "term": "end"
   },
   {
    "id": "scen026.0018",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "After all that work, I finally got into the Academy, but{n}now it's nothing but studying, day after day... Ahh, my{n}youth is slipping awaaay.",
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
    "term": "end"
   },
   {
    "id": "scen026.0019",
    "jp": "ん？{n}最近、よく見かける顔だな。{n}まさかここの学生じゃないよね？",
-   "en": "Hm? I've seen you around a lot lately. You're not a{n}student here, are you?",
+   "en": "Hmm? I've seen you around a lot lately. You're not{n}students here, are you?",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen026.0025",
    "jp": "俺って卒業できるのかな～？",
-   "en": "Will I ever manage to graduate?",
+   "en": "Am I ever going to graduate?",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen026.0027",
    "jp": "あ～あ‥‥もっと魔水晶が手に入らないかな。{n}水晶鉱山がもっと発見されれば、{n}こんな悩みは解消されるんだけどな～。",
-   "en": "Ahh... If only I could get my hands on more magic{n}crystals. Finding more crystal mines would solve that{n}problem...",
+   "en": "*sigh*... I wish I could get my hands on more magic{n}crystals. If only they'd discover more crystal mines, I{n}wouldn't have this problem...",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen026.0154",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "But we've got too many people already. Someone will{n}have to leave the party.",
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
    "term": "end"
   },
   {
@@ -1050,14 +1050,14 @@
   {
    "id": "scen026.0173",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add her for now",
+   "en": "・Don't add anyone for now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen026.0174",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "Retrieve {s:FFEE}'s equipment?",
+   "en": "Reclaim {s:FFEE}'s equipment?",
    "term": "end"
   },
   {
@@ -1105,7 +1105,7 @@
   {
    "id": "scen026.0182",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "I see. Just let me know whenever you need my help.",
+   "en": "I see. If you need my help, just let me know.",
    "term": "end"
   },
   {

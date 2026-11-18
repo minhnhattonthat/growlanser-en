@@ -282,7 +282,7 @@
   {
    "id": "scen029.0045",
    "jp": "せっかくの休暇なのにさあ、{n}土砂崩れでラシェルに帰れないんだよ‥‥。{p}この前も追試で帰れなかったし‥‥。{n}やばいなぁ‥‥。",
-   "en": "I finally get a vacation, and a landslide keeps me from{n}going home to Rachelle...{p}Last time, I couldn't go home because I had to retake{n}exams... This isn't good...",
+   "en": "We finally get a break, and a landslide keeps me from{n}going home to Rachelle...{p}Last time, I couldn't go because I had to retake an{n}exam... This isn't good...",
    "term": "end"
   },
   {
@@ -393,7 +393,7 @@
   {
    "id": "scen029.0062",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB}Elm.",
+   "en": "{FFEB} Elm.",
    "term": "end"
   },
   {
@@ -423,13 +423,13 @@
   {
    "id": "scen029.0067",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We have a wide selection of goods available{n}for purchase.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen029.0068",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Will you be buying today, or would you like to sell{n}something?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -481,7 +481,7 @@
   {
    "id": "scen029.0076",
    "jp": "エレベーターは便利だけど、{n}運動不足が気になるよ。{n}まあ、屋上まで階段で上るのはごめんだけどね。",
-   "en": "The elevator's handy, but I'm worried I don't get enough{n}exercise. Still, there's no way I'm taking the stairs all{n}the way to the roof.",
+   "en": "The elevator's convenient, but I worry I'm not getting{n}enough exercise. Still, I wouldn't want to take the stairs{n}all the way to the roof.",
    "term": "end"
   },
   {
@@ -493,7 +493,7 @@
   {
    "id": "scen029.0078",
    "jp": "ねえ、最近なにか悩んでない？",
-   "en": "Hey, has something been bothering you lately?",
+   "en": "Hey, has something been worrying you lately?",
    "term": "end"
   },
   {
@@ -511,7 +511,7 @@
   {
    "id": "scen029.0081",
    "jp": "それを言おうかどうか悩んでるんだ。",
-   "en": "I can't decide whether to tell you. That's what's{n}bothering me.",
+   "en": "I'm worried about whether I should tell you.",
    "term": "end"
   },
   {
@@ -523,7 +523,7 @@
   {
    "id": "scen029.0083",
    "jp": "うーん、この性格が悩みの種だな～。",
-   "en": "Hmm... Being like this really is a problem...",
+   "en": "Hmm... That's what worries me about myself...",
    "term": "end"
   },
   {
@@ -535,7 +535,7 @@
   {
    "id": "scen029.0085",
    "jp": "どの階に行きますか？",
-   "en": "Which floor would you like to go to?",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
@@ -730,7 +730,7 @@
   {
    "id": "scen029.0116",
    "jp": "どの階に行きますか？",
-   "en": "Which floor would you like to go to?",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
@@ -799,7 +799,7 @@
   {
    "id": "scen029.0126",
    "jp": "アリオストさん、{n}今度は戦争を止めさせるような機械を{n}作ってくれないかな～。",
-   "en": "I wish Ariost-san would build a machine to stop the{n}war next...",
+   "en": "Ariost-san, couldn't you build a machine to stop the war{n}next?",
    "term": "end"
   },
   {
@@ -853,7 +853,7 @@
   {
    "id": "scen029.0135",
    "jp": "学院長も副学院長もすごい研究者だけど‥‥。{n}人間としてはどうかと思うな。{n}僕はあんなになりたくないよ。",
-   "en": "The Headmaster and Vice Headmaster are both great{n}researchers... But as people? I'm not so sure. I don't{n}want to turn out like them.",
+   "en": "The Headmaster and Vice Headmaster are both{n}amazing researchers... But as people? I'm not so sure. I{n}don't want to turn out like them.",
    "term": "end"
   },
   {
@@ -871,7 +871,7 @@
   {
    "id": "scen029.0138",
    "jp": "どの階に行きますか？",
-   "en": "Which floor would you like to go to?",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
@@ -952,7 +952,7 @@
   {
    "id": "scen029.0150",
    "jp": "元々は『偉大な力（グローシュ）を有する者』という{n}語意から発生した言葉であり、その名の通り、{n}グローシアンは人間の魔力を越えた{n}強大な魔力を有する。{p}その全ての能力はいまだ明かされてはいないが、{n}人間が持つ最高位呪文のテレポートを例に{n}その説明を行う。{p}人間の場合、術者のみが有視界内でのテレポートを{n}行うことが限界と言われており、{n}この距離を伸ばそうとした場合、{n}サポート用の魔水晶を大量に必要とする。{p}しかし皆既日食のグローシアンならば、{n}１０人程度の人員を、既知の場所へ任意に{n}転送することが、独力で可能である。{n}しかも、この魔法詠唱の時間はきわめて短い。{p}現在の研究では、グローシアンの魔力波長には、{n}人間にはない成分が含まれることが観測されている。{p}マクスウェル魔法学院長　著{n}『グローシアンの特殊能力』",
-   "en": "The term 'Growsian' originally meant 'one who{n}possesses great power (Grosh).' As their name{n}suggests, Growsians possess immense magical power{p}surpassing that of humans.{p}The full extent of their abilities remains unknown. To{n}illustrate them, we shall use Teleport, one of the{n}highest-level spells available to humans, as an example.{p}A human caster is said to be limited to teleporting only{n}themselves to a point within their field of vision.{n}Extending this range requires large quantities of magic{p}crystals to support the spell.{p}A Growsian born during a total solar eclipse, however,{n}can transport a group of roughly ten people to any{n}known location without assistance. Furthermore, the{p}time required to cast this spell is extremely short.{p}Current research has detected a component in the{n}magical wavelengths of Growsians that is absent in{n}those of humans.{p}'The Special Abilities of Growsians' By Maxwell,{n}Headmaster of the Magic Academy",
+   "en": "The term originally meant 'one who possesses great{n}power (Grosh).' As the name suggests, Growsians{n}possess immense magical power surpassing that of{p}humans.{p}The full extent of their abilities remains unknown, but{n}the following explanation uses Teleport, the{n}highest-level spell available to humans, as an example.{p}Humans are said to be limited to teleporting only{n}themselves, and only within their field of vision.{n}Extending this range requires the support of a large{p}quantity of magic crystals.{p}A Growsian born during a total solar eclipse, however,{n}can single-handedly transport around ten people to any{n}known location at will. Furthermore, the chanting time{p}for this spell is extremely short.{p}Current research has observed components in the{n}wavelengths of Growsian magic that are absent from{n}human magic.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
    "term": "end"
   },
   {
@@ -964,7 +964,7 @@
   {
    "id": "scen029.0152",
    "jp": "この学院より北東に位置する山の中、{n}巨大な水晶の鉱脈が見つかった。{n}しかし最初に見つかった横穴は、{n}とある事故のため現在は封じられている。{p}現在では露天掘りを用いた掘削法に{n}切り替えられているが、これは測定の結果、{n}水晶が巨大なピラミッド型であることが{n}分かったためである。{p}この鉱山で産出される魔水晶は、{n}他の地域で発見される魔水晶より、多くの魔力を{n}含有していることが特徴であり、現在は悪用を{n}避けるため、魔法学院が管理を行っている。",
-   "en": "A vast vein of crystal was discovered in the mountains{n}northeast of this Academy. However, the horizontal{n}tunnel first discovered there is now sealed due to an{p}incident.{p}Mining has since shifted to open-pit excavation, as{n}surveys revealed that the crystal forms a gigantic{n}pyramid.{p}The magic crystals extracted from this mine contain{n}more magical power than those found elsewhere. To{n}prevent their misuse, the mine is currently managed by{p}the Magic Academy.",
+   "en": "A vast crystal vein was discovered within a mountain{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed following a certain accident.{p}Mining has since shifted to open-pit excavation, as{n}measurements revealed that the crystal forms an{n}enormous pyramid.{p}The magic crystals produced by this mine are{n}distinguished by their greater magical energy compared{n}with those found elsewhere. The Magic Academy{p}currently oversees the mine to prevent their misuse.",
    "term": "end"
   },
   {
@@ -976,7 +976,7 @@
   {
    "id": "scen029.0154",
    "jp": "１００年前、人間とグローシアンの間に{n}戦争が起こった。{n}だがどこからか現れた化け物のため、{n}人間の人口は激減、戦争は中断された。{p}その際、数人のグローシアンが人間のために{n}化け物と命をかけて戦い、互いに姿を消した。{p}だが時を同じくして、全てのグローシアンも姿を消し、{n}彼らの支配は消えてしまった。{p}なぜ支配を行っていたグローシアンがいなくなったか、{n}化け物の正体は何だったのか、{n}いまだ真実は解明されていない。",
-   "en": "A hundred years ago, war broke out between humans{n}and Growsians. However, a monster appeared from an{n}unknown source, drastically reducing the human{p}population and bringing the war to a halt.{p}At that time, several Growsians risked their lives{n}fighting the monster for humanity's sake. Both they{n}and the monster disappeared.{p}Yet at that same time, all the other Growsians also{n}vanished, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth has yet to be{n}uncovered.",
+   "en": "A hundred years ago, war broke out between humans{n}and Growsians. However, a monster of unknown origin{n}appeared, drastically reducing the human population{p}and bringing the war to a halt.{p}Several Growsians risked their lives fighting the{n}monster for humanity's sake, and both they and the{n}monster vanished.{p}At the same time, however, all other Growsians also{n}disappeared, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth remains unknown.",
    "term": "end"
   },
   {
@@ -988,7 +988,7 @@
   {
    "id": "scen029.0156",
    "jp": "この大陸には大きく分けて２種類の遺跡がある。{n}１つは１００年ほど前にその姿を消した{n}グローシアン達が残した物。{p}もう１つは、それより以前に地上を去った{n}フェザリアンが残した物である。{p}グローシアンの残した遺跡には、{n}出土品と呼べる物は少ない。{n}これは彼らが我々人間と同じ種族であることが大きい。{p}彼らの遺跡のほとんどは、目的を持った施設であり、{n}その中には原理や目的の分からない機器が{n}置かれている。{p}対するフェザリアンの遺跡からは我々にない技術、{n}魔法などが多く発見された。{p}だが残されていた物の多くは書物であり、{n}長年に渡り解読作業を行ったのだが、{n}ほとんどが倫理、道徳を語った物であった。",
-   "en": "The ruins on this continent fall into two broad{n}categories. The first consists of those left by the{n}Growsians, who disappeared roughly a hundred years{p}ago.{p}The second consists of those left by the Featherians,{n}who departed from the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they belong to the same species as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain machinery whose principles and{n}purposes remain unknown.{p}Featherian ruins, by contrast, have yielded many{n}technologies and forms of magic previously unknown to{n}us.{p}However, most of what they left behind consisted of{n}books. We spent many years deciphering them, only to{n}find that nearly all discussed ethics and morality.",
+   "en": "The ruins on this continent fall into two broad{n}categories. The first are those left by the Growsians,{n}who disappeared about a hundred years ago.{p}The second are those left by the Featherians, who{n}departed the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they belong to the same race as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain devices whose workings or{n}purpose remain unknown.{p}Featherian ruins, by contrast, have yielded many{n}discoveries of technology and magic unknown to us.{p}However, most of what they left behind was books. We{n}spent many years deciphering them, only to find that{n}nearly all discussed ethics and morality.",
    "term": "end"
   },
   {
@@ -1000,7 +1000,7 @@
   {
    "id": "scen029.0158",
    "jp": "本が抜き取られた跡がある。{n}貸し出し中のようだ。",
-   "en": "There is a gap where a book has been removed. It{n}appears to be checked out.",
+   "en": "There is a gap where a book has been removed. It{n}seems to be on loan.",
    "term": "end"
   },
   {
@@ -1012,7 +1012,7 @@
   {
    "id": "scen029.0160",
    "jp": "ラージン砦の南東部に広がる、迷いの森。{n}我々は、その名の由来となった装置の調査、{n}‥‥グローシアンが造った遺跡にあるとされる、{n}森にいる者の方向感覚を狂わす装置の{n}捜索と調査を行った。{p}遺跡内部の防衛機能は働いていたが、{n}マスター・ガーディアンの自己再生能力を解除。{n}安全が確保された時点で、{n}遺跡最深部にある装置の調査を開始。{p}装置自体の動力は切れていたため、{n}魔水晶による起動を行う。{n}結果、実際に迷いの森を発生させる機能があると判明。{n}装置起動中、グローシアン以外の知的生物は{n}遺跡に近づくことができなかった。{p}学院教授会は、悪用の危険があると判断。{n}我々はガーディアンの防衛機能を修復し、{n}かつ遺跡の入り口を封印。{n}ラージン砦の管理者がその鍵を持つこととなった。",
-   "en": "The Lost Forest stretches southeast of Fort Rajin. We{n}set out to investigate the device from which the{n}forest takes its name... Specifically, we searched for and{p}examined a device said to lie within Growsian ruins,{n}which distorts the sense of direction of those in the{n}forest.{p}The defenses within the ruins remained active, but we{n}disabled the Master Guardian's self-regeneration. Once{n}the area was secure, we began examining the device in{p}the deepest part of the ruins.{p}The device had no remaining power, so we activated it{n}using magic crystals. We confirmed that it could indeed{n}produce the Lost Forest's effects. While the device{p}was active, no intelligent beings other than Growsians{n}could approach the ruins.{p}The Academy's faculty council judged that the device{n}posed a risk of misuse. We restored the Guardian's{n}defenses and sealed the entrance to the ruins. The key{p}was entrusted to the commander of Fort Rajin.",
+   "en": "The Lost Forest stretches southeast of Fort Rajin. We{n}sought to locate and investigate the device from which{n}it takes its name... a device said to lie within ruins built{p}by the Growsians, which disrupts the sense of{n}direction of those in the forest.{p}The ruins' defenses remained active, but we disabled{n}the Master Guardian's regenerative ability. Once the{n}site was secure, we began investigating the device in{p}the deepest part of the ruins.{p}The device's power supply was depleted, so we{n}activated it using a magic crystal. We confirmed that it{n}could indeed produce the Lost Forest's disorienting{p}effect. While the device was active, no intelligent beings{n}other than Growsians could approach the ruins.{p}The Academy's faculty council deemed the risk of{n}misuse too great. We restored the Guardian's{n}defenses and sealed the entrance to the ruins. The key{p}was entrusted to the commander of Fort Rajin.",
    "term": "end"
   },
   {
@@ -1147,7 +1147,7 @@
   {
    "id": "scen029.0181",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "You need permission from the Headmaster or Vice{n}Headmaster to consult the important documents kept{n}here.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -1165,13 +1165,13 @@
   {
    "id": "scen029.0184",
    "jp": "面倒くさいなぁ。",
-   "en": "Ugh, what a hassle!",
+   "en": "What a pain.",
    "term": "end"
   },
   {
    "id": "scen029.0185",
    "jp": "仕方ないよ。{n}貴重な書物は、持ち出しできないように{n}なっているんだから。",
-   "en": "We can't help it. They have to make sure no one takes{n}these precious books away.",
+   "en": "It can't be helped. You aren't allowed to take valuable{n}books out, after all.",
    "term": "end"
   },
   {
@@ -1282,7 +1282,7 @@
   {
    "id": "scen029.0202",
    "jp": "ああ、ブレーム山にしか生えない{n}クリアノ草があれば‥‥。",
-   "en": "Ah, if only I had some Kuriano Herb... It grows only on{n}Mount Brehm.",
+   "en": "Ah, if only I had some Kuriano Herb, which grows only on{n}Mount Brehm...",
    "term": "end"
   },
   {
@@ -1477,7 +1477,7 @@
   {
    "id": "scen029.0233",
    "jp": "{v:000E}失礼します。",
-   "en": "{v:000E}Excuse us.",
+   "en": "{v:000E}Excuse me.",
    "term": "end"
   },
   {
@@ -1519,13 +1519,13 @@
   {
    "id": "scen029.0240",
    "jp": "{v:0016}どのようなご用でしょうか？",
-   "en": "{v:0016}What business brings you here?",
+   "en": "{v:0016}What brings you here?",
    "term": "end"
   },
   {
    "id": "scen029.0241",
    "jp": "{v:0017}かしこまりました。{n}どうぞお通り下さい。",
-   "en": "{v:0017}Understood. Please go through.",
+   "en": "{v:0017}Certainly. Please go through.",
    "term": "end"
   },
   {
@@ -2059,19 +2059,19 @@
   {
    "id": "scen029.0328",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. A particular kind{n}of cloud seems to form before an earthquake, you{n}see. That's why I'm watching the clouds like this.{p}I call it an 'earthquake cloud.' It's a thin band of cloud{n}that forms a huge ring around the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to spot. But nobody believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
    "id": "scen029.0329",
    "jp": "どうやら地震雲は出てないようだな。",
-   "en": "There doesn't seem to be an earthquake cloud today.",
+   "en": "There don't seem to be any earthquake clouds.",
    "term": "end"
   },
   {
    "id": "scen029.0330",
    "jp": "怖いよ～、時空が歪んで２つの世界が離れたら{n}世界の破滅だよ～！{p}観測しなければ気づかないから{n}怖がる必要もないのに‥‥。",
-   "en": "I'm scaaared! If space-time warps and the two worlds{n}drift apart, it'll be the end of the world!{p}If we weren't observing it, we wouldn't even know, and{n}we wouldn't have to be scared...",
+   "en": "I'm scaaared! If space-time distorts and the two{n}worlds separate, it'll be the end of the world!{p}If I weren't watching, I wouldn't notice, so I wouldn't{n}have to be scared...",
    "term": "end"
   },
   {
@@ -2182,13 +2182,13 @@
   {
    "id": "scen029.0347",
    "jp": "ここはマクスウェル学院長の研究室だよ。",
-   "en": "This is Headmaster Maxwell's laboratory.",
+   "en": "This is Headmaster Maxwell's laboratory, you know.",
    "term": "end"
   },
   {
    "id": "scen029.0348",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "This is Vice Headmaster Bradley's laboratory.",
+   "en": "This is Vice Headmaster Bradley's laboratory, you{n}know.",
    "term": "end"
   },
   {
@@ -2200,7 +2200,7 @@
   {
    "id": "scen029.0350",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "Um, Big Brother? We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
    "term": "end"
   }
  ]

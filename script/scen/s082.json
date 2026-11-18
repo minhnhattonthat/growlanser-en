@@ -15,169 +15,169 @@
   {
    "id": "scen082.0001",
    "jp": "{v:0013}今の大鷲、やっぱりあいつがいるってことか？",
-   "en": "",
+   "en": "{v:0013}That Giant Eagle... Does that mean he's here after all?",
    "term": "end"
   },
   {
    "id": "scen082.0002",
    "jp": "{v:0014}でも、そんなに風もないのにどうやってモンスターを？",
-   "en": "",
+   "en": "{v:0014}But there's hardly any wind. How is he getting the{n}monsters to...?",
    "term": "end"
   },
   {
    "id": "scen082.0003",
    "jp": "{v:0015}そんなこと、会ってみればわかるじゃない！",
-   "en": "",
+   "en": "{v:0015}We'll find out when we see him!",
    "term": "end"
   },
   {
    "id": "scen082.0004",
    "jp": "{v:0016}今はあのモンスターを何とかする方が先決だ。",
-   "en": "",
+   "en": "{v:0016}Dealing with that monster comes first.",
    "term": "end"
   },
   {
    "id": "scen082.0005",
    "jp": "‥‥{v:0017}でも気になる‥‥。",
-   "en": "",
+   "en": "...{v:0017}But I still wonder...",
    "term": "end"
   },
   {
    "id": "scen082.0006",
    "jp": "{v:0007}こんな所に洞窟があるの‥‥。",
-   "en": "",
+   "en": "{v:0007}There's a cave all the way out here...",
    "term": "end"
   },
   {
    "id": "scen082.0007",
    "jp": "{v:0008}川はこの洞窟の中から流れ出しているみたいですね。",
-   "en": "",
+   "en": "{v:0008}The river seems to flow out of this cave.",
    "term": "end"
   },
   {
    "id": "scen082.0008",
    "jp": "{v:0009}この洞窟から川が流れてるみたいだよ。",
-   "en": "",
+   "en": "{v:0009}Looks like the river flows out of this cave.",
    "term": "end"
   },
   {
    "id": "scen082.0009",
    "jp": "{v:000A}みんな、あれ！",
-   "en": "",
+   "en": "{v:000A}Everyone, look!",
    "term": "end"
   },
   {
    "id": "scen082.0010",
    "jp": "‥‥{v:000B}大鷲‥‥。{p}{v:000C}この大鷲、前に見たことあるよ！",
-   "en": "",
+   "en": "...{v:000B}A Giant Eagle...{p}{v:000C}I've seen this Giant Eagle before!",
    "term": "end"
   },
   {
    "id": "scen082.0011",
    "jp": "{v:000D}そんなこと言ってる場合じゃないでしょ！{n}来るわよ！",
-   "en": "",
+   "en": "{v:000D}This isn't the time for that! Here it comes!",
    "term": "end"
   },
   {
    "id": "scen082.0012",
    "jp": "{v:0034}ここにいらっしゃいましたか！",
-   "en": "",
+   "en": "{v:0034}There you are!",
    "term": "end"
   },
   {
    "id": "scen082.0013",
    "jp": "{v:0035}どうした、あわてて？",
-   "en": "",
+   "en": "{v:0035}What's got you in such a hurry?",
    "term": "end"
   },
   {
    "id": "scen082.0014",
    "jp": "{v:0036}橋のモンスターがいなくなったので、{n}進軍しようとしたところ、{n}対岸にインペリアル・ナイトが現れたのです！",
-   "en": "",
+   "en": "{v:0036}The monsters on the bridge were gone, so we were{n}about to advance when an Imperial Knight appeared on{n}the opposite bank!",
    "term": "end"
   },
   {
    "id": "scen082.0015",
    "jp": "{v:0037}ついに来たわね！",
-   "en": "",
+   "en": "{v:0037}Finally here, huh!",
    "term": "end"
   },
   {
    "id": "scen082.0016",
    "jp": "『{FFEF}リーヴバングル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found '{FFEF}Lif Bangle{FFF1}', but can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen082.0017",
    "jp": "　{n}　　　　『{FFEF}リーヴバングル{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}Lif Bangle{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen082.0018",
    "jp": "‥‥{v:002F}この人、本当にあの大鷲だけは‥‥。",
-   "en": "",
+   "en": "...{v:002F}To him, that Giant Eagle really was...",
    "term": "end"
   },
   {
    "id": "scen082.0019",
    "jp": "‥‥{v:0030}少なくともあの大鷲だけは、{n}心からの友達だったのかもしれない。",
-   "en": "",
+   "en": "...{v:0030}Perhaps that Giant Eagle, at least, was a true friend{n}to him.",
    "term": "end"
   },
   {
    "id": "scen082.0020",
    "jp": "‥‥{v:0031}行くぞ。{n}こいつとは敵同士だった。だから戦った。{p}{v:0032}俺たちは俺たちの仕事をするだけだ。",
-   "en": "",
+   "en": "...{v:0031}Let's go. We were enemies. That's why we fought.{p}{v:0032}We've just got our own job to do.",
    "term": "end"
   },
   {
    "id": "scen082.0021",
    "jp": "‥‥{v:0033}戦争って、なんだかむなしいね。",
-   "en": "",
+   "en": "...{v:0033}War feels so empty somehow.",
    "term": "end"
   },
   {
    "id": "scen082.0022",
    "jp": "{v:0018}さぁ、かわいいモンスターたちよ！{n}もっと集まってきなさい！",
-   "en": "",
+   "en": "{v:0018}Come, my lovely monsters! Gather here! More of you!",
    "term": "end"
   },
   {
    "id": "scen082.0023",
    "jp": "‥‥{v:0019}なるほどね。{n}川の流れを利用して、粉を流していたんだ。",
-   "en": "",
+   "en": "...{v:0019}I see. He was using the river's current to carry the{n}powder.",
    "term": "end"
   },
   {
    "id": "scen082.0024",
    "jp": "{v:001A}誰です！？",
-   "en": "",
+   "en": "{v:001A}Who is there?!",
    "term": "end"
   },
   {
    "id": "scen082.0025",
    "jp": "{v:001B}俺たちを忘れたっていうのか？",
-   "en": "",
+   "en": "{v:001B}Don't tell me you've forgotten us.",
    "term": "end"
   },
   {
    "id": "scen082.0026",
    "jp": "{v:001C}お、お前たちはっ！{p}{v:001D}ということは、私のラファガは‥‥。",
-   "en": "",
+   "en": "{v:001C}Y-you!{p}{v:001D}Then my Rafaga...",
    "term": "end"
   },
   {
    "id": "scen082.0027",
    "jp": "{v:001E}よくも、我が友を！{n}許しませんよ！",
-   "en": "",
+   "en": "{v:001E}How dare you do that to my friend! I will never forgive{n}you!",
    "term": "end"
   },
   {
    "id": "scen082.0028",
    "jp": "{v:001F}お前たち、敵討ちです！{n}さあ、行きなさい！",
-   "en": "",
+   "en": "{v:001F}Avenge my friend! Go, all of you!",
    "term": "end"
   }
  ]

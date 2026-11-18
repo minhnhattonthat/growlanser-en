@@ -559,7 +559,7 @@
   {
    "id": "scen024.0091",
    "jp": "またのお越しをお待ちしております。",
-   "en": "I look forward to your next visit.",
+   "en": "We look forward to your next visit.",
    "term": "end"
   },
   {
@@ -715,7 +715,7 @@
   {
    "id": "scen024.0117",
    "jp": "どうするの？",
-   "en": "What are you going to do?",
+   "en": "What will you do?",
    "term": "end"
   },
   {
@@ -728,20 +728,20 @@
   {
    "id": "scen024.0119",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add her to the party now",
+   "en": "・Don't add anyone for now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen024.0120",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "But that would be too many people. Someone will have{n}to leave the party.",
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
    "term": "end"
   },
   {
    "id": "scen024.0121",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
@@ -761,7 +761,7 @@
   {
    "id": "scen024.0124",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "Will you take back {s:FFED}'s equipment?",
+   "en": "Retrieve {s:FFED}'s equipment?",
    "term": "end"
   },
   {
@@ -1081,7 +1081,7 @@
   {
    "id": "scen024.0177",
    "jp": "{v:000E}今？{n}今はマジックタイム停止装置の調整を{n}していただけだけど‥‥。",
-   "en": "{v:000E}Right now? I was just adjusting the Magic Time{n}stopping device...",
+   "en": "{v:000E}Right now? I was just adjusting the Magic Time{n}Stopper...",
    "term": "end"
   },
   {
@@ -1411,7 +1411,7 @@
   {
    "id": "scen024.0232",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "Hmm? Do you need my help?",
+   "en": "Hm? Do you need my help?",
    "term": "end"
   },
   {
@@ -1435,7 +1435,7 @@
   {
    "id": "scen024.0236",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "I see. If you ever need my help, just let me know.",
+   "en": "I see. If you need my help, just let me know.",
    "term": "end"
   },
   {
@@ -1453,7 +1453,7 @@
   {
    "id": "scen024.0239",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "Um, Big Brother... We'll get in trouble if we use magic{n}inside the Academy buildings...",
+   "en": "Um, Big Brother... We'll get in trouble if we use magic{n}inside the Academy...",
    "term": "end"
   }
  ]

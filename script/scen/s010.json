@@ -135,7 +135,7 @@
   {
    "id": "scen010.0021",
    "jp": "‥‥‥‥。",
-   "en": "...",
+   "en": "......",
    "term": "end"
   },
   {
@@ -190,7 +190,7 @@
   {
    "id": "scen010.0030",
    "jp": "・何でもない",
-   "en": "・It's nothing",
+   "en": "・Never mind",
    "term": "end",
    "unref": true
   },
@@ -325,7 +325,7 @@
   {
    "id": "scen010.0052",
    "jp": "あっ、こんにちは。{n}お城での生活はひまですよ。",
-   "en": "Oh, hello. Life in the castle leaves me with nothing to{n}do.",
+   "en": "Oh, hello. Life at the castle is pretty dull.",
    "term": "end"
   },
   {
@@ -337,7 +337,7 @@
   {
    "id": "scen010.0054",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You will now take on your next{n}assignment.",
+   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
    "term": "end"
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "scen010.0069",
    "jp": "気を付けて行くがよい。",
-   "en": "Take care on your journey.",
+   "en": "Go safely.",
    "term": "end"
   },
   {
@@ -845,7 +845,7 @@
   {
    "id": "scen010.0137",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "{v:0001}You are granted two days' leave in recognition of your{n}service.",
+   "en": "{v:0001}For your service, you are granted two days of leave.",
    "term": "end"
   },
   {
@@ -1043,13 +1043,13 @@
   {
    "id": "scen010.0170",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "{v:0002}You are granted three days' leave in recognition of{n}your service.",
+   "en": "{v:0002}For your service, you are granted three days of leave.",
    "term": "end"
   },
   {
    "id": "scen010.0171",
    "jp": "{v:0000}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "{v:0000}You are granted one day's leave in recognition of your{n}service.",
+   "en": "{v:0000}For your service, you are granted one day of leave.",
    "term": "end"
   },
   {
@@ -1087,7 +1087,7 @@
   {
    "id": "scen010.0177",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle health resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1101,7 +1101,7 @@
   {
    "id": "scen010.0179",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings tourist resort",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -1135,7 +1135,7 @@
   {
    "id": "scen010.0184",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle health resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1149,7 +1149,7 @@
   {
    "id": "scen010.0186",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings tourist resort",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -1169,7 +1169,7 @@
   {
    "id": "scen010.0189",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle health resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1183,7 +1183,7 @@
   {
    "id": "scen010.0191",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings tourist resort",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -1210,7 +1210,7 @@
   {
    "id": "scen010.0195",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle health resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1224,7 +1224,7 @@
   {
    "id": "scen010.0197",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings tourist resort",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -1261,7 +1261,7 @@
   {
    "id": "scen010.0203",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where would you like to spend your leave today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {
@@ -1281,7 +1281,7 @@
   {
    "id": "scen010.0206",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle Health Resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1309,7 +1309,7 @@
   {
    "id": "scen010.0210",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where would you like to spend your leave today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {
@@ -1329,7 +1329,7 @@
   {
    "id": "scen010.0213",
    "jp": "・保養地ラシェル",
-   "en": "・Rachelle Health Resort",
+   "en": "・Rachelle Resort",
    "term": "end",
    "unref": true
   },
@@ -1356,7 +1356,7 @@
   {
    "id": "scen010.0217",
    "jp": "{v:000B}はっ！",
-   "en": "{v:000B}Yes, Your Majesty!",
+   "en": "{v:000B}Yes, sir!",
    "term": "end"
   },
   {
@@ -1488,7 +1488,7 @@
   {
    "id": "scen010.0239",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "The king and Princess Leticia have their private{n}quarters on the third floor.",
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
    "term": "end"
   },
   {
@@ -1650,19 +1650,19 @@
   {
    "id": "scen010.0266",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "B-Big Brother... You shouldn't use magic in front of the{n}king...",
+   "en": "B-Big Brother... You shouldn't use magic in front of the{n}King...",
    "term": "end"
   },
   {
    "id": "scen010.0267",
    "jp": "お母さんたちを連れて、バーンシュタインまで{n}テレポートしなくちゃいけないんでしょ？{n}今は少しでも休みたいんだけど‥‥。",
-   "en": "I have to take Mother and the others to Burnstein by{n}Teleport, don't I? I'd like to get all the rest I can for{n}now...",
+   "en": "I have to Teleport Mother and the others to Burnstein,{n}right? I'd like to rest while I can...",
    "term": "end"
   },
   {
    "id": "scen010.0268",
    "jp": "そうそう！{n}街の入り口まででしょ？{n}買い物でもしながら歩いていこうよ！",
-   "en": "Exactly! We're only going to the town entrance, right?{n}Let's walk and do some shopping on the way!",
+   "en": "Exactly! We're only going to the entrance to town,{n}right? Let's walk and do some shopping along the way!",
    "term": "end"
   }
  ]

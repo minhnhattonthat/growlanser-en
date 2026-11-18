@@ -15,1243 +15,1243 @@
   {
    "id": "scen255.0001",
    "jp": "女",
-   "en": "",
+   "en": "Woman",
    "term": "null"
   },
   {
    "id": "scen255.0002",
    "jp": "サラ",
-   "en": "",
+   "en": "Sara",
    "term": "null"
   },
   {
    "id": "scen255.0003",
    "jp": "‥‥いい湯だったぜ。",
-   "en": "",
+   "en": "...That was a good soak.",
    "term": "end"
   },
   {
    "id": "scen255.0004",
    "jp": "‥‥よう。",
-   "en": "",
+   "en": "...Hey.",
    "term": "end"
   },
   {
    "id": "scen255.0005",
    "jp": "俺はそろそろ上がるぜ。{n}入れ違いですまんな。",
-   "en": "",
+   "en": "I'm about to get out. Sorry we just missed each other.",
    "term": "end"
   },
   {
    "id": "scen255.0006",
    "jp": "集合に遅れるんじゃねえぞ。",
-   "en": "",
+   "en": "Don't be late meeting up with the others.",
    "term": "end"
   },
   {
    "id": "scen255.0007",
    "jp": "よう、{s:0000}。来たか‥‥。",
-   "en": "",
+   "en": "Hey, {s:0000}. So you came...",
    "term": "end"
   },
   {
    "id": "scen255.0008",
    "jp": "ティピを見ていると、妹を思い出すよ。",
-   "en": "",
+   "en": "Watching Tippi reminds me of my little sister.",
    "term": "end"
   },
   {
    "id": "scen255.0009",
    "jp": "俺の兄弟は兄貴が２人、{n}妹と弟が１人ずつだった。",
-   "en": "",
+   "en": "I had two older brothers, a younger sister and a{n}younger brother.",
    "term": "end"
   },
   {
    "id": "scen255.0010",
    "jp": "兄弟なんていなくていいと思う時の方が{n}多いものだが‥‥。{p}お前はどうだ？",
-   "en": "",
+   "en": "Most of the time, you find yourself wishing you didn't{n}have any siblings...{p}How about you?",
    "term": "end"
   },
   {
    "id": "scen255.0011",
    "jp": "何と答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen255.0012",
    "jp": "・いいものだと答える",
-   "en": "",
+   "en": "・Say it's good to have siblings",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0013",
    "jp": "・面倒な事だと答える",
-   "en": "",
+   "en": "・Say they're a nuisance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0014",
    "jp": "・どちらとも言えないと答える",
-   "en": "",
+   "en": "・Say you can't decide",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0015",
    "jp": "お前はルイセを大切にしているって事か。",
-   "en": "",
+   "en": "So you treasure Luise, eh?",
    "term": "end"
   },
   {
    "id": "scen255.0016",
    "jp": "それは言い過ぎだろう？{n}ルイセはいい妹じゃないか。",
-   "en": "",
+   "en": "That's going a bit far, isn't it? Luise's a good little{n}sister.",
    "term": "end"
   },
   {
    "id": "scen255.0017",
    "jp": "ま、そういう答えの方が一般的か‥‥。",
-   "en": "",
+   "en": "Well, I suppose that's the usual answer...",
    "term": "end"
   },
   {
    "id": "scen255.0018",
    "jp": "俺の妹は‥‥。{n}そうだな‥‥{FE1E}いつも元気で、まっすぐな子だったよ。{p}何かにつけて俺の後をついてきてな。",
-   "en": "",
+   "en": "My little sister... Let's see...{FE1E} She was always cheerful. An{n}honest, straightforward girl.{p}She'd follow me around at every opportunity.",
    "term": "end"
   },
   {
    "id": "scen255.0019",
    "jp": "お前もルイセを大事にしてやれ。{n}{FE1E}亡くしてからじゃ何にもしてやれねぇからな。",
-   "en": "",
+   "en": "You take good care of Luise, too. {FE1E}Once she's gone,{n}there's nothing you can do for her.",
    "term": "end"
   },
   {
    "id": "scen255.0020",
    "jp": "{s:0000}か‥‥。{n}{FE1E}今日は何を話したものかな‥‥。",
-   "en": "",
+   "en": "Ah, {s:0000}... {FE1E}What should we talk about{n}today...?",
    "term": "end"
   },
   {
    "id": "scen255.0021",
    "jp": "‥‥俺は常に物事を正面から受け止め、{n}それに全力で当たることにしている。{p}自分がこうと決めたことを貫くには、{n}強い意志の力が必要だからな。{p}そうでなければ、行方不明の隊長を{n}２０年近くも追うことなどできない。",
-   "en": "",
+   "en": "...I've always made a point of facing things head-on and{n}giving them everything I've got.{p}It takes a strong will to see a decision through.{p}Without that, I couldn't have spent nearly twenty{n}years searching for my missing captain.",
    "term": "end"
   },
   {
    "id": "scen255.0022",
    "jp": "そして今はサンドラ様の息子である、{n}お前につきあうことを誓った。{p}最初は、お前が独り立ち出来れば、{n}俺はお前たちから別れて隊長を捜すつもりだった。{p}だが、ゲヴェルが隊長の一件にからんでいる事を{n}知ってからは、その考え方も変わった。{p}お前たちについていけば、{n}隊長には会えなくとも隊長の手がかりに{n}出会えるかもしれないとな。",
-   "en": "",
+   "en": "And now I've sworn to stick with you, Sandra-sama's{n}son.{p}At first, I meant to leave you all and go looking for the{n}captain once you could stand on your own.{p}But that changed when I learned Gevel was involved in{n}what happened to him.{p}I thought that if I stayed with you, I might find a lead{n}on the captain, even if I didn't find the man himself.",
    "term": "end"
   },
   {
    "id": "scen255.0023",
    "jp": "まあ、そういうことだ。{n}{FE1E}今は隊長にも会えるかもしれないという考え方に{n}変わってるがな。",
-   "en": "",
+   "en": "Well, that's how it is. {FE1E}Though now I'm starting to think I{n}might actually see him again.",
    "term": "end"
   },
   {
    "id": "scen255.0024",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0025",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0026",
    "jp": "・はげます",
-   "en": "",
+   "en": "・Encourage him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0027",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0028",
    "jp": "自分で信じもしないことは実現しないものさ。",
-   "en": "",
+   "en": "Nothing comes true if you don't believe in it yourself.",
    "term": "end"
   },
   {
    "id": "scen255.0029",
    "jp": "ありがとよ。{n}俺は絶対に会ってみせる。{p}{FE1E}そのために２０年もこの世界を{n}放浪していたんだからな。",
-   "en": "",
+   "en": "Thanks. I'll find him. You can count on that.{p}{FE1E}That's why I've spent twenty years wandering this{n}world.",
    "term": "end"
   },
   {
    "id": "scen255.0030",
    "jp": "‥‥難しいかも知れんがな。",
-   "en": "",
+   "en": "...Might be difficult, though.",
    "term": "end"
   },
   {
    "id": "scen255.0031",
    "jp": "‥‥俺はそろそろ出るぜ。",
-   "en": "",
+   "en": "...I'll be getting out now.",
    "term": "end"
   },
   {
    "id": "scen255.0032",
    "jp": "‥‥よう、来たか。",
-   "en": "",
+   "en": "...Hey. So you came.",
    "term": "end"
   },
   {
    "id": "scen255.0033",
    "jp": "仲間っていうのはいいもんだな‥‥。",
-   "en": "",
+   "en": "It's good to have companions...",
    "term": "end"
   },
   {
    "id": "scen255.0034",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0035",
    "jp": "・昔の仲間の事か聞く",
-   "en": "",
+   "en": "・Ask if he means his old comrades",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0036",
    "jp": "・今の仲間の事か聞く",
-   "en": "",
+   "en": "・Ask if he means his companions now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0037",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0038",
    "jp": "ああ、傭兵時代の仲間のことは{n}忘れられない。{p}だがな、今は仲間って言ったら{n}お前たちの事だぜ。",
-   "en": "",
+   "en": "Yeah, I'll never forget the men I fought beside as a{n}mercenary.{p}But these days, when I talk about my companions, I{n}mean you lot.",
    "term": "end"
   },
   {
    "id": "scen255.0039",
    "jp": "そうだ。{p}昔の仲間ももちろん大切だった。{n}だがな、今は仲間って言ったら{n}お前たちの事だぜ。",
-   "en": "",
+   "en": "That's right.{p}My old comrades meant a lot to me, of course. But{n}these days, when I talk about my companions, I mean{n}you lot.",
    "term": "end"
   },
   {
    "id": "scen255.0040",
    "jp": "俺は２０年近く、一人で放浪を続けてきた。{n}孤独って言うのは悪いものじゃない。{p}だが、仲間といるときの充実感は特別なものだ。",
-   "en": "",
+   "en": "I spent nearly twenty years wandering alone. Solitude{n}isn't a bad thing.{p}But there's a special kind of contentment in being with{n}your companions.",
    "term": "end"
   },
   {
    "id": "scen255.0041",
    "jp": "‥‥仲間と過ごす時間は大切にするんだぞ。",
-   "en": "",
+   "en": "...Treasure the time you spend with your companions.",
    "term": "end"
   },
   {
    "id": "scen255.0042",
    "jp": "{v:0072}俺の所へ来てていいのか？{n}他に行かなければならないところがあるんじゃ{n}ないのか？",
-   "en": "",
+   "en": "{v:0072}Should you be here with me? Haven't you got{n}somewhere else you ought to be?",
    "term": "end"
   },
   {
    "id": "scen255.0043",
    "jp": "{v:0074}どうも女性陣の雰囲気があまりよくないんでな。{n}仲間なんだから少しは相手をしてやれ。{p}{v:0075}そうでないと、そのうち仲間内での{n}コミュニケーションがとれなくなるぞ。",
-   "en": "",
+   "en": "{v:0074}Things seem a bit tense among the women. They're{n}your companions. Give them some of your time.{p}{v:0075}Otherwise, you'll all end up unable to talk to each other.",
    "term": "end"
   },
   {
    "id": "scen255.0044",
    "jp": "{v:0077}ま、俺の言いたいのはそれだけだ。{n}取り返しのつかないことになる前に、{n}ある程度手を打っておけよ。",
-   "en": "",
+   "en": "{v:0077}Well, that's all I wanted to say. Do something about it{n}before things get beyond repair.",
    "term": "end"
   },
   {
    "id": "scen255.0045",
    "jp": "{v:0078}最近ルイセと仲がいいように思ったんだが、{n}違うのか？",
-   "en": "",
+   "en": "{v:0078}I thought you and Luise had been getting close lately.{n}Was I wrong?",
    "term": "end"
   },
   {
    "id": "scen255.0046",
    "jp": "{v:007A}最近ミーシャと仲がいいように思ったんだが、{n}違うのか？",
-   "en": "",
+   "en": "{v:007A}I thought you and Misha had been getting close lately.{n}Was I wrong?",
    "term": "end"
   },
   {
    "id": "scen255.0047",
    "jp": "{v:007C}最近カレンと仲がいいように思ったんだが、{n}違うのか？",
-   "en": "",
+   "en": "{v:007C}I thought you and Karen had been getting close lately.{n}Was I wrong?",
    "term": "end"
   },
   {
    "id": "scen255.0048",
    "jp": "{v:007E}俺は目が見えない代わりに、{n}他人の気配ってやつがよく分かる。{p}{v:007F}どうも、お前と一緒にいるときの反応が{n}普段と違う感じだったんでな。",
-   "en": "",
+   "en": "{v:007E}I can't see, but I've got a keen sense of other people's{n}presence.{p}{v:007F}She seemed to react differently around you than she{n}usually does.",
    "term": "end"
   },
   {
    "id": "scen255.0049",
    "jp": "{v:0082}俺の言いたいのはそれだけだ。{n}こいつはお前の心の中にとどめておくといい。",
-   "en": "",
+   "en": "{v:0082}That's all I wanted to say. Just keep it in mind.",
    "term": "end"
   },
   {
    "id": "scen255.0050",
    "jp": "‥‥よう、{s:0000}。",
-   "en": "",
+   "en": "...Hey, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen255.0051",
    "jp": "‥‥お前は戦う事ついて、{n}疑問を感じたりするか？",
-   "en": "",
+   "en": "...Do you ever have doubts about fighting?",
    "term": "end"
   },
   {
    "id": "scen255.0052",
    "jp": "どう答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen255.0053",
    "jp": "・いつも感じている",
-   "en": "",
+   "en": "・All the time",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0054",
    "jp": "・感じることもある",
-   "en": "",
+   "en": "・Sometimes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0055",
    "jp": "・まったく感じない",
-   "en": "",
+   "en": "・Never",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0056",
    "jp": "疑問を感じるのは悪い事じゃない。{n}だが、リーダーとして{n}それを表に出してはいかんぞ。",
-   "en": "",
+   "en": "There's nothing wrong with having doubts. But as a{n}leader, you mustn't let them show.",
    "term": "end"
   },
   {
    "id": "scen255.0057",
    "jp": "疑問を感じつつも戦える者は{n}何も感じない者より{n}多くの事を戦いから得られる。{p}お前はリーダーなんだ。{n}‥‥それでいい。",
-   "en": "",
+   "en": "A man who can fight despite his doubts learns more{n}from battle than one who feels nothing.{p}You're the leader. ...That's how it should be.",
    "term": "end"
   },
   {
    "id": "scen255.0058",
    "jp": "面倒な質問だったな。{n}‥‥{FE1E}すまん。",
-   "en": "",
+   "en": "That was a difficult question. ...{FE1E}Sorry.",
    "term": "end"
   },
   {
    "id": "scen255.0059",
    "jp": "傭兵団にな、すぐに突っ走る奴がいたよ。{n}だが、戦いに巻き込まれた村人が死ぬのを見て{n}前のようには戦えなくなってしまった。",
-   "en": "",
+   "en": "There was a man in our mercenary company who{n}always charged straight in. But after he saw villagers{n}die in the fighting, he couldn't fight the way he used to.",
    "term": "end"
   },
   {
    "id": "scen255.0060",
    "jp": "何も考えない奴は、{n}そういうときの落ち込みもはげしいものさ。{n}まあ、結局は立ち直ったがな。{p}‥‥{FE1E}昔話さ。",
-   "en": "",
+   "en": "Men who never think about these things take it hard{n}when something like that happens. Well, he did get back{n}on his feet in the end.{p}...{FE1E}Just an old story.",
    "term": "end"
   },
   {
    "id": "scen255.0061",
    "jp": "‥‥{s:0000}か。{n}こうして風呂にはいるのも何度目かな‥‥。",
-   "en": "",
+   "en": "...Ah, {s:0000}. How many times have we{n}shared a bath like this now...?",
    "term": "end"
   },
   {
    "id": "scen255.0062",
    "jp": "‥‥そう言えば昔、{n}隊長が暗殺者に狙われたことがあった。{n}お前だったら、どうやって強い奴を暗殺する？",
-   "en": "",
+   "en": "...That reminds me. An assassin once went after the{n}captain. How would you go about assassinating{n}someone strong?",
    "term": "end"
   },
   {
    "id": "scen255.0063",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0064",
    "jp": "・毒",
-   "en": "",
+   "en": "・Poison",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0065",
    "jp": "・正面から挑む",
-   "en": "",
+   "en": "・Challenge them head-on",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0066",
    "jp": "・魔法",
-   "en": "",
+   "en": "・Magic",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0067",
    "jp": "そうだな、暗殺と言えば毒だろう。",
-   "en": "",
+   "en": "Right. Poison's the obvious choice for an assassination.",
    "term": "end"
   },
   {
    "id": "scen255.0068",
    "jp": "それは暗殺とは言えんな。",
-   "en": "",
+   "en": "You couldn't call that an assassination.",
    "term": "end"
   },
   {
    "id": "scen255.0069",
    "jp": "なるほどな。{n}遠くから魔法でか。",
-   "en": "",
+   "en": "I see. Magic from a distance, eh?",
    "term": "end"
   },
   {
    "id": "scen255.0070",
    "jp": "そいつは、突然物陰から飛び出して、{n}短剣一本で隊長に向かってきたんだ。{n}近隣に名声が響き渡る傭兵部隊の隊長にだぜ。{p}もちろん、隊長はその一撃をかわした。{n}そして、あっと言う間にそいつを切り伏せた。{p}隊長は虫の息のそいつに{n}『俺に勝てると思ったか？』って問いかけた。{p}暗殺者は『今まで、どんな強い奴でも短剣一本で{n}しとめてきた。』と答えて息を引き取った。{p}‥‥暗殺者には暗殺者の誇りがあるってことさ。{n}騎士には騎士の、{n}傭兵には傭兵の誇りがあるようにな‥‥。",
-   "en": "",
+   "en": "The fellow jumped out of the shadows and went at the{n}captain with a single dagger. The captain of a{n}mercenary company famous throughout the region, mind{p}you.{p}Of course, the captain dodged the blow. Then he cut{n}the fellow down in an instant.{p}As the fellow lay dying, the captain asked, 'Did you think{n}you could beat me?'{p}The assassin answered, 'Until now, a single dagger was{n}all I needed to kill anyone, however strong.' Then he{n}breathed his last.{p}...An assassin has his pride. Just as a knight has his,{n}and a mercenary has his...",
    "term": "end"
   },
   {
    "id": "scen255.0071",
    "jp": "昔の仲間の話をしよう。{n}‥‥憶えているか？{n}宝石の男の話だ。",
-   "en": "",
+   "en": "Let me tell you about an old comrade. ...Remember him?{n}The fellow with the gems.",
    "term": "end"
   },
   {
    "id": "scen255.0072",
    "jp": "そいつは、仲間の制止も聞かずに{n}突っ込んでいくような奴だったんだ。{n}いつも生傷が絶えなかったよ。{p}だがな、そんな奴でもある日、ある母娘を助けたんだ。{n}その母娘は、生きることに疲れ、{n}死のうと考えていたんだそうだ。{p}‥‥{FE1E}そういうとき、お前ならどうする？",
-   "en": "",
+   "en": "He was the sort who'd charge in even when his{n}comrades tried to stop him. Always had a fresh wound{n}or two.{p}But one day, even that fool saved a mother and{n}daughter. Seems they'd grown tired of living and were{n}thinking of ending their lives.{p}...{FE1E}What would you do in a situation like that?",
    "term": "end"
   },
   {
    "id": "scen255.0073",
    "jp": "どう答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen255.0074",
    "jp": "・ひっぱたく",
-   "en": "",
+   "en": "・Slap them",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0075",
    "jp": "・さとす",
-   "en": "",
+   "en": "・Reason with them",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0076",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0077",
    "jp": "ふふふ、お前の歳でそれができたら大したものだな。{n}その通り、そいつはひっぱたいた。",
-   "en": "",
+   "en": "Heh heh. If you could do that at your age, I'd be{n}impressed. That's right. He slapped them.",
    "term": "end"
   },
   {
    "id": "scen255.0078",
    "jp": "そうだな、普通はそうするだろう。{n}だが、それがいつも通じるとは限らんぞ。{p}だから俺の仲間は、{n}その母娘をひっぱたいて落ち着かせたのさ。",
-   "en": "",
+   "en": "Right. That's what most people would do. But words{n}don't always get through.{p}So my comrade slapped the mother and daughter to{n}calm them down.",
    "term": "end"
   },
   {
    "id": "scen255.0079",
    "jp": "そうだろうな‥‥。{p}それで俺の仲間はどうしたのかというと、{n}その母娘をひっぱたいて落ち着かせたのさ。",
-   "en": "",
+   "en": "I thought as much...{p}As for my comrade, he slapped the mother and{n}daughter to calm them down.",
    "term": "end"
   },
   {
    "id": "scen255.0080",
    "jp": "死を覚悟した人間は、{n}もうその事しか考えなくなってしまう。{p}周りに何を言われようが聞こうとしないし、{n}何も見なくなってしまう。{FFFB}{n}そうなってしまうと、もうほかに手はないのさ。",
-   "en": "",
+   "en": "Once someone's made up their mind to die, they can't{n}think of anything else.{p}They won't listen to anyone around them. They stop{n}seeing anything else.{FFFB} Once it gets that far, there's{n}nothing else you can do.",
    "term": "end"
   },
   {
    "id": "scen255.0081",
    "jp": "ああ、ミディとサラ‥‥{FE1E}それが母娘の名前だ。{n}２人はそれで死ぬことをやめた。{n}今では何処かでひっそりと暮らしているだろうよ。",
-   "en": "",
+   "en": "Ah, Midi and Sara...{FE1E}Those were their names. After that,{n}they gave up the idea of dying. They're probably living{n}quietly somewhere now.",
    "term": "end"
   },
   {
    "id": "scen255.0082",
    "jp": "いい湯だったぜ。{n}しかし、お前も風呂が好きだな。",
-   "en": "",
+   "en": "That was a good soak. You sure do like your baths,{n}kid.",
    "term": "end"
   },
   {
    "id": "scen255.0083",
    "jp": "{v:00B8}あの‥‥すいません。",
-   "en": "",
+   "en": "{v:00B8}Um... Excuse me.",
    "term": "end"
   },
   {
    "id": "scen255.0084",
    "jp": "{v:00B9}ん？{n}何か用？",
-   "en": "",
+   "en": "{v:00B9}Hm? Need something?",
    "term": "end"
   },
   {
    "id": "scen255.0085",
    "jp": "{v:00BA}はい。{n}その人にお話があるんですが。",
-   "en": "",
+   "en": "{v:00BA}Yes. I'd like to speak to that gentleman.",
    "term": "end"
   },
   {
    "id": "scen255.0086",
    "jp": "{v:00BB}ウォレスさんに？",
-   "en": "",
+   "en": "{v:00BB}Wallace-san?",
    "term": "end"
   },
   {
    "id": "scen255.0087",
    "jp": "{v:00BC}そうです。",
-   "en": "",
+   "en": "{v:00BC}Yes.",
    "term": "end"
   },
   {
    "id": "scen255.0088",
    "jp": "{v:00BD}誰だ？{n}声に聞き覚えはないが？",
-   "en": "",
+   "en": "{v:00BD}Who are you? Don't recognize your voice.",
    "term": "end"
   },
   {
    "id": "scen255.0089",
    "jp": "{v:00BE}あ、すいません。{n}私の名前はサラと言います。",
-   "en": "",
+   "en": "{v:00BE}Oh, I'm sorry. My name is Sara.",
    "term": "end"
   },
   {
    "id": "scen255.0090",
    "jp": "{v:00BF}サラ？{n}なんかどっかで聞いたことがある名前ね。{n}アンタ覚えてる？",
-   "en": "",
+   "en": "{v:00BF}Sara? I feel like I've heard that name somewhere. Do{n}you remember?",
    "term": "end"
   },
   {
    "id": "scen255.0091",
    "jp": "何と答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen255.0092",
    "jp": "・忘れた",
-   "en": "",
+   "en": "・I forgot",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0093",
    "jp": "・ウォレスの昔話に出てた人",
-   "en": "",
+   "en": "・Someone from Wallace's stories",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0094",
    "jp": "・ウォレスの奥さん",
-   "en": "",
+   "en": "・Wallace's wife",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0095",
    "jp": "{v:00C0}アンタ、なに偉そうにしてるのよ！{n}忘れてるくせに！",
-   "en": "",
+   "en": "{v:00C0}What are you acting so smug for?! You don't remember{n}either!",
    "term": "end"
   },
   {
    "id": "scen255.0096",
    "jp": "{v:00C1}お前もだろうが‥‥。",
-   "en": "",
+   "en": "{v:00C1}Neither do you...",
    "term": "end"
   },
   {
    "id": "scen255.0097",
    "jp": "{FB00}{v:00C2}う‥‥あ、アタシはいいのよ！",
-   "en": "",
+   "en": "{FB00}{v:00C2}Urk... I-I'm allowed!",
    "term": "end"
   },
   {
    "id": "scen255.0098",
    "jp": "{v:00C3}そういえばそうだっけ。",
-   "en": "",
+   "en": "{v:00C3}Oh, right! Now I remember.",
    "term": "end"
   },
   {
    "id": "scen255.0099",
    "jp": "{v:00C4}おいおい、俺は独り者だぞ？",
-   "en": "",
+   "en": "{v:00C4}Hey, now. I'm a bachelor, remember?",
    "term": "end"
   },
   {
    "id": "scen255.0100",
    "jp": "{v:00C5}そーよ、この寂しいおじさんになんて事言うのよ！",
-   "en": "",
+   "en": "{v:00C5}That's right! How could you say that to this lonely old{n}man?!",
    "term": "end"
   },
   {
    "id": "scen255.0101",
    "jp": "‥‥{v:00C6}何か言ったか、ティピ‥‥？",
-   "en": "",
+   "en": "...{v:00C6}Did you say something, Tippi...?",
    "term": "end"
   },
   {
    "id": "scen255.0102",
    "jp": "{FB00}{v:00C7}あ゛‥‥あははは[01BE]",
-   "en": "",
+   "en": "{FB00}{v:00C7}Ack... Ahahaha[01BE]",
    "term": "end"
   },
   {
    "id": "scen255.0103",
    "jp": "{v:00C8}まあいいがな‥‥。",
-   "en": "",
+   "en": "{v:00C8}Well, never mind...",
    "term": "end"
   },
   {
    "id": "scen255.0104",
    "jp": "{v:00C9}１７年前、死ぬことを考えていた母娘を{n}助けた事を覚えていらっしゃいませんか？",
-   "en": "",
+   "en": "{v:00C9}Do you remember saving a mother and daughter who{n}were thinking of ending their lives seventeen years{n}ago?",
    "term": "end"
   },
   {
    "id": "scen255.0105",
    "jp": "{v:00CA}１７年前‥‥‥‥。{p}{v:00CB}ああ、あのときの‥‥。",
-   "en": "",
+   "en": "{v:00CA}Seventeen years ago...{p}{v:00CB}Ah, back then...",
    "term": "end"
   },
   {
    "id": "scen255.0106",
    "jp": "{v:00CC}お世話になったあなたのことを、母が口癖のように{n}言っていたので、一目見て分かりました。{p}{v:00CD}私が母と一緒にいられるのは、{n}全部あなたのおかげです。{p}{v:00CE}あなたに助けていただかなければ、{n}私たちは今頃どうなっていたか‥‥。",
-   "en": "",
+   "en": "{v:00CC}Mother spoke so often of the man who helped us that{n}I recognized you at once.{p}{v:00CD}It's entirely thanks to you that I could stay with{n}Mother.{p}{v:00CE}If you hadn't saved us, I don't know what would have{n}become of us...",
    "term": "end"
   },
   {
    "id": "scen255.0107",
    "jp": "{v:00CF}あれれ？{n}でもあの話であなた達を助けたのって、{n}ウォレスさんじゃなかったような‥‥。",
-   "en": "",
+   "en": "{v:00CF}Huh? But in that story, I thought the man who saved{n}you wasn't Wallace-san...",
    "term": "end"
   },
   {
    "id": "scen255.0108",
    "jp": "{v:00D0}そうなんですか？{n}母から聞いていた方と容姿が{n}そっくりなんですが？{p}{v:00D1}お名前を言わずに去られたらしいので、{n}もしかして私が間違えているのかも‥‥。",
-   "en": "",
+   "en": "{v:00D0}Really? But you look exactly as Mother described him.{p}{v:00D1}Apparently, he left without giving his name, so perhaps{n}I've mistaken you for someone else...",
    "term": "end"
   },
   {
    "id": "scen255.0109",
    "jp": "‥‥{v:00D2}もしかして、ウォレスさんって、{n}自分の事をあたかも他人の話のように話してた‥‥{n}‥‥とか？",
-   "en": "",
+   "en": "...{v:00D2}Wallace-san, could you have been telling stories about{n}yourself as if they happened to someone else...?",
    "term": "end"
   },
   {
    "id": "scen255.0110",
    "jp": "{FFF3}{FE1E}‥‥‥‥。",
-   "en": "",
+   "en": "{FFF3}{FE1E}...",
    "term": "end"
   },
   {
    "id": "scen255.0111",
    "jp": "{v:00D3}ふぅ～ん、そうなんだぁ～{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:00D3}Ohhh, so that's how it is!{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen255.0112",
    "jp": "{FFF3}‥‥‥‥。",
-   "en": "",
+   "en": "{FFF3}...",
    "term": "end"
   },
   {
    "id": "scen255.0113",
    "jp": "{v:00D4}ウォレスさんって、若い頃は案外‥‥ぷぷぷぷ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:00D4}Who'd have thought young Wallace-san was so... Pffft!{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen255.0114",
    "jp": "{v:00D5}お前にだけは知られたくなかったな‥‥。",
-   "en": "",
+   "en": "{v:00D5}You were the last person I wanted finding out...",
    "term": "end"
   },
   {
    "id": "scen255.0115",
    "jp": "{v:00D6}いいじゃない、別に減るもんじゃなし★{p}{v:00D7}でも、名前も告げずに去っていったなんて{n}かっこいいことするじゃない？",
-   "en": "",
+   "en": "{v:00D6}Oh, come on! What's it going to cost you?{p}{v:00D7}Still, leaving without even giving your name... Pretty{n}dashing of you, huh?",
    "term": "end"
   },
   {
    "id": "scen255.0116",
    "jp": "{v:00D8}名前を言うのが恥ずかしかっただけだ。{n}別に、いいかっこしようと思って{n}やったことじゃない‥‥。",
-   "en": "",
+   "en": "{v:00D8}I was just too embarrassed to give my name. Wasn't{n}trying to look dashing...",
    "term": "end"
   },
   {
    "id": "scen255.0117",
    "jp": "何と声をかけますか？",
-   "en": "",
+   "en": "What will you say?",
    "term": "end"
   },
   {
    "id": "scen255.0118",
    "jp": "・照れるなと言う",
-   "en": "",
+   "en": "・Tell him not to be embarrassed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0119",
    "jp": "・似合わない顔だと言う",
-   "en": "",
+   "en": "・Say that expression doesn't suit him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0120",
    "jp": "・ウォレスらしいと言う",
-   "en": "",
+   "en": "・Say that's just like Wallace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0121",
    "jp": "{v:00D9}そうそう、照れない照れない{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:00D9}That's right! No need to be shy!{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen255.0122",
    "jp": "‥‥{v:00DA}俺が照れちゃわるいか。",
-   "en": "",
+   "en": "...{v:00DA}Something wrong with me being embarrassed?",
    "term": "end"
   },
   {
    "id": "scen255.0123",
    "jp": "{v:00DB}悪くは無いけど‥‥なんか可愛い{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:00DB}Nothing wrong with it... It's just kind of cute!{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen255.0124",
    "jp": "{v:00DC}可愛い‥‥。",
-   "en": "",
+   "en": "{v:00DC}Cute...",
    "term": "end"
   },
   {
    "id": "scen255.0125",
    "jp": "{v:00DD}そうね、{n}見返りを求めない辺りはウォレスさんらしいかな。",
-   "en": "",
+   "en": "{v:00DD}Yeah, helping without asking for anything in return does{n}sound like Wallace-san.",
    "term": "end"
   },
   {
    "id": "scen255.0126",
    "jp": "{v:00DE}そう言ってもらえると嬉しい。",
-   "en": "",
+   "en": "{v:00DE}Glad you think so.",
    "term": "end"
   },
   {
    "id": "scen255.0127",
    "jp": "{v:00DF}ねえ、サラ。{n}お母さんは元気なの？",
-   "en": "",
+   "en": "{v:00DF}Hey, Sara. Is your mother doing well?",
    "term": "end"
   },
   {
    "id": "scen255.0128",
    "jp": "{v:00E0}いえ‥‥母は去年、病で亡くなりました‥‥。",
-   "en": "",
+   "en": "{v:00E0}No... Mother passed away from an illness last year...",
    "term": "end"
   },
   {
    "id": "scen255.0129",
    "jp": "{v:00E1}あ、ゴメン‥‥変な事聞いちゃったかな‥‥。",
-   "en": "",
+   "en": "{v:00E1}Oh, sorry... Maybe I shouldn't have asked...",
    "term": "end"
   },
   {
    "id": "scen255.0130",
    "jp": "{v:00E2}いえ、構いません。母は死ぬときまでウォレスさんに{n}感謝していました。{p}{v:00E3}私もウォレスさんに感謝しています。{n}裕福では無かったけど、母とずっと幸せに{n}暮らせましたから。",
-   "en": "",
+   "en": "{v:00E2}No, it's all right. Mother was grateful to you until the{n}day she died, Wallace-san.{p}{v:00E3}I'm grateful to you too, Wallace-san. We weren't{n}wealthy, but Mother and I had a happy life together.",
    "term": "end"
   },
   {
    "id": "scen255.0131",
    "jp": "{v:00E4}そうか‥‥。",
-   "en": "",
+   "en": "{v:00E4}I see...",
    "term": "end"
   },
   {
    "id": "scen255.0132",
    "jp": "{v:00E5}あ、話し込んでしまってすいません。{n}私はこれで失礼させていただきます。{n}それでは。",
-   "en": "",
+   "en": "{v:00E5}Oh, I'm sorry to have kept you talking so long. I'll be on{n}my way now. Goodbye.",
    "term": "end"
   },
   {
    "id": "scen255.0133",
    "jp": "{v:00E6}ずっと覚えていてくれたんだ。{n}ウォレスさんもいいことしたね。",
-   "en": "",
+   "en": "{v:00E6}She remembered you all this time. You did a good{n}thing, Wallace-san.",
    "term": "end"
   },
   {
    "id": "scen255.0134",
    "jp": "{v:00E7}そうだな‥‥。",
-   "en": "",
+   "en": "{v:00E7}Yeah...",
    "term": "end"
   },
   {
    "id": "scen255.0135",
    "jp": "‥‥{s:0000}か。{n}お前にはいろいろと話したものだ。{p}２０年近く一人で放浪を続けて、{n}じっくり誰かと話すことなどなかったからな。{p}今まで、寂しいと思ったことはなかったが、{n}こうして話しが出来るのはいいもんだ。{p}男同士、２人でもじっくり語り合えるのが{n}本当の友ってものさ。",
-   "en": "",
+   "en": "...Oh, {s:0000}. I've told you quite a few{n}stories.{p}Spent nearly twenty years wandering alone. Never had{n}much chance to sit and talk with anyone.{p}Never thought of myself as lonely, but it's good to be{n}able to talk like this.{p}Two men who can sit down alone and really talk... That's{n}what true friends are.",
    "term": "end"
   },
   {
    "id": "scen255.0136",
    "jp": "‥‥{s:0000}か。",
-   "en": "",
+   "en": "...Oh, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen255.0137",
    "jp": "なんと話しかけますか？",
-   "en": "",
+   "en": "What will you say?",
    "term": "end"
   },
   {
    "id": "scen255.0138",
    "jp": "・ウォレスと話に来た",
-   "en": "",
+   "en": "・I came to talk to Wallace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0139",
    "jp": "・温泉につかろうと思って来た",
-   "en": "",
+   "en": "・I came for a soak in the hot spring",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0140",
    "jp": "わざわざ俺に会いに来てくれたのか？{n}そいつはありがたいな。",
-   "en": "",
+   "en": "You came all this way to see me? I appreciate it.",
    "term": "end"
   },
   {
    "id": "scen255.0141",
    "jp": "いつもは仕事で羽根がのばせないからな。{n}思いっきり羽根をのばせばいい。",
-   "en": "",
+   "en": "Work usually keeps you from putting your feet up.{n}Relax as much as you like.",
    "term": "end"
   },
   {
    "id": "scen255.0142",
    "jp": "‥‥そうだな、{n}俺と同じ時期に、{n}傭兵団に入った男の話でもしてやろう。{p}そいつが最初の休暇をどう過ごしたかって事をな。",
-   "en": "",
+   "en": "...Let's see. I'll tell you about a man who joined the{n}mercenary company around the same time I did.{p}About how he spent his first leave.",
    "term": "end"
   },
   {
    "id": "scen255.0143",
    "jp": "そいつは野心に燃えた男でな、{n}いつも手柄を求めていたよ。{p}初仕事を終えたそいつは、浮かれ気分で休暇に入った。{n}手に入れた報奨金で団の連中に振舞酒をやったんだが、{n}当の本人は飲み過ぎで酔いつぶれちまった。{p}翌日そいつが目を覚ますと、{n}そこは路地裏だったらしい。{n}しかも財布の中は綺麗さっぱりなくなっていた。{p}どうやら路地裏で寝ている間に抜き取られたらしい。{n}それ以来その男は、酒を飲む量を自重したのさ。",
-   "en": "",
+   "en": "He was an ambitious fellow. Always looking for a chance{n}to distinguish himself.{p}After his first job, he went on leave in high spirits.{n}Spent his reward buying drinks for the company, then{n}drank himself under the table.{p}When he woke the next day, he was in a back alley. His{n}purse had been cleaned out, too.{p}Seems someone took his money while he was sleeping{n}there. After that, he kept his drinking in check.",
    "term": "end"
   },
   {
    "id": "scen255.0144",
    "jp": "こいつの教訓は、{n}休暇中でも浮かれ過ぎるなってことだ。{p}常に適度な緊張を保っておけ。{n}それが戦士の勤めだ。{p}ま、堅くなる必要はない。{n}要は自分自身を把握できるようにしろってことだ。{n}がんばれよ。",
-   "en": "",
+   "en": "The lesson is, don't get too carried away, even on{n}leave.{p}Always keep your guard up a little. That's a warrior's{n}duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in hand. You'll get there.",
    "term": "end"
   },
   {
    "id": "scen255.0145",
    "jp": "おお、{s:0000}か。",
-   "en": "",
+   "en": "Oh, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen255.0146",
    "jp": "そうだな‥‥{FE1E}また昔話でもするか。{n}前に話した、傭兵時代の仲間の話だ。{p}そいつは腕がよかったんで、{n}他の奴らより多めに稼いでいたのさ。{p}そこでそいつは、かさばらずにすむように、{n}稼ぎを宝石にして持ち歩こうと考えた。",
-   "en": "",
+   "en": "Let's see...{FE1E}How about another old story? About that{n}comrade from my mercenary days I mentioned before.{p}He was good at his work, so he earned more than the{n}others.{p}He figured he'd turn his earnings into gems. Less bulk{n}to carry around.",
    "term": "end"
   },
   {
    "id": "scen255.0147",
    "jp": "宝石商で手頃な宝石を買ってきて、{n}さっそく部隊の連中に見せびらかしたんだが‥‥。{n}{FE1E}これがたいしたものでな。{p}よくできた偽物だったんだ。",
-   "en": "",
+   "en": "He bought a reasonably priced gem from a jeweler and{n}wasted no time showing it off to the company... {FE1E}Quite a{n}piece of work, it was.{p}A very convincing fake.",
    "term": "end"
   },
   {
    "id": "scen255.0148",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0149",
    "jp": "・なんで偽物とわかったのか聞く",
-   "en": "",
+   "en": "・Ask how they knew it was a fake",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0150",
    "jp": "・間抜けな男だと笑う",
-   "en": "",
+   "en": "・Laugh at what a fool he was",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0151",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0152",
    "jp": "ああ、当然の疑問だな。",
-   "en": "",
+   "en": "Ah, a fair question.",
    "term": "end"
   },
   {
    "id": "scen255.0153",
    "jp": "お前もそう思うか。{n}他人の失敗ってのは面白いもんさ。",
-   "en": "",
+   "en": "You think so too, eh? Other people's mistakes can be{n}funny.",
    "term": "end"
   },
   {
    "id": "scen255.0154",
    "jp": "はっはっは。{n}そう真剣な顔して聞くな。{n}笑い話だ。",
-   "en": "",
+   "en": "Ha ha ha! Don't look so serious. It's a funny story.",
    "term": "end"
   },
   {
    "id": "scen255.0155",
    "jp": "元ランザックの宝石商って奴がたまたま部隊にいてな。{p}知ってるか？{n}{FE1E}ランザックってのは、大陸でも有数の宝石の産地だ。{n}そこの宝石商だからな、腕の方は信用できる。{p}で、偽物と分かった時には遅かった。{n}{FE1E}もう店は跡形もなく消えていて、{n}後に残ったのは偽物の石だけってオチだ。",
-   "en": "",
+   "en": "There happened to be a former Ranzak jeweler in the{n}company.{p}Did you know? {FE1E}Ranzak is one of the continent's leading{n}sources of gems. You can trust a jeweler from there to{n}know his trade.{p}But by the time they found out it was fake, it was too{n}late. {FE1E}The shop had vanished without a trace. All he had{n}left was a worthless stone.",
    "term": "end"
   },
   {
    "id": "scen255.0156",
    "jp": "いくら安いからといって、{n}信用できない商人からは物を買うなってことだな。",
-   "en": "",
+   "en": "No matter how cheap the price, don't buy from a{n}merchant you can't trust.",
    "term": "end"
   },
   {
    "id": "scen255.0157",
    "jp": "さて、俺は先に出てるぜ。",
-   "en": "",
+   "en": "Well, I'm getting out first.",
    "term": "end"
   },
   {
    "id": "scen255.0158",
    "jp": "よう、{s:0000}。",
-   "en": "",
+   "en": "Hey, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen255.0159",
    "jp": "‥‥傭兵時代の話でもするか。{n}部隊の話か、仲間の話か‥‥。",
-   "en": "",
+   "en": "...How about a story from my mercenary days? About{n}the company, or one of my comrades...",
    "term": "end"
   },
   {
    "id": "scen255.0160",
    "jp": "どちらを聞きますか？",
-   "en": "",
+   "en": "Which will you ask about?",
    "term": "end"
   },
   {
    "id": "scen255.0161",
    "jp": "・部隊の話",
-   "en": "",
+   "en": "・The company",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0162",
    "jp": "・仲間の話",
-   "en": "",
+   "en": "・His comrades",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0163",
    "jp": "‥‥部隊の連中か。{FFFB}{n}そうだな、キレてるヤツも中にはいたが、{n}基本はいい奴ばかりだったよ。{p}次の日が大事な会議の日でも、飲み明かしたりしてな。{n}会議で隊長に大目玉くらったのは、失敗だったが‥‥。",
-   "en": "",
+   "en": "...The men in the company, eh?{FFFB} Well, a few were out of{n}their minds, but they were mostly good fellows.{p}We'd drink all night, even with an important meeting the{n}next day. The captain gave us hell at the meeting,{n}though. That wasn't our finest hour...",
    "term": "end"
   },
   {
    "id": "scen255.0164",
    "jp": "‥‥男同士は言葉じゃなく、{n}酒で語りあうことも必要だからな。{n}そういうこともあるさ。",
-   "en": "",
+   "en": "...Sometimes men need to talk over a drink, instead of{n}just trading words. These things happen.",
    "term": "end"
   },
   {
    "id": "scen255.0165",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0166",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0167",
    "jp": "・あきれる",
-   "en": "",
+   "en": "・Look exasperated",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0168",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0169",
    "jp": "いつか、お前とも飲み明かしたいものだな。",
-   "en": "",
+   "en": "I'd like to spend a night drinking with you someday.",
    "term": "end"
   },
   {
    "id": "scen255.0170",
    "jp": "なんだ、まだわからんか。{n}まあ、若いうちは仕方ないか‥‥。",
-   "en": "",
+   "en": "What, you still don't understand? Well, you're young.{n}Can't blame you...",
    "term": "end"
   },
   {
    "id": "scen255.0171",
    "jp": "ふふふ、お前にもそのうちわかるさ。",
-   "en": "",
+   "en": "Heh heh. You'll understand someday.",
    "term": "end"
   },
   {
    "id": "scen255.0172",
    "jp": "ふふ‥‥{FE1E}部隊にすごく面白いヤツがいてな。{FFFB}{n}そいつは冗談ばかり言って、よく俺たちを笑わせて{n}くれたもんさ。",
-   "en": "",
+   "en": "Heh...{FE1E}There was a real funny fellow in the company.{FFFB}{n}Always cracking jokes. He gave us plenty of laughs.",
    "term": "end"
   },
   {
    "id": "scen255.0173",
    "jp": "そいつは新兵が来て、初の戦闘の時に必ず言うんだよ。{n}『お前らはツイてるな、{n}　　今日は俺と嫁さんの結婚記念日だ』{FE1E}ってな。",
-   "en": "",
+   "en": "Whenever new recruits went into their first battle,{n}he'd always tell them, 'You lads are in luck. Today's my{n}wedding anniversary.'{FE1E}",
    "term": "end"
   },
   {
    "id": "scen255.0174",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0175",
    "jp": "・感心する",
-   "en": "",
+   "en": "・Show your admiration",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0176",
    "jp": "・笑う",
-   "en": "",
+   "en": "・Laugh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0177",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0178",
    "jp": "俺の言いたいことがわかっているようだな。{p}新兵は実戦経験がない。{n}初めての戦闘は、そりゃ背骨に{n}何かを差し込まれたみたいにカチコチに固まっちまう。{p}だからそいつの、その何気ない言葉に、{n}何人の新兵たちが救われたことか‥‥。",
-   "en": "",
+   "en": "Looks like you know what I'm getting at.{p}Recruits haven't seen real combat. Their first fight,{n}they freeze up stiff as a board, like someone's shoved{n}a rod down their spine.{p}You wouldn't believe how many recruits those casual{n}words of his saved...",
    "term": "end"
   },
   {
    "id": "scen255.0179",
    "jp": "新兵は実戦経験がない。{n}初めての戦闘は、そりゃ背骨に{n}何かを差し込まれたみたいにカチコチに固まっちまう。{p}だからそいつの、その何気ない言葉に{n}何人の新兵たちが救われたことか‥‥。",
-   "en": "",
+   "en": "Recruits haven't seen real combat. Their first fight,{n}they freeze up stiff as a board, like someone's shoved{n}a rod down their spine.{p}You wouldn't believe how many recruits those casual{n}words of his saved...",
    "term": "end"
   },
   {
    "id": "scen255.0180",
    "jp": "わからんか？{p}新兵は実戦経験がない。{n}初めての戦闘はそりゃ背骨に{n}何かを差し込まれたみたいにカチコチに固まっちまう。{p}だからそいつの、その何気ない言葉に{n}何人の新兵たちが救われたことか‥‥。",
-   "en": "",
+   "en": "Don't get it?{p}Recruits haven't seen real combat. Their first fight,{n}they freeze up stiff as a board, like someone's shoved{n}a rod down their spine.{p}You wouldn't believe how many recruits those casual{n}words of his saved...",
    "term": "end"
   },
   {
    "id": "scen255.0181",
    "jp": "と、まあ‥‥{FE1E}こんな感じだったんだがな。{p}ゲヴェルの事件の後、次々と仲間たちは抜けて、{n}孤独が平気‥‥{FE0A}ってな顔をしてきたが‥‥。{p}‥‥部隊の連中が集まって騒いだ狭い酒場が、{n}広く見えた時は、何だか例えようもなく{n}虚ろな気分になったのを覚えてるぜ‥‥。{p}‥‥あいつらが居たからこそ、{n}大事な物が見えてたんだな‥‥。{p}仲間ってヤツは、いなくなってから大切だと分かる。{n}{FE1E}‥‥因果なもんだ。",
-   "en": "",
+   "en": "Well...{FE1E}that's how it was.{p}After the Gevel incident, the others left one by one. I{n}acted like being alone...{FE0A}didn't bother me.{p}...But I remember when that cramped tavern, where{n}the whole unit used to raise hell, started looking{n}spacious. Never felt so empty in my life...{p}...Having those guys around was what let me see what{n}mattered...{p}You only learn how much your comrades mean to you{n}once they're gone. {FE1E}...Hell of a thing.",
    "term": "end"
   },
   {
    "id": "scen255.0182",
    "jp": "さて、俺はそろそろ出るぜ。",
-   "en": "",
+   "en": "Well, I'd best get going.",
    "term": "end"
   },
   {
    "id": "scen255.0183",
    "jp": "よう‥‥今日も来たか。",
-   "en": "",
+   "en": "Hey... Back again today, eh?",
    "term": "end"
   },
   {
    "id": "scen255.0184",
    "jp": "‥‥俺が探している隊長の事を、{n}お前には話しておきたい。",
-   "en": "",
+   "en": "...I want to tell you about the captain I've been looking{n}for.",
    "term": "end"
   },
   {
    "id": "scen255.0185",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen255.0186",
    "jp": "・強さについて聞く",
-   "en": "",
+   "en": "・Ask how strong he was",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0187",
    "jp": "・人柄について聞く",
-   "en": "",
+   "en": "・Ask what kind of man he was",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0188",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0189",
    "jp": "強かったぜ‥‥{FE1E}心も剣もな。{p}なんせ、誰ともつるまなかった俺が部隊に入ったのは{n}その背中にならついていってもいい‥‥{n}{FE1E}そう思ったからだ。",
-   "en": "",
+   "en": "He was strong...{FE1E}in spirit and with a sword.{p}I never ran with anyone. But I joined his unit because I{n}figured he was a man I could follow...{FE1E}That's what I{n}thought.",
    "term": "end"
   },
   {
    "id": "scen255.0190",
    "jp": "そうだな‥‥{FE1E}１つ話をしてやろう。",
-   "en": "",
+   "en": "Let's see...{FE1E}I'll tell you a story.",
    "term": "end"
   },
   {
    "id": "scen255.0191",
    "jp": "隊長は剣の腕もさることながら、側にいるだけで{n}おだやかな気持ちになれた‥‥。{n}{FE1E}俺があの人の所にいた１番の理由がそれだ。{p}そうだ‥‥隊長が俺に教えてくれた話をしてやるよ。",
-   "en": "",
+   "en": "The captain was a fine swordsman, but just being{n}around him put you at ease... {FE1E}That's the main reason I{n}stayed with him.{p}Right... Let me tell you something he taught me.",
    "term": "end"
   },
   {
    "id": "scen255.0192",
    "jp": "‥‥一つ、話をしてやる。",
-   "en": "",
+   "en": "...Let me tell you a story.",
    "term": "end"
   },
   {
    "id": "scen255.0193",
    "jp": "その頃、軽い人間不信に陥っていた俺に、皆が集まる{n}酒場で、グラスをかたむけながら話してくれたもんさ。{p}『自分が偉くなり、金も多く貰えるようになると、{n}　　名ばかりの友人が集まってくる。』{FE1E}‥‥ってな。",
-   "en": "",
+   "en": "I'd lost some faith in people back then. He told me this{n}over a drink at the tavern where we all gathered.{p}'Once you make a name for yourself and start earning{n}more, you'll find yourself surrounded by friends in name{n}only.'{FE1E}...That's what he said.",
    "term": "end"
   },
   {
    "id": "scen255.0194",
    "jp": "『だが、本当の友人というのは栄華が崩れ、{n}　　かりそめの友人が散り、自分が本当に困った時。{p}　　ひょこっと現れて、憎まれ口を言って{n}　　手助けしてくれる‥‥{FE1E}そういうもんさ。』{FE1E}とな。",
-   "en": "",
+   "en": "'But a real friend? When your glory's gone, those{n}fair-weather friends have scattered, and you're in{n}real trouble...{p}He'll turn up out of the blue, give you a hard time, and{n}lend a hand...{FE1E}That's a real friend.'{FE1E}His words.",
    "term": "end"
   },
   {
    "id": "scen255.0195",
    "jp": "隊長はその言葉通り、俺が本当に困った時に幾度も{n}助けに来てくれた。{p}だから今度は‥‥{FE1E}俺が助けてやる番さ。",
-   "en": "",
+   "en": "The captain lived by those words. Whenever I was in{n}real trouble, he came to help, time and again.{p}So this time...{FE1E}it's my turn to help him.",
    "term": "end"
   },
   {
    "id": "scen255.0196",
    "jp": "まだ出来ていません。",
-   "en": "",
+   "en": "Not implemented yet.",
    "term": "end"
   },
   {
    "id": "scen255.0197",
    "jp": "友好度の変化は？",
-   "en": "",
+   "en": "Change in friendship?",
    "term": "end"
   },
   {
    "id": "scen255.0198",
    "jp": "・＋８０",
-   "en": "",
+   "en": "・+80",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0199",
    "jp": "・＋６０",
-   "en": "",
+   "en": "・+60",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen255.0200",
    "jp": "・＋４０",
-   "en": "",
+   "en": "・+40",
    "term": "end",
    "unref": true
   }

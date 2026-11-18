@@ -15,235 +15,235 @@
   {
    "id": "scen204.0001",
    "jp": "部下",
-   "en": "",
+   "en": "Subordinate",
    "term": "null"
   },
   {
    "id": "scen204.0002",
    "jp": "{FFEE}カレンと副学院長を守れ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect Karen and the Vice Headmaster!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen204.0003",
    "jp": "{v:003B}どうやらその娘の命はいらないようですね？{p}{v:003C}ならば望みどおり殺してあげましょう！{p}‥‥{v:003D}ギプト・カレン・ダイ！",
-   "en": "",
+   "en": "{v:003B}It seems you do not care whether that girl lives?{p}{v:003C}Then I shall grant your wish and kill her!{p}...{v:003D}Gipt Karen Die!",
    "term": "end"
   },
   {
    "id": "scen204.0004",
    "jp": "{v:003E}今だ！",
-   "en": "",
+   "en": "{v:003E}Now!",
    "term": "end"
   },
   {
    "id": "scen204.0005",
    "jp": "{v:003F}な、何っ？",
-   "en": "",
+   "en": "{v:003F}Wh-what?",
    "term": "end"
   },
   {
    "id": "scen204.0006",
    "jp": "{FFF3}‥{FE14}‥{FE14}{FFF4}{v:0040}私‥生きてる‥‥？",
-   "en": "",
+   "en": "{FFF3}...{FE14}...{FE14}{FFF4}{v:0040}I'm... alive...?",
    "term": "end"
   },
   {
    "id": "scen204.0007",
    "jp": "‥{v:0041}はは‥やった‥‥やったぞ、成功だ！",
-   "en": "",
+   "en": "...{v:0041}Haha... I did it... I did it! It worked!",
    "term": "end"
   },
   {
    "id": "scen204.0008",
    "jp": "{v:0042}お前の呪いはこの私が防いだ！{n}もう彼女を殺させはしない！",
-   "en": "",
+   "en": "{v:0042}I am the one who blocked your curse! I will not let you{n}kill her now!",
    "term": "end"
   },
   {
    "id": "scen204.0009",
    "jp": "{v:0044}おのれっ！{FFF9}{FFFB}{n}{v:0045}皆殺しにしろ！",
-   "en": "",
+   "en": "{v:0044}Damn you!{FFF9}{FFFB}{v:0045}Kill them all!",
    "term": "end"
   },
   {
    "id": "scen204.0010",
    "jp": "{FFEE}カレンと副学院長を守りながら戦え！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Fight while protecting Karen and the Vice Headmaster!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen204.0011",
    "jp": "{v:0046}みんな、何をしているんだ？{n}このままじゃ殺されてしまうぞ！",
-   "en": "",
+   "en": "{v:0046}Everyone, what are you doing? At this rate, we'll be{n}killed!",
    "term": "end"
   },
   {
    "id": "scen204.0012",
    "jp": "{v:0047}だ、だけど、カレンさんが‥‥。",
-   "en": "",
+   "en": "{v:0047}B-but Karen-san...",
    "term": "end"
   },
   {
    "id": "scen204.0013",
    "jp": "{v:0048}私を信用しろ！{n}彼女の呪いは私が解く！",
-   "en": "",
+   "en": "{v:0048}Trust me! I will lift her curse!",
    "term": "end"
   },
   {
    "id": "scen204.0014",
    "jp": "‥‥{v:0049}わかった。それじゃ任せるぜ！",
-   "en": "",
+   "en": "...{v:0049}All right. We're counting on you!",
    "term": "end"
   },
   {
    "id": "scen204.0015",
    "jp": "{v:008A}カレン！",
-   "en": "",
+   "en": "{v:008A}Karen!",
    "term": "end"
   },
   {
    "id": "scen204.0016",
    "jp": "{v:008B}兄さん！？",
-   "en": "",
+   "en": "{v:008B}Brother?!",
    "term": "end"
   },
   {
    "id": "scen204.0017",
    "jp": "‥‥{v:008C}ええい！",
-   "en": "",
+   "en": "...{v:008C}Hah!",
    "term": "end"
   },
   {
    "id": "scen204.0018",
    "jp": "{v:008D}ゼノス？{p}{v:008E}もう大丈夫だよ！{n}カレンさんの呪いはもう解けたから！",
-   "en": "",
+   "en": "{v:008D}Xenos?{p}{v:008E}It's all right now! Karen-san's curse has been lifted!",
    "term": "end"
   },
   {
    "id": "scen204.0019",
    "jp": "{v:008F}カレンの呪いが‥‥。{p}{FC04}‥‥{v:0090}そうか‥‥そうか‥‥！{p}{FC00}{v:0091}やい、ガムラン！{n}よくも妹を酷い目にあわせてくれたな！{n}この礼は、きっちり返させてもらうぜ！",
-   "en": "",
+   "en": "{v:008F}Karen's curse...{p}{FC04}...{v:0090}I see... I see...!{p}{FC00}{v:0091}Hey, Gamlan! You'll pay for what you put my sister{n}through! I'll make sure of it!",
    "term": "end"
   },
   {
    "id": "scen204.0020",
    "jp": "‥‥{v:0092}ええい、貴様などもう要らん！{n}ここでまとめて殺してやる！",
-   "en": "",
+   "en": "...{v:0092}Bah! I have no more use for you! I'll kill you all right{n}here!",
    "term": "end"
   },
   {
    "id": "scen204.0021",
    "jp": "{v:0093}うぅっ！{n}た、助けてくれぇ！",
-   "en": "",
+   "en": "{v:0093}Ugh! H-help me!",
    "term": "end"
   },
   {
    "id": "scen204.0022",
    "jp": "{v:0094}大変ッ！{n}この人、弱いんだ！",
-   "en": "",
+   "en": "{v:0094}Oh, no! This guy's weak!",
    "term": "end"
   },
   {
    "id": "scen204.0023",
    "jp": "{v:0095}うぅ‥‥。",
-   "en": "",
+   "en": "{v:0095}Ugh...",
    "term": "end"
   },
   {
    "id": "scen204.0024",
    "jp": "{v:0096}カレンさんが危ないよ！",
-   "en": "",
+   "en": "{v:0096}Karen-san's in danger!",
    "term": "end"
   },
   {
    "id": "scen204.0025",
    "jp": "‥{v:0097}ごめん‥みんな‥せっかく‥‥",
-   "en": "",
+   "en": "...{v:0097}I'm sorry... everyone... after all you did...",
    "term": "end"
   },
   {
    "id": "scen204.0026",
    "jp": "{v:0098}カレンさん！",
-   "en": "",
+   "en": "{v:0098}Karen-san!",
    "term": "end"
   },
   {
    "id": "scen204.0027",
    "jp": "‥{v:0099}貴様だけは、絶対に許さねぇ！",
-   "en": "",
+   "en": "...{v:0099}I'll never forgive you for this!",
    "term": "end"
   },
   {
    "id": "scen204.0028",
    "jp": "{v:009A}返り討ちにしてあげますよ！",
-   "en": "",
+   "en": "{v:009A}Then you shall die trying to avenge her!",
    "term": "end"
   },
   {
    "id": "scen204.0029",
    "jp": "グッ！？",
-   "en": "",
+   "en": "Guh?!",
    "term": "end"
   },
   {
    "id": "scen204.0030",
    "jp": "クハッ！",
-   "en": "",
+   "en": "Gah!",
    "term": "end"
   },
   {
    "id": "scen204.0031",
    "jp": "‥‥",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen204.0032",
    "jp": "おのれ‥‥",
-   "en": "",
+   "en": "Damn you...",
    "term": "end"
   },
   {
    "id": "scen204.0033",
    "jp": "力が‥‥",
-   "en": "",
+   "en": "My strength...",
    "term": "end"
   },
   {
    "id": "scen204.0034",
    "jp": "ゲフッ！",
-   "en": "",
+   "en": "Gah!",
    "term": "end"
   },
   {
    "id": "scen204.0035",
    "jp": "バカな‥‥",
-   "en": "",
+   "en": "Impossible...",
    "term": "end"
   },
   {
    "id": "scen204.0036",
    "jp": "うぅ‥‥",
-   "en": "",
+   "en": "Ugh...",
    "term": "end"
   },
   {
    "id": "scen204.0037",
    "jp": "くっ！",
-   "en": "",
+   "en": "Gh!",
    "term": "end"
   },
   {
    "id": "scen204.0038",
    "jp": "{v:009B}おのれっ！{n}覚えていろ！",
-   "en": "",
+   "en": "{v:009B}Damn you! You'll pay for this!",
    "term": "end"
   },
   {
    "id": "scen204.0039",
    "jp": "{v:009C}くっ！{n}逃げ足だけは速い奴だ。",
-   "en": "",
+   "en": "{v:009C}Tch! Running away's the one thing he's good at.",
    "term": "end"
   }
  ]

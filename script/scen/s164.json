@@ -15,151 +15,151 @@
   {
    "id": "scen164.0001",
    "jp": "アナウンス",
-   "en": "",
+   "en": "Announcer",
    "term": "null"
   },
   {
    "id": "scen164.0002",
    "jp": "１回戦開始",
-   "en": "",
+   "en": "First Round Begins",
    "term": "end"
   },
   {
    "id": "scen164.0003",
    "jp": "おい、どういう手順で戦う？{n}バトルロイヤルだから、まともに戦っても{n}ふくろにされるだけだぜ？",
-   "en": "",
+   "en": "Hey, how're we gonna play this? It's a battle royal.{n}Fight head-on and we'll just get ganged up on.",
    "term": "end"
   },
   {
    "id": "scen164.0004",
    "jp": "決まってるだろ。{n}まず弱そうな奴からつぶす！",
-   "en": "",
+   "en": "Isn't it obvious? Crush the weaklings first!",
    "term": "end"
   },
   {
    "id": "scen164.0005",
    "jp": "へっへっへ‥‥。{n}そうだな。{n}じゃあ、最初はあのガキどもだな。",
-   "en": "",
+   "en": "Heh heh heh... Right. Those brats go first, then.",
    "term": "end"
   },
   {
    "id": "scen164.0006",
    "jp": "そういうことだ。{n}行くぞ！",
-   "en": "",
+   "en": "You got it. Let's go!",
    "term": "end"
   },
   {
    "id": "scen164.0007",
    "jp": "{v:0008}もぉ～～！{n}ドジなんだからぁ！",
-   "en": "",
+   "en": "{v:0008}Ughhh! You're such a klutz!",
    "term": "end"
   },
   {
    "id": "scen164.0008",
    "jp": "{v:0054}きゃあっ！",
-   "en": "",
+   "en": "{v:0054}Aah!",
    "term": "end"
   },
   {
    "id": "scen164.0009",
    "jp": "{v:0055}ああっ！ルイセちゃんが！{n}もぅっ！敵討ちよ！",
-   "en": "",
+   "en": "{v:0055}Oh, no! Luise-chan! Grrr! I'll get them for this!",
    "term": "end"
   },
   {
    "id": "scen164.0010",
    "jp": "遠くからパチンコを撃っていれば{n}勝てると思ったのに‥‥。",
-   "en": "",
+   "en": "I thought we'd win if I just kept firing my slingshot from{n}a distance...",
    "term": "end"
   },
   {
    "id": "scen164.0011",
    "jp": "我々が勝つはずだったのに‥‥",
-   "en": "",
+   "en": "We were supposed to win...",
    "term": "end"
   },
   {
    "id": "scen164.0012",
    "jp": "初戦敗退だなんて‥‥。{n}とほほ‥‥。",
-   "en": "",
+   "en": "Out in the first round... Oh, woe is me...",
    "term": "end"
   },
   {
    "id": "scen164.0013",
    "jp": "や、やるじゃないの！！",
-   "en": "",
+   "en": "Y-you're pretty good!!",
    "term": "end"
   },
   {
    "id": "scen164.0014",
    "jp": "も、もうダメだ‥‥",
-   "en": "",
+   "en": "I-I can't go on...",
    "term": "end"
   },
   {
    "id": "scen164.0015",
    "jp": "くやし～！{n}結構、いけると思ったのに‥‥。",
-   "en": "",
+   "en": "Daaamn! I thought we had a pretty good chance...",
    "term": "end"
   },
   {
    "id": "scen164.0016",
    "jp": "勝負あり！{p}１回戦Ｄグループの勝者が決まりました！{n}見事、２回戦進出の権利を獲得したチームは‥‥",
-   "en": "",
+   "en": "The match is over!{p}We have our winner for Group D of the first round! The{n}team that has earned its place in the second round{n}is...",
    "term": "end"
   },
   {
    "id": "scen164.0017",
    "jp": "この王都ローザリア出身の兄妹。{n}兄妹ならではの絶妙なコンビプレイを{n}またもや見せつけてくれました！{p}これは今後の試合展開が、面白くなってきそうだ。",
-   "en": "",
+   "en": "This brother and sister from the Royal Capital Rosaria!{n}Once again, they've shown us the superb teamwork{n}only siblings can achieve!{p}The matches ahead are shaping up to be exciting!",
    "term": "end"
   },
   {
    "id": "scen164.0018",
    "jp": "おお～っと！{n}まずは１チームがここで脱落！",
-   "en": "",
+   "en": "Ohhh! The first team is out!",
    "term": "end"
   },
   {
    "id": "scen164.0019",
    "jp": "ついに２チームがここで脱落！{n}果たして２回戦進出のキップを手にするのは、{n}どちらのチームか！？",
-   "en": "",
+   "en": "Two teams have now been eliminated! Which of the{n}remaining teams will claim a place in the second round?!",
    "term": "end"
   },
   {
    "id": "scen164.0020",
    "jp": "そんなの、俺たちに決まってるじゃねぇか。{n}あんなガキどもに、負けてたまるかよ！",
-   "en": "",
+   "en": "Us, obviously! No way we're losing to a couple of brats!",
    "term": "end"
   },
   {
    "id": "scen164.0021",
    "jp": "ふん、確かにそうだね。{n}だけど、気を抜くんじゃないよ！{n}奴ら、魔法を使うからね！",
-   "en": "",
+   "en": "Hmph, you've got that right. But don't let your guard{n}down! They use magic!",
    "term": "end"
   },
   {
    "id": "scen164.0022",
    "jp": "ふん、確かにそうだね。{n}だけど、気を抜くんじゃないよ！{n}奴ら、魔法が使えそうだよ！",
-   "en": "",
+   "en": "Hmph, you've got that right. But don't let your guard{n}down! They look like they can use magic!",
    "term": "end"
   },
   {
    "id": "scen164.0023",
    "jp": "心配ねぇって。{n}魔術師がいるだろうからって、{n}アミュレットを買ったじゃねぇか。",
-   "en": "",
+   "en": "Don't worry. We bought an Amulet because we figured{n}there'd be a Mage, remember?",
    "term": "end"
   },
   {
    "id": "scen164.0024",
    "jp": "奴ら、魔法を使うのか‥‥。{n}アミュレットを買っといて正解だったな。",
-   "en": "",
+   "en": "So they use magic... Good thing we bought an Amulet.",
    "term": "end"
   },
   {
    "id": "scen164.0025",
    "jp": "奴ら、魔法は使えないのか？{n}アミュレットを買ったのに、無駄だったか‥‥。",
-   "en": "",
+   "en": "They can't use magic? Guess buying that Amulet was a{n}waste...",
    "term": "end"
   }
  ]

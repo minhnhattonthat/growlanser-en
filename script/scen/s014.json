@@ -311,7 +311,7 @@
   {
    "id": "scen014.0050",
    "jp": "何と答えますか？",
-   "en": "How will you respond?",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
@@ -850,13 +850,13 @@
   {
    "id": "scen014.0139",
    "jp": "プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "The sign reads '{FFEE}Luise-chan's Room{FFF1}'.",
+   "en": "The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
    "id": "scen014.0140",
    "jp": "ベッドで休みますか？",
-   "en": "Rest in bed?",
+   "en": "Rest in the bed?",
    "term": "end"
   },
   {
@@ -868,7 +868,7 @@
   {
    "id": "scen014.0142",
    "jp": "皿がある。",
-   "en": "There's a plate here.",
+   "en": "There is a plate.",
    "term": "end"
   },
   {

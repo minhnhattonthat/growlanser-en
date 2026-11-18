@@ -456,7 +456,7 @@
   {
    "id": "scen037.0074",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "{v:001B}Here to buy? Or got something to sell?",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
@@ -1499,7 +1499,7 @@
   {
    "id": "scen037.0246",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. A night's stay costs {FFEB} Elm. Would you like a{n}room?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {
@@ -1511,7 +1511,7 @@
   {
    "id": "scen037.0248",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "I'm sorry...[01BE] It seems you don't have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {

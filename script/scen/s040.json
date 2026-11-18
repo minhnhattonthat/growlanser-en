@@ -332,7 +332,7 @@
   {
    "id": "scen040.0053",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "Recover {s:FFED}'s equipment?",
+   "en": "Retrieve {s:FFED}'s equipment?",
    "term": "end"
   },
   {
@@ -970,7 +970,7 @@
   {
    "id": "scen040.0158",
    "jp": "‥‥‥‥。",
-   "en": "...",
+   "en": "......",
    "term": "end"
   },
   {
@@ -1198,7 +1198,7 @@
   {
    "id": "scen040.0196",
    "jp": "こ、怖かった‥‥。",
-   "en": "Th-that was frightening...",
+   "en": "I-I was so scared...",
    "term": "end"
   },
   {

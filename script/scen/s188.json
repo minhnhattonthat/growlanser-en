@@ -15,31 +15,31 @@
   {
    "id": "scen188.0001",
    "jp": "{FFEE}輸送隊を護衛しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Escort the supply convoy!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen188.0002",
    "jp": "こ、この俺が‥‥、{n}‥‥何と言うことだ‥‥。",
-   "en": "",
+   "en": "I-I, of all people... How could this happen...?",
    "term": "end"
   },
   {
    "id": "scen188.0003",
    "jp": "{v:002E}うわっ！",
-   "en": "",
+   "en": "{v:002E}Whoa!",
    "term": "end"
   },
   {
    "id": "scen188.0004",
    "jp": "{v:0030}そんな‥‥。",
-   "en": "",
+   "en": "{v:0030}No...",
    "term": "end"
   },
   {
    "id": "scen188.0005",
    "jp": "{v:002F}ああ、やられちゃった！",
-   "en": "",
+   "en": "{v:002F}Oh no! They got us!",
    "term": "end"
   }
  ]

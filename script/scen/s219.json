@@ -15,85 +15,85 @@
   {
    "id": "scen219.0001",
    "jp": "{FFEE}兵士と市民を守れ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect the soldiers and citizens!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen219.0002",
    "jp": "うわあっ！",
-   "en": "",
+   "en": "Aaagh!",
    "term": "end"
   },
   {
    "id": "scen219.0003",
    "jp": "す、すまない‥‥{n}父ちゃんは‥‥もう‥‥",
-   "en": "",
+   "en": "I-I'm sorry... Your dad... can't go on...",
    "term": "end"
   },
   {
    "id": "scen219.0004",
    "jp": "ああ‥そんな‥‥",
-   "en": "",
+   "en": "Ah... No...",
    "term": "end"
   },
   {
    "id": "scen219.0005",
    "jp": "まだ‥死にたく‥‥な‥‥‥",
-   "en": "",
+   "en": "I... don't want... to die...",
    "term": "end"
   },
   {
    "id": "scen219.0006",
    "jp": "く、くそ‥‥！{n}まだ、やれ‥‥る‥‥",
-   "en": "",
+   "en": "D-Damn it...! I can still... fight...",
    "term": "end"
   },
   {
    "id": "scen219.0007",
    "jp": "こんなところで死ぬなんて‥‥",
-   "en": "",
+   "en": "To think I'd die here...",
    "term": "end"
   },
   {
    "id": "scen219.0008",
    "jp": "お‥俺の‥人生は‥‥",
-   "en": "",
+   "en": "M-My... whole life...",
    "term": "end"
   },
   {
    "id": "scen219.0009",
    "jp": "ああ‥‥守りきれなかった‥‥。",
-   "en": "",
+   "en": "Oh... We couldn't protect them...",
    "term": "end"
   },
   {
    "id": "scen219.0010",
    "jp": "ふん！{n}生意気な真似をしおって！{n}これで終わりだと思うなよ！",
-   "en": "",
+   "en": "Hmph! Such insolence! Do not think this is over!",
    "term": "end"
   },
   {
    "id": "scen219.0011",
    "jp": "{v:003D}今ので最後ね？",
-   "en": "",
+   "en": "{v:003D}That was the last one, right?",
    "term": "end"
   },
   {
    "id": "scen219.0012",
    "jp": "{v:0039}殺せ！{n}殺すのだ！{p}{v:003A}ランザックの次は、この国の兵力を奪うのだ！",
-   "en": "",
+   "en": "{v:0039}Kill them! Kill them all!{p}{v:003A}After Ranzak, this country is next! Strip it of its military{n}might!",
    "term": "end"
   },
   {
    "id": "scen219.0013",
    "jp": "{v:003B}兵力を奪う？",
-   "en": "",
+   "en": "{v:003B}Strip it of its military might?",
    "term": "end"
   },
   {
    "id": "scen219.0014",
    "jp": "{v:003C}後はお前たちに任せる！{n}好きに暴れるがいい！",
-   "en": "",
+   "en": "{v:003C}I leave the rest to you! Rampage to your hearts'{n}content!",
    "term": "end"
   }
  ]

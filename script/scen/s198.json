@@ -15,241 +15,241 @@
   {
    "id": "scen198.0001",
    "jp": "覆面の男",
-   "en": "",
+   "en": "Masked Man",
    "term": "null"
   },
   {
    "id": "scen198.0002",
    "jp": "{FFEE}王母を守りながら脱出しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Escape while protecting the Queen Mother!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen198.0003",
    "jp": "{v:008C}ちょっと！{n}ぐずぐずしてると、焼け死んじゃうよ！",
-   "en": "",
+   "en": "{v:008C}Hey! If you keep dawdling, we'll burn to death!",
    "term": "end"
   },
   {
    "id": "scen198.0004",
    "jp": "{v:004F}きゃああっ！",
-   "en": "",
+   "en": "{v:004F}Aaaah!",
    "term": "end"
   },
   {
    "id": "scen198.0005",
    "jp": "{v:0051}きゃあっ、お兄ちゃん！",
-   "en": "",
+   "en": "{v:0051}Aah! Big Brother!",
    "term": "end"
   },
   {
    "id": "scen198.0006",
    "jp": "{v:0050}しまったっ！",
-   "en": "",
+   "en": "{v:0050}Damn it!",
    "term": "end"
   },
   {
    "id": "scen198.0007",
    "jp": "{v:0052}いや～っ！",
-   "en": "",
+   "en": "{v:0052}Nooo!",
    "term": "end"
   },
   {
    "id": "scen198.0008",
    "jp": "{v:0053}し、しまった！",
-   "en": "",
+   "en": "{v:0053}D-damn it!",
    "term": "end"
   },
   {
    "id": "scen198.0009",
    "jp": "{v:0054}アンジェラ様、覚悟‥‥。",
-   "en": "",
+   "en": "{v:0054}Angela-sama, prepare yourself...",
    "term": "end"
   },
   {
    "id": "scen198.0010",
    "jp": "{v:0055}‥‥‥。",
-   "en": "",
+   "en": "{v:0055}...",
    "term": "end"
   },
   {
    "id": "scen198.0011",
    "jp": "{v:0062}ああっ！",
-   "en": "",
+   "en": "{v:0062}Aah!",
    "term": "end"
   },
   {
    "id": "scen198.0012",
    "jp": "‥‥{v:0063}任務完了‥‥。",
-   "en": "",
+   "en": "...{v:0063}Mission complete...",
    "term": "end"
   },
   {
    "id": "scen198.0013",
    "jp": "{v:0064}そんな、アンジェラ様が‥‥。",
-   "en": "",
+   "en": "{v:0064}No... Angela-sama...",
    "term": "end"
   },
   {
    "id": "scen198.0014",
    "jp": "{v:0056}あとは任せましたよ。",
-   "en": "",
+   "en": "{v:0056}I leave the rest to you.",
    "term": "end"
   },
   {
    "id": "scen198.0015",
    "jp": "{v:0057}逃げるのか、ガムラン！",
-   "en": "",
+   "en": "{v:0057}Running away, Gamlan?!",
    "term": "end"
   },
   {
    "id": "scen198.0016",
    "jp": "{v:0058}貴様らごときに、{n}なぜこの私の手を汚す必要があるのです？{n}では、ごきげんよう！",
-   "en": "",
+   "en": "{v:0058}Why should I dirty my own hands dealing with the likes{n}of you? Well then, farewell!",
    "term": "end"
   },
   {
    "id": "scen198.0017",
    "jp": "‥‥{v:0059}チッ！",
-   "en": "",
+   "en": "...{v:0059}Tch!",
    "term": "end"
   },
   {
    "id": "scen198.0018",
    "jp": "ぐはっ！",
-   "en": "",
+   "en": "Guah!",
    "term": "end"
   },
   {
    "id": "scen198.0019",
    "jp": "クッ！",
-   "en": "",
+   "en": "Ugh!",
    "term": "end"
   },
   {
    "id": "scen198.0020",
    "jp": "グオォォォーッ！",
-   "en": "",
+   "en": "Graaaargh!",
    "term": "end"
   },
   {
    "id": "scen198.0021",
    "jp": "グ、ガハッ！",
-   "en": "",
+   "en": "G-gah!",
    "term": "end"
   },
   {
    "id": "scen198.0022",
    "jp": "ゲフッ！",
-   "en": "",
+   "en": "Gack!",
    "term": "end"
   },
   {
    "id": "scen198.0023",
    "jp": "うぐっ！",
-   "en": "",
+   "en": "Urgh!",
    "term": "end"
   },
   {
    "id": "scen198.0024",
    "jp": "‥‥{v:0065}こんな気持ちじゃ、負けて当然か‥‥。",
-   "en": "",
+   "en": "...{v:0065}No wonder I lost, feeling like this...",
    "term": "end"
   },
   {
    "id": "scen198.0025",
    "jp": "‥‥{v:0066}アンタ‥‥？",
-   "en": "",
+   "en": "...{v:0066}You...?",
    "term": "end"
   },
   {
    "id": "scen198.0026",
    "jp": "{v:0067}話は後だ。{n}さっさと敵を始末しちまえよ‥‥。",
-   "en": "",
+   "en": "{v:0067}Talk later. Hurry up and finish off the enemy...",
    "term": "end"
   },
   {
    "id": "scen198.0027",
    "jp": "{v:005B}だったら余計に退けないよ！",
-   "en": "",
+   "en": "{v:005B}Then that's all the more reason I can't back down!",
    "term": "end"
   },
   {
    "id": "scen198.0028",
    "jp": "{v:005C}アンジェラ様は守ります！",
-   "en": "",
+   "en": "{v:005C}I will protect Angela-sama!",
    "term": "end"
   },
   {
    "id": "scen198.0029",
    "jp": "{v:005D}この状況で退けると思うか？",
-   "en": "",
+   "en": "{v:005D}You think we can back down now?",
    "term": "end"
   },
   {
    "id": "scen198.0030",
    "jp": "‥‥{v:0061}お前、まさか‥‥。",
-   "en": "",
+   "en": "...{v:0061}You... Don't tell me...",
    "term": "end"
   },
   {
    "id": "scen198.0031",
    "jp": "{v:005E}それは無理というものだ。",
-   "en": "",
+   "en": "{v:005E}That is out of the question.",
    "term": "end"
   },
   {
    "id": "scen198.0032",
    "jp": "{v:005F}そんなことさせないモン！",
-   "en": "",
+   "en": "{v:005F}I'm not letting you do that!",
    "term": "end"
   },
   {
    "id": "scen198.0033",
    "jp": "‥‥{v:005A}邪魔をするな。{n}俺の標的は王母だけだ。",
-   "en": "",
+   "en": "...{v:005A}Stay out of my way. My only target is the Queen{n}Mother.",
    "term": "end"
   },
   {
    "id": "scen198.0034",
    "jp": "‥‥{v:0060}死にたいのか‥‥。",
-   "en": "",
+   "en": "...{v:0060}Do you want to die...?",
    "term": "end"
   },
   {
    "id": "scen198.0035",
    "jp": "{v:0068}ここにいるとヤバイ。{n}本陣に戻ろう。",
-   "en": "",
+   "en": "{v:0068}It's dangerous here. Let's head back to headquarters.",
    "term": "end"
   },
   {
    "id": "scen198.0036",
    "jp": "お待たせしました！",
-   "en": "",
+   "en": "Sorry to keep you waiting!",
    "term": "end"
   },
   {
    "id": "scen198.0037",
    "jp": "よし！{n}お前らも行け！",
-   "en": "",
+   "en": "Good! You lot, get going too!",
    "term": "end"
   },
   {
    "id": "scen198.0038",
    "jp": "はっ！",
-   "en": "",
+   "en": "Yes, Your Majesty!",
    "term": "end"
   },
   {
    "id": "scen198.0039",
    "jp": "むっ！{n}遅かったか！",
-   "en": "",
+   "en": "Hm! Too late!",
    "term": "end"
   },
   {
    "id": "scen198.0040",
    "jp": "まぁいい。{n}王母をしとめれば同じこと。{n}行くぞ！",
-   "en": "",
+   "en": "No matter. Killing the Queen Mother will serve just as{n}well. Let's go!",
    "term": "end"
   }
  ]

@@ -15,178 +15,178 @@
   {
    "id": "scen259.0001",
    "jp": "{v:0079}た、助かりました‥‥。{n}犬は苦手なんですよ‥‥。",
-   "en": "",
+   "en": "{v:0079}Th-thank you for saving me... I'm afraid of dogs...",
    "term": "end"
   },
   {
    "id": "scen259.0002",
    "jp": "{v:007A}なんで犬が苦手なの？{n}あんなの大したことないじゃない。",
-   "en": "",
+   "en": "{v:007A}Why are you scared of dogs? That little thing's nothing{n}to worry about!",
    "term": "end"
   },
   {
    "id": "scen259.0003",
    "jp": "{v:007B}子供の頃、{n}大きな犬に追いかけ回されて以来、{n}どうも犬は‥‥。",
-   "en": "",
+   "en": "{v:007B}A big dog chased me around when I was a child. Ever{n}since then, I just can't handle them...",
    "term": "end"
   },
   {
    "id": "scen259.0004",
    "jp": "{v:007C}まあ誰にでも苦手なものはあるか。",
-   "en": "",
+   "en": "{v:007C}Well, I guess everyone's scared of something.",
    "term": "end"
   },
   {
    "id": "scen259.0005",
    "jp": "{v:007D}そうですよ。",
-   "en": "",
+   "en": "{v:007D}Exactly.",
    "term": "end"
   },
   {
    "id": "scen259.0006",
    "jp": "{v:007E}ん？{n}そういえばエリオット、{n}アンタまた城を抜け出して来たの！？",
-   "en": "",
+   "en": "{v:007E}Huh? Wait a minute, Elliot! Did you sneak out of the{n}castle AGAIN?!",
    "term": "end"
   },
   {
    "id": "scen259.0007",
    "jp": "{v:007F}ええ。{n}こっそりと外にでられる所を見つけたんですよ。",
-   "en": "",
+   "en": "{v:007F}Yes. I found a place where I can slip outside unnoticed.",
    "term": "end"
   },
   {
    "id": "scen259.0008",
    "jp": "{FB00}{v:0080}それって、お城の警備に問題があるんじゃ‥‥。",
-   "en": "",
+   "en": "{FB00}{v:0080}Doesn't that mean there's something wrong with the{n}castle's security...?",
    "term": "end"
   },
   {
    "id": "scen259.0009",
    "jp": "でも、今日はもう帰ることにしますよ[01BE]",
-   "en": "",
+   "en": "But I think I'll head back for today.[01BE]",
    "term": "end"
   },
   {
    "id": "scen259.0010",
    "jp": "あんまり迷惑かけんじゃないわよ。",
-   "en": "",
+   "en": "Don't go causing too much trouble, okay?",
    "term": "end"
   },
   {
    "id": "scen259.0011",
    "jp": "{v:003B}エリオットじゃない！",
-   "en": "",
+   "en": "{v:003B}Hey, it's Elliot!",
    "term": "end"
   },
   {
    "id": "scen259.0012",
    "jp": "{v:003C}あ、どうも。",
-   "en": "",
+   "en": "{v:003C}Oh, hello.",
    "term": "end"
   },
   {
    "id": "scen259.0013",
    "jp": "{v:003D}どうしてここにいるのよ？{n}出ていいって言われたの？",
-   "en": "",
+   "en": "{v:003D}What are you doing here? Did someone say you could{n}go out?",
    "term": "end"
   },
   {
    "id": "scen259.0014",
    "jp": "{v:003E}あの‥‥抜け出して来ちゃいました‥‥。",
-   "en": "",
+   "en": "{v:003E}Um... I sort of sneaked out...",
    "term": "end"
   },
   {
    "id": "scen259.0015",
    "jp": "{v:003F}どーーしてぇ！？",
-   "en": "",
+   "en": "{v:003F}Whyyy?!",
    "term": "end"
   },
   {
    "id": "scen259.0016",
    "jp": "{v:0040}だって、だって！{n}ずっとお城の中にいるなんて、つまんないですよ！{p}{v:0041}僕もあなた達と一緒に遊びたかったんです‥‥。",
-   "en": "",
+   "en": "{v:0040}But, but! Staying in the castle all the time is so boring!{p}{v:0041}I wanted to come have fun with all of you...",
    "term": "end"
   },
   {
    "id": "scen259.0017",
    "jp": "{v:0042}って、言ってもねぇ‥‥。",
-   "en": "",
+   "en": "{v:0042}Well, even so...",
    "term": "end"
   },
   {
    "id": "scen259.0018",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen259.0019",
    "jp": "・城へ戻れと言う",
-   "en": "",
+   "en": "・Tell him to return to the castle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen259.0020",
    "jp": "・自分の面倒は自分でみろと言う",
-   "en": "",
+   "en": "・Tell him to look after himself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen259.0021",
    "jp": "・守ってやるから安心しろと言う",
-   "en": "",
+   "en": "・Reassure him you'll protect him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen259.0022",
    "jp": "‥‥{v:0043}はい‥‥。{p}{FC00}{v:0044}でも、今日くらいはいいですよね？",
-   "en": "",
+   "en": "...{v:0043}All right...{p}{FC00}{v:0044}But just for today is all right, isn't it?",
    "term": "end"
   },
   {
    "id": "scen259.0023",
    "jp": "{v:00EF}ま、いざとなったらコイツが何とかするでしょ。",
-   "en": "",
+   "en": "{v:00EF}Well, if anything happens, this guy'll figure something{n}out.",
    "term": "end"
   },
   {
    "id": "scen259.0024",
    "jp": "{v:0045}はい、ご迷惑はおかけしませんから！",
-   "en": "",
+   "en": "{v:0045}Yes! I promise I won't be any trouble!",
    "term": "end"
   },
   {
    "id": "scen259.0025",
    "jp": "{v:0046}もう、調子イイんだから★",
-   "en": "",
+   "en": "{v:0046}Oh, you sure know how to get your way!",
    "term": "end"
   },
   {
    "id": "scen259.0026",
    "jp": "{v:0047}わぁ{FFF0}♥{FFF1}{n}やっぱり頼もしいなぁ‥‥。",
-   "en": "",
+   "en": "{v:0047}Wow{FFF0}♥{FFF1} I knew I could count on you...",
    "term": "end"
   },
   {
    "id": "scen259.0027",
    "jp": "{v:0048}ちょっと、甘やかし過ぎじゃない？",
-   "en": "",
+   "en": "{v:0048}Hey, aren't you spoiling him a little too much?",
    "term": "end"
   },
   {
    "id": "scen259.0028",
    "jp": "アンタ、いつまでぶらぶらしてるつもり？",
-   "en": "",
+   "en": "How long are you planning to hang around?",
    "term": "end"
   },
   {
    "id": "scen259.0029",
    "jp": "夕方になったらお城に帰りますよ。",
-   "en": "",
+   "en": "I'll go back to the castle this evening.",
    "term": "end"
   }
  ]

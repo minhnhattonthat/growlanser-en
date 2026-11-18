@@ -15,55 +15,55 @@
   {
    "id": "scen243.0001",
    "jp": "他の仲間のところにも行ってみたらどうだ？",
-   "en": "",
+   "en": "Why not go and see some of our other companions?",
    "term": "end"
   },
   {
    "id": "scen243.0002",
    "jp": "私のところへ来ていただけるのは{n}うれしいのですが、{n}他の仲間への気遣いもお忘れなきよう‥‥。",
-   "en": "",
+   "en": "I am glad you have come to see me, but please{n}remember to spare a thought for our other{n}companions...",
    "term": "end"
   },
   {
    "id": "scen243.0003",
    "jp": "ふっ、お前たちと共に休暇を{n}過ごすことになるとはな‥‥。",
-   "en": "",
+   "en": "Heh. To think I would end up spending my leave with all{n}of you...",
    "term": "end"
   },
   {
    "id": "scen243.0004",
    "jp": "いい天気だな。{n}こんな日は外にいるだけで体が休まる。",
-   "en": "",
+   "en": "Fine weather today. Just being outdoors on a day like{n}this rests the body.",
    "term": "end"
   },
   {
    "id": "scen243.0005",
    "jp": "剣でもなんでも、{n}心に余裕がないとダメだな。",
-   "en": "",
+   "en": "Swordsmanship, or anything else, suffers if your mind{n}is not at ease.",
    "term": "end"
   },
   {
    "id": "scen243.0006",
    "jp": "マイ＝ロード‥‥。{n}共に休暇を過ごす幸せ、噛みしめております。",
-   "en": "",
+   "en": "My Lord... I am savoring the happiness of spending my{n}leave with you.",
    "term": "end"
   },
   {
    "id": "scen243.0007",
    "jp": "良いお日和です。{n}こんな日は外にいるだけで心が休まります。",
-   "en": "",
+   "en": "What a lovely day. Simply being outdoors in weather like{n}this puts the heart at ease.",
    "term": "end"
   },
   {
    "id": "scen243.0008",
    "jp": "差し出がましいようですが、{n}休暇の時は身体だけでなく、心もお休め下さい。",
-   "en": "",
+   "en": "I hope I am not overstepping, but please rest your{n}mind as well as your body during your leave.",
    "term": "end"
   },
   {
    "id": "scen243.0009",
    "jp": "どこ行こうか？",
-   "en": "",
+   "en": "Where should I go?",
    "term": "end"
   }
  ]

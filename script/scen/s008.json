@@ -51,13 +51,13 @@
   {
    "id": "scen008.0007",
    "jp": "ローランディア王城",
-   "en": "Rolandia Castle",
+   "en": "Rolandia Royal Castle",
    "term": "end"
   },
   {
    "id": "scen008.0008",
    "jp": "ローランディア王城へようこそ。",
-   "en": "Welcome to Rolandia Castle.",
+   "en": "Welcome to Rolandia Royal Castle.",
    "term": "end"
   },
   {
@@ -87,7 +87,7 @@
   {
    "id": "scen008.0013",
    "jp": "頑張ってくれよ！",
-   "en": "Give it your all!",
+   "en": "Give it your best!",
    "term": "end"
   },
   {
@@ -105,13 +105,13 @@
   {
    "id": "scen008.0016",
    "jp": "へい、いらっしゃい！",
-   "en": "Step right up! Welcome!",
+   "en": "Hey there! Welcome!",
    "term": "end"
   },
   {
    "id": "scen008.0017",
    "jp": "はっ、しまった‥‥[01BE]{n}家の手伝いをしていた時のくせがつい‥‥[01BE]",
-   "en": "Ah! Whoops...[01BE] Old habit from helping out at home...[01BE]",
+   "en": "Ah, whoops...[01BE] Old habits from helping out at home...[01BE]",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen008.0028",
    "jp": "においにつられて来てみたものの、{n}つまみ食いなんて出来ないし‥‥。{n}見てしまったからよけい腹が減った‥‥。",
-   "en": "I followed the smell here, but it's not as though I can{n}sneak a bite... Now that I've seen the food, I'm even{n}hungrier...",
+   "en": "The smell drew me in, but it's not like I can sneak a{n}bite... Now that I've seen the food, I'm even hungrier...",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen008.0032",
    "jp": "それにしてもこの魚‥‥。{n}う～ん‥‥。",
-   "en": "But this fish... Hmm...",
+   "en": "Still, this fish... Hmm...",
    "term": "end"
   },
   {
@@ -362,7 +362,7 @@
   {
    "id": "scen008.0058",
    "jp": "あっ、こんにちは。{n}お城での生活はひまですよ。",
-   "en": "Oh, hello. There's not much to do here in the castle.",
+   "en": "Oh, hello. Life at the castle is pretty dull.",
    "term": "end"
   },
   {
@@ -422,7 +422,7 @@
   {
    "id": "scen008.0068",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. It is time for your next assignment.",
+   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
    "term": "end"
   },
   {
@@ -811,7 +811,7 @@
   {
    "id": "scen008.0132",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings (Sightseeing)",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -852,7 +852,7 @@
   {
    "id": "scen008.0138",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings (Sightseeing)",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -1115,13 +1115,13 @@
   {
    "id": "scen008.0181",
    "jp": "どうした？{n}迷子にでもなったのか？",
-   "en": "What's wrong? Did you get lost?",
+   "en": "What's wrong? Get yourself lost?",
    "term": "end"
   },
   {
    "id": "scen008.0182",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "The third floor houses the private chambers of the{n}King and Princess Leticia.",
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
    "term": "end"
   },
   {

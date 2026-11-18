@@ -15,235 +15,235 @@
   {
    "id": "scen091.0001",
    "jp": "立て札",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen091.0002",
    "jp": "作業員",
-   "en": "",
+   "en": "Worker",
    "term": "null"
   },
   {
    "id": "scen091.0003",
    "jp": "旅人",
-   "en": "",
+   "en": "Traveler",
    "term": "null"
   },
   {
    "id": "scen091.0004",
    "jp": "道標",
-   "en": "",
+   "en": "Signpost",
    "term": "null"
   },
   {
    "id": "scen091.0005",
    "jp": "看板",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen091.0006",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen091.0007",
    "jp": "{FFF0}この先、メディス村{FFF1}",
-   "en": "",
+   "en": "{FFF0}Medis Village Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0008",
    "jp": "{FFF0}この先、ラシェル保養地{FFF1}",
-   "en": "",
+   "en": "{FFF0}Rachelle Health Resort Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0009",
    "jp": "土砂崩れが起きていて、先へ進めそうにない。",
-   "en": "",
+   "en": "A landslide appears to have blocked the way forward.",
    "term": "end"
   },
   {
    "id": "scen091.0010",
    "jp": "この土砂を取り除くには、{n}けっこうな時間がかかると思うよ。",
-   "en": "",
+   "en": "I think it'll take quite a while to clear all this earth.",
    "term": "end"
   },
   {
    "id": "scen091.0011",
    "jp": "いきなり土砂崩れがあったんだ。{n}まったく、大変なことだよ。",
-   "en": "",
+   "en": "The landslide came out of nowhere. What a mess.",
    "term": "end"
   },
   {
    "id": "scen091.0012",
    "jp": "知り合いがラシェルにある保養所に入院していてね。{n}お見舞いに行こうと思ったんだが‥‥。",
-   "en": "",
+   "en": "Someone I know is a patient at the sanatorium in{n}Rachelle. I was hoping to pay a visit, but...",
    "term": "end"
   },
   {
    "id": "scen091.0013",
    "jp": "{FFF0}この先、遺跡{FFF1}",
-   "en": "",
+   "en": "{FFF0}Ruins Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0014",
    "jp": "　{n}　　　{FFF0}ブローニュ村入り口{FFF1}",
-   "en": "",
+   "en": "{FFF0}Boulogne Village Entrance{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0015",
    "jp": "{FFEF}北　ラシェル、メディス村方面{n}{FFF0}西　ブローニュ村{n}{FFEE}東　魔法学院方面{FFF1}",
-   "en": "",
+   "en": "{FFEF}North: Toward Rachelle and Medis Village{n}{FFF0}West: Boulogne Village{n}{FFEE}East: Toward the Magic Academy{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0016",
    "jp": "　{FFF0}この先、グランシル{FFF1}{n}　　　　熱烈歓迎{n}グランシル市　　観光協会",
-   "en": "",
+   "en": "{FFF0}Grancil Ahead{FFF1}{n}A Warm Welcome Awaits!{n}Grancil City Tourism Association",
    "term": "end"
   },
   {
    "id": "scen091.0017",
    "jp": "　{n}　　　　　　　ここより北、魔法学院",
-   "en": "",
+   "en": "Magic Academy to the North",
    "term": "end"
   },
   {
    "id": "scen091.0018",
    "jp": "‥‥あっ‥‥。",
-   "en": "",
+   "en": "...Oh...",
    "term": "end"
   },
   {
    "id": "scen091.0019",
    "jp": "ねぇ、お兄ちゃん。{n}確か、旅行に行けるのって５人だったよね？",
-   "en": "",
+   "en": "Big Brother, five people can go on the trip, right?",
    "term": "end"
   },
   {
    "id": "scen091.0020",
    "jp": "うん、そうだよ。",
-   "en": "",
+   "en": "Yep, that's right.",
    "term": "end"
   },
   {
    "id": "scen091.0021",
    "jp": "アリオストさんも誘ってあげたらどうかな？",
-   "en": "",
+   "en": "Why don't we invite Ariost-san, too?",
    "term": "end"
   },
   {
    "id": "scen091.0022",
    "jp": "アリオストさんかぁ‥‥。",
-   "en": "",
+   "en": "Ariost-san, huh...",
    "term": "end"
   },
   {
    "id": "scen091.0023",
    "jp": "きっとフェザリアンの事、知りたいと思うんだ。",
-   "en": "",
+   "en": "I'm sure he'd like to learn about the Featherians.",
    "term": "end"
   },
   {
    "id": "scen091.0024",
    "jp": "確かにな。{n}戻って、誘ってやったらどうだ？",
-   "en": "",
+   "en": "True enough. Why not go back and invite him?",
    "term": "end"
   },
   {
    "id": "scen091.0025",
    "jp": "　{n}　　　　　　この先、コムスプリングス",
-   "en": "",
+   "en": "Comsprings Ahead",
    "term": "end"
   },
   {
    "id": "scen091.0026",
    "jp": "あぁ、お前たちか‥‥。{n}念のため、通行手形を提示してもらおう。",
-   "en": "",
+   "en": "Ah, it's you... I'll need to see your travel pass, just to{n}be sure.",
    "term": "end"
   },
   {
    "id": "scen091.0027",
    "jp": "ここから先はバーンシュタイン王国だ。{n}用のない者は通れぬぞ。{p}通行手形を提示せよ。",
-   "en": "",
+   "en": "The kingdom of Burnstein lies beyond here. No one{n}passes without a reason to enter.{p}Present your travel pass.",
    "term": "end"
   },
   {
    "id": "scen091.0028",
    "jp": "ん？{n}お前たちか。{n}念のため、通行手形を提示してくれ。",
-   "en": "",
+   "en": "Hm? Oh, it's you. Show me your travel pass, just to be{n}sure.",
    "term": "end"
   },
   {
    "id": "scen091.0029",
    "jp": "通行手形なんて持ってないよね？",
-   "en": "",
+   "en": "We don't have a travel pass, do we?",
    "term": "end"
   },
   {
    "id": "scen091.0030",
    "jp": "手形を発行して貰わないとダメだな。",
-   "en": "",
+   "en": "We'll have to get one issued.",
    "term": "end"
   },
   {
    "id": "scen091.0031",
    "jp": "確か学院長が発行してくれるって言ってたよね？",
-   "en": "",
+   "en": "The headmaster said he'd issue one for us, didn't he?",
    "term": "end"
   },
   {
    "id": "scen091.0032",
    "jp": "それじゃ魔法学院へ戻らなきゃ。",
-   "en": "",
+   "en": "Then we'll have to go back to the Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen091.0033",
    "jp": "ここは現在封鎖中だ。{n}おとなしく、戻れ！",
-   "en": "",
+   "en": "This route is currently sealed off. Turn back, and don't{n}cause any trouble!",
    "term": "end"
   },
   {
    "id": "scen091.0034",
    "jp": "ローランディアへ戻るのだな？",
-   "en": "",
+   "en": "You're returning to Rolandia, then?",
    "term": "end"
   },
   {
    "id": "scen091.0035",
    "jp": "どうした？{n}通らないのか？",
-   "en": "",
+   "en": "What's wrong? Aren't you going through?",
    "term": "end"
   },
   {
    "id": "scen091.0036",
    "jp": "うむ、正規の手形だな。{n}行き先はコムスプリングス‥‥。{p}なるほど。{n}お前たちが闘技大会の優勝者か。{n}今年の勝者は、思ったよりもきゃしゃだな。",
-   "en": "",
+   "en": "Hmm, the pass is in order. Your destination is{n}Comsprings...{p}I see. You're the tournament champions. This year's{n}winners are more slightly built than I expected.",
    "term": "end"
   },
   {
    "id": "scen091.0037",
    "jp": "ゆっくり温泉で休んでこい。",
-   "en": "",
+   "en": "Take your time and relax in the hot springs.",
    "term": "end"
   },
   {
    "id": "scen091.0038",
    "jp": "通ってよし。",
-   "en": "",
+   "en": "You may pass.",
    "term": "end"
   },
   {
    "id": "scen091.0039",
    "jp": "行き先は水晶鉱山か‥‥。{n}うむ、正規の手形だな。",
-   "en": "",
+   "en": "Your destination is the crystal mine... Hmm, the pass is{n}in order.",
    "term": "end"
   }
  ]

@@ -75,7 +75,7 @@
   {
    "id": "scen028.0011",
    "jp": "せっかくの休暇なのにさあ、{n}土砂崩れでラシェルに帰れないんだよ‥‥。{p}この前も追試で帰れなかったし‥‥。{n}やばいなぁ‥‥。",
-   "en": "I finally get a vacation, and now a landslide's keeping me{n}from going home to Rachelle...{p}Last time, I couldn't go home because I had to retake{n}an exam... This isn't good...",
+   "en": "We finally get a break, and a landslide keeps me from{n}going home to Rachelle...{p}Last time, I couldn't go because I had to retake an{n}exam... This isn't good...",
    "term": "end"
   },
   {
@@ -162,7 +162,7 @@
   {
    "id": "scen028.0024",
    "jp": "いらっしゃい！{n}栄養満点で頭もさえる『マホガク定食』はどうだい？",
-   "en": "Welcome! How about an 'Academy Special'? Packed with{n}nutrition to keep your mind sharp!",
+   "en": "Welcome! How about an 'Academy Special'? Packed with{n}nutrients to keep your mind sharp!",
    "term": "end"
   },
   {
@@ -250,13 +250,13 @@
   {
    "id": "scen028.0038",
    "jp": "最近の学生って魔力は強いんだけど、{n}向学心に欠けるのよね‥‥。{n}教えがいのある学生はいないのかしら？",
-   "en": "Students these days have strong magic, but they lack{n}the desire to learn... I wonder if there's anyone who{n}would make teaching worthwhile?",
+   "en": "Students these days have plenty of magical power,{n}but so little desire to learn... I wonder if there are any{n}students who would make teaching worthwhile.",
    "term": "end"
   },
   {
    "id": "scen028.0039",
    "jp": "エレベーターは便利だけど、{n}運動不足が気になるよ。{n}まあ、屋上まで階段で上るのはごめんだけどね。",
-   "en": "The elevator's convenient, but I'm worried I'm not{n}getting enough exercise. Still, there's no way I'm taking{n}the stairs all the way to the rooftop.",
+   "en": "The elevator's convenient, but I worry I'm not getting{n}enough exercise. Still, I wouldn't want to take the stairs{n}all the way to the roof.",
    "term": "end"
   },
   {
@@ -274,13 +274,13 @@
   {
    "id": "scen028.0042",
    "jp": "うーん、悩んでるって言えば悩んでるかな。",
-   "en": "Hmm... I guess you could say I'm worried.",
+   "en": "Hmm... I suppose you could say something's bothering{n}me.",
    "term": "end"
   },
   {
    "id": "scen028.0043",
    "jp": "よかったら聞かせてよ。",
-   "en": "You can tell me, if you'd like.",
+   "en": "You can tell me, if you like.",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen028.0101",
    "jp": "グローシアンは元々特別な存在ではなかった。{n}言いかえれば、誰しもがグローシアンであった。{p}だが、我々がこの世界にやって来て以来、{n}強力な魔法は封じられ、ごく希に、{n}以前同様の魔力を使える存在が生まれる。{n}これがグローシアンである。{p}この世界は不安定な重なりの上になりたっており、{n}もとの世界の影響が強くなる時がある。{n}この時、決まって日食や月食と言った現象が{n}確認される。{p}この間に生まれた者は本能的に元の世界と波長が合い、{n}元の世界の魔素であるグローシュを持ち出す事が{n}出来る。{p}基本的に日食時に生まれたグローシアンの方が{n}月食時に生まれた者より、{n}強いグローシュを持つことが確認されている。{p}特に皆既日食時に生まれたグローシアンは{n}想像を絶する潜在能力を持ち、{n}通常の人間がどのような修練を積もうが{n}この能力に到達することは不可能である。{p}マクスウェル魔法学院長　著{n}『グローシアンの発生』",
-   "en": "Growsians were not originally exceptional beings. In{n}other words, everyone was once a Growsian.{p}Since we came to this world, however, powerful magic{n}has been sealed away. Only very rarely is someone born{n}who can wield the same magical power as before.{p}These individuals are Growsians.{p}This world exists in an unstable overlap, and at times{n}the influence of our original world grows stronger.{n}Whenever this occurs, phenomena such as solar or{p}lunar eclipses are observed.{p}Those born during these periods are instinctively{n}attuned to the original world and can draw out Grosh,{n}the magical essence of that world.{p}In general, Growsians born during solar eclipses have{n}been confirmed to possess stronger Grosh than those{n}born during lunar eclipses.{p}In particular, Growsians born during total solar eclipses{n}possess potential beyond imagination. No amount of{n}training can enable an ordinary human to attain such{p}abilities.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Emergence of Growsians'",
+   "en": "Growsians were not originally exceptional beings. In{n}other words, everyone was a Growsian.{p}However, since we came to this world, powerful magic{n}has been sealed away. Only very rarely is someone born{n}who can wield the same magic as before. Such{p}individuals are Growsians.{p}This world rests upon an unstable overlap, and there{n}are times when the influence of our original world grows{n}stronger. These periods invariably coincide with{p}phenomena such as solar and lunar eclipses.{p}Those born during these periods are instinctively{n}attuned to the original world and can draw upon its{n}magical essence, Grosh.{p}It has been established that, in general, Growsians born{n}during solar eclipses possess stronger Grosh than{n}those born during lunar eclipses.{p}In particular, Growsians born during total solar eclipses{n}possess unimaginable potential. No amount of training{n}can enable an ordinary human to attain such power.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Emergence of Growsians'",
    "term": "end"
   },
   {
@@ -667,7 +667,7 @@
   {
    "id": "scen028.0103",
    "jp": "元々は『偉大な力（グローシュ）を有する者』という{n}語意から発生した言葉であり、その名の通り、{n}グローシアンは人間の魔力を越えた{n}強大な魔力を有する。{p}その全ての能力はいまだ明かされてはいないが、{n}人間が持つ最高位呪文のテレポートを例に{n}その説明を行う。{p}人間の場合、術者のみが有視界内でのテレポートを{n}行うことが限界と言われており、{n}この距離を伸ばそうとした場合、{n}サポート用の魔水晶を大量に必要とする。{p}しかし皆既日食のグローシアンならば、{n}１０人程度の人員を、既知の場所へ任意に{n}転送することが、独力で可能である。{n}しかも、この魔法詠唱の時間はきわめて短い。{p}現在の研究では、グローシアンの魔力波長には、{n}人間にはない成分が含まれることが観測されている。{p}マクスウェル魔法学院長　著{n}『グローシアンの特殊能力』",
-   "en": "The word originally meant 'one who possesses great{n}power (Grosh).' As the name suggests, Growsians{n}possess immense magical power that exceeds that of{p}humans.{p}Although the full extent of their abilities remains{n}unknown, we shall illustrate them using Teleport, the{n}highest-level spell available to humans.{p}For a human, the limit is said to be teleporting only{n}oneself to a destination within sight. Extending this{n}range requires large quantities of magic crystals to{p}support the spell.{p}A Growsian born during a total solar eclipse, however,{n}can transport around ten people to any known location{n}without assistance. Furthermore, the time required to{p}chant this spell is extremely short.{p}Current research has detected components in the{n}magical wavelengths of Growsians that are absent in{n}those of humans.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
+   "en": "The term originally meant 'one who possesses great{n}power (Grosh).' As the name suggests, Growsians{n}possess immense magical power surpassing that of{p}humans.{p}The full extent of their abilities remains unknown, but{n}the following explanation uses Teleport, the{n}highest-level spell available to humans, as an example.{p}Humans are said to be limited to teleporting only{n}themselves, and only within their field of vision.{n}Extending this range requires the support of a large{p}quantity of magic crystals.{p}A Growsian born during a total solar eclipse, however,{n}can single-handedly transport around ten people to any{n}known location at will. Furthermore, the chanting time{p}for this spell is extremely short.{p}Current research has observed components in the{n}wavelengths of Growsian magic that are absent from{n}human magic.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
    "term": "end"
   },
   {
@@ -679,7 +679,7 @@
   {
    "id": "scen028.0105",
    "jp": "この学院より北東に位置する山の中、{n}巨大な水晶の鉱脈が見つかった。{n}しかし最初に見つかった横穴は、{n}とある事故のため現在は封じられている。{p}現在では露天掘りを用いた掘削法に{n}切り替えられているが、これは測定の結果、{n}水晶が巨大なピラミッド型であることが{n}分かったためである。{p}この鉱山で産出される魔水晶は、{n}他の地域で発見される魔水晶より、多くの魔力を{n}含有していることが特徴であり、現在は悪用を{n}避けるため、魔法学院が管理を行っている。",
-   "en": "A vast crystal vein was discovered in the mountains{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed due to a certain accident.{p}Excavation has since switched to open-pit mining, as{n}measurements revealed that the crystal forms a{n}gigantic pyramid.{p}The magic crystals produced by this mine contain more{n}magical power than those found in other regions. The{n}Magic Academy currently oversees the mine to prevent{p}their misuse.",
+   "en": "A vast crystal vein was discovered within a mountain{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed following a certain accident.{p}Mining has since shifted to open-pit excavation, as{n}measurements revealed that the crystal forms an{n}enormous pyramid.{p}The magic crystals produced by this mine are{n}distinguished by their greater magical energy compared{n}with those found elsewhere. The Magic Academy{p}currently oversees the mine to prevent their misuse.",
    "term": "end"
   },
   {
@@ -691,7 +691,7 @@
   {
    "id": "scen028.0107",
    "jp": "１００年前、人間とグローシアンの間に{n}戦争が起こった。{n}だがどこからか現れた化け物のため、{n}人間の人口は激減、戦争は中断された。{p}その際、数人のグローシアンが人間のために{n}化け物と命をかけて戦い、互いに姿を消した。{p}だが時を同じくして、全てのグローシアンも姿を消し、{n}彼らの支配は消えてしまった。{p}なぜ支配を行っていたグローシアンがいなくなったか、{n}化け物の正体は何だったのか、{n}いまだ真実は解明されていない。",
-   "en": "A hundred years ago, war broke out between humans{n}and Growsians. However, a monster appeared from{n}parts unknown and devastated the human population,{p}bringing the war to a halt.{p}At that time, several Growsians risked their lives{n}fighting the monster for humanity's sake. Both they{n}and the monster vanished.{p}Yet all the other Growsians vanished at the same time,{n}bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true nature? The truth remains unknown.",
+   "en": "A hundred years ago, war broke out between humans{n}and Growsians. However, a monster of unknown origin{n}appeared, drastically reducing the human population{p}and bringing the war to a halt.{p}Several Growsians risked their lives fighting the{n}monster for humanity's sake, and both they and the{n}monster vanished.{p}At the same time, however, all other Growsians also{n}disappeared, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth remains unknown.",
    "term": "end"
   },
   {
@@ -703,7 +703,7 @@
   {
    "id": "scen028.0109",
    "jp": "この大陸には大きく分けて２種類の遺跡がある。{n}１つは１００年ほど前にその姿を消した{n}グローシアン達が残した物。{p}もう１つは、それより以前に地上を去った{n}フェザリアンが残した物である。{p}グローシアンの残した遺跡には、{n}出土品と呼べる物は少ない。{n}これは彼らが我々人間と同じ種族であることが大きい。{p}彼らの遺跡のほとんどは、目的を持った施設であり、{n}その中には原理や目的の分からない機器が{n}置かれている。{p}対するフェザリアンの遺跡からは我々にない技術、{n}魔法などが多く発見された。{p}だが残されていた物の多くは書物であり、{n}長年に渡り解読作業を行ったのだが、{n}ほとんどが倫理、道徳を語った物であった。",
-   "en": "The ruins on this continent fall into two broad{n}categories. The first consists of those left by the{n}Growsians, who vanished roughly a hundred years ago.{p}The second consists of those left by the Featherians,{n}who departed from the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they are of the same race as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain devices whose workings and{n}purposes are unknown.{p}Featherian ruins, by contrast, have yielded many{n}discoveries of technology and magic unknown to us.{p}However, most of what they left behind consisted of{n}books. We spent many years deciphering them, only to{n}find that nearly all discussed ethics and morality.",
+   "en": "The ruins on this continent fall into two broad{n}categories. The first are those left by the Growsians,{n}who disappeared about a hundred years ago.{p}The second are those left by the Featherians, who{n}departed the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they belong to the same race as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain devices whose workings or{n}purpose remain unknown.{p}Featherian ruins, by contrast, have yielded many{n}discoveries of technology and magic unknown to us.{p}However, most of what they left behind was books. We{n}spent many years deciphering them, only to find that{n}nearly all discussed ethics and morality.",
    "term": "end"
   },
   {
@@ -988,7 +988,7 @@
   {
    "id": "scen028.0156",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of immeasurable value to{n}our research.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
    "term": "end"
   },
   {
@@ -1171,7 +1171,7 @@
   {
    "id": "scen028.0185",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "To consult the important documents kept here, you{n}must have permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or Vice{n}Headmaster.{p}Do you have a permit?",
    "term": "end"
   },
   {
@@ -1183,19 +1183,19 @@
   {
    "id": "scen028.0187",
    "jp": "それでは閲覧出来ません。",
-   "en": "Then I cannot allow you to consult them.",
+   "en": "Then you may not consult them.",
    "term": "end"
   },
   {
    "id": "scen028.0188",
    "jp": "面倒くさいなぁ。",
-   "en": "What a hassle.",
+   "en": "What a pain.",
    "term": "end"
   },
   {
    "id": "scen028.0189",
    "jp": "仕方ないよ。{n}貴重な書物は、持ち出しできないように{n}なっているんだから。",
-   "en": "It can't be helped. They have to make sure the rare{n}books aren't taken out.",
+   "en": "It can't be helped. You aren't allowed to take valuable{n}books out, after all.",
    "term": "end"
   },
   {
@@ -1312,7 +1312,7 @@
   {
    "id": "scen028.0207",
    "jp": "う～ん、あと一歩なのに‥‥！",
-   "en": "Hmm... I'm so close...!",
+   "en": "Hmm, I'm so close...!",
    "term": "end"
   },
   {
@@ -1324,7 +1324,7 @@
   {
    "id": "scen028.0209",
    "jp": "教授は透明になる薬を研究しているの。",
-   "en": "The Professor is researching a potion that turns{n}people invisible.",
+   "en": "The Professor is researching a potion that makes you{n}invisible.",
    "term": "end"
   },
   {
@@ -1336,7 +1336,7 @@
   {
    "id": "scen028.0211",
    "jp": "ああ、ブレーム山にしか生えない{n}クリアノ草があれば‥‥。",
-   "en": "Ah, if only I had some Kuriano Herb... It only grows on{n}Mount Brehm.",
+   "en": "Ah, if only I had some Kuriano Herb, which grows only on{n}Mount Brehm...",
    "term": "end"
   },
   {
@@ -1828,25 +1828,25 @@
   {
    "id": "scen028.0290",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "I'm researching earthquake prediction. Unusual clouds{n}seem to form before earthquakes, so I watch the{n}clouds like this.{p}I call them 'earthquake clouds.' They're thin bands of{n}cloud that form an enormous ring around the{n}epicenter.{p}They're the only clouds that don't drift with the wind,{n}so they're easy to spot. But no one believes me...",
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around the{n}epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
    "term": "end"
   },
   {
    "id": "scen028.0291",
    "jp": "どうやら地震雲は出てないようだな。",
-   "en": "Looks like there aren't any earthquake clouds.",
+   "en": "There don't seem to be any earthquake clouds.",
    "term": "end"
   },
   {
    "id": "scen028.0292",
    "jp": "怖いよ～、時空が歪んで２つの世界が離れたら{n}世界の破滅だよ～！{p}観測しなければ気づかないから{n}怖がる必要もないのに‥‥。",
-   "en": "I'm scaaared! If space-time warps and the two worlds{n}drift apart, the world will be destroyed!{p}If I hadn't been observing it, I wouldn't have noticed,{n}and I wouldn't have anything to be scared of...",
+   "en": "I'm scaaared! If space-time distorts and the two{n}worlds separate, it'll be the end of the world!{p}If I weren't watching, I wouldn't notice, so I wouldn't{n}have to be scared...",
    "term": "end"
   },
   {
    "id": "scen028.0293",
    "jp": "ここからの眺め、大好きなの。{n}人間がこんなに高い建物を造れるなんて。",
-   "en": "I love the view from here. To think humans can build{n}something this tall!",
+   "en": "I love the view from here. To think humans can build{n}something so tall...",
    "term": "end"
   },
   {
@@ -1969,7 +1969,7 @@
   {
    "id": "scen028.0312",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "Um, Big Brother? We'll get in trouble if we cast{n}powerful spells inside the Academy...",
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
    "term": "end"
   }
  ]

@@ -621,13 +621,13 @@
   {
    "id": "scen057.0102",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you for staying with us. Safe travels.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {
    "id": "scen057.0103",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Dear guest...[01BE] It seems you do not have enough{n}money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -1024,7 +1024,7 @@
   {
    "id": "scen057.0168",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We have all sorts of goods for sale.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
@@ -1050,7 +1050,7 @@
   {
    "id": "scen057.0172",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else you need?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {

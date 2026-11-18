@@ -15,391 +15,391 @@
   {
    "id": "scen194.0001",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
+   "en": "Burnstein Captain",
    "term": "null"
   },
   {
    "id": "scen194.0002",
    "jp": "ランザック兵",
-   "en": "",
+   "en": "Ranzak Soldier",
    "term": "null"
   },
   {
    "id": "scen194.0003",
    "jp": "{FFEE}ウェーバーやランザック兵を守れ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect Weber and the Ranzak soldiers!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen194.0004",
    "jp": "あの程度の兵で、この俺様を止める気か！",
-   "en": "",
+   "en": "You think soldiers of that caliber can stop the likes of{n}me?!",
    "term": "end"
   },
   {
    "id": "scen194.0005",
    "jp": "充分時間をかせいだな‥‥。{n}よし！　我々も退くぞ！",
-   "en": "",
+   "en": "We've bought enough time... Good! We're pulling back{n}too!",
    "term": "end"
   },
   {
    "id": "scen194.0006",
    "jp": "{v:0031}私がしんがりを務める！{n}皆は急ぎガラシールズへもどれ！",
-   "en": "",
+   "en": "{v:0031}I will bring up the rear! Everyone, hurry back to{n}Galashiels!",
    "term": "end"
   },
   {
    "id": "scen194.0007",
    "jp": "後少しだけ、時間をかせぐか‥‥。",
-   "en": "",
+   "en": "I'll buy just a little more time...",
    "term": "end"
   },
   {
    "id": "scen194.0008",
    "jp": "{v:001E}すぐに敵の本隊が到着する！{n}時間はかけてられんぞ！",
-   "en": "",
+   "en": "{v:001E}The enemy's main force will be here soon! We have no{n}time to waste!",
    "term": "end"
   },
   {
    "id": "scen194.0009",
    "jp": "{v:001F}お前たちは！？",
-   "en": "",
+   "en": "{v:001F}You lot?!",
    "term": "end"
   },
   {
    "id": "scen194.0010",
    "jp": "{v:0020}助けに来たぜ、ウェーバー。",
-   "en": "",
+   "en": "{v:0020}We've come to help, Weber.",
    "term": "end"
   },
   {
    "id": "scen194.0011",
    "jp": "{v:0021}アタシ達にはルイセちゃんがいるから、{n}回り込めたんだ★",
-   "en": "",
+   "en": "{v:0021}We've got Luise-chan with us, so we could get around{n}them!",
    "term": "end"
   },
   {
    "id": "scen194.0012",
    "jp": "{v:0022}これは心強い援軍だ。{n}よし、いっきに敵を倒すぞ！",
-   "en": "",
+   "en": "{v:0022}Now these are reinforcements we can count on. Right,{n}let's finish the enemy in one stroke!",
    "term": "end"
   },
   {
    "id": "scen194.0013",
    "jp": "{v:0023}おぉっ！",
-   "en": "",
+   "en": "{v:0023}Yeah!",
    "term": "end"
   },
   {
    "id": "scen194.0014",
    "jp": "もう力が出ねぇ‥‥",
-   "en": "",
+   "en": "I ain't got any strength left...",
    "term": "end"
   },
   {
    "id": "scen194.0015",
    "jp": "王都へは、何があっても‥‥",
-   "en": "",
+   "en": "They mustn't reach the royal capital... no matter{n}what...",
    "term": "end"
   },
   {
    "id": "scen194.0016",
    "jp": "娘よ‥‥。{n}すまぬ‥‥。",
-   "en": "",
+   "en": "My daughter... Forgive me...",
    "term": "end"
   },
   {
    "id": "scen194.0017",
    "jp": "なんてザマだ‥‥",
-   "en": "",
+   "en": "What a sorry sight I am...",
    "term": "end"
   },
   {
    "id": "scen194.0018",
    "jp": "あ、あぁ‥‥。{n}ランザックの兵隊さん達が‥‥。",
-   "en": "",
+   "en": "A-ah... The soldiers of Ranzak...",
    "term": "end"
   },
   {
    "id": "scen194.0019",
    "jp": "私の部下が‥‥、全滅だと！？",
-   "en": "",
+   "en": "My men... wiped out?!",
    "term": "end"
   },
   {
    "id": "scen194.0020",
    "jp": "く‥くそ‥‥！",
-   "en": "",
+   "en": "D-damn it...!",
    "term": "end"
   },
   {
    "id": "scen194.0021",
    "jp": "ウェーバー！",
-   "en": "",
+   "en": "Weber!",
    "term": "end"
   },
   {
    "id": "scen194.0022",
    "jp": "あ、あぁ‥‥。{n}助けられなかった‥‥。",
-   "en": "",
+   "en": "A-ah... We couldn't save them...",
    "term": "end"
   },
   {
    "id": "scen194.0023",
    "jp": "この俺が、こいつらごときに‥‥",
-   "en": "",
+   "en": "Me, beaten by the likes of them...",
    "term": "end"
   },
   {
    "id": "scen194.0024",
    "jp": "バカな‥‥",
-   "en": "",
+   "en": "Impossible...",
    "term": "end"
   },
   {
    "id": "scen194.0025",
    "jp": "ああ‥‥",
-   "en": "",
+   "en": "Ah...",
    "term": "end"
   },
   {
    "id": "scen194.0026",
    "jp": "ぐふっ！",
-   "en": "",
+   "en": "Guh!",
    "term": "end"
   },
   {
    "id": "scen194.0027",
    "jp": "強い‥‥",
-   "en": "",
+   "en": "So strong...",
    "term": "end"
   },
   {
    "id": "scen194.0028",
    "jp": "そんな‥‥",
-   "en": "",
+   "en": "It can't be...",
    "term": "end"
   },
   {
    "id": "scen194.0029",
    "jp": "うう‥‥くそ‥‥",
-   "en": "",
+   "en": "Ugh... damn it...",
    "term": "end"
   },
   {
    "id": "scen194.0030",
    "jp": "剣も魔法も極めた私が‥‥",
-   "en": "",
+   "en": "But I mastered both sword and magic...",
    "term": "end"
   },
   {
    "id": "scen194.0031",
    "jp": "{v:0062}また会ったな。{FFF9}{FFFB}{n}{v:0063}以前の約束通り、この場で正々堂々と決着を{n}付けるとしよう。",
-   "en": "",
+   "en": "{v:0062}We meet again.{FFF9}{FFFB} {v:0063}As we promised before, let us settle{n}this here, in honorable combat.",
    "term": "end"
   },
   {
    "id": "scen194.0032",
    "jp": "{v:0064}どうしても戦わなくちゃいけないの？",
-   "en": "",
+   "en": "{v:0064}Do we really have to fight?",
    "term": "end"
   },
   {
    "id": "scen194.0033",
    "jp": "{v:0065}それが戦場というものだ‥‥。{p}{v:0066}遠慮はいらぬ。{n}かかってこい！",
-   "en": "",
+   "en": "{v:0065}Such is the battlefield...{p}{v:0066}Do not hold back. Come at me!",
    "term": "end"
   },
   {
    "id": "scen194.0034",
    "jp": "{v:006D}どこで運命の歯車がずれてしまったのだろうな‥‥。{p}{v:006E}それとも、あの日出会ってしまった事が、そもそもの{n}間違いの始まりだったのか‥‥？{p}{v:006F}だがここで嘆いた所で、もはやあの時には戻れぬ！",
-   "en": "",
+   "en": "{v:006D}When did the gears of fate slip out of place...?{p}{v:006E}Or was our meeting that day the first mistake of all...?{p}{v:006F}But lamenting it here will never take us back to that{n}day!",
    "term": "end"
   },
   {
    "id": "scen194.0035",
    "jp": "{v:006A}因果なものだな。{n}戦争などなければ、{n}お前とはいい友になれたかもしれん‥‥。{p}{v:006B}だが、ここは戦場で、お前と私は敵同士だ‥‥。{FFF9}{FFFB}{n}{FC02}{v:006C}生き残りたければ‥‥私を越えて行け！",
-   "en": "",
+   "en": "{v:006A}What cruel fate. Were it not for this war, you and I{n}might have been good friends...{p}{v:006B}But this is a battlefield, and you and I are enemies...{FFF9}{FFFB} {FC02}{v:006C}If{n}you wish to survive... you must defeat me!",
    "term": "end"
   },
   {
    "id": "scen194.0036",
    "jp": "{v:0067}以前にも増して腕を上げたか‥‥。{FFF9}{FFFB}{n}{v:0068}出来ればもっと別の形で力を競ってみたかったな‥‥。",
-   "en": "",
+   "en": "{v:0067}Your skill has improved yet again...{FFF9}{FFFB} {v:0068}I wish we could have{n}tested our strength under different circumstances...",
    "term": "end"
   },
   {
    "id": "scen194.0037",
    "jp": "‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen194.0038",
    "jp": "{v:0069}そんな顔をするな！{n}私の‥‥私の剣先が鈍る！",
-   "en": "",
+   "en": "{v:0069}Do not look at me like that! My... my sword will falter!",
    "term": "end"
   },
   {
    "id": "scen194.0039",
    "jp": "{v:0032}ぐっ‥うぅ‥‥。",
-   "en": "",
+   "en": "{v:0032}Guh... ugh...",
    "term": "end"
   },
   {
    "id": "scen194.0040",
    "jp": "{v:0033}やったか。",
-   "en": "",
+   "en": "{v:0033}Did we get Julian?",
    "term": "end"
   },
   {
    "id": "scen194.0041",
    "jp": "{v:0034}終わりよ、ジュリアン。",
-   "en": "",
+   "en": "{v:0034}It's over, Julian.",
    "term": "end"
   },
   {
    "id": "scen194.0042",
    "jp": "‥‥{v:0035}くっ！",
-   "en": "",
+   "en": "...{v:0035}Ugh!",
    "term": "end"
   },
   {
    "id": "scen194.0043",
    "jp": "{v:0037}将軍！{n}助けに参りました！",
-   "en": "",
+   "en": "{v:0037}General! We have come to your aid!",
    "term": "end"
   },
   {
    "id": "scen194.0044",
    "jp": "{v:0038}お、お前たち‥‥。",
-   "en": "",
+   "en": "{v:0038}Y-you...",
    "term": "end"
   },
   {
    "id": "scen194.0045",
    "jp": "{v:0039}我々が足止めをします！{n}今のうちにお戻りください！",
-   "en": "",
+   "en": "{v:0039}We will hold them off! Fall back while you can!",
    "term": "end"
   },
   {
    "id": "scen194.0046",
    "jp": "{v:003A}‥‥す、すまぬ‥‥。",
-   "en": "",
+   "en": "{v:003A}...F-forgive me...",
    "term": "end"
   },
   {
    "id": "scen194.0047",
    "jp": "{v:003B}ジュリアンが逃げちゃったよ！{n}どうするの？",
-   "en": "",
+   "en": "{v:003B}Julian got away! What do we do?",
    "term": "end"
   },
   {
    "id": "scen194.0048",
    "jp": "{v:003C}もう我々だけでも大丈夫だ。{n}追うかどうかは、君たちの判断に任せる。",
-   "en": "",
+   "en": "{v:003C}We can manage on our own now. I leave it to you{n}whether to pursue.",
    "term": "end"
   },
   {
    "id": "scen194.0049",
    "jp": "{v:003D}ああ、ジュリアンに逃げられちゃった‥‥。",
-   "en": "",
+   "en": "{v:003D}Oh, Julian got away...",
    "term": "end"
   },
   {
    "id": "scen194.0050",
    "jp": "{v:003E}今はこいつらを倒すほうが先決だろ？",
-   "en": "",
+   "en": "{v:003E}We've got to deal with these guys first, don't we?",
    "term": "end"
   },
   {
    "id": "scen194.0051",
    "jp": "{v:003F}ここは我々に任せて、君は奴を追うんだ。",
-   "en": "",
+   "en": "{v:003F}Leave this to us. You go after Julian.",
    "term": "end"
   },
   {
    "id": "scen194.0052",
    "jp": "{v:0040}俺たちも、こいつらを倒す。{n}お前はジュリアンを追え！",
-   "en": "",
+   "en": "{v:0040}We'll help finish these guys off. You go after Julian!",
    "term": "end"
   },
   {
    "id": "scen194.0053",
    "jp": "{v:0041}それじゃ、お願いね、みんな！",
-   "en": "",
+   "en": "{v:0041}We're counting on you, everyone!",
    "term": "end"
   },
   {
    "id": "scen194.0054",
    "jp": "{v:0042}うん。{n}任せて、お兄ちゃん！",
-   "en": "",
+   "en": "{v:0042}Okay. Leave it to us, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen194.0055",
    "jp": "{v:0024}どうした、押されているぞ？",
-   "en": "",
+   "en": "{v:0024}What is the matter? They are pushing you back.",
    "term": "end"
   },
   {
    "id": "scen194.0056",
    "jp": "{v:0025}げっ！{n}ジュリアンだ‥‥。",
-   "en": "",
+   "en": "{v:0025}Gah! It's Julian...",
    "term": "end"
   },
   {
    "id": "scen194.0057",
    "jp": "‥‥{v:0026}インペリアル・ナイトか‥‥。{n}相手にとって不足はない。",
-   "en": "",
+   "en": "...{v:0026}An Imperial Knight... A worthy opponent.",
    "term": "end"
   },
   {
    "id": "scen194.0058",
    "jp": "{v:0027}ランザックのウェーバー将軍か。{n}それに、見た顔があるようだが？",
-   "en": "",
+   "en": "{v:0027}General Weber of Ranzak. And I see some familiar faces{n}with you?",
    "term": "end"
   },
   {
    "id": "scen194.0059",
    "jp": "{v:0028}なるほど。{n}ルイセのテレポートを使ったか。{p}{v:0029}だがお前たちが来たところで、どうなるかな？",
-   "en": "",
+   "en": "{v:0028}I see. You used Luise's Teleport.{p}{v:0029}But what difference will your arrival make?",
    "term": "end"
   },
   {
    "id": "scen194.0060",
    "jp": "{v:002A}一気に蹴散らすぞ！",
-   "en": "",
+   "en": "{v:002A}We shall sweep them aside in one stroke!",
    "term": "end"
   },
   {
    "id": "scen194.0061",
    "jp": "{v:002B}はっ！",
-   "en": "",
+   "en": "{v:002B}Yes, General!",
    "term": "end"
   },
   {
    "id": "scen194.0062",
    "jp": "‥‥{v:002C}やるな。{FFF9}{FFFB}{n}{v:002D}これ以上被害を増やすのは得策ではないか‥‥。{p}{v:002E}総員、退却準備！{n}ガラシールズに戻って体勢を立て直す！",
-   "en": "",
+   "en": "...{v:002C}Well fought.{FFF9}{FFFB} {v:002D}It would be unwise to suffer further{n}losses...{p}{v:002E}All troops, prepare to retreat! We will return to{n}Galashiels and regroup!",
    "term": "end"
   },
   {
    "id": "scen194.0063",
    "jp": "{v:002F}はっ！",
-   "en": "",
+   "en": "{v:002F}Yes, General!",
    "term": "end"
   },
   {
    "id": "scen194.0064",
    "jp": "このままでは不利だ。{n}ガラシールズに退き、態勢を立て直すぞ！",
-   "en": "",
+   "en": "We are at a disadvantage here. Fall back to Galashiels{n}and regroup!",
    "term": "end"
   },
   {
    "id": "scen194.0065",
    "jp": "{v:0030}逃がすか！{n}追撃するぞ！",
-   "en": "",
+   "en": "{v:0030}They won't get away! After them!",
    "term": "end"
   }
  ]

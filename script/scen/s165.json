@@ -15,139 +15,139 @@
   {
    "id": "scen165.0001",
    "jp": "アナウンス",
-   "en": "",
+   "en": "Announcer",
    "term": "null"
   },
   {
    "id": "scen165.0002",
    "jp": "準決勝戦開始",
-   "en": "",
+   "en": "Semifinal Begins",
    "term": "end"
   },
   {
    "id": "scen165.0003",
    "jp": "２回戦開始",
-   "en": "",
+   "en": "Second Round Begins",
    "term": "end"
   },
   {
    "id": "scen165.0004",
    "jp": "{v:0008}もぉ～～！{n}ドジなんだからぁ！",
-   "en": "",
+   "en": "{v:0008}Ughhh! You're such a klutz!",
    "term": "end"
   },
   {
    "id": "scen165.0005",
    "jp": "{v:0054}きゃあっ！",
-   "en": "",
+   "en": "{v:0054}Aah!",
    "term": "end"
   },
   {
    "id": "scen165.0006",
    "jp": "{v:0055}ああっ！ルイセちゃんが！{n}もぅっ！敵討ちよ！",
-   "en": "",
+   "en": "{v:0055}Oh, no! Luise-chan! Grrr! I'll get them for this!",
    "term": "end"
   },
   {
    "id": "scen165.0007",
    "jp": "この俺の攻撃に、どこまで耐えられるかな？",
-   "en": "",
+   "en": "Let's see how long you can stand up to my attacks!",
    "term": "end"
   },
   {
    "id": "scen165.0008",
    "jp": "く、くそ‥‥。{n}やるじゃねぇか‥‥。",
-   "en": "",
+   "en": "D-damn... You're pretty good...",
    "term": "end"
   },
   {
    "id": "scen165.0009",
    "jp": "まさか、俺たちが負けるとは‥‥。{n}強えな、お前ら‥‥。",
-   "en": "",
+   "en": "Never thought we'd lose... You lot are strong...",
    "term": "end"
   },
   {
    "id": "scen165.0010",
    "jp": "やるじゃねぇか‥‥。{n}だが、まだまだだな！",
-   "en": "",
+   "en": "Not bad... But you've still got a ways to go!",
    "term": "end"
   },
   {
    "id": "scen165.0011",
    "jp": "後は任せたぜ。{n}俺の分まで、頼む‥‥。",
-   "en": "",
+   "en": "The rest is up to you. Fight for me, too...",
    "term": "end"
   },
   {
    "id": "scen165.0012",
    "jp": "任せておけ！{n}後は俺一人で十分だ！",
-   "en": "",
+   "en": "Leave it to me! I can handle the rest myself!",
    "term": "end"
   },
   {
    "id": "scen165.0013",
    "jp": "くそっ！{n}まだまだ俺は戦えるぞ‥‥。",
-   "en": "",
+   "en": "Damn it! I've still got some fight left in me...",
    "term": "end"
   },
   {
    "id": "scen165.0014",
    "jp": "それ以上は無理だ、ニック。{n}後は俺に任せて退くんだ。",
-   "en": "",
+   "en": "You can't go on, Nick. Fall back and leave the rest to{n}me.",
    "term": "end"
   },
   {
    "id": "scen165.0015",
    "jp": "すまない‥‥。",
-   "en": "",
+   "en": "Sorry...",
    "term": "end"
   },
   {
    "id": "scen165.0016",
    "jp": "お前たち、なかなかやるな。{n}久しぶりに強い奴と戦えて、面白かったぜ‥‥。{n}決勝戦、がんばれよ‥‥。",
-   "en": "",
+   "en": "You lot are pretty good. Been a while since I fought{n}anyone strong. That was fun... Good luck in the final...",
    "term": "end"
   },
   {
    "id": "scen165.0017",
    "jp": "後は俺に任せて、お前は下がるんだ。",
-   "en": "",
+   "en": "Fall back. Leave the rest to me.",
    "term": "end"
   },
   {
    "id": "scen165.0018",
    "jp": "すまない、ニック。",
-   "en": "",
+   "en": "Sorry, Nick.",
    "term": "end"
   },
   {
    "id": "scen165.0019",
    "jp": "俺の力、見せてやる！",
-   "en": "",
+   "en": "I'll show you what I can do!",
    "term": "end"
   },
   {
    "id": "scen165.0020",
    "jp": "お前の力、見せてもらおう。",
-   "en": "",
+   "en": "Let's see what you're capable of.",
    "term": "end"
   },
   {
    "id": "scen165.0021",
    "jp": "し、しまった‥‥。{n}この傷では、もう無理か‥‥。",
-   "en": "",
+   "en": "D-damn... Can't go on with a wound like this...",
    "term": "end"
   },
   {
    "id": "scen165.0022",
    "jp": "勝負あり！{p}なんと、この勝負を制したチームは{n}王都ローザリアの兄妹チーム！{n}見事、準決勝へのキップを手にしました！",
-   "en": "",
+   "en": "The match is over!{p}What a result! The winners are the brother-and-sister{n}team from the Royal Capital Rosaria! They've earned{n}their place in the semifinals!",
    "term": "end"
   },
   {
    "id": "scen165.0023",
    "jp": "勝負あり！{p}なんと、この勝負を制したチームは{n}王都ローザリアの兄妹チーム！{p}見事、あのニックを倒し、{n}決勝へのキップを手にしました！",
-   "en": "",
+   "en": "The match is over!{p}What a result! The winners are the brother-and-sister{n}team from the Royal Capital Rosaria!{p}They've defeated the mighty Nick and earned their{n}place in the final!",
    "term": "end"
   }
  ]

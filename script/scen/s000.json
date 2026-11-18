@@ -446,14 +446,14 @@
   {
    "id": "scen000.0071",
    "jp": "・魔法学院",
-   "en": "・The Magic Academy",
+   "en": "・Magic Academy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen000.0072",
    "jp": "・特にない",
-   "en": "・Nowhere in particular",
+   "en": "・Nothing in particular",
    "term": "end",
    "unref": true
   },
@@ -739,7 +739,7 @@
   {
    "id": "scen000.0119",
    "jp": "読みかけの本だ。",
-   "en": "Someone is partway through this book.",
+   "en": "It's a partly read book.",
    "term": "end"
   },
   {

@@ -447,13 +447,13 @@
   {
    "id": "scen015.0073",
    "jp": "プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "The sign reads, '{FFEE}Luise-chan's Room{FFF1}'.",
+   "en": "The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
    "id": "scen015.0074",
    "jp": "ベッドで休みますか？",
-   "en": "Rest in bed?",
+   "en": "Rest in the bed?",
    "term": "end"
   },
   {
@@ -507,7 +507,7 @@
   {
    "id": "scen015.0083",
    "jp": "皿がある。",
-   "en": "There's a plate.",
+   "en": "There is a plate.",
    "term": "end"
   },
   {
@@ -519,7 +519,7 @@
   {
    "id": "scen015.0085",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "Important project documents. You can jump to event{n}checkpoints from here.",
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
    "term": "end"
   },
   {

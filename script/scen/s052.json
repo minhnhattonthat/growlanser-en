@@ -81,7 +81,7 @@
   {
    "id": "scen052.0012",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. A night's stay costs {FFEB} Elm. Would you like a{n}room?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {
@@ -93,7 +93,7 @@
   {
    "id": "scen052.0014",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "I'm afraid...[01BE] you don't seem to have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen052.0025",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "{v:001B}You here to buy? Or got something to sell?",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
@@ -205,7 +205,7 @@
   {
    "id": "scen052.0032",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "{v:003F}Oh, welcome! You'll find all kinds of equipment here, you{n}know.",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
@@ -231,7 +231,7 @@
   {
    "id": "scen052.0036",
    "jp": "で、他にも何かある？",
-   "en": "Now, is there anything else?",
+   "en": "So, anything else?",
    "term": "end"
   },
   {
@@ -251,7 +251,7 @@
   {
    "id": "scen052.0039",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "{v:004B}Come back soon! I'll have a lovely smile waiting for you.",
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
    "term": "end"
   },
   {
@@ -263,7 +263,7 @@
   {
    "id": "scen052.0041",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Will you be making a purchase today, or would you like{n}to sell something?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -283,7 +283,7 @@
   {
    "id": "scen052.0044",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else you need?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -303,7 +303,7 @@
   {
    "id": "scen052.0047",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "{v:003E}Thank you very much! Please visit us again.",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {

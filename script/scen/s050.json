@@ -45,7 +45,7 @@
   {
    "id": "scen050.0006",
    "jp": "見張り",
-   "en": "Sentry",
+   "en": "Guard",
    "term": "null"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen050.0035",
    "jp": "ようこそ！{n}スキマ屋ガラシールズ支店です。",
-   "en": "Welcome! This is the Galashiels branch of the Nook Shop.",
+   "en": "Welcome to the Galashiels branch of the Nook Shop!",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen050.0039",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "{v:003F}Oh, welcome! We have every kind of equipment you{n}could want, dear.",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
@@ -269,7 +269,7 @@
   {
    "id": "scen050.0043",
    "jp": "で、他にも何かある？",
-   "en": "So, is there anything else?",
+   "en": "So, anything else?",
    "term": "end"
   },
   {
@@ -289,19 +289,19 @@
   {
    "id": "scen050.0046",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "{v:004B}Do come again. I'll have a lovely smile waiting for you.",
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
    "term": "end"
   },
   {
    "id": "scen050.0047",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen050.0048",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Would you like to make a purchase today? Or do you{n}have something to sell?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -431,13 +431,13 @@
   {
    "id": "scen050.0069",
    "jp": "あんた達、タダで泊まろうってのかい？{n}ちゃんとお金を払って泊まってくれよ。",
-   "en": "You trying to stay here for free? You'll have to pay{n}like everyone else.",
+   "en": "You lot planning to stay for free? Pay for your rooms{n}like everyone else.",
    "term": "end"
   },
   {
    "id": "scen050.0070",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. A night's stay will be {FFEB} Elm. Would you like a{n}room?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {

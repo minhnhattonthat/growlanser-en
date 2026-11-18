@@ -15,993 +15,993 @@
   {
    "id": "scen084.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen084.0002",
    "jp": "壁の口",
-   "en": "",
+   "en": "Mouth in the Wall",
    "term": "null"
   },
   {
    "id": "scen084.0003",
    "jp": "北の沼地",
-   "en": "",
+   "en": "Northern Marsh",
    "term": "end"
   },
   {
    "id": "scen084.0004",
    "jp": "ちょっと待った！{p}これからゲヴェルのところに向かおうってんだ、{n}パーティーは５人いた方がいい。",
-   "en": "",
+   "en": "Hold on!{p}We're heading for Gevel. We'd better have five people in{n}the party.",
    "term": "end"
   },
   {
    "id": "scen084.0005",
    "jp": "そうだね。{n}戻って、メンバーを集めてきましょ！",
-   "en": "",
+   "en": "You're right. Let's go back and get the others!",
    "term": "end"
   },
   {
    "id": "scen084.0006",
    "jp": "{v:0000}沼地ってここだよね？",
-   "en": "",
+   "en": "{v:0000}This is the marsh, right?",
    "term": "end"
   },
   {
    "id": "scen084.0007",
    "jp": "{v:0001}この岩場の裂け目から、{n}ゲヴェルの波動を感じる‥‥。",
-   "en": "",
+   "en": "{v:0001}I can feel Gevel's presence coming from this crack in{n}the rocks...",
    "term": "end"
   },
   {
    "id": "scen084.0008",
    "jp": "{v:0002}いよいよだな。",
-   "en": "",
+   "en": "{v:0002}This is it.",
    "term": "end"
   },
   {
    "id": "scen084.0009",
    "jp": "ゲヴェルを倒せ！",
-   "en": "",
+   "en": "Defeat Gevel!",
    "term": "end"
   },
   {
    "id": "scen084.0010",
    "jp": "{v:0066}う～ん、いい天気♪{n}アタシ達、勝ったんだね？",
-   "en": "",
+   "en": "{v:0066}Mmm, what a lovely day♪ We really won, didn't we?",
    "term": "end"
   },
   {
    "id": "scen084.0011",
    "jp": "{v:0067}そうだな。{n}ルイセの能力があったしな。",
-   "en": "",
+   "en": "{v:0067}Yeah. Luise's power helped us through.",
    "term": "end"
   },
   {
    "id": "scen084.0012",
    "jp": "{v:0068}違うよ。{n}みんなが最後まであきらめなかったから、{n}勝てたんだよ。{p}{v:0069}ね？{n}お兄ちゃん？",
-   "en": "",
+   "en": "{v:0068}No. We won because everyone kept trying right to the{n}end.{p}{v:0069}Right, Big Brother?",
    "term": "end"
   },
   {
    "id": "scen084.0013",
    "jp": "なんと答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen084.0014",
    "jp": "・みんなの力の勝利",
-   "en": "",
+   "en": "・Everyone's strength won the day",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0015",
    "jp": "・ルイセに賛同する",
-   "en": "",
+   "en": "・Agree with Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0016",
    "jp": "・ルイセのおかげ",
-   "en": "",
+   "en": "・It's all thanks to Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0017",
    "jp": "・自分のおかげ",
-   "en": "",
+   "en": "・It's all thanks to me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0018",
    "jp": "・返事をする気力がない",
-   "en": "",
+   "en": "・Too exhausted to answer",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0019",
    "jp": "{v:006A}ああ、何だかいいわよねぇ、こういうのって！",
-   "en": "",
+   "en": "{v:006A}Ahh, moments like this just feel so good!",
    "term": "end"
   },
   {
    "id": "scen084.0020",
    "jp": "{v:006B}そ、そんな、お兄ちゃん！！",
-   "en": "",
+   "en": "{v:006B}O-oh, Big Brother! Please!",
    "term": "end"
   },
   {
    "id": "scen084.0021",
    "jp": "{v:008F}照れない、照れない。{n}ルイセちゃんのグローシュがなかったら、{n}どうなってたか‥‥。",
-   "en": "",
+   "en": "{v:008F}Don't be shy, now. Without your Grosh, Luise-chan, who{n}knows what would have happened...",
    "term": "end"
   },
   {
    "id": "scen084.0022",
    "jp": "{v:006C}ティピちゃーん、きーっく！",
-   "en": "",
+   "en": "{v:006C}Tippi-chan Kiiick!",
    "term": "end"
   },
   {
    "id": "scen084.0023",
    "jp": "％×＆★！？",
-   "en": "",
+   "en": "%x&?!",
    "term": "end"
   },
   {
    "id": "scen084.0024",
    "jp": "{v:006D}もぉ、こりないなぁ‥‥。",
-   "en": "",
+   "en": "{v:006D}Geez, you never learn...",
    "term": "end"
   },
   {
    "id": "scen084.0025",
    "jp": "{v:006E}ん？{n}黙りこんじゃって、つれないわねぇ‥‥。{p}{v:006F}何か気がかりなことでもあるの？",
-   "en": "",
+   "en": "{v:006E}Hm? Gone all quiet on us? That's no fun...{p}{v:006F}Is something bothering you?",
    "term": "end"
   },
   {
    "id": "scen084.0026",
    "jp": "{v:0070}ティピ！",
-   "en": "",
+   "en": "{v:0070}Tippi!",
    "term": "end"
   },
   {
    "id": "scen084.0027",
    "jp": "{FB00}‥‥{v:0071}あ‥‥。{p}‥{v:0072}あはははっ！{n}今のナシね！",
-   "en": "",
+   "en": "{FB00}...{v:0071}Oh...{p}...{v:0072}Ahahaha! Forget I said anything!",
    "term": "end"
   },
   {
    "id": "scen084.0028",
    "jp": "{v:0073}ま、これで世の中も平和になるってもんだな。{n}これからどうする？",
-   "en": "",
+   "en": "{v:0073}Well, the world should finally be at peace. What now?",
    "term": "end"
   },
   {
    "id": "scen084.0029",
    "jp": "{v:0074}う～んと‥‥あっ！",
-   "en": "",
+   "en": "{v:0074}Hmm, let's see... Oh!",
    "term": "end"
   },
   {
    "id": "scen084.0030",
    "jp": "{v:0075}ライエル？",
-   "en": "",
+   "en": "{v:0075}Lyell?",
    "term": "end"
   },
   {
    "id": "scen084.0031",
    "jp": "{v:0076}ライエル将軍！",
-   "en": "",
+   "en": "{v:0076}General Lyell!",
    "term": "end"
   },
   {
    "id": "scen084.0032",
    "jp": "{v:0077}ご無事でしたか、陛下！",
-   "en": "",
+   "en": "{v:0077}You are safe, Your Majesty!",
    "term": "end"
   },
   {
    "id": "scen084.0033",
    "jp": "{v:0078}ええ。{n}これで人々も安心して暮らせるでしょう。",
-   "en": "",
+   "en": "{v:0078}Yes. The people should be able to live without fear now.",
    "term": "end"
   },
   {
    "id": "scen084.0034",
    "jp": "{v:0079}ん？　どうしたのだ、こんなところで‥‥。{p}{v:007A}まさか、もう‥‥。",
-   "en": "",
+   "en": "{v:0079}Hm? What are you doing out here...?{p}{v:007A}Surely you have not already...",
    "term": "end"
   },
   {
    "id": "scen084.0035",
    "jp": "{v:007B}うん。{n}ゲヴェルは倒しましたよ。",
-   "en": "",
+   "en": "{v:007B}Yes. We've defeated Gevel.",
    "term": "end"
   },
   {
    "id": "scen084.0036",
    "jp": "{v:007C}遅かったか‥‥。{p}{v:007D}加勢は多い方がいいのではと思い、{n}やってきたのだが、どうやら遅かったようだな。",
-   "en": "",
+   "en": "{v:007C}Too late...{p}{v:007D}I thought you could use more help, so I came to join{n}you. It seems I arrived too late.",
    "term": "end"
   },
   {
    "id": "scen084.0037",
    "jp": "{v:007E}もうちょっと早く来てくれればよかったのに！",
-   "en": "",
+   "en": "{v:007E}You could've come a little sooner!",
    "term": "end"
   },
   {
    "id": "scen084.0038",
    "jp": "{v:007F}すまない。{n}王都に攻め込む敵を一掃するのに手間取ったのでな。{p}{v:0080}ところで、これからみなさんはどうなされますか？",
-   "en": "",
+   "en": "{v:007F}My apologies. Clearing out the enemy attacking the{n}royal capital took longer than expected.{p}{v:0080}Now then, what will you all do next?",
    "term": "end"
   },
   {
    "id": "scen084.0039",
    "jp": "{v:0081}僕は、一度村に帰りますよ。{n}村の人々は、僕の家族も同然ですから。",
-   "en": "",
+   "en": "{v:0081}I'll head back to the village for a while. The people{n}there are like family to me.",
    "term": "end"
   },
   {
    "id": "scen084.0040",
    "jp": "アリオストの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Ariost's equipment?",
    "term": "end"
   },
   {
    "id": "scen084.0041",
    "jp": "{v:0082}そろそろ王としての責務を果たさないと{n}いけませんから、城に戻りますよ。",
-   "en": "",
+   "en": "{v:0082}It's time I attended to my duties as king, so I'll return{n}to the castle.",
    "term": "end"
   },
   {
    "id": "scen084.0042",
    "jp": "エリオットの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Elliot's equipment?",
    "term": "end"
   },
   {
    "id": "scen084.0043",
    "jp": "{v:0083}本来のナイツの仕事があるからな。{n}城に戻らざるをえん。",
-   "en": "",
+   "en": "{v:0083}I have my duties as an Imperial Knight to attend to. I{n}must return to the castle.",
    "term": "end"
   },
   {
    "id": "scen084.0044",
    "jp": "ジュリアンの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Julian's equipment?",
    "term": "end"
   },
   {
    "id": "scen084.0045",
    "jp": "{v:0084}お父さんの容態も気になるので、保養施設に戻ります。",
-   "en": "",
+   "en": "{v:0084}I'm worried about Father's condition, so I'll return to{n}the sanatorium.",
    "term": "end"
   },
   {
    "id": "scen084.0046",
    "jp": "カレンの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Karen's equipment?",
    "term": "end"
   },
   {
    "id": "scen084.0047",
    "jp": "‥‥{v:0085}コイツらとは一緒にいられねぇ。{n}騙されていたとはいえ、{n}ローランディア王国には迷惑かけちまったからな。{p}{v:0086}かといって、バーンシュタイン王国にもいられねぇ。{n}とりあえず、自分の家に戻るさ。",
-   "en": "",
+   "en": "...{v:0085}I can't stay with this lot. Even if I was tricked, I still{n}caused trouble for the Kingdom of Rolandia.{p}{v:0086}But I can't stay in the Kingdom of Burnstein, either. I'll{n}head home for now.",
    "term": "end"
   },
   {
    "id": "scen084.0048",
    "jp": "ゼノスの装備を回収しますか？",
-   "en": "",
+   "en": "Retrieve Xenos's equipment?",
    "term": "end"
   },
   {
    "id": "scen084.0049",
    "jp": "{v:0087}アタシは‥‥帰るところがないの。",
-   "en": "",
+   "en": "{v:0087}I... don't have anywhere to go home to.",
    "term": "end"
   },
   {
    "id": "scen084.0050",
    "jp": "{v:0088}それじゃ、一緒においでよ！{n}わたしの家にお泊まりしようよ。",
-   "en": "",
+   "en": "{v:0088}Then come with us! You can stay at my house.",
    "term": "end"
   },
   {
    "id": "scen084.0051",
    "jp": "{v:0089}きゃーー★{n}ルイセちゃん、ルイセちゃん♪",
-   "en": "",
+   "en": "{v:0089}Eeeek! Luise-chan, Luise-chan♪",
    "term": "end"
   },
   {
    "id": "scen084.0052",
    "jp": "{v:008A}では、私も戻るとしよう。{n}いろいろと世話になった。{n}また会おう、ローランディア王国の騎士よ！",
-   "en": "",
+   "en": "{v:008A}Then I shall return as well. You have done much for{n}me. Until we meet again, knight of the Kingdom of{n}Rolandia!",
    "term": "end"
   },
   {
    "id": "scen084.0053",
    "jp": "{v:008B}アタシたちも帰りましょ？",
-   "en": "",
+   "en": "{v:008B}Shall we head home, too?",
    "term": "end"
   },
   {
    "id": "scen084.0054",
    "jp": "{v:008C}お母さんも心配してるしね！",
-   "en": "",
+   "en": "{v:008C}Mother must be worried about us!",
    "term": "end"
   },
   {
    "id": "scen084.0055",
    "jp": "{v:008D}よっしゃ、帰るか！",
-   "en": "",
+   "en": "{v:008D}All right, let's head home!",
    "term": "end"
   },
   {
    "id": "scen084.0056",
    "jp": "ゲヴェルを倒した！",
-   "en": "",
+   "en": "Defeated Gevel!",
    "term": "end"
   },
   {
    "id": "scen084.0057",
    "jp": "現在、調査中です。{n}しばらくしてから、お越し下さい。",
-   "en": "",
+   "en": "An investigation is currently underway. Please return{n}later.",
    "term": "end"
   },
   {
    "id": "scen084.0058",
    "jp": "外には出てきませんが、内部でまた動きがある様です。{n}腕試しもかねて、調査なさいますか？",
-   "en": "",
+   "en": "Nothing has come out, but there seems to be activity{n}inside again. Would you care to investigate and test{n}your skills?",
    "term": "end"
   },
   {
    "id": "scen084.0059",
    "jp": "ところで、準備はよろしいのですか？{n}一度降りると、なかなか帰ってこられませんよ。{n}それでも行くと言うのなら、お気をつけて、どうぞ。",
-   "en": "",
+   "en": "By the way, are you fully prepared? Once you go{n}down, getting back will not be easy. If you still wish to{n}proceed, please take care.",
    "term": "end"
   },
   {
    "id": "scen084.0060",
    "jp": "お気をつけて、どうぞ。",
-   "en": "",
+   "en": "Go ahead, and take care.",
    "term": "end"
   },
   {
    "id": "scen084.0061",
    "jp": "{v:0003}あの影は！？",
-   "en": "",
+   "en": "{v:0003}That shadow...?!",
    "term": "end"
   },
   {
    "id": "scen084.0062",
    "jp": "{v:0004}やっぱりここなのね！",
-   "en": "",
+   "en": "{v:0004}So this is the place after all!",
    "term": "end"
   },
   {
    "id": "scen084.0063",
    "jp": "‥‥‥{v:0005}ダメ。{p}{v:0006}ゲヴェルの思念波が強すぎて、{n}完全に遮断できない‥‥。",
-   "en": "",
+   "en": "...{v:0005}It's no use.{p}{v:0006}Gevel's psychic waves are too strong. I can't block them{n}completely...",
    "term": "end"
   },
   {
    "id": "scen084.0064",
    "jp": "{v:0007}ルイセちゃんの能力でもダメなのか。",
-   "en": "",
+   "en": "{v:0007}Even your power isn't enough, Luise-chan?",
    "term": "end"
   },
   {
    "id": "scen084.0065",
    "jp": "{v:0008}さすが本体の近くだと勝手が違うか‥‥。",
-   "en": "",
+   "en": "{v:0008}Guess it's a different story this close to his actual{n}body...",
    "term": "end"
   },
   {
    "id": "scen084.0066",
    "jp": "{v:0009}簡単だ。{n}全部ブチ殺せばいい。",
-   "en": "",
+   "en": "{v:0009}Simple. We kill every last one of them.",
    "term": "end"
   },
   {
    "id": "scen084.0067",
    "jp": "‥‥{v:000A}力ずくで通るのみ！",
-   "en": "",
+   "en": "...{v:000A}We must force our way through!",
    "term": "end"
   },
   {
    "id": "scen084.0068",
    "jp": "{v:000B}でも、引くことは出来ませんね。",
-   "en": "",
+   "en": "{v:000B}Still, we cannot retreat.",
    "term": "end"
   },
   {
    "id": "scen084.0069",
    "jp": "{v:000C}ここで怯んではいられませんね。{n}がんばりましょう！",
-   "en": "",
+   "en": "{v:000C}We can't lose our nerve now. Let's do our best!",
    "term": "end"
   },
   {
    "id": "scen084.0070",
    "jp": "{v:000E}なんだ？{n}行き止まりか？",
-   "en": "",
+   "en": "{v:000E}What? A dead end?",
    "term": "end"
   },
   {
    "id": "scen084.0071",
    "jp": "{v:000F}う～ん‥‥。{n}何か仕掛けがあるのかな？",
-   "en": "",
+   "en": "{v:000F}Hmm... Maybe there's some sort of mechanism?",
    "term": "end"
   },
   {
    "id": "scen084.0072",
    "jp": "{v:0010}うわぁっ！{n}ナニ、コレェ！？{n}こっち見てるぅ！",
-   "en": "",
+   "en": "{v:0010}Waaah! What IS that?! It's looking at us!",
    "term": "end"
   },
   {
    "id": "scen084.0073",
    "jp": "もう移動できないようだ‥‥。",
-   "en": "",
+   "en": "It seems you can no longer travel this way...",
    "term": "end"
   },
   {
    "id": "scen084.0074",
    "jp": "この穴は活動を再開しているようだ。",
-   "en": "",
+   "en": "This hole seems to have become active again.",
    "term": "end"
   },
   {
    "id": "scen084.0075",
    "jp": "　{n}　　　　　　　　開かない！",
-   "en": "",
+   "en": "It won't open!",
    "term": "end"
   },
   {
    "id": "scen084.0076",
    "jp": "～フライシェベルグ～第１階層",
-   "en": "",
+   "en": "Fleischeberg -- Level 1",
    "term": "end"
   },
   {
    "id": "scen084.0077",
    "jp": "　{n}　　　　　　　開かない！",
-   "en": "",
+   "en": "It won't open!",
    "term": "end"
   },
   {
    "id": "scen084.0078",
    "jp": "『{FFEF}トリニトレイト{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found '{FFEF}Trinitrate{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0079",
    "jp": "　{n}　　　　『{FFEF}トリニトレイト{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}Trinitrate{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen084.0080",
    "jp": "『{FFEF}秘伝書{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found a '{FFEF}Secret Manual{FFF1}', but can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0081",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Received a '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen084.0082",
    "jp": "『{FFEF}シャドーブレイド{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found '{FFEF}Shadow Blade{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0083",
    "jp": "　{n}　　　『{FFEF}シャドーブレイド{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}Shadow Blade{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen084.0084",
    "jp": "『{FFEF}天女の羽衣{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found '{FFEF}Celestial Robe{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0085",
    "jp": "　{n}　　　　　『{FFEF}天女の羽衣{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}Celestial Robe{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen084.0086",
    "jp": "～フライシェベルグ～第２階層",
-   "en": "",
+   "en": "Fleischeberg -- Level 2",
    "term": "end"
   },
   {
    "id": "scen084.0087",
    "jp": "こちらからは開かない。{n}一方通行のようだ。",
-   "en": "",
+   "en": "It won't open from this side. It seems to be a one-way{n}passage.",
    "term": "end"
   },
   {
    "id": "scen084.0088",
    "jp": "　{n}　　　　鍵を{FFEF}４つ{FFF1}手に入れた！",
-   "en": "",
+   "en": "Obtained {FFEF}4{FFF1} keys!",
    "term": "end"
   },
   {
    "id": "scen084.0089",
    "jp": "{v:0012}鍵？",
-   "en": "",
+   "en": "{v:0012}Keys?",
    "term": "end"
   },
   {
    "id": "scen084.0090",
    "jp": "　{n}　　　　　　{v:0013}‥鍵‥鍵‥数‥少ない‥",
-   "en": "",
+   "en": "{v:0013}...Keys... keys... number... few...",
    "term": "end"
   },
   {
    "id": "scen084.0091",
    "jp": "　{n}　　　　　　{v:0014}‥部屋‥部屋‥数‥多い‥",
-   "en": "",
+   "en": "{v:0014}...Rooms... rooms... number... many...",
    "term": "end"
   },
   {
    "id": "scen084.0092",
    "jp": "　{n}　　　　　　{v:0015}‥鍵‥鍵‥使う‥減る‥",
-   "en": "",
+   "en": "{v:0015}...Keys... keys... use... fewer...",
    "term": "end"
   },
   {
    "id": "scen084.0093",
    "jp": "　{n}　　　　　　{v:0016}‥部屋‥部屋‥仕掛け‥楽‥",
-   "en": "",
+   "en": "{v:0016}...Rooms... rooms... mechanisms... easier...",
    "term": "end"
   },
   {
    "id": "scen084.0094",
    "jp": "{v:0017}ん～？{n}何の事かしら？",
-   "en": "",
+   "en": "{v:0017}Hmm? What's that supposed to mean?",
    "term": "end"
   },
   {
    "id": "scen084.0095",
    "jp": "{v:0011}敵よ！{n}みんな、がんばって！",
-   "en": "",
+   "en": "{v:0011}Enemies! Give it your all, everyone!",
    "term": "end"
   },
   {
    "id": "scen084.0096",
    "jp": "床に鍵穴のような物が{FFEF}２つ{FFF1}開いている。",
-   "en": "",
+   "en": "There are {FFEF}2{FFF1} openings in the floor that look like{n}keyholes.",
    "term": "end"
   },
   {
    "id": "scen084.0097",
    "jp": "鍵を２つ使いますか？",
-   "en": "",
+   "en": "Use 2 keys?",
    "term": "end"
   },
   {
    "id": "scen084.0098",
    "jp": "　{n}　　　　　　　鍵を持っていない！",
-   "en": "",
+   "en": "You have no keys!",
    "term": "end"
   },
   {
    "id": "scen084.0099",
    "jp": "　{n}　　　　　　　　鍵が足りない！",
-   "en": "",
+   "en": "You don't have enough keys!",
    "term": "end"
   },
   {
    "id": "scen084.0100",
    "jp": "『{FFEF}エストック{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
+   "en": "Found '{FFEF}Estoc{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0101",
    "jp": "　{n}　　　　　『{FFEF}エストック{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained '{FFEF}Estoc{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen084.0102",
    "jp": "床に鍵穴のような物が{FFEF}１つ{FFF1}開いている。",
-   "en": "",
+   "en": "There is {FFEF}1{FFF1} opening in the floor that looks like a keyhole.",
    "term": "end"
   },
   {
    "id": "scen084.0103",
    "jp": "鍵を１つ使いますか？",
-   "en": "",
+   "en": "Use 1 key?",
    "term": "end"
   },
   {
    "id": "scen084.0104",
    "jp": "敵よ！{n}みんな、頑張って！",
-   "en": "",
+   "en": "Enemies! Give it your all, everyone!",
    "term": "end"
   },
   {
    "id": "scen084.0105",
    "jp": "鍵穴が上下に２つある。{n}鍵を使いますか？",
-   "en": "",
+   "en": "There are two keyholes, one above the other. Use a{n}key?",
    "term": "end"
   },
   {
    "id": "scen084.0106",
    "jp": "・上の鍵穴へ",
-   "en": "",
+   "en": "・Use the upper keyhole",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0107",
    "jp": "・下の鍵穴へ",
-   "en": "",
+   "en": "・Use the lower keyhole",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0108",
    "jp": "・上下、２つの鍵穴へ",
-   "en": "",
+   "en": "・Use both the upper and lower keyholes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0109",
    "jp": "・使わない",
-   "en": "",
+   "en": "・Don't use it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0110",
    "jp": "床に鍵穴が１つある。",
-   "en": "",
+   "en": "There is a keyhole in the floor.",
    "term": "end"
   },
   {
    "id": "scen084.0111",
    "jp": "鍵を使いますか？",
-   "en": "",
+   "en": "Use the key?",
    "term": "end"
   },
   {
    "id": "scen084.0112",
    "jp": "スイッチがある。{n}押しますか？",
-   "en": "",
+   "en": "There is a switch. Press it?",
    "term": "end"
   },
   {
    "id": "scen084.0113",
    "jp": "えぇっ！？{n}道がつながってないじゃない！",
-   "en": "",
+   "en": "Huh?! The path doesn't connect!",
    "term": "end"
   },
   {
    "id": "scen084.0114",
    "jp": "う～ん‥‥。{n}橋の手前にある印が怪しいと思うんだけど‥‥。{n}あれを踏むと右がつながるとか‥‥。",
-   "en": "",
+   "en": "Hmm... Those marks in front of the bridge look{n}suspicious... Maybe stepping on one connects the path{n}on the right...",
    "term": "end"
   },
   {
    "id": "scen084.0115",
    "jp": "そういえば、丁度５つあるしね。{n}とりあえず、踏んでみようよ。",
-   "en": "",
+   "en": "Come to think of it, there are exactly five of them.{n}Let's try stepping on them.",
    "term": "end"
   },
   {
    "id": "scen084.0116",
    "jp": "誰がどこを踏むかは{s:0000}に任せる。{n}向こうへ渡った後の戦闘のことを考えて、{n}みんなに指示を出してくれ。",
-   "en": "",
+   "en": "I'll leave it to you to decide who steps where,{n}{s:0000}. Give everyone their orders, and{n}keep the battle on the other side in mind.",
    "term": "end"
   },
   {
    "id": "scen084.0117",
    "jp": "それじゃ、アタシが偵察してきてあげる！{n}左右、どっちから見たい？",
-   "en": "",
+   "en": "Then I'll go scout ahead for you! Which side do you want{n}to see first, left or right?",
    "term": "end"
   },
   {
    "id": "scen084.0118",
    "jp": "・右側",
-   "en": "",
+   "en": "・Right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0119",
    "jp": "・左側",
-   "en": "",
+   "en": "・Left",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0120",
    "jp": "・見たくない",
-   "en": "",
+   "en": "・Neither",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0121",
    "jp": "おっけ～！{n}右だね？",
-   "en": "",
+   "en": "Okaaay! Right it is!",
    "term": "end"
   },
   {
    "id": "scen084.0122",
    "jp": "もっと見る？",
-   "en": "",
+   "en": "Wanna see more?",
    "term": "end"
   },
   {
    "id": "scen084.0123",
    "jp": "・上を見たい",
-   "en": "",
+   "en": "・Look farther up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0124",
    "jp": "・左を見たい",
-   "en": "",
+   "en": "・Look left",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0125",
    "jp": "・戻らせる",
-   "en": "",
+   "en": "・Have her come back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0126",
    "jp": "で、どうする？",
-   "en": "",
+   "en": "So, what now?",
    "term": "end"
   },
   {
    "id": "scen084.0127",
    "jp": "・左側を見たい",
-   "en": "",
+   "en": "・Look at the left side",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0128",
    "jp": "・中央を見たい",
-   "en": "",
+   "en": "・Look at the center",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0129",
    "jp": "・戻らせる",
-   "en": "",
+   "en": "・Have her come back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0130",
    "jp": "で、どうする？",
-   "en": "",
+   "en": "So, what now?",
    "term": "end"
   },
   {
    "id": "scen084.0131",
    "jp": "・右側を見たい",
-   "en": "",
+   "en": "・Look at the right side",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0132",
    "jp": "・中央を見たい",
-   "en": "",
+   "en": "・Look at the center",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0133",
    "jp": "・戻らせる",
-   "en": "",
+   "en": "・Have her come back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0134",
    "jp": "おっけ～！{n}左だね？",
-   "en": "",
+   "en": "Okaaay! Left it is!",
    "term": "end"
   },
   {
    "id": "scen084.0135",
    "jp": "もっと見る？",
-   "en": "",
+   "en": "Wanna see more?",
    "term": "end"
   },
   {
    "id": "scen084.0136",
    "jp": "・上を見たい",
-   "en": "",
+   "en": "・Look farther up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0137",
    "jp": "・右を見たい",
-   "en": "",
+   "en": "・Look right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0138",
    "jp": "・戻らせる",
-   "en": "",
+   "en": "・Have her come back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0139",
    "jp": "ちぇっ！",
-   "en": "",
+   "en": "Aww, darn it!",
    "term": "end"
   },
   {
    "id": "scen084.0140",
    "jp": "誰をどこに行くか、指示してくれ。",
-   "en": "",
+   "en": "Tell us who goes where.",
    "term": "end"
   },
   {
    "id": "scen084.0141",
    "jp": "１番左は誰にしますか？",
-   "en": "",
+   "en": "Who will take the far left?",
    "term": "end"
   },
   {
    "id": "scen084.0142",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0143",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0144",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0145",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0146",
    "jp": "・{s:FFF1}",
-   "en": "",
+   "en": "・{s:FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0147",
    "jp": "左から２番目は誰にしますか？",
-   "en": "",
+   "en": "Who will take the second spot from the left?",
    "term": "end"
   },
   {
    "id": "scen084.0148",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0149",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0150",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0151",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0152",
    "jp": "中央は誰にしますか？",
-   "en": "",
+   "en": "Who will take the center?",
    "term": "end"
   },
   {
    "id": "scen084.0153",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0154",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0155",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0156",
    "jp": "右から２番は誰にしますか？",
-   "en": "",
+   "en": "Who will take the second spot from the right?",
    "term": "end"
   },
   {
    "id": "scen084.0157",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0158",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0159",
    "jp": "やったね★{n}これで先へ進めるね！",
-   "en": "",
+   "en": "We did it! Now we can move on!",
    "term": "end"
   }
  ]

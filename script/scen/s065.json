@@ -39,7 +39,7 @@
   {
    "id": "scen065.0005",
    "jp": "貯蔵庫{n}用なき者はあけるべからず",
-   "en": "Storehouse. Do not open without cause.",
+   "en": "Storehouse. Do not open without good reason.",
    "term": "end"
   },
   {
@@ -123,13 +123,13 @@
   {
    "id": "scen065.0019",
    "jp": "ダメだよ、お兄ちゃん。{n}ちゃんと考えてから、指示してね。",
-   "en": "That won't do, Big Brother. Please think it through{n}before giving instructions.",
+   "en": "That won't do, Big Brother. Please think it through{n}before you give us instructions.",
    "term": "end"
   },
   {
    "id": "scen065.0020",
    "jp": "どうした？{n}精神力が切れて、地上に帰れなくなったのか？",
-   "en": "What is wrong? Have you run out of mental energy and{n}found yourself unable to return to the surface?",
+   "en": "What is wrong? Have you exhausted your mental energy{n}and cannot return to the surface?",
    "term": "end"
   },
   {
@@ -671,7 +671,7 @@
   {
    "id": "scen065.0109",
    "jp": "不思議な力で、魔法の効力は失われた‥‥。",
-   "en": "A mysterious power nullified the magic...",
+   "en": "A mysterious power dispelled the magic...",
    "term": "end"
   }
  ]

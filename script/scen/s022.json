@@ -615,7 +615,7 @@
   {
    "id": "scen022.0099",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "{v:0000}Hey, welcome! We've got all kinds of equipment here!",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
    "term": "end"
   },
   {
@@ -641,7 +641,7 @@
   {
    "id": "scen022.0103",
    "jp": "まだ用事はあるかい？",
-   "en": "Anything else?",
+   "en": "Anything else you need?",
    "term": "end"
   },
   {

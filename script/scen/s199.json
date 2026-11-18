@@ -15,31 +15,31 @@
   {
    "id": "scen199.0001",
    "jp": "{v:000E}来るな、このお化け鳥～！{n}アタシなんか食べてもおいしくないんだからぁ！",
-   "en": "",
+   "en": "{v:000E}Stay away, you monster of a bird! I wouldn't taste any{n}good!",
    "term": "end"
   },
   {
    "id": "scen199.0002",
    "jp": "‥‥{v:000F}ごめんね！",
-   "en": "",
+   "en": "...{v:000F}Sorry!",
    "term": "end"
   },
   {
    "id": "scen199.0003",
    "jp": "{v:0010}ふん！",
-   "en": "",
+   "en": "{v:0010}Hmph!",
    "term": "end"
   },
   {
    "id": "scen199.0004",
    "jp": "{v:0011}てぃっ！",
-   "en": "",
+   "en": "{v:0011}Hyah!",
    "term": "end"
   },
   {
    "id": "scen199.0005",
    "jp": "{v:0012}やぁっ！",
-   "en": "",
+   "en": "{v:0012}Yah!",
    "term": "end"
   }
  ]

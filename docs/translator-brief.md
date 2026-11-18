@@ -26,7 +26,8 @@ outside ASCII, and none of `# @ \ ^ \` | ~` or braces outside control codes.
 ## Control codes `{...}`
 Copy every code except `{n}` exactly, the same number of times: `{v:XXXX}` voice clip, `{s:XXXX}` a drawn name,
 `{FCxx}` portrait change, `{FBxx}`, `{FExx}` timing pauses, `{FFxx}` colour/effects (`{FFEF}`..`{FFF1}` wraps a
-highlighted term: keep the highlight on the English term). Keep each code at the same point of the utterance:
+highlighted term: keep the highlight on the English term). Exception: `{s:0127}` is the kanji 目 (eye), not a
+name: drop it and write the English word. Keep each code at the same point of the utterance:
 voice clips and portrait codes at the start of the beat they voice. `{p}` = new page: keep the JP's page breaks
 (the wrapper adds more if a page runs long). `{n}` = forced line break: drop the JP ones; add one only for a
 deliberate layout (list, poem). Exception: in menu and name strings (form menu/name) the JP shows its `{n}` and

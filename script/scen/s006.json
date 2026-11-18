@@ -51,7 +51,7 @@
   {
    "id": "scen006.0007",
    "jp": "サンドラ様のご子息、{n}{s:0000}様ですね。{n}どうぞ、お通り下さい。",
-   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, come through.",
+   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, go right through.",
    "term": "end"
   },
   {
@@ -219,7 +219,7 @@
   {
    "id": "scen006.0035",
    "jp": "現在、国王は取り込み中だ。{n}別の機会にせよ。",
-   "en": "The king is occupied at present. Return another time.",
+   "en": "The King is occupied at present. Return another time.",
    "term": "end"
   },
   {
@@ -279,7 +279,7 @@
   {
    "id": "scen006.0045",
    "jp": "ほんとう。{n}おいしそうですわね。",
-   "en": "Indeed. It looks delicious.",
+   "en": "Indeed. It looks quite delicious.",
    "term": "end"
   },
   {
@@ -297,13 +297,13 @@
   {
    "id": "scen006.0048",
    "jp": "戦争だって？{n}こっちは毎日が戦争さ！{p}たった２人で{n}お城の兵隊さんの料理を作ってるんだからね！",
-   "en": "War, you say? Every day's a war in here!{p}There's only two of us cooking for all the soldiers in{n}this castle!",
+   "en": "War, you say? Every day's a war in here!{p}There are only two of us cooking for all the soldiers in{n}the castle!",
    "term": "end"
   },
   {
    "id": "scen006.0049",
    "jp": "あの兵隊さん、いっつも来てるけど、{n}暇なのかねぇ‥‥。",
-   "en": "That soldier's always coming here. Hasn't he got{n}anything to do...?",
+   "en": "That soldier's always coming by. Hasn't he got anything{n}to do...?",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen006.0058",
    "jp": "気を付けて行くがよい。",
-   "en": "Go, and take care.",
+   "en": "Go safely.",
    "term": "end"
   },
   {
@@ -543,19 +543,19 @@
   {
    "id": "scen006.0089",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "{v:0002}For your service on this mission, you are granted{n}three days of leave.",
+   "en": "{v:0002}For your service, you are granted three days of leave.",
    "term": "end"
   },
   {
    "id": "scen006.0090",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "{v:0001}For your service on this mission, you are granted two{n}days of leave.",
+   "en": "{v:0001}For your service, you are granted two days of leave.",
    "term": "end"
   },
   {
    "id": "scen006.0091",
    "jp": "{v:0000}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "{v:0000}For your service on this mission, you are granted one{n}day of leave.",
+   "en": "{v:0000}For your service, you are granted one day of leave.",
    "term": "end"
   },
   {
@@ -1116,7 +1116,7 @@
   {
    "id": "scen006.0183",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "The King and Princess Leticia have their private{n}quarters on the third floor.",
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
    "term": "end"
   },
   {

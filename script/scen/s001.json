@@ -129,7 +129,7 @@
   {
    "id": "scen001.0020",
    "jp": "どうしたんだい？",
-   "en": "What's the matter?",
+   "en": "What is it?",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen001.0028",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "{v:0054}Keep the Nook Shop in mind for all your shopping{n}needs!",
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
    "term": "end"
   },
   {
@@ -319,7 +319,7 @@
   {
    "id": "scen001.0051",
    "jp": "城門は堅く閉ざされている‥‥。",
-   "en": "The castle gate is firmly shut...",
+   "en": "The castle gates are firmly shut...",
    "term": "end"
   },
   {
@@ -337,7 +337,7 @@
   {
    "id": "scen001.0054",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "Bargains galore!{n}Coco's Item Shop",
+   "en": "Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
@@ -349,7 +349,7 @@
   {
    "id": "scen001.0056",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "Bargains galore!{n}Nook Shop",
+   "en": "Bargains galore! Nook Shop",
    "term": "end"
   },
   {
@@ -557,7 +557,7 @@
   {
    "id": "scen001.0090",
    "jp": "こいつ、またホラ吹いてるよ。",
-   "en": "He's making stuff up again.",
+   "en": "He's telling tall tales again.",
    "term": "end"
   },
   {
@@ -587,13 +587,13 @@
   {
    "id": "scen001.0095",
    "jp": "僕たち、デート中なんだ。{n}邪魔しないでくれ！",
-   "en": "We're on a date. Don't bother us!",
+   "en": "We're on a date. Leave us alone!",
    "term": "end"
   },
   {
    "id": "scen001.0096",
    "jp": "私たち、デート中なの。{n}邪魔しないで！",
-   "en": "We're on a date, you know. Don't interrupt!",
+   "en": "We're on a date. Don't bother us!",
    "term": "end"
   },
   {
@@ -629,7 +629,7 @@
   {
    "id": "scen001.0102",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We have a wide variety of goods available for{n}purchase.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen001.0106",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else you need?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -855,13 +855,13 @@
   {
    "id": "scen001.0139",
    "jp": "よく、ここへ来る方法がわかったな‥‥。{n}ここに気づいたのは、お前が初めてだ。",
-   "en": "So you figured out how to get here... You're the first{n}one to find this place.",
+   "en": "So you figured out how to get here... You're the first{n}to notice this place.",
    "term": "end"
   },
   {
    "id": "scen001.0140",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "{v:0019}Hey, welcome. This here's an equipment shop.",
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
    "term": "end"
   },
   {
@@ -985,7 +985,7 @@
   {
    "id": "scen001.0160",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "A 60% acceptance rate to the Magic Academy! Entrance{n}exam preparation you can trust, backed by proven{n}results. 'LLM Magic School'",
+   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
    "term": "end"
   },
   {
@@ -1119,7 +1119,7 @@
   {
    "id": "scen001.0182",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "Is there anything else you'd like to know about the{n}stats?",
+   "en": "Is there anything else you would like to know about{n}abilities?",
    "term": "end"
   },
   {
@@ -1131,7 +1131,7 @@
   {
    "id": "scen001.0184",
    "jp": "何でしょう？",
-   "en": "What is it?",
+   "en": "What would that be?",
    "term": "end"
   },
   {
@@ -1143,7 +1143,7 @@
   {
    "id": "scen001.0186",
    "jp": "え‥‥[01BE]",
-   "en": "Uh...[01BE]",
+   "en": "Er...[01BE]",
    "term": "end"
   },
   {

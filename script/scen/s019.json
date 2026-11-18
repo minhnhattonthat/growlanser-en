@@ -1467,13 +1467,13 @@
   {
    "id": "scen019.0241",
    "jp": "お母さんたちを連れて、バーンシュタインまで{n}テレポートしなくちゃいけないんでしょ？{n}今は少しでも休みたいんだけど‥‥。",
-   "en": "I have to cast Teleport to take Mother and the others{n}to Burnstein, don't I? I'd like to rest as much as I can{n}for now...",
+   "en": "I have to Teleport Mother and the others to Burnstein,{n}right? I'd like to rest while I can...",
    "term": "end"
   },
   {
    "id": "scen019.0242",
    "jp": "そうそう！{n}街の入り口まででしょ？{n}買い物でもしながら歩いていこうよ！",
-   "en": "That's right! We're only going to the town entrance,{n}aren't we? Let's walk and do some shopping on the{n}way!",
+   "en": "Exactly! We're only going to the entrance to town,{n}right? Let's walk and do some shopping along the way!",
    "term": "end"
   }
  ]

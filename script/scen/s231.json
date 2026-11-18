@@ -15,97 +15,97 @@
   {
    "id": "scen231.0001",
    "jp": "マスタークラスＳランク戦開始",
-   "en": "",
+   "en": "Master Class S Rank match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0002",
    "jp": "マスタークラスＡＡＡランク戦開始",
-   "en": "",
+   "en": "Master Class AAA Rank match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0003",
    "jp": "マスタークラスＡＡランク戦開始",
-   "en": "",
+   "en": "Master Class AA Rank match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0004",
    "jp": "マスタークラスＡランク戦開始",
-   "en": "",
+   "en": "Master Class A Rank match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0005",
    "jp": "マスタークラスＢランク戦開始",
-   "en": "",
+   "en": "Master Class B Rank match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0006",
    "jp": "レジェンドクラス戦開始",
-   "en": "",
+   "en": "Legend Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0007",
    "jp": "エクセレントクラス戦開始",
-   "en": "",
+   "en": "Excellent Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0008",
    "jp": "ヒーロークラス戦開始",
-   "en": "",
+   "en": "Hero Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0009",
    "jp": "チャンピオンクラス戦開始",
-   "en": "",
+   "en": "Champion Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0010",
    "jp": "グレートクラス戦開始",
-   "en": "",
+   "en": "Great Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0011",
    "jp": "ノーマルクラス戦開始",
-   "en": "",
+   "en": "Normal Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0012",
    "jp": "ビギナークラス戦開始",
-   "en": "",
+   "en": "Beginner Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0013",
    "jp": "ジュニアクラス戦開始",
-   "en": "",
+   "en": "Junior Class match begins.",
    "term": "end"
   },
   {
    "id": "scen231.0014",
    "jp": "{v:0008}もぉ～～！ドジなんだからぁ！",
-   "en": "",
+   "en": "{v:0008}Uuugh! You klutz!",
    "term": "end"
   },
   {
    "id": "scen231.0015",
    "jp": "２回戦勝ち抜き！",
-   "en": "",
+   "en": "Victorious in Round 2!",
    "term": "end"
   },
   {
    "id": "scen231.0016",
    "jp": "１回戦勝ち抜き！",
-   "en": "",
+   "en": "Victorious in Round 1!",
    "term": "end"
   }
  ]

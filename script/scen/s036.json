@@ -381,7 +381,7 @@
   {
    "id": "scen036.0062",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "{v:001A}Hey, welcome. We sell supplies here.",
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
    "term": "end"
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "scen036.0069",
    "jp": "{v:0025}じゃあな。",
-   "en": "{v:0025}See you.",
+   "en": "{v:0025}See ya.",
    "term": "end"
   },
   {
@@ -535,13 +535,13 @@
   {
    "id": "scen036.0087",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you very much. Have a safe journey.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {
    "id": "scen036.0088",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "I'm sorry...[01BE] It seems you don't have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {

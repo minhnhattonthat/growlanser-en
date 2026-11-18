@@ -147,7 +147,7 @@
   {
    "id": "scen072.0023",
    "jp": "開門！",
-   "en": "Open the gate!",
+   "en": "Open the gates!",
    "term": "end"
   },
   {
@@ -485,7 +485,7 @@
   {
    "id": "scen072.0079",
    "jp": "お買い求めですか？{n}それともご売却ですか？",
-   "en": "Would you like to buy something, or sell?",
+   "en": "Would you like to buy or sell?",
    "term": "end"
   },
   {
@@ -505,7 +505,7 @@
   {
    "id": "scen072.0082",
    "jp": "他にもご用はおありですか？",
-   "en": "Is there anything else I can do for you?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -537,7 +537,7 @@
   {
    "id": "scen072.0087",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Excuse me...[01BE] You don't seem to have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -777,7 +777,7 @@
   {
    "id": "scen072.0127",
    "jp": "　{n}　　　『{FFEF}援軍要請の書簡{FFF1}』を受け取った！",
-   "en": "Received the '{FFEF}Call for Troops Letter{FFF1}'!",
+   "en": "Received the '{FFEF}Reinforcement Request Letter{FFF1}'!",
    "term": "end"
   },
   {
@@ -921,193 +921,193 @@
   {
    "id": "scen072.0151",
    "jp": "{v:003E}失礼します！",
-   "en": "",
+   "en": "{v:003E}Pardon the interruption, sir!",
    "term": "end"
   },
   {
    "id": "scen072.0152",
    "jp": "{v:003F}どうした？",
-   "en": "",
+   "en": "{v:003F}What is it?",
    "term": "end"
   },
   {
    "id": "scen072.0153",
    "jp": "{v:0040}バーンシュタイン王国内に侵入させた者からの{n}緊急報告が入りました。{p}{v:0041}姫を乗せた馬車が、監禁場所から出たとの事です。{n}そして護送先は‥‥、{FFF9}{FFFB}{n}{v:0042}ガルアオス監獄です。",
-   "en": "",
+   "en": "{v:0040}An urgent report has arrived from our agent inside{n}Burnstein.{p}{v:0041}A carriage carrying the princess has left the place{n}where she was being held. Her destination is...{FFF9}{FFFB}{v:0042}Garuaos{n}Prison.",
    "term": "end"
   },
   {
    "id": "scen072.0154",
    "jp": "{v:0043}居場所がわかったんだ！",
-   "en": "",
+   "en": "{v:0043}Now we know where she is!",
    "term": "end"
   },
   {
    "id": "scen072.0155",
    "jp": "{v:0044}難攻不落のガルアオス監獄か‥‥。{FFF9}{FFFB}{n}{v:0045}やっかいなところに。",
-   "en": "",
+   "en": "{v:0044}The impregnable Garuaos Prison...{FFF9}{FFFB}{v:0045}A troublesome{n}destination.",
    "term": "end"
   },
   {
    "id": "scen072.0156",
    "jp": "{v:0046}俺たちの任務は人質の救出だ。{n}姫の居場所がわかったなら、そこへ行く。{n}それに狙うなら、護送中の今が一番だ。{p}{v:0047}あんな監獄へ移されたら、助け出すのはまず不可能だ。",
-   "en": "",
+   "en": "{v:0046}Our job is to rescue the hostage. Now that we know{n}where the princess is, that's where we're going.{n}Besides, our best chance is while she's being moved.{p}{v:0047}Once she's in that prison, getting her out will be next to{n}impossible.",
    "term": "end"
   },
   {
    "id": "scen072.0157",
    "jp": "{v:0048}うむ‥‥。{n}救出を行うなら、ガルアオス監獄へ{n}入れられる前しかないな。{p}{v:0049}あそこは周囲の地形が特殊なため、{n}中へ捕らえられた者の脱獄はおろか、{n}兵が攻め込むこともかなわん。",
-   "en": "",
+   "en": "{v:0048}Hmm... If we are to rescue her, it must be before she{n}reaches Garuaos Prison.{p}{v:0049}The unusual terrain surrounding it makes escape{n}impossible. Even an army cannot storm the place.",
    "term": "end"
   },
   {
    "id": "scen072.0158",
    "jp": "{v:004A}そのガルアオス監獄って、どこにあるの？",
-   "en": "",
+   "en": "{v:004A}Where is this Garuaos Prison, anyway?",
    "term": "end"
   },
   {
    "id": "scen072.0159",
    "jp": "{v:004B}君たちが破壊したつり橋を越えたところにある。",
-   "en": "",
+   "en": "{v:004B}Beyond the suspension bridge you destroyed.",
    "term": "end"
   },
   {
    "id": "scen072.0160",
    "jp": "{FB00}{v:004C}えっ？{n}それじゃアタシたち、自分で道を壊しちゃったの？{FFFA}",
-   "en": "",
+   "en": "{FB00}{v:004C}Huh? You mean we wrecked our own way across?!{FFFA}",
    "term": "end"
   },
   {
    "id": "scen072.0161",
    "jp": "{v:004D}誰よ、橋を落とそうなんて言ったのは！",
-   "en": "",
+   "en": "{v:004D}Whose bright idea was it to bring down the bridge?!",
    "term": "end"
   },
   {
    "id": "scen072.0162",
    "jp": "{v:004E}いや、その判断は間違えていない。{p}{v:004F}もし橋を奪うつもりで戦っていたら、{n}敵はいつまで経っても、橋の周囲から兵を引かず、{n}その間に姫は監獄へ移されてしまっただろう。",
-   "en": "",
+   "en": "{v:004E}No, that was the right decision.{p}{v:004F}Had you fought to capture the bridge, the enemy{n}would never have withdrawn its troops from the area.{n}Meanwhile, the princess would have been taken to the{p}prison.",
    "term": "end"
   },
   {
    "id": "scen072.0163",
    "jp": "{v:0050}どっちにしても急いだ方がいい。{n}このままじっとしていたら、手遅れになっちまう。{p}{v:0051}向こうへ入り込むだけでいいんだ。{n}後はルイセのテレポートで一気に帰ってこれる。",
-   "en": "",
+   "en": "{v:0050}Either way, we'd better hurry. Sit around here any{n}longer and it'll be too late.{p}{v:0051}We just need to get in. Then Luise's Teleport can bring{n}us straight back.",
    "term": "end"
   },
   {
    "id": "scen072.0164",
    "jp": "‥‥{v:0052}わかった。{n}私に考えがある。",
-   "en": "",
+   "en": "...{v:0052}Very well. I have an idea.",
    "term": "end"
   },
   {
    "id": "scen072.0165",
    "jp": "{v:0053}おい、お前！",
-   "en": "",
+   "en": "{v:0053}You there!",
    "term": "end"
   },
   {
    "id": "scen072.0166",
    "jp": "{v:0054}はいっ！{n}お呼びでしょうか、司令！",
-   "en": "",
+   "en": "{v:0054}Yes, sir! You called, Commander?",
    "term": "end"
   },
   {
    "id": "scen072.0167",
    "jp": "{v:0055}この者たちに峡谷を越えてもらう。{n}ロープを用意しろ。{n}あの作戦を使う。",
-   "en": "",
+   "en": "{v:0055}These people need to cross the gorge. Prepare the{n}ropes. We will use that plan.",
    "term": "end"
   },
   {
    "id": "scen072.0168",
    "jp": "{v:0056}あ、あの作戦ですね。{n}了解しました。",
-   "en": "",
+   "en": "{v:0056}Th-that plan, sir? Understood.",
    "term": "end"
   },
   {
    "id": "scen072.0169",
    "jp": "{v:0057}あの作戦？",
-   "en": "",
+   "en": "{v:0057}That plan?",
    "term": "end"
   },
   {
    "id": "scen072.0170",
    "jp": "{v:0058}なに、すぐにわかるさ。{n}君たちが橋を落とした峡谷へ行ってくれ。{n}すぐに向こうへ渡れるようになる。",
-   "en": "",
+   "en": "{v:0058}You will see soon enough. Go to the gorge where you{n}brought down the bridge. We will have you across in no{n}time.",
    "term": "end"
   },
   {
    "id": "scen072.0171",
    "jp": "ガルアオス監獄へ送られる前に、姫を助けるんだ。{n}急いで峡谷へ向かってくれ。",
-   "en": "",
+   "en": "Rescue the princess before she is taken to Garuaos{n}Prison. Hurry to the gorge.",
    "term": "end"
   },
   {
    "id": "scen072.0172",
    "jp": "バーンシュタインとランザックを{n}同盟させないためにも頑張ってくれ！{n}今となっては君たちが頼りなんだ！",
-   "en": "",
+   "en": "Do everything you can to prevent an alliance between{n}Burnstein and Ranzak! We are counting on you now!",
    "term": "end"
   },
   {
    "id": "scen072.0173",
    "jp": "困ったことになったな‥‥。",
-   "en": "",
+   "en": "This is a troubling situation...",
    "term": "end"
   },
   {
    "id": "scen072.0174",
    "jp": "姫をよろしく頼むぞ。",
-   "en": "",
+   "en": "I entrust the princess to you.",
    "term": "end"
   },
   {
    "id": "scen072.0175",
    "jp": "{v:002B}どうだ、そろそろこの仕事にも慣れたか？",
-   "en": "",
+   "en": "{v:002B}Well, are you getting used to this work?",
    "term": "end"
   },
   {
    "id": "scen072.0176",
    "jp": "{v:002C}そうか、飲み込みが早いんだな。",
-   "en": "",
+   "en": "{v:002C}I see. You are quick learners.",
    "term": "end"
   },
   {
    "id": "scen072.0177",
    "jp": "{v:002D}そう焦ることもないがな。",
-   "en": "",
+   "en": "{v:002D}There is no need to rush.",
    "term": "end"
   },
   {
    "id": "scen072.0178",
    "jp": "{v:002E}お前たちの仕事は、私たちと違って、{n}いろんな所へおもむかねばならん。{p}{v:002F}そして自分たちで分析し、その場で判断し、{n}必要ならば実行せねばならん。{p}{v:0030}大変な仕事だ。{n}がんばるのだぞ。",
-   "en": "",
+   "en": "{v:002E}Unlike ours, your duties require you to travel to many{n}places.{p}{v:002F}You must assess each situation yourselves, make{n}decisions on the spot, and act when necessary.{p}{v:0030}It is demanding work. Do your best.",
    "term": "end"
   },
   {
    "id": "scen072.0179",
    "jp": "{v:001A}援軍はどうなっている？",
-   "en": "",
+   "en": "{v:001A}What of the reinforcements?",
    "term": "end"
   },
   {
    "id": "scen072.0180",
    "jp": "{v:001B}今集まる兵は送るけど、{n}戦争が出来るほどの兵を収集するには{n}時間がかかるって言ってました。",
-   "en": "",
+   "en": "{v:001B}They said they'd send whatever troops they can{n}gather now, but it'll take time to muster enough for a{n}war.",
    "term": "end"
   },
   {
    "id": "scen072.0181",
    "jp": "{v:001C}うむ‥‥仕方ないか。",
-   "en": "",
+   "en": "{v:001C}Hmm... It cannot be helped.",
    "term": "end"
   },
   {
    "id": "scen072.0182",
    "jp": "おい、{s:0000}！{n}いつまで姫を放っておくつもりだ！",
-   "en": "",
+   "en": "Hey, {s:0000}! How long are you going to{n}leave the princess waiting?!",
    "term": "end"
   }
  ]

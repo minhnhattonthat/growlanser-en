@@ -235,6 +235,24 @@ alternatives); an Avoid spelling fails.
 | 肉の城 | Castle of Flesh | | | |
 | ＧＬカード | GL Card | | | |
 
+## Terms from translator reports, wave 2 (tools/newterms.py conflicts, controller-picked 2026-11-18: majority or table spelling)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| グランバス | Granbas | | legendary king of Grancil | Granbus |
+| 時空制御装置 | space-time control device | | capitalised only as a heading | space-time control unit, spacetime |
+| 歪み率 | distortion level | | | distortion rate |
+| 歪み計 | distortion gauge | | | distortion meter |
+| 工作兵 | Saboteur | | | Sapper |
+| 援軍要請の書簡 | Reinforcement Request Letter | | key item | Call for Troops Letter |
+| 反省室 | Reflection Room | | | reflection chamber |
+| 集魔柱 | mana collection pillar | | | magic-gathering pillar |
+| 眼帯の男 | Eyepatched Man | | speaker tag | Man with Eyepatch |
+| 大きなコイン | Large Coin | | | Big Coin |
+| マジックタイム停止装置 | Magic Time Stopper | | | |
+| 魔導技師 | Magitech Engineer | | names and units tables | Magic Engineer |
+| モンスター使い | Monster Tamer | | | monster handler |
+- 目 as `{s:0127}` (names-table kanji, renders "Eye"): English drops the code and writes the word (`batches.GLYPH_VARS`).
+
 ## Decisions from earlier batches
 - 秘石 (in dialogue) = Power Stone, like パワーストーン; the item 秘石制御装置 stays "Gem Control Unit" (96 px item cap).
 - Case-only variants (Magic Crystal / magic crystal, Multipurpose Hall) follow normal English capitalisation: proper

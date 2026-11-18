@@ -15,253 +15,253 @@
   {
    "id": "scen089.0001",
    "jp": "立て札",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen089.0002",
    "jp": "青年",
-   "en": "",
+   "en": "Young Man",
    "term": "null"
   },
   {
    "id": "scen089.0003",
    "jp": "{FFEC}{v:001F}ティピちゃーん、キーック{FFED}",
-   "en": "",
+   "en": "{FFEC}{v:001F}Tippi-chan Kiiick!{FFED}",
    "term": "end"
   },
   {
    "id": "scen089.0004",
    "jp": "{v:0020}アンタ！{n}素通りしてどうすんのっ！",
-   "en": "",
+   "en": "{v:0020}Hey, you! What do you think you're doing, walking right{n}past?!",
    "term": "end"
   },
   {
    "id": "scen089.0005",
    "jp": "わたし、行ってくる！",
-   "en": "",
+   "en": "I'll go!",
    "term": "end"
   },
   {
    "id": "scen089.0006",
    "jp": "{v:0021}あ、あの‥‥。",
-   "en": "",
+   "en": "{v:0021}U-um...",
    "term": "end"
   },
   {
    "id": "scen089.0007",
    "jp": "{v:0000}あれ？{n}あの子‥‥。",
-   "en": "",
+   "en": "{v:0000}Huh? That boy...",
    "term": "end"
   },
   {
    "id": "scen089.0008",
    "jp": "{v:0001}ヒドイじゃないですか！{n}王都へ連れて行くことを約束したはずなのに、{n}置き去りにするなんて！",
-   "en": "",
+   "en": "{v:0001}That was awful of you! You promised to take me to{n}the capital, but you left me behind!",
    "term": "end"
   },
   {
    "id": "scen089.0009",
    "jp": "{v:0002}ああ、そうだったな。",
-   "en": "",
+   "en": "{v:0002}Oh, right. We did.",
    "term": "end"
   },
   {
    "id": "scen089.0010",
    "jp": "{v:0003}夕べはひどかったんですよ！{n}また変な男たちが部屋にまで入ってきて！{p}{v:0004}明け方まで森の中に潜んで、{n}とっても怖かったんですから！",
-   "en": "",
+   "en": "{v:0003}Last night was terrible! Those strange men even came{n}into my room again!{p}{v:0004}I had to hide in the forest until dawn. I was so scared!",
    "term": "end"
   },
   {
    "id": "scen089.0011",
    "jp": "{v:0005}ゴメンなさい。{n}実はお母さんが危なかったの。",
-   "en": "",
+   "en": "{v:0005}I'm sorry. Mother was in danger.",
    "term": "end"
   },
   {
    "id": "scen089.0012",
    "jp": "{v:0006}えっ？{n}お母さんが‥‥？{p}‥‥{v:0007}それじゃ、仕方ないですね。{n}それに戻ってきてくれましたし‥‥。{p}{v:0008}これからローランディアの王都まで、{n}連れていってくださいね？",
-   "en": "",
+   "en": "{v:0006}What? Your mother...?{p}...{v:0007}Then I suppose you couldn't help it. Besides, you did{n}come back...{p}{v:0008}You'll take me to Rolandia's capital now, won't you?",
    "term": "end"
   },
   {
    "id": "scen089.0013",
    "jp": "{v:0009}約束だからな。",
-   "en": "",
+   "en": "{v:0009}We gave you our word.",
    "term": "end"
   },
   {
    "id": "scen089.0014",
    "jp": "　{n}　　　　　{FFEF}エリオットが同行者になった！{FFF1}",
-   "en": "",
+   "en": "{FFEF}Elliot is now accompanying the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen089.0015",
    "jp": "{n}　　　　　　　　{FFF0}この先、デリス村{FFF1}",
-   "en": "",
+   "en": "{FFF0}Delis Village ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen089.0016",
    "jp": "{v:001E}すいませ～ん！",
-   "en": "",
+   "en": "{v:001E}Excuse meee!",
    "term": "end"
   },
   {
    "id": "scen089.0017",
    "jp": "{v:0022}ん？{n}何の用だ？",
-   "en": "",
+   "en": "{v:0022}Hm? What do you want?",
    "term": "end"
   },
   {
    "id": "scen089.0018",
    "jp": "{v:0023}これ、落としませんでした？",
-   "en": "",
+   "en": "{v:0023}Did you drop this?",
    "term": "end"
   },
   {
    "id": "scen089.0019",
    "jp": "　{n}　　拾った剣を見せた！",
-   "en": "",
+   "en": "Showed the sword you found!",
    "term": "end"
   },
   {
    "id": "scen089.0020",
    "jp": "{v:0024}なぜこれを‥‥。",
-   "en": "",
+   "en": "{v:0024}How did you get this...?",
    "term": "end"
   },
   {
    "id": "scen089.0021",
    "jp": "{v:0025}やっぱりあなたの剣だったんですね。",
-   "en": "",
+   "en": "{v:0025}So it was your sword.",
    "term": "end"
   },
   {
    "id": "scen089.0022",
    "jp": "‥‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen089.0023",
    "jp": "{v:0026}あれ？{n}どうしたの？",
-   "en": "",
+   "en": "{v:0026}Huh? What's wrong?",
    "term": "end"
   },
   {
    "id": "scen089.0024",
    "jp": "{v:0027}それは‥‥捨てたのだ‥‥。",
-   "en": "",
+   "en": "{v:0027}I... threw it away...",
    "term": "end"
   },
   {
    "id": "scen089.0025",
    "jp": "{v:0028}どうして？{n}こんなに大事に使っているのに‥‥。",
-   "en": "",
+   "en": "{v:0028}Why? You've taken such good care of it...",
    "term": "end"
   },
   {
    "id": "scen089.0026",
    "jp": "{v:0029}お前たちには関係ないだろう！{n}かせ！",
-   "en": "",
+   "en": "{v:0029}That is none of your concern! Give it here!",
    "term": "end"
   },
   {
    "id": "scen089.0027",
    "jp": "　{n}　　拾った剣を手渡した！",
-   "en": "",
+   "en": "Handed over the sword you found!",
    "term": "end"
   },
   {
    "id": "scen089.0028",
    "jp": "{v:002A}何、アレ？{n}頭にくるなぁ！",
-   "en": "",
+   "en": "{v:002A}What's with that attitude?! Ugh, that makes me mad!",
    "term": "end"
   },
   {
    "id": "scen089.0029",
    "jp": "{v:002B}きっと、何か事情があるんだよ。",
-   "en": "",
+   "en": "{v:002B}I'm sure there's a reason.",
    "term": "end"
   },
   {
    "id": "scen089.0030",
    "jp": "何してんのよ！{n}あの剣を返してあげるんでしょうが！？",
-   "en": "",
+   "en": "What are you doing?! Aren't we supposed to give that{n}sword back?!",
    "term": "end"
   },
   {
    "id": "scen089.0031",
    "jp": "‥‥{v:0015}私はいったい何のためにがんばってきたんだ‥‥。{p}{v:0016}何のために‥‥。{p}{FC02}{v:0017}こんな剣なんて！",
-   "en": "",
+   "en": "...{v:0015}What have I been striving for all this time...?{p}{v:0016}For what...?{p}{FC02}{v:0017}This worthless sword!",
    "term": "end"
   },
   {
    "id": "scen089.0032",
    "jp": "{v:0018}‥‥‥。",
-   "en": "",
+   "en": "{v:0018}...",
    "term": "end"
   },
   {
    "id": "scen089.0033",
    "jp": "{v:0019}何ソレ？{n}古い剣だね‥‥。",
-   "en": "",
+   "en": "{v:0019}What's that? That's an old sword...",
    "term": "end"
   },
   {
    "id": "scen089.0034",
    "jp": "{FFEE}よく使い込まれているが、手入れの行き届いた剣だ。{n}見ているだけで、持ち主の愛着が伝わってくる。{FFF1}",
-   "en": "",
+   "en": "{FFEE}The sword is well worn, but carefully maintained. You{n}can tell at a glance how much its owner treasured it.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen089.0035",
    "jp": "{v:001A}あれ？{n}これ、何だろう？",
-   "en": "",
+   "en": "{v:001A}Oh? What's this?",
    "term": "end"
   },
   {
    "id": "scen089.0036",
    "jp": "{v:001B}お兄ちゃん、ほら、これ。",
-   "en": "",
+   "en": "{v:001B}Big Brother, look at this.",
    "term": "end"
   },
   {
    "id": "scen089.0037",
    "jp": "{v:001C}落とした人、困ってるんじゃないかな？",
-   "en": "",
+   "en": "{v:001C}I wonder if the person who dropped it is worried.",
    "term": "end"
   },
   {
    "id": "scen089.0038",
    "jp": "{v:001D}あの橋の上にいる人かな？{n}持っていってあげようよ！",
-   "en": "",
+   "en": "{v:001D}Maybe it's that person on the bridge? Let's take it{n}over!",
    "term": "end"
   },
   {
    "id": "scen089.0039",
    "jp": "{v:0000}ここだ‥‥。{p}{v:0001}なつかしいな。{n}ここで初めて私たちはであったのだ。{n}覚えてないか？",
-   "en": "",
+   "en": "{v:0000}Here it is...{p}{v:0001}This brings back memories. This is where we first met.{n}Do you not remember?",
    "term": "end"
   },
   {
    "id": "scen089.0040",
    "jp": "{v:0002}あ、ここ、ここ！{n}ここで初めてジュリアンと出会ったんだよ？{n}覚えてない？",
-   "en": "",
+   "en": "{v:0002}Oh, here! Right here! This is where we first met Julian.{n}Don't you remember?",
    "term": "end"
   },
   {
    "id": "scen089.0041",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
+   "en": "{FFF3}...",
    "term": "end"
   },
   {
    "id": "scen089.0042",
    "jp": "{v:0003}ダメみたいね。",
-   "en": "",
+   "en": "{v:0003}Looks like it's no use.",
    "term": "end"
   }
  ]

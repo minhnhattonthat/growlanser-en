@@ -57,13 +57,13 @@
   {
    "id": "scen013.0008",
    "jp": "{v:0009}今日はどこへ行く？",
-   "en": "{v:0009}Where will you go today?",
+   "en": "{v:0009}Where shall we go today?",
    "term": "end"
   },
   {
    "id": "scen013.0009",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where will you spend your vacation today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {
@@ -90,7 +90,7 @@
   {
    "id": "scen013.0013",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings Tourist Destination",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },
@@ -134,7 +134,7 @@
   {
    "id": "scen013.0020",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where will you spend your vacation today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {
@@ -161,7 +161,7 @@
   {
    "id": "scen013.0024",
    "jp": "・観光地コムスプリングス",
-   "en": "・Comsprings Tourist Destination",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
    "unref": true
   },

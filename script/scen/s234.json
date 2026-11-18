@@ -15,67 +15,67 @@
   {
    "id": "scen234.0001",
    "jp": "アナウンス",
-   "en": "",
+   "en": "Announcer",
    "term": "null"
   },
   {
    "id": "scen234.0002",
    "jp": "{v:0120}おっとっ！{n}新チャンピオンの誕生だーーーっ！",
-   "en": "",
+   "en": "{v:0120}Ohhh! We have a new champiooon!",
    "term": "end"
   },
   {
    "id": "scen234.0003",
    "jp": "{v:0123}おおっと！{n}チャンピオン『Ｊ』、{n}またまた防衛に成功だぁーーーっ！！",
-   "en": "",
+   "en": "{v:0123}Ohhh! Champion 'J' has defended the title yet agaaain!!",
    "term": "end"
   },
   {
    "id": "scen234.0004",
    "jp": "{v:0119}アンタ、負けるんじゃないわよ！",
-   "en": "",
+   "en": "{v:0119}Don't you dare lose!",
    "term": "end"
   },
   {
    "id": "scen234.0005",
    "jp": "{v:0118}お前の力、見せてもらうぞ！",
-   "en": "",
+   "en": "{v:0118}Show me your strength!",
    "term": "end"
   },
   {
    "id": "scen234.0006",
    "jp": "{v:011C}まだまだ！",
-   "en": "",
+   "en": "{v:011C}Not yet!",
    "term": "end"
   },
   {
    "id": "scen234.0007",
    "jp": "{v:011E}まだまだ行けるわよ！",
-   "en": "",
+   "en": "{v:011E}You can keep going!",
    "term": "end"
   },
   {
    "id": "scen234.0008",
    "jp": "{v:011B}く‥‥、さすがは私が認めた男。",
-   "en": "",
+   "en": "{v:011B}Ugh... You are indeed the man I deemed worthy.",
    "term": "end"
   },
   {
    "id": "scen234.0009",
    "jp": "{v:011A}お前の力はその程度か！？",
-   "en": "",
+   "en": "{v:011A}Is that the extent of your strength?!",
    "term": "end"
   },
   {
    "id": "scen234.0010",
    "jp": "{v:011D}その程度か！？",
-   "en": "",
+   "en": "{v:011D}Is that all?!",
    "term": "end"
   },
   {
    "id": "scen234.0011",
    "jp": "{v:011F}シャキッとしなさいよ！",
-   "en": "",
+   "en": "{v:011F}Pull yourself together!",
    "term": "end"
   }
  ]

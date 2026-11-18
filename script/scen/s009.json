@@ -57,7 +57,7 @@
   {
    "id": "scen009.0008",
    "jp": "サンドラ様のご子息、{n}{s:0000}様ですね。{n}どうぞ、お通り下さい。",
-   "en": "You are Lord {s:0000}, Sandra-sama's son,{n}correct? Please, go through.",
+   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, go right through.",
    "term": "end"
   },
   {
@@ -141,13 +141,13 @@
   {
    "id": "scen009.0022",
    "jp": "どうぞ、お通り下さい。",
-   "en": "Please, go through.",
+   "en": "Please, go right through.",
    "term": "end"
   },
   {
    "id": "scen009.0023",
    "jp": "においにつられて来てみたものの、{n}つまみ食いなんて出来ないし‥‥。{n}見てしまったからよけい腹が減った‥‥。",
-   "en": "The smell drew me in, but I can't sneak a bite... Now that{n}I've seen the food, I'm even hungrier...",
+   "en": "The smell drew me in, but it's not like I can sneak a{n}bite... Now that I've seen the food, I'm even hungrier...",
    "term": "end"
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "scen009.0029",
    "jp": "あの兵隊さん、いっつも来てるけど、{n}暇なのかねぇ‥‥。",
-   "en": "That soldier's always coming by. Doesn't he have{n}anything to do...?",
+   "en": "That soldier's always coming by. Hasn't he got anything{n}to do...?",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen009.0039",
    "jp": "なんと答えますか？",
-   "en": "How will you respond?",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
@@ -342,13 +342,13 @@
   {
    "id": "scen009.0055",
    "jp": "ここは牢屋だぞ？{n}何か用なのか？{n}用がないのなら、上に戻りなさい。",
-   "en": "This is the dungeon. Do you need something? If not, go{n}back upstairs.",
+   "en": "This is the dungeon, you know. Do you need something?{n}If not, go back upstairs.",
    "term": "end"
   },
   {
    "id": "scen009.0056",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "{v:000A}Your leave is over. You are to undertake your next{n}assignment.",
+   "en": "{v:000A}Your leave is over. You will now undertake your next{n}mission.",
    "term": "end"
   },
   {
@@ -384,7 +384,7 @@
   {
    "id": "scen009.0062",
    "jp": "気を付けて行くがよい。",
-   "en": "Take care on your journey.",
+   "en": "Go safely.",
    "term": "end"
   },
   {
@@ -522,7 +522,7 @@
   {
    "id": "scen009.0085",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
@@ -638,19 +638,19 @@
   {
    "id": "scen009.0104",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "{v:0002}For your service this time, you are granted three days{n}of leave.",
+   "en": "{v:0002}For your service, you are granted three days of leave.",
    "term": "end"
   },
   {
    "id": "scen009.0105",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "{v:0001}For your service this time, you are granted two days{n}of leave.",
+   "en": "{v:0001}For your service, you are granted two days of leave.",
    "term": "end"
   },
   {
    "id": "scen009.0106",
    "jp": "{v:0000}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "{v:0000}For your service this time, you are granted one day of{n}leave.",
+   "en": "{v:0000}For your service, you are granted one day of leave.",
    "term": "end"
   },
   {
@@ -758,13 +758,13 @@
   {
    "id": "scen009.0124",
    "jp": "{v:0009}今日はどこへ行く？",
-   "en": "{v:0009}Where are we going today?",
+   "en": "{v:0009}Where shall we go today?",
    "term": "end"
   },
   {
    "id": "scen009.0125",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where would you like to spend your leave today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {
@@ -805,7 +805,7 @@
   {
    "id": "scen009.0131",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "Where would you like to spend your leave today?",
+   "en": "Where will you spend your leave today?",
    "term": "end"
   },
   {

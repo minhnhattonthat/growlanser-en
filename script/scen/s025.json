@@ -239,25 +239,25 @@
   {
    "id": "scen025.0038",
    "jp": "ここは研究に向いてていいよね～。{n}グローシアン遺跡やフェザリアン遺跡が{n}そばにあるし、水晶鉱山もそこそこ近いし。{p}それにローランディアとバーンシュタインの{n}国境沿いでもあるから、学院の立地条件としては{n}まさに最高って感じだな～。",
-   "en": "This place is great for research, isn't it? We've got{n}Growsian and Featherian ruins nearby, and the crystal{n}mine isn't too far away, either.{p}Plus, we're right along the border between Rolandia{n}and Burnstein. You couldn't ask for a better location{n}for the Academy.",
+   "en": "This is a great place for research, isn't it? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away, either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
    "term": "end"
   },
   {
    "id": "scen025.0039",
    "jp": "私は薬学を専攻しているから、{n}メディス村とラシェルにしか、用はないけどね。",
-   "en": "Well, I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
+   "en": "I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
    "term": "end"
   },
   {
    "id": "scen025.0040",
    "jp": "この前、効能の研究だって、{n}コムスプリングスへ遊びに行ってなかったっけ？",
-   "en": "Didn't you go off to Comsprings for fun the other day,{n}claiming you were researching its healing properties?",
+   "en": "Didn't you go off to Comsprings for fun the other day,{n}claiming you were researching its health benefits?",
    "term": "end"
   },
   {
    "id": "scen025.0041",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "How rude! Hot springs are a perfectly respectable{n}subject of research!",
+   "en": "How rude! Hot springs are a perfectly valid subject of{n}research!",
    "term": "end"
   },
   {
@@ -269,19 +269,19 @@
   {
    "id": "scen025.0043",
    "jp": "って言うかさ～。{n}魔法の才能がある人間を押し込めて、{n}管理してるんじゃないの？{p}教授とかもさ～、アブナイ奴いるからな～。{n}ま、俺は魔法の勉強が出来ればいいや。",
-   "en": "Or maybe they're just keeping everyone with magical{n}talent cooped up here so they can control us?{p}Some of the professors are pretty shady, too. Well, as{n}long as I can study magic, I'm happy.",
+   "en": "Or maybe they're just keeping everyone with a talent{n}for magic cooped up here so they can control us?{p}Some of the professors are pretty dangerous{n}characters, too. Oh well. As long as I get to study{n}magic, I'm happy.",
    "term": "end"
   },
   {
    "id": "scen025.0044",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "I finally managed to get into the Academy, but now it's{n}study, study, study, every day... Ahh, my youth is{n}slipping away!",
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
    "term": "end"
   },
   {
    "id": "scen025.0045",
    "jp": "ん？{n}最近、よく見かける顔だな。{n}まさかここの学生じゃないよね？",
-   "en": "Hmm? I've been seeing you around a lot lately. You're{n}not a student here, are you?",
+   "en": "Hmm? I've seen you around a lot lately. You're not{n}students here, are you?",
    "term": "end"
   },
   {
@@ -347,7 +347,7 @@
   {
    "id": "scen025.0056",
    "jp": "あ～あ‥‥もっと魔水晶が手に入らないかな。{n}水晶鉱山がもっと発見されれば、{n}こんな悩みは解消されるんだけどな～。",
-   "en": "Ahhh... If only I could get more magic crystals. If they{n}found more crystal mines, I wouldn't have this{n}problem...",
+   "en": "*sigh*... I wish I could get my hands on more magic{n}crystals. If only they'd discover more crystal mines, I{n}wouldn't have this problem...",
    "term": "end"
   },
   {
@@ -695,7 +695,7 @@
   {
    "id": "scen025.0114",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "Oh, Dear Brother! You need my help!",
+   "en": "Oh, Big Brother! You need my help, don't you!",
    "term": "end"
   },
   {
@@ -714,7 +714,7 @@
   {
    "id": "scen025.0117",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add her to the party now",
+   "en": "・Don't add anyone for now",
    "term": "end",
    "unref": true
   },
@@ -739,7 +739,7 @@
   {
    "id": "scen025.0121",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
@@ -759,7 +759,7 @@
   {
    "id": "scen025.0124",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "Take back {s:FFED}'s equipment?",
+   "en": "Retrieve {s:FFED}'s equipment?",
    "term": "end"
   },
   {
@@ -1374,7 +1374,7 @@
   {
    "id": "scen025.0226",
    "jp": "ありがとう、がんばるよ。",
-   "en": "Thank you. I'll do my best.",
+   "en": "Thanks. I'll do my best.",
    "term": "end"
   },
   {
@@ -1602,7 +1602,7 @@
   {
    "id": "scen025.0264",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "Um, Big Brother... We'll get in trouble if we use magic{n}inside the Academy's buildings...",
+   "en": "Um, Big Brother... We'll get in trouble if we use magic{n}inside the Academy...",
    "term": "end"
   }
  ]

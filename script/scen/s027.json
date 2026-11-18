@@ -168,13 +168,13 @@
   {
    "id": "scen027.0025",
    "jp": "{FFEB}エルムだ。",
-   "en": "That'll be {FFEB} Elm.",
+   "en": "{FFEB} Elm.",
    "term": "end"
   },
   {
    "id": "scen027.0026",
    "jp": "おう、どんどん食ってくれ！",
-   "en": "That's it, eat up!",
+   "en": "Yeah, eat up!",
    "term": "end"
   },
   {
@@ -198,13 +198,13 @@
   {
    "id": "scen027.0030",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods here.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen027.0031",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Would you like to buy or sell today?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -286,7 +286,7 @@
   {
    "id": "scen027.0044",
    "jp": "最近の学生って魔力は強いんだけど、{n}向学心に欠けるのよね‥‥。{n}教えがいのある学生はいないのかしら？",
-   "en": "Students these days have strong magic, but so little{n}desire to learn... I wonder if any of them would be{n}rewarding to teach.",
+   "en": "Students these days have plenty of magical power,{n}but so little desire to learn... I wonder if there are any{n}students who would make teaching worthwhile.",
    "term": "end"
   },
   {
@@ -937,7 +937,7 @@
   {
    "id": "scen027.0148",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "The Growsian ruins to the north contain a variety of{n}mechanisms. Those alone are of incalculable value to{n}researchers.",
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to our{n}research.",
    "term": "end"
   },
   {
@@ -979,7 +979,7 @@
   {
    "id": "scen027.0155",
    "jp": "『{FFEF}魔水晶鉱山～概略～{FFF1}』{n}読んでみますか？",
-   "en": "'{FFEF}Magic Crystal Mine: An Overview{FFF1}' Would you like to read{n}it?",
+   "en": "'{FFEF}The Magic Crystal Mine: An Overview{FFF1}' Would you like to{n}read it?",
    "term": "end"
   },
   {
@@ -1126,7 +1126,7 @@
   {
    "id": "scen027.0178",
    "jp": "面倒くさいなぁ。",
-   "en": "Ugh, what a pain!",
+   "en": "What a pain.",
    "term": "end"
   },
   {
@@ -1342,7 +1342,7 @@
   {
    "id": "scen027.0211",
    "jp": "{v:000E}失礼します。",
-   "en": "{v:000E}Excuse us.",
+   "en": "{v:000E}Excuse me.",
    "term": "end"
   },
   {
@@ -1360,7 +1360,7 @@
   {
    "id": "scen027.0214",
    "jp": "なんと答えますか？",
-   "en": "How will you respond?",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
@@ -1925,7 +1925,7 @@
   {
    "id": "scen027.0306",
    "jp": "どうやら地震雲は出てないようだな。",
-   "en": "There doesn't seem to be an earthquake cloud in sight.",
+   "en": "There don't seem to be any earthquake clouds.",
    "term": "end"
   },
   {

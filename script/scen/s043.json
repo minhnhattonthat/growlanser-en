@@ -135,7 +135,7 @@
   {
    "id": "scen043.0021",
    "jp": "{v:003C}うわ～、大きいね。",
-   "en": "{v:003C}Wooow, it's huge!",
+   "en": "{v:003C}Wow, it's huge!",
    "term": "end"
   },
   {
@@ -456,7 +456,7 @@
   {
    "id": "scen043.0074",
    "jp": "がんばって下さい。",
-   "en": "Best of luck.",
+   "en": "Good luck.",
    "term": "end"
   },
   {
@@ -510,7 +510,7 @@
   {
    "id": "scen043.0083",
    "jp": "戦いで傷ついたら、ここで休んでくといいぜ！",
-   "en": "If you get hurt in a fight, come rest here!",
+   "en": "If you get hurt in a fight, come rest up here!",
    "term": "end"
   },
   {

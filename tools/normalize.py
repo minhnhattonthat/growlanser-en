@@ -2,11 +2,15 @@
 
     python -X utf8 tools/normalize.py            dry run: what would change
     python -X utf8 tools/normalize.py --write    merge the changes into script/
+    python -X utf8 tools/normalize.py --scan [N] list repeated JP strings (N+ copies) whose English differs
+    python -X utf8 tools/normalize.py --majority N [--write]   also give every scene string with N+ translated
+                                                 copies its most common English (RULES win)
 
 For strings repeated across scenes (elevator menus etc.) that batches translated differently. Entries without English
 yet are left alone (their batch translates them). Stop the tl_run runner first if it may merge into the same scenes.
 """
 import sys
+from collections import Counter
 
 import batches
 
@@ -33,11 +37,42 @@ RULES = {
 }
 
 
+def scan(min_count):
+    """Repeated JP strings (min_count+ translated copies) whose English differs, most copies first."""
+    groups = {}
+    for _, _, entries in batches.docs():
+        for e in entries:
+            if e.get("en") and e["id"].startswith("scen"):
+                groups.setdefault(e["jp"], {}).setdefault(e["en"], []).append(e["id"])
+    rows = [(sum(map(len, ens.values())), jp, ens) for jp, ens in groups.items()
+            if len(ens) > 1 and sum(map(len, ens.values())) >= min_count and jp not in RULES]
+    for n, jp, ens in sorted(rows, key=lambda r: -r[0]):
+        print(f"{n:3d} {jp!r}")
+        for en, ids in sorted(ens.items(), key=lambda x: -len(x[1])):
+            print(f"      {len(ids):3d} {en!r} ({ids[0]})")
+    print(f"{len(rows)} repeated strings with differing English")
+
+
+def majority(min_count):
+    """JP -> its most common English, for scene strings with min_count+ translated copies (ties: first seen)."""
+    groups = {}
+    for _, _, entries in batches.docs():
+        for e in entries:
+            if e.get("en") and e["id"].startswith("scen"):
+                groups.setdefault(e["jp"], Counter())[e["en"]] += 1
+    return {jp: c.most_common(1)[0][0] for jp, c in groups.items() if len(c) > 1 and sum(c.values()) >= min_count}
+
+
 def main(argv):
+    if "--scan" in argv:
+        return scan(int(argv[argv.index("--scan") + 1]) if len(argv) > argv.index("--scan") + 1 else 3)
+    rules = dict(RULES)
+    if "--majority" in argv:
+        rules = {**majority(int(argv[argv.index("--majority") + 1])), **RULES}
     new = {}
     for _, _, entries in batches.docs():
         for e in entries:
-            want = RULES.get(e["jp"])
+            want = rules.get(e["jp"])
             if want and e.get("en") and e["en"] != want:
                 new[batches.entry_key(e)] = want
                 print(f"{e['id']}: {e['en']!r} -> {want!r}")

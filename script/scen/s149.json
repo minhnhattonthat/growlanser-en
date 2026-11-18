@@ -15,955 +15,955 @@
   {
    "id": "scen149.0001",
    "jp": "門番",
-   "en": "",
+   "en": "Gatekeeper",
    "term": "null"
   },
   {
    "id": "scen149.0002",
    "jp": "オヤジ",
-   "en": "",
+   "en": "Old Man",
    "term": "null"
   },
   {
    "id": "scen149.0003",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "scen149.0004",
    "jp": "看板",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen149.0005",
    "jp": "看板・裏",
-   "en": "",
+   "en": "Sign (Back)",
    "term": "null"
   },
   {
    "id": "scen149.0006",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "term": "null"
   },
   {
    "id": "scen149.0007",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen149.0008",
    "jp": "張り紙",
-   "en": "",
+   "en": "Notice",
    "term": "null"
   },
   {
    "id": "scen149.0009",
    "jp": "ＬＬＭ魔法教室講師",
-   "en": "",
+   "en": "LLM Magic Class Instructor",
    "term": "null"
   },
   {
    "id": "scen149.0010",
    "jp": "ローランディア兵隊長",
-   "en": "",
+   "en": "Rolandia Captain",
    "term": "null"
   },
   {
    "id": "scen149.0011",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen149.0012",
    "jp": "入隊希望者",
-   "en": "",
+   "en": "Prospective Recruit",
    "term": "null"
   },
   {
    "id": "scen149.0013",
    "jp": "王都ローザリア",
-   "en": "",
+   "en": "Royal Capital Rosaria",
    "term": "end"
   },
   {
    "id": "scen149.0014",
    "jp": "{v:000F}それじゃ、花火までは自由時間ね。",
-   "en": "",
+   "en": "{v:000F}Okay, we've got free time until the fireworks!",
    "term": "end"
   },
   {
    "id": "scen149.0015",
    "jp": "{v:0010}それでいいだろう。{n}それじゃ、解散だ。",
-   "en": "",
+   "en": "{v:0010}Sounds good. All right, break up.",
    "term": "end"
   },
   {
    "id": "scen149.0016",
    "jp": "{v:0011}花火か‥‥。{n}うふふ、た・の・し・みぃ♥{p}{v:0111}そうだ、いいこと考えた！{p}‥‥{v:0012}あ、マスター？{n}うん、実は今夜の花火大会で‥‥{n}そう、塔の上で見せて欲しいんだ。{p}{v:0013}え？{n}ＯＫ？{n}マスターありがとう★{p}{v:0014}と、言うわけでぇ‥‥、{n}今夜の花火大会は特等席で見られるよ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:0011}Fireworks... Heehee, I can't waaait♥{p}{v:0111}Oh, I've got a great idea!{p}...{v:0012}Oh, Master? Yeah, about tonight's fireworks... Right,{n}could we watch them from the top of the tower?{p}{v:0013}Huh? We can? Thanks, Master!{p}{v:0014}Sooo... We've got the best seats in the house for{n}tonight's fireworks!{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen149.0017",
    "jp": "帰ってどうすんのよ！？",
-   "en": "",
+   "en": "What would we go back for?!",
    "term": "end"
   },
   {
    "id": "scen149.0018",
    "jp": "おや？{n}城内に戻られるのですか？",
-   "en": "",
+   "en": "Oh? Are you returning to the castle?",
    "term": "end"
   },
   {
    "id": "scen149.0019",
    "jp": "{v:0015}ん？{n}１人で行くの？　寂しいヤツねぇ‥‥。{FFF9}{p}{v:0016}誰かいい人いないの？",
-   "en": "",
+   "en": "{v:0015}Huh? You're going alone? What a loner...{FFF9}{p}{v:0016}Isn't there someone you like?",
    "term": "end"
   },
   {
    "id": "scen149.0020",
    "jp": "{v:0017}しょうがないわね。{n}アタシが一緒にいってあげる！",
-   "en": "",
+   "en": "{v:0017}Oh, all right. I'll go with you!",
    "term": "end"
   },
   {
    "id": "scen149.0021",
    "jp": "開門！",
-   "en": "",
+   "en": "Open the gates!",
    "term": "end"
   },
   {
    "id": "scen149.0022",
    "jp": "{v:004C}いらっしゃいませ。{n}スキマ屋へようこそ。",
-   "en": "",
+   "en": "{v:004C}Hello! Welcome to the Nook Shop.",
    "term": "end"
   },
   {
    "id": "scen149.0023",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "",
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
    "term": "end"
   },
   {
    "id": "scen149.0024",
    "jp": "今日は建国祭か‥‥。{n}今年も開催できて良かったよ、うん。",
-   "en": "",
+   "en": "The Founding Festival's today, eh? Glad we could hold it{n}again this year. Yes, indeed.",
    "term": "end"
   },
   {
    "id": "scen149.0025",
    "jp": "なんとか建国祭ができるのも{n}君たちのおかげだね。",
-   "en": "",
+   "en": "It's thanks to you that we've managed to hold the{n}Founding Festival at all.",
    "term": "end"
   },
   {
    "id": "scen149.0026",
    "jp": "いい天気。{n}これなら夜まで晴れてるわね。",
-   "en": "",
+   "en": "Such lovely weather. It should stay clear tonight.",
    "term": "end"
   },
   {
    "id": "scen149.0027",
    "jp": "私、花火が大好きなの。{n}楽しみだわ。",
-   "en": "",
+   "en": "I just love fireworks. I'm looking forward to them.",
    "term": "end"
   },
   {
    "id": "scen149.0028",
    "jp": "城門は堅く閉ざされている‥‥。",
-   "en": "",
+   "en": "The castle gates are firmly shut...",
    "term": "end"
   },
   {
    "id": "scen149.0029",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "",
+   "en": "{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
    "term": "end"
   },
   {
    "id": "scen149.0030",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "",
+   "en": "Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen149.0031",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "",
+   "en": "Bargains galore! Nook Shop",
    "term": "end"
   },
   {
    "id": "scen149.0032",
    "jp": "マンホールの底には、何もないようだ。",
-   "en": "",
+   "en": "There doesn't seem to be anything at the bottom of{n}the manhole.",
    "term": "end"
   },
   {
    "id": "scen149.0033",
    "jp": "店の前にあるマンホールだ。",
-   "en": "",
+   "en": "A manhole in front of the shop.",
    "term": "end"
   },
   {
    "id": "scen149.0034",
    "jp": "マンホールがまるい形をしているのは、{n}向きがずれても落ちないためだ。",
-   "en": "",
+   "en": "Manhole covers are round so they won't fall through,{n}no matter which way they're turned.",
    "term": "end"
   },
   {
    "id": "scen149.0035",
    "jp": "{v:002C}あ、お兄ちゃん。{n}どうしたの？",
-   "en": "",
+   "en": "{v:002C}Oh, Big Brother. What is it?",
    "term": "end"
   },
   {
    "id": "scen149.0036",
    "jp": "ルイセを誘いますか？",
-   "en": "",
+   "en": "Invite Luise?",
    "term": "end"
   },
   {
    "id": "scen149.0037",
    "jp": "{v:002D}え、わたしを誘ってくれるの？{n}嬉しいな★",
-   "en": "",
+   "en": "{v:002D}Oh, you're inviting me? I'm so happy!",
    "term": "end"
   },
   {
    "id": "scen149.0038",
    "jp": "{v:002E}それじゃルイセちゃん、行こう！",
-   "en": "",
+   "en": "{v:002E}Come on, Luise-chan! Let's go!",
    "term": "end"
   },
   {
    "id": "scen149.0039",
    "jp": "{v:002F}じゃあね、お兄ちゃん。",
-   "en": "",
+   "en": "{v:002F}See you later, Big Brother.",
    "term": "end"
   },
   {
    "id": "scen149.0040",
    "jp": "{v:00AB}どうしたんだい？{n}僕に何か用かい？",
-   "en": "",
+   "en": "{v:00AB}What's the matter? Do you need something from me?",
    "term": "end"
   },
   {
    "id": "scen149.0041",
    "jp": "アリオストを誘いますか？",
-   "en": "",
+   "en": "Invite Ariost?",
    "term": "end"
   },
   {
    "id": "scen149.0042",
    "jp": "{v:00AC}なるほど、君と一緒に花火を見るのも悪くなさそうだ。",
-   "en": "",
+   "en": "{v:00AC}I see. Watching the fireworks with you sounds rather{n}nice.",
    "term": "end"
   },
   {
    "id": "scen149.0043",
    "jp": "それじゃ。",
-   "en": "",
+   "en": "See you, then.",
    "term": "end"
   },
   {
    "id": "scen149.0044",
    "jp": "{v:00BA}どうしました？",
-   "en": "",
+   "en": "{v:00BA}What is it?",
    "term": "end"
   },
   {
    "id": "scen149.0045",
    "jp": "エリオットを誘いますか？",
-   "en": "",
+   "en": "Invite Elliot?",
    "term": "end"
   },
   {
    "id": "scen149.0046",
    "jp": "{v:00BB}いいですね、行きましょう！",
-   "en": "",
+   "en": "{v:00BB}That sounds lovely. Let's go!",
    "term": "end"
   },
   {
    "id": "scen149.0047",
    "jp": "{v:00BC}なにか用がありましたら、{n}声をかけてくださいね。",
-   "en": "",
+   "en": "{v:00BC}If you need anything, please let me know.",
    "term": "end"
   },
   {
    "id": "scen149.0048",
    "jp": "今日、でっかい花火が上がるんだって。",
-   "en": "",
+   "en": "I heard they're setting off some huge fireworks today!",
    "term": "end"
   },
   {
    "id": "scen149.0049",
    "jp": "早く見たいよな～。",
-   "en": "",
+   "en": "I can't waaait to see them!",
    "term": "end"
   },
   {
    "id": "scen149.0050",
    "jp": "うぅ‥‥。{n}なんか寂しいよ‥‥。",
-   "en": "",
+   "en": "Ugh... I feel so lonely...",
    "term": "end"
   },
   {
    "id": "scen149.0051",
    "jp": "僕たち、デート中なんだ。{n}邪魔しないでくれ！",
-   "en": "",
+   "en": "We're on a date. Leave us alone!",
    "term": "end"
   },
   {
    "id": "scen149.0052",
    "jp": "僕の彼女、ここを散歩するのが好きだったんだ‥‥。",
-   "en": "",
+   "en": "My girlfriend used to love walking here...",
    "term": "end"
   },
   {
    "id": "scen149.0053",
    "jp": "私たち、デート中なの。{n}邪魔しないで！",
-   "en": "",
+   "en": "We're on a date. Don't bother us!",
    "term": "end"
   },
   {
    "id": "scen149.0054",
    "jp": "あぁ‥‥。{n}これから私はどうしたらいいの‥‥。",
-   "en": "",
+   "en": "Oh... What am I supposed to do now...?",
    "term": "end"
   },
   {
    "id": "scen149.0055",
    "jp": "妖精ちゃん。{n}あなたも彼と一緒に頑張ってね！",
-   "en": "",
+   "en": "Little fairy, you keep doing your best alongside him,{n}too!",
    "term": "end"
   },
   {
    "id": "scen149.0056",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
    "term": "end"
   },
   {
    "id": "scen149.0057",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
+   "en": "{v:000E}Would you like to buy or sell?",
    "term": "end"
   },
   {
    "id": "scen149.0058",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0059",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0060",
    "jp": "他にもご用はおありですか？",
-   "en": "",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
    "id": "scen149.0061",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0062",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0063",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
+   "en": "{v:0018}Please come again.",
    "term": "end"
   },
   {
    "id": "scen149.0064",
    "jp": "やっと商店街へ買い出しに行って来たよ。",
-   "en": "",
+   "en": "I finally got to the shopping district to pick up some{n}supplies.",
    "term": "end"
   },
   {
    "id": "scen149.0065",
    "jp": "ごめ～ん。{n}今、手が放せないの。{n}しばらくしたら、また来て。",
-   "en": "",
+   "en": "Sorryyy. I'm busy right now. Come back in a little while.",
    "term": "end"
   },
   {
    "id": "scen149.0066",
    "jp": "あら、私を訪ねてくれたの？{p}そう言えば、スキマ屋には行ってみた？{n}あそこのおじさん、商売熱心だから、{n}たまに新しい物が入ってたりするわよ。",
-   "en": "",
+   "en": "Oh, did you come to see me?{p}By the way, have you been to the Nook Shop? The man{n}who runs it is quite devoted to his business, so he{n}sometimes has new things in stock.",
    "term": "end"
   },
   {
    "id": "scen149.0067",
    "jp": "デリス村の村長は私の叔父なのよ。{n}今でこそ、ぼ～っとして見えてるけど{n}昔はけっこう切れ者だったらしいわ。",
-   "en": "",
+   "en": "The chief of Delis Village is my uncle. He may seem{n}rather absentminded now, but I hear he used to be{n}quite sharp.",
    "term": "end"
   },
   {
    "id": "scen149.0068",
    "jp": "‥‥なんか、ず～っと物陰に隠れていると{n}眠くなっちゃうなぁ‥‥。",
-   "en": "",
+   "en": "...Hiding here out of sight for sooo long is making me{n}sleepy...",
    "term": "end"
   },
   {
    "id": "scen149.0069",
    "jp": "へぇ～。{n}こんな所に出るんだ‥‥。{n}面白いね。",
-   "en": "",
+   "en": "Wow... So this is where it comes out... That's neat.",
    "term": "end"
   },
   {
    "id": "scen149.0070",
    "jp": "うす汚れたマンホールだ。",
-   "en": "",
+   "en": "A grimy manhole cover.",
    "term": "end"
   },
   {
    "id": "scen149.0071",
    "jp": "新しいマンホールだ。",
-   "en": "",
+   "en": "A new manhole cover.",
    "term": "end"
   },
   {
    "id": "scen149.0072",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "",
+   "en": "South Avenue Shopping District: Open for Business!!",
    "term": "end"
   },
   {
    "id": "scen149.0073",
    "jp": "今では兵隊さんが品物を買いに来て、大忙しだ。{n}ああ、忙しい。",
-   "en": "",
+   "en": "Now soldiers are coming to buy things, and I'm run off{n}my feet. Oh, so busy!",
    "term": "end"
   },
   {
    "id": "scen149.0074",
    "jp": "今はちょっと忙しいの。{n}悪いけど、また後にしてくれないかしら？",
-   "en": "",
+   "en": "I'm a little busy right now. Sorry, but could you come{n}back later?",
    "term": "end"
   },
   {
    "id": "scen149.0075",
    "jp": "{v:004B}あ、お兄さま、どうしたんですか？",
-   "en": "",
+   "en": "{v:004B}Oh, Big Brother! What brings you here?",
    "term": "end"
   },
   {
    "id": "scen149.0076",
    "jp": "ミーシャを誘いますか？",
-   "en": "",
+   "en": "Invite Misha?",
    "term": "end"
   },
   {
    "id": "scen149.0077",
    "jp": "{v:004C}本当ですか？{n}嬉しいですぅ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "{v:004C}Really? I'm so happyyy{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen149.0078",
    "jp": "{v:004D}それじゃ、行こう！",
-   "en": "",
+   "en": "{v:004D}Then let's go!",
    "term": "end"
   },
   {
    "id": "scen149.0079",
    "jp": "{v:004E}ふに？",
-   "en": "",
+   "en": "{v:004E}Huh?",
    "term": "end"
   },
   {
    "id": "scen149.0080",
    "jp": "{v:0065}あら、どうしたのですか？",
-   "en": "",
+   "en": "{v:0065}Oh, is something the matter?",
    "term": "end"
   },
   {
    "id": "scen149.0081",
    "jp": "カレンを誘いますか？",
-   "en": "",
+   "en": "Invite Karen?",
    "term": "end"
   },
   {
    "id": "scen149.0082",
    "jp": "{v:0066}ええ、よろこんで。",
-   "en": "",
+   "en": "{v:0066}Yes, I'd be delighted.",
    "term": "end"
   },
   {
    "id": "scen149.0083",
    "jp": "{v:0067}私をですか‥‥？{p}{v:0068}わかりました。",
-   "en": "",
+   "en": "{v:0067}You want me to come...?{p}{v:0068}All right.",
    "term": "end"
   },
   {
    "id": "scen149.0084",
    "jp": "{v:0069}それでは。",
-   "en": "",
+   "en": "{v:0069}Well, then.",
    "term": "end"
   },
   {
    "id": "scen149.0085",
    "jp": "ごめんよ。{n}今日は建国祭で客がいっぱいなんだ。",
-   "en": "",
+   "en": "Sorry. We're packed with customers for the Founding{n}Festival today.",
    "term": "end"
   },
   {
    "id": "scen149.0086",
    "jp": "よく、ここへ来る方法がわかったな‥‥。{n}ここに気づいたのは、お前が初めてだ。",
-   "en": "",
+   "en": "So you figured out how to get here... You're the first{n}to notice this place.",
    "term": "end"
   },
   {
    "id": "scen149.0087",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
    "term": "end"
   },
   {
    "id": "scen149.0088",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
    "term": "end"
   },
   {
    "id": "scen149.0089",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0090",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0091",
    "jp": "まだ何か用か？",
-   "en": "",
+   "en": "Need anything else?",
    "term": "end"
   },
   {
    "id": "scen149.0092",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0093",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0094",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
+   "en": "{v:0025}See ya.",
    "term": "end"
   },
   {
    "id": "scen149.0095",
    "jp": "建国祭をきっかけに{n}ここもにぎやかになるといいわね。",
-   "en": "",
+   "en": "I hope the Founding Festival helps liven this place up,{n}too.",
    "term": "end"
   },
   {
    "id": "scen149.0096",
    "jp": "やあ、君たち。{n}頑張って僕らを守ってくれよ。",
-   "en": "",
+   "en": "Hello, you lot. Do your best to keep us safe, won't you?",
    "term": "end"
   },
   {
    "id": "scen149.0097",
    "jp": "花火か～。{n}新しい遊びのネタにならないかな？",
-   "en": "",
+   "en": "Fireworks, huh... I wonder if I could make up a new game{n}with them?",
    "term": "end"
   },
   {
    "id": "scen149.0098",
    "jp": "　不審な人物を見かけたら、{n}　すぐに警備兵に！{n}　　　～　王都ローザリア警備隊長　～",
-   "en": "",
+   "en": "If you see anyone suspicious, report to a guard at{n}once! -- Captain of the Royal Capital Rosaria Guard --",
    "term": "end"
   },
   {
    "id": "scen149.0099",
    "jp": "このマンホールをくぐると地底都市が！！{FFFB}{n}‥‥ということは絶対にない。",
-   "en": "",
+   "en": "Through this manhole lies an underground city!!{FFFB}{n}...Absolutely no chance of that.",
    "term": "end"
   },
   {
    "id": "scen149.0100",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "",
+   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
    "term": "end"
   },
   {
    "id": "scen149.0101",
    "jp": "何やってんのよ！",
-   "en": "",
+   "en": "What do you think you're doing?!",
    "term": "end"
   },
   {
    "id": "scen149.0102",
    "jp": "{v:009D}どうした？{n}俺に何か用か？",
-   "en": "",
+   "en": "{v:009D}What is it? Need something from me?",
    "term": "end"
   },
   {
    "id": "scen149.0103",
    "jp": "ウォレスを誘いますか？",
-   "en": "",
+   "en": "Invite Wallace?",
    "term": "end"
   },
   {
    "id": "scen149.0104",
    "jp": "{v:009E}花火と言われてもな‥‥。{p}{v:009F}まあいい、つき合おう。",
-   "en": "",
+   "en": "{v:009E}Fireworks, eh...?{p}{v:009F}All right. I'll come along.",
    "term": "end"
   },
   {
    "id": "scen149.0105",
    "jp": "{v:00A0}そうか。",
-   "en": "",
+   "en": "{v:00A0}I see.",
    "term": "end"
   },
   {
    "id": "scen149.0106",
    "jp": "誰か、花火がよく見える場所を知らないかな～？{n}静かでロマンチックで人の来ないところがいいな。",
-   "en": "",
+   "en": "Does anyone know a good place to watch the{n}fireworks? Somewhere quiet and romantic, where{n}nobody comes by.",
    "term": "end"
   },
   {
    "id": "scen149.0107",
    "jp": "花火なんてのんきだよな～。",
-   "en": "",
+   "en": "Fireworks... Must be nice to be so carefree.",
    "term": "end"
   },
   {
    "id": "scen149.0108",
    "jp": "お母さんが、今日は遅くまで起きていてもいいって。",
-   "en": "",
+   "en": "Mom said I could stay up late tonight.",
    "term": "end"
   },
   {
    "id": "scen149.0109",
    "jp": "今、このおじいさんに花火の仕組みを教えていたの。",
-   "en": "",
+   "en": "I was just explaining how fireworks work to this old{n}man.",
    "term": "end"
   },
   {
    "id": "scen149.0110",
    "jp": "わしも打ち上げ花火のように{n}派手な魔法を使いたいのう‥‥。",
-   "en": "",
+   "en": "I wish I could cast magic as flashy as those fireworks,{n}eh...",
    "term": "end"
   },
   {
    "id": "scen149.0111",
    "jp": "{v:00C9}どうしたんだ？",
-   "en": "",
+   "en": "{v:00C9}What's up?",
    "term": "end"
   },
   {
    "id": "scen149.0112",
    "jp": "ゼノスを誘いますか？",
-   "en": "",
+   "en": "Invite Xenos?",
    "term": "end"
   },
   {
    "id": "scen149.0113",
    "jp": "{v:00CA}俺と行こうってのか？{n}物好きなやつだな。",
-   "en": "",
+   "en": "{v:00CA}You want to go with me? You're an odd one.",
    "term": "end"
   },
   {
    "id": "scen149.0114",
    "jp": "{v:00CB}行かないの？",
-   "en": "",
+   "en": "{v:00CB}Aren't you going?",
    "term": "end"
   },
   {
    "id": "scen149.0115",
    "jp": "{v:00CC}へっ、行くに決まってるじゃねぇか。",
-   "en": "",
+   "en": "{v:00CC}Heh, of course I'm going.",
    "term": "end"
   },
   {
    "id": "scen149.0116",
    "jp": "すまねぇ‥‥。{n}そんな気分じゃねぇんだ‥‥。",
-   "en": "",
+   "en": "Sorry... I ain't in the mood...",
    "term": "end"
   },
   {
    "id": "scen149.0117",
    "jp": "{v:00CD}またな。",
-   "en": "",
+   "en": "{v:00CD}See ya.",
    "term": "end"
   },
   {
    "id": "scen149.0118",
    "jp": "建国祭、楽しみですね。",
-   "en": "",
+   "en": "I'm looking forward to the Founding Festival.",
    "term": "end"
   },
   {
    "id": "scen149.0119",
    "jp": "{v:007F}どうなされましたか？",
-   "en": "",
+   "en": "{v:007F}Is something the matter?",
    "term": "end"
   },
   {
    "id": "scen149.0120",
    "jp": "ジュリアンを誘いますか？",
-   "en": "",
+   "en": "Invite Julian?",
    "term": "end"
   },
   {
    "id": "scen149.0121",
    "jp": "{v:0081}わ、私などでよろしいのですか？",
-   "en": "",
+   "en": "{v:0081}A-are you sure you would want someone like me?",
    "term": "end"
   },
   {
    "id": "scen149.0122",
    "jp": "{v:0083}それでは‥‥。",
-   "en": "",
+   "en": "{v:0083}Well, then...",
    "term": "end"
   },
   {
    "id": "scen149.0123",
    "jp": "{v:0080}どうしたのだ？",
-   "en": "",
+   "en": "{v:0080}What is it?",
    "term": "end"
   },
   {
    "id": "scen149.0124",
    "jp": "{v:0082}お前と一緒に見るのも、面白そうだな。{n}よし、行こう。",
-   "en": "",
+   "en": "{v:0082}Watching them with you sounds rather enjoyable. Very{n}well, let us go.",
    "term": "end"
   },
   {
    "id": "scen149.0125",
    "jp": "{v:0084}そうか。",
-   "en": "",
+   "en": "{v:0084}I see.",
    "term": "end"
   },
   {
    "id": "scen149.0126",
    "jp": "{v:0008}これを見てください！{n}全部入隊希望者ですよ！",
-   "en": "",
+   "en": "{v:0008}Look at this! They all want to enlist!",
    "term": "end"
   },
   {
    "id": "scen149.0127",
    "jp": "仲間と力を合わせて頑張って下さい！",
-   "en": "",
+   "en": "Work together with your companions, and give it your{n}best!",
    "term": "end"
   },
   {
    "id": "scen149.0128",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "",
+   "en": "Monsters have been appearing lately, so we're out on{n}patrol.{p}We've spotted a suspicious magician who seems to be{n}controlling them several times, but he vanishes by the{n}time our troops converge on him.",
    "term": "end"
   },
   {
    "id": "scen149.0129",
    "jp": "‥‥やっぱりヴェンツェルみたいね‥‥。",
-   "en": "",
+   "en": "...Sounds like Wenzel after all...",
    "term": "end"
   },
   {
    "id": "scen149.0130",
    "jp": "奴のせいで、{n}城にいる仲間の多くが、死んでしまった‥‥。",
-   "en": "",
+   "en": "So many of our comrades at the castle died because{n}of him...",
    "term": "end"
   },
   {
    "id": "scen149.0131",
    "jp": "建国祭だというのに今夜も仕事ですよ‥‥。",
-   "en": "",
+   "en": "It's the Founding Festival, and I'm still working{n}tonight...",
    "term": "end"
   },
   {
    "id": "scen149.0132",
    "jp": "気を引きしめて警備しないと。",
-   "en": "",
+   "en": "I need to stay alert on guard duty.",
    "term": "end"
   },
   {
    "id": "scen149.0133",
    "jp": "‥‥結構、手続きって面倒なんだな‥‥。",
-   "en": "",
+   "en": "...These procedures are more of a hassle than I{n}thought...",
    "term": "end"
   },
   {
    "id": "scen149.0134",
    "jp": "{v:0009}俺もちっとは腕に自信があるからよ、{n}せめて入隊して、人々を守る兵士になるんだ。",
-   "en": "",
+   "en": "{v:0009}I can hold my own in a fight. Least I can do is enlist and{n}become a soldier who protects people.",
    "term": "end"
   },
   {
    "id": "scen149.0135",
    "jp": "俺はやるぜ！",
-   "en": "",
+   "en": "I'm gonna do this!",
    "term": "end"
   },
   {
    "id": "scen149.0136",
    "jp": "{v:000A}俺たちは絶対に負けねぇぜ！{n}だから、アンタらも頼むぜ！",
-   "en": "",
+   "en": "{v:000A}We ain't gonna lose! We're counting on you lot, too!",
    "term": "end"
   },
   {
    "id": "scen149.0137",
    "jp": "今日中に俺の番になるのか？",
-   "en": "",
+   "en": "Am I gonna get my turn today?",
    "term": "end"
   },
   {
    "id": "scen149.0138",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "",
+   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
    "term": "end"
   },
   {
    "id": "scen149.0139",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen149.0140",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
    "id": "scen149.0141",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0142",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0143",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
    "id": "scen149.0144",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0145",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen149.0146",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
    "id": "scen149.0147",
    "jp": "{v:000D}いらっしゃいませ。{n}当店では、様々なグッズを取り扱っております。",
-   "en": "",
+   "en": "{v:000D}Welcome. We carry a wide variety of goods.",
    "term": "end"
   },
   {
    "id": "scen149.0148",
    "jp": "こら！{n}どこ行くのよ！",
-   "en": "",
+   "en": "Hey! Where do you think you're going?!",
    "term": "end"
   },
   {
    "id": "scen149.0149",
    "jp": "なにやってんの！",
-   "en": "",
+   "en": "What are you doing?!",
    "term": "end"
   },
   {
    "id": "scen149.0150",
    "jp": "街から出るんじゃな～い！！",
-   "en": "",
+   "en": "Don't you go leaving town!!",
    "term": "end"
   },
   {
    "id": "scen149.0151",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "",
+   "en": "Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {
    "id": "scen149.0152",
    "jp": "マンホールのふたは、雨の日によく滑る。",
-   "en": "",
+   "en": "Manhole covers get very slippery on rainy days.",
    "term": "end"
   },
   {
    "id": "scen149.0153",
    "jp": "マンホールのふたは{n}４０キログラムと、かなり重い。",
-   "en": "",
+   "en": "Manhole covers weigh a hefty 40 kilograms.",
    "term": "end"
   },
   {
    "id": "scen149.0154",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　ローザリア本店",
-   "en": "",
+   "en": "Star Road Weapons and Armor{n}Rosaria Main Store",
    "term": "end"
   },
   {
    "id": "scen149.0155",
    "jp": "お母さんたちを連れて、バーンシュタインまで{n}テレポートしなくちゃいけないんでしょ？{n}今は少しでも休みたいんだけど‥‥。",
-   "en": "",
+   "en": "I have to Teleport Mother and the others to Burnstein,{n}right? I'd like to rest while I can...",
    "term": "end"
   },
   {
    "id": "scen149.0156",
    "jp": "そうそう！{n}街の入り口まででしょ？{n}買い物でもしながら歩いていこうよ！",
-   "en": "",
+   "en": "Exactly! We're only going to the entrance to town,{n}right? Let's walk and do some shopping along the way!",
    "term": "end"
   },
   {
    "id": "scen149.0157",
    "jp": "マスターをどこへ連れ出す気よ！",
-   "en": "",
+   "en": "Where do you think you're taking Master?!",
    "term": "end"
   }
  ]

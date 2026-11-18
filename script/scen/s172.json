@@ -15,139 +15,139 @@
   {
    "id": "scen172.0001",
    "jp": "盗掘者",
-   "en": "",
+   "en": "Tomb Robber",
    "term": "null"
   },
   {
    "id": "scen172.0002",
    "jp": "警備兵",
-   "en": "",
+   "en": "Guard",
    "term": "null"
   },
   {
    "id": "scen172.0003",
    "jp": "{FFEE}盗掘者を捕らえろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Capture the tomb robbers!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen172.0004",
    "jp": "{v:0063}へっ！{n}アバヨ！",
-   "en": "",
+   "en": "{v:0063}Heh! So long!",
    "term": "end"
   },
   {
    "id": "scen172.0005",
    "jp": "{v:0064}バカ、バカ！{n}１人、逃げちゃったじゃない！",
-   "en": "",
+   "en": "{v:0064}Idiot! Idiot! You let one get away!",
    "term": "end"
   },
   {
    "id": "scen172.0006",
    "jp": "じゃあな！",
-   "en": "",
+   "en": "See ya!",
    "term": "end"
   },
   {
    "id": "scen172.0007",
    "jp": "{v:0066}ああ、逃げられちゃった！",
-   "en": "",
+   "en": "{v:0066}Oh, he got away!",
    "term": "end"
   },
   {
    "id": "scen172.0008",
    "jp": "‥‥{v:0067}仕方ねぇな。",
-   "en": "",
+   "en": "...{v:0067}Can't be helped.",
    "term": "end"
   },
   {
    "id": "scen172.0009",
    "jp": "{v:0068}はぁっ、終わった！{n}もう誰もいないよね？",
-   "en": "",
+   "en": "{v:0068}Whew, it's over! That's all of them, right?",
    "term": "end"
   },
   {
    "id": "scen172.0010",
    "jp": "な、なんで俺が死ななきゃならねぇんだ‥‥。",
-   "en": "",
+   "en": "Wh-why do I gotta die...?",
    "term": "end"
   },
   {
    "id": "scen172.0011",
    "jp": "くそったれが‥‥。",
-   "en": "",
+   "en": "Damn it all...",
    "term": "end"
   },
   {
    "id": "scen172.0012",
    "jp": "こ、こんな事なら、{n}盗掘なんてしなきゃ良かった‥‥。",
-   "en": "",
+   "en": "I-if I'd known it'd end like this, I'd never have robbed{n}any tombs...",
    "term": "end"
   },
   {
    "id": "scen172.0013",
    "jp": "だ、だめだ‥‥",
-   "en": "",
+   "en": "I... I can't...",
    "term": "end"
   },
   {
    "id": "scen172.0014",
    "jp": "もう少し早く、逃げればよかった‥‥。",
-   "en": "",
+   "en": "Should've run a little sooner...",
    "term": "end"
   },
   {
    "id": "scen172.0015",
    "jp": "ちきしょう！{n}今日で最後のはずだったのに‥‥。",
-   "en": "",
+   "en": "Damn it! This was supposed to be my last job...",
    "term": "end"
   },
   {
    "id": "scen172.0016",
    "jp": "こ、この俺がガキ相手に負けるのか‥‥。",
-   "en": "",
+   "en": "M-me, beaten by a bunch of brats...?",
    "term": "end"
   },
   {
    "id": "scen172.0017",
    "jp": "{v:0065}長居は無用だな。{n}俺も脱出するか‥‥。",
-   "en": "",
+   "en": "{v:0065}No point hanging around. Time I got out too...",
    "term": "end"
   },
   {
    "id": "scen172.0018",
    "jp": "{v:008A}長居は無用だな。{n}俺も脱出するか‥‥。",
-   "en": "",
+   "en": "{v:008A}No point hanging around. Time I got out too...",
    "term": "end"
   },
   {
    "id": "scen172.0019",
    "jp": "{v:005E}おい、遅いぞ！{n}何をぐずぐずしてる？",
-   "en": "",
+   "en": "{v:005E}Hey, you're late! What's taking so long?",
    "term": "end"
   },
   {
    "id": "scen172.0020",
    "jp": "{v:005F}新手！？",
-   "en": "",
+   "en": "{v:005F}More of them?!",
    "term": "end"
   },
   {
    "id": "scen172.0021",
    "jp": "{v:0060}あっ、お前たち！{n}いったいどうやって入った？",
-   "en": "",
+   "en": "{v:0060}Hey, you lot! How the hell did you get in?",
    "term": "end"
   },
   {
    "id": "scen172.0022",
    "jp": "{v:0061}そんなことより、俺たちが逃げられるように{n}手伝ってくれ！",
-   "en": "",
+   "en": "{v:0061}Never mind that! Help us get out of here!",
    "term": "end"
   },
   {
    "id": "scen172.0023",
    "jp": "{v:0062}おう！",
-   "en": "",
+   "en": "{v:0062}Right!",
    "term": "end"
   }
  ]

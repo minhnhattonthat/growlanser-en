@@ -15,1387 +15,1387 @@
   {
    "id": "scen147.0001",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen147.0002",
    "jp": "女性客",
-   "en": "",
+   "en": "Female Guest",
    "term": "null"
   },
   {
    "id": "scen147.0003",
    "jp": "旅人",
-   "en": "",
+   "en": "Traveler",
    "term": "null"
   },
   {
    "id": "scen147.0004",
    "jp": "ダンジョンマン",
-   "en": "",
+   "en": "Dungeon Man",
    "term": "null"
   },
   {
    "id": "scen147.0005",
    "jp": "管理人",
-   "en": "",
+   "en": "Caretaker",
    "term": "null"
   },
   {
    "id": "scen147.0006",
    "jp": "観光客",
-   "en": "",
+   "en": "Tourist",
    "term": "null"
   },
   {
    "id": "scen147.0007",
    "jp": "女性姉",
-   "en": "",
+   "en": "Older Sister",
    "term": "null"
   },
   {
    "id": "scen147.0008",
    "jp": "女性妹",
-   "en": "",
+   "en": "Younger Sister",
    "term": "null"
   },
   {
    "id": "scen147.0009",
    "jp": "男性客",
-   "en": "",
+   "en": "Male Guest",
    "term": "null"
   },
   {
    "id": "scen147.0010",
    "jp": "ボート乗り場係員",
-   "en": "",
+   "en": "Boat Landing Attendant",
    "term": "null"
   },
   {
    "id": "scen147.0011",
    "jp": "もうそろそろ時間だね。",
-   "en": "",
+   "en": "It's nearly time, isn't it?",
    "term": "end"
   },
   {
    "id": "scen147.0012",
    "jp": "ミーシャは、アリオストさんのおかげで{n}立ち直ってくれたよ。",
-   "en": "",
+   "en": "Thanks to Ariost-san, Misha is feeling like herself again.",
    "term": "end"
   },
   {
    "id": "scen147.0013",
    "jp": "さあ、帰ろう！",
-   "en": "",
+   "en": "Come on, let's head back!",
    "term": "end"
   },
   {
    "id": "scen147.0014",
    "jp": "さて、遊びに行こうか？",
-   "en": "",
+   "en": "Well, shall we go have some fun?",
    "term": "end"
   },
   {
    "id": "scen147.0015",
    "jp": "お兄ちゃん。{n}わたし、どうしてもミーシャの事が気になるの。{n}ちょっと行ってくる。",
-   "en": "",
+   "en": "Big Brother, I just can't stop worrying about Misha. I'm{n}going to go see her.",
    "term": "end"
   },
   {
    "id": "scen147.0016",
    "jp": "ルイセ君、僕も連れていってくれ。{n}頼む。",
-   "en": "",
+   "en": "Luise-kun, let me come with you. Please.",
    "term": "end"
   },
   {
    "id": "scen147.0017",
    "jp": "どこ行くのよ！",
-   "en": "",
+   "en": "Where do you think you're going?!",
    "term": "end"
   },
   {
    "id": "scen147.0018",
    "jp": "{s:0010}",
-   "en": "",
+   "en": "{s:0010}",
    "term": "end"
   },
   {
    "id": "scen147.0019",
    "jp": "あぁ、バーバラ様の歌が聴けるなんて！",
-   "en": "",
+   "en": "Oh, to think I get to hear Barbara-sama sing!",
    "term": "end"
   },
   {
    "id": "scen147.0020",
    "jp": "ここのレストラン、けっこ～イケテル！",
-   "en": "",
+   "en": "The restaurant here is preeetty good!",
    "term": "end"
   },
   {
    "id": "scen147.0021",
    "jp": "徐々に発展しているようだな。{n}この先が楽しみな街だ。",
-   "en": "",
+   "en": "It seems to be developing steadily. This town has a{n}promising future.",
    "term": "end"
   },
   {
    "id": "scen147.0022",
    "jp": "こんなところに、{n}これほど整地された場所があったとは‥‥。{n}先が楽しみだ。",
-   "en": "",
+   "en": "To think there was such a well-prepared site out{n}here... I look forward to seeing what comes of it.",
    "term": "end"
   },
   {
    "id": "scen147.0023",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『犬も歩けば散歩忘れず』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB} 'Every dog has its walk.'{FFFB} I am the famed{n}{FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen147.0024",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『サルも木から降ず、カッパの皮算用』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB} 'Even monkeys fall up trees. Don't count{n}your turtles before they hatch.'{FFFB} I am the famed{n}{FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen147.0025",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『あなたのハートに迷宮の罠』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "",
+   "en": "Heh heh heh...{FFFB} 'A labyrinth's trap for your heart.'{FFFB} I am{n}the famed {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen147.0026",
    "jp": "むむ？{n}お前！{n}たるんでいるぞ！{p}私も負けずにたるんでやる！{n}今日は休みだ。{p}{FFF0}{FFEC}　　ダ{FE0F}ン{FE0F}ジ{FE0F}ョ{FE0F}ン{FE0F}閉{FE0F}鎖！{FFED}{FFF1}",
-   "en": "",
+   "en": "Hmm? You there! You're slacking off!{p}Well, I won't let you out-slack me! I'm taking the day{n}off.{p}{FFF0}{FFEC}D{FE0F}UN{FE0F}GE{FE0F}ON{FE0F} CLO{FE0F}SE{FE0F}D!{FFED}{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0027",
    "jp": "{v:0014}いつでも、お声をかけて下さい。",
-   "en": "",
+   "en": "{v:0014}Please call on me whenever you wish.",
    "term": "end"
   },
   {
    "id": "scen147.0028",
    "jp": "ここには何が出来るのかしら？",
-   "en": "",
+   "en": "I wonder what they'll build here.",
    "term": "end"
   },
   {
    "id": "scen147.0029",
    "jp": "ジョニー・カルテットだって！",
-   "en": "",
+   "en": "It says 'Johnny Quartet'!",
    "term": "end"
   },
   {
    "id": "scen147.0030",
    "jp": "なんだかスカした名前ね～！",
-   "en": "",
+   "en": "What a snooty name!",
    "term": "end"
   },
   {
    "id": "scen147.0031",
    "jp": "あ～、バーバラ様{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Ohhh, Barbara-sama{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0032",
    "jp": "アタシもあんな大人になりたい～！",
-   "en": "",
+   "en": "I want to be just like her when I grow up!",
    "term": "end"
   },
   {
    "id": "scen147.0033",
    "jp": "何だっけ？{n}『三国大陸』だっけ？{n}面白かったぁ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "What was it called? 'Three Kingdoms Continent'? That{n}was so much fun{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0034",
    "jp": "みんなにウワサしよ～っと！",
-   "en": "",
+   "en": "I'm gonna tell everyone about it!",
    "term": "end"
   },
   {
    "id": "scen147.0035",
    "jp": "何か出来たみたいだから、{n}せっかく来たのに‥‥。",
-   "en": "",
+   "en": "I came all this way because it looked like something new{n}had opened...",
    "term": "end"
   },
   {
    "id": "scen147.0036",
    "jp": "何にもやってないんだもん！{n}がっかりよねぇ～！",
-   "en": "",
+   "en": "But there's nothing on! What a letdown!",
    "term": "end"
   },
   {
    "id": "scen147.0037",
    "jp": "またここ？{n}別なところにしようよ。",
-   "en": "",
+   "en": "Here again? Let's go somewhere else.",
    "term": "end"
   },
   {
    "id": "scen147.0038",
    "jp": "{s:0000}さん、ここでヴァイオリンを弾いてもいいですか？",
-   "en": "",
+   "en": "{s:0000}, may I play my violin here?",
    "term": "end"
   },
   {
    "id": "scen147.0039",
    "jp": "弾かせますか？",
-   "en": "",
+   "en": "Allow the violin performance?",
    "term": "end"
   },
   {
    "id": "scen147.0040",
    "jp": "ありがとうございます。{n}では、一曲失礼します‥‥。",
-   "en": "",
+   "en": "Thank you. Then, if you'll excuse me, I'll play a piece...",
    "term": "end"
   },
   {
    "id": "scen147.0041",
    "jp": "曲は、ラフカーントの{n}『ヴァイオリン独奏曲第４番』で‥‥。",
-   "en": "",
+   "en": "The piece is Rafkant's 'Solo Violin No. 4'...",
    "term": "end"
   },
   {
    "id": "scen147.0042",
    "jp": "{FFF3}{FA50}{FEFF}{FEFF}{FEFF}",
-   "en": "",
+   "en": "{FFF3}{FA50}{FEFF}{FEFF}{FEFF}",
    "term": "end"
   },
   {
    "id": "scen147.0043",
    "jp": "お耳汚しでしたが、{n}久々に弾けて楽しかったです。",
-   "en": "",
+   "en": "I'm sorry my playing wasn't better, but it was lovely to{n}play again after so long.",
    "term": "end"
   },
   {
    "id": "scen147.0044",
    "jp": "とんでもない、うまいじゃない！",
-   "en": "",
+   "en": "Don't be silly! You're good!",
    "term": "end"
   },
   {
    "id": "scen147.0045",
    "jp": "ありがとうございます。",
-   "en": "",
+   "en": "Thank you.",
    "term": "end"
   },
   {
    "id": "scen147.0046",
    "jp": "そうですか‥‥。{n}残念です。",
-   "en": "",
+   "en": "I see... That's a shame.",
    "term": "end"
   },
   {
    "id": "scen147.0047",
    "jp": "現在は、『ジョニー・カルテット』の{n}演奏会が行われている。",
-   "en": "",
+   "en": "The 'Johnny Quartet' is currently giving a concert.",
    "term": "end"
   },
   {
    "id": "scen147.0048",
    "jp": "素敵な演奏だね。",
-   "en": "",
+   "en": "What a lovely performance.",
    "term": "end"
   },
   {
    "id": "scen147.0049",
    "jp": "‥‥なるほどな。",
-   "en": "",
+   "en": "...I see.",
    "term": "end"
   },
   {
    "id": "scen147.0050",
    "jp": "いい音楽ですね‥‥‥。{p}{FFF2}‥{FE05}‥{FE05}‥{FE05}‥{FE05}{FFF6}‥{FE05}‥{FE05}‥{FE05}‥{FE05}{p}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}{n}‥{F903}{FE05}‥{FE05}‥{FE05}{F903}‥{FE05}‥{FE05}‥{FE05}{FFF7}{FFF4}はっ！",
-   "en": "",
+   "en": "What lovely music...{p}{FFF2}...{FE05}...{FE05}...{FE05}...{FE05}{FFF6}...{FE05}...{FE05}...{FE05}...{FE05}{p}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{F903}{FE05}...{FE05}...{FE05}{F903}...{FE05}...{FE05}...{FE05}{FFF7}{FFF4}Ah!",
    "term": "end"
   },
   {
    "id": "scen147.0051",
    "jp": "立派な劇場だね。",
-   "en": "",
+   "en": "What a grand theater.",
    "term": "end"
   },
   {
    "id": "scen147.0052",
    "jp": "いい演奏ですね。",
-   "en": "",
+   "en": "It's a lovely performance.",
    "term": "end"
   },
   {
    "id": "scen147.0053",
    "jp": "いいですね、とても。",
-   "en": "",
+   "en": "It's lovely. Very much so.",
    "term": "end"
   },
   {
    "id": "scen147.0054",
    "jp": "{FFF5}‥‥素晴らしい。",
-   "en": "",
+   "en": "{FFF5}...Splendid.",
    "term": "end"
   },
   {
    "id": "scen147.0055",
    "jp": "‥‥‥ふ～ん。",
-   "en": "",
+   "en": "...Huh.",
    "term": "end"
   },
   {
    "id": "scen147.0056",
    "jp": "うんうん。",
-   "en": "",
+   "en": "Mm-hmm, mm-hmm.",
    "term": "end"
   },
   {
    "id": "scen147.0057",
    "jp": "現在は歌姫『バーバラ』のオペラが行われている。",
-   "en": "",
+   "en": "The diva 'Barbara' is currently performing an opera.",
    "term": "end"
   },
   {
    "id": "scen147.0058",
    "jp": "あの歌手の女の人、きれいだね。",
-   "en": "",
+   "en": "That lady singing is pretty, isn't she?",
    "term": "end"
   },
   {
    "id": "scen147.0059",
    "jp": "うーむ‥‥。",
-   "en": "",
+   "en": "Hmm...",
    "term": "end"
   },
   {
    "id": "scen147.0060",
    "jp": "きれいな声ですね‥‥‥。{p}{FFF2}‥{FE05}‥{FE05}‥{FE05}‥{FE05}{FFF6}‥{FE05}‥{FE05}‥{FE05}‥{p}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}‥{FE05}{n}‥{F903}{FE05}‥{FE05}‥{FE05}{F903}‥{FE05}‥{FE05}‥{FE05}{FFF7}{FFF4}はっ！",
-   "en": "",
+   "en": "What a beautiful voice...{p}{FFF2}...{FE05}...{FE05}...{FE05}...{FE05}{FFF6}...{FE05}...{FE05}...{FE05}...{p}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{FE05}...{F903}{FE05}...{FE05}...{FE05}{F903}...{FE05}...{FE05}...{FE05}{FFF7}{FFF4}Ah!",
    "term": "end"
   },
   {
    "id": "scen147.0061",
    "jp": "{FFF5}素敵な歌声‥‥。",
-   "en": "",
+   "en": "{FFF5}Such lovely singing...",
    "term": "end"
   },
   {
    "id": "scen147.0062",
    "jp": "本当に一流の歌手はすごいですね。",
-   "en": "",
+   "en": "A truly first-rate singer is something to behold.",
    "term": "end"
   },
   {
    "id": "scen147.0063",
    "jp": "{FFF5}‥‥これは、素晴らしい。",
-   "en": "",
+   "en": "{FFF5}...This is splendid.",
    "term": "end"
   },
   {
    "id": "scen147.0064",
    "jp": "‥‥‥いいんじゃねぇか？",
-   "en": "",
+   "en": "...Pretty good, ain't she?",
    "term": "end"
   },
   {
    "id": "scen147.0065",
    "jp": "いいね～。",
-   "en": "",
+   "en": "Ooh, that's nice.",
    "term": "end"
   },
   {
    "id": "scen147.0066",
    "jp": "現在は劇団『三国大陸』による{n}演劇が行われている。",
-   "en": "",
+   "en": "The 'Three Kingdoms Continent' theater troupe is{n}currently performing a play.",
    "term": "end"
   },
   {
    "id": "scen147.0067",
    "jp": "面白いね、お兄ちゃん！",
-   "en": "",
+   "en": "This is funny, isn't it, Big Brother?",
    "term": "end"
   },
   {
    "id": "scen147.0068",
    "jp": "聞いてるだけでも笑えるぜ。",
-   "en": "",
+   "en": "Just listening to it cracks me up.",
    "term": "end"
   },
   {
    "id": "scen147.0069",
    "jp": "あはははは、面白～い。",
-   "en": "",
+   "en": "Ahahahaha! This is sooo funny!",
    "term": "end"
   },
   {
    "id": "scen147.0070",
    "jp": "面白いですね。",
-   "en": "",
+   "en": "How interesting.",
    "term": "end"
   },
   {
    "id": "scen147.0071",
    "jp": "さすがは一流の喜劇役者。{n}笑わせ方がうまいですね。",
-   "en": "",
+   "en": "Just what you'd expect from first-rate comic actors.{n}They really know how to make people laugh.",
    "term": "end"
   },
   {
    "id": "scen147.0072",
    "jp": "‥‥なかなかだな。",
-   "en": "",
+   "en": "...Quite good.",
    "term": "end"
   },
   {
    "id": "scen147.0073",
    "jp": "こいつはおもしれぇぜ！",
-   "en": "",
+   "en": "Now this is damn funny!",
    "term": "end"
   },
   {
    "id": "scen147.0074",
    "jp": "きゃははははは！",
-   "en": "",
+   "en": "Ahahahahaha!",
    "term": "end"
   },
   {
    "id": "scen147.0075",
    "jp": "現在は、まったく公演が行われていない。",
-   "en": "",
+   "en": "There are currently no performances.",
    "term": "end"
   },
   {
    "id": "scen147.0076",
    "jp": "歌手とか役者さんを探さないとダメね。",
-   "en": "",
+   "en": "We'll have to find some singers or actors.",
    "term": "end"
   },
   {
    "id": "scen147.0077",
    "jp": "まだ何もできてないのね‥‥。",
-   "en": "",
+   "en": "Nothing's been built yet...",
    "term": "end"
   },
   {
    "id": "scen147.0078",
    "jp": "やった！{n}今日は絵画展ね！",
-   "en": "",
+   "en": "Yay! It's a painting exhibition today!",
    "term": "end"
   },
   {
    "id": "scen147.0079",
    "jp": "私は絵画の方が好きなの‥‥。",
-   "en": "",
+   "en": "I prefer paintings, myself...",
    "term": "end"
   },
   {
    "id": "scen147.0080",
    "jp": "ここの画家は女性なんだって。{n}でも力強いタッチが心の強さを感じさせるわ。",
-   "en": "",
+   "en": "I hear the painter here is a woman. Still, those bold{n}brushstrokes show such inner strength.",
    "term": "end"
   },
   {
    "id": "scen147.0081",
    "jp": "建物だけあったって‥‥。",
-   "en": "",
+   "en": "Just having a building isn't enough...",
    "term": "end"
   },
   {
    "id": "scen147.0082",
    "jp": "芸術っていったら、やっぱり造形だろ！",
-   "en": "",
+   "en": "When it comes to art, you can't beat sculpture!",
    "term": "end"
   },
   {
    "id": "scen147.0083",
    "jp": "まだ展示品がないようだ‥‥。",
-   "en": "",
+   "en": "It seems there are no exhibits yet...",
    "term": "end"
   },
   {
    "id": "scen147.0084",
    "jp": "どこからか芸術家を連れてこないとダメだね★",
-   "en": "",
+   "en": "We'll have to find an artist somewhere and bring them{n}here!",
    "term": "end"
   },
   {
    "id": "scen147.0085",
    "jp": "現在は造形家の作品展を行っています。",
-   "en": "",
+   "en": "A sculptor's work is currently on display.",
    "term": "end"
   },
   {
    "id": "scen147.0086",
    "jp": "難しいのが多いね。",
-   "en": "",
+   "en": "A lot of these are hard to understand.",
    "term": "end"
   },
   {
    "id": "scen147.0087",
    "jp": "触ってわかるから俺でも楽しめるぜ。",
-   "en": "",
+   "en": "I can feel the shapes, so even I can enjoy these.",
    "term": "end"
   },
   {
    "id": "scen147.0088",
    "jp": "あはははは、この形面白～い。",
-   "en": "",
+   "en": "Ahahahaha! What a funny shape!",
    "term": "end"
   },
   {
    "id": "scen147.0089",
    "jp": "特徴的なオブジェだね。",
-   "en": "",
+   "en": "That's quite a distinctive sculpture.",
    "term": "end"
   },
   {
    "id": "scen147.0090",
    "jp": "深みがありますね。",
-   "en": "",
+   "en": "There's depth to this work.",
    "term": "end"
   },
   {
    "id": "scen147.0091",
    "jp": "この抽象的なオブジェが{n}何をあらわしているのか‥‥。{n}それが興味をそそりますね。",
-   "en": "",
+   "en": "What does this abstract sculpture represent...? That's{n}what intrigues me.",
    "term": "end"
   },
   {
    "id": "scen147.0092",
    "jp": "ふーん、なるほど。",
-   "en": "",
+   "en": "Huh. I see.",
    "term": "end"
   },
   {
    "id": "scen147.0093",
    "jp": "変なの～！",
-   "en": "",
+   "en": "That's sooo weird!",
    "term": "end"
   },
   {
    "id": "scen147.0094",
    "jp": "現在は画家の作品展を行っています。",
-   "en": "",
+   "en": "A painter's work is currently on display.",
    "term": "end"
   },
   {
    "id": "scen147.0095",
    "jp": "うわー、きれいな絵。",
-   "en": "",
+   "en": "Wow, what a pretty painting.",
    "term": "end"
   },
   {
    "id": "scen147.0096",
    "jp": "‥‥見えねぇ。",
-   "en": "",
+   "en": "...Can't see a damn thing.",
    "term": "end"
   },
   {
    "id": "scen147.0097",
    "jp": "ムズカシイ絵が多いです‥‥。",
-   "en": "",
+   "en": "A lot of these paintings are hard to understand...",
    "term": "end"
   },
   {
    "id": "scen147.0098",
    "jp": "ふーむ。この技法は素晴らしいね。",
-   "en": "",
+   "en": "Hmm. This technique is superb.",
    "term": "end"
   },
   {
    "id": "scen147.0099",
    "jp": "すごいですね‥‥。{n}これだけの絵を集めるなんて。",
-   "en": "",
+   "en": "It's impressive... To have gathered so many paintings{n}like these.",
    "term": "end"
   },
   {
    "id": "scen147.0100",
    "jp": "すばらしい絵ばかりです‥‥。",
-   "en": "",
+   "en": "Every painting here is wonderful...",
    "term": "end"
   },
   {
    "id": "scen147.0101",
    "jp": "ふーん‥‥。",
-   "en": "",
+   "en": "Hmm...",
    "term": "end"
   },
   {
    "id": "scen147.0102",
    "jp": "立派な絵ばっかりだね！",
-   "en": "",
+   "en": "These paintings are all amazing!",
    "term": "end"
   },
   {
    "id": "scen147.0103",
    "jp": "あっ、ベンチがあるよ。",
-   "en": "",
+   "en": "Oh, there's a bench.",
    "term": "end"
   },
   {
    "id": "scen147.0104",
    "jp": "彼女とはここで出会ったんだ。{n}もう一目惚れってやつさ！{n}この公園を造ってくれた人に感謝だよ！{p}なっ？",
-   "en": "",
+   "en": "This is where I met her. It was love at first sight! I'm{n}so grateful to whoever built this park!{p}Right?",
    "term": "end"
   },
   {
    "id": "scen147.0105",
    "jp": "‥‥ぽっ。",
-   "en": "",
+   "en": "...*blush*",
    "term": "end"
   },
   {
    "id": "scen147.0106",
    "jp": "‥‥もじ、もじ‥‥。",
-   "en": "",
+   "en": "...*fidget, fidget*...",
    "term": "end"
   },
   {
    "id": "scen147.0107",
    "jp": "ここで休んでいきますか？",
-   "en": "",
+   "en": "Would you like to rest here?",
    "term": "end"
   },
   {
    "id": "scen147.0108",
    "jp": "じゃあ、他に行こうか？",
-   "en": "",
+   "en": "Then shall we go somewhere else?",
    "term": "end"
   },
   {
    "id": "scen147.0109",
    "jp": "これは、{s:0000}様。{n}ボート遊びをなさりたいのですか？",
-   "en": "",
+   "en": "Ah, Lord {s:0000}. Would you care to go{n}boating?",
    "term": "end"
   },
   {
    "id": "scen147.0110",
    "jp": "ボートに乗りますか？",
-   "en": "",
+   "en": "Take a boat ride?",
    "term": "end"
   },
   {
    "id": "scen147.0111",
    "jp": "‥‥ずっと乗ってたいね。",
-   "en": "",
+   "en": "...I wish we could stay on this boat forever.",
    "term": "end"
   },
   {
    "id": "scen147.0112",
    "jp": "‥‥外はいいな。",
-   "en": "",
+   "en": "...Good to be outside.",
    "term": "end"
   },
   {
    "id": "scen147.0113",
    "jp": "これってデートですよね？{n}ねっ？{n}ねっ？？",
-   "en": "",
+   "en": "This is a date, isn't it? Isn't it? Isn't it?!",
    "term": "end"
   },
   {
    "id": "scen147.0114",
    "jp": "のんびりできるね。",
-   "en": "",
+   "en": "We can take it easy here.",
    "term": "end"
   },
   {
    "id": "scen147.0115",
    "jp": "風が気持ちいい‥‥。",
-   "en": "",
+   "en": "The breeze feels lovely...",
    "term": "end"
   },
   {
    "id": "scen147.0116",
    "jp": "楽しいです‥‥。",
-   "en": "",
+   "en": "I'm enjoying myself...",
    "term": "end"
   },
   {
    "id": "scen147.0117",
    "jp": "{FFF5}夢のようです、マイ＝ロード‥‥。{n}あなたと２人で‥‥。",
-   "en": "",
+   "en": "{FFF5}This is like a dream, My Lord... Just the two of us...",
    "term": "end"
   },
   {
    "id": "scen147.0118",
    "jp": "なかなか楽しいじゃないか。",
-   "en": "",
+   "en": "This is rather enjoyable.",
    "term": "end"
   },
   {
    "id": "scen147.0119",
    "jp": "ふーん‥‥。{n}味気ねぇな‥‥。",
-   "en": "",
+   "en": "Hmm... Pretty dull...",
    "term": "end"
   },
   {
    "id": "scen147.0120",
    "jp": "ボートだ、ボートだ！{n}{FB00}アタシはこげないけどね。",
-   "en": "",
+   "en": "A boat! A boat! {FB00}I can't row, though.",
    "term": "end"
   },
   {
    "id": "scen147.0121",
    "jp": "またにしようか？",
-   "en": "",
+   "en": "Shall we do this another time?",
    "term": "end"
   },
   {
    "id": "scen147.0122",
    "jp": "水がすんでいて、気持ちよさそうね。{n}ボートに乗ってお昼寝でもしようかしら？",
-   "en": "",
+   "en": "The water's so clear. It looks lovely. Perhaps I'll take a{n}nap in a boat.",
    "term": "end"
   },
   {
    "id": "scen147.0123",
    "jp": "{n}　　　　　　　　　ボート乗り場",
-   "en": "",
+   "en": "Boat Landing",
    "term": "end"
   },
   {
    "id": "scen147.0124",
    "jp": "うわ～、きれいな景色だね。",
-   "en": "",
+   "en": "Wow, what a beautiful view!",
    "term": "end"
   },
   {
    "id": "scen147.0125",
    "jp": "‥‥いい眺めだ。",
-   "en": "",
+   "en": "...Fine view.",
    "term": "end"
   },
   {
    "id": "scen147.0126",
    "jp": "レストラン{n}　『カステロ・モリッツ』",
-   "en": "",
+   "en": "Restaurant 'Castello Moritz'",
    "term": "end"
   },
   {
    "id": "scen147.0127",
    "jp": "和食{n}　『五月』",
-   "en": "",
+   "en": "Japanese Cuisine 'Satsuki'",
    "term": "end"
   },
   {
    "id": "scen147.0128",
    "jp": "カフェ{n}　『サン・ジョルノ』",
-   "en": "",
+   "en": "Café 'San Giorno'",
    "term": "end"
   },
   {
    "id": "scen147.0129",
    "jp": "こんな眺めのいいところで食事が出来るなんて★{n}う～ん、ぜいたくだわ♪",
-   "en": "",
+   "en": "Dining somewhere with a view like this! Mmm, what a{n}luxury♪",
    "term": "end"
   },
   {
    "id": "scen147.0130",
    "jp": "おいしいもの、だ～い好き{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "I looove good food{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0131",
    "jp": "友達に食べ物情報にするどい娘がいてね、{n}その娘に聞いて来たのよ。",
-   "en": "",
+   "en": "A friend of mine always knows where the good food{n}is. She told me about this place, so I came.",
    "term": "end"
   },
   {
    "id": "scen147.0132",
    "jp": "ここに高級レストランが出来たって聞いて、{n}ためていたお金をもって食べにきたのよ。",
-   "en": "",
+   "en": "I heard a fancy restaurant had opened here, so I{n}brought the money I'd been saving and came for a{n}meal.",
    "term": "end"
   },
   {
    "id": "scen147.0133",
    "jp": "やっぱりケーキだよね。",
-   "en": "",
+   "en": "It's got to be cake, right?",
    "term": "end"
   },
   {
    "id": "scen147.0134",
    "jp": "‥‥食べるものがないぜ。",
-   "en": "",
+   "en": "...Nothing here I want to eat.",
    "term": "end"
   },
   {
    "id": "scen147.0135",
    "jp": "おいしい、このケーキ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "This cake is delicious{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0136",
    "jp": "いいね、ここは。{n}ゆっくりできるよ。",
-   "en": "",
+   "en": "This is a nice place. You can really relax here.",
    "term": "end"
   },
   {
    "id": "scen147.0137",
    "jp": "いい雰囲気ですね。",
-   "en": "",
+   "en": "It has such a lovely atmosphere.",
    "term": "end"
   },
   {
    "id": "scen147.0138",
    "jp": "毎日でも来たいですね。ここなら。",
-   "en": "",
+   "en": "I'd love to come here every day.",
    "term": "end"
   },
   {
    "id": "scen147.0139",
    "jp": "{FFF5}マイ＝ロード、{n}こういう雰囲気も悪くないですね。",
-   "en": "",
+   "en": "{FFF5}My Lord, this sort of atmosphere is quite pleasant,{n}too.",
    "term": "end"
   },
   {
    "id": "scen147.0140",
    "jp": "いい雰囲気だな。",
-   "en": "",
+   "en": "Nice atmosphere.",
    "term": "end"
   },
   {
    "id": "scen147.0141",
    "jp": "男２人で来るところじゃねえな。",
-   "en": "",
+   "en": "This ain't the sort of place for two guys.",
    "term": "end"
   },
   {
    "id": "scen147.0142",
    "jp": "うーん、ケーキ最高！",
-   "en": "",
+   "en": "Mmm, this cake is the best!",
    "term": "end"
   },
   {
    "id": "scen147.0143",
    "jp": "うーん、あんまり味がしないね。",
-   "en": "",
+   "en": "Hmm, it doesn't taste of much.",
    "term": "end"
   },
   {
    "id": "scen147.0144",
    "jp": "いい味だ。{n}店の雰囲気もいいな。{n}また来ようぜ。",
-   "en": "",
+   "en": "Tastes good. Nice atmosphere, too. Let's come back.",
    "term": "end"
   },
   {
    "id": "scen147.0145",
    "jp": "ふぇーん、この食器、難しい。",
-   "en": "",
+   "en": "Aww, these utensils are so hard to use!",
    "term": "end"
   },
   {
    "id": "scen147.0146",
    "jp": "これはなかなか珍味だね。",
-   "en": "",
+   "en": "This is quite an unusual delicacy.",
    "term": "end"
   },
   {
    "id": "scen147.0147",
    "jp": "薬草に近い味ですね。{n}身体に良さそうです。",
-   "en": "",
+   "en": "It tastes rather like medicinal herbs. It seems good for{n}you.",
    "term": "end"
   },
   {
    "id": "scen147.0148",
    "jp": "こういう料理は久々ですよ。{n}はるか遠方のものらしいですが。",
-   "en": "",
+   "en": "It's been a long time since I've had food like this. I{n}hear it comes from very far away.",
    "term": "end"
   },
   {
    "id": "scen147.0149",
    "jp": "‥‥マイ＝ロード？{n}変わった味ですね。",
-   "en": "",
+   "en": "...My Lord? What an unusual flavor.",
    "term": "end"
   },
   {
    "id": "scen147.0150",
    "jp": "変わった味だな。",
-   "en": "",
+   "en": "Unusual flavor.",
    "term": "end"
   },
   {
    "id": "scen147.0151",
    "jp": "こ、これは絶妙だ。{FFFB}{n}うまいぜ。",
-   "en": "",
+   "en": "Th-this is exquisite.{FFFB} Damn good.",
    "term": "end"
   },
   {
    "id": "scen147.0152",
    "jp": "うーん、これも食べる価値があるわね。",
-   "en": "",
+   "en": "Mmm, this is worth trying, too!",
    "term": "end"
   },
   {
    "id": "scen147.0153",
    "jp": "豪華だし、すごくおいしいね。{n}ありがとう、お兄ちゃん。",
-   "en": "",
+   "en": "It's so fancy, and it tastes wonderful. Thank you, Big{n}Brother.",
    "term": "end"
   },
   {
    "id": "scen147.0154",
    "jp": "なかなかの味だ。",
-   "en": "",
+   "en": "Pretty good.",
    "term": "end"
   },
   {
    "id": "scen147.0155",
    "jp": "ふぇーん、こぼしちゃった。",
-   "en": "",
+   "en": "Aww, I spilled it!",
    "term": "end"
   },
   {
    "id": "scen147.0156",
    "jp": "いい味だ‥‥。{n}高いけどね。",
-   "en": "",
+   "en": "It tastes good... Though it is expensive.",
    "term": "end"
   },
   {
    "id": "scen147.0157",
    "jp": "緊張してしまいます‥‥。{n}こういうところは。",
-   "en": "",
+   "en": "Places like this make me nervous...",
    "term": "end"
   },
   {
    "id": "scen147.0158",
    "jp": "お城の食事より上かも知れません。",
-   "en": "",
+   "en": "This may be even better than the food at the castle.",
    "term": "end"
   },
   {
    "id": "scen147.0159",
    "jp": "マイ＝ロード、お口に合いますか？",
-   "en": "",
+   "en": "My Lord, is it to your taste?",
    "term": "end"
   },
   {
    "id": "scen147.0160",
    "jp": "これはうまいな。",
-   "en": "",
+   "en": "This is good.",
    "term": "end"
   },
   {
    "id": "scen147.0161",
    "jp": "うーん、香辛料が少し多いな。{n}それ以外は申し分ないが。",
-   "en": "",
+   "en": "Hmm, a bit too much spice. Otherwise, it's perfect.",
    "term": "end"
   },
   {
    "id": "scen147.0162",
    "jp": "おいしー、{n}幸せ！",
-   "en": "",
+   "en": "Delicious! I'm in heaven!",
    "term": "end"
   },
   {
    "id": "scen147.0163",
    "jp": "うわー、おっきい池だね！",
-   "en": "",
+   "en": "Wow, what a huge pond!",
    "term": "end"
   },
   {
    "id": "scen147.0164",
    "jp": "せっかく湖があるのに、{n}ながめているだけなんてもったいないと思わない？",
-   "en": "",
+   "en": "With a lake right here, don't you think it'd be a waste to{n}just look at it?",
    "term": "end"
   },
   {
    "id": "scen147.0165",
    "jp": "あっ、お兄ちゃん。{n}ミーシャはアリオストさんのおかげで{n}立ち直ってくれたよ。",
-   "en": "",
+   "en": "Oh, Big Brother. Misha's back on her feet, thanks to{n}Ariost-san.",
    "term": "end"
   },
   {
    "id": "scen147.0166",
    "jp": "なあに？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen147.0167",
    "jp": "ルイセを誘いますか？",
-   "en": "",
+   "en": "Invite Luise?",
    "term": "end"
   },
   {
    "id": "scen147.0168",
    "jp": "うん、一緒に行こう！",
-   "en": "",
+   "en": "Yes, let's go together!",
    "term": "end"
   },
   {
    "id": "scen147.0169",
    "jp": "また後でね！",
-   "en": "",
+   "en": "See you later!",
    "term": "end"
   },
   {
    "id": "scen147.0170",
    "jp": "なんだ？",
-   "en": "",
+   "en": "What?",
    "term": "end"
   },
   {
    "id": "scen147.0171",
    "jp": "ウォレスを誘いますか？",
-   "en": "",
+   "en": "Invite Wallace?",
    "term": "end"
   },
   {
    "id": "scen147.0172",
    "jp": "‥‥行くか。",
-   "en": "",
+   "en": "...Let's go.",
    "term": "end"
   },
   {
    "id": "scen147.0173",
    "jp": "‥‥またな。",
-   "en": "",
+   "en": "...See you.",
    "term": "end"
   },
   {
    "id": "scen147.0174",
    "jp": "あっ、お兄さま。{n}なんでしょう？",
-   "en": "",
+   "en": "Oh, Big Brother! What is it?",
    "term": "end"
   },
   {
    "id": "scen147.0175",
    "jp": "ミーシャを誘いますか？",
-   "en": "",
+   "en": "Invite Misha?",
    "term": "end"
   },
   {
    "id": "scen147.0176",
    "jp": "喜んで！",
-   "en": "",
+   "en": "I'd love to!",
    "term": "end"
   },
   {
    "id": "scen147.0177",
    "jp": "お兄さま、また後で！",
-   "en": "",
+   "en": "See you later, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen147.0178",
    "jp": "やあ、{s:0000}君。{n}ミーシャ君はなんとか立ち直ってくれたよ。",
-   "en": "",
+   "en": "Hello, {s:0000}. Misha-kun has managed to get{n}back on her feet.",
    "term": "end"
   },
   {
    "id": "scen147.0179",
    "jp": "なんだい？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen147.0180",
    "jp": "アリオストを誘いますか？",
-   "en": "",
+   "en": "Invite Ariost?",
    "term": "end"
   },
   {
    "id": "scen147.0181",
    "jp": "いいね。{n}行こうか？",
-   "en": "",
+   "en": "Sounds good. Shall we go?",
    "term": "end"
   },
   {
    "id": "scen147.0182",
    "jp": "また後で。",
-   "en": "",
+   "en": "See you later.",
    "term": "end"
   },
   {
    "id": "scen147.0183",
    "jp": "なんでしょう？",
-   "en": "",
+   "en": "Yes? What is it?",
    "term": "end"
   },
   {
    "id": "scen147.0184",
    "jp": "カレンを誘いますか？",
-   "en": "",
+   "en": "Invite Karen?",
    "term": "end"
   },
   {
    "id": "scen147.0185",
    "jp": "私でよろしければ‥‥。",
-   "en": "",
+   "en": "If you'd like my company...",
    "term": "end"
   },
   {
    "id": "scen147.0186",
    "jp": "また後ほど‥‥。",
-   "en": "",
+   "en": "I'll see you later, then...",
    "term": "end"
   },
   {
    "id": "scen147.0187",
    "jp": "エリオットを誘いますか？",
-   "en": "",
+   "en": "Invite Elliot?",
    "term": "end"
   },
   {
    "id": "scen147.0188",
    "jp": "一緒に行きましょう！",
-   "en": "",
+   "en": "Let's go together!",
    "term": "end"
   },
   {
    "id": "scen147.0189",
    "jp": "では、後で。",
-   "en": "",
+   "en": "See you later, then.",
    "term": "end"
   },
   {
    "id": "scen147.0190",
    "jp": "マイ＝ロード、私に何か？",
-   "en": "",
+   "en": "My Lord, did you need something?",
    "term": "end"
   },
   {
    "id": "scen147.0191",
    "jp": "ジュリアンを誘いますか？",
-   "en": "",
+   "en": "Invite Julian?",
    "term": "end"
   },
   {
    "id": "scen147.0192",
    "jp": "光栄です、マイ＝ロード。",
-   "en": "",
+   "en": "I would be honored, My Lord.",
    "term": "end"
   },
   {
    "id": "scen147.0193",
    "jp": "では、また後ほどに。",
-   "en": "",
+   "en": "Until later, then.",
    "term": "end"
   },
   {
    "id": "scen147.0194",
    "jp": "そうだな‥‥。{n}行くか。",
-   "en": "",
+   "en": "All right... Let's go.",
    "term": "end"
   },
   {
    "id": "scen147.0195",
    "jp": "後でな。",
-   "en": "",
+   "en": "See you later.",
    "term": "end"
   },
   {
    "id": "scen147.0196",
    "jp": "‥‥‥遊ぶ気分じゃねぇんだ。",
-   "en": "",
+   "en": "...I ain't in the mood for fun.",
    "term": "end"
   },
   {
    "id": "scen147.0197",
    "jp": "なんだ？{n}俺に用か？",
-   "en": "",
+   "en": "What? Need something?",
    "term": "end"
   },
   {
    "id": "scen147.0198",
    "jp": "ゼノスを誘いますか？",
-   "en": "",
+   "en": "Invite Xenos?",
    "term": "end"
   },
   {
    "id": "scen147.0199",
    "jp": "かまわないぜ。行くか。",
-   "en": "",
+   "en": "Sure. Let's go.",
    "term": "end"
   },
   {
    "id": "scen147.0200",
    "jp": "おう、後でな。",
-   "en": "",
+   "en": "Yeah, see you later.",
    "term": "end"
   },
   {
    "id": "scen147.0201",
    "jp": "お兄ちゃん、一緒に行こうよ。",
-   "en": "",
+   "en": "Big Brother, let's go together.",
    "term": "end"
   },
   {
    "id": "scen147.0202",
    "jp": "ルイセと行動しますか？",
-   "en": "",
+   "en": "Spend time with Luise?",
    "term": "end"
   },
   {
    "id": "scen147.0203",
    "jp": "じゃあ、行こう！",
-   "en": "",
+   "en": "Let's go, then!",
    "term": "end"
   },
   {
    "id": "scen147.0204",
    "jp": "じゃあ、また後でね。",
-   "en": "",
+   "en": "See you later, then.",
    "term": "end"
   },
   {
    "id": "scen147.0205",
    "jp": "どうだ、{s:0000}。{n}一緒に回らねぇか？",
-   "en": "",
+   "en": "How about it, {s:0000}? Want to have a look{n}around together?",
    "term": "end"
   },
   {
    "id": "scen147.0206",
    "jp": "ウォレスと行動しますか？",
-   "en": "",
+   "en": "Spend time with Wallace?",
    "term": "end"
   },
   {
    "id": "scen147.0207",
    "jp": "行こうぜ。",
-   "en": "",
+   "en": "Let's go.",
    "term": "end"
   },
   {
    "id": "scen147.0208",
    "jp": "そうか、また後でな。",
-   "en": "",
+   "en": "All right. See you later.",
    "term": "end"
   },
   {
    "id": "scen147.0209",
    "jp": "あっ、お兄さま。{n}一緒に見物しましょうよ～。",
-   "en": "",
+   "en": "Oh, Big Brother! Come sightseeing with meee!",
    "term": "end"
   },
   {
    "id": "scen147.0210",
    "jp": "ミーシャと行動しますか？",
-   "en": "",
+   "en": "Spend time with Misha?",
    "term": "end"
   },
   {
    "id": "scen147.0211",
    "jp": "やったぁ、行きましょう{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Yay! Let's go{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen147.0212",
    "jp": "では、また後で‥‥。",
-   "en": "",
+   "en": "See you later, then...",
    "term": "end"
   },
   {
    "id": "scen147.0213",
    "jp": "どうだい？{n}一緒に行かないか？",
-   "en": "",
+   "en": "How about it? Shall we go together?",
    "term": "end"
   },
   {
    "id": "scen147.0214",
    "jp": "アリオストと行動しますか？",
-   "en": "",
+   "en": "Spend time with Ariost?",
    "term": "end"
   },
   {
    "id": "scen147.0215",
    "jp": "では、行こうか。",
-   "en": "",
+   "en": "Well then, shall we go?",
    "term": "end"
   },
   {
    "id": "scen147.0216",
    "jp": "{s:0000}さん。{n}一緒にお散歩しませんか？",
-   "en": "",
+   "en": "{s:0000}. Would you like to take a walk with{n}me?",
    "term": "end"
   },
   {
    "id": "scen147.0217",
    "jp": "カレンと行動しますか？",
-   "en": "",
+   "en": "Spend time with Karen?",
    "term": "end"
   },
   {
    "id": "scen147.0218",
    "jp": "そうですか‥‥。",
-   "en": "",
+   "en": "I see...",
    "term": "end"
   },
   {
    "id": "scen147.0219",
    "jp": "{s:0000}さん、{n}一緒に行きませんか？",
-   "en": "",
+   "en": "{s:0000}, would you like to come with me?",
    "term": "end"
   },
   {
    "id": "scen147.0220",
    "jp": "エリオットと行動しますか？",
-   "en": "",
+   "en": "Spend time with Elliot?",
    "term": "end"
   },
   {
    "id": "scen147.0221",
    "jp": "行きましょう！",
-   "en": "",
+   "en": "Let's go!",
    "term": "end"
   },
   {
    "id": "scen147.0222",
    "jp": "劇場があるといいですね。{n}僕はヴァイオリンが趣味なんですけど、{n}一度大きな劇場で弾いてみたいんです。",
-   "en": "",
+   "en": "It would be nice to have a theater here. I play the{n}violin as a hobby, and I'd love to play in a large theater{n}someday.",
    "term": "end"
   },
   {
    "id": "scen147.0223",
    "jp": "ここって、劇場があるんですよね？{n}僕、一度大きな劇場でヴァイオリンを弾いてみたいんです。",
-   "en": "",
+   "en": "There's a theater here, isn't there? I'd love to play{n}the violin in a large theater someday.",
    "term": "end"
   },
   {
    "id": "scen147.0224",
    "jp": "マイ＝ロード、{n}ご一緒してもよろしいでしょうか？",
-   "en": "",
+   "en": "My Lord, may I accompany you?",
    "term": "end"
   },
   {
    "id": "scen147.0225",
    "jp": "ジュリアンと行動しますか？",
-   "en": "",
+   "en": "Spend time with Julian?",
    "term": "end"
   },
   {
    "id": "scen147.0226",
    "jp": "{s:0000}、一緒に行かないか？",
-   "en": "",
+   "en": "{s:0000}, want to come with me?",
    "term": "end"
   },
   {
    "id": "scen147.0227",
    "jp": "よし、行くか。",
-   "en": "",
+   "en": "All right, let's go.",
    "term": "end"
   },
   {
    "id": "scen147.0228",
    "jp": "そうか、後でな。",
-   "en": "",
+   "en": "All right. See you later.",
    "term": "end"
   },
   {
    "id": "scen147.0229",
    "jp": "おう、一緒に行こうぜ。",
-   "en": "",
+   "en": "Hey, let's go together.",
    "term": "end"
   },
   {
    "id": "scen147.0230",
    "jp": "ゼノスと行動しますか？",
-   "en": "",
+   "en": "Spend time with Xenos?",
    "term": "end"
   },
   {
    "id": "scen147.0231",
    "jp": "よっしゃ、行くか。",
-   "en": "",
+   "en": "All right! Let's go.",
    "term": "end"
   }
  ]

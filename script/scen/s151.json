@@ -15,704 +15,704 @@
   {
    "id": "scen151.0001",
    "jp": "魔法学院生徒",
-   "en": "",
+   "en": "Magic Academy Student",
    "term": "null"
   },
   {
    "id": "scen151.0002",
    "jp": "バイト店員",
-   "en": "",
+   "en": "Part-Time Clerk",
    "term": "null"
   },
   {
    "id": "scen151.0003",
    "jp": "教授",
-   "en": "",
+   "en": "Professor",
    "term": "null"
   },
   {
    "id": "scen151.0004",
    "jp": "もう、帰る時間だね。",
-   "en": "",
+   "en": "It's time to head back already.",
    "term": "end"
   },
   {
    "id": "scen151.0005",
    "jp": "あ～、どっか遊びに行きたいな～。",
-   "en": "",
+   "en": "Aaah, I wanna go somewhere fun!",
    "term": "end"
   },
   {
    "id": "scen151.0006",
    "jp": "何にもないもんね、ここ‥‥。",
-   "en": "",
+   "en": "There's nothing to do here...",
    "term": "end"
   },
   {
    "id": "scen151.0007",
    "jp": "いっつも廊下でぶつかってくる女の子がいるんだけど、{n}あれって俺に気があるのかな？",
-   "en": "",
+   "en": "There's this girl who keeps bumping into me in the hall.{n}Think she's got a thing for me?",
    "term": "end"
   },
   {
    "id": "scen151.0008",
    "jp": "おさげに眼鏡の子だろ？{n}誰にでもぶつかってるよ‥‥。",
-   "en": "",
+   "en": "The girl with pigtails and glasses? She bumps into{n}everyone...",
    "term": "end"
   },
   {
    "id": "scen151.0009",
    "jp": "{s:0000}君、{n}実は君に話したいことがあるんだ。{n}僕の研究室まで来てくれないか？",
-   "en": "",
+   "en": "{s:0000}, there's something I'd like to{n}discuss with you. Could you come to my laboratory?",
    "term": "end"
   },
   {
    "id": "scen151.0010",
    "jp": "行きますか？",
-   "en": "",
+   "en": "Will you go?",
    "term": "end"
   },
   {
    "id": "scen151.0011",
    "jp": "じゃあ、待ってるよ。",
-   "en": "",
+   "en": "All right, I'll be waiting.",
    "term": "end"
   },
   {
    "id": "scen151.0012",
    "jp": "‥‥そうかい。{n}それはとても残念だ。{n}では、僕は失礼する。",
-   "en": "",
+   "en": "...I see. That's a real shame. Well, I'll be going, then.",
    "term": "end"
   },
   {
    "id": "scen151.0013",
    "jp": "アリオストさん、どうかしたのかな？",
-   "en": "",
+   "en": "I wonder what's going on with Ariost-san?",
    "term": "end"
   },
   {
    "id": "scen151.0014",
    "jp": "お兄さま～～～！！",
-   "en": "",
+   "en": "Big Brother!!!",
    "term": "end"
   },
   {
    "id": "scen151.0015",
    "jp": "はあ‥‥。{n}オレってば‥‥。{n}どーしてこんなに失敗続きなんだろうか‥‥。",
-   "en": "",
+   "en": "*sigh* What's wrong with me...? Why do I keep messing{n}everything up...?",
    "term": "end"
   },
   {
    "id": "scen151.0016",
    "jp": "休暇でこんなところへ来て、{n}何するの？",
-   "en": "",
+   "en": "What are you going to do here on your day off?",
    "term": "end"
   },
   {
    "id": "scen151.0017",
    "jp": "イベント番号は{FFEB}番。",
-   "en": "",
+   "en": "Event number: {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen151.0018",
    "jp": "共通カウンタ０は{FFEB}",
-   "en": "",
+   "en": "Shared counter 0: {FFEB}",
    "term": "end"
   },
   {
    "id": "scen151.0019",
    "jp": "カウンタ１は{FFEB}番。",
-   "en": "",
+   "en": "Counter 1: {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen151.0020",
    "jp": "カウンタ２は{FFEB}番。",
-   "en": "",
+   "en": "Counter 2: {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen151.0021",
    "jp": "仲間１はミーシャ。",
-   "en": "",
+   "en": "Companion 1 is Misha.",
    "term": "end"
   },
   {
    "id": "scen151.0022",
    "jp": "仲間１はアリオスト。",
-   "en": "",
+   "en": "Companion 1 is Ariost.",
    "term": "end"
   },
   {
    "id": "scen151.0023",
    "jp": "仲間１はカレン。",
-   "en": "",
+   "en": "Companion 1 is Karen.",
    "term": "end"
   },
   {
    "id": "scen151.0024",
    "jp": "仲間１はエリオット。",
-   "en": "",
+   "en": "Companion 1 is Elliot.",
    "term": "end"
   },
   {
    "id": "scen151.0025",
    "jp": "仲間１はジュリアン。",
-   "en": "",
+   "en": "Companion 1 is Julian.",
    "term": "end"
   },
   {
    "id": "scen151.0026",
    "jp": "仲間１はゼノス。",
-   "en": "",
+   "en": "Companion 1 is Xenos.",
    "term": "end"
   },
   {
    "id": "scen151.0027",
    "jp": "仲間２はミーシャ。",
-   "en": "",
+   "en": "Companion 2 is Misha.",
    "term": "end"
   },
   {
    "id": "scen151.0028",
    "jp": "仲間２はアリオスト。",
-   "en": "",
+   "en": "Companion 2 is Ariost.",
    "term": "end"
   },
   {
    "id": "scen151.0029",
    "jp": "仲間２はカレン。",
-   "en": "",
+   "en": "Companion 2 is Karen.",
    "term": "end"
   },
   {
    "id": "scen151.0030",
    "jp": "仲間２はエリオット。",
-   "en": "",
+   "en": "Companion 2 is Elliot.",
    "term": "end"
   },
   {
    "id": "scen151.0031",
    "jp": "仲間２はジュリアン。",
-   "en": "",
+   "en": "Companion 2 is Julian.",
    "term": "end"
   },
   {
    "id": "scen151.0032",
    "jp": "仲間２はゼノス。",
-   "en": "",
+   "en": "Companion 2 is Xenos.",
    "term": "end"
   },
   {
    "id": "scen151.0033",
    "jp": "ミーシャのイベント発生。",
-   "en": "",
+   "en": "Misha's event triggered.",
    "term": "end"
   },
   {
    "id": "scen151.0034",
    "jp": "アリオストのイベント発生。",
-   "en": "",
+   "en": "Ariost's event triggered.",
    "term": "end"
   },
   {
    "id": "scen151.0035",
    "jp": "セーブＯＮにする？",
-   "en": "",
+   "en": "Enable saving?",
    "term": "end"
   },
   {
    "id": "scen151.0036",
    "jp": "まっさか～。",
-   "en": "",
+   "en": "No waaay.",
    "term": "end"
   },
   {
    "id": "scen151.0037",
    "jp": "‥‥‥。",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen151.0038",
    "jp": "ねえ？",
-   "en": "",
+   "en": "Right?",
    "term": "end"
   },
   {
    "id": "scen151.0039",
    "jp": "だってさ～。",
-   "en": "",
+   "en": "But, see...",
    "term": "end"
   },
   {
    "id": "scen151.0040",
    "jp": "鍵がかかっている。",
-   "en": "",
+   "en": "It's locked.",
    "term": "end"
   },
   {
    "id": "scen151.0041",
    "jp": "{FB00}また‥‥。",
-   "en": "",
+   "en": "{FB00}Again...",
    "term": "end"
   },
   {
    "id": "scen151.0042",
    "jp": "{FB00}秘密にしてるつもりなのね‥‥。",
-   "en": "",
+   "en": "{FB00}So you're trying to keep it a secret...",
    "term": "end"
   },
   {
    "id": "scen151.0043",
    "jp": "{FB00}な、なんだろ‥‥？",
-   "en": "",
+   "en": "{FB00}Wh-what could it be...?",
    "term": "end"
   },
   {
    "id": "scen151.0044",
    "jp": "{FB00}‥‥‥。",
-   "en": "",
+   "en": "{FB00}...",
    "term": "end"
   },
   {
    "id": "scen151.0045",
    "jp": "アリオストの研究室",
-   "en": "",
+   "en": "Ariost's Laboratory",
    "term": "end"
   },
   {
    "id": "scen151.0046",
    "jp": "やあ、君たちか。{n}来てくれたのは嬉しいけど、{n}今、手が放せないんだ。{p}部屋の中は勝手に見てくれてかまわないよ。",
-   "en": "",
+   "en": "Oh, it's you. I'm glad you came, but I'm in the middle of{n}something.{p}Feel free to look around the room.",
    "term": "end"
   },
   {
    "id": "scen151.0047",
    "jp": "それはね、遺跡を調べるときに{n}まだ動いている罠を見つけるために{n}作った探知機だよ。{p}でも、大きすぎて携帯できなかったんだ。{n}だから今はただのガラクタさ。",
-   "en": "",
+   "en": "That's a detector I built to find traps that are still{n}active when exploring ruins.{p}But it turned out to be too big to carry around. So now{n}it's just a piece of junk.",
    "term": "end"
   },
   {
    "id": "scen151.0048",
    "jp": "そいつの事は、もう話したじゃないか。",
-   "en": "",
+   "en": "I already told you about that one, didn't I?",
    "term": "end"
   },
   {
    "id": "scen151.0049",
    "jp": "すまない、ちょっと時間がなくなってしまった。{n}また今度にしてくれないか？",
-   "en": "",
+   "en": "Sorry, I'm afraid I've run out of time. Could we do this{n}another day?",
    "term": "end"
   },
   {
    "id": "scen151.0050",
    "jp": "それはね、遺跡で見つけたものなんだけど{n}材質がなんだかわからないんだ。{n}表面のなめらかさは磨いて出るものじゃない。{p}かと言って自然のものでもないね。{n}古代文明に関しては、{n}まだまだわからないことだらけだよ。",
-   "en": "",
+   "en": "I found that in some ruins, but I can't identify the{n}material. Polishing couldn't make its surface that{n}smooth.{p}Yet it isn't natural, either. There's still so much we{n}don't know about ancient civilization.",
    "term": "end"
   },
   {
    "id": "scen151.0051",
    "jp": "おっと、それはちょっと見せられないんだ。{n}すまないね。",
-   "en": "",
+   "en": "Oh, I can't let you see that one. Sorry.",
    "term": "end"
   },
   {
    "id": "scen151.0052",
    "jp": "僕は僕で地道に努力するさ。{n}彼女を幸せにするためにね。",
-   "en": "",
+   "en": "I'll keep working at it in my own way. To make her{n}happy.",
    "term": "end"
   },
   {
    "id": "scen151.0053",
    "jp": "ああ、ごめん。{n}さっきは時間を忘れて話してしまったが{n}今日は本当に忙しくてね。{p}また今度、来てくれないか。",
-   "en": "",
+   "en": "Oh, sorry. I lost track of time talking earlier, but I{n}really am busy today.{p}Could you come back another day?",
    "term": "end"
   },
   {
    "id": "scen151.0054",
    "jp": "どうだい？{n}この部屋は僕の今までの研究の成果が{n}つまっているんだ。",
-   "en": "",
+   "en": "Well, what do you think? This room holds the results of{n}all my research so far.",
    "term": "end"
   },
   {
    "id": "scen151.0055",
    "jp": "魔法学院・学食",
-   "en": "",
+   "en": "Magic Academy - Cafeteria",
    "term": "end"
   },
   {
    "id": "scen151.0056",
    "jp": "{v:01E6}あ、お兄さま★{n}お兄さまに食べて貰おうと思って{n}ケーキを焼いたんですぅ♪",
-   "en": "",
+   "en": "{v:01E6}Oh, Big Brother! I baked a cake just for you to tryyy♪",
    "term": "end"
   },
   {
    "id": "scen151.0057",
    "jp": "お兄さま、こっち、こっち！",
-   "en": "",
+   "en": "Big Brother, over here! Over here!",
    "term": "end"
   },
   {
    "id": "scen151.0058",
    "jp": "どの階に行きますか？",
-   "en": "",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
    "id": "scen151.0059",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0060",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0061",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0062",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0063",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0064",
    "jp": "今はやってないわよ？",
-   "en": "",
+   "en": "You know it's closed right now?",
    "term": "end"
   },
   {
    "id": "scen151.0065",
    "jp": "今日は食堂が休みなの。{n}ガランとしてなんだか寂しいね。",
-   "en": "",
+   "en": "The cafeteria's closed today. It feels a little lonely with{n}the place so empty.",
    "term": "end"
   },
   {
    "id": "scen151.0066",
    "jp": "魔法学院・講義室",
-   "en": "",
+   "en": "Magic Academy - Lecture Rooms",
    "term": "end"
   },
   {
    "id": "scen151.0067",
    "jp": "どの階に行きますか？",
-   "en": "",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
    "id": "scen151.0068",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0069",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0070",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0071",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0072",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0073",
    "jp": "レポートやってる？",
-   "en": "",
+   "en": "Been working on your report?",
    "term": "end"
   },
   {
    "id": "scen151.0074",
    "jp": "‥‥全然[01BE]",
-   "en": "",
+   "en": "...Not at all[01BE]",
    "term": "end"
   },
   {
    "id": "scen151.0075",
    "jp": "どの階に行きますか？",
-   "en": "",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
    "id": "scen151.0076",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0077",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0078",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0079",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0080",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0081",
    "jp": "そこの女の子、可愛いよね。{n}どこのクラスだろう？",
-   "en": "",
+   "en": "That girl over there is cute, huh? I wonder what class{n}she's in?",
    "term": "end"
   },
   {
    "id": "scen151.0082",
    "jp": "学院ってなかなか{n}可愛い子が多いよな‥‥。",
-   "en": "",
+   "en": "There sure are a lot of cute girls at the Academy...",
    "term": "end"
   },
   {
    "id": "scen151.0083",
    "jp": "魔法学院・図書室",
-   "en": "",
+   "en": "Magic Academy - Library",
    "term": "end"
   },
   {
    "id": "scen151.0084",
    "jp": "どの階に行きますか？",
-   "en": "",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
    "id": "scen151.0085",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0086",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0087",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0088",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0089",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0090",
    "jp": "なんでブラッドレー先生の書いた本は{n}いっつも隅の方にあるんだろう‥‥。",
-   "en": "",
+   "en": "Why are Bradley-sensei's books always tucked away in{n}a corner...?",
    "term": "end"
   },
   {
    "id": "scen151.0091",
    "jp": "学生に負けないように、{n}教師も日々勉強だわ。",
-   "en": "",
+   "en": "Even teachers have to study every day, you know. We{n}can't let our students outdo us.",
    "term": "end"
   },
   {
    "id": "scen151.0092",
    "jp": "魔法学院・屋上",
-   "en": "",
+   "en": "Magic Academy - Rooftop",
    "term": "end"
   },
   {
    "id": "scen151.0093",
    "jp": "どの階に行きますか？",
-   "en": "",
+   "en": "Which floor would you like to visit?",
    "term": "end"
   },
   {
    "id": "scen151.0094",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0095",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0096",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0097",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0098",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen151.0099",
    "jp": "こら、外へ出たら連絡が取れなくなるでしょ！",
-   "en": "",
+   "en": "Hey! If you go outside, they won't be able to reach you!",
    "term": "end"
   },
   {
    "id": "scen151.0100",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "",
+   "en": "Where do you think you're going, leaving everyone{n}behind?!",
    "term": "end"
   },
   {
    "id": "scen151.0101",
    "jp": "今日はここで一日過ごすんでしょ？",
-   "en": "",
+   "en": "We're spending the whole day here, remember?",
    "term": "end"
   },
   {
    "id": "scen151.0102",
    "jp": "さて、解散しましょ～か。{n}集合時間に遅れないようにね。",
-   "en": "",
+   "en": "Okay, let's split up! Don't be late meeting back here.",
    "term": "end"
   },
   {
    "id": "scen151.0103",
    "jp": "アタシたちも行こっか？",
-   "en": "",
+   "en": "Shall we get going, too?",
    "term": "end"
   },
   {
    "id": "scen151.0104",
    "jp": "お兄さま、ケーキ作ったのに‥‥。",
-   "en": "",
+   "en": "But Big Brother, I baked you a cake...",
    "term": "end"
   },
   {
    "id": "scen151.0105",
    "jp": "ちょっとアンタ、いくら相手がミーシャでも{n}それはないでしょ！",
-   "en": "",
+   "en": "Hey, you! Even if it is Misha, that's no way to treat{n}her!",
    "term": "end"
   },
   {
    "id": "scen151.0106",
    "jp": "さて、みんなそろったよね？{n}じゃあ、戻ろうか。",
-   "en": "",
+   "en": "Okay, everyone's here, right? Let's head back.",
    "term": "end"
   },
   {
    "id": "scen151.0107",
    "jp": "みんな、心配かけてごめんなさい。{n}アタシはもう大丈夫。{p}お兄さま、アタシでお役に立てるなら{n}いつでも言って下さいね。",
-   "en": "",
+   "en": "Everyone, I'm sorry I worried you. I'm all right now.{p}Big Brother, if there's anything I can do to help, please{n}let me know.",
    "term": "end"
   },
   {
    "id": "scen151.0108",
    "jp": "良かった、良かった。{n}じゃあ、戻ろうか。",
-   "en": "",
+   "en": "Good, good. Let's head back, then.",
    "term": "end"
   },
   {
    "id": "scen151.0109",
    "jp": "{s:0000}。{n}しっかりやれよ。",
-   "en": "",
+   "en": "{s:0000}. Don't let us down.",
    "term": "end"
   },
   {
    "id": "scen151.0110",
    "jp": "ミーシャ君‥‥どこにいるんだろうね？",
-   "en": "",
+   "en": "Misha-kun... Where could she be?",
    "term": "end"
   },
   {
    "id": "scen151.0111",
    "jp": "私が力になれれば良いのですが‥‥。",
-   "en": "",
+   "en": "I wish there were something I could do to help...",
    "term": "end"
   },
   {
    "id": "scen151.0112",
    "jp": "ミーシャ‥‥。{n}大丈夫かな？",
-   "en": "",
+   "en": "Misha... Is she all right?",
    "term": "end"
   },
   {
    "id": "scen151.0113",
    "jp": "アタシたちもミーシャを探そうよ。",
-   "en": "",
+   "en": "Let's look for Misha, too.",
    "term": "end"
   }
  ]

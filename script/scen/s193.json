@@ -15,37 +15,37 @@
   {
    "id": "scen193.0001",
    "jp": "ユング",
-   "en": "",
+   "en": "Jung",
    "term": "null"
   },
   {
    "id": "scen193.0002",
    "jp": "{FFEE}扉を破壊される前に、ユングを倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Defeat the Jung before they destroy the door!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen193.0003",
    "jp": "‥{v:005D}渡サナイ！",
-   "en": "",
+   "en": "...{v:005D}Won't hand it over!",
    "term": "end"
   },
   {
    "id": "scen193.0004",
    "jp": "{v:005E}壊セ、壊セ！",
-   "en": "",
+   "en": "{v:005E}Break it! Break it!",
    "term": "end"
   },
   {
    "id": "scen193.0005",
    "jp": "{v:0061}ああっ！{n}あの部屋もメチャメチャにされちゃった！{p}{v:0062}せっかく秘密がわかると思ったのに‥‥。",
-   "en": "",
+   "en": "{v:0061}Ah! They've trashed that room too!{p}{v:0062}And I thought we were finally going to uncover the{n}secret...",
    "term": "end"
   },
   {
    "id": "scen193.0006",
    "jp": "{v:005F}邪魔者、コロス！",
-   "en": "",
+   "en": "{v:005F}Kill intruders!",
    "term": "end"
   }
  ]

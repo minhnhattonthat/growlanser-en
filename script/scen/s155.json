@@ -15,1193 +15,1193 @@
   {
    "id": "scen155.0001",
    "jp": "ジュリアン部下",
-   "en": "",
+   "en": "Julian's Subordinate",
    "term": "null"
   },
   {
    "id": "scen155.0002",
    "jp": "モンスター使い見習い",
-   "en": "",
+   "en": "Apprentice Monster Tamer",
    "term": "null"
   },
   {
    "id": "scen155.0003",
    "jp": "村人",
-   "en": "",
+   "en": "Villager",
    "term": "null"
   },
   {
    "id": "scen155.0004",
    "jp": "店主",
-   "en": "",
+   "en": "Shopkeeper",
    "term": "null"
   },
   {
    "id": "scen155.0005",
    "jp": "ジュリアン",
-   "en": "",
+   "en": "Julian",
    "term": "null"
   },
   {
    "id": "scen155.0006",
    "jp": "さて、アタシ達も行きましょ？",
-   "en": "",
+   "en": "Well, shall we get going too?",
    "term": "end"
   },
   {
    "id": "scen155.0007",
    "jp": "さあ、帰ろうよ。",
-   "en": "",
+   "en": "Come on, let's head back.",
    "term": "end"
   },
   {
    "id": "scen155.0008",
    "jp": "僕は、あなたに助けてもらうまで、{n}自分で何かをしたことなんて{n}なかったかも知れません‥‥。",
-   "en": "",
+   "en": "Until you helped me, I don't think I'd ever really done{n}anything for myself...",
    "term": "end"
   },
   {
    "id": "scen155.0009",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0010",
    "jp": "・その通りだと言う",
-   "en": "",
+   "en": "・Say he's right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0011",
    "jp": "・これからに期待していると言う",
-   "en": "",
+   "en": "・Say you have high hopes for him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0012",
    "jp": "ちょっと、そういう言い方ってないじゃない！",
-   "en": "",
+   "en": "Hey! You didn't have to put it like that!",
    "term": "end"
   },
   {
    "id": "scen155.0013",
    "jp": "いえ、いいんです。{n}ですから今までそうだった分、{n}これからがんばろうって‥‥そう決めました。",
-   "en": "",
+   "en": "No, it's all right. That's why I've decided... I'll work hard{n}from now on to make up for it.",
    "term": "end"
   },
   {
    "id": "scen155.0014",
    "jp": "ありがとうございます。{n}僕も、これからどうしていくかが{n}大事だと思うんです。{p}まだまだ、僕は何もできない。{n}だから、助けてもらわなくちゃ{n}いけない事もあると思います。{p}そんなとき、またよろしくお願いしますね。",
-   "en": "",
+   "en": "Thank you. I think what matters is what I do from now{n}on, too.{p}There's still so much I can't do. I'm sure there'll be times{n}when I'll need help.{p}When that happens, I hope I can count on you again.",
    "term": "end"
   },
   {
    "id": "scen155.0015",
    "jp": "どう答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen155.0016",
    "jp": "・もちろんだと答える",
-   "en": "",
+   "en": "・Say of course he can",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0017",
    "jp": "・もう必要ないと答える",
-   "en": "",
+   "en": "・Say he won't need your help anymore",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0018",
    "jp": "これで安心して眠れますよ。",
-   "en": "",
+   "en": "Now I'll be able to sleep soundly.",
    "term": "end"
   },
   {
    "id": "scen155.0019",
    "jp": "そんな‥‥。{n}僕はまだそれほど強い人間ではありません。{n}見捨てないで下さいね。",
-   "en": "",
+   "en": "But... I'm not that strong yet. Please don't give up on{n}me.",
    "term": "end"
   },
   {
    "id": "scen155.0020",
    "jp": "さて、僕は明日の行軍に備えてそろそろ寝ます。{n}おやすみなさい。",
-   "en": "",
+   "en": "Well, I should get some sleep before tomorrow's march.{n}Good night.",
    "term": "end"
   },
   {
    "id": "scen155.0021",
    "jp": "おやすみ、エリオット。",
-   "en": "",
+   "en": "Good night, Elliot.",
    "term": "end"
   },
   {
    "id": "scen155.0022",
    "jp": "すっかり遅くなっちゃったけど、{n}そろそろ帰らないとね。",
-   "en": "",
+   "en": "It's gotten awfully late. We'd better head back.",
    "term": "end"
   },
   {
    "id": "scen155.0023",
    "jp": "‥‥厳しい戦いになりそうだ。",
-   "en": "",
+   "en": "...This will be a difficult battle.",
    "term": "end"
   },
   {
    "id": "scen155.0024",
    "jp": "えっ、戦況は不利なの？",
-   "en": "",
+   "en": "Huh? Are the odds against us?",
    "term": "end"
   },
   {
    "id": "scen155.0025",
    "jp": "確かに、ライエルやリシャールは強い。{n}だが、こちらには{s:0000}、{n}お前やルイセ、ウォレスがいる。",
-   "en": "",
+   "en": "Lyell and Richard are certainly strong. But we have you{n}on our side, {s:0000}, along with Luise and{n}Wallace.",
    "term": "end"
   },
   {
    "id": "scen155.0026",
    "jp": "じゃあ、心配ないじゃない。",
-   "en": "",
+   "en": "Then there's nothing to worry about!",
    "term": "end"
   },
   {
    "id": "scen155.0027",
    "jp": "バーンシュタインの人間同士で{n}戦争をしなければならないのだぞ？",
-   "en": "",
+   "en": "We must wage war against our fellow people of{n}Burnstein. Do you understand?",
    "term": "end"
   },
   {
    "id": "scen155.0028",
    "jp": "そうか‥‥。",
-   "en": "",
+   "en": "I see...",
    "term": "end"
   },
   {
    "id": "scen155.0029",
    "jp": "短い間だったがライエルは良き同僚だった。{n}インペリアル・ナイツ同士で戦わねばならん。",
-   "en": "",
+   "en": "Lyell was a fine comrade, though we served together{n}only briefly. Now we Imperial Knights must fight one{n}another.",
    "term": "end"
   },
   {
    "id": "scen155.0030",
    "jp": "そうだね‥‥。",
-   "en": "",
+   "en": "It really is...",
    "term": "end"
   },
   {
    "id": "scen155.0031",
    "jp": "それはきっと、私だけではない。{n}バーンシュタインの兵士達はみな、{n}同じ想いを抱いているはずだ。",
-   "en": "",
+   "en": "I am surely not alone in this. Every soldier of Burnstein{n}must feel the same.",
    "term": "end"
   },
   {
    "id": "scen155.0032",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0033",
    "jp": "・激励する",
-   "en": "",
+   "en": "・Offer encouragement",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0034",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0035",
    "jp": "・なぐさめる",
-   "en": "",
+   "en": "・Offer comfort",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0036",
    "jp": "そうだな。{n}こんな戦いは早く終わらさねば‥‥。",
-   "en": "",
+   "en": "You are right. We must bring this fighting to an end{n}quickly...",
    "term": "end"
   },
   {
    "id": "scen155.0037",
    "jp": "こんな戦いは早く終わらさねば‥‥。",
-   "en": "",
+   "en": "We must bring this fighting to an end quickly...",
    "term": "end"
   },
   {
    "id": "scen155.0038",
    "jp": "よせ、{s:0000}。{n}私は戦う決意をしたのだ。{p}こんな戦いは早く終わらさねば‥‥。",
-   "en": "",
+   "en": "Enough, {s:0000}. I have made my decision to{n}fight.{p}We must bring this fighting to an end quickly...",
    "term": "end"
   },
   {
    "id": "scen155.0039",
    "jp": "さて、私は明日に備えて休む。{n}またな、{s:0000}、ティピ。",
-   "en": "",
+   "en": "Now, I will rest before tomorrow. Until then,{n}{s:0000}, Tippi.",
    "term": "end"
   },
   {
    "id": "scen155.0040",
    "jp": "おいおい、何のために来たんだ？{n}エリオットやジュリアンのところへ行って来い。",
-   "en": "",
+   "en": "Hey, what'd you come here for? Go see Elliot and Julian.",
    "term": "end"
   },
   {
    "id": "scen155.0041",
    "jp": "もう夕方だな‥‥。",
-   "en": "",
+   "en": "Evening already...",
    "term": "end"
   },
   {
    "id": "scen155.0042",
    "jp": "見たか、{s:0000}？{n}兵の士気が高い。{n}国に反旗をひるがえすというのにな。{p}ジュリアンの統率力は見事なものだ。{n}お前はここまでできるか？",
-   "en": "",
+   "en": "Did you see that, {s:0000}? The troops'{n}morale is high. Even though they're taking up arms{n}against their own country.{p}Julian knows how to lead. Could you do that well?",
    "term": "end"
   },
   {
    "id": "scen155.0043",
    "jp": "どう答えますか？",
-   "en": "",
+   "en": "How will you answer?",
    "term": "end"
   },
   {
    "id": "scen155.0044",
    "jp": "・できる",
-   "en": "",
+   "en": "・I could",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0045",
    "jp": "・できない",
-   "en": "",
+   "en": "・I couldn't",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0046",
    "jp": "・これほどではない",
-   "en": "",
+   "en": "・Not that well",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0047",
    "jp": "そうか、大した自信だな。{n}まあ、お前も騎士だ。{n}いずれ軍を率いるときが来るかも知れん。{p}その時のために、ジュリアンから学ぶんだな。",
-   "en": "",
+   "en": "That so? You're a confident one. Well, you're a knight{n}too. You may lead an army yourself someday.{p}Learn from Julian so you'll be ready.",
    "term": "end"
   },
   {
    "id": "scen155.0048",
    "jp": "アンタ、がんばりなさいよ。",
-   "en": "",
+   "en": "You'd better work hard, then!",
    "term": "end"
   },
   {
    "id": "scen155.0049",
    "jp": "はっはっは、軍の指揮は経験がないとできんだろうな。{n}だが、お前も俺達のリーダーであることを忘れるな。",
-   "en": "",
+   "en": "Ha ha ha! Hard to command an army without{n}experience. But don't forget, you're our leader too.",
    "term": "end"
   },
   {
    "id": "scen155.0050",
    "jp": "謙虚だな。{n}確かにいきなり大軍を率いることはできんだろう。{p}だが、お前も騎士だ。{n}いずれ軍を率いるときが来るかも知れん。{n}学べることはジュリアンから学んでおけ。{p}お前ならジュリアンにも負けない将軍になれる。",
-   "en": "",
+   "en": "Modest, aren't you? True, you can't expect to lead a{n}great army right away.{p}But you're a knight too. You may lead an army someday.{n}Learn what you can from Julian.{p}You could become a general every bit as good as{n}Julian.",
    "term": "end"
   },
   {
    "id": "scen155.0051",
    "jp": "ウォレスさん、あんまりほめるとコイツ、{n}調子に乗るよ？",
-   "en": "",
+   "en": "Wallace-san, praise this guy too much and it'll go{n}straight to his head!",
    "term": "end"
   },
   {
    "id": "scen155.0052",
    "jp": "いよいよ決戦か‥‥。",
-   "en": "",
+   "en": "So, the decisive battle is finally here...",
    "term": "end"
   },
   {
    "id": "scen155.0053",
    "jp": "お兄ちゃん、せっかく来たんだから{n}ちゃんとあいさつに行って来なよ。",
-   "en": "",
+   "en": "Big Brother, since you came all this way, you should go{n}and say hello.",
    "term": "end"
   },
   {
    "id": "scen155.0054",
    "jp": "ジュリアンさんやエリオット君、{n}明日の朝には出発だって。",
-   "en": "",
+   "en": "Julian-san and Elliot-kun are leaving tomorrow morning.",
    "term": "end"
   },
   {
    "id": "scen155.0055",
    "jp": "あ、お兄ちゃん。{n}いよいよ始まっちゃうんだね‥‥戦争。{p}エリオット君の国がどうなるか、{n}私たちにかかってるなんて‥‥。",
-   "en": "",
+   "en": "Oh, Big Brother. It's finally going to start, isn't it... The{n}war.{p}To think that what happens to Elliot-kun's country{n}depends on us...",
    "term": "end"
   },
   {
    "id": "scen155.0056",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0057",
    "jp": "・任せろと言う",
-   "en": "",
+   "en": "・Say she can leave it to you",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0058",
    "jp": "・心配するなと言う",
-   "en": "",
+   "en": "・Tell her not to worry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0059",
    "jp": "・無理はするなと言う",
-   "en": "",
+   "en": "・Tell her not to push herself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0060",
    "jp": "う、うん！{n}わたし、お兄ちゃんになら{n}全部任せられるよ！",
-   "en": "",
+   "en": "Y-yes! I know I can leave everything to you, Big{n}Brother!",
    "term": "end"
   },
   {
    "id": "scen155.0061",
    "jp": "ありがとう、お兄ちゃん。{n}わたし、がんばるね。",
-   "en": "",
+   "en": "Thank you, Big Brother. I'll do my best.",
    "term": "end"
   },
   {
    "id": "scen155.0062",
    "jp": "無理なんてしてないよ。{n}わたし、絶対お兄ちゃんについてくもん！",
-   "en": "",
+   "en": "I'm not pushing myself. I'm going with you no matter{n}what, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen155.0063",
    "jp": "ジュリアンやウォレスさんもいるんだから大丈夫だよ。",
-   "en": "",
+   "en": "We've got Julian and Wallace-san too. We'll be fine.",
    "term": "end"
   },
   {
    "id": "scen155.0064",
    "jp": "うん、そうだね。",
-   "en": "",
+   "en": "Yes, you're right.",
    "term": "end"
   },
   {
    "id": "scen155.0065",
    "jp": "わたしもがんばらなくっちゃ！",
-   "en": "",
+   "en": "I have to do my best too!",
    "term": "end"
   },
   {
    "id": "scen155.0066",
    "jp": "あれ、お兄さま？{n}エリオットくんやジュリアンさんのところに{n}行かなくていいんですか？",
-   "en": "",
+   "en": "Oh, Big Brother? Don't you need to go and see Elliot-kun{n}and Julian-san?",
    "term": "end"
   },
   {
    "id": "scen155.0067",
    "jp": "戦争って怖いですよね。",
-   "en": "",
+   "en": "War is frightening, isn't it?",
    "term": "end"
   },
   {
    "id": "scen155.0068",
    "jp": "お兄さま‥‥。{n}私たち、戦争してるんですよね？{n}大勢の人が戦うんですね。",
-   "en": "",
+   "en": "Big Brother... We're at war, aren't we? So many people{n}will be fighting.",
    "term": "end"
   },
   {
    "id": "scen155.0069",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0070",
    "jp": "・安心しろと言う",
-   "en": "",
+   "en": "・Tell her she can rest easy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0071",
    "jp": "・心配するなと言う",
-   "en": "",
+   "en": "・Tell her not to worry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0072",
    "jp": "・無理はするなと言う",
-   "en": "",
+   "en": "・Tell her not to push herself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0073",
    "jp": "ええ、お兄さまがいればアタシは安心です。{n}お兄さまについて行きます！",
-   "en": "",
+   "en": "Yes, I feel safe with you here, Big Brother. I'll go with{n}you!",
    "term": "end"
   },
   {
    "id": "scen155.0074",
    "jp": "ありがとう、お兄さま。{n}アタシ、がんばっちゃいます。",
-   "en": "",
+   "en": "Thank you, Big Brother. I'll give it my all!",
    "term": "end"
   },
   {
    "id": "scen155.0075",
    "jp": "ああ、なんて優しいお兄さま。{n}{FC00}でも大丈夫、どこまでもついて行きます！",
-   "en": "",
+   "en": "Oh, Big Brother, you're so kind. {FC00}But don't worry! I'll follow{n}you anywhere!",
    "term": "end"
   },
   {
    "id": "scen155.0076",
    "jp": "足ひっぱるんじゃないわよ！",
-   "en": "",
+   "en": "Just don't drag us down!",
    "term": "end"
   },
   {
    "id": "scen155.0077",
    "jp": "ひっど～い。",
-   "en": "",
+   "en": "How meeean!",
    "term": "end"
   },
   {
    "id": "scen155.0078",
    "jp": "がんばりますね！",
-   "en": "",
+   "en": "I'll do my best!",
    "term": "end"
   },
   {
    "id": "scen155.0079",
    "jp": "おやおや。{n}あいさつに行かなくていいのかい？",
-   "en": "",
+   "en": "Well, well. Don't you need to go and say hello?",
    "term": "end"
   },
   {
    "id": "scen155.0080",
    "jp": "いよいよ決戦だね。",
-   "en": "",
+   "en": "The decisive battle is finally here.",
    "term": "end"
   },
   {
    "id": "scen155.0081",
    "jp": "戦争か‥‥。{n}相変わらず戦いばかりだね。",
-   "en": "",
+   "en": "War... It's one battle after another, as always.",
    "term": "end"
   },
   {
    "id": "scen155.0082",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0083",
    "jp": "・すぐに終わらせると言う",
-   "en": "",
+   "en": "・Say you'll end it quickly",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0084",
    "jp": "・黙ってうなずく",
-   "en": "",
+   "en": "・Nod silently",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0085",
    "jp": "・アリオストは戦わなくても良いと言う",
-   "en": "",
+   "en": "・Say Ariost doesn't have to fight",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0086",
    "jp": "頼もしいな。{n}だけど、君ならできそうな気がするよ。",
-   "en": "",
+   "en": "That's reassuring. And I do think you could manage it.",
    "term": "end"
   },
   {
    "id": "scen155.0087",
    "jp": "早く終わらせたいものだね。",
-   "en": "",
+   "en": "I hope we can end it soon.",
    "term": "end"
   },
   {
    "id": "scen155.0088",
    "jp": "僕は自分が戦いたくないんじゃない。{n}ただ、人間同士が争うのが嫌なだけなんだ。",
-   "en": "",
+   "en": "It's not that I don't want to fight myself. I just hate{n}seeing people fight one another.",
    "term": "end"
   },
   {
    "id": "scen155.0089",
    "jp": "みんなでがんばろうよ。",
-   "en": "",
+   "en": "Let's all do our best.",
    "term": "end"
   },
   {
    "id": "scen155.0090",
    "jp": "そうだね。",
-   "en": "",
+   "en": "Yes, let's.",
    "term": "end"
   },
   {
    "id": "scen155.0091",
    "jp": "早く戦争を終わらせなければね。",
-   "en": "",
+   "en": "We must end this war quickly.",
    "term": "end"
   },
   {
    "id": "scen155.0092",
    "jp": "あら？{n}あいさつに行かなくてよろしいんですか？",
-   "en": "",
+   "en": "Oh? Don't you need to go and say hello?",
    "term": "end"
   },
   {
    "id": "scen155.0093",
    "jp": "もう、夕方ですね。",
-   "en": "",
+   "en": "It's evening already.",
    "term": "end"
   },
   {
    "id": "scen155.0094",
    "jp": "私、自分が戦場に立つなんて{n}考えたこともありませんでした。",
-   "en": "",
+   "en": "I never imagined I would find myself on a battlefield.",
    "term": "end"
   },
   {
    "id": "scen155.0095",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0096",
    "jp": "・無理はしなくていいと言う",
-   "en": "",
+   "en": "・Say she doesn't have to push herself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0097",
    "jp": "・心配するなと言う",
-   "en": "",
+   "en": "・Tell her not to worry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0098",
    "jp": "・守ってやると言う",
-   "en": "",
+   "en": "・Say you'll protect her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0099",
    "jp": "自分で選んだ事です。{n}戦場に立つことで助けられる人も{n}いるわけですから‥‥。",
-   "en": "",
+   "en": "This is what I chose. There are people I can help by{n}being on the battlefield...",
    "term": "end"
   },
   {
    "id": "scen155.0100",
    "jp": "ええ、ありがとうございます。",
-   "en": "",
+   "en": "Yes, thank you.",
    "term": "end"
   },
   {
    "id": "scen155.0101",
    "jp": "あなたがそう言うなら、{n}安心できますね。",
-   "en": "",
+   "en": "Hearing you say that puts my mind at ease.",
    "term": "end"
   },
   {
    "id": "scen155.0102",
    "jp": "そうですね。",
-   "en": "",
+   "en": "Yes, you're right.",
    "term": "end"
   },
   {
    "id": "scen155.0103",
    "jp": "がんばります。",
-   "en": "",
+   "en": "I'll do my best.",
    "term": "end"
   },
   {
    "id": "scen155.0104",
    "jp": "こちらはバーンシュタイン軍士官の{n}宿舎となっています。",
-   "en": "",
+   "en": "These are the quarters for officers of the Burnstein{n}army.",
    "term": "end"
   },
   {
    "id": "scen155.0105",
    "jp": "眠いなぁ‥‥。",
-   "en": "",
+   "en": "I'm so sleepy...",
    "term": "end"
   },
   {
    "id": "scen155.0106",
    "jp": "腹減ったなぁ‥‥。",
-   "en": "",
+   "en": "I'm starving...",
    "term": "end"
   },
   {
    "id": "scen155.0107",
    "jp": "つらい戦いになりそうだ‥‥。",
-   "en": "",
+   "en": "This is gonna be a hard battle...",
    "term": "end"
   },
   {
    "id": "scen155.0108",
    "jp": "リシャール様が偽王だったなんて‥‥。{n}他国の陰謀なんかじゃないだろうな？",
-   "en": "",
+   "en": "Richard-sama, a false king... This isn't some foreign{n}plot, is it?",
    "term": "end"
   },
   {
    "id": "scen155.0109",
    "jp": "バーンシュタインの誇るインペリアル・ナイトが{n}敵味方にわかれて戦うなんて前代未聞だよ。",
-   "en": "",
+   "en": "The Imperial Knights, the pride of Burnstein, split into{n}opposing sides and fighting each other... It's unheard{n}of.",
    "term": "end"
   },
   {
    "id": "scen155.0110",
    "jp": "こんなとき、村長がいらっしゃれば‥‥。",
-   "en": "",
+   "en": "If only the village chief were here at a time like this...",
    "term": "end"
   },
   {
    "id": "scen155.0111",
    "jp": "バーンシュタイン軍の逗留で品切れだよ。{n}大繁盛さ！",
-   "en": "",
+   "en": "With the Burnstein army staying here, I've sold out of{n}everything. Business is booming!",
    "term": "end"
   },
   {
    "id": "scen155.0112",
    "jp": "これは{s:0000}様。{n}陛下はこちらにいらっしゃいます。",
-   "en": "",
+   "en": "Ah, Lord {s:0000}. His Majesty is here.",
    "term": "end"
   },
   {
    "id": "scen155.0113",
    "jp": "陛下はただいま、{n}作戦会議中です。",
-   "en": "",
+   "en": "His Majesty is currently attending a strategy meeting.",
    "term": "end"
   },
   {
    "id": "scen155.0114",
    "jp": "陛下はお休みになりました。",
-   "en": "",
+   "en": "His Majesty has retired for the night.",
    "term": "end"
   },
   {
    "id": "scen155.0115",
    "jp": "こちらは陛下の{n}御寝所となっています。",
-   "en": "",
+   "en": "These are His Majesty's sleeping quarters.",
    "term": "end"
   },
   {
    "id": "scen155.0116",
    "jp": "もう、夕方だね。",
-   "en": "",
+   "en": "It's evening already.",
    "term": "end"
   },
   {
    "id": "scen155.0117",
    "jp": "作戦会議が終了した。{n}交代だ！",
-   "en": "",
+   "en": "The strategy meeting is over. Change the guard!",
    "term": "end"
   },
   {
    "id": "scen155.0118",
    "jp": "おお、ようやく飯にありつける。",
-   "en": "",
+   "en": "Oh, finally! Time to get some food.",
    "term": "end"
   },
   {
    "id": "scen155.0119",
    "jp": "{n}　　　　　　　鍵がかかっている。　　　　　　　{n}",
-   "en": "",
+   "en": "It's locked.",
    "term": "end"
   },
   {
    "id": "scen155.0120",
    "jp": "あっ、{s:0000}さん。{n}来て下さったんですね。",
-   "en": "",
+   "en": "Oh, {s:0000}. You came to see me.",
    "term": "end"
   },
   {
    "id": "scen155.0121",
    "jp": "いよいよ、決戦だね。",
-   "en": "",
+   "en": "The decisive battle is finally here.",
    "term": "end"
   },
   {
    "id": "scen155.0122",
    "jp": "ええ、正直言って不安です。{n}決戦のことだけではなくて、{n}その後の事も。",
-   "en": "",
+   "en": "Yes. To be honest, I'm anxious. About the battle, and{n}what comes afterward.",
    "term": "end"
   },
   {
    "id": "scen155.0123",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0124",
    "jp": "・はげます",
-   "en": "",
+   "en": "・Encourage him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0125",
    "jp": "・しかる",
-   "en": "",
+   "en": "・Scold him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0126",
    "jp": "・心配する",
-   "en": "",
+   "en": "・Express concern",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0127",
    "jp": "ありがとうございます。{n}不安は不安だけど、なんとかやってみようと{n}思っているんです。",
-   "en": "",
+   "en": "Thank you. I'm still anxious, but I intend to try to see{n}this through somehow.",
    "term": "end"
   },
   {
    "id": "scen155.0128",
    "jp": "そうですね、僕が不安になっていては{n}戦ってくれる人たちに申し訳ないです。{n}やれるだけやってみます！",
-   "en": "",
+   "en": "You're right. It isn't fair to those fighting for me if I{n}let myself be so anxious. I'll do everything I can!",
    "term": "end"
   },
   {
    "id": "scen155.0129",
    "jp": "いつまでも、みんなに心配かけてばかりでは{n}いられません。{n}なんとかやってみせます。",
-   "en": "",
+   "en": "I can't keep making everyone worry about me forever.{n}I'll find a way to see this through.",
    "term": "end"
   },
   {
    "id": "scen155.0130",
    "jp": "がんばりなよ。",
-   "en": "",
+   "en": "Give it your best!",
    "term": "end"
   },
   {
    "id": "scen155.0131",
    "jp": "ええ！",
-   "en": "",
+   "en": "I will!",
    "term": "end"
   },
   {
    "id": "scen155.0132",
    "jp": "陛下、作戦会議のお時間です。{n}お手数ですが宿舎の方までいらして下さい。",
-   "en": "",
+   "en": "Your Majesty, it is time for the strategy meeting.{n}Please make your way to the officers' quarters.",
    "term": "end"
   },
   {
    "id": "scen155.0133",
    "jp": "はい。今、行きます。",
-   "en": "",
+   "en": "Yes. I'll be right there.",
    "term": "end"
   },
   {
    "id": "scen155.0134",
    "jp": "せっかく来ていただいたのに申し訳ありません。{n}また、夕方にでも。",
-   "en": "",
+   "en": "I'm sorry, after you came all this way. Perhaps we can{n}talk again this evening.",
    "term": "end"
   },
   {
    "id": "scen155.0135",
    "jp": "２階は士官の宿舎となっておりますので、{n}立ち入りはご遠慮願います。",
-   "en": "",
+   "en": "The second floor serves as officers' quarters. Please{n}refrain from entering.",
    "term": "end"
   },
   {
    "id": "scen155.0136",
    "jp": "現在、作戦会議中ですので{n}お通しできません。",
-   "en": "",
+   "en": "A strategy meeting is in progress. I cannot let you{n}through.",
    "term": "end"
   },
   {
    "id": "scen155.0137",
    "jp": "落ち着かないなぁ‥‥。",
-   "en": "",
+   "en": "I can't settle down...",
    "term": "end"
   },
   {
    "id": "scen155.0138",
    "jp": "おお、{s:0000}か。{n}来てくれたんだな。",
-   "en": "",
+   "en": "Ah, {s:0000}. You came.",
    "term": "end"
   },
   {
    "id": "scen155.0139",
    "jp": "どう、ジュリアン？{n}調子は？",
-   "en": "",
+   "en": "So, Julian? How are you doing?",
    "term": "end"
   },
   {
    "id": "scen155.0140",
    "jp": "うむ、思ったよりも兵の士気が高い。{n}私は良い部下に恵まれているよ。",
-   "en": "",
+   "en": "Yes, morale is higher than I expected. I am fortunate to{n}have such fine soldiers.",
    "term": "end"
   },
   {
    "id": "scen155.0141",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0142",
    "jp": "・そのようだと言う",
-   "en": "",
+   "en": "・Say it seems so",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0143",
    "jp": "・ジュリアンの人望だという",
-   "en": "",
+   "en": "・Say Julian has earned their respect",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0144",
    "jp": "・うらやましいと言う",
-   "en": "",
+   "en": "・Say you envy Julian",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0145",
    "jp": "軍隊は兵がいて初めて成立する。{n}そこが、放浪していた頃との大きな違いだな。",
-   "en": "",
+   "en": "An army is nothing without its soldiers. That is the{n}biggest difference from my wandering days.",
    "term": "end"
   },
   {
    "id": "scen155.0146",
    "jp": "お前にそう言われると照れるな。{n}そうであって欲しいものだが。",
-   "en": "",
+   "en": "You embarrass me, saying that. I would like to believe{n}it is true.",
    "term": "end"
   },
   {
    "id": "scen155.0147",
    "jp": "私もお前がうらやましいと思うことがあるぞ。{n}上下関係のない気心の知れた仲間と、{n}旅をするのもいいものだ。",
-   "en": "",
+   "en": "I envy you at times as well. It must be pleasant to{n}travel with friends you know well, without rank coming{n}between you.",
    "term": "end"
   },
   {
    "id": "scen155.0148",
    "jp": "アタシたちだって、任務をこなしてるんだよ。{n}別に気ままに旅をしているわけじゃないもん。",
-   "en": "",
+   "en": "We have missions to carry out too, you know! It's not{n}like we're just wandering around doing whatever we{n}want!",
    "term": "end"
   },
   {
    "id": "scen155.0149",
    "jp": "そう怒るな。{n}お前たちと過ごした時間が懐かしいのだ。",
-   "en": "",
+   "en": "Do not be so angry. I miss the time we spent together.",
    "term": "end"
   },
   {
    "id": "scen155.0150",
    "jp": "将軍、陛下をお連れしました。",
-   "en": "",
+   "en": "General, I have brought His Majesty.",
    "term": "end"
   },
   {
    "id": "scen155.0151",
    "jp": "では、作戦会議を始めよう。{p}{s:0000}、ティピ、{n}すまんがまた後でな。",
-   "en": "",
+   "en": "Then let us begin the strategy meeting.{p}{s:0000}, Tippi, forgive me. We shall talk{n}later.",
    "term": "end"
   },
   {
    "id": "scen155.0152",
    "jp": "うん。またね～！",
-   "en": "",
+   "en": "Okay! See ya!",
    "term": "end"
   },
   {
    "id": "scen155.0153",
    "jp": "お前たちか、来てくれたんだな。",
-   "en": "",
+   "en": "Ah, you two. You came to see me.",
    "term": "end"
   },
   {
    "id": "scen155.0154",
    "jp": "私は明日に備えて寝る事にする。{n}またな、{s:0000}。",
-   "en": "",
+   "en": "I will get some sleep to prepare for tomorrow. See you{n}later, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen155.0155",
    "jp": "おやすみ、ジュリアン。",
-   "en": "",
+   "en": "Good night, Julian.",
    "term": "end"
   },
   {
    "id": "scen155.0156",
    "jp": "さっきはすまんな。",
-   "en": "",
+   "en": "My apologies for earlier.",
    "term": "end"
   },
   {
    "id": "scen155.0157",
    "jp": "お前たちか、わざわざ来てくれたんだな。",
-   "en": "",
+   "en": "Ah, you two. You came all this way to see me.",
    "term": "end"
   },
   {
    "id": "scen155.0158",
    "jp": "会議なんて、ジュリアン偉くなったよね。",
-   "en": "",
+   "en": "Strategy meetings? You're a big shot now, Julian!",
    "term": "end"
   },
   {
    "id": "scen155.0159",
    "jp": "偉く‥‥か。{n}確かに責任のある立場にはなったな。",
-   "en": "",
+   "en": "A big shot... I certainly have greater responsibilities{n}now.",
    "term": "end"
   },
   {
    "id": "scen155.0160",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0161",
    "jp": "・それだけの実力があるからだと言う",
-   "en": "",
+   "en": "・Say Julian has the skill for it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0162",
    "jp": "・父親もインペリアル・ナイトだからと言う",
-   "en": "",
+   "en": "・Say Julian's father is an Imperial Knight too",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0163",
    "jp": "・努力の成果だと言う",
-   "en": "",
+   "en": "・Say it's the result of hard work",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0164",
    "jp": "お前に認めてもらえると嬉しいよ。",
-   "en": "",
+   "en": "I am glad you think so highly of me.",
    "term": "end"
   },
   {
    "id": "scen155.0165",
    "jp": "そうだな‥‥。{n}血筋かも知れん。",
-   "en": "",
+   "en": "Yes... Perhaps it is in my blood.",
    "term": "end"
   },
   {
    "id": "scen155.0166",
    "jp": "努力‥‥か。{n}それを認めてもらえるのがいちばんうれしい。{p}お前に出会うまでは、自分の剣の腕を上げることしか{n}考えていなかった。{p}だが今は、部下がいて、君主がいて、仲間がいる。{n}ただ強くなるだけで満足していては{n}いけないと気づいたよ。",
-   "en": "",
+   "en": "Hard work... Your recognition of that means the most{n}to me.{p}Until I met you, I thought of nothing but improving my{n}swordsmanship.{p}But now I have soldiers under my command, a{n}sovereign to serve, and friends at my side. I have{n}realized that simply growing stronger is not enough.",
    "term": "end"
   },
   {
    "id": "scen155.0167",
    "jp": "少し、外で話さぬか？",
-   "en": "",
+   "en": "Shall we talk outside for a while?",
    "term": "end"
   },
   {
    "id": "scen155.0168",
    "jp": "外に行きますか？",
-   "en": "",
+   "en": "Will you go outside?",
    "term": "end"
   },
   {
    "id": "scen155.0169",
    "jp": "夜風に当たるのも良いものだ。",
-   "en": "",
+   "en": "It is pleasant to feel the night breeze.",
    "term": "end"
   },
   {
    "id": "scen155.0170",
    "jp": "‥‥そうか。",
-   "en": "",
+   "en": "...I see.",
    "term": "end"
   },
   {
    "id": "scen155.0171",
    "jp": "では、私は明日に備えて休むことにする。",
-   "en": "",
+   "en": "Then I will rest to prepare for tomorrow.",
    "term": "end"
   },
   {
    "id": "scen155.0172",
    "jp": "おつかれさまです。",
-   "en": "",
+   "en": "Thank you for your hard work, sir.",
    "term": "end"
   },
   {
    "id": "scen155.0173",
    "jp": "ごくろう。",
-   "en": "",
+   "en": "Good work.",
    "term": "end"
   },
   {
    "id": "scen155.0174",
    "jp": "僕は明日からの行軍に備えて{n}そろそろ寝るところです。{n}おやすみなさい。",
-   "en": "",
+   "en": "I'm about to go to bed to prepare for the march that{n}starts tomorrow. Good night.",
    "term": "end"
   },
   {
    "id": "scen155.0175",
    "jp": "あっ、さっきはすみません。",
-   "en": "",
+   "en": "Oh, I'm sorry about earlier.",
    "term": "end"
   },
   {
    "id": "scen155.0176",
    "jp": "あっ、{s:0000}さん。{n}今、作戦会議が終わったところなんですよ。",
-   "en": "",
+   "en": "Oh, {s:0000}. The strategy meeting just{n}ended.",
    "term": "end"
   },
   {
    "id": "scen155.0177",
    "jp": "作戦会議だなんて、エリオットも{n}偉くなったじゃない。",
-   "en": "",
+   "en": "Strategy meetings? You're a big shot too now, Elliot!",
    "term": "end"
   },
   {
    "id": "scen155.0178",
    "jp": "いえ、僕にはなにもわかりませんよ。{n}ただいるだけです。",
-   "en": "",
+   "en": "Oh, no. I don't understand any of it. I'm just there.",
    "term": "end"
   },
   {
    "id": "scen155.0179",
    "jp": "どうしますか？",
-   "en": "",
+   "en": "What will you do?",
    "term": "end"
   },
   {
    "id": "scen155.0180",
    "jp": "・参加しているだけでも立派だと言う",
-   "en": "",
+   "en": "・Say just taking part is admirable",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0181",
    "jp": "・仕方がないと言う",
-   "en": "",
+   "en": "・Say it can't be helped",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0182",
    "jp": "・今はまだそれでいいと言う",
-   "en": "",
+   "en": "・Say that's enough for now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen155.0183",
    "jp": "そう言っていただけるとうれしいです。",
-   "en": "",
+   "en": "I'm happy to hear you say that.",
    "term": "end"
   },
   {
    "id": "scen155.0184",
    "jp": "そうですね。{n}戦争を学んだことはありませんでしたから。",
-   "en": "",
+   "en": "That's true. I've never studied warfare before.",
    "term": "end"
   },
   {
    "id": "scen155.0185",
    "jp": "ええ。{n}ですが、これからいろいろ学んでいかなくては{n}いけないと思っています。",
-   "en": "",
+   "en": "Yes. But I think there's a great deal I'll have to learn{n}from now on.",
    "term": "end"
   },
   {
    "id": "scen155.0186",
    "jp": "少し、外でお話ししませんか？",
-   "en": "",
+   "en": "Would you like to talk outside for a while?",
    "term": "end"
   },
   {
    "id": "scen155.0187",
    "jp": "では、外に行きましょう。",
-   "en": "",
+   "en": "Then let's go outside.",
    "term": "end"
   },
   {
    "id": "scen155.0188",
    "jp": "‥‥そうですか。",
-   "en": "",
+   "en": "...I see.",
    "term": "end"
   },
   {
    "id": "scen155.0189",
    "jp": "では、僕は明日からの行軍に備えてそろそろ寝ますね。{n}おやすみなさい。",
-   "en": "",
+   "en": "Then I'll head to bed to prepare for the march that{n}starts tomorrow. Good night.",
    "term": "end"
   },
   {
    "id": "scen155.0190",
    "jp": "今日はバーンシュタイン軍が{n}宿舎として使っているから泊まれないよ。{n}また来てくれ。",
-   "en": "",
+   "en": "The Burnstein army's using this place as quarters{n}today, so you can't stay here. Come back another time.",
    "term": "end"
   },
   {
    "id": "scen155.0191",
    "jp": "こら、外へ出たら連絡が取れなくなるでしょ！",
-   "en": "",
+   "en": "Hey! If you go outside, they won't be able to reach you!",
    "term": "end"
   },
   {
    "id": "scen155.0192",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "",
+   "en": "Where do you think you're going, leaving everyone{n}behind?!",
    "term": "end"
   },
   {
    "id": "scen155.0193",
    "jp": "今日はここで一日過ごすんでしょ？",
-   "en": "",
+   "en": "We're spending the whole day here, remember?",
    "term": "end"
   }
  ]

@@ -15,187 +15,187 @@
   {
    "id": "scen197.0001",
    "jp": "{FFEE}王母とエリオットを守りながら敵を倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Defeat the enemy while protecting the Queen Mother{n}and Elliot!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen197.0002",
    "jp": "‥‥{v:0005}私は今まで戦ったことがありません。{n}このようなときにはどうすればよいのでしょう？",
-   "en": "",
+   "en": "...{v:0005}I have never fought before. What should I do in a{n}situation like this?",
    "term": "end"
   },
   {
    "id": "scen197.0003",
    "jp": "王母アンジェラに、どのように指示しますか？",
-   "en": "",
+   "en": "What orders will you give Queen Mother Angela?",
    "term": "end"
   },
   {
    "id": "scen197.0004",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0005",
    "jp": "・誰かの後についてくる",
-   "en": "",
+   "en": "・Follow someone",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0006",
    "jp": "・先に向こうまで行かせる",
-   "en": "",
+   "en": "・Go on ahead to the other side",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0007",
    "jp": "誰の後について行かせますか？",
-   "en": "",
+   "en": "Who should she follow?",
    "term": "end"
   },
   {
    "id": "scen197.0008",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0009",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0010",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0011",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0012",
    "jp": "・{s:FFF1}",
-   "en": "",
+   "en": "・{s:FFF1}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0013",
    "jp": "誰の後について行かせますか？",
-   "en": "",
+   "en": "Who should she follow?",
    "term": "end"
   },
   {
    "id": "scen197.0014",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0015",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0016",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0017",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen197.0018",
    "jp": "わかりました。",
-   "en": "",
+   "en": "Understood.",
    "term": "end"
   },
   {
    "id": "scen197.0019",
    "jp": "{v:0007}ふんっ。{n}本当に似ているな‥‥。{p}{v:0008}お前もついでに死ぬがいい！",
-   "en": "",
+   "en": "{v:0007}Hmph. You really do look alike...{p}{v:0008}You may as well die too!",
    "term": "end"
   },
   {
    "id": "scen197.0020",
    "jp": "{v:0009}くっ！",
-   "en": "",
+   "en": "{v:0009}Ugh!",
    "term": "end"
   },
   {
    "id": "scen197.0021",
    "jp": "{v:000C}う‥‥うぅ‥‥。{n}こんな‥ところで‥‥。",
-   "en": "",
+   "en": "{v:000C}U... ugh... Not... here...",
    "term": "end"
   },
   {
    "id": "scen197.0022",
    "jp": "{v:000D}あぁっ！{n}エリオットが‥‥。",
-   "en": "",
+   "en": "{v:000D}Ah! Elliot...",
    "term": "end"
   },
   {
    "id": "scen197.0023",
    "jp": "{v:000A}今、お前に動かれるとまずいのでな。{n}ここで死んでもらう。",
-   "en": "",
+   "en": "{v:000A}It would be inconvenient if you took action now. You{n}will die here.",
    "term": "end"
   },
   {
    "id": "scen197.0024",
    "jp": "{v:000B}‥‥‥。",
-   "en": "",
+   "en": "{v:000B}...",
    "term": "end"
   },
   {
    "id": "scen197.0025",
    "jp": "{v:000E}ああっ！",
-   "en": "",
+   "en": "{v:000E}Aah!",
    "term": "end"
   },
   {
    "id": "scen197.0026",
    "jp": "{v:000F}あぁっ！{n}アンジェラ様がっ！",
-   "en": "",
+   "en": "{v:000F}Ah! Angela-sama!",
    "term": "end"
   },
   {
    "id": "scen197.0027",
    "jp": "{v:0010}う‥ぐふ‥！",
-   "en": "",
+   "en": "{v:0010}U... urgh...!",
    "term": "end"
   },
   {
    "id": "scen197.0028",
    "jp": "{v:0006}気をつけてっ！{n}後ろからもモンスターが来たよ！",
-   "en": "",
+   "en": "{v:0006}Watch out! Monsters are coming from behind us too!",
    "term": "end"
   },
   {
    "id": "scen197.0029",
    "jp": "‥‥{v:0011}まさか‥人間にこれほどの力が‥‥。",
-   "en": "",
+   "en": "...{v:0011}Impossible... Humans possess such power...?",
    "term": "end"
   }
  ]

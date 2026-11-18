@@ -15,43 +15,43 @@
   {
    "id": "scen236.0001",
    "jp": "さあ、お前の力を私に見せてみろ！{FFFB}{n}そして、私が私だという証明をさせてくれ！",
-   "en": "",
+   "en": "Come, show me your strength!{FFFB} And let me prove who I{n}am!",
    "term": "end"
   },
   {
    "id": "scen236.0002",
    "jp": "{v:0056}いっけーーーっ！",
-   "en": "",
+   "en": "{v:0056}Gooo!",
    "term": "end"
   },
   {
    "id": "scen236.0003",
    "jp": "はあ！！",
-   "en": "",
+   "en": "Hah!!",
    "term": "end"
   },
   {
    "id": "scen236.0004",
    "jp": "さすがだ‥‥。{FFFB}{n}これならば、私は‥‥。",
-   "en": "",
+   "en": "You live up to your reputation...{FFFB} With this, I can...",
    "term": "end"
   },
   {
    "id": "scen236.0005",
    "jp": "どうした！{n}そんなことで私を変えられると思っているのか！？",
-   "en": "",
+   "en": "What is wrong?! Do you think you can change me like{n}that?!",
    "term": "end"
   },
   {
    "id": "scen236.0006",
    "jp": "！！",
-   "en": "",
+   "en": "!!",
    "term": "end"
   },
   {
    "id": "scen236.0007",
    "jp": "くっ！！",
-   "en": "",
+   "en": "Gh!!",
    "term": "end"
   }
  ]

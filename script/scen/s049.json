@@ -1160,7 +1160,7 @@
   {
    "id": "scen049.0190",
    "jp": "買い物をしますか？",
-   "en": "Would you like to buy something?",
+   "en": "Would you like to shop?",
    "term": "end"
   },
   {
@@ -1172,19 +1172,19 @@
   {
    "id": "scen049.0192",
    "jp": "なかなかいいスキマが見つからなくてね‥‥。{n}ここは仮店舗なんですよ。",
-   "en": "I just can't find a good nook... This is only a temporary{n}shop.",
+   "en": "I haven't been able to find a good nook... This is just a{n}temporary shop.",
    "term": "end"
   },
   {
    "id": "scen049.0193",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "{v:003F}Oh, welcome! We have every kind of equipment here.",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
    "id": "scen049.0194",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "{v:0041}So, are you here to buy or sell?",
+   "en": "{v:0041}So, are you here to buy or to sell?",
    "term": "end"
   },
   {
@@ -1230,13 +1230,13 @@
   {
    "id": "scen049.0201",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods here.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen049.0202",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Will you be making a purchase today, or selling{n}something?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -1276,7 +1276,7 @@
   {
    "id": "scen049.0208",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "{v:003E}Thank you very much! Please visit us again.",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
@@ -1438,13 +1438,13 @@
   {
    "id": "scen049.0235",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. One night costs {FFEB} Elm. Would you like to stay?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {
    "id": "scen049.0236",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you very much. Have a safe journey.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {

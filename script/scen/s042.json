@@ -209,7 +209,7 @@
   {
    "id": "scen042.0033",
    "jp": "他にも用はあるかのぉ？",
-   "en": "Anything else you need, then?",
+   "en": "Anything else you need, eh?",
    "term": "end"
   },
   {
@@ -235,7 +235,7 @@
   {
    "id": "scen042.0037",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "{v:003F}Oh, welcome! This shop has every kind of equipment you{n}could want.",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "scen042.0041",
    "jp": "で、他にも何かある？",
-   "en": "So, is there anything else?",
+   "en": "So, anything else?",
    "term": "end"
   },
   {
@@ -281,7 +281,7 @@
   {
    "id": "scen042.0044",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "{v:004B}Come again, won't you? I'll have a lovely smile waiting{n}for you.",
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
    "term": "end"
   },
   {
@@ -293,7 +293,7 @@
   {
    "id": "scen042.0046",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:000E}Would you like to make a purchase, or do you have{n}something to sell?",
+   "en": "{v:000E}Would you like to buy or sell?",
    "term": "end"
   },
   {
@@ -333,19 +333,19 @@
   {
    "id": "scen042.0052",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "{v:0018}Please visit us again.",
+   "en": "{v:0018}Please come again.",
    "term": "end"
   },
   {
    "id": "scen042.0053",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. You can purchase a wide variety of goods{n}here.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen042.0054",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Would you like to buy something today, or would you like{n}to sell?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -365,7 +365,7 @@
   {
    "id": "scen042.0057",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else you need?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -385,7 +385,7 @@
   {
    "id": "scen042.0060",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "{v:003E}Thank you very much! Please visit us again.",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen042.0171",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here. Then King '{FFEF}Granbus{FFF1}', famed as a{n}legendary martial artist, united this region and founded{p}a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year. Today, it is one of the continent's most{p}famous international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
+   "en": "{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here. Then King '{FFEF}Granbas{FFF1}', famed as a{n}legendary martial artist, united this region and founded{p}a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year. Today, it is one of the continent's most{p}famous international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
    "term": "end"
   },
   {
@@ -1124,7 +1124,7 @@
   {
    "id": "scen042.0181",
    "jp": "・公演を依頼する",
-   "en": "・Ask her to perform",
+   "en": "・Book a performance",
    "term": "end",
    "unref": true
   },
@@ -1179,7 +1179,7 @@
   {
    "id": "scen042.0190",
    "jp": "どうするの？",
-   "en": "What are you going to do?",
+   "en": "What will you do?",
    "term": "end"
   },
   {
@@ -1192,20 +1192,20 @@
   {
    "id": "scen042.0192",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add him for now",
+   "en": "・Don't add anyone for now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen042.0193",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "{v:0015}But that'll be too many of us. Someone has to leave{n}the party.",
+   "en": "{v:0015}But that would be too many people. Someone will have{n}to leave the party.",
    "term": "end"
   },
   {
    "id": "scen042.0194",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
@@ -1225,7 +1225,7 @@
   {
    "id": "scen042.0197",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "Will you take back {s:FFEE}'s equipment?",
+   "en": "Reclaim {s:FFEE}'s equipment?",
    "term": "end"
   },
   {

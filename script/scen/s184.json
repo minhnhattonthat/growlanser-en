@@ -15,157 +15,157 @@
   {
    "id": "scen184.0001",
    "jp": "村人",
-   "en": "",
+   "en": "Villager",
    "term": "null"
   },
   {
    "id": "scen184.0002",
    "jp": "ユング",
-   "en": "",
+   "en": "Jung",
    "term": "null"
   },
   {
    "id": "scen184.0003",
    "jp": "{FFEE}村人を助け出せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Rescue the villagers!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen184.0004",
    "jp": "‥‥{v:0063}う‥うぅ‥‥。",
-   "en": "",
+   "en": "...{v:0063}Ugh... uhhh...",
    "term": "end"
   },
   {
    "id": "scen184.0005",
    "jp": "{v:0064}人間のどこにここまでの力が‥‥。{n}だがここでの目的は既に果たした‥‥。{n}お前たちは‥‥手遅れ‥‥。",
-   "en": "",
+   "en": "{v:0064}How can humans possess such power...? But my purpose{n}here is already fulfilled... You are... too late...",
    "term": "end"
   },
   {
    "id": "scen184.0006",
    "jp": "{v:0065}これで最後‥‥？",
-   "en": "",
+   "en": "{v:0065}Was that the last one...?",
    "term": "end"
   },
   {
    "id": "scen184.0007",
    "jp": "‥‥{v:0066}そうみたい。",
-   "en": "",
+   "en": "...{v:0066}Looks like it.",
    "term": "end"
   },
   {
    "id": "scen184.0008",
    "jp": "{v:0067}どうやら、そうみたいだね。",
-   "en": "",
+   "en": "{v:0067}It certainly looks that way.",
    "term": "end"
   },
   {
    "id": "scen184.0009",
    "jp": "‥‥{v:0068}もう、いないみたいです。",
-   "en": "",
+   "en": "...{v:0068}There don't seem to be any more.",
    "term": "end"
   },
   {
    "id": "scen184.0010",
    "jp": "う、うわっ！{n}く、来るなっ！",
-   "en": "",
+   "en": "A-aah! S-stay back!",
    "term": "end"
   },
   {
    "id": "scen184.0011",
    "jp": "{v:005E}ぐわぁっ！",
-   "en": "",
+   "en": "{v:005E}Gwaaah!",
    "term": "end"
   },
   {
    "id": "scen184.0012",
    "jp": "た、助けてくれ～！",
-   "en": "",
+   "en": "S-someone help me!",
    "term": "end"
   },
   {
    "id": "scen184.0013",
    "jp": "{v:005F}ぎゃああっ！",
-   "en": "",
+   "en": "{v:005F}Aaaagh!",
    "term": "end"
   },
   {
    "id": "scen184.0014",
    "jp": "も、もう‥ダメ‥だ‥‥。",
-   "en": "",
+   "en": "I... can't... go on...",
    "term": "end"
   },
   {
    "id": "scen184.0015",
    "jp": "{v:0054}喰イコロス！",
-   "en": "",
+   "en": "{v:0054}DEVOUR YOU!",
    "term": "end"
   },
   {
    "id": "scen184.0016",
    "jp": "う、ぐはっ‥‥。",
-   "en": "",
+   "en": "Ugh... gah...",
    "term": "end"
   },
   {
    "id": "scen184.0017",
    "jp": "{v:0007}バカバカバカ！{n}なにやってんのよ！",
-   "en": "",
+   "en": "{v:0007}Idiot, idiot, idiot! What are you doing?!",
    "term": "end"
   },
   {
    "id": "scen184.0018",
    "jp": "{v:0060}ああっ！{n}１人食べられちゃった！{p}{v:0061}やばいよ！",
-   "en": "",
+   "en": "{v:0060}Ahh! They ate one of them!{p}{v:0061}This is bad!",
    "term": "end"
   },
   {
    "id": "scen184.0019",
    "jp": "{v:0055}人間風情がなかなかやるようだな。{p}{v:0056}ならばこれでどうだ！",
-   "en": "",
+   "en": "{v:0055}You fight rather well for mere humans.{p}{v:0056}Then how will you handle this?!",
    "term": "end"
   },
   {
    "id": "scen184.0020",
    "jp": "{v:0057}な、なんだ‥‥。",
-   "en": "",
+   "en": "{v:0057}W-what...?",
    "term": "end"
   },
   {
    "id": "scen184.0021",
    "jp": "{v:0058}まさか‥‥！",
-   "en": "",
+   "en": "{v:0058}You can't mean...!",
    "term": "end"
   },
   {
    "id": "scen184.0022",
    "jp": "{v:0059}さぁ、こいつらを食らうがよい！",
-   "en": "",
+   "en": "{v:0059}Now, feast on these humans!",
    "term": "end"
   },
   {
    "id": "scen184.0023",
    "jp": "{v:005A}ニンゲン、喰ウ！",
-   "en": "",
+   "en": "{v:005A}EAT HUMANS!",
    "term": "end"
   },
   {
    "id": "scen184.0024",
    "jp": "{v:005B}大変！あの人たち、食べられちゃう！",
-   "en": "",
+   "en": "{v:005B}Oh no! Those people are going to be eaten!",
    "term": "end"
   },
   {
    "id": "scen184.0025",
    "jp": "{v:005C}はっ！　彼らがあぶない！",
-   "en": "",
+   "en": "{v:005C}Ah! They're in danger!",
    "term": "end"
   },
   {
    "id": "scen184.0026",
    "jp": "{v:005D}ああ、そんな‥‥。",
-   "en": "",
+   "en": "{v:005D}Oh, no...",
    "term": "end"
   }
  ]

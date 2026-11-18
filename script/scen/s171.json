@@ -15,217 +15,217 @@
   {
    "id": "scen171.0001",
    "jp": "{FFEE}クリアノ草を採取しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Gather the Kuriano Herb!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen171.0002",
    "jp": "あぁ‥‥{n}クリアノ草を持っていたのに、{n}やられちゃうなんて‥‥。",
-   "en": "",
+   "en": "Oh... To be beaten when we already had the Kuriano{n}Herb...",
    "term": "end"
   },
   {
    "id": "scen171.0003",
    "jp": "なんだか倒しても倒しても{n}きりがないよ！",
-   "en": "",
+   "en": "No matter how many we beat, they just keep coming!",
    "term": "end"
   },
   {
    "id": "scen171.0004",
    "jp": "どういうことだ？{n}これじゃいくら倒しても、きりがねぇぞ！",
-   "en": "",
+   "en": "What's going on? There's no end to these things, no{n}matter how many we kill!",
    "term": "end"
   },
   {
    "id": "scen171.0005",
    "jp": "うん、アタシもそう思ってた。{n}だから、さっさと脱出しようよ！",
-   "en": "",
+   "en": "Yeah, I was thinking that too. So let's hurry up and get{n}out of here!",
    "term": "end"
   },
   {
    "id": "scen171.0006",
    "jp": "うん、アタシもそう思ってた。{n}さっさとあの草を取って、脱出しようよ。",
-   "en": "",
+   "en": "Yeah, I was thinking that too. Let's grab that herb and{n}get out of here.",
    "term": "end"
   },
   {
    "id": "scen171.0007",
    "jp": "モンスターがあんまり減ってない気がするよ？{n}これじゃ、きりがないよ！",
-   "en": "",
+   "en": "Doesn't it seem like there are still just as many{n}monsters? This'll never end!",
    "term": "end"
   },
   {
    "id": "scen171.0008",
    "jp": "{v:0016}もういないみたいだね。",
-   "en": "",
+   "en": "{v:0016}Looks like there aren't any more.",
    "term": "end"
   },
   {
    "id": "scen171.0009",
    "jp": "{v:002F}いつガスが吹き出すかわからんぞ。{n}無駄な戦いは避けて、出口へ急ごう！",
-   "en": "",
+   "en": "{v:002F}That gas could erupt at any moment. Avoid{n}unnecessary fights and hurry to the exit!",
    "term": "end"
   },
   {
    "id": "scen171.0010",
    "jp": "時間がない。{n}急いでクリアノ草を取って、脱出するぞ！",
-   "en": "",
+   "en": "We're out of time. Grab the Kuriano Herb and get out,{n}quick!",
    "term": "end"
   },
   {
    "id": "scen171.0011",
    "jp": "{v:002B}これだね？",
-   "en": "",
+   "en": "{v:002B}This is it, right?",
    "term": "end"
   },
   {
    "id": "scen171.0012",
    "jp": "{v:002C}よし、これだな。",
-   "en": "",
+   "en": "{v:002C}Right, this is it.",
    "term": "end"
   },
   {
    "id": "scen171.0013",
    "jp": "{v:002D}取った！",
-   "en": "",
+   "en": "{v:002D}Got it!",
    "term": "end"
   },
   {
    "id": "scen171.0014",
    "jp": "{v:002E}取ったよ！",
-   "en": "",
+   "en": "{v:002E}I've got it!",
    "term": "end"
   },
   {
    "id": "scen171.0015",
    "jp": "　{n}　　　　　『{FFEF}クリアノ草{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained the '{FFEF}Kuriano Herb{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen171.0016",
    "jp": "{FFEE}{s:FFED}を守って脱出しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect {s:FFED} and escape!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen171.0017",
    "jp": "クリアノ草を取らないと！",
-   "en": "",
+   "en": "We've got to get the Kuriano Herb!",
    "term": "end"
   },
   {
    "id": "scen171.0018",
    "jp": "あ～、もう、何なのよ一体！{n}あったま来るわねぇ～！",
-   "en": "",
+   "en": "Aaagh, what IS all this?! It's driving me crazy!",
    "term": "end"
   },
   {
    "id": "scen171.0019",
    "jp": "またモンスターが‥‥。",
-   "en": "",
+   "en": "More monsters...",
    "term": "end"
   },
   {
    "id": "scen171.0020",
    "jp": "くそっ！{n}まだモンスターがいたのか！",
-   "en": "",
+   "en": "Damn it! There were still more monsters?!",
    "term": "end"
   },
   {
    "id": "scen171.0021",
    "jp": "まだモンスターがいたんだ‥‥。",
-   "en": "",
+   "en": "So there were still more monsters...",
    "term": "end"
   },
   {
    "id": "scen171.0022",
    "jp": "{v:0029}こ、これ‥‥。",
-   "en": "",
+   "en": "{v:0029}Th-this is...",
    "term": "end"
   },
   {
    "id": "scen171.0023",
    "jp": "{v:002A}しまった、ガスだ！",
-   "en": "",
+   "en": "{v:002A}Damn, it's gas!",
    "term": "end"
   },
   {
    "id": "scen171.0024",
    "jp": "{FFF6}{v:0024}あまり時間をかけるな。{n}ガスが吹き出してくるまで時間がないぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0024}Do not linger. There is little time before the gas{n}erupts...",
    "term": "end"
   },
   {
    "id": "scen171.0025",
    "jp": "{v:0025}えっ？{n}ミー‥シャ？",
-   "en": "",
+   "en": "{v:0025}Huh? Mi...sha?",
    "term": "end"
   },
   {
    "id": "scen171.0026",
    "jp": "{v:0026}ん？{n}何？",
-   "en": "",
+   "en": "{v:0026}Hm? What?",
    "term": "end"
   },
   {
    "id": "scen171.0027",
    "jp": "‥‥‥{v:0027}何でもない‥‥。",
-   "en": "",
+   "en": "...{v:0027}Never mind...",
    "term": "end"
   },
   {
    "id": "scen171.0028",
    "jp": "{FFF6}{v:0028}急ぐのだ。{n}間もなくガスが吹き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0028}Make haste. The gas will erupt shortly...",
    "term": "end"
   },
   {
    "id": "scen171.0029",
    "jp": "{FFF6}{FFF3}‥‥‥。",
-   "en": "",
+   "en": "{FFF6}{FFF3}...",
    "term": "end"
   },
   {
    "id": "scen171.0030",
    "jp": "{v:0019}どうしたの、ミーシャ？",
-   "en": "",
+   "en": "{v:0019}What's wrong, Misha?",
    "term": "end"
   },
   {
    "id": "scen171.0031",
    "jp": "{FFF6}{v:001A}気をつけろ‥‥そろそろガスが吹き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:001A}Take care... The gas will erupt soon...",
    "term": "end"
   },
   {
    "id": "scen171.0032",
    "jp": "{v:001B}えっ！{n}それ、本当なの、ミーシャ？",
-   "en": "",
+   "en": "{v:001B}What?! Is that true, Misha?",
    "term": "end"
   },
   {
    "id": "scen171.0033",
    "jp": "‥‥{v:001C}ん？{n}なに？",
-   "en": "",
+   "en": "...{v:001C}Hm? What?",
    "term": "end"
   },
   {
    "id": "scen171.0034",
    "jp": "{v:001D}う～！{n}この娘、変だよぉ！",
-   "en": "",
+   "en": "{v:001D}Ugh! This girl's acting so weird!",
    "term": "end"
   },
   {
    "id": "scen171.0035",
    "jp": "{v:001E}えーっ？{n}なに、なに？",
-   "en": "",
+   "en": "{v:001E}Huuuh? What? What's going on?",
    "term": "end"
   },
   {
    "id": "scen171.0036",
    "jp": "‥‥{v:001F}もう、いい‥‥。",
-   "en": "",
+   "en": "...{v:001F}Oh, forget it...",
    "term": "end"
   }
  ]

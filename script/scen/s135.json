@@ -15,25 +15,25 @@
   {
    "id": "scen135.0001",
    "jp": "モンスターは逃げ出した！",
-   "en": "",
+   "en": "The monster fled!",
    "term": "end"
   },
   {
    "id": "scen135.0002",
    "jp": "　{n}　　　　　　　中は空っぽだった！",
-   "en": "",
+   "en": "It was empty inside!",
    "term": "end"
   },
   {
    "id": "scen135.0003",
    "jp": "宝箱を見つけた！",
-   "en": "",
+   "en": "Found a treasure chest!",
    "term": "end"
   },
   {
    "id": "scen135.0004",
    "jp": "　　　　　　　お宝、ゲットだぜ！",
-   "en": "",
+   "en": "Got the treasure!",
    "term": "end"
   }
  ]

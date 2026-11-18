@@ -15,418 +15,418 @@
   {
    "id": "scen226.0001",
    "jp": "{FFEE}ライエルとリシャールを説得しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Persuade Lyell and Richard!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen226.0002",
    "jp": "私がリシャール様を説得してみる。{n}リシャール様の側へ行けるように援護してくれ！",
-   "en": "",
+   "en": "I will try to persuade Richard-sama. Cover me so I can{n}reach his side!",
    "term": "end"
   },
   {
    "id": "scen226.0003",
    "jp": "援護って言っても、どうすれば‥‥。",
-   "en": "",
+   "en": "Cover you? How are we supposed to do that...?",
    "term": "end"
   },
   {
    "id": "scen226.0004",
    "jp": "リシャール様に適度に攻撃をし、{n}私が説得する隙をつくってくれ。{n}今のままでは私の言葉を聞いてはもらえまい。",
-   "en": "",
+   "en": "Attack Richard-sama, but hold back. Give me an opening{n}to reason with him. As things stand, he will not listen to{n}me.",
    "term": "end"
   },
   {
    "id": "scen226.0005",
    "jp": "友が攻撃を受けているのを、お前は見ていられるのか？",
-   "en": "",
+   "en": "Can you bear to watch your friend come under attack?",
    "term": "end"
   },
   {
    "id": "scen226.0006",
    "jp": "でも、親友が攻撃されて、アンタは平気なの？",
-   "en": "",
+   "en": "But will you really be okay with us attacking your best{n}friend?",
    "term": "end"
   },
   {
    "id": "scen226.0007",
    "jp": "正直に言えば、心苦しい‥‥。{n}だが、リシャール様を正気にするためだ。{n}心を鬼にして耐えよう。{p}‥‥フッ。{n}オスカーの気持ちが分かるな‥‥。{p}とにかく、頼むぞ！",
-   "en": "",
+   "en": "To be honest, it pains me... But it is the only way to{n}bring Richard-sama to his senses. I will steel myself{n}and endure it.{p}...Heh. Now I know how Oscar felt...{p}In any case, I am counting on you!",
    "term": "end"
   },
   {
    "id": "scen226.0008",
    "jp": "‥‥へ、陛下‥‥。",
-   "en": "",
+   "en": "...Y-Your Majesty...",
    "term": "end"
   },
   {
    "id": "scen226.0009",
    "jp": "あぁ‥‥、{n}リシャールを説得できる唯一の人が‥‥。",
-   "en": "",
+   "en": "Oh, no... The only person who could persuade Richard...",
    "term": "end"
   },
   {
    "id": "scen226.0010",
    "jp": "{v:0030}僕たちの話を聞いてくれ、ライエル！",
-   "en": "",
+   "en": "{v:0030}Hear us out, Lyell!",
    "term": "end"
   },
   {
    "id": "scen226.0011",
    "jp": "‥‥{v:0031}エリオット様‥‥。",
-   "en": "",
+   "en": "...{v:0031}Elliot-sama...",
    "term": "end"
   },
   {
    "id": "scen226.0012",
    "jp": "{v:0032}頼む、ライエル！{n}私たちの話を聞いてくれ！",
-   "en": "",
+   "en": "{v:0032}Please, Lyell! Hear us out!",
    "term": "end"
   },
   {
    "id": "scen226.0013",
    "jp": "{v:0033}ジュリアン‥‥。",
-   "en": "",
+   "en": "{v:0033}Julian...",
    "term": "end"
   },
   {
    "id": "scen226.0014",
    "jp": "{v:0034}ねぇ、話を聞いてよ！",
-   "en": "",
+   "en": "{v:0034}Hey, listen to us!",
    "term": "end"
   },
   {
    "id": "scen226.0015",
    "jp": "{v:0035}ヴェンツェルの支配で、人は幸せになれるのかな？{p}{v:0036}たとえ世界の崩壊が止められても、{n}それで幸せになれるのかな？",
-   "en": "",
+   "en": "{v:0035}Can people really be happy under Wenzel's rule?{p}{v:0036}Even if the world's destruction is stopped, can they be{n}happy that way?",
    "term": "end"
   },
   {
    "id": "scen226.0016",
    "jp": "{v:0037}お前は、リシャールと、リーヴスと３人で{n}未来を誓いあったのではないか？{n}誰もが幸せに暮らせる世界を作ろうと。{p}{v:0038}その誓いを忘れたのか？",
-   "en": "",
+   "en": "{v:0037}Did you, Richard and Reeves not swear to build a{n}future together? A world where everyone could live{n}happily?{p}{v:0038}Have you forgotten that oath?",
    "term": "end"
   },
   {
    "id": "scen226.0017",
    "jp": "{v:0039}あなた達は、誰もが幸せに暮らせる世界を作ろうと{n}誓い合ったそうではないですか。{p}{v:003A}その誓いはどこへ行ってしまったのですか？",
-   "en": "",
+   "en": "{v:0039}I understand you swore to one another that you would{n}build a world where everyone could live happily.{p}{v:003A}What has become of that oath?",
    "term": "end"
   },
   {
    "id": "scen226.0018",
    "jp": "{v:003B}お前たちは、人々が幸せに暮らせる世界を作ると{n}誓ったんだろうが？",
-   "en": "",
+   "en": "{v:003B}You swore you'd build a world where people could live{n}happily, didn't you?",
    "term": "end"
   },
   {
    "id": "scen226.0019",
    "jp": "{v:003C}そ‥それは‥‥。",
-   "en": "",
+   "en": "{v:003C}W-well...",
    "term": "end"
   },
   {
    "id": "scen226.0020",
    "jp": "ライエルに何か伝えますか？",
-   "en": "",
+   "en": "Do you want to say something to Lyell?",
    "term": "end"
   },
   {
    "id": "scen226.0021",
    "jp": "・ライエルの行為はリシャールのためにならない",
-   "en": "",
+   "en": "・Lyell's actions aren't helping Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen226.0022",
    "jp": "・本当の親友なら、時には鬼になるべきだ",
-   "en": "",
+   "en": "・A true friend must sometimes be cruel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen226.0023",
    "jp": "・ライエルは臆病者だ",
-   "en": "",
+   "en": "・Lyell is a coward",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen226.0024",
    "jp": "{v:003E}そ、それは‥‥。",
-   "en": "",
+   "en": "{v:003E}W-well...",
    "term": "end"
   },
   {
    "id": "scen226.0025",
    "jp": "{v:003F}その通りよ！{n}甘やかすだけが友達じゃないでしょ！",
-   "en": "",
+   "en": "{v:003F}That's right! Being a friend doesn't mean indulging him{n}all the time!",
    "term": "end"
   },
   {
    "id": "scen226.0026",
    "jp": "{v:0040}何だと！？{n}私が臆病者だと！",
-   "en": "",
+   "en": "{v:0040}What?! You call me a coward?!",
    "term": "end"
   },
   {
    "id": "scen226.0027",
    "jp": "{v:0041}だってそうじゃない！{p}{v:0042}本当に彼のことを思ってるんだったら、{n}悪いことは悪いって、言ってあげるべきでしょ！",
-   "en": "",
+   "en": "{v:0041}Well, you are!{p}{v:0042}If you really care about him, you should tell him when{n}he's wrong!",
    "term": "end"
   },
   {
    "id": "scen226.0028",
    "jp": "‥‥{v:0043}くっ‥‥。",
-   "en": "",
+   "en": "...{v:0043}Ghh...",
    "term": "end"
   },
   {
    "id": "scen226.0029",
    "jp": "{v:0044}お兄ちゃんが彼と協力すれば、{n}この世界の人たちが幸せに暮らせるようになるの。{p}{v:0045}お願い！{n}わたし達に協力して！",
-   "en": "",
+   "en": "{v:0044}If Big Brother and Richard work together, the people{n}of this world will be able to live happily.{p}{v:0045}Please! Help us!",
    "term": "end"
   },
   {
    "id": "scen226.0030",
    "jp": "‥‥{v:0046}本当にヴェンツェルの支配から{n}逃れる方法があるのだな？",
-   "en": "",
+   "en": "...{v:0046}There truly is a way to escape Wenzel's rule, then?",
    "term": "end"
   },
   {
    "id": "scen226.0031",
    "jp": "{v:0047}それが出来るかどうかは、リシャールの協力次第だ。",
-   "en": "",
+   "en": "{v:0047}Whether we can do it depends on Richard's cooperation.",
    "term": "end"
   },
   {
    "id": "scen226.0032",
    "jp": "‥‥{v:0048}わかった。{p}{v:0049}私からもリシャール様を説得してみよう！",
-   "en": "",
+   "en": "...{v:0048}Very well.{p}{v:0049}I, too, will try to persuade Richard-sama!",
    "term": "end"
   },
   {
    "id": "scen226.0033",
    "jp": "{v:004A}ライエル‥‥。",
-   "en": "",
+   "en": "{v:004A}Lyell...",
    "term": "end"
   },
   {
    "id": "scen226.0034",
    "jp": "{v:004B}わかってくれたか！",
-   "en": "",
+   "en": "{v:004B}You understand at last!",
    "term": "end"
   },
   {
    "id": "scen226.0035",
    "jp": "{v:004C}ありがとう、ライエルさん！",
-   "en": "",
+   "en": "{v:004C}Thank you, Lyell-san!",
    "term": "end"
   },
   {
    "id": "scen226.0036",
    "jp": "{v:004D}裏切ったか、ライエル‥‥！{p}{v:0051}裏切り者には、死あるのみ！",
-   "en": "",
+   "en": "{v:004D}You have betrayed me, Lyell...!{p}{v:0051}Traitors deserve only death!",
    "term": "end"
   },
   {
    "id": "scen226.0037",
    "jp": "{v:004E}リシャール様！{n}どうか、この者たちの言葉を聞いてください！",
-   "en": "",
+   "en": "{v:004E}Richard-sama! Please, listen to what these people have{n}to say!",
    "term": "end"
   },
   {
    "id": "scen226.0038",
    "jp": "{v:004F}何だ、命乞いでもしたいか！",
-   "en": "",
+   "en": "{v:004F}What? Do you mean to beg for your life?!",
    "term": "end"
   },
   {
    "id": "scen226.0039",
    "jp": "{v:0050}私は、リシャール様に、{n}本当の御自分を取り戻していただきたいだけです。",
-   "en": "",
+   "en": "{v:0050}I only wish for you to regain your true self,{n}Richard-sama.",
    "term": "end"
   },
   {
    "id": "scen226.0040",
    "jp": "{v:0073}本当の自分だと？{n}下らぬ！{p}{v:0074}お前は私の命が残り少ないことを知っていよう？{n}私はヴェンツェル様の元でしか生きられんのだ。",
-   "en": "",
+   "en": "{v:0073}My true self? Nonsense!{p}{v:0074}You know I have little time left to live, do you not? I{n}can survive only by Wenzel-sama's side.",
    "term": "end"
   },
   {
    "id": "scen226.0041",
    "jp": "{v:0075}バカ言ってんじゃないわよ！{p}{v:0076}さっきから聞いてりゃ、自分だけが不幸みたいにさ！{n}アンタだけが死を待つ身じゃないのよ！{p}{v:0077}アタシだってそうなんだから！",
-   "en": "",
+   "en": "{v:0075}Oh, quit talking nonsense!{p}{v:0076}I've been listening to you go on like you're the only one{n}who's suffering! You're not the only one waiting to die!{p}{v:0077}So am I!",
    "term": "end"
   },
   {
    "id": "scen226.0042",
    "jp": "{v:0078}えっ！？",
-   "en": "",
+   "en": "{v:0078}What?!",
    "term": "end"
   },
   {
    "id": "scen226.0043",
    "jp": "{v:0079}ホムンクルスの寿命はね、{n}身体の大きさに比例するんだ‥‥。{p}{v:007A}ミーシャみたいに大きければ、{n}人並みの寿命をもてるだろうけど、{n}アタシの大きさだったら、せいぜい２年だって‥‥。",
-   "en": "",
+   "en": "{v:0079}A homunculus's lifespan is proportional to its body{n}size, you know...{p}{v:007A}Someone as big as Misha could probably live as long as{n}a human, but at my size, they say I've got two years{n}at most...",
    "term": "end"
   },
   {
    "id": "scen226.0044",
    "jp": "{v:007B}そんな‥‥。",
-   "en": "",
+   "en": "{v:007B}No...",
    "term": "end"
   },
   {
    "id": "scen226.0045",
    "jp": "{v:007C}だけどね！{FFF9}{FFFB}{n}{v:007D}この世に生きるものには絶対に終わりがあるのよ！{n}それがちょっと短いかどうかの差じゃない！{p}{v:007E}それより、生きている間に何が出来たか？{n}どれだけ有意義に生きられたか？{n}それが大切なんじゃないの！？",
-   "en": "",
+   "en": "{v:007C}But listen!{FFF9}{FFFB}{v:007D}Everything alive in this world has to die{n}someday! So what if some lives are a little shorter?!{p}{v:007E}What did you accomplish while you were alive? How much{n}meaning did your life have? Isn't that what matters?!",
    "term": "end"
   },
   {
    "id": "scen226.0046",
    "jp": "{v:007F}黙れ‥黙れ！{n}黙れ！",
-   "en": "",
+   "en": "{v:007F}Silence... Silence! Silence!",
    "term": "end"
   },
   {
    "id": "scen226.0047",
    "jp": "‥‥{v:0052}く‥うぅ‥‥。",
-   "en": "",
+   "en": "...{v:0052}Guh... Ugh...",
    "term": "end"
   },
   {
    "id": "scen226.0048",
    "jp": "{v:0053}リシャール様！{n}もう一度、思い出して下さい！{n}あの、優しい心を！",
-   "en": "",
+   "en": "{v:0053}Richard-sama! Please, remember! Remember your kind{n}heart!",
    "term": "end"
   },
   {
    "id": "scen226.0049",
    "jp": "‥{v:0054}優しい‥心‥！？",
-   "en": "",
+   "en": "...{v:0054}My kind... heart...?!",
    "term": "end"
   },
   {
    "id": "scen226.0050",
    "jp": "{v:0055}そうです！{n}あなたと私、そしてオスカーの３人で語った夢を！{n}あの誓いを！",
-   "en": "",
+   "en": "{v:0055}Yes! Remember the dream you, Oscar, and I spoke of!{n}The vow we made!",
    "term": "end"
   },
   {
    "id": "scen226.0051",
    "jp": "‥‥{v:0056}誓い‥‥？",
-   "en": "",
+   "en": "...{v:0056}Our vow...?",
    "term": "end"
   },
   {
    "id": "scen226.0052",
    "jp": "{v:0057}人々が幸せに暮らせる世界を作る。{n}それが我々の誓いでした。",
-   "en": "",
+   "en": "{v:0057}To create a world where people could live in happiness.{n}That was our vow.",
    "term": "end"
   },
   {
    "id": "scen226.0053",
    "jp": "{v:0058}そうだ‥３人で誓ったのだ‥‥。{p}{v:0059}夕陽に染まる街並みを見下ろしながら、{n}この平和がいつまでも続けばいいと‥‥。{p}{FC02}‥‥{v:005A}うぅ‥‥うるさい！{n}私はヴェンツェル様の忠実なしもべ‥‥。{p}{FC03}‥‥{v:005B}だが覚えている‥３人で‥‥。",
-   "en": "",
+   "en": "{v:0058}Yes... The three of us made that vow...{p}{v:0059}Looking down over the town bathed in the setting{n}sun, we wished this peace would last forever...{p}{FC02}...{v:005A}Ugh... Silence! I am Wenzel-sama's faithful servant...{p}{FC03}...{v:005B}But I remember... The three of us...",
    "term": "end"
   },
   {
    "id": "scen226.0054",
    "jp": "{v:005C}リシャール様！",
-   "en": "",
+   "en": "{v:005C}Richard-sama!",
    "term": "end"
   },
   {
    "id": "scen226.0055",
    "jp": "‥‥{v:005D}助けてくれ、アーネスト‥‥。{n}声が‥声が私に命じる‥‥。{p}{v:005E}私を‥‥止めてくれ！",
-   "en": "",
+   "en": "...{v:005D}Help me, Ernest... The voice... The voice is commanding{n}me...{p}{v:005E}Please... stop me!",
    "term": "end"
   },
   {
    "id": "scen226.0056",
    "jp": "{v:005F}ヴェンツェルの洗脳より、{n}真実の記憶のほうが強いみたいね。",
-   "en": "",
+   "en": "{v:005F}It seems his true memories are stronger than{n}Wenzel's brainwashing.",
    "term": "end"
   },
   {
    "id": "scen226.0057",
    "jp": "{v:0060}そうだよ！{n}友情は強いんだから！",
-   "en": "",
+   "en": "{v:0060}That's right! Friendship is strong!",
    "term": "end"
   },
   {
    "id": "scen226.0058",
    "jp": "{v:0061}さすがは親友というところか。",
-   "en": "",
+   "en": "{v:0061}Just what one would expect of a true friend.",
    "term": "end"
   },
   {
    "id": "scen226.0059",
    "jp": "{v:0062}友情って、強いんですね。",
-   "en": "",
+   "en": "{v:0062}Friendship really is powerful, isn't it?",
    "term": "end"
   },
   {
    "id": "scen226.0060",
    "jp": "{v:0063}さすがは友情の力ですね。",
-   "en": "",
+   "en": "{v:0063}That is the power of friendship for you.",
    "term": "end"
   },
   {
    "id": "scen226.0061",
    "jp": "{v:0064}情とは強いものだな。",
-   "en": "",
+   "en": "{v:0064}The bonds between people are strong indeed.",
    "term": "end"
   },
   {
    "id": "scen226.0062",
    "jp": "{v:0065}そうだな。",
-   "en": "",
+   "en": "{v:0065}They are.",
    "term": "end"
   },
   {
    "id": "scen226.0063",
    "jp": "‥{v:0066}私は‥‥私は‥‥‥",
-   "en": "",
+   "en": "...{v:0066}I... I...",
    "term": "end"
   },
   {
    "id": "scen226.0064",
    "jp": "{v:0067}リシャール様、しっかりなさってください！",
-   "en": "",
+   "en": "{v:0067}Richard-sama, please, stay strong!",
    "term": "end"
   },
   {
    "id": "scen226.0065",
    "jp": "‥‥{v:0068}わ‥私は‥‥人々の笑顔を‥‥",
-   "en": "",
+   "en": "...{v:0068}I... I... the smiles on people's faces...",
    "term": "end"
   },
   {
    "id": "scen226.0066",
    "jp": "‥‥こ、こんなところで‥‥。",
-   "en": "",
+   "en": "...N-not here...",
    "term": "end"
   },
   {
    "id": "scen226.0067",
    "jp": "あぁっ！{n}リシャールに協力してもらわなくちゃいけないのに！",
-   "en": "",
+   "en": "Ah! But we need Richard's help!",
    "term": "end"
   },
   {
    "id": "scen226.0068",
    "jp": "この裏切り者め！",
-   "en": "",
+   "en": "You traitor!",
    "term": "end"
   },
   {
    "id": "scen226.0069",
    "jp": "リシャール様‥‥。",
-   "en": "",
+   "en": "Richard-sama...",
    "term": "end"
   }
  ]

@@ -15,331 +15,331 @@
   {
    "id": "scen212.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen212.0002",
    "jp": "{v:0001}愚か者め。{n}我々に勝てると思っているのか？",
-   "en": "",
+   "en": "{v:0001}Fools. Do you think you can defeat us?",
    "term": "end"
   },
   {
    "id": "scen212.0003",
    "jp": "{v:0003}さすがにゲヴェルの作った兵士だ。{n}警備兵では、歯が立たぬか‥‥。",
-   "en": "",
+   "en": "{v:0003}Just as I would expect of soldiers created by Gevel. Our{n}guards are no match for them...",
    "term": "end"
   },
   {
    "id": "scen212.0004",
    "jp": "{v:0004}我々が戦うしかなかろう。",
-   "en": "",
+   "en": "{v:0004}We have no choice but to fight them ourselves.",
    "term": "end"
   },
   {
    "id": "scen212.0005",
    "jp": "{v:0005}ああ。",
-   "en": "",
+   "en": "{v:0005}Indeed.",
    "term": "end"
   },
   {
    "id": "scen212.0006",
    "jp": "{v:0006}しかし、御二方は昨日から一度も休みなく‥‥。",
-   "en": "",
+   "en": "{v:0006}But neither of you has rested even once since{n}yesterday...",
    "term": "end"
   },
   {
    "id": "scen212.0007",
    "jp": "{v:0007}我々が引けば、{n}あっという間にここを突破されるであろうが。",
-   "en": "",
+   "en": "{v:0007}If we withdraw, they will break through here in an{n}instant.",
    "term": "end"
   },
   {
    "id": "scen212.0008",
    "jp": "{v:0008}自分たちがふがいないばかりに‥‥。{n}申し訳ありません。",
-   "en": "",
+   "en": "{v:0008}This is all because we are so ineffectual... Forgive us.",
    "term": "end"
   },
   {
    "id": "scen212.0009",
    "jp": "{v:0009}相手が相手だ。{n}仕方ないさ。{p}{v:000A}とはいえ、正直疲れてきたな。{n}奴らには疲れはないのか？",
-   "en": "",
+   "en": "{v:0009}Given our opponents, you can hardly be blamed.{p}{v:000A}Still, I must admit I am growing tired. Do they never{n}tire?",
    "term": "end"
   },
   {
    "id": "scen212.0010",
    "jp": "{v:000B}さあな。{n}ゲヴェルの能力を受け継いでいるとなれば、{n}我々人間をはるかに越えた回復力を持つのかも知れぬ。",
-   "en": "",
+   "en": "{v:000B}Who knows? If they have inherited Gevel's abilities,{n}their powers of recovery may far surpass those of us{n}humans.",
    "term": "end"
   },
   {
    "id": "scen212.0011",
    "jp": "{v:000C}泣き言を言いたくはないが、こちらが不利だな。",
-   "en": "",
+   "en": "{v:000C}I do not wish to complain, but we are at a{n}disadvantage.",
    "term": "end"
   },
   {
    "id": "scen212.0012",
    "jp": "‥‥{v:000D}フッ。{n}何があってもお前だけは守ってやる。",
-   "en": "",
+   "en": "...{v:000D}Heh. Whatever happens, I shall at least keep you safe.",
    "term": "end"
   },
   {
    "id": "scen212.0013",
    "jp": "{v:000E}美しい友情というところか。{n}だがいつまで他人を気にする余裕があるかな？",
-   "en": "",
+   "en": "{v:000E}Such beautiful friendship. But how long can you afford{n}to concern yourself with another?",
    "term": "end"
   },
   {
    "id": "scen212.0014",
    "jp": "{v:000F}試してみるか？",
-   "en": "",
+   "en": "{v:000F}Care to find out?",
    "term": "end"
   },
   {
    "id": "scen212.0015",
    "jp": "‥‥{v:0010}よかろう。",
-   "en": "",
+   "en": "...{v:0010}Very well.",
    "term": "end"
   },
   {
    "id": "scen212.0016",
    "jp": "{v:0011}ライエル！{n}リーヴス！{n}無事か！？",
-   "en": "",
+   "en": "{v:0011}Lyell! Reeves! Are you all right?!",
    "term": "end"
   },
   {
    "id": "scen212.0017",
    "jp": "{v:0012}ジュリアンか？",
-   "en": "",
+   "en": "{v:0012}Julian?",
    "term": "end"
   },
   {
    "id": "scen212.0018",
    "jp": "{v:0013}２人とも無事ですか！？",
-   "en": "",
+   "en": "{v:0013}Are you both all right?!",
    "term": "end"
   },
   {
    "id": "scen212.0019",
    "jp": "{v:0014}陛下！？",
-   "en": "",
+   "en": "{v:0014}Your Majesty?!",
    "term": "end"
   },
   {
    "id": "scen212.0020",
    "jp": "{v:0017}助けに来たよ！",
-   "en": "",
+   "en": "{v:0017}We're here to help!",
    "term": "end"
   },
   {
    "id": "scen212.0021",
    "jp": "{v:0016}君たちは！？",
-   "en": "",
+   "en": "{v:0016}You?!",
    "term": "end"
   },
   {
    "id": "scen212.0022",
    "jp": "{v:0018}しかし、奴らの力は‥‥。",
-   "en": "",
+   "en": "{v:0018}But their strength...",
    "term": "end"
   },
   {
    "id": "scen212.0023",
    "jp": "{v:0019}心配しないで下さい。{n}絶対に負けませんから！",
-   "en": "",
+   "en": "{v:0019}Please don't worry. We won't lose!",
    "term": "end"
   },
   {
    "id": "scen212.0024",
    "jp": "‥‥{v:001A}あの娘は！？",
-   "en": "",
+   "en": "...{v:001A}That girl?!",
    "term": "end"
   },
   {
    "id": "scen212.0025",
    "jp": "{FFEE}バーンシュタイン軍の全滅前に敵を倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Defeat the enemy before the Burnstein forces are{n}wiped out!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen212.0026",
    "jp": "な、なんだ‥‥。{n}体の力が抜けていく‥‥。",
-   "en": "",
+   "en": "W-What...? The strength is draining from my body...",
    "term": "end"
   },
   {
    "id": "scen212.0027",
    "jp": "くっ！？{n}ここは退くしかないか‥‥。{n}{s:0000}、任せたぞ‥‥。",
-   "en": "",
+   "en": "Ugh?! I have no choice but to retreat...{n}{s:0000}, I leave this to you...",
    "term": "end"
   },
   {
    "id": "scen212.0028",
    "jp": "確かに手応えがない‥‥。{n}あの娘のグローシアンの力が影響しているのか？",
-   "en": "",
+   "en": "They certainly offer little resistance... Is that girl's{n}Growsian power affecting them?",
    "term": "end"
   },
   {
    "id": "scen212.0029",
    "jp": "‥‥本当だ。{n}確かに手応えがない‥‥。{n}あの娘のグローシアンの力が影響しているのか？",
-   "en": "",
+   "en": "...You are right. They certainly offer little resistance... Is{n}that girl's Growsian power affecting them?",
    "term": "end"
   },
   {
    "id": "scen212.0030",
    "jp": "ん？{n}どういうことだ？",
-   "en": "",
+   "en": "Hm? What do you mean?",
    "term": "end"
   },
   {
    "id": "scen212.0031",
    "jp": "どうしたんだい？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen212.0032",
    "jp": "さっきまでの手応えがない。{n}これなら、たやすく倒せる。",
-   "en": "",
+   "en": "They offer less resistance than before. We can defeat{n}them easily now.",
    "term": "end"
   },
   {
    "id": "scen212.0033",
    "jp": "‥‥なるほど。{n}僕も試してみよう。",
-   "en": "",
+   "en": "...I see. Let me try as well.",
    "term": "end"
   },
   {
    "id": "scen212.0034",
    "jp": "おや？{n}これは‥‥。",
-   "en": "",
+   "en": "Oh? This is...",
    "term": "end"
   },
   {
    "id": "scen212.0035",
    "jp": "どうした？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen212.0036",
    "jp": "さっきまでの手応えが無いんだ。{n}これなら‥‥。{n}これなら簡単に勝てそうだ。",
-   "en": "",
+   "en": "They offer less resistance than before. At this rate...{n}At this rate, we should win easily.",
    "term": "end"
   },
   {
    "id": "scen212.0037",
    "jp": "弱くなったというのか？{n}私も試してみよう‥‥。",
-   "en": "",
+   "en": "You mean they have weakened? Let me try as well...",
    "term": "end"
   },
   {
    "id": "scen212.0038",
    "jp": "ま、まだやれるぞ‥‥。",
-   "en": "",
+   "en": "I-I can still fight...",
    "term": "end"
   },
   {
    "id": "scen212.0039",
    "jp": "それ以上は無理だ。{n}すぐに下がれ！",
-   "en": "",
+   "en": "You cannot take any more. Fall back at once!",
    "term": "end"
   },
   {
    "id": "scen212.0040",
    "jp": "すまない、みんな‥‥。",
-   "en": "",
+   "en": "Forgive me, everyone...",
    "term": "end"
   },
   {
    "id": "scen212.0041",
    "jp": "こいつら、化け物だ‥‥。",
-   "en": "",
+   "en": "These things are monsters...",
    "term": "end"
   },
   {
    "id": "scen212.0042",
    "jp": "強すぎる‥‥。",
-   "en": "",
+   "en": "They're too strong...",
    "term": "end"
   },
   {
    "id": "scen212.0043",
    "jp": "そんな‥‥。{n}誰も守れなかったなんて‥‥。",
-   "en": "",
+   "en": "No... I couldn't protect anyone...",
    "term": "end"
   },
   {
    "id": "scen212.0044",
    "jp": "{v:0024}もうあいつらはいないみたいね。",
-   "en": "",
+   "en": "{v:0024}Looks like that's the last of them.",
    "term": "end"
   },
   {
    "id": "scen212.0045",
    "jp": "{v:0025}すごいな‥‥。{n}僕たちが２日戦っても勝てなかった相手を、{n}こんな短時間で‥‥。",
-   "en": "",
+   "en": "{v:0025}Incredible... We could not defeat them in two days of{n}fighting, yet you did it so quickly...",
    "term": "end"
   },
   {
    "id": "scen212.0046",
    "jp": "{v:0026}これがグローシアンの能力なのか。",
-   "en": "",
+   "en": "{v:0026}So this is the power of a Growsian.",
    "term": "end"
   },
   {
    "id": "scen212.0047",
    "jp": "‥‥{v:001B}うぅ‥これは‥‥。",
-   "en": "",
+   "en": "...{v:001B}Ugh... What is this...?",
    "term": "end"
   },
   {
    "id": "scen212.0048",
    "jp": "{v:001C}あなた達を操る闇の波動を断ち切ってあげる。",
-   "en": "",
+   "en": "{v:001C}I'll cut off the waves of darkness controlling you.",
    "term": "end"
   },
   {
    "id": "scen212.0049",
    "jp": "{v:001D}く、来るな！{n}うぅ‥‥。",
-   "en": "",
+   "en": "{v:001D}S-Stay away! Ugh...",
    "term": "end"
   },
   {
    "id": "scen212.0050",
    "jp": "{v:001E}何だか変な感じね？",
-   "en": "",
+   "en": "{v:001E}This feels kind of strange, doesn't it?",
    "term": "end"
   },
   {
    "id": "scen212.0051",
    "jp": "{v:001F}これが本当のグローシアンの能力。{n}闇の波動から人々を守るの‥‥。",
-   "en": "",
+   "en": "{v:001F}This is the true power of a Growsian. It protects{n}people from the waves of darkness...",
    "term": "end"
   },
   {
    "id": "scen212.0052",
    "jp": "{v:0020}すごい‥‥。{n}ルイセちゃん、すごいよ！",
-   "en": "",
+   "en": "{v:0020}Amazing... Luise-chan, you're amazing!",
    "term": "end"
   },
   {
    "id": "scen212.0053",
    "jp": "{v:0021}真のグローシュ？{n}彼女は真のグローシュを手に入れたのか？",
-   "en": "",
+   "en": "{v:0021}True Grosh? Has she obtained true Grosh?",
    "term": "end"
   },
   {
    "id": "scen212.0054",
    "jp": "{v:0022}本当の‥‥って、真のグローシュってやつ？",
-   "en": "",
+   "en": "{v:0022}True power...? You mean that true Grosh thing?",
    "term": "end"
   },
   {
    "id": "scen212.0055",
    "jp": "‥‥{v:0023}なんだ、あの娘の力は！？{n}あの娘から、離れて戦わねば‥‥。",
-   "en": "",
+   "en": "...{v:0023}What is this girl's power?! I must keep my distance{n}from her as I fight...",
    "term": "end"
   }
  ]

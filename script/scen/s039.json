@@ -357,7 +357,7 @@
   {
    "id": "scen039.0058",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "{v:0015}But that would be too many of us. Someone will have to{n}leave the party.",
+   "en": "{v:0015}But that would be too many people. Someone will have{n}to leave the party.",
    "term": "end"
   },
   {
@@ -439,7 +439,7 @@
   {
    "id": "scen039.0071",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "Take back {s:FFED}'s equipment?",
+   "en": "Retrieve {s:FFED}'s equipment?",
    "term": "end"
   },
   {

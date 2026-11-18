@@ -15,43 +15,43 @@
   {
    "id": "scen182.0001",
    "jp": "盗賊",
-   "en": "",
+   "en": "Bandit",
    "term": "null"
   },
   {
    "id": "scen182.0002",
    "jp": "いきなり何すんのよ！{n}もう～、アッタマ来た！{n}こんな奴ら、やっつけちゃってよね！",
-   "en": "",
+   "en": "Hey! What's the big idea, attacking us out of{n}nowhere?! Now I'm REALLY mad! Beat these jerks up!",
    "term": "end"
   },
   {
    "id": "scen182.0003",
    "jp": "こんなにあっさり‥‥",
-   "en": "",
+   "en": "Beaten so easily...",
    "term": "end"
   },
   {
    "id": "scen182.0004",
    "jp": "ま、まぐれだ！{n}まぐれに決まっている‥‥",
-   "en": "",
+   "en": "A-a fluke! It's gotta be a fluke...",
    "term": "end"
   },
   {
    "id": "scen182.0005",
    "jp": "これじゃ、親分に怒られちまう‥‥。",
-   "en": "",
+   "en": "The boss is gonna be mad at us...",
    "term": "end"
   },
   {
    "id": "scen182.0006",
    "jp": "うげっ！",
-   "en": "",
+   "en": "Gah!",
    "term": "end"
   },
   {
    "id": "scen182.0007",
    "jp": "死んじゃうのか？　俺？",
-   "en": "",
+   "en": "Am I... gonna die?",
    "term": "end"
   }
  ]

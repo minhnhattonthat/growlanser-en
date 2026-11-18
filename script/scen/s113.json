@@ -15,993 +15,993 @@
   {
    "id": "scen113.0001",
    "jp": "さすらいの拳法家",
-   "en": "",
+   "en": "Wandering Martial Artist",
    "term": "null"
   },
   {
    "id": "scen113.0002",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "scen113.0003",
    "jp": "ＬＬＭ魔法教室講師",
-   "en": "",
+   "en": "LLM Magic Class Instructor",
    "term": "null"
   },
   {
    "id": "scen113.0004",
    "jp": "張り紙",
-   "en": "",
+   "en": "Notice",
    "term": "null"
   },
   {
    "id": "scen113.0005",
    "jp": "看板",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen113.0006",
    "jp": "メモ",
-   "en": "",
+   "en": "Note",
    "term": "null"
   },
   {
    "id": "scen113.0007",
    "jp": "子供",
-   "en": "",
+   "en": "Child",
    "term": "null"
   },
   {
    "id": "scen113.0008",
    "jp": "門番",
-   "en": "",
+   "en": "Gatekeeper",
    "term": "null"
   },
   {
    "id": "scen113.0009",
    "jp": "送魔線技師",
-   "en": "",
+   "en": "Mana Line Engineer",
    "term": "null"
   },
   {
    "id": "scen113.0010",
    "jp": "ローランディア兵隊長",
-   "en": "",
+   "en": "Rolandia Captain",
    "term": "null"
   },
   {
    "id": "scen113.0011",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen113.0012",
    "jp": "川を渡ってくる風が心地よい。{n}この風のように、大陸中をめぐってみたいものだ。{n}そしてあの子を‥‥。",
-   "en": "",
+   "en": "The breeze across the river feels pleasant. I would like{n}to roam the continent as this wind does. And then,{n}that child...",
    "term": "end"
   },
   {
    "id": "scen113.0013",
    "jp": "これから筆記試験があるんだ。{n}だから話しかけないでよ。{n}覚えた事を忘れちゃうだろ？",
-   "en": "",
+   "en": "I've got a written exam coming up. Don't talk to me.{n}You'll make me forget everything I memorized!",
    "term": "end"
   },
   {
    "id": "scen113.0014",
    "jp": "え～っと‥‥。{n}大気中に漂う光は、グローシュと呼ばれる{n}魔力エネルギーで‥‥。{p}くぅ～！{n}こんな調子じゃ、今回のテストもダメだぁ～！",
-   "en": "",
+   "en": "Let's see... The light drifting through the air is magical{n}energy called Grosh, and...{p}Aaargh! At this rate, I'll fail this test too!",
    "term": "end"
   },
   {
    "id": "scen113.0015",
    "jp": "魔法学院に入れるように、一生懸命勉強してるの。{n}実技は苦手だけど、筆記なら自信あるわよ。",
-   "en": "",
+   "en": "I'm studying hard so I can get into the Magic Academy.{n}I'm not good at practical work, but I'm confident about{n}the written exam.",
    "term": "end"
   },
   {
    "id": "scen113.0016",
    "jp": "私、そこにある魔法教室で先生をやっているの。{p}今はこのおじいさんにプライベートレッスンを{n}してたのよ。",
-   "en": "",
+   "en": "I teach at the magic school over there.{p}I was just giving this elderly gentleman a private{n}lesson.",
    "term": "end"
   },
   {
    "id": "scen113.0017",
    "jp": "せっかくだから、今から知識を試してみない？",
-   "en": "",
+   "en": "Since you're here, why don't we test your knowledge?",
    "term": "end"
   },
   {
    "id": "scen113.0018",
    "jp": "まず簡単な質問からいくわね。{n}私たちのいる王都の名前は知ってる？",
-   "en": "",
+   "en": "Let's start with an easy question. Do you know the{n}name of this royal capital?",
    "term": "end"
   },
   {
    "id": "scen113.0019",
    "jp": "・ローレシア",
-   "en": "",
+   "en": "・Loresia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0020",
    "jp": "・ローランディア",
-   "en": "",
+   "en": "・Rolandia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0021",
    "jp": "・ローザリア",
-   "en": "",
+   "en": "・Rosaria",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0022",
    "jp": "違うわ。{n}王都の名前はローザリアで、{n}国の名前がローランディアよ。",
-   "en": "",
+   "en": "No. The royal capital is Rosaria. Rolandia is the name of{n}the kingdom.",
    "term": "end"
   },
   {
    "id": "scen113.0023",
    "jp": "そう。{n}王都の名前はローザリアで、{n}国の名前がローランディアよ。",
-   "en": "",
+   "en": "That's right. The royal capital is Rosaria. Rolandia is the{n}name of the kingdom.",
    "term": "end"
   },
   {
    "id": "scen113.0024",
    "jp": "次の質問よ。{n}あなたのお母さん、サンドラ様のお仕事は何？",
-   "en": "",
+   "en": "Next question. What does your mother, Sandra-sama,{n}do for a living?",
    "term": "end"
   },
   {
    "id": "scen113.0025",
    "jp": "・占い師",
-   "en": "",
+   "en": "・Fortune Teller",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0026",
    "jp": "・錬金術師",
-   "en": "",
+   "en": "・Alchemist",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0027",
    "jp": "・宮廷魔術師",
-   "en": "",
+   "en": "・Court Magician",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0028",
    "jp": "自分の母親の仕事ぐらい、覚えなさい！{n}宮廷魔術師でしょ。",
-   "en": "",
+   "en": "You should at least remember your own mother's{n}occupation! She's the Court Magician.",
    "term": "end"
   },
   {
    "id": "scen113.0029",
    "jp": "それでは、人と話したり、足下を調べる方法は？",
-   "en": "",
+   "en": "Now, how do you talk to people or examine what's at{n}your feet?",
    "term": "end"
   },
   {
    "id": "scen113.0030",
    "jp": "・○ボタンを押す",
-   "en": "",
+   "en": "・Press the Circle button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0031",
    "jp": "・△ボタンを押す",
-   "en": "",
+   "en": "・Press the Triangle button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0032",
    "jp": "・□ボタンを押す",
-   "en": "",
+   "en": "・Press the Square button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0033",
    "jp": "・✕ボタンを押す",
-   "en": "",
+   "en": "・Press the X button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0034",
    "jp": "冗談はやめなさい。{n}どうやって私に話しかけたの？",
-   "en": "",
+   "en": "Stop joking around. How did you start talking to me?",
    "term": "end"
   },
   {
    "id": "scen113.0035",
    "jp": "コマンドヘルプ機能は、どうすれば表示される？",
-   "en": "",
+   "en": "How do you display the command help?",
    "term": "end"
   },
   {
    "id": "scen113.0036",
    "jp": "・○ボタンを押す",
-   "en": "",
+   "en": "・Press the Circle button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0037",
    "jp": "・△ボタンを押す",
-   "en": "",
+   "en": "・Press the Triangle button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0038",
    "jp": "・□ボタンを押す",
-   "en": "",
+   "en": "・Press the Square button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0039",
    "jp": "・✕ボタンを押す",
-   "en": "",
+   "en": "・Press the X button",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0040",
    "jp": "違うわ。{n}□ボタンを押すのよ。",
-   "en": "",
+   "en": "No. You press the Square button.",
    "term": "end"
   },
   {
    "id": "scen113.0041",
    "jp": "早く移動する方法は、どうするの？",
-   "en": "",
+   "en": "How do you move faster?",
    "term": "end"
   },
   {
    "id": "scen113.0042",
    "jp": "・方向キーを押しながら、○ボタン",
-   "en": "",
+   "en": "・Hold a direction and press Circle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0043",
    "jp": "・方向キーを押しながら、△ボタン",
-   "en": "",
+   "en": "・Hold a direction and press Triangle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0044",
    "jp": "・方向キーを押しながら、□ボタン",
-   "en": "",
+   "en": "・Hold a direction and press Square",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0045",
    "jp": "・方向キーを押しながら、✕ボタン",
-   "en": "",
+   "en": "・Hold a direction and press X",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0046",
    "jp": "違うわ。{n}✕ボタンを押しながら、移動すればいいのよ。",
-   "en": "",
+   "en": "No. Just hold the X button while you move.",
    "term": "end"
   },
   {
    "id": "scen113.0047",
    "jp": "それじゃ、少し難しい問題に移るわね。{n}ふわふわと大気中を漂っている光の玉は何？",
-   "en": "",
+   "en": "Now let's try something a little harder. What are the{n}balls of light floating in the air?",
    "term": "end"
   },
   {
    "id": "scen113.0048",
    "jp": "・光の結晶",
-   "en": "",
+   "en": "・Crystals of light",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0049",
    "jp": "・グローシアン",
-   "en": "",
+   "en": "・Growsians",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0050",
    "jp": "・グローシュ",
-   "en": "",
+   "en": "・Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0051",
    "jp": "・グローサー",
-   "en": "",
+   "en": "・Growser",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0052",
    "jp": "違うわ。{n}光の玉は『{FFEF}グローシュ{FFF1}』と呼ばれているの。",
-   "en": "",
+   "en": "No. Those balls of light are called '{FFEF}Grosh{FFF1}'.",
    "term": "end"
   },
   {
    "id": "scen113.0053",
    "jp": "グローシュとは、どういうものだかわかる？",
-   "en": "",
+   "en": "Do you know what Grosh is?",
    "term": "end"
   },
   {
    "id": "scen113.0054",
    "jp": "・魔力エネルギー",
-   "en": "",
+   "en": "・Magical energy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0055",
    "jp": "・光の精霊",
-   "en": "",
+   "en": "・Spirits of light",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0056",
    "jp": "・ひとだま",
-   "en": "",
+   "en": "・Ghost lights",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0057",
    "jp": "違うわ。{n}これは大気中に流れ出た魔力エネルギーなのよ。",
-   "en": "",
+   "en": "No. It's magical energy that has flowed out into the{n}atmosphere.",
    "term": "end"
   },
   {
    "id": "scen113.0058",
    "jp": "送魔線と呼ばれているものがあるけど、{n}それは何のための装置だかわかる？",
-   "en": "",
+   "en": "There's something called a mana line. Do you know what{n}that device is for?",
    "term": "end"
   },
   {
    "id": "scen113.0059",
    "jp": "・グローシュの量を調べる装置",
-   "en": "",
+   "en": "・A device for measuring Grosh levels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0060",
    "jp": "・グローシュを集める装置",
-   "en": "",
+   "en": "・A device for collecting Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0061",
    "jp": "・グローシュを放出する装置",
-   "en": "",
+   "en": "・A device for releasing Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0062",
    "jp": "・グローシュを破壊する装置",
-   "en": "",
+   "en": "・A device for destroying Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0063",
    "jp": "違うわ。{n}送魔線はグローシュを集める装置よ。",
-   "en": "",
+   "en": "No. A mana line is a device for collecting Grosh.",
    "term": "end"
   },
   {
    "id": "scen113.0064",
    "jp": "これでクイズはおしまい。",
-   "en": "",
+   "en": "That's the end of the quiz.",
    "term": "end"
   },
   {
    "id": "scen113.0065",
    "jp": "あなたの知識はすごいわ。{n}これだけ答えられる人は、久しぶりよ。",
-   "en": "",
+   "en": "You certainly know a lot! It's been a while since anyone{n}answered so many questions correctly.",
    "term": "end"
   },
   {
    "id": "scen113.0066",
    "jp": "あなたの知識は平均以上ね。{n}もう少し知識を増やせば完璧よ。",
-   "en": "",
+   "en": "Your knowledge is above average. Learn just a little{n}more and you'll be perfect!",
    "term": "end"
   },
   {
    "id": "scen113.0067",
    "jp": "あなたの結果だけど‥‥。{n}もう少し知識を増やした方がいいと思うわ。",
-   "en": "",
+   "en": "As for your results... I think you should learn a little{n}more.",
    "term": "end"
   },
   {
    "id": "scen113.0068",
    "jp": "‥‥ふむふむ。{n}会話したり調べたりは○ボタン。{n}速く移動する時は✕ボタンを一緒に押す‥‥。{p}あともう１つ教えてもらったような‥‥。",
-   "en": "",
+   "en": "...Hmm, I see. Circle to talk or examine things. Hold X as{n}well to move faster...{p}Seems to me there was one more thing...",
    "term": "end"
   },
   {
    "id": "scen113.0069",
    "jp": "操作でわからなくなったら、□ボタンで説明が出る。{n}‥ですよ。",
-   "en": "",
+   "en": "If you're unsure about the controls, press Square for{n}an explanation. ...Remember?",
    "term": "end"
   },
   {
    "id": "scen113.0070",
    "jp": "おう！{n}そうじゃった、そうじゃった‥‥。",
-   "en": "",
+   "en": "Oh! That's right, that's right...",
    "term": "end"
   },
   {
    "id": "scen113.0071",
    "jp": "　第２４回闘技大会開催の案内{n}　　～詳しくはグランシル市にて～",
-   "en": "",
+   "en": "Announcing the 24th tournament!{n}Visit Grancil for details.",
    "term": "end"
   },
   {
    "id": "scen113.0072",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "",
+   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
    "term": "end"
   },
   {
    "id": "scen113.0073",
    "jp": "メモが１枚、落ちている。",
-   "en": "",
+   "en": "A note is lying on the ground.",
    "term": "end"
   },
   {
    "id": "scen113.0074",
    "jp": "　この街のマンホールの数、気に入ったぜ。{n}　なぜかって俺のラッキーナンバーだからな。",
-   "en": "",
+   "en": "I like how many manholes this town's got. Why? 'Cause{n}that's my lucky number.",
    "term": "end"
   },
   {
    "id": "scen113.0075",
    "jp": "　同じ日に産まれたガキどもの数、気に入ったぜ。{n}　なぜかって俺のラッキーナンバーだからな。",
-   "en": "",
+   "en": "I like how many brats were born on the same day.{n}Why? 'Cause that's my lucky number.",
    "term": "end"
   },
   {
    "id": "scen113.0076",
    "jp": "マンホールの上に、何か書いてあった形跡がある‥‥。",
-   "en": "",
+   "en": "There are traces of writing on the manhole cover...",
    "term": "end"
   },
   {
    "id": "scen113.0077",
    "jp": "これから俺様が作ったヒントを頼りに、{n}宝物を探してみな！{p}あちこちにヒントがあるが、{n}あまりヒントをもらわずに宝をゲットすれば、{n}高ポイントだ！{p}もっとも何が高ポイントかって聞かれても困るけどよ。{n}まぁ、自分への挑戦だとでも思ってくれ。",
-   "en": "",
+   "en": "Try finding the treasure using the clues yours truly{n}came up with!{p}There are clues all over the place, but the fewer you{n}need to find the treasure, the higher your score!{p}Don't ask me what the score's supposed to mean,{n}though. Just think of it as a personal challenge.",
    "term": "end"
   },
   {
    "id": "scen113.0078",
    "jp": "マンホールの上に文字が書いてある。{n}読みますか？",
-   "en": "",
+   "en": "There's writing on the manhole cover. Read it?",
    "term": "end"
   },
   {
    "id": "scen113.0079",
    "jp": "宝箱にはカギをしている。{n}俺のラッキーナンバーがわかれば、{n}カギが開く仕組みだ。",
-   "en": "",
+   "en": "The treasure chest is locked. Figure out my lucky{n}number, and you can open the lock.",
    "term": "end"
   },
   {
    "id": "scen113.0080",
    "jp": "俺の大切なメモ。{n}踊り場に落としちまった。",
-   "en": "",
+   "en": "I dropped my precious memo on the stair landing.",
    "term": "end"
   },
   {
    "id": "scen113.0081",
    "jp": "きゅうくつな場所を抜けないと、{n}宝の隠し場所へは行けないぜ。",
-   "en": "",
+   "en": "You'll have to squeeze through a tight spot to reach{n}the treasure's hiding place.",
    "term": "end"
   },
   {
    "id": "scen113.0082",
    "jp": "宝は、空き地の片隅に埋めた。",
-   "en": "",
+   "en": "I buried the treasure in a corner of the vacant lot.",
    "term": "end"
   },
   {
    "id": "scen113.0083",
    "jp": "普通に歩くだけじゃ、隠し場所には行けないぜ。",
-   "en": "",
+   "en": "You can't reach the hiding place just by walking{n}normally.",
    "term": "end"
   },
   {
    "id": "scen113.0084",
    "jp": "宝が見つからねぇ時は、川辺で遊んでみな。",
-   "en": "",
+   "en": "If you can't find the treasure, try playing by the{n}river.",
    "term": "end"
   },
   {
    "id": "scen113.0085",
    "jp": "衛兵のヤツら、ホネ抜きにしてやるぜ！",
-   "en": "",
+   "en": "I'll take all the fight out of those guards!",
    "term": "end"
   },
   {
    "id": "scen113.0086",
    "jp": "衛兵が集まる所に、ヒントがある。",
-   "en": "",
+   "en": "There's a clue where the guards gather.",
    "term": "end"
   },
   {
    "id": "scen113.0087",
    "jp": "張り紙、見たか？{n}あれ以上のヒントはないぞ？",
-   "en": "",
+   "en": "Did you see the notice? You won't find a better clue{n}than that!",
    "term": "end"
   },
   {
    "id": "scen113.0088",
    "jp": "読み終わると、文字が消えていった‥‥。",
-   "en": "",
+   "en": "As you finished reading, the writing faded away...",
    "term": "end"
   },
   {
    "id": "scen113.0089",
    "jp": "正解よ。",
-   "en": "",
+   "en": "That's right.",
    "term": "end"
   },
   {
    "id": "scen113.0090",
    "jp": "１人目、発見！",
-   "en": "",
+   "en": "Found the first one!",
    "term": "end"
   },
   {
    "id": "scen113.0091",
    "jp": "くっそう！{n}僕が最初に見つかったんだ。{n}悔しいなぁ‥‥。",
-   "en": "",
+   "en": "Aww, darn it! I was the first one you found. No fair...",
    "term": "end"
   },
   {
    "id": "scen113.0092",
    "jp": "仕方ないや。{n}先に戻って、みんなが捕まるのを待ってよ‥‥。",
-   "en": "",
+   "en": "Oh, well. I'll head back and wait for everyone else to get{n}caught...",
    "term": "end"
   },
   {
    "id": "scen113.0093",
    "jp": "やったね！これで２人目！",
-   "en": "",
+   "en": "All right! That's two!",
    "term": "end"
   },
   {
    "id": "scen113.0094",
    "jp": "ちぇっ。{n}見つかっちゃったよ‥‥。{n}んじゃ、僕も戻っておくね。",
-   "en": "",
+   "en": "Aw, man. You found me... Guess I'll head back, too.",
    "term": "end"
   },
   {
    "id": "scen113.0095",
    "jp": "３人目だ！あと１人だね！",
-   "en": "",
+   "en": "That's three! Just one more to go!",
    "term": "end"
   },
   {
    "id": "scen113.0096",
    "jp": "ここも見つかったかぁ‥‥。",
-   "en": "",
+   "en": "Aww, you found this spot, too...",
    "term": "end"
   },
   {
    "id": "scen113.0097",
    "jp": "はい？{FFFB}{n}つまり、真っ直ぐ行って、右でしょ？",
-   "en": "",
+   "en": "Pardon?{FFFB} So I go straight ahead, then right?",
    "term": "end"
   },
   {
    "id": "scen113.0098",
    "jp": "だ～{FE1E}か～{FE1E}ら～{FE14}っ！{FFFB}{n}右に行ったら、川に出ちゃうでしょ！{p}左に行くの！{n}{FE1E}ひ{FE1E}だ{FE1E}り！",
-   "en": "",
+   "en": "For{FE1E} the{FE1E} last{FE14} time!{FFFB} If you go right, you'll end up at the{n}river!{p}You go left!{FE1E} To{FE1E} the{FE1E} left!",
    "term": "end"
   },
   {
    "id": "scen113.0099",
    "jp": "むずかしいのぉ‥‥。",
-   "en": "",
+   "en": "It's all rather confusing, eh...?",
    "term": "end"
   },
   {
    "id": "scen113.0100",
    "jp": "この送魔線、なかなかいい仕事をしておるのう。{n}グローシュを集めるパワーが優れておる‥‥。{p}見事なもんじゃが、わしに比べるとまだまだじゃな。",
-   "en": "",
+   "en": "This mana line does its job quite well, eh? It has quite a{n}knack for gathering Grosh...{p}A fine piece of work, but it still has a long way to go{n}before it can match me.",
    "term": "end"
   },
   {
    "id": "scen113.0101",
    "jp": "もうちょっと間近に見たいなぁ‥‥。",
-   "en": "",
+   "en": "I'd like to get a little closer for a better look...",
    "term": "end"
   },
   {
    "id": "scen113.0102",
    "jp": "ここは王都ローザリア警備兵詰め所だよ。{n}悪い人たちを見かけたら、おじさんに教えてくれ。",
-   "en": "",
+   "en": "This is the guard post for the royal capital, Rosaria. If{n}you see any bad people, come tell me, all right?",
    "term": "end"
   },
   {
    "id": "scen113.0103",
    "jp": "見回りは疲れるなぁ。{n}こうして、たまに仲間と話すのが唯一の楽しみさ。",
-   "en": "",
+   "en": "Patrols really wear you out. Chatting with the other{n}guards like this now and then is my only pleasure.",
    "term": "end"
   },
   {
    "id": "scen113.0104",
    "jp": "サボっているわけじゃないぞ。{n}交代の時間だから、申し送りをしているんだ。{p}何か異常がなかったかとかね。{n}大切なことなんだぞ！",
-   "en": "",
+   "en": "We're not slacking off. It's time to change shifts, so{n}we're passing things along.{p}Whether anything unusual happened, that sort of thing.{n}It's important!",
    "term": "end"
   },
   {
    "id": "scen113.0105",
    "jp": "これから交代の時間なんだ。{n}ようやくゆっくり休めるよ‥‥。{p}と言っても、そこにある詰め所で寝るんだけどね。",
-   "en": "",
+   "en": "It's almost time for the next shift. I can finally get{n}some proper rest...{p}Though I'll just be sleeping in that guard station over{n}there.",
    "term": "end"
   },
   {
    "id": "scen113.0106",
    "jp": "おぉ、お若いの‥‥。{n}１０エルムほど恵んでもらえんじゃろうか‥‥。",
-   "en": "",
+   "en": "Oh, young man... Could you spare an old man 10 Elm...?",
    "term": "end"
   },
   {
    "id": "scen113.0107",
    "jp": "アンタねぇ。{n}それ以上、お金あげちゃったら{n}旅の準備できないでしょ？",
-   "en": "",
+   "en": "Hey, you! If you give away any more money, how are{n}you going to get ready for your trip?",
    "term": "end"
   },
   {
    "id": "scen113.0108",
    "jp": "それでもあげるって言うなら、止めないけど？",
-   "en": "",
+   "en": "Still, if you insist on giving it to him, I won't stop you.",
    "term": "end"
   },
   {
    "id": "scen113.0109",
    "jp": "・お金を手渡す",
-   "en": "",
+   "en": "・Hand over the money",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0110",
    "jp": "・あきらめる",
-   "en": "",
+   "en": "・Give up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0111",
    "jp": "すまんのぉ‥‥。{n}わしのために、そんな無理をしておったのか‥‥。",
-   "en": "",
+   "en": "Forgive me, my boy... I had no idea you were putting{n}yourself out so much for my sake...",
    "term": "end"
   },
   {
    "id": "scen113.0112",
    "jp": "そうじゃ！{p}お礼と言うには、あまりにもつまらない物じゃが‥‥。{n}何もないよりましじゃろう。",
-   "en": "",
+   "en": "Ah, I know!{p}It's hardly much of a thank-you gift... But it's better{n}than nothing, eh?",
    "term": "end"
   },
   {
    "id": "scen113.0113",
    "jp": "この『青銅の剣』と交換というのはどうじゃろう？",
-   "en": "",
+   "en": "How about taking this 'Bronze Sword' in exchange, eh?",
    "term": "end"
   },
   {
    "id": "scen113.0114",
    "jp": "・交換する",
-   "en": "",
+   "en": "・Make the exchange",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0115",
    "jp": "・もっと良い物を要求する",
-   "en": "",
+   "en": "・Ask for something better",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0116",
    "jp": "　{n}　　　　　『{FFEF}青銅の剣{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Obtained a '{FFEF}Bronze Sword{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen113.0117",
    "jp": "すまんのう‥‥。{n}もうこれ以上の物はないんじゃ‥‥。",
-   "en": "",
+   "en": "I'm sorry, my boy... I haven't anything better than{n}this...",
    "term": "end"
   },
   {
    "id": "scen113.0118",
    "jp": "１０エルムを手渡した！",
-   "en": "",
+   "en": "Handed over 10 Elm!",
    "term": "end"
   },
   {
    "id": "scen113.0119",
    "jp": "ありがたや、ありがたや‥‥。",
-   "en": "",
+   "en": "Bless you, bless you...",
    "term": "end"
   },
   {
    "id": "scen113.0120",
    "jp": "お金が足りないようだ。",
-   "en": "",
+   "en": "It seems you don't have enough money.",
    "term": "end"
   },
   {
    "id": "scen113.0121",
    "jp": "そうか‥‥。{n}無理を言ってすまんかった‥‥。",
-   "en": "",
+   "en": "I see... Forgive an old man for asking too much...",
    "term": "end"
   },
   {
    "id": "scen113.0122",
    "jp": "う～ん、りりしい横顔がたまらないなぁ‥‥。",
-   "en": "",
+   "en": "Mmm, I can't get enough of that noble profile...",
    "term": "end"
   },
   {
    "id": "scen113.0123",
    "jp": "強い女性ってカッコイイと思わないか？{n}なんかゾクゾクしてきちゃったよ。",
-   "en": "",
+   "en": "Don't you think strong women are amazing? Just{n}thinking about it gives me shivers.",
    "term": "end"
   },
   {
    "id": "scen113.0124",
    "jp": "うるさいぞ！{n}まだ何か言いたいのか！",
-   "en": "",
+   "en": "Shut up! You still got something to say?!",
    "term": "end"
   },
   {
    "id": "scen113.0125",
    "jp": "どう対応しますか？",
-   "en": "",
+   "en": "How will you respond?",
    "term": "end"
   },
   {
    "id": "scen113.0126",
    "jp": "・そんな調子だからふられると言う",
-   "en": "",
+   "en": "・Say that attitude gets him rejected",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0127",
    "jp": "・一発なぐって目を覚まさせる",
-   "en": "",
+   "en": "・Punch some sense into him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0128",
    "jp": "・しばらく様子を見る",
-   "en": "",
+   "en": "・Watch for a while",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0129",
    "jp": "‥な、なんだとっ！{n}こいつ、人をバカにしやがって！！",
-   "en": "",
+   "en": "...Wh-what?! You making fun of me, you bastard?!",
    "term": "end"
   },
   {
    "id": "scen113.0130",
    "jp": "もう我慢できねぇ！{n}こいつ、ブッ飛ばしてやる！",
-   "en": "",
+   "en": "I've had it! I'm gonna knock this guy flat!",
    "term": "end"
   },
   {
    "id": "scen113.0131",
    "jp": "ちょっと！{n}そんなに熱くなってどうするのよ！{n}もっと落ち着いてよ！",
-   "en": "",
+   "en": "Hey! What's getting all worked up going to solve?! Calm{n}down!",
    "term": "end"
   },
   {
    "id": "scen113.0132",
    "jp": "ちょっと！{n}何あつくなってるのよ！{p}今そんなことしたって、逆効果でしょ？{n}もっと落ち着きなさいよ！",
-   "en": "",
+   "en": "Hey! What are you getting so worked up for?!{p}Doing that now would only make things worse! Just calm{n}down!",
    "term": "end"
   },
   {
    "id": "scen113.0133",
    "jp": "いや、俺の方が悪いんだ。{n}つい、カッとなってしまって‥‥。",
-   "en": "",
+   "en": "No, it was my fault. I just lost my temper...",
    "term": "end"
   },
   {
    "id": "scen113.0134",
    "jp": "す、すまない。{n}つい、カッとなってしまって‥‥。",
-   "en": "",
+   "en": "S-sorry. I just lost my temper...",
    "term": "end"
   },
   {
    "id": "scen113.0135",
    "jp": "いろいろグチを言ってすまなかったね。{p}でも、‥‥もういいんだ。{n}どうせ俺たちの人生なんて、こんなものだからさ。",
-   "en": "",
+   "en": "Sorry for going on and on about our troubles.{p}But... it's all right now. That's just how our lives go,{n}anyway.",
    "term": "end"
   },
   {
    "id": "scen113.0136",
    "jp": "悪かったな、つっかかったりしてよ。{p}だけど、もう俺たちの事は放っておいてくれ。{n}なぐさめられると、惨めになるだけだ。",
-   "en": "",
+   "en": "Sorry I snapped at you.{p}But just leave us alone now. Being comforted only{n}makes us feel more pathetic.",
    "term": "end"
   },
   {
    "id": "scen113.0137",
    "jp": "くそっ‥‥。{n}ふられちまったよ‥‥。",
-   "en": "",
+   "en": "Damn it... She turned me down...",
    "term": "end"
   },
   {
    "id": "scen113.0138",
    "jp": "こんな事なら告白しなきゃ良かった。",
-   "en": "",
+   "en": "If I'd known this would happen, I never would've told{n}her how I felt.",
    "term": "end"
   },
   {
    "id": "scen113.0139",
    "jp": "なんと声をかけますか？",
-   "en": "",
+   "en": "What will you say?",
    "term": "end"
   },
   {
    "id": "scen113.0140",
    "jp": "・新しい出会いを探せ",
-   "en": "",
+   "en": "・Look for someone new",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0141",
    "jp": "・１度ふられたぐらいで諦めるな",
-   "en": "",
+   "en": "・Don't give up after one rejection",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen113.0142",
    "jp": "そうか！{n}お前のせいだ！{n}お前が告白するようにけしかけたからだ！{p}おかげで俺たちは、こんな惨めな思いをする{n}はめになった！{n}この責任、どうとってくれる！",
-   "en": "",
+   "en": "That's it! It's your fault! You're the one who egged us{n}on to tell them how we felt!{p}Now look how miserable we are! How are you going to{n}make this up to us?!",
    "term": "end"
   },
   {
    "id": "scen113.0143",
    "jp": "そうだ！{p}お前は偉そうにしているが、{n}恋愛したことがあるのか？",
-   "en": "",
+   "en": "Yeah!{p}You act like you know everything, but have you ever{n}even been in love?",
    "term": "end"
   },
   {
    "id": "scen113.0144",
    "jp": "恋愛したことがありますか？",
-   "en": "",
+   "en": "Have you ever been in love?",
    "term": "end"
   },
   {
    "id": "scen113.0145",
    "jp": "ふん！{n}お前の言うことなんか、信用できないね！",
-   "en": "",
+   "en": "Hmph! I don't believe a word you say!",
    "term": "end"
   },
   {
    "id": "scen113.0146",
    "jp": "何だと！{n}偉そうに忠告していながら、{n}恋愛したことがねぇって言うのかよ！{p}ふざけやがって！",
-   "en": "",
+   "en": "What?! You hand out all that high-and-mighty advice,{n}and you've never even been in love?!{p}You gotta be kidding me!",
    "term": "end"
   },
   {
    "id": "scen113.0147",
    "jp": "お前の考え、よめてきたぜ！{n}人ごとだと思って、俺たちがふられる様子を{n}楽しんでいたんだ！",
-   "en": "",
+   "en": "I've got you figured out! It wasn't your problem, so you{n}just enjoyed watching us get rejected!",
    "term": "end"
   },
   {
    "id": "scen113.0148",
    "jp": "親切面して、ひでぇことしやがる！{p}お前の顔なんて、もう見たくもねぇ！{n}さっさと、どこかに失せろ！",
-   "en": "",
+   "en": "Acting all helpful while pulling a rotten stunt like that!{p}I never wanna see your face again! Get lost!",
    "term": "end"
   },
   {
    "id": "scen113.0149",
    "jp": "はぁ‥‥。{n}もう恋をするのは、コリゴリだよ‥‥。",
-   "en": "",
+   "en": "*sigh*... I've had enough of falling in love...",
    "term": "end"
   },
   {
    "id": "scen113.0150",
    "jp": "そうだな。{n}‥{FE1E}‥{FE1E}‥{FE1E}いっそ旅にでもでるか？",
-   "en": "",
+   "en": "Yeah. ...{FE1E}...{FE1E}...{FE1E} Why don't we just go on a journey?",
    "term": "end"
   },
   {
    "id": "scen113.0151",
    "jp": "いいね、それ。",
-   "en": "",
+   "en": "I like that idea.",
    "term": "end"
   },
   {
    "id": "scen113.0152",
    "jp": "そこの門を通れば、自由で広大な世界が{n}待っている‥‥。",
-   "en": "",
+   "en": "Through that gate, a vast world of freedom awaits...",
    "term": "end"
   },
   {
    "id": "scen113.0153",
    "jp": "新たな恋に生きるってのも、悪くなさそうだな。",
-   "en": "",
+   "en": "Living for a new love doesn't sound so bad.",
    "term": "end"
   },
   {
    "id": "scen113.0154",
    "jp": "そうだよ！{n}『恋のない人生なんて、無意味だ』って{n}偉い先生も言ってるしね。",
-   "en": "",
+   "en": "Exactly! As one great scholar said, 'Life without love is{n}meaningless.'",
    "term": "end"
   },
   {
    "id": "scen113.0155",
    "jp": "あぁ‥‥。{n}生きてるってすばらしい！",
-   "en": "",
+   "en": "Ah... It's wonderful to be alive!",
    "term": "end"
   },
   {
    "id": "scen113.0156",
    "jp": "　{n}『快適なプレイのために、一度はコンフィグを！{n}　　　　　　　　タイトル画面から選べます。』",
-   "en": "",
+   "en": "'For a more comfortable playing experience, try Config{n}at least once! You can select it from the title screen.'",
    "term": "end"
   },
   {
    "id": "scen113.0157",
    "jp": "　{n}　　　　　　　{FFF0}げねすほいどほう{FFF1}",
-   "en": "",
+   "en": "{FFF0}SFIEGWHETR{FFF1}",
    "term": "end"
   },
   {
    "id": "scen113.0158",
    "jp": "お、おい！{n}そこの女兵士、めちゃくちゃカッコ良くないか？",
-   "en": "",
+   "en": "H-hey! Isn't that woman soldier over there incredibly{n}cool?",
    "term": "end"
   },
   {
    "id": "scen113.0159",
    "jp": "う～ん‥‥。{n}お前が邪魔でよく見えないが‥‥。{p}なんか良さそうな雰囲気だな。",
-   "en": "",
+   "en": "Hmm... You're in the way, so I can't see her very well...{p}But she seems pretty nice.",
    "term": "end"
   }
  ]

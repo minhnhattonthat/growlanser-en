@@ -15,49 +15,49 @@
   {
    "id": "scen242.0001",
    "jp": "皆さんはどうしていらっしゃるんでしょうね？",
-   "en": "",
+   "en": "I wonder how everyone is spending their time.",
    "term": "end"
   },
   {
    "id": "scen242.0002",
    "jp": "あ、{s:0000}さん。{n}楽しんでいらっしゃいますか？",
-   "en": "",
+   "en": "Oh, {s:0000}. Are you enjoying yourself?",
    "term": "end"
   },
   {
    "id": "scen242.0003",
    "jp": "のんびりできるっていいですね。",
-   "en": "",
+   "en": "It's nice to be able to take things easy.",
    "term": "end"
   },
   {
    "id": "scen242.0004",
    "jp": "平和だなぁ。{n}戦っているなんて嘘みたいです。",
-   "en": "",
+   "en": "It's so peaceful. It's hard to believe we've been{n}fighting.",
    "term": "end"
   },
   {
    "id": "scen242.0005",
    "jp": "{s:0000}さんはいつもティピと一緒で{n}楽しそうですね。",
-   "en": "",
+   "en": "You're always with Tippi, {s:0000}. It looks{n}like you have fun together.",
    "term": "end"
   },
   {
    "id": "scen242.0006",
    "jp": "そのうち、みんなで山奥で釣りなんて{n}楽しいかも知れませんね。",
-   "en": "",
+   "en": "Perhaps we could all go fishing deep in the mountains{n}sometime. That might be fun.",
    "term": "end"
   },
   {
    "id": "scen242.0007",
    "jp": "いつもお世話になってます。",
-   "en": "",
+   "en": "Thank you for always looking after me.",
    "term": "end"
   },
   {
    "id": "scen242.0008",
    "jp": "どこ行こうか？",
-   "en": "",
+   "en": "Where should I go?",
    "term": "end"
   }
  ]

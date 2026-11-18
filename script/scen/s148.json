@@ -15,637 +15,637 @@
   {
    "id": "scen148.0001",
    "jp": "店員",
-   "en": "",
+   "en": "Shop Assistant",
    "term": "null"
   },
   {
    "id": "scen148.0002",
    "jp": "オヤジ",
-   "en": "",
+   "en": "Old Man",
    "term": "null"
   },
   {
    "id": "scen148.0003",
    "jp": "市民",
-   "en": "",
+   "en": "Citizen",
    "term": "null"
   },
   {
    "id": "scen148.0004",
    "jp": "門番",
-   "en": "",
+   "en": "Gatekeeper",
    "term": "null"
   },
   {
    "id": "scen148.0005",
    "jp": "看板",
-   "en": "",
+   "en": "Sign",
    "term": "null"
   },
   {
    "id": "scen148.0006",
    "jp": "看板・裏",
-   "en": "",
+   "en": "Sign (Back)",
    "term": "null"
   },
   {
    "id": "scen148.0007",
    "jp": "エリオット",
-   "en": "",
+   "en": "Elliot",
    "term": "null"
   },
   {
    "id": "scen148.0008",
    "jp": "犬",
-   "en": "",
+   "en": "Dog",
    "term": "null"
   },
   {
    "id": "scen148.0009",
    "jp": "ルイセ",
-   "en": "",
+   "en": "Luise",
    "term": "null"
   },
   {
    "id": "scen148.0010",
    "jp": "ティピ",
-   "en": "",
+   "en": "Tippi",
    "term": "null"
   },
   {
    "id": "scen148.0011",
    "jp": "少年",
-   "en": "",
+   "en": "Boy",
    "term": "null"
   },
   {
    "id": "scen148.0012",
    "jp": "子犬",
-   "en": "",
+   "en": "Puppy",
    "term": "null"
   },
   {
    "id": "scen148.0013",
    "jp": "母親",
-   "en": "",
+   "en": "Mother",
    "term": "null"
   },
   {
    "id": "scen148.0014",
    "jp": "張り紙",
-   "en": "",
+   "en": "Notice",
    "term": "null"
   },
   {
    "id": "scen148.0015",
    "jp": "ローランディア兵",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
    "id": "scen148.0016",
    "jp": "ローランディア兵隊長",
-   "en": "",
+   "en": "Rolandia Captain",
    "term": "null"
   },
   {
    "id": "scen148.0017",
    "jp": "そろそろ集合時間だね。",
-   "en": "",
+   "en": "It's almost time to meet up.",
    "term": "end"
   },
   {
    "id": "scen148.0018",
    "jp": "今日は可愛いブローチを仕入れてますよ。{n}恋人へのプレゼントに喜ばれることうけあいです！",
-   "en": "",
+   "en": "We've got some lovely brooches in stock today. Your{n}sweetheart is sure to love one as a gift!",
    "term": "end"
   },
   {
    "id": "scen148.0019",
    "jp": "どうだい、このブローチ。{n}安くしておくよ。{n}１００エルムだ！",
-   "en": "",
+   "en": "How about this brooch? I'll give you a good price. 100{n}Elm!",
    "term": "end"
   },
   {
    "id": "scen148.0020",
    "jp": "買っていきますか？",
-   "en": "",
+   "en": "Buy it?",
    "term": "end"
   },
   {
    "id": "scen148.0021",
    "jp": "ありがとうございました。",
-   "en": "",
+   "en": "Thank you very much.",
    "term": "end"
   },
   {
    "id": "scen148.0022",
    "jp": "お金が足りないですよ‥‥[01BE]",
-   "en": "",
+   "en": "You don't have enough money...[01BE]",
    "term": "end"
   },
   {
    "id": "scen148.0023",
    "jp": "今日買わないとなくなっちゃいますよ。",
-   "en": "",
+   "en": "If you don't buy it today, it might be gone!",
    "term": "end"
   },
   {
    "id": "scen148.0024",
    "jp": "お買い上げ、{n}ありがとうございました。",
-   "en": "",
+   "en": "Thank you for your purchase.",
    "term": "end"
   },
   {
    "id": "scen148.0025",
    "jp": "いらっしゃいませ。{n}どうぞご覧になって下さい。",
-   "en": "",
+   "en": "Welcome! Please have a look around.",
    "term": "end"
   },
   {
    "id": "scen148.0026",
    "jp": "どっかにもっといいスキマはねぇかな‥‥。",
-   "en": "",
+   "en": "Ain't there a better gap somewhere...?",
    "term": "end"
   },
   {
    "id": "scen148.0027",
    "jp": "どこかに面白い店はないかな？",
-   "en": "",
+   "en": "I wonder if there are any interesting shops around.",
    "term": "end"
   },
   {
    "id": "scen148.0028",
    "jp": "休暇を楽しんで下さいね。",
-   "en": "",
+   "en": "Enjoy your vacation.",
    "term": "end"
   },
   {
    "id": "scen148.0029",
    "jp": "休暇{FFEB}",
-   "en": "",
+   "en": "Vacation {FFEB}",
    "term": "end"
   },
   {
    "id": "scen148.0030",
    "jp": "イベント番号は{FFEB}番。",
-   "en": "",
+   "en": "Event number: {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen148.0031",
    "jp": "カウンタ２は{FFEB}番。",
-   "en": "",
+   "en": "Counter 2: {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen148.0032",
    "jp": "ステップ{FFEB}。",
-   "en": "",
+   "en": "Step {FFEB}.",
    "term": "end"
   },
   {
    "id": "scen148.0033",
    "jp": "クッキーのイベント見た。",
-   "en": "",
+   "en": "Saw the cookie event.",
    "term": "end"
   },
   {
    "id": "scen148.0034",
    "jp": "ゼノスの身の上話聞いた。",
-   "en": "",
+   "en": "Heard Xenos's life story.",
    "term": "end"
   },
   {
    "id": "scen148.0035",
    "jp": "ルイセとかくれんぼした。",
-   "en": "",
+   "en": "Played hide-and-seek with Luise.",
    "term": "end"
   },
   {
    "id": "scen148.0036",
    "jp": "ルイセのイベントが発生",
-   "en": "",
+   "en": "Luise's event triggers.",
    "term": "end"
   },
   {
    "id": "scen148.0037",
    "jp": "エリオットのイベントが発生",
-   "en": "",
+   "en": "Elliot's event triggers.",
    "term": "end"
   },
   {
    "id": "scen148.0038",
    "jp": "ゼノスのイベントが発生",
-   "en": "",
+   "en": "Xenos's event triggers.",
    "term": "end"
   },
   {
    "id": "scen148.0039",
    "jp": "仲間１はミーシャ。",
-   "en": "",
+   "en": "Companion 1 is Misha.",
    "term": "end"
   },
   {
    "id": "scen148.0040",
    "jp": "仲間１はアリオスト。",
-   "en": "",
+   "en": "Companion 1 is Ariost.",
    "term": "end"
   },
   {
    "id": "scen148.0041",
    "jp": "仲間１はカレン。",
-   "en": "",
+   "en": "Companion 1 is Karen.",
    "term": "end"
   },
   {
    "id": "scen148.0042",
    "jp": "仲間１はエリオット。",
-   "en": "",
+   "en": "Companion 1 is Elliot.",
    "term": "end"
   },
   {
    "id": "scen148.0043",
    "jp": "仲間１はジュリアン。",
-   "en": "",
+   "en": "Companion 1 is Julian.",
    "term": "end"
   },
   {
    "id": "scen148.0044",
    "jp": "仲間１はゼノス。",
-   "en": "",
+   "en": "Companion 1 is Xenos.",
    "term": "end"
   },
   {
    "id": "scen148.0045",
    "jp": "仲間２はミーシャ。",
-   "en": "",
+   "en": "Companion 2 is Misha.",
    "term": "end"
   },
   {
    "id": "scen148.0046",
    "jp": "仲間２はアリオスト。",
-   "en": "",
+   "en": "Companion 2 is Ariost.",
    "term": "end"
   },
   {
    "id": "scen148.0047",
    "jp": "仲間２はカレン。",
-   "en": "",
+   "en": "Companion 2 is Karen.",
    "term": "end"
   },
   {
    "id": "scen148.0048",
    "jp": "仲間２はエリオット。",
-   "en": "",
+   "en": "Companion 2 is Elliot.",
    "term": "end"
   },
   {
    "id": "scen148.0049",
    "jp": "仲間２はジュリアン。",
-   "en": "",
+   "en": "Companion 2 is Julian.",
    "term": "end"
   },
   {
    "id": "scen148.0050",
    "jp": "仲間２はゼノス。",
-   "en": "",
+   "en": "Companion 2 is Xenos.",
    "term": "end"
   },
   {
    "id": "scen148.0051",
    "jp": "ルイセはフリー",
-   "en": "",
+   "en": "Luise is free.",
    "term": "end"
   },
   {
    "id": "scen148.0052",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "",
+   "en": "Bargains galore! Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen148.0053",
    "jp": "　　準備中！{n}　　　アイテムショップ・ココ",
-   "en": "",
+   "en": "Not open yet!{n}Coco's Item Shop",
    "term": "end"
   },
   {
    "id": "scen148.0054",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "",
+   "en": "Bargains galore! Nook Shop",
    "term": "end"
   },
   {
    "id": "scen148.0055",
    "jp": "{v:006B}う、うわぁ[01BE]{n}こ、こっちにこないで[01BE]",
-   "en": "",
+   "en": "{v:006B}W-waaah[01BE] D-don't come any closer[01BE]",
    "term": "end"
   },
   {
    "id": "scen148.0056",
    "jp": "{v:006C}わんわんわん",
-   "en": "",
+   "en": "{v:006C}Woof, woof, woof!",
    "term": "end"
   },
   {
    "id": "scen148.0057",
    "jp": "{v:006D}あれって、もしかして‥‥エリオット！？{n}あの子またお城を抜け出してきたのね。{p}{FB00}{v:006E}なんか、犬に追いかけられているみたいだけど‥‥。",
-   "en": "",
+   "en": "{v:006D}Wait, is that... Elliot?! That boy's sneaked out of the{n}castle again!{p}{FB00}{v:006E}Looks like a dog's chasing him...",
    "term": "end"
   },
   {
    "id": "scen148.0058",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "",
+   "en": "Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
    "term": "end"
   },
   {
    "id": "scen148.0059",
    "jp": "{FFEF}{FE0A}‥{FE0A}‥{FE0A}‥{FE0A}‥。{FFFB}{n}仲良し兄妹か{FE0A}‥{FE0A}‥。{p}いつまでも、それでいいのかな？{FFFB}{n}わたし{FE0A}‥{FE0A}‥。{FFF1}",
-   "en": "",
+   "en": "{FFEF}{FE0A}.{FE0A}.{FE0A}.{FE0A}.{FFFB} A close brother and sister{FE0A}.{FE0A}..{p}Will I always be happy with that?{FFFB} I{FE0A}.{FE0A}..{FFF1}",
    "term": "end"
   },
   {
    "id": "scen148.0060",
    "jp": "‥‥そっとしておこうか‥‥。",
-   "en": "",
+   "en": "...Maybe we should leave her alone...",
    "term": "end"
   },
   {
    "id": "scen148.0061",
    "jp": "今日はヒマだな‥‥。",
-   "en": "",
+   "en": "Business is slow today...",
    "term": "end"
   },
   {
    "id": "scen148.0062",
    "jp": "いいお天気ですね。",
-   "en": "",
+   "en": "Lovely weather, isn't it?",
    "term": "end"
   },
   {
    "id": "scen148.0063",
    "jp": "どうぞ、見て行って下さい。",
-   "en": "",
+   "en": "Please, have a look around.",
    "term": "end"
   },
   {
    "id": "scen148.0064",
    "jp": "うちは良い商品ばかりですよ。",
-   "en": "",
+   "en": "We stock only quality goods.",
    "term": "end"
   },
   {
    "id": "scen148.0065",
    "jp": "い、犬をなんとかして下さい[01BE]",
-   "en": "",
+   "en": "P-please do something about that dog[01BE]",
    "term": "end"
   },
   {
    "id": "scen148.0066",
    "jp": "助けて下さいよ～[01BE]",
-   "en": "",
+   "en": "Please, heeelp[01BE]",
    "term": "end"
   },
   {
    "id": "scen148.0067",
    "jp": "{v:0023}よ～し、取ってこ～い！",
-   "en": "",
+   "en": "{v:0023}All right, go fetch!",
    "term": "end"
   },
   {
    "id": "scen148.0068",
    "jp": "{v:0024}きゃん、きゃん！",
-   "en": "",
+   "en": "{v:0024}Yap, yap!",
    "term": "end"
   },
   {
    "id": "scen148.0069",
    "jp": "{v:0025}えらいぞ！{n}次はこれだ！",
-   "en": "",
+   "en": "{v:0025}Good dog! Now get this one!",
    "term": "end"
   },
   {
    "id": "scen148.0070",
    "jp": "{v:0026}きゃん、きゃん！",
-   "en": "",
+   "en": "{v:0026}Yap, yap!",
    "term": "end"
   },
   {
    "id": "scen148.0071",
    "jp": "{v:002C}いつまで遊んでるの！{n}勉強しなさい！",
-   "en": "",
+   "en": "{v:002C}How long are you going to keep playing?! Go study!",
    "term": "end"
   },
   {
    "id": "scen148.0072",
    "jp": "{v:002D}はーい‥‥。",
-   "en": "",
+   "en": "{v:002D}Okaaay...",
    "term": "end"
   },
   {
    "id": "scen148.0073",
    "jp": "{v:002E}きゅ～ん‥‥。",
-   "en": "",
+   "en": "{v:002E}*whine*...",
    "term": "end"
   },
   {
    "id": "scen148.0074",
    "jp": "ボールを拾いますか？",
-   "en": "",
+   "en": "Pick up the ball?",
    "term": "end"
   },
   {
    "id": "scen148.0075",
    "jp": "泊まる必要ないでしょ！",
-   "en": "",
+   "en": "We don't need to stay here!",
    "term": "end"
   },
   {
    "id": "scen148.0076",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "",
+   "en": "South Avenue Shopping District: Open for Business!!",
    "term": "end"
   },
   {
    "id": "scen148.0077",
    "jp": "{n}　　　　　お買い物は南大通り商店街へ",
-   "en": "",
+   "en": "For all your shopping, visit South Avenue Shopping{n}District!",
    "term": "end"
   },
   {
    "id": "scen148.0078",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "",
+   "en": "A 60% acceptance rate at the Magic Academy! A{n}trusted preparatory school with a proven record: 'LLM{n}Magic School'",
    "term": "end"
   },
   {
    "id": "scen148.0079",
    "jp": "何やってんのよ！",
-   "en": "",
+   "en": "What do you think you're doing?!",
    "term": "end"
   },
   {
    "id": "scen148.0080",
    "jp": "お疲れさまです。",
-   "en": "",
+   "en": "Thank you for your hard work.",
    "term": "end"
   },
   {
    "id": "scen148.0081",
    "jp": "この街は我々に任せて下さい。",
-   "en": "",
+   "en": "You can leave this city's protection to us.",
    "term": "end"
   },
   {
    "id": "scen148.0082",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "",
+   "en": "'Remember to lock up when you go out!' --Rosaria Guard",
    "term": "end"
   },
   {
    "id": "scen148.0083",
    "jp": "あと少しでできるから、{n}もうちょっとだけお散歩しててね。",
-   "en": "",
+   "en": "It'll be ready soon, so just enjoy your walk a little{n}longer, okay?",
    "term": "end"
   },
   {
    "id": "scen148.0084",
    "jp": "どこ行くのよ！！",
-   "en": "",
+   "en": "Where do you think you're going?!!",
    "term": "end"
   },
   {
    "id": "scen148.0085",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "",
+   "en": "It's locked.",
    "term": "end"
   },
   {
    "id": "scen148.0086",
    "jp": "寝て過ごすんじゃな～い！",
-   "en": "",
+   "en": "Don't go sleeping the day awaaay!",
    "term": "end"
   },
   {
    "id": "scen148.0087",
    "jp": "プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
    "id": "scen148.0088",
    "jp": "ごめん、今、お勉強中なの。",
-   "en": "",
+   "en": "Sorry, I'm studying right now.",
    "term": "end"
   },
   {
    "id": "scen148.0089",
    "jp": "ちょっと、ルイセちゃんを{n}放っておいていいの？",
-   "en": "",
+   "en": "Hey, are you sure you should leave Luise-chan alone?",
    "term": "end"
   },
   {
    "id": "scen148.0090",
    "jp": "こら、外へ出たら連絡が取れなくなるでしょ！",
-   "en": "",
+   "en": "Hey! If you go outside, they won't be able to reach you!",
    "term": "end"
   },
   {
    "id": "scen148.0091",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "",
+   "en": "Where do you think you're going, leaving everyone{n}behind?!",
    "term": "end"
   },
   {
    "id": "scen148.0092",
    "jp": "今日はここで一日過ごすんでしょ？",
-   "en": "",
+   "en": "We're spending the whole day here, remember?",
    "term": "end"
   },
   {
    "id": "scen148.0093",
    "jp": "お兄ちゃん、アリオストさんのおかげで{n}ミーシャは立ち直ってくれたよ。",
-   "en": "",
+   "en": "Big Brother, thanks to Ariost-san, Misha's feeling like{n}herself again.",
    "term": "end"
   },
   {
    "id": "scen148.0094",
    "jp": "‥‥‥",
-   "en": "",
+   "en": "...",
    "term": "end"
   },
   {
    "id": "scen148.0095",
    "jp": "ルイセちゃん、コイツ、ルイセちゃんに{n}お誕生日プレゼント買ってあるんだよ。",
-   "en": "",
+   "en": "Luise-chan, this guy's already bought you a birthday{n}present!",
    "term": "end"
   },
   {
    "id": "scen148.0096",
    "jp": "えっ、本当？{n}うれしいな。",
-   "en": "",
+   "en": "Oh, really? I'm so happy!",
    "term": "end"
   },
   {
    "id": "scen148.0097",
    "jp": "せっかくクッキー作って待ってたのに、{n}お兄ちゃん来てくれなかった‥‥。",
-   "en": "",
+   "en": "I made cookies and waited for you, Big Brother, but{n}you never came...",
    "term": "end"
   },
   {
    "id": "scen148.0098",
    "jp": "こいつ‥‥。{n}ルイセちゃん、後で蹴っていいよ。",
-   "en": "",
+   "en": "This guy... Luise-chan, you can kick him later.",
    "term": "end"
   },
   {
    "id": "scen148.0099",
    "jp": "お兄ちゃん、突然いなくなるから{n}びっくりしたじゃない‥‥。",
-   "en": "",
+   "en": "Big Brother, you scared me, disappearing all of a sudden{n}like that...",
    "term": "end"
   },
   {
    "id": "scen148.0100",
    "jp": "アンタね‥‥。{n}ちょっとひどいんじゃない？",
-   "en": "",
+   "en": "You know... That was pretty mean of you!",
    "term": "end"
   },
   {
    "id": "scen148.0101",
    "jp": "さて、みんなそろったね。{n}お城に戻ろうか？",
-   "en": "",
+   "en": "Well, everyone's here. Shall we head back to the castle?",
    "term": "end"
   },
   {
    "id": "scen148.0102",
    "jp": "お疲れさまでした。",
-   "en": "",
+   "en": "Well done out there.",
    "term": "end"
   },
   {
    "id": "scen148.0103",
    "jp": "夕方になったらここに集合ね。",
-   "en": "",
+   "en": "Let's meet back here this evening.",
    "term": "end"
   },
   {
    "id": "scen148.0104",
    "jp": "お兄ちゃん、{n}今日はなんの日だかわかってる？",
-   "en": "",
+   "en": "Big Brother, do you know what day it is today?",
    "term": "end"
   },
   {
    "id": "scen148.0105",
    "jp": "お兄ちゃん。{n}わたし、どうしてもミーシャの事が気になるの。{n}ちょっと行ってくる。",
-   "en": "",
+   "en": "Big Brother, I just can't stop worrying about Misha. I'm{n}going to go see her.",
    "term": "end"
   },
   {
    "id": "scen148.0106",
    "jp": "ルイセ君、僕も連れていってくれ。{n}頼む。",
-   "en": "",
+   "en": "Luise-kun, take me with you. Please.",
    "term": "end"
   }
  ]

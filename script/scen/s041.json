@@ -153,7 +153,7 @@
   {
    "id": "scen041.0024",
    "jp": "{v:0018}エキスパートの部は覚えてないが、{n}フレッシュマンの部は確かバーンシュタイン王国に{n}ある温泉街、コムスプリングスへの旅行券だったな。{p}{v:0019}ま、それよりも俺は仕官{s:0127}当てだから関係ないけどな。",
-   "en": "{v:0018}I don't remember the Expert division prize, but I think{n}the Freshman prize is a Travel Voucher to Comsprings,{n}a hot spring town in the Kingdom of Burnstein.{p}{v:0019}Well, I've got my {s:0127} on a military post,{n}so the prize doesn't matter to me.",
+   "en": "{v:0018}I don't remember the Expert division prize, but I think{n}the Freshman prize is a Travel Voucher to Comsprings,{n}a hot spring town in the Kingdom of Burnstein.{p}{v:0019}Well, I've got my eye on a military post,{n}so the prize doesn't matter to me.",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen041.0031",
    "jp": "{v:0020}そうらしいな。{p}{v:0021}ま、それよりも俺は仕官{s:0127}当てだから関係ないけどな。",
-   "en": "{v:0020}So I hear.{p}{v:0021}Well, I've got my {s:0127} on a military post,{n}so the prize doesn't matter to me.",
+   "en": "{v:0020}So I hear.{p}{v:0021}Well, I've got my eye on a military post,{n}so the prize doesn't matter to me.",
    "term": "end"
   },
   {
@@ -363,7 +363,7 @@
   {
    "id": "scen041.0059",
    "jp": "{v:003B}ああ。{n}今までの私は、父に誉められるために{n}剣術をみがいていた。{p}{v:003C}確かにインペリアル・ナイトになることは{n}名誉なことだが、本来は国と民を守るということだ。{n}私はそれを{s:0127}指してみたい。",
-   "en": "{v:003B}Yes. Until now, I honed my swordsmanship to win my{n}father's praise.{p}{v:003C}Becoming an Imperial Knight is certainly an honor, but{n}its true purpose is to protect the country and its{n}people. That is the goal I want to keep my {s:0127}{p}on.",
+   "en": "{v:003B}Yes. Until now, I honed my swordsmanship to win my{n}father's praise.{p}{v:003C}Becoming an Imperial Knight is certainly an honor, but{n}its true purpose is to protect the country and its{n}people. That is the goal I want to keep my eye on.",
    "term": "end"
   },
   {
@@ -504,7 +504,7 @@
   {
    "id": "scen041.0082",
    "jp": "君がフレッシュマンの優勝者なんだって？{n}確かに一{s:0127}見たときから、{n}何か凄いパワーを感じていたんだよ。",
-   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught my{n}{s:0127}.",
+   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught my{n}eye.",
    "term": "end"
   },
   {
@@ -640,7 +640,7 @@
   {
    "id": "scen041.0104",
    "jp": "{v:0031}また来ておくれ。",
-   "en": "{v:0031}Do come again, now.",
+   "en": "{v:0031}Do come again, won't you?",
    "term": "end"
   },
   {
@@ -652,7 +652,7 @@
   {
    "id": "scen041.0106",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "{v:0041}So, are you here to buy or sell?",
+   "en": "{v:0041}So, are you here to buy or to sell?",
    "term": "end"
   },
   {
@@ -692,19 +692,19 @@
   {
    "id": "scen041.0112",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "{v:004B}Come back, won't you? I'll have a lovely smile waiting for{n}you.",
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
    "term": "end"
   },
   {
    "id": "scen041.0113",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "{v:000C}Welcome. We carry a wide range of equipment.",
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
    "term": "end"
   },
   {
    "id": "scen041.0114",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:000E}Would you like to make a purchase, or do you have{n}something to sell?",
+   "en": "{v:000E}Would you like to buy or sell?",
    "term": "end"
   },
   {
@@ -724,7 +724,7 @@
   {
    "id": "scen041.0117",
    "jp": "他にもご用はおありですか？",
-   "en": "Is there anything else I can do for you?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -744,7 +744,7 @@
   {
    "id": "scen041.0120",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "{v:0018}Please do visit us again.",
+   "en": "{v:0018}Please come again.",
    "term": "end"
   },
   {
@@ -756,7 +756,7 @@
   {
    "id": "scen041.0122",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Would you like to buy something today, or are you here{n}to sell?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -776,7 +776,7 @@
   {
    "id": "scen041.0125",
    "jp": "他にも何かおありでしょうか？",
-   "en": "Is there anything else you need?",
+   "en": "Is there anything else I can help you with?",
    "term": "end"
   },
   {
@@ -1208,7 +1208,7 @@
   {
    "id": "scen041.0195",
    "jp": "闘技場前広場",
-   "en": "Arena Square",
+   "en": "Arena Plaza",
    "term": "end"
   },
   {
@@ -1220,7 +1220,7 @@
   {
    "id": "scen041.0197",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "{v:003D}Well, fighters come here from all over the continent.",
+   "en": "{v:003D}Well, the toughest fighters on the continent gather{n}here.",
    "term": "end"
   },
   {
@@ -1232,7 +1232,7 @@
   {
    "id": "scen041.0199",
    "jp": "{v:003F}かなり昔のことだがな。{n}あの頃は両{s:0127}も右腕も自前だった。",
-   "en": "{v:003F}A long time ago. Back then, my left and right {s:0127}{n}and my right arm were still my own.",
+   "en": "{v:003F}A long time ago. Back then, my left and right eyes{n}and my right arm were still my own.",
    "term": "end"
   },
   {
@@ -1532,7 +1532,7 @@
   {
    "id": "scen041.0249",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "If you wish to stay with us, please sign the register{n}here.",
+   "en": "If you would like to stay with us, please sign the{n}register here.",
    "term": "end"
   },
   {
@@ -1544,13 +1544,13 @@
   {
    "id": "scen041.0251",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you for staying with us. Have a safe journey.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {
    "id": "scen041.0252",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Sir...[01BE] It seems you don't have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -1587,7 +1587,7 @@
   {
    "id": "scen041.0258",
    "jp": "・公演を依頼する",
-   "en": "・Request a performance",
+   "en": "・Book a performance",
    "term": "end",
    "unref": true
   },
@@ -1762,7 +1762,7 @@
   {
    "id": "scen041.0287",
    "jp": "{FFF3}‥‥‥‥。",
-   "en": "{FFF3}......",
+   "en": "{FFF3}...",
    "term": "end"
   },
   {
@@ -1798,7 +1798,7 @@
   {
    "id": "scen041.0293",
    "jp": "俺の力が必要ってわけだな？",
-   "en": "So you need my strength?",
+   "en": "So you need my strength, huh?",
    "term": "end"
   },
   {
@@ -1823,7 +1823,7 @@
   {
    "id": "scen041.0297",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add him for now",
+   "en": "・Don't add anyone for now",
    "term": "end",
    "unref": true
   },
@@ -1854,13 +1854,13 @@
   {
    "id": "scen041.0302",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "But we can't take any more people. Someone has to{n}leave the party.",
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
    "term": "end"
   },
   {
    "id": "scen041.0303",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {

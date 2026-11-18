@@ -15,109 +15,109 @@
   {
    "id": "scen181.0001",
    "jp": "盗賊",
-   "en": "",
+   "en": "Bandit",
    "term": "null"
   },
   {
    "id": "scen181.0002",
    "jp": "ランザック兵",
-   "en": "",
+   "en": "Ranzak Soldier",
    "term": "null"
   },
   {
    "id": "scen181.0003",
    "jp": "{FFEE}ランザック兵を救え！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Save the Ranzak soldier!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen181.0004",
    "jp": "{v:0028}おい！{n}そいつらは俺たちが倒す！{n}街の中に下がっていろ！",
-   "en": "",
+   "en": "{v:0028}Hey! We'll take care of them! Fall back into town!",
    "term": "end"
   },
   {
    "id": "scen181.0005",
    "jp": "{v:0029}断る！{p}{v:002A}今まで殺された仲間の仇を討つ！",
-   "en": "",
+   "en": "{v:0029}I refuse!{p}{v:002A}I'll avenge all the comrades they've killed!",
    "term": "end"
   },
   {
    "id": "scen181.0006",
    "jp": "{v:002B}チッ！",
-   "en": "",
+   "en": "{v:002B}Tch!",
    "term": "end"
   },
   {
    "id": "scen181.0007",
    "jp": "お、親分。{n}もう、俺ダメ‥‥",
-   "en": "",
+   "en": "B-boss... I'm done for...",
    "term": "end"
   },
   {
    "id": "scen181.0008",
    "jp": "こんなはずじゃ‥‥",
-   "en": "",
+   "en": "This wasn't supposed to happen...",
    "term": "end"
   },
   {
    "id": "scen181.0009",
    "jp": "へっへっへっ‥‥。{n}今まで人を殺しすぎた罰が当たったのかな‥‥",
-   "en": "",
+   "en": "Heh heh heh... Guess this is what I get for killing so{n}many people...",
    "term": "end"
   },
   {
    "id": "scen181.0010",
    "jp": "くそっ！{n}こいつら、人を殺しなれてやがる‥‥",
-   "en": "",
+   "en": "Damn! These bastards are used to killing...",
    "term": "end"
   },
   {
    "id": "scen181.0011",
    "jp": "正規兵の俺が、賊ごときに‥‥",
-   "en": "",
+   "en": "I'm a regular soldier... Beaten by mere bandits...",
    "term": "end"
   },
   {
    "id": "scen181.0012",
    "jp": "{v:0030}ああっ！{n}ランザックの兵隊さんがっ！",
-   "en": "",
+   "en": "{v:0030}Ah! The Ranzak soldier...!",
    "term": "end"
   },
   {
    "id": "scen181.0013",
    "jp": "{v:0031}き、貴様ら！{n}よくも我が部下を！",
-   "en": "",
+   "en": "{v:0031}Y-you bastards! How dare you do that to my{n}subordinate!",
    "term": "end"
   },
   {
    "id": "scen181.0014",
    "jp": "{v:0032}ち、違うの、これは‥‥。",
-   "en": "",
+   "en": "{v:0032}N-no, you've got it wrong! This is...",
    "term": "end"
   },
   {
    "id": "scen181.0015",
    "jp": "{v:0033}問答無用！",
-   "en": "",
+   "en": "{v:0033}Enough talk!",
    "term": "end"
   },
   {
    "id": "scen181.0016",
    "jp": "{v:002C}やるじゃねぇか‥‥。{p}{v:002D}だが、まだやられるわけにはいかねぇんだよ！",
-   "en": "",
+   "en": "{v:002C}You're pretty good...{p}{v:002D}But I ain't going down yet!",
    "term": "end"
   },
   {
    "id": "scen181.0017",
    "jp": "{v:002E}あっ！",
-   "en": "",
+   "en": "{v:002E}Ah!",
    "term": "end"
   },
   {
    "id": "scen181.0018",
    "jp": "‥‥{v:002F}逃げられちゃった‥‥。",
-   "en": "",
+   "en": "...{v:002F}He got away...",
    "term": "end"
   }
  ]

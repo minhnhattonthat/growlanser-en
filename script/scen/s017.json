@@ -278,19 +278,19 @@
   {
    "id": "scen017.0044",
    "jp": "プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "The plaque reads '{FFEE}Luise-chan's Room{FFF1}'.",
+   "en": "The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
    "id": "scen017.0045",
    "jp": "皿がある。",
-   "en": "There is a plate here.",
+   "en": "There is a plate.",
    "term": "end"
   },
   {
    "id": "scen017.0046",
    "jp": "読みかけの本だ。",
-   "en": "A partly read book.",
+   "en": "It's a partly read book.",
    "term": "end"
   },
   {
@@ -302,7 +302,7 @@
   {
    "id": "scen017.0048",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "Important project documents. You can jump to event{n}checkpoints from here.",
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen017.0076",
    "jp": "なんと声をかけますか？",
-   "en": "What will you say to her?",
+   "en": "What will you say?",
    "term": "end"
   },
   {

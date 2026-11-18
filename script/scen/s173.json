@@ -15,283 +15,283 @@
   {
    "id": "scen173.0001",
    "jp": "警備兵",
-   "en": "",
+   "en": "Guard",
    "term": "null"
   },
   {
    "id": "scen173.0002",
    "jp": "工作兵",
-   "en": "",
+   "en": "Saboteur",
    "term": "null"
   },
   {
    "id": "scen173.0003",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
+   "en": "Burnstein Captain",
    "term": "null"
   },
   {
    "id": "scen173.0004",
    "jp": "バーンシュタイン兵",
-   "en": "",
+   "en": "Burnstein Soldier",
    "term": "null"
   },
   {
    "id": "scen173.0005",
    "jp": "{v:0079}おうっ！{n}貴様ら何者だ！",
-   "en": "",
+   "en": "{v:0079}Hey! Who are you?!",
    "term": "end"
   },
   {
    "id": "scen173.0006",
    "jp": "{v:007A}ローランディア王国軍か！？{n}橋を落とすつもりだな？",
-   "en": "",
+   "en": "{v:007A}The Royal Army of Rolandia?! You're planning to bring{n}down the bridge!",
    "term": "end"
   },
   {
    "id": "scen173.0007",
    "jp": "{v:007B}敵を倒すことより、橋を落とすことを優先しろ。{n}誰でもいい、橋に到達したら、ロープを切るんだ！",
-   "en": "",
+   "en": "{v:007B}Bringing down the bridge comes before fighting the{n}enemy. Whoever reaches it first, cut the ropes!",
    "term": "end"
   },
   {
    "id": "scen173.0008",
    "jp": "{v:007C}わ、わかった！",
-   "en": "",
+   "en": "{v:007C}G-got it!",
    "term": "end"
   },
   {
    "id": "scen173.0009",
    "jp": "{v:007E}そうはいかんぞ！",
-   "en": "",
+   "en": "{v:007E}We will not let you!",
    "term": "end"
   },
   {
    "id": "scen173.0010",
    "jp": "{FFEE}橋を落とし、西岸の敵を全滅せよ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Bring down the bridge and defeat all enemies on the{n}west bank!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen173.0011",
    "jp": "くそっ！{n}まさかローランディアが我々の動きに{n}気づくとはな‥‥。",
-   "en": "",
+   "en": "Damn! I never thought Rolandia would catch on to our{n}movements...",
    "term": "end"
   },
   {
    "id": "scen173.0012",
    "jp": "橋ができる間の辛抱だ。{n}そうすれば向こう岸から増援が来る。",
-   "en": "",
+   "en": "We just have to hold out until the bridge is finished.{n}Then reinforcements can come from the other bank.",
    "term": "end"
   },
   {
    "id": "scen173.0013",
    "jp": "そうだな。{n}よし、俺たちで奴らの足止めをするぞ！",
-   "en": "",
+   "en": "Right. All right, we'll hold them off!",
    "term": "end"
   },
   {
    "id": "scen173.0014",
    "jp": "工作兵は、そのまま作業を続行しろ！",
-   "en": "",
+   "en": "Saboteurs, keep working!",
    "term": "end"
   },
   {
    "id": "scen173.0015",
    "jp": "了解しました！",
-   "en": "",
+   "en": "Understood, sir!",
    "term": "end"
   },
   {
    "id": "scen173.0016",
    "jp": "{v:0082}待ってろ！{n}すぐに援護に向かう！",
-   "en": "",
+   "en": "{v:0082}Hold on! We're coming to back you up!",
    "term": "end"
   },
   {
    "id": "scen173.0017",
    "jp": "{v:0083}よし、完成だ！{n}向こう側へ進軍を開始するぞ！",
-   "en": "",
+   "en": "{v:0083}Good, it's finished! Begin the advance to the other{n}bank!",
    "term": "end"
   },
   {
    "id": "scen173.0018",
    "jp": "{v:0084}ちょっと！{n}早く橋を落とさないと、敵が来ちゃうじゃない！",
-   "en": "",
+   "en": "{v:0084}Hey! Hurry up and bring down the bridge, or the enemy{n}will get across!",
    "term": "end"
   },
   {
    "id": "scen173.0019",
    "jp": "橋を落としますか？",
-   "en": "",
+   "en": "Bring down the bridge?",
    "term": "end"
   },
   {
    "id": "scen173.0020",
    "jp": "{v:0086}このロープを切ればいいんだね？",
-   "en": "",
+   "en": "{v:0086}I just cut this rope, right?",
    "term": "end"
   },
   {
    "id": "scen173.0021",
    "jp": "{v:0087}このロープを切れば‥‥。",
-   "en": "",
+   "en": "{v:0087}If I cut this rope...",
    "term": "end"
   },
   {
    "id": "scen173.0022",
    "jp": "橋を落とさせますか？",
-   "en": "",
+   "en": "Have them bring down the bridge?",
    "term": "end"
   },
   {
    "id": "scen173.0023",
    "jp": "{v:0088}これ、切っちゃえばいいんだ？",
-   "en": "",
+   "en": "{v:0088}So I just cut this?",
    "term": "end"
   },
   {
    "id": "scen173.0024",
    "jp": "ここは通さぬ！{n}通すわけには、いかぬのだ‥‥",
-   "en": "",
+   "en": "You shall not pass! I cannot let you through...",
    "term": "end"
   },
   {
    "id": "scen173.0025",
    "jp": "ま、負けた‥‥",
-   "en": "",
+   "en": "I... I've lost...",
    "term": "end"
   },
   {
    "id": "scen173.0026",
    "jp": "我が槍術が破れるとは‥‥。",
-   "en": "",
+   "en": "My spearmanship... bested...",
    "term": "end"
   },
   {
    "id": "scen173.0027",
    "jp": "この橋だけは‥‥",
-   "en": "",
+   "en": "This bridge, at least...",
    "term": "end"
   },
   {
    "id": "scen173.0028",
    "jp": "し‥‥か‥‥",
-   "en": "",
+   "en": "I... can't...",
    "term": "end"
   },
   {
    "id": "scen173.0029",
    "jp": "た、助けて‥‥",
-   "en": "",
+   "en": "H-help me...",
    "term": "end"
   },
   {
    "id": "scen173.0030",
    "jp": "おのれ‥‥",
-   "en": "",
+   "en": "Damn you...",
    "term": "end"
   },
   {
    "id": "scen173.0031",
    "jp": "う、うわ～っ！",
-   "en": "",
+   "en": "A-aaagh!",
    "term": "end"
   },
   {
    "id": "scen173.0032",
    "jp": "この私が！？{n}ま、まさか‥‥",
-   "en": "",
+   "en": "Me?! N-no, impossible...",
    "term": "end"
   },
   {
    "id": "scen173.0033",
    "jp": "バーンシュタイン王国、万歳！",
-   "en": "",
+   "en": "Long live the Kingdom of Burnstein!",
    "term": "end"
   },
   {
    "id": "scen173.0034",
    "jp": "我が命、ジュリアン将軍に‥‥",
-   "en": "",
+   "en": "My life... for General Julian...",
    "term": "end"
   },
   {
    "id": "scen173.0035",
    "jp": "や、やるな‥‥",
-   "en": "",
+   "en": "Y-you're good...",
    "term": "end"
   },
   {
    "id": "scen173.0036",
    "jp": "もはやこれまでか‥‥。",
-   "en": "",
+   "en": "So this is the end...",
    "term": "end"
   },
   {
    "id": "scen173.0037",
    "jp": "うぐっ‥‥",
-   "en": "",
+   "en": "Ugh...",
    "term": "end"
   },
   {
    "id": "scen173.0038",
    "jp": "グハッ！",
-   "en": "",
+   "en": "Gah!",
    "term": "end"
   },
   {
    "id": "scen173.0039",
    "jp": "{v:0089}バカ、バカ！{n}仲間が橋の上にいるでしょ！",
-   "en": "",
+   "en": "{v:0089}Idiot! Idiot! Our friends are on the bridge!",
    "term": "end"
   },
   {
    "id": "scen173.0040",
    "jp": "ちょっ、ちょっと待ちなさいよ！{n}いま橋を落としたら、{n}仲間が取り残されちゃうじゃないの！",
-   "en": "",
+   "en": "H-hey, hold it! If you bring down the bridge now, you'll{n}leave our friends stranded!",
    "term": "end"
   },
   {
    "id": "scen173.0041",
    "jp": "{v:0085}よぉし、ロープを切っちゃおう！",
-   "en": "",
+   "en": "{v:0085}All right, let's cut the rope!",
    "term": "end"
   },
   {
    "id": "scen173.0042",
    "jp": "{v:008A}や、やめろーーっ！",
-   "en": "",
+   "en": "{v:008A}N-no, stooop!",
    "term": "end"
   },
   {
    "id": "scen173.0043",
    "jp": "{v:008B}やったぁ！{n}橋が落ちたよ！",
-   "en": "",
+   "en": "{v:008B}Yay! The bridge is down!",
    "term": "end"
   },
   {
    "id": "scen173.0044",
    "jp": "{v:008C}おのれ！{n}許さんぞ！",
-   "en": "",
+   "en": "{v:008C}Curse you! You will pay for this!",
    "term": "end"
   },
   {
    "id": "scen173.0045",
    "jp": "{v:008D}しつこいなぁ、もうっ！",
-   "en": "",
+   "en": "{v:008D}Ugh, you just won't give up!",
    "term": "end"
   },
   {
    "id": "scen173.0046",
    "jp": "くっ‥‥。{n}これでは手出しできん‥‥。",
-   "en": "",
+   "en": "Argh... We cannot reach them now...",
    "term": "end"
   },
   {
    "id": "scen173.0047",
    "jp": "{v:007F}ん？{n}あれはローランディアの兵か？{p}{v:0080}橋を落とす気だな？{n}そうはさせるか！{p}{v:0081}こっち側から橋を完成させてやる！",
-   "en": "",
+   "en": "{v:007F}Hm? Are those soldiers from Rolandia?{p}{v:0080}They're trying to bring down the bridge! Not a chance!{p}{v:0081}We'll finish the bridge from this side!",
    "term": "end"
   }
  ]

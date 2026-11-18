@@ -147,7 +147,7 @@
   {
    "id": "scen046.0023",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "{v:0019}Hey, welcome. This here's an equipment shop.",
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
    "term": "end"
   },
   {
@@ -199,7 +199,7 @@
   {
    "id": "scen046.0031",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "{v:0000}Hello there, welcome! We've got all sorts of equipment{n}here.",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen046.0035",
    "jp": "まだ用事はあるかい？",
-   "en": "Is there anything else you need?",
+   "en": "Anything else you need?",
    "term": "end"
   },
   {
@@ -245,7 +245,7 @@
   {
    "id": "scen046.0038",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "{v:000B}Come back soooon! I'll be waiting!",
+   "en": "{v:000B}Come back soon! I'll be waiting!",
    "term": "end"
   },
   {
@@ -773,7 +773,7 @@
   {
    "id": "scen046.0125",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. A night's stay will be {FFEB} Elm. Will you be staying?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {

@@ -987,7 +987,7 @@
   {
    "id": "scen023.0163",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "{v:0015}But that would make too many of us. Someone will have{n}to leave the party.",
+   "en": "{v:0015}But that would be too many people. Someone will have{n}to leave the party.",
    "term": "end"
   },
   {
@@ -1061,7 +1061,7 @@
   {
    "id": "scen023.0175",
    "jp": "がんばって下さいね。",
-   "en": "Good luck to you.",
+   "en": "Please do your best.",
    "term": "end"
   },
   {
@@ -1139,13 +1139,13 @@
   {
    "id": "scen023.0188",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "Thank you. Have a safe journey.",
+   "en": "Thank you very much. Take care on your travels.",
    "term": "end"
   },
   {
    "id": "scen023.0189",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Sir...[01BE] I'm afraid you do not have enough money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -1157,7 +1157,7 @@
   {
    "id": "scen023.0191",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here!",
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
    "term": "end"
   },
   {

@@ -51,7 +51,7 @@
   {
    "id": "scen062.0007",
    "jp": "お疲れさまです。",
-   "en": "Thank you for your efforts.",
+   "en": "Thank you for your hard work.",
    "term": "end"
   },
   {
@@ -99,13 +99,13 @@
   {
    "id": "scen062.0015",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "But that'll be too many of us. We'll have to leave{n}someone out of the party.",
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
    "term": "end"
   },
   {
    "id": "scen062.0016",
    "jp": "誰をメンバーから外しますか？",
-   "en": "Who will you remove from the party?",
+   "en": "Who will leave the party?",
    "term": "end"
   },
   {
@@ -125,7 +125,7 @@
   {
    "id": "scen062.0019",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "Will you retrieve {s:FFED}'s equipment?",
+   "en": "Retrieve {s:FFED}'s equipment?",
    "term": "end"
   },
   {
@@ -287,7 +287,7 @@
   {
    "id": "scen062.0046",
    "jp": "はりきって行きましょう！",
-   "en": "Let's give it our best!",
+   "en": "Let's give it our all!",
    "term": "end"
   },
   {

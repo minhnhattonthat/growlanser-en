@@ -15,31 +15,31 @@
   {
    "id": "scen177.0001",
    "jp": "{v:0014}あのボール、魔法を使うよ！？",
-   "en": "",
+   "en": "{v:0014}That ball can use magic?!",
    "term": "end"
   },
   {
    "id": "scen177.0002",
    "jp": "{v:0015}やっかいだな‥‥。",
-   "en": "",
+   "en": "{v:0015}That's trouble...",
    "term": "end"
   },
   {
    "id": "scen177.0003",
    "jp": "‥‥{v:0016}損傷度‥‥９５％オーバー‥‥。{n}自己修復不能‥‥機能‥停止‥‥。",
-   "en": "",
+   "en": "...{v:0016}Damage... exceeds 95%... Self-repair impossible...{n}Functions... ceasing...",
    "term": "end"
   },
   {
    "id": "scen177.0004",
    "jp": "{v:0017}やった、壊れた！",
-   "en": "",
+   "en": "{v:0017}Yes! It's broken!",
    "term": "end"
   },
   {
    "id": "scen177.0005",
    "jp": "{v:001B}こわかった‥‥。",
-   "en": "",
+   "en": "{v:001B}That was scary...",
    "term": "end"
   }
  ]

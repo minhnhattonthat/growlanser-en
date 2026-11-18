@@ -15,109 +15,109 @@
   {
    "id": "scen229.0001",
    "jp": "警報",
-   "en": "",
+   "en": "Alarm",
    "term": "null"
   },
   {
    "id": "scen229.0002",
    "jp": "{v:0015}あたし達の邪魔をしないでよね！",
-   "en": "",
+   "en": "{v:0015}Stay out of our way!",
    "term": "end"
   },
   {
    "id": "scen229.0003",
    "jp": "{v:0016}お願い、そこを通して！",
-   "en": "",
+   "en": "{v:0016}Please, let us through!",
    "term": "end"
   },
   {
    "id": "scen229.0004",
    "jp": "{v:0017}おまえの負けだ、おとなしくくたばれ！",
-   "en": "",
+   "en": "{v:0017}You've lost. Just lie down and die!",
    "term": "end"
   },
   {
    "id": "scen229.0005",
    "jp": "{v:0018}もう、どうしてアタシたちの邪魔ばかりするのよ！",
-   "en": "",
+   "en": "{v:0018}Ugh, why do you always have to get in our way?!",
    "term": "end"
   },
   {
    "id": "scen229.0006",
    "jp": "{v:0019}僕たちはあきらめない！　最後の最後まで！",
-   "en": "",
+   "en": "{v:0019}We won't give up! Not until the very end!",
    "term": "end"
   },
   {
    "id": "scen229.0007",
    "jp": "{v:001B}あなたのせいで、罪もない人が何人も苦しんだ‥‥。{n}許せません！",
-   "en": "",
+   "en": "{v:001B}So many innocent people have suffered because of{n}you... I cannot forgive you!",
    "term": "end"
   },
   {
    "id": "scen229.0008",
    "jp": "{v:001C}俺はお前みたいな奴が一番嫌いなんだよ。死にやがれ！",
-   "en": "",
+   "en": "{v:001C}There's nothing I hate more than scum like you. Die,{n}damn you!",
    "term": "end"
   },
   {
    "id": "scen229.0009",
    "jp": "{v:001A}僕たちの世界のすべての人たちの{n}運命がかかっているんだ！{n}絶対に負けられない！",
-   "en": "",
+   "en": "{v:001A}The fate of everyone in our world is at stake! We can't{n}afford to lose!",
    "term": "end"
   },
   {
    "id": "scen229.0010",
    "jp": "{v:001D}この死にぞこないめ！{n}地獄に落ちろ！",
-   "en": "",
+   "en": "{v:001D}You just won't die! Go to hell!",
    "term": "end"
   },
   {
    "id": "scen229.0011",
    "jp": "{v:0022}何故だ‥何故‥‥。{n}体が‥‥うぐおぉぉぉっ！",
-   "en": "",
+   "en": "{v:0022}Why... Why...? My body... Ugaaah!",
    "term": "end"
   },
   {
    "id": "scen229.0012",
    "jp": "{v:001E}私は‥１人では死なん‥‥。{n}死ぬときはお前たちも道連れだ！",
-   "en": "",
+   "en": "{v:001E}I... will not die alone... When I die, you are coming with{n}me!",
    "term": "end"
   },
   {
    "id": "scen229.0013",
    "jp": "{v:0034}歪み率が３５％を越えました‥‥。",
-   "en": "",
+   "en": "{v:0034}Distortion level has exceeded 35%...",
    "term": "end"
   },
   {
    "id": "scen229.0014",
    "jp": "{v:0035}そんな、間に合わなかったなんて‥‥。",
-   "en": "",
+   "en": "{v:0035}No... We didn't make it in time...",
    "term": "end"
   },
   {
    "id": "scen229.0015",
    "jp": "{v:0011}歪み率が３３％を越えました。{p}{v:0033}歪み率が危険値に達しています。{n}速やかにパワーストーンを用い、{n}時空制御装置を緊急モードに移行してください。",
-   "en": "",
+   "en": "{v:0011}Distortion level has exceeded 33%.{p}{v:0033}Distortion has reached a dangerous level. Use the{n}Power Stone immediately to switch the space-time{n}control device to emergency mode.",
    "term": "end"
   },
   {
    "id": "scen229.0016",
    "jp": "{v:0010}歪み率が３０％を越えました。",
-   "en": "",
+   "en": "{v:0010}Distortion level has exceeded 30%.",
    "term": "end"
   },
   {
    "id": "scen229.0017",
    "jp": "{v:000F}歪み率が２８％を越えました。",
-   "en": "",
+   "en": "{v:000F}Distortion level has exceeded 28%.",
    "term": "end"
   },
   {
    "id": "scen229.0018",
    "jp": "{v:000E}歪み率が２５％を越えました。",
-   "en": "",
+   "en": "{v:000E}Distortion level has exceeded 25%.",
    "term": "end"
   }
  ]

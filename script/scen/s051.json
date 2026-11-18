@@ -150,13 +150,13 @@
   {
    "id": "scen051.0023",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here,{n}dear.",
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
    "term": "end"
   },
   {
    "id": "scen051.0024",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "{v:0041}So, are you here to buy or sell?",
+   "en": "{v:0041}So, are you here to buy or to sell?",
    "term": "end"
   },
   {
@@ -176,7 +176,7 @@
   {
    "id": "scen051.0027",
    "jp": "で、他にも何かある？",
-   "en": "Now, is there anything else?",
+   "en": "So, anything else?",
    "term": "end"
   },
   {
@@ -196,19 +196,19 @@
   {
    "id": "scen051.0030",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "{v:004B}Do come again. I'll have a lovely smile waiting for you.",
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
    "term": "end"
   },
   {
    "id": "scen051.0031",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "{v:0033}Welcome. We offer a wide variety of goods for your{n}shopping needs.",
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
    "term": "end"
   },
   {
    "id": "scen051.0032",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "{v:0034}Will you be making a purchase today? Or would you like{n}to sell something?",
+   "en": "{v:0034}Will you be buying or selling today?",
    "term": "end"
   },
   {
@@ -248,7 +248,7 @@
   {
    "id": "scen051.0038",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "{v:003E}Thank you very much! Please visit us again.",
+   "en": "{v:003E}Thank you very much! Please come again.",
    "term": "end"
   },
   {
@@ -678,13 +678,13 @@
   {
    "id": "scen051.0109",
    "jp": "あんた達、タダで泊まろうってのかい？{n}ちゃんとお金を払って泊まってくれよ。",
-   "en": "You lot trying to stay for free? Pay for your room like{n}you're supposed to.",
+   "en": "You lot planning to stay for free? Pay for your rooms{n}like everyone else.",
    "term": "end"
   },
   {
    "id": "scen051.0110",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "Welcome. A night's stay will be {FFEB} Elm. Would you like a{n}room?",
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
    "term": "end"
   },
   {
@@ -696,7 +696,7 @@
   {
    "id": "scen051.0112",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "Excuse me...[01BE] You seem to be short of money.",
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
    "term": "end"
   },
   {
@@ -1220,7 +1220,7 @@
   {
    "id": "scen051.0198",
    "jp": "・わからない",
-   "en": "・I don't know.",
+   "en": "・I don't know",
    "term": "end",
    "unref": true
   },

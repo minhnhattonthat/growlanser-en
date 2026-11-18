@@ -15,269 +15,269 @@
   {
    "id": "scen225.0001",
    "jp": "{v:0030}さ、ここからがアンタの作戦能力の見せ所よ！{p}{v:0031}市民に被害も出さずに済ませれば、{n}きっとアンタのこと見直してくれるって！",
-   "en": "",
+   "en": "{v:0030}Okay, here's your chance to show what a great{n}strategist you are!{p}{v:0031}Get through this without any civilians getting hurt, and{n}they're sure to think better of you!",
    "term": "end"
   },
   {
    "id": "scen225.0002",
    "jp": "{v:0032}私と孫はどうすればいいんだ？",
-   "en": "",
+   "en": "{v:0032}What should my grandchild and I do?",
    "term": "end"
   },
   {
    "id": "scen225.0003",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0004",
    "jp": "・闘技場の入り口へ",
-   "en": "",
+   "en": "・Head to the arena entrance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0005",
    "jp": "{v:0033}わかった。",
-   "en": "",
+   "en": "{v:0033}Understood.",
    "term": "end"
   },
   {
    "id": "scen225.0006",
    "jp": "{v:0033}わかった。{p}{v:0034}さあ、行くぞ。",
-   "en": "",
+   "en": "{v:0033}Understood.{p}{v:0034}Come on, let's go.",
    "term": "end"
   },
   {
    "id": "scen225.0007",
    "jp": "{v:0035}うん。",
-   "en": "",
+   "en": "{v:0035}Okay.",
    "term": "end"
   },
   {
    "id": "scen225.0008",
    "jp": "{v:0036}俺たちはどうするんだ？",
-   "en": "",
+   "en": "{v:0036}What should we do?",
    "term": "end"
   },
   {
    "id": "scen225.0009",
    "jp": "・その場で待機",
-   "en": "",
+   "en": "・Wait where you are",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0010",
    "jp": "・闘技場の入り口へ",
-   "en": "",
+   "en": "・Head to the arena entrance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0011",
    "jp": "{v:0037}わ、わかった。",
-   "en": "",
+   "en": "{v:0037}G-got it.",
    "term": "end"
   },
   {
    "id": "scen225.0012",
    "jp": "{v:0038}絶対守って下さいね。",
-   "en": "",
+   "en": "{v:0038}Please make sure you protect us.",
    "term": "end"
   },
   {
    "id": "scen225.0013",
    "jp": "{v:009D}俺はどう動けばいい？",
-   "en": "",
+   "en": "{v:009D}What do you want me to do?",
    "term": "end"
   },
   {
    "id": "scen225.0014",
    "jp": "・北側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the north",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0015",
    "jp": "・南西側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the southwest",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0016",
    "jp": "・南東側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the southeast",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0017",
    "jp": "{v:0039}こいつらか？",
-   "en": "",
+   "en": "{v:0039}These guys?",
    "term": "end"
   },
   {
    "id": "scen225.0018",
    "jp": "{v:003A}わかった！",
-   "en": "",
+   "en": "{v:003A}Got it!",
    "term": "end"
   },
   {
    "id": "scen225.0019",
    "jp": "{v:009F}俺はどう動けばいい？",
-   "en": "",
+   "en": "{v:009F}What do you want me to do?",
    "term": "end"
   },
   {
    "id": "scen225.0020",
    "jp": "・北側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the north",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0021",
    "jp": "・南西側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the southwest",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0022",
    "jp": "・南東側の敵を狙う",
-   "en": "",
+   "en": "・Target the enemies to the southeast",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen225.0023",
    "jp": "{v:003B}こいつらか？",
-   "en": "",
+   "en": "{v:003B}These guys?",
    "term": "end"
   },
   {
    "id": "scen225.0024",
    "jp": "{v:003C}わかった！",
-   "en": "",
+   "en": "{v:003C}Got it!",
    "term": "end"
   },
   {
    "id": "scen225.0025",
    "jp": "{v:003F}オッケー！{n}それじゃ、行くわよ！",
-   "en": "",
+   "en": "{v:003F}Okay! Here we go!",
    "term": "end"
   },
   {
    "id": "scen225.0026",
    "jp": "{FFEE}市民に犠牲を出さずに敵を倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Defeat the enemies without losing any civilians!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen225.0027",
    "jp": "{v:0040}畜生！{n}これでも食らえ！",
-   "en": "",
+   "en": "{v:0040}Damn it! Take this!",
    "term": "end"
   },
   {
    "id": "scen225.0028",
    "jp": "{v:0041}やってやる！{n}やってやるぞ！",
-   "en": "",
+   "en": "{v:0041}I'll do it! I'll show you!",
    "term": "end"
   },
   {
    "id": "scen225.0029",
    "jp": "{v:0042}もう破れかぶれだ！",
-   "en": "",
+   "en": "{v:0042}I've got nothing left to lose!",
    "term": "end"
   },
   {
    "id": "scen225.0030",
    "jp": "{v:0043}う‥ぐわあ‥‥。",
-   "en": "",
+   "en": "{v:0043}Ugh... Gwaaah...",
    "term": "end"
   },
   {
    "id": "scen225.0031",
    "jp": "{v:0044}うわぁーー！",
-   "en": "",
+   "en": "{v:0044}Aaaah!",
    "term": "end"
   },
   {
    "id": "scen225.0032",
    "jp": "{v:0045}そ、そんな‥‥。",
-   "en": "",
+   "en": "{v:0045}N-no...",
    "term": "end"
   },
   {
    "id": "scen225.0033",
    "jp": "{v:0046}あ、ああ‥死にたく‥ない‥‥。",
-   "en": "",
+   "en": "{v:0046}A-ah... I don't... want to die...",
    "term": "end"
   },
   {
    "id": "scen225.0034",
    "jp": "もうダメだ‥‥。",
-   "en": "",
+   "en": "I'm done for...",
    "term": "end"
   },
   {
    "id": "scen225.0035",
    "jp": "まだ死にたくねぇよ‥‥。",
-   "en": "",
+   "en": "I don't wanna die yet...",
    "term": "end"
   },
   {
    "id": "scen225.0036",
    "jp": "なんで俺が殺されなきゃ‥‥。",
-   "en": "",
+   "en": "Why the hell do I have to die...?",
    "term": "end"
   },
   {
    "id": "scen225.0037",
    "jp": "{v:004C}もういないようだな。",
-   "en": "",
+   "en": "{v:004C}Looks like that's all of them.",
    "term": "end"
   },
   {
    "id": "scen225.0038",
    "jp": "{v:004D}まったく、油断も隙もあったもんじゃないわね？",
-   "en": "",
+   "en": "{v:004D}Honestly! We can't let our guard down for a second,{n}can we?",
    "term": "end"
   },
   {
    "id": "scen225.0039",
    "jp": "{v:0047}こっちの方で騒ぎがあったみたいだけど‥‥。",
-   "en": "",
+   "en": "{v:0047}It sounded like there was some sort of commotion{n}over here...",
    "term": "end"
   },
   {
    "id": "scen225.0040",
    "jp": "{v:0048}ルイセちゃん！",
-   "en": "",
+   "en": "{v:0048}Luise-chan!",
    "term": "end"
   },
   {
    "id": "scen225.0041",
    "jp": "{v:0049}ん？{n}どうしたんだ！？",
-   "en": "",
+   "en": "{v:0049}Huh? What happened?!",
    "term": "end"
   },
   {
    "id": "scen225.0042",
    "jp": "{v:004A}敵よ！{n}敵が襲ってきたの！",
-   "en": "",
+   "en": "{v:004A}The enemy! We're under attack!",
    "term": "end"
   },
   {
    "id": "scen225.0043",
    "jp": "{v:004B}わかった！{n}俺たちも戦うぜ！",
-   "en": "",
+   "en": "{v:004B}Got it! We'll fight too!",
    "term": "end"
   }
  ]
