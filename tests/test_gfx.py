@@ -27,6 +27,22 @@ class TestTitleSource(unittest.TestCase):
         self.assertLess(0x635D400, (start + n) * 2048)
 
 
+class TestFmvLogo(unittest.TestCase):
+    """G8: a red blob under a red bar line is filled with the background; the bar stays."""
+
+    def test_clean_synthetic(self):
+        import numpy as np
+        import fmvlogo
+        a = np.full((240, 320, 3), 235, np.uint8)
+        a[100:105, 50:251] = (220, 40, 30)  # bar line
+        a[107:115, 62:110] = (210, 50, 40)  # "subtitle" just under the bar's left part
+        out, rect = fmvlogo.clean(a, fmvlogo.PLAIN)
+        self.assertIsNotNone(rect)
+        red = fmvlogo.redness(out.astype(int))
+        self.assertLess(red[107:115, 62:110].max(), 8)
+        self.assertTrue((out[100:105, 50:251] == a[100:105, 50:251]).all())
+
+
 @unittest.skipUnless(MAP.exists(), "unpacked disc not present")
 class TestCredits(unittest.TestCase):
     """G5: the credits pages round-trip, and the edit touches only the cast pages (2-7) and the last page (16)."""

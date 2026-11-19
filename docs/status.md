@@ -2,7 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 6: ending + credits warps found; next: G5 credits redraw).
+- **Phase:** 8. QA in the emulator, in progress (session 7: G5 credits + G8 FMV logo done; next: G7 / game over,
+  G4, text coverage, then re-tour for the gate).
+- **Phase 8 session 7 (2026-11-19): G5, G6, G8.**
+  - G5 credits English (tools/credits.py, docs/re/graphics.md "Done"): 36 cast roles in the game's own Latin atlas
+    font over the kept romanized actor lines; "Developed by CARRIER SOFT / Copyright ATLUS / CARRIER SOFT / Produced
+    by ATLUS", (c) line "ATLUS／CARRIER SOFT 1999". In game: `warp_all.py credits --cue work/qa/g5build/...(Disc 1).cue`
+    (both discs' cues must sit in one folder for disc 2 warps) -> work/qa/g5/credits f012000-f027000.
+  - G6 = the credits' kana+Latin atlas, loaded but never drawn: nothing to do.
+  - G8 FMV logo (tools/fmvlogo.py, needs Java + tools/jpsxdec): both movies show the logo twice (MOVIE0 764-823 /
+    1525-1578, MOVIE1 755-820 / 1518-1556); subtitle masked + filled, jPSXdec partial-replace; build.py adds the
+    STRs to disc 1 (cache work/fmv/en; delete MOVIE*.STR there to rebuild). In game: idle boot (attract movie from
+    ~f4900) work/qa/g8boot3, logo at ~f8000 and ~f11050.
+  - G7 (MAP.DAT 1150/1151 = pair 575): no warp loads it (all 82 warps with tools/debug/reqlog.lua, work/qa/req:
+    reqlog `file=2 entry=N` = MAP pair N, MAP entry 2N; title = 580, credits 626-628). Its pieces look like a
+    help/tutorial or game-over screen: find the screen that requests pair 575 (game over = a lost battle: poke
+    party HP to 0 in a bt_* warp, or find the loader of pair 575 from 0x8001835C callers).
+  - Build changed (MAP.DAT credits, disc 1 STRs): **tour gate stale** for the build hash only (no tour screen shows
+    credits or FMV): re-tour + qa_gate init + vqa at the end of phase 8.
 - **Phase 8 session 6 (2026-11-19): ending + credits reached.**
   - `ending` / `credits` in scenes.txt: scene 11 area 81 sub 0 on disc 2 (ティピの日記 epilogue) + mash Circle. JP
     run work/qa/ending2 (shot every 600): diary + portraits f8000-11000, CAST f12000-19200 (Japanese role／actor
@@ -113,10 +130,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   1b. (done session 6: `ending`, `credits` warps.) Still open: the cleared-game flag (G4 appendix room); try a card
      save taken after the `credits` warp finishes (the game may offer a clear save after the staff roll).
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
-  3. Graphics text (docs/re/graphics.md): G1-G3 done. G5 credits (see session 4 note; warp first), G6 kana atlas
-     (credits font? D14 keeps the name-entry keyboard kana), G4 appendix (needs a memory-card fixture for title
-     APPENDIX), G7 identify (MAP.DAT 1151, VRAM match on screen), G8 FMV logo (MOVIE0/1.STR re-encode or leave as
-     logo art). Zoomed cold-boot shot of each, incl. chapter cards, game over, credits (warps: debug-tool gaps).
+  3. Graphics text (docs/re/graphics.md): G1-G3, G5, G6, G8 done (session 7). Left: G4 appendix room (needs a
+     cleared-game card save), G7 identify (MAP pair 575, see session 7), game over screen (warp: debug-tool gap).
   4. Text coverage: msgforce.lua looping trigger, then `textcover.py work/qa/cov build/strings.tsv` exit 0 (or
      waive with reasons).
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
@@ -225,9 +240,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   directly (`SCENE='scene N'`) run on the New Game map unless area/sub is given; correct maps per scene need a
   full VM parse (op lengths partly known).
 - **Open bugs:** none. (The message-speed config option no longer does anything: text prints a page at a time.)
-- **Waiting on the user:** (not blocking) allow running jPSXdec (`java -jar tools/jpsxdec/jpsxdec_v2.1-beta/jpsxdec.jar`,
-  github.com/m35/jpsxdec v2.1) for G8, the FMV logo subtitle: the auto-mode check refused it as a fresh download.
-  Until then G8 stays as is; everything else continues.
+- **Waiting on the user:** nothing (jPSXdec ran fine in session 7).
 - **Engine notes:** pair coding costs ~1 byte per English letter (JP: 2 bytes per character), so sections grow
   roughly by the English/JP character ratio / 2. Scene entries are packed back-to-back in RAM: find the
   allocator/cap before English text grows them. The dialogue box takes ~50 English characters per line.

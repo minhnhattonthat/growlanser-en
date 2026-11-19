@@ -118,6 +118,9 @@ def patches(disc, mode, qa=None):
     files = dict(_patched[mode])
     if disc == 2:
         files["SLPS_023.81"] = files.pop("SLPS_023.80")
+    elif mode == "en" and not qa:  # the FMVs are on disc 1 only (G8: logo subtitle removed, tools/fmvlogo.py)
+        import fmvlogo
+        files.update(fmvlogo.patched())
     return files
 
 

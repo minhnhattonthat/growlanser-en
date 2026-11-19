@@ -37,6 +37,12 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   names, 36 entries Tippi..Wenzel) in the atlas Latin font above the kept romanized actor line; closing lines ->
   "Developed by CARRIER SOFT" / "Copyright ATLUS / CARRIER SOFT" / "Produced by ATLUS"; (c) line keeps "(c)ATLUS／"
   and "1999", CARRIER SOFT in small caps cut from actor lines. In game: work/qa/g5/credits (f012000-f027000).
+- G8 FMV logo (session 7): MOVIE0.STR (disc 1 only; 1621 frames, 15 fps) frames ~764-824 (logo over clouds, then
+  a zoom into white) and MOVIE1.STR frames ~1516-1557 (zoom out of white, fade). `tools/fmvlogo.py` finds the bar
+  line per frame, masks the subtitle (redder than the row's background right of it, plus its grey drop shadow),
+  fills it from that row background + a little diffusion, and re-encodes only that rect with jPSXdec
+  `partial-replace` (tools/jpsxdec, Java). build.py adds the two STRs to disc 1 (`fmvlogo.patched()`, cached in
+  work/fmv/en). Before/after frames: work/fmv/en/MOVIE{0,1}/orig vs fNNNN.png.
 - G6: the atlas is loaded with the credits (VRAM 768,256) but never drawn: every credits frame of the JP and English
   runs (work/qa/ending2, work/qa/g5) shows only the pages. No visible Japanese; left as is.
 
