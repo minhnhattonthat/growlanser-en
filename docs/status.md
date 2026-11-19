@@ -7,6 +7,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase 8 session 9 (2026-11-19): game over.** Warp `gameover` (tools/debug/kill.lua holds hero HP at 1 in the
   tutorial battle; warp.lua route step `N key*R/IDLE` = custom idle between presses). Game over art is English in
   the original (docs/re/graphics.md, docs/re/debug.md "Game over"); shot work/qa/go2/gameover. No build change.
+  G4 appendix room partly reached (docs/re/debug.md "Appendix room"): clear save fixture work/states/clear.mcd,
+  tools/debug/appendix.lua opens the room (GL chips label visible), but the room takes no input and exits after
+  ~200 frames (JP too). Left: SCEN 245 script for its input/exit, then redraw G4 (MSYS ~0x7C000-0x84000).
   Sessions 8 and 9 were cut short by an account hold (2026-11-19 02:09 and 04:05 UTC), probably from many parallel
   Orca worker sessions: run one worker at a time, no fan-out agents, until that's clear.
 - **Phase 8 session 8 (2026-11-19): G7.** G7 = Rosaria's LLM magic class tutorial status picture (MAP pair 575),

@@ -93,6 +93,22 @@ Older notes:
   Circle every 66 frames (`6 circle*250/60`): at every 36 frames the hero kills the Gel before it hits.
   Game over at ~f9500, still up at f11000.
 
+## Appendix room (G4, phase 8 session 9, unsolved)
+- Clear save fixture: `credits` warp on disc 2 with `--sav tools/pcsx/memcard1.mcd --state-every 3000` runs to
+  "fin" (~f30300), then クリアデータをセーブしますか？ -> slot list -> OK/CANCEL box (CANCEL default). From the f30000
+  state, route `6 up;30 -;6 circle;60 -` x25 saves it (work/qa/clear3/memcard1.mcd -> work/states/clear.mcd, slot 1
+  "ＰＬＡＹＥＲ"). The emulator runs this stretch slowly: ~31k frames took >5000 s.
+- A clear save alone still shows "Now Closing". Unlock flags (PS cheat codes, ds-cheat.boy.jp): GL chips cards
+  0x801144D4-D6, music mode 0x801144DA, event CGs 0x801144E4-E7; also 0x801144FD. 0x800AD544 copies them from the
+  save data (+0x50, +0x44, +0x54, +0x45) on APPENDIX. `tools/debug/appendix.lua` holds them: the room then shows four
+  awake Gels and the label "GLチップスカード入れ (非売品)" (top-left cursor), e.g. work/qa/apx10 f2160.
+- The room ignores every pad button (d-pad, Circle, Start, L/R...) and returns to the title ~200 frames after it
+  appears, on the JP disc too (work/qa/apx_jp), so it is not a patch bug. It loads SCEN entry 245 (f2054) and entry
+  143 into the MSYS buffer 0x80141778 (f2104): the room is script-driven. Next: read SCEN 245's script
+  (tools/scendump.py) for the input/exit logic, or find the cursor variable and poke it to show the other labels.
+- Title warps: `pick 2` fires before the title menu takes input (it opens LOAD); the title_appendix route recovers
+  with cross / down / circle.
+
 ## Emulator notes
 - `--debugger` runs (exec/write hooks) stall after a while on scene loads; use them only for short traces.
 - Loading a savestate taken mid-scene hung at the next CD read (probably the same voice wait); warp from a cold
