@@ -106,6 +106,11 @@ Older notes:
   appears, on the JP disc too (work/qa/apx_jp), so it is not a patch bug. It loads SCEN entry 245 (f2054) and entry
   143 into the MSYS buffer 0x80141778 (f2104): the room is script-driven. Next: read SCEN 245's script
   (tools/scendump.py) for the input/exit logic, or find the cursor variable and poke it to show the other labels.
+- Session 10: the save data at memory card block +0x200 is what 0x800AD544 reads (a0; +0x44 music, +0x45 cleared
+  = gp+0xC21, +0x50 cards, +0x54 CGs). Editing those bytes makes the save 破損データ (a checksum, not a plain byte /
+  u16 / u32 sum over block ranges; a normal in-game save doesn't write these flags, so the game can't fix it). Same
+  effect without the checksum: set the flags once right after the copy (exec hook 0x800AE77C, debugger run); the
+  room still exits after ~200 frames and ignores input, so holding the flags every frame was not the cause.
 - Title warps: `pick 2` fires before the title menu takes input (it opens LOAD); the title_appendix route recovers
   with cross / down / circle.
 

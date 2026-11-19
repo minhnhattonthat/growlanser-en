@@ -55,6 +55,12 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   Dialogue scen001.0178/0179 quotes the grid labels (VITAL, DRAIN, NULL, HALF, EVEN, WEAK). In game: work/qa/g7en.
 - G6: the atlas is loaded with the credits (VRAM 768,256) but never drawn: every credits frame of the JP and English
   runs (work/qa/ending2, work/qa/g5) shows only the pages. No visible Japanese; left as is.
+- G4 (session 10): appendix room labels, MSYS 0x70000 + row*256 (8bpp; room VRAM x 896, y row+88). OMAKE/1
+  "GL CARDS" + "(PROMO)", OMAKE/2 "VISUAL ROOM" (D16), built by `tools/appendixgfx.py` from the sheet's own
+  letters (G, L kept; C A S from CV MESSAGE, R from MUSIC ROOM scaled to their height, D = mirrored C + stem, P R O M
+  from "AORI's APPENDIX ROOM", parens from (非売品); ROOM from MUSIC ROOM). Letter = inner fill (index < 0x60) plus
+  its nearest ring pixels; 222 = black outline. In game (OMAKE/1 only, the room takes no input): work/qa/g4 f2200.
+  OMAKE/2 checked offline only (`appendixgfx.py OUT.png SHOT.png`, palette voted from a JP room shot).
 
 ## G1 title layout (phase 8 session 3, 2026-11-19)
 - MAP.DAT entry 1160 (4 KB) tail at 0xAE4: 4 upload records (u16 ?, ?, VRAM x, VRAM y, width in bytes, rows):

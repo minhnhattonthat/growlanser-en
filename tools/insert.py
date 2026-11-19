@@ -23,6 +23,7 @@ import dictenc  # noqa: E402
 import enfont  # noqa: E402
 import credits  # noqa: E402
 import statusgfx  # noqa: E402
+import appendixgfx  # noqa: E402
 import title  # noqa: E402
 import tutorialgfx  # noqa: E402
 import extract  # noqa: E402
@@ -454,6 +455,7 @@ def patched(mode="en", tree=TREE, overrides=None, log=None):
     heap = msys_text(msys, exe, sub, limit, log)
     if mode != "jp":
         statusgfx.patch(msys, log)  # G2/G3 status-screen resistance labels and element icons
+        appendixgfx.patch(msys, log)  # G4 appendix room labels
     dict_info = exe_heap(exe, tables, enc.dict, model, log) if tables else (0, 0, 0, 0)
     out = {"SCEN.DAT": scen_dat(scen, sections, strict=mode == "en" and not overrides), "MSYS.DAT": bytes(msys)}
     gen.update(zip(("DICT_TAB", "DICT_BASE", "DICT_N", "MSYS_MODEL"), dict_info), HEAP_BASE=heap)
