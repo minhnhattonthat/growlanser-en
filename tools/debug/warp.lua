@@ -92,10 +92,10 @@ L.on_frame(function(f)
         for _ = 1, tonumber(k) do press("down", 6); press("-", 24) end
         press("circle", 6); press("-", 120)
       else
-        local n, keys, rep = step:match("^%s*(%d+)%s+([%w%+%-]+)%*?(%d*)%s*$")
+        local n, keys, rep, idle = step:match("^%s*(%d+)%s+([%w%+%-]+)%*?(%d*)/?(%d*)%s*$")
         assert(n, "bad route step: " .. step)
-        if rep ~= "" then  -- "6 circle*20": press, 30 frames idle, 20 times
-          for _ = 1, tonumber(rep) do press(keys, tonumber(n)); press("-", 30) end
+        if rep ~= "" then  -- "6 circle*20": press, 30 frames idle, 20 times; "6 circle*20/60": 60 frames idle
+          for _ = 1, tonumber(rep) do press(keys, tonumber(n)); press("-", tonumber(idle) or 30) end
         else press(keys, tonumber(n)) end
       end
     end

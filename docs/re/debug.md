@@ -85,6 +85,14 @@ Older notes:
 - Title LOAD and APPENDIX bounce back to the title without save data on the card: needs a memory card fixture
   (save from a warp: menu_save) and `--sav`.
 
+## Game over (warp `gameover`, phase 8 session 9)
+- Unit records 0x801929CC + k*0xE4 (k 0 = hero), x/y +0x2C/+0x2E, HP +0x30, max HP +0x32 (tutorial battle RAM
+  dumps: HUD 26 -> 23 on a Gel hit). The records at 0x80192AB0 are another copy: poking them does nothing.
+- HP 0 by poke alone ends nothing: the death check runs on a hit. `tools/debug/kill.lua` holds the hero's HP at 1
+  from KILL_AT; the tutorial battle (check menu 6 / 0) needs the walk left (240 + 900 frames) to meet the Gel, and
+  Circle every 66 frames (`6 circle*250/60`): at every 36 frames the hero kills the Gel before it hits.
+  Game over at ~f9500, still up at f11000.
+
 ## Emulator notes
 - `--debugger` runs (exec/write hooks) stall after a while on scene loads; use them only for short traces.
 - Loading a savestate taken mid-scene hung at the next CD read (probably the same voice wait); warp from a cold

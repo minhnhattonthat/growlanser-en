@@ -102,5 +102,7 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
 ## Still open (needs the phase 2 debug tool; re-check in the phase 8 tour)
 - FMV MOVIE0/1.STR (anime, 2336-byte sectors -> `str2352.py` -> ffmpeg): frames every 3 s in work/fmv, codex pass
   found only G8; other captions are English. A 3 s sampling can miss short captions: watch both in full in phase 8.
-- Mid-game screens not reached yet: game over, chapter/area cards, ending, credits, appendix room. Their art is in
+- Game over (warp `gameover`, session 9): "GAMEOVER / STAND AGAIN.. PRESS START BUTTON." is English art in the
+  original: nothing to redraw (zoomed shot work/qa/go2/gameover f011000).
+- Mid-game screens not reached yet: chapter/area cards, appendix room (ending, credits done). Their art is in
   MAP.DAT / MSYS.DAT, which the sweep covered, but confirm each on screen by warping (phase 2 scene list).

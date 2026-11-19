@@ -83,6 +83,8 @@ bt_glengar       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 10;6 c
 bt_medis         scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 11;6 circle*60
 bt_fake_brother  scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 12;6 circle*60
 bt_bernard       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 13;6 circle*60
+# "kill F": tools/debug/kill.lua holds the hero's HP at 1 from frame F, so the next hit loses the battle
+gameover         scene 18 area 2 sub 1 frames 11000 kill 4200 then 300 -;pick 6;pick 0;6 circle*60;240 left;120 -;900 left;300 -;6 circle*250/60
 
 # dungeons: dbg 5 -> list
 dn_mystery       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 0;6 circle*60

@@ -2,8 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 8: G7 done; next: game over screen, G4, text coverage,
-  then re-tour for the gate).
+- **Phase:** 8. QA in the emulator, in progress (session 9: game over done; next: G4, text coverage, then re-tour
+  for the gate).
+- **Phase 8 session 9 (2026-11-19): game over.** Warp `gameover` (tools/debug/kill.lua holds hero HP at 1 in the
+  tutorial battle; warp.lua route step `N key*R/IDLE` = custom idle between presses). Game over art is English in
+  the original (docs/re/graphics.md, docs/re/debug.md "Game over"); shot work/qa/go2/gameover. No build change.
+  Sessions 8 and 9 were cut short by an account hold (2026-11-19 02:09 and 04:05 UTC), probably from many parallel
+  Orca worker sessions: run one worker at a time, no fan-out agents, until that's clear.
 - **Phase 8 session 8 (2026-11-19): G7.** G7 = Rosaria's LLM magic class tutorial status picture (MAP pair 575),
   English via tools/tutorialgfx.py (docs/re/graphics.md "Done"); new warp `tut_status` (scenes.txt `jump` keyword,
   tools/debug/vmjump.lua); tools/debug/maplog.lua, tools/spritesrc.py (dither-tolerant pixel -> texel mapper, slow;
@@ -136,8 +141,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   1b. (done session 6: `ending`, `credits` warps.) Still open: the cleared-game flag (G4 appendix room); try a card
      save taken after the `credits` warp finishes (the game may offer a clear save after the staff roll).
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
-  3. Graphics text (docs/re/graphics.md): G1-G3, G5-G8 done (session 8). Left: G4 appendix room (needs a
-     cleared-game card save), game over screen (warp: debug-tool gap). Session 8: bt_medis left idle for 24000
+  3. Graphics text (docs/re/graphics.md): G1-G3, G5-G8, game over done (session 9). Left: G4 appendix room (needs a
+     cleared-game card save), chapter/area cards (check on screen). Session 8: bt_medis left idle for 24000
      frames never ends (work/qa/go1): find the party's HP in RAM (ramsearch.py on a bt_* warp, damage taken
      between two dumps) and poke it to 0 in a probe; or find the game-over request (an area 84/85 pair, or a
      scene id) by its loader.

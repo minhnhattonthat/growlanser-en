@@ -7,7 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools" / "debug"))
 
-STEP = re.compile(r"^\s*(pick\s+\d+|\d+\s+[\w+\-]+(\*\d+)?)\s*$")  # mirrors warp.lua's route parser
+STEP = re.compile(r"^\s*(pick\s+\d+|\d+\s+[\w+\-]+(\*\d+(/\d+)?)?)\s*$")  # mirrors warp.lua's route parser
 
 
 class ScenesTxt(unittest.TestCase):
