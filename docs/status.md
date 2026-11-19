@@ -2,8 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 9: game over done; next: G4, text coverage, then re-tour
-  for the gate).
+- **Phase:** 8. QA in the emulator, in progress (session 11: graphics + coverage done; next: re-tour for the gate).
+- **Phase 8 session 11 (2026-11-20): G5b + "morth".** (a) G5b done: credits cast line now "Player / PLAYER"
+  (D17: default hero name kept full-width ＰＬＡＹＥＲ via KEEP_JP; atlas block lettered, credits.py player_label;
+  graphics.md G5b; shot work/qa/g5b/run f011400). Hero name now shows in full-width glyphs everywhere (as a typed
+  name does): the re-tour covers it. (b) "morth" = the caption box mid-open (box + text scaled narrower), not a
+  bug: current build at the settled frame reads "month" (work/qa/morth f004080); added to the vqa brief's
+  non-bugs. Build disc 1 e694af15c932ebf8ba05bef2b2159ad5408d80d7, disc 2 T1
+  48411bb39e1a56bbbd2f9b6ae8f18815fa9b7f88. **Next:** re-tour (build changed; add tut_status), `qa_gate init`,
+  vqa one chunk at a time (plugin visual-qa agents; codex out until 2026-11-26), then the phase 8 gate list.
 - **Phase 8 session 10b (2026-11-20): text coverage.** `tools/debug/cover.py` (host mode, docs/re/debug.md "Text
   coverage"): every scene string through the real printer, `textcover.py work/qa/cov build/strings.tsv --waive
   docs/text_unshown.tsv` exit 0; EXE/MSYS table strings waived on new test test_exe_getters + test_msys_getters.
@@ -14,7 +21,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   one chunk at a time (5 chunks): 41 ok, 11 issue. Fixed (build 1271385f, work/qa/fix6): tag "LLM Magic Class
   Instructor" lost "LL" on the tut_status screen -> "LLM Magic Instructor" (6 scenes); scen088.0021 indent/break;
   scen232.0004 page break mid-sentence; credits cast names stamped at column <= 254 (page column 255 not shown:
-  "Barc", "Oswalc"). **Open:** (a) G5b credits "プレイヤー／" + player name (graphics.md "G5b"); (b) popup caption
+  "Barc", "Oswalc"). Open then (both closed in session 11): (a) G5b credits "プレイヤー／" + player name (graphics.md "G5b"); (b) popup caption
   "One month later..." shows "morth": the n of pair "nt" loses its right stem in the popup only (vwfemu draws it
   right, canvas split col 12, x 0; dialogue "month" fine): find where the popup canvas loses a texel column.
   Then: re-tour (build changed), qa_gate init, verdicts.

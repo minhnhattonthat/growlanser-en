@@ -71,6 +71,9 @@ def is_title(e):
 KEEP_JP = {"exe.sys.%04d" % i for i in range(5)}  # single punctuation, maybe kinsoku data (not drawn as text)
 # Name-entry keyboard grids: one code per key, the key's code is what the name gets (D14)
 KEEP_JP |= {"exe.sys.%04d" % i for i in range(70, 100)}
+# Default hero name ＰＬＡＹＥＲ: a typed name is full-width codes too (D14), and the credits player line and the
+# name-entry field take one code per letter; English pairs drew nothing there (D17)
+KEEP_JP |= {"exe.names.0000", "exe.units.0000"}
 # exe.sys.0069 (name-entry title + labels) is printed as one line and cut into fixed pixel slices: title 60 px,
 # blank 12, then 24 px per label. English: "Title　Label Label ..", each field centred in its slice (Encoder.slots).
 SLOTS = {"exe.sys.0069": (60, 12, 24, 24, 24, 24, 24)}

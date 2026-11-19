@@ -58,7 +58,7 @@ class TestCredits(unittest.TestCase):
         self.assertEqual(bytes(b), body)  # 4bpp unpack/pack round-trip
         credits.edit(b, rs)  # asserts 36 cast lines found
         changed = {i for i, r in enumerate(rs) if credits.page_indices(b, r) != credits.page_indices(body, r)}
-        self.assertEqual(changed, {2, 3, 4, 5, 6, 7, 16})
+        self.assertEqual(changed, {2, 3, 4, 5, 6, 7, 16, 18})  # 18 = atlas, "Player /" block
 
     def test_typeset_width(self):
         import credits

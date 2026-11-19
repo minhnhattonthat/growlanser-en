@@ -53,8 +53,7 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   names from exe.items in the English font with a shadow, the grid = statusgfx art at the real screen's place;
   "Thick Clothes" needs one more cell: (9,10) shares (8,10)'s now-transparent cell, its own goes to (7,11).
   Dialogue scen001.0178/0179 quotes the grid labels (VITAL, DRAIN, NULL, HALF, EVEN, WEAK). In game: work/qa/g7en.
-- G6: the atlas is loaded with the credits (VRAM 768,256) but never drawn: every credits frame of the JP and English
-  runs (work/qa/ending2, work/qa/g5) shows only the pages. No visible Japanese; left as is.
+- G6: the atlas is loaded with the credits (VRAM 768,256); only the cast's player line draws from it (G5b).
 - G4 (session 10): appendix room labels, MSYS 0x70000 + row*256 (8bpp; room VRAM x 896, y row+88). OMAKE/1
   "GL CARDS" + "(PROMO)", OMAKE/2 "VISUAL ROOM" (D16), built by `tools/appendixgfx.py` from the sheet's own
   letters (G, L kept; C A S from CV MESSAGE, R from MUSIC ROOM scaled to their height, D = mirrored C + stem, P R O M
@@ -112,11 +111,11 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   original: nothing to redraw (zoomed shot work/qa/go2/gameover f011000).
 - Mid-game screens not reached yet: chapter/area cards, appendix room (ending, credits done). Their art is in
   MAP.DAT / MSYS.DAT, which the sweep covered, but confirm each on screen by warping (phase 2 scene list).
-- G5b credits player line (open, tour 5 vqa): under CAST the game draws "プレイヤー／" + the player's name at run
-  time from the atlas page 18 (MAP.DAT 1257 record 18: kana, Latin, and a ready "プレイヤー／" cell on row 7 right
-  of ゴ); not printer text (textlog, RAM search find nothing). EN shows "プレイヤー／" and no name (the name is pair
-  codes; the credits typesetter maps single codes to atlas cells). Fix: letter "Player /" over that atlas cell, and
-  find the typesetter (it reads the name buffer 0x8019431A) to expand pair codes into two Latin codes.
+- G5b credits player line (done, session 11): under CAST the game draws "プレイヤー／" + the player's name at run
+  time from the atlas page 18 (MAP.DAT 1257 record 18: kana, Latin, and a ready "プレイヤー／" block on cell row 10,
+  ink x 120-194); not printer text. So G6 IS drawn, for this line only. The name vanished because the default
+  name was English pair codes (the typesetter maps one code to one cell): default kept full-width ＰＬＡＹＥＲ (D17),
+  block lettered "Player /" (`credits.py` player_label). In game: work/qa/g5b/run f011400 "Player / PLAYER".
   Session 10b: no chapter-card art exists in the sweeps; area names are the place popup (font text, English,
   work/qa/bern). The other place-getter caller (0x8009D448, fn ~0x8009D308) is the name-entry check: it compares
   the typed name with every names / places string (rejects a clash), it draws nothing. So the world map's place

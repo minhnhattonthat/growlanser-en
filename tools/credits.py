@@ -171,7 +171,21 @@ def edit(body, rs):
     copyright_line(strip, small, jp[3])
     for k, p in enumerate(STRIP):
         put_indices(body, rs[p], strip[k * h:(k + 1) * h])
+    player_label(body, rs, glyphs)
     return strip
+
+
+# Atlas cells プレイヤー／ (row 10, ink x 120-194): the cast's player line draws them as one block, the name after it.
+PLAYER = (120, 120, 76)  # x, y, width
+
+
+def player_label(body, rs, glyphs):
+    a = page_indices(body, rs[ATLAS_PAGE])
+    x, y, w = PLAYER
+    for row in a[y:y + 12]:
+        row[x:x + w] = [BG] * w
+    stamp(a, typeset(glyphs, "Player /"), x + w - 3, y + BASE, BG)  # slash ends where the JP ／ did
+    put_indices(body, rs[ATLAS_PAGE], a)
 
 
 # Small caps (the 7-row romanized actor font) harvested from cast actor lines: (cast index, the line's text).
@@ -225,11 +239,15 @@ def patch(map_dat, log=None):
     head, old = dat.entry(map_dat, 1256), bytes(dat.entry(map_dat, 1257))
     new = bytearray(old)
     edit(new, records(head))
-    if log is not None:  # pages 2-16 only (tools/allowed.txt)
+    if log is not None:  # pages 2-16 and the atlas page 18 only (tools/allowed.txt)
         rs = records(head)
-        lo, hi = rs[STRIP[0]]["sec"] * SECTOR, (rs[STRIP[-1]]["sec"] + rs[STRIP[-1]]["n"]) * SECTOR
-        assert old[:lo] == new[:lo] and old[hi:] == new[hi:]
-        log.append(("MAP.DAT", off + lo, old[lo:hi], bytes(new[lo:hi]), "credits.patch"))
+        spans = [(rs[STRIP[0]], rs[STRIP[-1]]), (rs[ATLAS_PAGE], rs[ATLAS_PAGE])]
+        spans = [(a["sec"] * SECTOR, (b["sec"] + b["n"]) * SECTOR) for a, b in spans]
+        kept = bytearray(new)
+        for lo, hi in spans:
+            kept[lo:hi] = old[lo:hi]
+            log.append(("MAP.DAT", off + lo, old[lo:hi], bytes(new[lo:hi]), "credits.patch"))
+        assert kept == old
     map_dat[off:off + len(new)] = new
 
 

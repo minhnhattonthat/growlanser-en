@@ -38,3 +38,4 @@ MSYS.DAT    24B800-FFFFFF  text subfiles 6/7 moved past the original end
 MAP.DAT     62C8800-62E27FF  entries 1150/1151: magic class tutorial picture, tilemap words + texture (tools/tutorialgfx.py)
 MAP.DAT     635C000-63797FF  entry 1161: English title texture (tools/title.py)
 MAP.DAT     6B9A000-6C11FFF  entry 1257 pages 2-16: English credits cast roles + closing lines (tools/credits.py)
+MAP.DAT     6C14000-6C1BFFF  entry 1257 page 18: atlas cells プレイヤー／ -> "Player /" (tools/credits.py)

@@ -32,6 +32,8 @@ An `issue` is any of:
 
 Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
+- a popup or caption box mid-open: the box and its text are scaled narrower, so a texel column drops out of a
+  letter ("morth" for "month", "Dels'lage" for "Delis Village"); compare the box width with a later frame;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
 - Japanese drawn as graphics that docs/re/graphics.md lists as G1-G8 (title katakana subtitle and キャリアソフト,
