@@ -69,5 +69,25 @@ class TestCredits(unittest.TestCase):
         self.assertEqual(len(rows[0]), len(g["A"][0]) + credits.GAP + len(g["b"][0]))
 
 
+@unittest.skipUnless(MAP.exists(), "unpacked disc not present")
+class TestTutorial(unittest.TestCase):
+    """G7: the original tilemap renders the warp shot's layer, and the English PNG survives apply + render (no texel
+    shared by cells that want different pixels), touching only records 0/1 (the tilemap texture)."""
+
+    def test_render_and_apply(self):
+        import numpy as np
+        from PIL import Image
+        import credits
+        import tutorialgfx as t
+        head, body = t.load()
+        head2 = t.head_en(head)
+        new = t.apply(head2, body, Image.open(t.PNG))
+        self.assertTrue((np.array(t.render(head2, new)) == np.array(Image.open(t.PNG).convert("RGB"))).all())
+        rs = credits.records(head)
+        end = (rs[1]["sec"] + rs[1]["n"]) * credits.SECTOR
+        self.assertEqual(new[end:], body[end:])
+        self.assertNotEqual(new[:end], body[:end])
+
+
 if __name__ == "__main__":
     unittest.main()

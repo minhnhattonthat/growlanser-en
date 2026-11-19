@@ -91,6 +91,11 @@ dn_featherian    scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 2;6 ci
 dn_forest_ruins  scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 3;6 circle*60
 dn_waterfall     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 4;6 circle*60
 
+# "jump E:0xOFF": tools/debug/vmjump.lua sets the event VM to that offset of SCEN entry E after landing (one handler
+# of the scene, e.g. an NPC's, without walking there). Rosaria's LLM magic class (scene 1, op 76 -> area 85 sub 6 =
+# MAP pair 575, G7): the tutorial status picture, "STATUS画面" callout ~f2040, then the lesson text.
+tut_status       scene 1 jump 281:0x1A6A frames 6500 then 600 -;6 triangle;120 -;6 circle*100
+
 # field menu (from the end of character creation; Select opens it), each top-level item
 menu             scene 18 area 2 sub 1 frames 6000 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -
 menu_bubbles     scene 18 area 2 sub 1 frames 6000 then 300 -;pick 7;pick 1;6 circle*60;6 select;150 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -;6 down;60 -

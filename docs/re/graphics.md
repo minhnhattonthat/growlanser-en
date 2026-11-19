@@ -43,6 +43,16 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   fills it from that row background + a little diffusion, and re-encodes only that rect with jPSXdec
   `partial-replace` (tools/jpsxdec, Java). build.py adds the two STRs to disc 1 (`fmvlogo.patched()`, cached in
   work/fmv/en). Before/after frames: work/fmv/en/MOVIE{0,1}/orig vs fNNNN.png.
+- G7 (session 8): the LLM magic class tutorial in Rosaria (scene 1 op `76 06 55 00` -> area 85 sub 6 -> MAP pair 575
+  via the area table 0x80100A10; warp `tut_status`). A picture of a status screen: entry 1150 = header (CLUTs at
+  0xB0, VRAM rows 480-484; background tilemap 0xF74, words 0x00XX, CLUT 0 = gradient + dark panels; front tilemap
+  0x11CC, 20x15 x 16 px, words 0x2000 | page << 8 | row << 4 | col, CLUT 1, colour 0 transparent; sprite pieces at
+  0xDBC: portrait + magenta highlight frames, tpages 0x87-0x89), entry 1151 = texture (records 0/1 = both tilemaps'
+  cells, every cell in use). Japanese: equipment names (with an opaque 1 px black shadow) and the resistance grid; the
+  "STATUS画面" callout is scene text (scen001.0171). `tools/tutorialgfx.py` (render / draw / check, insert.patched):
+  names from exe.items in the English font with a shadow, the grid = statusgfx art at the real screen's place;
+  "Thick Clothes" needs one more cell: (9,10) shares (8,10)'s now-transparent cell, its own goes to (7,11).
+  Dialogue scen001.0178/0179 quotes the grid labels (VITAL, DRAIN, NULL, HALF, EVEN, WEAK). In game: work/qa/g7en.
 - G6: the atlas is loaded with the credits (VRAM 768,256) but never drawn: every credits frame of the JP and English
   runs (work/qa/ending2, work/qa/g5) shows only the pages. No visible Japanese; left as is.
 

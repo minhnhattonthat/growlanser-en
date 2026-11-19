@@ -33,5 +33,6 @@ SLPS_023.80 EFD08-F120D    font cells 6A0-7CA: asm/vwf.asm code + English font
 MSYS.DAT    9160-BFF7      G2/G3 resistance labels + element icons, x 192-239 of each row (tools/statusgfx.py)
 MSYS.DAT    42800-49FFF    text subfiles 6/7 in place
 MSYS.DAT    24B800-FFFFFF  text subfiles 6/7 moved past the original end
+MAP.DAT     62C8800-62E27FF  entries 1150/1151: magic class tutorial picture, tilemap words + texture (tools/tutorialgfx.py)
 MAP.DAT     635C000-63797FF  entry 1161: English title texture (tools/title.py)
 MAP.DAT     6B9A000-6C11FFF  entry 1257 pages 2-16: English credits cast roles + closing lines (tools/credits.py)

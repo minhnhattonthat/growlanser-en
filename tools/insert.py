@@ -24,6 +24,7 @@ import enfont  # noqa: E402
 import credits  # noqa: E402
 import statusgfx  # noqa: E402
 import title  # noqa: E402
+import tutorialgfx  # noqa: E402
 import extract  # noqa: E402
 import fit  # noqa: E402
 import gltext  # noqa: E402
@@ -461,6 +462,7 @@ def patched(mode="en", tree=TREE, overrides=None, log=None):
         map_dat = bytearray((tree / "MAP.DAT").read_bytes())
         title.patch(map_dat, log)  # G1 title graphics
         credits.patch(map_dat, log)  # G5 ending credits (cast roles, closing lines)
+        tutorialgfx.patch(map_dat, log)  # G7 magic class tutorial status picture
         out["MAP.DAT"] = bytes(map_dat)
     return out
 

@@ -32,6 +32,12 @@ Cold boot; once gp+0x48C = 2 (boot init done), patch the New Game code in RAM (a
 stores NOPed) and hold the request at the wanted scene; press Start through the logos and Circle on the title.
 Landing is tested on RAM (loaded scene and area/sub match), not on a frame count. The scene's script then runs from
 its start, with New Game story flags. No debugger needed (full speed).
+- `jump E:0xOFF` in scenes.txt: `tools/debug/vmjump.lua` (needs --debugger, warp_all adds it) sets the event VM's
+  pointer (a0 at the dispatcher 0x8003AA3C) to that offset of SCEN entry E once, after frame 1600: reaches one
+  handler (an NPC, a shop, a tutorial) without walking. Byte-scan a scene's script for an op to find OFF.
+- MAP pairs: every field/screen map comes from (area, sub) through the table at 0x80100A10 into gp+0x4BA
+  (0x80113D96), loaded by 0x8001DC38 -> 0x80018E58(pair). Area 84/85 = special full screens (tutorial picture
+  85/6 = pair 575, credits 85/16 = 626). `tools/debug/maplog.lua` logs every pair load with its caller.
 
 ## Developers' check menu (scene 18, verified on screen)
 SCEN scene 18 is a leftover debug scene ("ダンジョンマン", "チェック項目を選んで下さい"); scene 0's script links to it

@@ -31,12 +31,16 @@ def scenes():
         name, rest = line.split(None, 1)
         body = rest.split(" then ", 1)[0]
         m = re.search(r"frames\s+(\d+)", body)
+        j = re.search(r"\bjump\s+(\d+):(0x[0-9A-Fa-f]+)", body)
+        if j:
+            JUMP[name] = j.groups()
         out.append((name, int(m.group(1)) if m else 4500, 2 if re.search(r"\bdisc\s+2\b", body) else 1,
                     bool(re.search(r"\bcard\b", body))))
     return out
 
 
 CARD = ROOT / "work" / "states" / "save1.mcd"  # memory card with one save: `warp_all.py card_save` writes it
+JUMP = {}  # name -> (SCEN entry, script offset): "jump E:0xOFF" runs tools/debug/vmjump.lua after landing
 
 
 def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1, card=False):
@@ -62,7 +66,10 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1,
         cmd += ["--sav", str(ROOT / "tools" / "pcsx" / "memcard1.mcd")]
     for p in probes:
         cmd += ["--script", str(Path(p).resolve())]
-    if probes:
+    if name in JUMP:
+        cmd += ["--script", str(ROOT / "tools" / "debug" / "vmjump.lua"), "--var", f"ENTRY={JUMP[name][0]}",
+                "--var", f"OFF={JUMP[name][1]}", "--var", "AT=1600"]
+    if probes or name in JUMP:
         cmd.append("--debugger")  # probes use L.on_exec
     if states:
         cmd += ["--state-out", str(ROOT / "work" / "states" / f"{name}.sstate")]

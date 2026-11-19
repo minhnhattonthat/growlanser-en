@@ -2,8 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 7: G5 credits + G8 FMV logo done; next: G7 / game over,
-  G4, text coverage, then re-tour for the gate).
+- **Phase:** 8. QA in the emulator, in progress (session 8: G7 done; next: game over screen, G4, text coverage,
+  then re-tour for the gate).
+- **Phase 8 session 8 (2026-11-19): G7.** G7 = Rosaria's LLM magic class tutorial status picture (MAP pair 575),
+  English via tools/tutorialgfx.py (docs/re/graphics.md "Done"); new warp `tut_status` (scenes.txt `jump` keyword,
+  tools/debug/vmjump.lua); tools/debug/maplog.lua, tools/spritesrc.py (dither-tolerant pixel -> texel mapper, slow;
+  not needed in the end). scen001.0178/0179 now quote the grid labels. Build disc 1
+  a00e301227a445a1081884bd3b76f64bda5a79eb. Tour gate still stale (build changed).
 - **Phase 8 session 7 (2026-11-19): G5, G6, G8.**
   - G5 credits English (tools/credits.py, docs/re/graphics.md "Done"): 36 cast roles in the game's own Latin atlas
     font over the kept romanized actor lines; "Developed by CARRIER SOFT / Copyright ATLUS / CARRIER SOFT / Produced
@@ -130,8 +135,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   1b. (done session 6: `ending`, `credits` warps.) Still open: the cleared-game flag (G4 appendix room); try a card
      save taken after the `credits` warp finishes (the game may offer a clear save after the staff roll).
   2. (done session 3: inkbox on bubbles, popup, caption; shop/inn when reached)
-  3. Graphics text (docs/re/graphics.md): G1-G3, G5, G6, G8 done (session 7). Left: G4 appendix room (needs a
-     cleared-game card save), G7 identify (MAP pair 575, see session 7), game over screen (warp: debug-tool gap).
+  3. Graphics text (docs/re/graphics.md): G1-G3, G5-G8 done (session 8). Left: G4 appendix room (needs a
+     cleared-game card save), game over screen (warp: debug-tool gap).
   4. Text coverage: msgforce.lua looping trigger, then `textcover.py work/qa/cov build/strings.tsv` exit 0 (or
      waive with reasons).
 - **Phase 8 starts here:** follow the skill's phase 8 (tour routes through changed scenes via the debug tool,
