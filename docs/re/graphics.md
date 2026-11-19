@@ -112,3 +112,7 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   original: nothing to redraw (zoomed shot work/qa/go2/gameover f011000).
 - Mid-game screens not reached yet: chapter/area cards, appendix room (ending, credits done). Their art is in
   MAP.DAT / MSYS.DAT, which the sweep covered, but confirm each on screen by warping (phase 2 scene list).
+  Session 10b: no chapter-card art exists in the sweeps; area names are the place popup (font text, English,
+  work/qa/bern). The world map (MSYS 0x30000, place names English in the original art) is the other place-getter
+  caller: 0x8009D448 in fn 0x8009D30C, which has no jal or pointer ref (called through a computed pointer), and
+  warps to area 0/1 sub 0 land in towns. Not seen on screen; reach it in the re-tour by playing out of a town.

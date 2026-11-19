@@ -8,7 +8,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   coverage"): every scene string through the real printer, `textcover.py work/qa/cov build/strings.tsv --waive
   docs/text_unshown.tsv` exit 0; EXE/MSYS table strings waived on new test test_exe_getters + test_msys_getters.
   Build extract for cover.py: `dumpsxiso -x work/qa/btree/tree -s work/qa/btree/layout.xml <build cue>`
-  (rerun after each build). Next: item 3 chapter/area cards, then the re-tour (add tut_status) + qa_gate init + vqa.
+  (rerun after each build). Item 3: no chapter-card art; world map not reached (docs/re/graphics.md "Still open").
+  Next: the re-tour (add tut_status, try the world map by leaving a town) + qa_gate init + vqa.
 - **Phase 8 session 10 (2026-11-19): G4 done.** Appendix room labels English (tools/appendixgfx.py, D16, docs/re/
   graphics.md "G4"): "GL CARDS (PROMO)", "VISUAL ROOM" from the sheet's own letters. In game OMAKE/1 at work/qa/g4
   f2200 (title_appendix warp + clear.mcd + one-shot flag hook, docs/re/debug.md "Appendix room"); OMAKE/2 offline
