@@ -204,6 +204,33 @@ class English(unittest.TestCase):
         self.assertEqual(len(slots), ins.MSYS_NSLOT)
         self.assertEqual(len(seen), sum(len(extract._refs_parse(d["refs"])) for d in docs.values()))
 
+    def test_exe_getters(self):
+        """Run the game's ten EXE string getters under unicorn on the built EXE for every index: each returns its
+        entry's `en` words (text coverage waives these tables on this test, docs/text_unshown.tsv)."""
+        import vwfemu
+        exe, ins = self.out[self.insert.EXE], self.insert
+        emu, enc = vwfemu.Emu(exe), ins.Encoder("en")
+        getters = {"sys": 0x80070C04, "names": 0x80070C38, "units": 0x80070CB4, "items": 0x80070D30,
+                   "magic": 0x80070D7C, "skills": 0x80070DC8, "classes": 0x80070E14, "places": 0x80070E60,
+                   "dict": 0x80071004, "help": 0x80071050}
+        ram = {("names", 0), ("names", 0x10), ("names", 0x131), ("units", 0), ("units", 0x10), ("units", 0x131),
+               ("places", 6)}  # these slots return RAM buffers (player / custom names), docs/re/text.md
+        n = 0
+        for doc in ins.docs():
+            if doc["file"] != "SLPS_023.80" or doc.get("form") != "table":
+                continue
+            name = doc["entries"][0]["id"].split(".")[1]
+            for k, (i, d) in enumerate(extract._refs_parse(doc["refs"])):
+                if (name, k) in ram:
+                    continue
+                e = doc["entries"][i]
+                want = enc.words(e)[d:] + [extract.TERM_W[e["term"]]]
+                p = emu.call(getters[name], k)
+                got = list(struct.unpack_from("<%dH" % len(want), emu.read(p, 2 * len(want))))
+                self.assertEqual(got, want, "%s %d" % (e["id"], k))
+                n += 1
+        self.assertGreater(n, 1500)
+
 
 if __name__ == "__main__":
     unittest.main()

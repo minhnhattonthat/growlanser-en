@@ -4,6 +4,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** 8. QA in the emulator, in progress (session 9: game over done; next: G4, text coverage, then re-tour
   for the gate).
+- **Phase 8 session 10b (2026-11-20): text coverage.** `tools/debug/cover.py` (host mode, docs/re/debug.md "Text
+  coverage"): every scene string through the real printer, `textcover.py work/qa/cov build/strings.tsv --waive
+  docs/text_unshown.tsv` exit 0; EXE/MSYS table strings waived on new test test_exe_getters + test_msys_getters.
+  Build extract for cover.py: `dumpsxiso -x work/qa/btree/tree -s work/qa/btree/layout.xml <build cue>`
+  (rerun after each build). Next: item 3 chapter/area cards, then the re-tour (add tut_status) + qa_gate init + vqa.
 - **Phase 8 session 10 (2026-11-19): G4 done.** Appendix room labels English (tools/appendixgfx.py, D16, docs/re/
   graphics.md "G4"): "GL CARDS (PROMO)", "VISUAL ROOM" from the sheet's own letters. In game OMAKE/1 at work/qa/g4
   f2200 (title_appendix warp + clear.mcd + one-shot flag hook, docs/re/debug.md "Appendix room"); OMAKE/2 offline
@@ -154,8 +159,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
      frames never ends (work/qa/go1): find the party's HP in RAM (ramsearch.py on a bt_* warp, damage taken
      between two dumps) and poke it to 0 in a probe; or find the game-over request (an area 84/85 pair, or a
      scene id) by its loader.
-  4. Text coverage: msgforce.lua looping trigger, then `textcover.py work/qa/cov build/strings.tsv` exit 0 (or
-     waive with reasons). Plan (session 8, not started): in msgforce, remember the dispatcher's a0 (0x8003AA3C) at
+  4. Text coverage: done session 10b (see top). Old plan, kept for reference (session 8): in msgforce, remember the dispatcher's a0 (0x8003AA3C) at
      the last dispatch before the first forced printer call = the message op; when that thread resumes (first
      dispatch with a0 just past the op), set a0 back to the op, so mashing Circle prints every message of the
      section through the real printer (vmjump.lua shows the a0 write works). Run per scene (`warp_all.py --raw`,

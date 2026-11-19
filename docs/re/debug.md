@@ -114,6 +114,19 @@ Older notes:
 - Title warps: `pick 2` fires before the title menu takes input (it opens LOAD); the title_appendix route recovers
   with cross / down / circle.
 
+## Text coverage (tools/debug/cover.py, phase 8 session 10)
+- `msgforce.lua` replaces each scene-message printer call with the next message of the section and loops the VM on
+  the op that printed it (LOOP), so mashing Circle shows the whole section. Warping to `scene N` directly fails for
+  most scenes: the init script ends before any message and the field waits for the player (VM idle, nothing to
+  loop), or the scene hangs on the default map (area 2 sub 5; 128 of 280 timed out).
+- Host mode (HOST='file', what cover.py uses): warp to scene 0 only, copy scene N's strings one at a time into scene
+  0's text area (after its offset table; speaker strings 0x1000 further) and point the printer there. All 245
+  scenes with text done (scene 18 and 279 need ~10 reruns: stalls on wait/choice codes). Proves the printer read
+  every scene string, not how it looks in its own scene (visual QA).
+- EXE/MSYS table strings: menus call the getters a handful of times per screen (empty inventory at New Game), so
+  forcing getter indices (tried: probe on the jr ra, v0 set in the delay slot) walks almost nothing. Waived in
+  docs/text_unshown.tsv on tests test_exe_getters / test_msys_getters (getters under unicorn, every index).
+
 ## Emulator notes
 - `--debugger` runs (exec/write hooks) stall after a while on scene loads; use them only for short traces.
 - Loading a savestate taken mid-scene hung at the next CD read (probably the same voice wait); warp from a cold
