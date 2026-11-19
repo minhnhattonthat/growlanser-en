@@ -112,7 +112,13 @@ sheets + index.tsv), `tools/vramsrc.py` (find a VRAM rectangle's rows in disc fi
   original: nothing to redraw (zoomed shot work/qa/go2/gameover f011000).
 - Mid-game screens not reached yet: chapter/area cards, appendix room (ending, credits done). Their art is in
   MAP.DAT / MSYS.DAT, which the sweep covered, but confirm each on screen by warping (phase 2 scene list).
+- G5b credits player line (open, tour 5 vqa): under CAST the game draws "プレイヤー／" + the player's name at run
+  time from the atlas page 18 (MAP.DAT 1257 record 18: kana, Latin, and a ready "プレイヤー／" cell on row 7 right
+  of ゴ); not printer text (textlog, RAM search find nothing). EN shows "プレイヤー／" and no name (the name is pair
+  codes; the credits typesetter maps single codes to atlas cells). Fix: letter "Player /" over that atlas cell, and
+  find the typesetter (it reads the name buffer 0x8019431A) to expand pair codes into two Latin codes.
   Session 10b: no chapter-card art exists in the sweeps; area names are the place popup (font text, English,
-  work/qa/bern). The world map (MSYS 0x30000, place names English in the original art) is the other place-getter
-  caller: 0x8009D448 in fn 0x8009D30C, which has no jal or pointer ref (called through a computed pointer), and
-  warps to area 0/1 sub 0 land in towns. Not seen on screen; reach it in the re-tour by playing out of a town.
+  work/qa/bern). The other place-getter caller (0x8009D448, fn ~0x8009D308) is the name-entry check: it compares
+  the typed name with every names / places string (rejects a clash), it draws nothing. So the world map's place
+  names are only its art (MSYS 0x30000, English in the original); not seen on screen (warps to area 0/1 sub 0 land
+  in towns).

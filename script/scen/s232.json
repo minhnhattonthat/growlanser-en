@@ -33,7 +33,7 @@
   {
    "id": "scen232.0004",
    "jp": "敵が目前に迫ってきたよ！{p}{FC00}いよいよ攻撃が始まるけど、{n}気を付けておきたいのはＨＰかな？{p}ふだん、画面下に数字とメーターが出てると思うけど{n}左上の数字がＨＰ、右下がＭＰ。{n}んで下のメーターは‥‥、後で説明するわ。{p}{FC02}ＨＰが０になると、そいつの負け。{n}今はアンタしかいないから、{n}アンタのＨＰが０になったら、ゲームオーバーだよ。{p}{FC00}危なくなったら、アイテムの『{FFEF}回復薬{FFF1}』なんかを{n}使うといいわよ。",
-   "en": "The enemy's right on top of you!{p}{FC00}The fighting's about to start, so you'd better keep an{n}eye on your HP!{p}You usually see some numbers and a gauge at the{n}bottom of the screen, right? HP is the number at the{n}upper left, and MP is at the lower right. As for the{p}gauge underneath... I'll explain that later.{p}{FC02}When someone's HP hits 0, they're out. You're the only{n}one fighting right now, so if YOUR HP hits 0, it's{n}game over!{p}{FC00}If things get dangerous, try using an item like a{n}'{FFEF}healing potion{FFF1}'.",
+   "en": "The enemy's right on top of you!{p}{FC00}The fighting's about to start, so you'd better keep an{n}eye on your HP!{p}You usually see some numbers and a gauge at the{n}bottom of the screen, right? HP is the number at the{n}upper left, and MP is at the lower right.{p}As for the gauge underneath... I'll explain that later.{p}{FC02}When someone's HP hits 0, they're out. You're the only{n}one fighting right now, so if YOUR HP hits 0, it's{n}game over!{p}{FC00}If things get dangerous, try using an item like a{n}'{FFEF}healing potion{FFF1}'.",
    "term": "end"
   },
   {

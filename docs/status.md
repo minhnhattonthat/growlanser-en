@@ -9,7 +9,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   docs/text_unshown.tsv` exit 0; EXE/MSYS table strings waived on new test test_exe_getters + test_msys_getters.
   Build extract for cover.py: `dumpsxiso -x work/qa/btree/tree -s work/qa/btree/layout.xml <build cue>`
   (rerun after each build). Item 3: no chapter-card art; world map not reached (docs/re/graphics.md "Still open").
-  Next: the re-tour (add tut_status, try the world map by leaving a town) + qa_gate init + vqa.
+  World map labels are art only, English in the original (graphics.md). Re-tour 5 on cf329b11: 84/84 landed,
+  qa_gate init (52 sheets to verdict). Codex out of credits until 2026-11-26: verdicts by plugin visual-qa agents,
+  one chunk at a time (5 chunks): 41 ok, 11 issue. Fixed (build 1271385f, work/qa/fix6): tag "LLM Magic Class
+  Instructor" lost "LL" on the tut_status screen -> "LLM Magic Instructor" (6 scenes); scen088.0021 indent/break;
+  scen232.0004 page break mid-sentence; credits cast names stamped at column <= 254 (page column 255 not shown:
+  "Barc", "Oswalc"). **Open:** (a) G5b credits "プレイヤー／" + player name (graphics.md "G5b"); (b) popup caption
+  "One month later..." shows "morth": the n of pair "nt" loses its right stem in the popup only (vwfemu draws it
+  right, canvas split col 12, x 0; dialogue "month" fine): find where the popup canvas loses a texel column.
+  Then: re-tour (build changed), qa_gate init, verdicts.
 - **Phase 8 session 10 (2026-11-19): G4 done.** Appendix room labels English (tools/appendixgfx.py, D16, docs/re/
   graphics.md "G4"): "GL CARDS (PROMO)", "VISUAL ROOM" from the sheet's own letters. In game OMAKE/1 at work/qa/g4
   f2200 (title_appendix warp + clear.mcd + one-shot flag hook, docs/re/debug.md "Appendix room"); OMAKE/2 offline

@@ -157,7 +157,8 @@ def edit(body, rs):
     for ((t, b, _l, r), (_t2, _b2, _l2, r2)), name in zip(pairs, CAST):
         for y in range(t, b):
             strip[y] = [BG] * 256
-        stamp(strip, typeset(glyphs, name), r2, b - 2, BG)
+        # page column 255 never shows on screen (final "d" of Bard / Oswald lost); the JP names end at 254
+        stamp(strip, typeset(glyphs, name), min(r2, 254), b - 2, BG)
     # last page (16): grey background 14 around the closing lines
     p0 = (16 - STRIP[0]) * h
     last = bands(strip, p0, p0 + 120, 14)
