@@ -165,7 +165,7 @@
   {
    "id": "scen148.0026",
    "jp": "どっかにもっといいスキマはねぇかな‥‥。",
-   "en": "Ain't there a better gap somewhere...?",
+   "en": "Ain't there a better nook somewhere...?",
    "term": "end"
   },
   {
@@ -363,7 +363,7 @@
   {
    "id": "scen148.0059",
    "jp": "{FFEF}{FE0A}‥{FE0A}‥{FE0A}‥{FE0A}‥。{FFFB}{n}仲良し兄妹か{FE0A}‥{FE0A}‥。{p}いつまでも、それでいいのかな？{FFFB}{n}わたし{FE0A}‥{FE0A}‥。{FFF1}",
-   "en": "{FFEF}{FE0A}.{FE0A}.{FE0A}.{FE0A}.{FFFB} A close brother and sister{FE0A}.{FE0A}..{p}Will I always be happy with that?{FFFB} I{FE0A}.{FE0A}..{FFF1}",
+   "en": "{FFEF}{FE0A}.{FE0A}.{FE0A}.{FE0A}.{FFFB} A close brother and sister{FE0A}.{FE0A}..{p}Is it okay to stay like that forever?{FFFB} I{FE0A}.{FE0A}..{FFF1}",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen148.0078",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
+   "en": "　　　　　　Magic Academy pass rate: 60%!{n}　　　A trusted prep school with a proven record:{n}　　　　　　　　'LLM Magic School'",
    "term": "end"
   },
   {

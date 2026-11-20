@@ -117,7 +117,7 @@
   {
    "id": "scen099.0018",
    "jp": "{v:000B}うむ。{n}母上をダグラス卿のところへ連れて行こうと思ってな。",
-   "en": "{v:000B}Well, I intend to take Mother to see Lord Douglas.",
+   "en": "{v:000B}Indeed. I intend to take Mother to see Lord Douglas.",
    "term": "end"
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "scen099.0055",
    "jp": "{v:0023}言っただろ？{p}{v:0024}あの時、お前が毒を盛らなければ、俺は優勝できた！{n}ローランディアの士官になれば、{n}カレンの治療費に困ることもなかった！{p}{v:0025}あれから俺の人生は狂っちまった！{n}お前が狂わせたんだ！",
-   "en": "{v:0023}I told you, didn't I?{p}{v:0024}If you hadn't poisoned me back then, I could've won{n}the tournament! If I'd become an officer in Rolandia's{n}army, I wouldn't have had to worry about paying for{p}Karen's treatment!{p}{v:0025}My whole life went wrong after that! You ruined it!",
+   "en": "{v:0023}I told you, didn't I?{p}{v:0024}If you hadn't poisoned me back then, I could've won{n}the tournament!{p}If I'd become an officer in Rolandia's army, I wouldn't{n}have had to worry about paying for{n}Karen's treatment!{p}{v:0025}My whole life went wrong after that! You ruined it!",
    "term": "end"
   },
   {
@@ -459,7 +459,7 @@
   {
    "id": "scen099.0075",
    "jp": "{v:0040}持ち主の意志を反映して、{n}自然界の法則を曲げてしまう秘石だ。{p}{v:0041}ただしそれを発動させると、その反動が起こる。{n}そう親父が言っていたのを覚えてる。{p}{v:0042}もし落石を防いだときにその秘石の力を使ったのなら、{n}たぶんこの竜巻がその反動だ。",
-   "en": "{v:0040}It's a mystical stone that bends the laws of nature to{n}its owner's will.{p}{v:0041}But using it causes a backlash. I remember my old man{n}saying that.{p}{v:0042}If you used that stone's power to stop the falling{n}rocks, this tornado is probably the backlash.",
+   "en": "{v:0040}It's a Power Stone. It bends the laws of nature to{n}reflect its owner's will.{p}{v:0041}But using it causes a backlash. I remember my old man{n}saying that.{p}{v:0042}If you used the stone's power to stop the falling{n}rocks, this tornado is probably the backlash.",
    "term": "end"
   },
   {
@@ -471,7 +471,7 @@
   {
    "id": "scen099.0077",
    "jp": "{v:0044}反動はいつどこに起こるかわからん。{n}自分に降りかかるかも知れねぇ。{n}今までは運が良かっただけだ。{p}{v:0045}もうその秘石は使わないことだな。",
-   "en": "{v:0044}There's no telling when or where the backlash will hit.{n}You could get caught in it yourself. You've just been{n}lucky so far.{p}{v:0045}You'd better not use that stone again.",
+   "en": "{v:0044}There's no telling when or where the backlash will hit.{n}You could get caught in it yourself. You've just been{n}lucky so far.{p}{v:0045}You'd better not use that Power Stone again.",
    "term": "end"
   },
   {
@@ -570,7 +570,7 @@
   {
    "id": "scen099.0093",
    "jp": "{v:0008}しょうがないよ。{n}お兄ちゃんだって夢で見ただけなんだから‥‥。",
-   "en": "{v:0008}He can't help it. Big Brother only saw it in a dream,{n}after all...",
+   "en": "{v:0008}It can't be helped. Big Brother only saw it in a dream,{n}after all...",
    "term": "end"
   },
   {

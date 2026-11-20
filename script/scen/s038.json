@@ -481,7 +481,7 @@
   {
    "id": "scen038.0078",
    "jp": "{v:005E}何でよ！{p}{v:005F}アンタも今、マスターの解毒剤を探すために{n}がんばってるんでしょ？{n}行ってあげなさいよ！",
-   "en": "{v:005E}Why not?!{p}{v:005F}You're doing everything you can to find Master's{n}antidote, aren't you? Go help him!",
+   "en": "{v:005E}Why not?!{p}{v:005F}You're doing everything you can to find Master's{n}antidote too, aren't you? Go with him!",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen038.0152",
    "jp": "{v:0004}奴にはパワーストーンなどという物を{n}使ってくれた礼があるからな。",
-   "en": "{v:0004}I owe him my thanks for using that wretched{n}Power Stone.",
+   "en": "{v:0004}I owe him my thanks for making use of something like{n}the Power Stone.",
    "term": "end"
   },
   {
@@ -1378,7 +1378,7 @@
   {
    "id": "scen038.0223",
    "jp": "{v:0011}アンタ、貰わないまでもほめてあげなさいよ！{n}例え不細工な花冠だとしても。",
-   "en": "{v:0011}Hey, even if you won't take it, at least say something{n}nice! Even if it is an ugly flower crown.",
+   "en": "{v:0011}Hey, even if you won't take it, at least say something{n}nice! Even if it is an ugly Flower Crown.",
    "term": "end"
   },
   {
@@ -1547,7 +1547,7 @@
   {
    "id": "scen038.0250",
    "jp": "{v:002A}『そこまで』‥‥でしょ？",
-   "en": "{v:002A}Not 'that bad'... Right?",
+   "en": "{v:002A}'Not THAT bad'... huh?",
    "term": "end"
   },
   {

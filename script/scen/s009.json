@@ -249,21 +249,21 @@
   {
    "id": "scen009.0040",
    "jp": "・いつでも守ってやるよ",
-   "en": "・I'll always protect you.",
+   "en": "・I'll always protect you",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen009.0041",
    "jp": "・俺が助けて欲しい",
-   "en": "・I'm the one who needs protecting.",
+   "en": "・I'm the one who needs protecting",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen009.0042",
    "jp": "・自分の身は自分で守れ",
-   "en": "・Protect yourself.",
+   "en": "・Protect yourself",
    "term": "end",
    "unref": true
   },
@@ -468,7 +468,7 @@
   {
    "id": "scen009.0076",
    "jp": "{v:0060}そうか。{n}エリオット君の両親は、{n}彼をその魔術師から預かったって‥‥。",
-   "en": "{v:0060}Oh, right. Elliot-kun's parents said that Mage entrusted{n}him to them...",
+   "en": "{v:0060}Oh, right. Elliot-kun's parents said that magician{n}entrusted him to them...",
    "term": "end"
   },
   {
@@ -578,7 +578,7 @@
   {
    "id": "scen009.0094",
    "jp": "{v:000F}とにかく、もうこのような事件は、{n}起きずに済みそうだな。",
-   "en": "{v:000F}At any rate, it seems we need no longer fear another{n}such incident.",
+   "en": "{v:000F}At any rate, it seems such an incident will not{n}happen again.",
    "term": "end"
   },
   {
@@ -614,7 +614,7 @@
   {
    "id": "scen009.0100",
    "jp": "‥‥{v:0016}ったく、陛下の前だってのに‥‥。",
-   "en": "...{v:0016}Sheesh, right in front of His Majesty, too...",
+   "en": "...{v:0016}Good grief, right in front of His Majesty, too...",
    "term": "end"
   },
   {

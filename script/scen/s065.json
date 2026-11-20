@@ -105,7 +105,7 @@
   {
    "id": "scen065.0016",
    "jp": "あきらめの悪さと、執着の強さ。{n}そして不屈の心。{n}これらは似ているが、別の物なのだろうか？{p}もっと人間をよく知ってみたいと、{n}思いはじめていますわ。",
-   "en": "Stubbornness, obsession, and an unyielding spirit. They{n}seem alike, but are they different things?{p}I am beginning to wish I knew more about humans.",
+   "en": "Stubbornness, obsession, and an unyielding spirit. They{n}seem alike, but are they different things?{p}I find myself wanting to know more about humans.",
    "term": "end"
   },
   {
@@ -333,28 +333,28 @@
   {
    "id": "scen065.0054",
    "jp": "・何の問題もない",
-   "en": "・That's no problem.",
+   "en": "・That's no problem",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen065.0055",
    "jp": "・気にしなくても構わない",
-   "en": "・You don't need to worry about me.",
+   "en": "・You don't need to worry about me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen065.0056",
    "jp": "・どうせ長くないから構わない",
-   "en": "・I don't have long anyway. I don't mind.",
+   "en": "・I don't have long anyway. I don't mind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen065.0057",
    "jp": "・死にたくはない",
-   "en": "・I don't want to die.",
+   "en": "・I don't want to die",
    "term": "end",
    "unref": true
   },
@@ -379,7 +379,7 @@
   {
    "id": "scen065.0061",
    "jp": "{v:0021}そうよねぇ‥‥。",
-   "en": "{v:0021}Of course you don't...",
+   "en": "{v:0021}He's right, you know...",
    "term": "end"
   },
   {
@@ -442,7 +442,7 @@
   {
    "id": "scen065.0071",
    "jp": "・知らない",
-   "en": "・I don't know.",
+   "en": "・I don't know",
    "term": "end",
    "unref": true
   },

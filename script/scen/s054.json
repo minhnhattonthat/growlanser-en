@@ -763,7 +763,7 @@
   {
    "id": "scen054.0125",
    "jp": "{v:003F}やはりそうか{FFF9}{FFFB}‥‥。{n}‥‥{v:0040}ならば話を聞かせよう。{p}{v:0041}もともとこの辺りの土地は、宮廷魔術師をしていた{n}ヴェンツェル様のご領地じゃった。{p}{v:0042}だが、ウォレス殿が滝へ向かい戻らなかったすぐ後{n}ヴェンツェル様が王宮から失踪し、{n}この辺りは王家の直轄地となった。{p}{v:0043}その頃からじゃよ。{n}あの滝に近づく者が帰らなくなったのは‥‥。{p}{v:0044}いや、唯一例外がいる。{n}滝の側まで行き、戻ってきた者が１人だけ‥‥。",
-   "en": "{v:003F}Just as I thought{FFF9}{FFFB}... ...{v:0040}Then I shall tell you.{p}{v:0041}The land around here once belonged to Wenzel-sama,{n}who served as Court Magician.{p}{v:0042}But shortly after Wallace-dono went to the waterfall{n}and failed to return, Wenzel-sama vanished from the{n}royal palace. These lands then came under direct royal{p}rule.{p}{v:0043}It was around then, you see, that people who went{n}near the waterfall stopped coming back...{p}{v:0044}No, there was one exception. Just one person went{n}near the waterfall and returned...",
+   "en": "{v:003F}Just as I thought{FFF9}{FFFB}... ...{v:0040}Then I shall tell you.{p}{v:0041}The land around here once belonged to Wenzel-sama,{n}who served as Court Magician.{p}{v:0042}But shortly after Wallace-dono went to the waterfall{n}and failed to return, Wenzel-sama vanished from the{n}royal palace.{p}These lands then came under direct royal rule.{p}{v:0043}It was around then, you see, that people who went{n}near the waterfall stopped coming back...{p}{v:0044}No, there was one exception. Just one person went{n}near the waterfall and returned...",
    "term": "end"
   },
   {

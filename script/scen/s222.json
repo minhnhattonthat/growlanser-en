@@ -81,7 +81,7 @@
   {
    "id": "scen222.0012",
    "jp": "{v:0023}ゲヴェルを倒しちゃったから、{n}命の供給を断たれちゃったんだって‥‥。",
-   "en": "{v:0023}They said that since we defeated Gevel, his supply of{n}life energy has been cut off...",
+   "en": "{v:0023}Apparently, since we defeated Gevel, his supply of life{n}energy has been cut off...",
    "term": "end"
   },
   {
@@ -117,13 +117,13 @@
   {
    "id": "scen222.0018",
    "jp": "{v:002C}ダメだよ！{n}もうパワーストーンには力が残ってないって‥‥。",
-   "en": "{v:002C}It won't work! They said the Power Stone has no{n}power left...",
+   "en": "{v:002C}It won't work! Apparently the Power Stone has no{n}power left...",
    "term": "end"
   },
   {
    "id": "scen222.0019",
    "jp": "{v:002D}私に任せておけ。{p}{v:002E}私はこの秘石と共に、時を越えた者だ。{n}こいつの使い方は誰よりも良く知っている。{p}{v:002F}たとえわずかしか力が残っていなくても、{n}それを有効に使える。",
-   "en": "{v:002D}Leave it to me.{p}{v:002E}I crossed time with this mystic stone. I know how to{n}use it better than anyone.{p}{v:002F}Even if only a little power remains, I can put it to{n}good use.",
+   "en": "{v:002D}Leave it to me.{p}{v:002E}I crossed time with this Power Stone. I know how to{n}use it better than anyone.{p}{v:002F}Even if only a little power remains, I can put it to{n}good use.",
    "term": "end"
   },
   {

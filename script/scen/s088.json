@@ -87,7 +87,7 @@
   {
    "id": "scen088.0013",
    "jp": "戦闘が始まっちゃってから逃げる方法は、{n}{FFEE}ＭＯＶＥ{FFF1}を使うのよ。{n}逃げる方法には２つあって‥‥。{p}１つは画面内に敵がいないようにする方法。{n}ＭＯＶＥするとリーダー（{FFEE}移動時の先頭{FFF1}）を{n}中心に画面が動くから、それを利用すればいいの。{p}２つめは、マップが切り替わる場所まで{n}リーダーが移動すればいいよ。{n}簡単でしょ？{p}でも、逃げられない戦闘もあるはずだけど‥‥。{n}普通は今教えた方法で逃げられるよ★",
-   "en": "Once a battle starts, use {FFEE}MOVE{FFF1} to escape. There are{n}two ways to do it...{p}First, get all the enemies off the screen. When you use{n}MOVE, the screen follows the leader ({FFEE}whoever's at the{n}front when you travel{FFF1}), so use that to your{p}advantage.{p}Second, just move the leader to a spot where you can{n}leave the map. Easy, right?{p}There are probably some battles you can't escape from,{n}though... But usually, those tricks will get you out!",
+   "en": "Once a battle starts, use {FFEE}MOVE{FFF1} to escape. There are{n}two ways to do it...{p}First, get all the enemies off the screen.{p}When you use MOVE, the screen follows the leader{n}({FFEE}whoever's at the front when you travel{FFF1}), so use that{n}to your advantage.{p}Second, just move the leader to a spot where you can{n}leave the map. Easy, right?{p}There are probably some battles you can't escape from,{n}though... But usually, those tricks will get you out!",
    "term": "end"
   },
   {

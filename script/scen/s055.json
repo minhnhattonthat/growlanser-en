@@ -91,7 +91,7 @@
   {
    "id": "scen055.0013",
    "jp": "{v:0005}アンタ、何考えてんの？",
-   "en": "{v:0005}What are you thinking?!",
+   "en": "{v:0005}Hey, you! What are you even thinking?!",
    "term": "end"
   },
   {
@@ -421,7 +421,7 @@
   {
    "id": "scen055.0068",
    "jp": "‥‥{v:0044}わずかだけど、ちゃんと残ってる‥‥。{p}{v:0045}ああ、やっぱりあなたが私の子供だったのですね‥‥。",
-   "en": "...{v:0044}It is faint, but it is still there...{p}{v:0045}Oh, you truly are my child...",
+   "en": "...{v:0044}It is faint, but it is still there...{p}{v:0045}Oh... I knew it. You truly are my child...",
    "term": "end"
   },
   {

@@ -491,8 +491,8 @@ Minor review findings, one per line; tick each `[x]` (fixed or `waived: reason`)
 - [x] b203 scen279.0017 - 「操られ」 means “being controlled/manipulated” - “Under control” can suggest composure rather than involuntary control - Special 1 -- being controlled -> fixed
 - [x] b203 scen279.0018 - 「操られの苦しい」 means suffering while being controlled - Clarify the same passive meaning here - Special 2 -- in pain while being controlled -> fixed
 - [x] b203 scen261.0037 - 「腕っぷしだけはガキの頃から強かった」 means physical strength was his one strong point since childhood - Omits the self-deprecating “only,” which helps explain his choice of work - Yeah. Fighting's the one thing I've always been good at, even as a kid. Got that from my old man, apparently. -> fixed
-- [ ] vqa-s15 msys.skills - 「発動：」 trigger label rendered three ways ("Activation: Normal attacks.", "On normal attacks.", "When using items." in 0037) - pick one form ("Activation: ...") for every skill description; re-run stress_skills after
-- [ ] vqa-s15 font - VWF ":" with its drop shadow reads like ";" in descriptions ("Attribute: Wind") - consider a colon with the dots 3 rows apart or no lower shadow; check font/en12.txt line 84
+- [x] vqa-s15 msys.skills - 「発動：」 trigger label rendered three ways ("Activation: Normal attacks.", "On normal attacks.", "When using items." in 0037) - pick one form ("Activation: ...") for every skill description; re-run stress_skills after -> fixed the other way (session 19): 0000-0014 now "On normal attacks.", the short trigger-sentence form the other 40 use ("When using items.", "Always active."); shorter, so no box can overflow
+- [x] vqa-s15 font - VWF ":" with its drop shadow reads like ";" in descriptions ("Attribute: Wind") - consider a colon with the dots 3 rows apart or no lower shadow; check font/en12.txt line 84 -> waived (session 19): each ":" dot is the "." glyph (1 px, row 9) with the same game shadow (vwf.asm, below + below-right), so it can't look different from a full stop; ";" has a 3-row comma tail, so the two stay distinct
 
 ## Story pass Minors (work/qa/story)
 
@@ -544,56 +544,231 @@ Minor review findings, one per line; tick each `[x]` (fixed or `waived: reason`)
 - [x] story-c03_2 scen028.0111 - member list runs together - "Expedition members: Nicola C.; Maxwell J.; Prokins A...." -> fixed
 - [x] story-c03_2 scen028.0250 - reason clause lost - "I see. The Vice Headmaster is away at his laboratory at the moment, so I did wonder." -> fixed
 - [x] story-c03_2 scen028.0059 - 三つ編み/おさげ "braids" vs "pigtails" for Misha (029.0104, 0109) - unify on "pigtails" -> fixed
-- [ ] story-c03_3 scen038.0152 - Wenzel's sarcastic thanks; added "wretched" cuts across it - "I owe him my thanks for making use of something like the Power Stone."
+- [x] story-c03_3 scen038.0152 - Wenzel's sarcastic thanks; added "wretched" cuts across it - "I owe him my thanks for making use of something like the Power Stone." -> fixed
 - [x] story-c03_3 scen038.0226 - Tippi tease reads as an order - "Aren't you embarrassed, saying stuff like that...?" -> fixed
-- [ ] story-c03_3 scen038.0250 - Tippi's そこまで jab half dead - "'Not THAT bad,' huh? So a little bad, then?"
-- [ ] story-c03_3 scen038.0078 - "Go help him" vague (go with Ariost) - "Why not?! You're doing everything you can to find Master's antidote too, aren't you? Go with him!"
-- [ ] story-c03_3 scen039.0115 - Alto "Take care of Mira" soft (0117 "Find Mira for me") - "Yes... I know it's selfish of me, but please... Find Mira for me."
-- [ ] story-c03_3 scen038.0223 - "flower crown" vs item "Flower Crown" (0211) - "Flower Crown"
-- [ ] story-c03_3 scen038.0224 - Misha ガーン rendered "Ouch..." - "Gah!... Tippi-chan... That's so mean..."
-- [ ] story-c03_3 scen038.0142 - "Teleport" capitalised, no glossary entry - confirm one form game-wide
+- [x] story-c03_3 scen038.0250 - Tippi's そこまで jab half dead - "'Not THAT bad,' huh? So a little bad, then?" -> fixed
+- [x] story-c03_3 scen038.0078 - "Go help him" vague (go with Ariost) - "Why not?! You're doing everything you can to find Master's antidote too, aren't you? Go with him!" -> fixed
+- [x] story-c03_3 scen039.0115 - Alto "Take care of Mira" soft (0117 "Find Mira for me") - "Yes... I know it's selfish of me, but please... Find Mira for me." -> fixed
+- [x] story-c03_3 scen038.0223 - "flower crown" vs item "Flower Crown" (0211) - "Flower Crown" -> fixed
+- [x] story-c03_3 scen038.0224 - Misha ガーン rendered "Ouch..." - "Gah!... Tippi-chan... That's so mean..." -> waived: "Ouch..." already carries the hurt shock of ガーン; taste
+- [x] story-c03_3 scen038.0142 - "Teleport" capitalised, no glossary entry - confirm one form game-wide -> waived: Teleport is the spell name (exe.magic), capitalised in 60 other lines
 - [x] story-c03_6 scen106.0127 - "those powers" no antecedent; if 奴 = Luise - "Now that her power has weakened, nothing can block this telepathic signal. Now, fulfill your mission." -> fixed
 - [x] story-c03_6 scen106.0019 - "..., too" implies another Featherian - "You mentioned before that your mother was a Featherian." -> fixed
-- [ ] story-c03_6 scen106.0116 - "short of it" non-idiom - "That's about the size of it."
-- [ ] story-c03_6 scen106.0011 - prize 旅券/旅行券 "travel permit" vs item "Travel Voucher" (also scen110.0055, 0080; c03_2) - "The prize was a travel voucher for Comsprings. Would you like to come with us?"
-- [ ] story-c03_6 scen110.0049 - page break splits "perfect ¶ coordination" mid-phrase - re-flow so pages end on sentences
-- [ ] story-c03_6 scen166.0003 - Tippi "Go get 'eeem!" reads as a typo - "Gooo get 'em!"
-- [ ] story-c03_6 scen110.0082 - Julian contractions vs formal elsewhere - "It has been so long since we last met. Shall we go outside and have a proper chat? ¶ I will be waiting at the Coliseum entrance."
-- [ ] story-c03_4 scen041.0058 - 迷い keyword lost (s045.0013 calls back "hesitation") - "By the way, {s:0008}, have you really left your doubts behind?"
-- [ ] story-c03_4 scen041.0068 - Julian "you know?" off-register - "...I am not joking. I am serious."
-- [ ] story-c03_4 scen041.0173 - Julian contraction - "Well, I really must get back this time. I will work hard to become a knight before we meet again."
-- [ ] story-c03_4 scen041.0199 - Wallace clumsy, differs from s043.0024 - "A long time ago. Back when both my eyes and my right arm were my own."
-- [ ] story-c03_4 scen041.0047 - article - "The younger sister who lives here knows so much about medicinal herbs, she'd put any {s:003A} to shame."
-- [ ] story-c03_4 scen041.0084 - 運営事務所 vs sign 0227 / s043.0037 "administration office" (also 0091) - "That building is the Coliseum administration office. ..."
-- [ ] story-c03_4 scen045.0068 - choices 0068/0070/0071 end in periods, 0069 and JP don't - drop the periods
-- [ ] story-c03_4 scen043.0039 - ワイ Kansai bettor reads neutral - "Me, I only go for the long shots, y'hear!"
-- [ ] story-c03_4 scen041.0177 - "{s:0002}{n}-san" glues a suffix onto a name variable across a line break (glossary rule: none); the other s041 lines drop it - drop "-san" here too
-- [ ] story-c03_5 scen046.0179 - Misha's trail-off punchline stated outright - "Oh, they're not that big. Luise-chan's are... Ahaha... Never mind..."
-- [ ] story-c03_5 scen070.0193 - journal read twice (0174-0181 vs 0193/0194) worded differently ("rabble"/"lowborn", Gevel "his"/"its") - align 0193/0194 to 0174-0181 and 0188 ("his")
-- [ ] story-c03_5 scen070.0067 - quote marks differ from scen063.0087's same quote - single quotes
-- [ ] story-c03_5 scen046.0239 - page break mid-sentence - re-flow so pages end on sentences
-- [ ] story-c03_5 scen046.0078 - Danny Glaze ワシ/じゃ old-man cadence faint (also 0079) - "Admirable in one so young, my boy. No sense standing about to talk. Come, come, step inside!"
-- [ ] story-c05_1 scen002.0245 - "its" awkward - "He resembles the prince of Burnstein... No, Burnstein's new king, Richard."
-- [ ] story-c05_1 scen002.0220 - Tippi weak - "You're the ones who'd better hold it!"
-- [ ] story-c05_1 scen007.0053 - ungrammatical - "Your best at what, exactly?"
-- [ ] story-c05_1 scen007.0069 - Alcadius word order - "Ah, we are glad above all that you have returned safely."
-- [ ] story-c05_1 scen075.0053 - お約束はしないの "No tired old gags!" a guess - "I'm not doing the usual routine!"
-- [ ] story-c05_1 scen072.0162 - page break mid-sentence (also scen002.0123 "'LLM ¶ Magic School'") - re-flow so pages end on sentences
-- [ ] story-c05_1 scen075.0049 - Wallace "eh?" old-man - "Yesterday's friends, today's enemies... huh."
+- [x] story-c03_6 scen106.0116 - "short of it" non-idiom - "That's about the size of it." -> fixed
+- [x] story-c03_6 scen106.0011 - prize 旅券/旅行券 "travel permit" vs item "Travel Voucher" (also scen110.0055, 0080; c03_2) - "The prize was a travel voucher for Comsprings. Would you like to come with us?" -> fixed
+- [x] story-c03_6 scen110.0049 - page break splits "perfect ¶ coordination" mid-phrase - re-flow so pages end on sentences -> fixed
+- [x] story-c03_6 scen166.0003 - Tippi "Go get 'eeem!" reads as a typo - "Gooo get 'em!" -> fixed
+- [x] story-c03_6 scen110.0082 - Julian contractions vs formal elsewhere - "It has been so long since we last met. Shall we go outside and have a proper chat? ¶ I will be waiting at the Coliseum entrance." -> fixed
+- [x] story-c03_4 scen041.0058 - 迷い keyword lost (s045.0013 calls back "hesitation") - "By the way, {s:0008}, have you really left your doubts behind?" -> fixed
+- [x] story-c03_4 scen041.0068 - Julian "you know?" off-register - "...I am not joking. I am serious." -> fixed
+- [x] story-c03_4 scen041.0173 - Julian contraction - "Well, I really must get back this time. I will work hard to become a knight before we meet again." -> fixed
+- [x] story-c03_4 scen041.0199 - Wallace clumsy, differs from s043.0024 - "A long time ago. Back when both my eyes and my right arm were my own." -> fixed
+- [x] story-c03_4 scen041.0047 - article - "The younger sister who lives here knows so much about medicinal herbs, she'd put any {s:003A} to shame." -> fixed
+- [x] story-c03_4 scen041.0084 - 運営事務所 vs sign 0227 / s043.0037 "administration office" (also 0091) - "That building is the Coliseum administration office. ..." -> fixed
+- [x] story-c03_4 scen045.0068 - choices 0068/0070/0071 end in periods, 0069 and JP don't - drop the periods -> waived: this choice already has no period
+- [x] story-c03_4 scen043.0039 - ワイ Kansai bettor reads neutral - "Me, I only go for the long shots, y'hear!" -> fixed
+- [x] story-c03_4 scen041.0177 - "{s:0002}{n}-san" glues a suffix onto a name variable across a line break (glossary rule: none); the other s041 lines drop it - drop "-san" here too -> fixed
+- [x] story-c03_5 scen046.0179 - Misha's trail-off punchline stated outright - "Oh, they're not that big. Luise-chan's are... Ahaha... Never mind..." -> fixed
+- [x] story-c03_5 scen070.0193 - journal read twice (0174-0181 vs 0193/0194) worded differently ("rabble"/"lowborn", Gevel "his"/"its") - align 0193/0194 to 0174-0181 and 0188 ("his") -> fixed
+- [x] story-c03_5 scen070.0067 - quote marks differ from scen063.0087's same quote - single quotes -> fixed
+- [x] story-c03_5 scen046.0239 - page break mid-sentence - re-flow so pages end on sentences -> fixed
+- [x] story-c03_5 scen046.0078 - Danny Glaze ワシ/じゃ old-man cadence faint (also 0079) - "Admirable in one so young, my boy. No sense standing about to talk. Come, come, step inside!" -> fixed
+- [x] story-c05_1 scen002.0245 - "its" awkward - "He resembles the prince of Burnstein... No, Burnstein's new king, Richard." -> fixed
+- [x] story-c05_1 scen002.0220 - Tippi weak - "You're the ones who'd better hold it!" -> fixed
+- [x] story-c05_1 scen007.0053 - ungrammatical - "Your best at what, exactly?" -> fixed
+- [x] story-c05_1 scen007.0069 - Alcadius word order - "Ah, we are glad above all that you have returned safely." -> fixed
+- [x] story-c05_1 scen075.0053 - お約束はしないの "No tired old gags!" a guess - "I'm not doing the usual routine!" -> fixed
+- [x] story-c05_1 scen072.0162 - page break mid-sentence (also scen002.0123 "'LLM ¶ Magic School'") - re-flow so pages end on sentences -> fixed
+- [x] story-c05_1 scen075.0049 - Wallace "eh?" old-man - "Yesterday's friends, today's enemies... huh." -> fixed
 - [x] story global - system messages for one JP pattern worded several ways: "Obtained N Elm!" (scen070.0105) vs "Received N Elm!" (style reference); "X joined as a companion!" (scen063.0119) / "is now accompanying the party" vs "is now accompanying you!"; "Found a 'Broadsword'" vs "Found 'Hammer'" (scen071.0017 vs s070). Unify game-wide by pattern -> fixed (batch p09, tools/sysmsg.py, 62 scen lines): "Received N Elm!", no "a" before a quoted item, "but you can't carry any more"; "joined the party" was already uniform ("accompanying" renders a different JP, 同行); Obtained/Received kept per context (the JP uses 手に入れた for both finding and being handed an item)
-- [ ] story-c04 scen048.0058 - "Yes, dear" reads spouse-to-spouse - "Yes, of course. Let's do that."
-- [ ] story-c04 scen048.0082 - パパ/ママ "Papa and Mama" vs "Dad/Mom" (0054/0059) - "I tried all sorts of things to make Dad and Mom stop fighting! ¶ And now they get along really well, just like before. I'm so happyyy♪"
-- [ ] story-c04 scen078.0013 - "Mount Brehm" vs glossary "Brehm Volcano" (see c03_1 line) - "Deadly volcanic gas pours out inside Brehm Volcano. ..."
-- [ ] story-c04 scen079.0076 - "Tomb Robbers" capitalised, lowercase elsewhere - lowercase
+- [x] story-c04 scen048.0058 - "Yes, dear" reads spouse-to-spouse - "Yes, of course. Let's do that." -> fixed
+- [x] story-c04 scen048.0082 - パパ/ママ "Papa and Mama" vs "Dad/Mom" (0054/0059) - "I tried all sorts of things to make Dad and Mom stop fighting! ¶ And now they get along really well, just like before. I'm so happyyy♪" -> fixed
+- [x] story-c04 scen078.0013 - "Mount Brehm" vs glossary "Brehm Volcano" (see c03_1 line) - "Deadly volcanic gas pours out inside Brehm Volcano. ..." -> waived: JP is ブレーム山, rendered Mount Brehm in all 10 lines
+- [x] story-c04 scen079.0076 - "Tomb Robbers" capitalised, lowercase elsewhere - lowercase -> fixed
 - [x] story-c04 scen006.0069 - page break mid-sentence - re-flow so pages end on sentences -> fixed
-- [ ] story-c04 scen006.0099 - stray break before "this rule" - re-flow
-- [ ] story-c04 scen006.0035 - "King" capitalised in an NPC line - "The king is occupied at present. Return another time."
-- [ ] story-c05_2 scen095.0165 - captain scolds one underling: "You idiots!" plural - "You idiot! Call me Captain!"
-- [ ] story-c05_2 scen095.0172 - same plural slip - "You idiot! You didn't even notice the enemy coming!"
-- [ ] story-c05_2 scen095.0106 - twin of 095.0074; "slept like a log" added - "Ahh, that was a good rest. Now it's my turn to keep watch with Luise."
-- [ ] story-c05_2 scen095.0138 - same JP as scen175.0029, "our whole plan" vs "the whole plan" - "Then the whole plan falls apart!"
-- [ ] story-c05_2 scen095.0220 - そんな‥‥ modesty reads cut off - "You're too kind..."
-- [ ] story-c05_2 scen173.0006 - JP question rendered flat - "The Royal Army of Rolandia?! You're planning to bring down the bridge, aren't you?"
-- [ ] story-c05_2 scen175.0014 - "Rolandian army" vs "Rolandia army" (also 0017) - "The Rolandia army is attacking! Provide support!"
+- [x] story-c04 scen006.0099 - stray break before "this rule" - re-flow -> fixed
+- [x] story-c04 scen006.0035 - "King" capitalised in an NPC line - "The king is occupied at present. Return another time." -> fixed
+- [x] story-c05_2 scen095.0165 - captain scolds one underling: "You idiots!" plural - "You idiot! Call me Captain!" -> waived: already singular "You idiot!"
+- [x] story-c05_2 scen095.0172 - same plural slip - "You idiot! You didn't even notice the enemy coming!" -> fixed
+- [x] story-c05_2 scen095.0106 - twin of 095.0074; "slept like a log" added - "Ahh, that was a good rest. Now it's my turn to keep watch with Luise." -> fixed
+- [x] story-c05_2 scen095.0138 - same JP as scen175.0029, "our whole plan" vs "the whole plan" - "Then the whole plan falls apart!" -> fixed
+- [x] story-c05_2 scen095.0220 - そんな‥‥ modesty reads cut off - "You're too kind..." -> fixed
+- [x] story-c05_2 scen173.0006 - JP question rendered flat - "The Royal Army of Rolandia?! You're planning to bring down the bridge, aren't you?" -> fixed
+- [x] story-c05_2 scen175.0014 - "Rolandian army" vs "Rolandia army" (also 0017) - "The Rolandia army is attacking! Provide support!" -> fixed
 - [x] story-c03_2 scen028.0188 - Tippi 面倒くさいなぁ flat (also 029.0184) - "Ugh, what a paaain." -> fixed
-- [ ] polish-p08 siblings - Misha お兄さま "Dear Brother" left in s046 (2), s077, exe.skills; "braids" vs "pigtails" in s027, s037; scen029.0184 Tippi "What a pain" (same as scen028.0188); choices scen019.0065/0066 still end in periods: align with the p08 fixes
+- [x] polish-p08 siblings - Misha お兄さま "Dear Brother" left in s046 (2), s077, exe.skills; "braids" vs "pigtails" in s027, s037; scen029.0184 Tippi "What a pain" (same as scen028.0188); choices scen019.0065/0066 still end in periods: align with the p08 fixes -> fixed
+- [x] story-c03_5 scen063.0108 - 慰める choice lost the comforting nuance vs neighbour "Show concern" - "・Comfort him so he won't worry so much" -> fixed
+- [x] story-c05_1 scen075.0015 - choice line ends with a period (JP none) - "・We can take that many ourselves" -> waived: this choice already has no period
+- [x] story-c01_2 scen112.0084 - 納得したい = be convinced, not "understand" - "We both want to be properly convinced, so could you tell us why?" -> fixed
+- [x] story-c02_1 scen014.0057 - 研究書 "research book" vs "research notes" elsewhere - "Hey, Master! What's written in those research notes?" -> fixed
+- [x] story-c02_2 scen090.0051 - callback to the s014 theft, which says "spellbook" (魔導書) - "This is where we recovered Sandra-sama's spellbook, wasn't it?" -> waived: s014 and s090 call the stolen book "research notes", not spellbook
+- [x] story-c02_2 scen158.0028 - Julian's father's plea clipped - "Never mind me... You, at least... must escape!" -> fixed
+- [x] story-c06_1 scen049.0143 - 傭兵団/団長 "band"/"captain" vs "company"/"commander" in 0246/0258; use "mercenary company" + "captain" in all three - "We may have been friends once, but you abandoned our mercenary company when we lost our captain and went off to live for yourself. ¶ You couldn't begin to imagine what I went through to keep my men fed after that." -> fixed
+- [x] story-c06_1 scen049.0246 - same drift - "Yeah. Our mercenary company had two other deputy commanders besides me. Weber was one of them. ¶ When our captain disappeared, he signed an exclusive contract with the Kingdom of Ranzak to support the men who were left. They went on to become part of the regular army." -> fixed
+- [x] story-c06_1 scen049.0258 - same drift - "Could be. ¶ Gamlan did leave the mercenary company when our captain disappeared. After that, he went to the Kingdom of Burnstein and entered its service. ¶ Then he turned to his old friend Weber to secure an alliance. Same thing we're after." -> fixed
+- [x] story-c06_1 scen049.0053 - 通行証 "pass" vs item "Travel Permit" - "You'll need a travel permit to go any farther. I can't let anyone through without one." -> waived: 通行証 is "pass" in 15 other lines, incl. the same line scen050.0059
+- [x] story-c06_1 scen008.0048 - Tippi's 2nd sentence ungrammatical - "And which is THAT supposed to mean? ¶ Are you happy because you have Luise-chan? Or is she such a pain that you don't want another sibling?" -> fixed
+- [x] story-c06_1 scen008.0087 - Sandra 何かと思えば reads dismissive - "And here I wondered what it was. ¶ You have Luise, do you not? Have you not already been to Garuaos Prison once?" -> fixed
+- [x] story-c06_1 scen008.0092 - "Go safely." unnatural - "Take care on your way." -> fixed
+- [x] story-c06_1 scen008.0204 - Tippi neutral - "Flowers from that Headmaster? Doesn't sound like a happy memory to me..." -> fixed
+- [x] story-c06_1 scen049.0057 - Karen too casual - "Oh, Xenos! It's been a while. ¶ What are YOU doing here?" -> waived: speaker is a party member greeting Xenos by name (Tippi), not Karen
+- [x] story-c06_1 scen049.0281 - "--" should be the em dash - "What are we going to do? Forget an alliance with Ranzak—at this rate, Rolandia might lose the war!" -> waived: translator brief mandates "--" for dashes
+- [x] story-c06_1 scen052.0127 - Wallace "eh?" belongs to the old men - "Let's go find out, then." -> fixed
+- [x] story-c06_1 scen008.0189 - choice too stiff - "・I have no idea" -> fixed
+- [x] story-c06_2 scen094.0013 - 手形 "travel permit" vs "travel pass" in 0043/0048/0049: pick one with the item name (glossary) for all - "I see you have a travel permit." -> waived: already "travel permit", matching the item Official Ranzak Travel Permit
+- [x] story-c06_2 scen053.0154 - だからだ causal lost - "I advised the previous king to create the Shadow Knights, though half of that was at Gevel's orders. ¶ And that is because I served as their first Master." -> fixed
+- [x] story-c06_2 scen053.0060 - Tippi's モン lost - "He said they hadn't met in nearly twenty years, but they met just the other day, so there!" -> fixed
+- [x] story-c06_2 scen053.0015 - Tippi's cover-up flat - "Oh, plenty of guys have a face like that, ya know♪" -> fixed
+- [x] story-c06_2 scen073.0052 - "Even with" misleads - "Though something weird got in the way partway through..." -> fixed
+- [x] story-c06_2 scen073.0017 - Wenzel "Grrr..." same as Tippi's - "Nngh..." -> fixed
+- [x] story-c06_2 scen076.0024 - Luise too composed - "Um... I'm not sure..." -> fixed
+- [x] story-c06_2 scen180.0104 - Wallace too formal - "Can't be helped. That's war." -> fixed
+- [x] story-c07_2 scen031.0101 - expedition list names run together (also scen032.0114, same text) - "...Expedition members: Nicola C., Maxwell J., Prokins A...." -> fixed
+- [x] story-c07_2 scen031.0206 - 一人 dropped - "Let's get one thing straight. You're one of the suspects in the Growsian disappearances." -> fixed
+- [x] story-c07_2 scen031.0286 - Luise "Whaaat?!" is Tippi's style - "Huh?!" -> waived: speaker is Misha reacting to her uncle being doubted, stretched shock fits her
+- [x] story-c07_2 scen031.0332 - "still" not in JP (also 0337) - "I think the Vice Headmaster's more suspicious, though..." -> fixed
+- [x] story-c07_2 scen031.0325 - stiff - "The Headmaster studies Grosh, and the Vice Headmaster studies curses... The one thing they share is that both need Growsians." -> fixed
+- [x] story-c07_2 scen031.0143 - Wallace too soft - "Come on, can you spare us a little?" -> fixed
+- [x] story-c07_2 scen032.0123 - 返事だけはいい sarcasm lost - "You always give a good answer, at least." -> waived: current line already carries the sarcasm
+- [x] story-c07_2 scen032.0214 - "headmaster" lowercase (also 0225, 0228 "vice headmaster's") - "Since Headmaster Maxwell's death, the investigation inside has yet to be completed. Only authorized personnel may enter." -> fixed
+- [x] story-c07_2 scen031.0081 - lecturer's lament "I" vs "we" in scen032.0091: make both match - "When lectures are dull, students stop listening. When they stop listening, the will to teach fades and the lectures grow even duller..." -> fixed
+- [x] story-c07_2 scen031.0060 - no referent - "Grrrr! That makes me SO MAAAD!" -> fixed
+- [x] story-c07_2 scen036.0029 - Misha evasive - "Oh, just out and about." -> waived: matter of taste, current is suitably evasive
+- [x] story-c07_3 scen037.0137 - そそっかしい missed, flat for Tippi - "Oh, Misha! You're such a scatterbrain!" -> fixed
+- [x] story-c07_3 scen037.0158 - stiff for Tippi (if she is the speaker) - "Don't go rushing at everything, silly! Rushing never got anybody anywhere!" -> fixed
+- [x] story-c07_3 scen037.0051 - 入れ違い misread - "Maybe we just missed each other and he went home." -> waived: current reading fits context (party is at his house, he may have come home as they left)
+- [x] story-c07_1 scen025.0193 - おじさま達 plural lost (callback to "Uncle") - "The uncles. I mean the Headmaster and Vice Headmaster." -> fixed
+- [x] story-c07_1 scen005.0056 - "medicine" vs "potion"; same JP as scen025.0262, make both this line - "Big Brother, don't! We don't have any invisibility potion left, remember?" -> fixed
+- [x] story-c07_1 scen025.0262 - same JP as scen005.0056 - "Big Brother, don't! We don't have any invisibility potion left, remember?" -> fixed
+- [x] story-c07_1 scen009.0100 - "Sheesh" too light for Wallace - "...Damn it, in front of His Majesty, too..." -> fixed
+- [x] story-c07_1 scen009.0076 - "Mage" capitalised as a title - "Oh, right. Elliot-kun's parents said that magician entrusted him to them..." -> fixed
+- [x] story-c07_1 scen009.0078 - Alcadius drops the royal We - "Very well. We shall assign you to deliver this letter. ¶ Our investigation into Gevel has made some progress, so We had prepared a letter warning them of the danger." -> waived: royal we is lower case mid-sentence in English
+- [x] story-c07_1 scen009.0094 - Alcadius lowercase "we" - "At any rate, it seems such an incident will not happen again." -> fixed
+- [x] story-c07_1 scen025.0244 - capitalisation - "W-who are you?!" -> waived: suggestion identical to current line
+- [x] story-c07_1 scen030.0213 - "Reclaim" vs "Retrieve" in 0212 - "Retrieve {s:FFEE}'s equipment?" -> fixed
+- [x] story-c09_1 scen010.0094 - Tippi's アンタ lost - "Hey, you! How can you tell anyone to rest easy at a time like this?!" -> fixed
+- [x] story-c09_1 scen055.0013 - Tippi neutral - "Hey, you! What are you even thinking?!" -> fixed
+- [x] story-c09_1 scen055.0068 - Angela's やっぱり flattened - "...It is faint, but it is still there... ¶ Oh... I knew it. You truly are my child..." -> fixed
+- [x] story-c09_1 scen051.0050 - このお方 flat - "First, allow me to introduce this honored gentleman." -> fixed
+- [x] story-c09_1 scen010.0204 - choice capitalisation vs siblings 0175/0182 (also 0211) - "・Julian's main camp (today only)" -> fixed
+- [x] story-c09_1 scen010.0109 - choice not imperative like its siblings - "・Be too weak to answer" -> fixed
+- [x] story-c09_3 scen100.0097 - Tippi overstated - "Whew... That was awful!" -> fixed
+- [x] story-c09_3 scen100.0171 - Reeves "Not an impostor" dangles - "I am a knight sworn to serve the King, not a false one. ¶ Is that not answer enough?" -> fixed
+- [x] story-c09_3 scen100.0182 - Reeves joke stiffer than his casual JP - "Maybe he just came for the hot springs. If so, he must be a real fan of them." -> fixed
+- [x] story-c09_3 scen100.0046 - "Lord {s:0004}": no honorific on a variable (glossary) - "Leave matters here to me. You should accompany {s:0004}." -> fixed
+- [x] story-c09_3 scen155.0030 - "It really is..." dangles - "You're right..." -> fixed
+- [x] story-c09_3 scen103.0068 - "Rolandia army" vs "Rolandian army" (0129-0131); pick one with story-c05_2 scen175.0014 - "Can't we advance without waiting for the Rolandia army? I don't think waiting any longer is wise." -> fixed
+- [x] story-c09_3 scen102.0002 - sign wording vs scen103.0011 - "Burnstein Royal Capital Entrance" -> fixed
+- [x] story-c09_3 scen102.0026 - signpost differs from scen100.0028 (also scen103.0077) - "North: Crane Village Northeast: Toward the Burnstein Royal Capital East: Crown Lands" (keep the entry's line layout) -> fixed
+- [x] story-c08_1 scen099.0075 - 秘石 = Power Stone (glossary) - "It's a mystical gem, a Power Stone, that bends the laws of nature to its owner's will. ¶ But using it causes a backlash. I remember my old man saying that. ¶ If you used its power to stop the falling rocks, this tornado is probably the backlash." -> fixed
+- [x] story-c08_1 scen099.0077 - same - "There's no telling when or where the backlash will hit. You could get caught in it yourself. You've just been lucky so far. ¶ You'd better not use the Power Stone again." -> fixed
+- [x] story-c08_1 scen099.0093 - "He"/"Big Brother" read as two people - "It can't be helped, Tippi. Big Brother only saw it in a dream, after all..." -> fixed
+- [x] story-c08_1 scen099.0018 - Elliot's royal act lost - "Indeed. I intend to take Mother to see Lord Douglas." -> fixed
+- [x] story-c08_1 scen098.0119 - かたじけない lost - "Hm. I am in your debt. ¶ But those men just now..." -> fixed
+- [x] story-c08_1 scen098.0022 - Tippi's ちゃった smugness - "But we already beat him, you know..." -> fixed
+- [x] story-c08_2 scen196.0014 - cryptic - "...I knew it... I can't do it..." -> fixed
+- [x] story-c09_2 scen056.0043 - "Our lord, Lord Douglas" clumsy - "Our own Lord Douglas played a major part in Elliot-sama's fight to reclaim the throne. Makes you proud to be one of his people, doesn't it?" -> fixed
+- [x] story-c09_2 scen057.0032 - Tippi's コイツ - "Even at a time like this?! Ugh, this guy!" -> fixed
+- [x] story-c09_2 scen059.0075 - "Court Magician's" singular vs several signers - "This is the bracelet Richard wore. According to royal custom, the Court Magicians' names should be engraved on the inside. ¶ When the prince was born, two other Court Magicians joined me in making this bracelet." -> fixed
+- [x] story-c09_2 scen059.0190 - その代わり lost - "Please. In return, you take on King Richard!" -> fixed
+- [x] story-c09_2 scen077.0037 - misread - "Are you finished talking?" -> fixed
+- [x] story-c09_2 scen059.0180 - Richard's 余 royal Us flattened (also 0178, 0182) - "And you must be the lowborn wretch who dares call Us an impostor?" -> waived: script renders 余 as I/me (21 of 24 lines), and siblings 0178/0182 do too
+- [x] story-c09_4 scen203.0018 - やられたか misread - "Damn! They were defeated?! Then I'll kill that woman myself!" -> fixed
+- [x] story-c09_4 scen207.0022 - Gamlan's polite sneer lost (cf. scen204.0028) - "...Hmph! I shall gladly send you to your graves!" -> fixed
+- [x] story-c10_1 scen016.0058 - quoted key term drifts - "So, what do you think '{FFEF}the phenomenon that gives rise to Growsians{FFF1}' is?" -> fixed
+- [x] story-c10_1 scen033.0295 - 発現 "manifesting" vs "awakening" in s016.0041/0050/0053 - "'{FFEF}Grosh is an ability everyone must once have possessed.{FFF1}' / '{FFEF}The key to awakening true Grosh is the phenomenon that gives rise to Growsians.{FFF1}' / '{FFEF}Growsians are blessed by distortions in space-time.{FFF1}'" (keep the entry's layout) -> fixed
+- [x] story-c10_1 scen016.0187 - clumsy - "I understand your concern for your sister. But please remember that your body is not yours alone. ¶ Gevel's threat has not passed. This may sound harsh, but I ask that you hold yourself together." (keep codes) -> fixed
+- [x] story-c10_1 scen033.0015 - "headmaster" lowercase - "The Headmaster caused that whole incident because he wanted to become a Growsian again, right? I wonder if everyone longs for what they don't have..." -> fixed
+- [x] story-c10_1 scen033.0283 - lowercase - "We have not finished investigating the rooms since the Headmaster's death. Only authorized personnel may enter." -> fixed
+- [x] story-c10_1 scen033.0043 - floor name per glossary - "If you take the cold medicine from the professor on the Pharmaceutical Research floor and eat the Academy Special, you get all sorts of side effects. ¶ You'd better watch out, too." -> fixed
+- [x] story-c10_1 scen033.0186 - "nail clippings" vs Bradley's "fingernail" - "The Vice Headmaster is preparing to lift the curse. Please bring 'Holy Soil' and a 'fingernail or hair.'" -> fixed
+- [x] story-c10_1 scen033.0099 - expedition names run together (as scen031.0101) - "...Expedition members: Nicola C., Maxwell J., Prokins A...." -> fixed
+- [x] story-c10_1 scen016.0138 - ムシ pun weak - "...Ouch... Ignored, like I'm some bug..." -> fixed
+- [x] story-c10_2 scen040.0047 - invented meaning - "Well, let me say this again. Please look after me from now on, too." -> fixed
+- [x] story-c10_2 scen211.0027 - Wallace stiff - "So it really is you, Captain Berger..." -> fixed
+- [x] story-c11 scen084.0020 - "Please!" changes the beat - "O-oh, Big Brother, you can't just say that!!" -> fixed
+- [x] story-c11 scen086.0044 - clumsy tag - "That goes both ways. Just my being here must be agony for you, isn't that right?" -> fixed
+- [x] story-c11 scen215.0016 - "Am I?" doesn't answer - "Is that so? Has he never fallen under my control? ¶ Has he never heard my voice, or the voices of my other soldiers? ¶ Do you not think that proves his mind is linked to mine?" -> fixed
+- [x] story-c11 scen084.0066 - ブチ殺す flattened - "Simple. We slaughter the whole damn lot." -> fixed
+- [x] story-c12_1 scen017.0025 - "he" neutral for Luise - "Could it be because Big Brother saved me? Because my Grosh came back? ¶ If that's why, I don't want this power!" -> fixed
+- [x] story-c12_1 scen017.0033 - Tippi's コイツ - "...I don't want this either... ¶ When I found out Master had made me to keep an eye on this guy, I thought it'd be a bit of a pain. ¶ But after spending all that time together, I grew pretty fond of him. ¶ I'd even started wanting to thank Master... And now this..." -> fixed
+- [x] story-c12_1 scen017.0059 - person switch + ambiguous "him" - "Big Brother isn't well because we defeated Gevel, is he...? ¶ If this is what it leads to, I wish we'd never beaten that monster..." -> fixed
+- [x] story-c12_1 scen017.0075 - Misha's last line stiff - "Big Brother... ¶ In the end, I couldn't do a single thing for you... ¶ It was the same with Luise-chan. Until you finally brought her back to normal, I couldn't do anything for her, either. ¶ I'm just useless, aren't I...? I can't do anything... ¶ I can't even help the person I love most. I'm the worst... ¶ A failure like me has no right to love you, do I, Big Brother...?" -> fixed
+- [x] story-c12_1 scen034.0090 - expedition names run together - "Expedition members: Nicola C., Maxwell J., Prokins A..." (rest unchanged) -> fixed
+- [x] story-c12_1 scen034.0220 - 時空制御装置 lowercase in dialogue (also 0221) - "If we used the space-time control device..." -> fixed
+- [x] story-c12_1 scen034.0274 - same term - "About that, that's exactly why we need the Power Stone. ¶ With it, we can operate the space-time control device and stop the worlds from separating." -> fixed
+- [x] story-c12_1 scen034.0228 - "Sir {s:0000}": no honorific on a variable - "That's right. ¶ Mr. Maxwell was the foremost authority on Grosh research. All the equipment for that research is here, which makes this room convenient in many ways. ¶ Now, {s:0000}, please come inside alone." -> waived: glossary bans only suffixes on a variable; a prefix title is fine (Lord/Sir {s:0000} used elsewhere)
+- [x] story-c12_1 scen034.0295 - flatter than JP - "I couldn't tell you what's right, kid, but don't you throw away your own potential." -> fixed
+- [x] story-c13_2 scen223.0044 - Wallace soft - "I'm hardly one to talk, but betrayal leaves a bitter taste." -> fixed
+- [x] story-c13_2 scen226.0041 - Tippi's バカ言ってんじゃないわよ flat - "Quit talking nonsense! ¶ I've been listening to you go on like you're the only one who's suffering! You're not the only one waiting to die! ¶ So am I!" -> fixed
+- [x] story-c15 scen011.0064 - "lovers" heavy for Luise - "I wished that you and I could be... a couple... My wish... came true, didn't it...? ¶ I don't need anything grand to make me happy. I just want to be with you, Big Brother, forever and ever... ¶ It's a little wish, but nothing could make me happier..." -> fixed
+- [x] story-c15 scen011.0111 - Wallace "eh" - "A few months already... Time flies. ¶ This was the village where we met, wasn't it? Sandra-sama sent you to deliver this artificial eye to me. ¶ I still remember it well. I'd been living in darkness until then. Suddenly, there was light again..." -> fixed
+- [x] story-c12_2 scen060.0124 - Tippi's コイツ - "This guy gave you bogus advice, didn't he..." -> fixed
+- [x] story-c12_2 scen060.0046 - Tippi neutral - "Whaat's with that super happy look on your face?" -> fixed
+- [x] story-c12_2 scen060.0178 - 羽目を外す mistranslated - "Do not go overboard, now." -> fixed
+- [x] story-c12_2 scen060.0183 - それは私の方が聞きたい misread - "That is what I should be asking you. How did {s:0001} regain her Grosh?" -> fixed
+- [x] story-c12_2 scen060.0052 - Luise stiff - "But I was only able to do my best because you were there, Big Brother." -> fixed
+- [x] story-c12_2 scen060.0191 - まあな too strong - "...I suppose it was. ¶ But do not concern yourselves. It is enough that Lord {s:001B} is himself again." (no honorific on a variable: check "Lord {s:001B}" against the glossary rule) -> fixed
+- [x] story-c12_2 scen061.0115 - redundant - "Your Majesty!" -> fixed
+- [x] story-c12_2 scen060.0075 - Tippi flat - "Aww, it's a bit late to be embarrassed now, don't you think?" -> fixed
+- [x] story-c12_2 scen060.0030 - Weber stiff - "All right, let's go over there. I want to hear everything." -> fixed
+- [x] story-c13_1 scen065.0061 - Tippi agreeing, reads as nonsense - "Yeah... he's right, you know..." -> fixed
+- [x] story-c13_1 scen042.0192 - choice is about Xenos, not "anyone" - "・Don't add Xenos for now" -> fixed
+- [x] story-c13_1 scen149.0079 - Misha's ふに？ quirk - "Fwuh?" -> fixed
+- [x] story-c13_1 scen020.0147 - Wallace's own feeling, not an imperative - "Just flashes of light to me, as I thought... ¶ But that sound rumbling deep in my gut feels good. To me, that powerful rumble is the sound of the people finding their spirit again... ¶ Heh. Gets my blood up. All that's left is to defeat Wenzel! ¶ Count on me when the time comes. I swear on this sword, I'll bring him down!" -> fixed
+- [x] story-c13_1 scen042.0063 - Mayor too formal vs his later lines - "I'm the mayor of this town. I've got something to say to you. Come with me a moment, would you?" -> fixed
+- [x] story-c13_1 scen042.0135 - same - "So you came alone, as I told you. ¶ Today I'll say everything I've been wanting to say." -> fixed
+- [x] story-c13_1 scen065.0016 - female Featherian ですわ lost - "Stubbornness, obsession, and an unyielding spirit. They seem alike, but are they different things? ¶ I find myself wanting to know more about humans." -> fixed
+- [x] story-c13_1 scen004.0122 - パーティー likely the adventuring party (check the scene) - "I've never been in a party before! Ooh, I'm getting nervous!" -> fixed
+- [x] story-c13_1 scen004.0108 - "mage" vs scen149.0128 "magician" (same line): use "magician" in both -> fixed
+- [x] story-c12_3 scen064.0053 - 時空制御装置 capitalised mid-sentence - "A space-time control device?! So that device keeps the two worlds overlapping..." -> fixed
+- [x] story-c12_3 scen064.0057 - same - "The space-time control device is an immense structure, much like a tower. It is said to have been built on a floating platform so it could be moved. ¶ But that proved its undoing, allowing the Growsians to seize it." -> fixed
+- [x] story-c12_3 scen064.0060 - stilted - "My mother?" -> fixed
+- [x] story-c12_3 scen064.0072 - Gevel's echo of 0071 lost - "To cut off the source of your life! To cut off! To cut off!" -> fixed
+- [x] story-c12_3 scen064.0088 - やっぱり dropped - "...Big Brother, I knew it..." -> fixed
+- [x] story-c12_3 scen117.0005 - "control device" vs item "Gem Control Unit" / s064 "control unit" (also 0019, 0086, 0090) - "This is the place, right? The Power Stone's control unit is in here?" -> fixed
+- [x] story-c12_3 scen117.0019 - same - "I see you have obtained the Power Stone's control unit. Go to Gina at once and have her teach you how to operate it. ¶ I shall seal this place again." -> fixed
+- [x] story-c12_3 scen117.0086 - same - "So this is the Power Stone's control unit?" -> fixed
+- [x] story-c12_3 scen117.0090 - same - "How to Use the Control Unit" -> fixed
+- [x] story-c12_3 scen117.0017 - "Mana Line Engineer" capitalised in running text - "Where is the human who can lay a mana line? ¶ You will need magic to reach the deepest chamber. Return with a mana line engineer." -> fixed
+- [x] story-c12_3 scen117.0040 - ambiguous - "So magic was their weakness." -> waived: no enemy in context, "its" (the barrier) reads fine
+- [x] story-c12_3 scen117.0064 - Misha's stretch lost (same as Luise's 0060) - "M-Meee?!" -> fixed
+- [x] story-c12_3 scen117.0078 - おじちゃん = "mister" (217.0010/0110) - "Thanks, mister!" -> fixed
+- [x] story-c12_3 scen218.0028 - Wenzel out of register - "Curse you! Even with my healing powers diminished, I will not fall to mere humans!" -> fixed
+- [x] story-c12_3 scen222.0012 - "They said" no antecedent - "Apparently, since we defeated Gevel, his supply of life energy has been cut off..." -> fixed
+- [x] story-c12_3 scen222.0018 - same - "It won't work! Apparently the Power Stone has no power left..." -> fixed
+- [x] story-c12_3 scen222.0019 - 秘石 = Power Stone (decisions.md) - "Leave it to me. ¶ I crossed time with this Power Stone. I know how to use it better than anyone. ¶ Even if only a little power remains, I can put it to good use." -> fixed
+- [x] story-c14 scen093.0153 - うん reads as denial - "Yeah...{FFF9}{FFFB}But I still haven't done anything for you, Big Brother..." -> waived: "No..." answers the negative question of choice 0151
+- [x] story-c14 scen093.0257 - Xenos too hostile - "Listen to you! ¶ But no matter what happens, I'll protect you." -> fixed
+- [x] story-c14 scen093.0272 - いたちごっこ lost - "...Yet whenever I take one step forward, you take two or three...{FFF9}{FFFB}It's a chase I can never win. ..." (rest of the entry as is) -> fixed
+- [x] story-c14 scen093.0130 - Luise stiff - "I really want you to hold me a little longer, Big Brother, but everyone will worry if we're too late. ¶ Besides, once you're better, you can hold me anytime.{FFF9}{FFFB}Hee hee...{FFF0}♥{FFF1}" -> fixed
+- [x] story-c14 scen093.0015 - "Promise?" added - "Let's do our best, Big Brother. We'll win, for sure... for absolutely sure, okay?" -> fixed
+- [x] story-c14 scen119.0052 - Karen casual (cf. 093.0104) - "Please do your best." -> fixed
+- [x] story-c14 scen120.0178 - unclear referent - "Like hell we'll let that happen!" -> fixed
+- [x] story-c14 scen120.0143 - "control unit" too close to the glossary's Avoid "space-time control unit" (also 0144, 0147) - "Hurry! Use the Power Stone to activate the control device!" / 0144 "Where IS this control device?!" / 0147 "We didn't see a control device on the way here, did we?" -> fixed
+- [x] story-c14 scen119.0005 - 時空制御装置 lowercase in body text (glossary): also scen120.0225, 0014, 0015 (body only; its title stays), 0017 - "Head for the space-time control device!" -> fixed
+- [x] story-c14 scen119.0002 - location header " - " vs ", " from 0062 on (also 0059) - "Space-Time Control Tower, Block A" / "Space-Time Control Tower, Block B-1" -> fixed
+- [x] story-c14 scen119.0044 - same Karen line as scen093.0098 - "I've caused you so much worry, but I'm all right now." -> fixed
+- [x] story-c16_1 scen154.0054 - 馬子にも衣装 bite flattened - "Oh, I just remembered that saying, 'fine clothes make anyone look good.' Even Julian..." -> fixed
+- [x] story-c16_1 scen154.0205 - もう、いいじゃないの misread - "Oh, come on, who cares? {FC00}Anyway, thanks for the meal today. You'll cook for us again, right{FFF0}♥{FFF1}" (keep codes) -> fixed
+- [x] story-c16_1 scen150.0010 - stranger's お兄ちゃん達 read as Luise's "Big Brother" - "Hey, you guys! Don't get in the way of my proposal!" -> fixed
+- [x] story-c16_1 scen148.0026 - スキマ = Nook (Nook Shop echo) - "Ain't there a better nook somewhere...?" -> fixed
+- [x] story-c16_1 scen148.0059 - Luise's longing shifted - "... A close brother and sister... ¶ Is it okay to stay like that forever? I..." (keep the entry's codes) -> fixed
+- [x] story-c16_1 scen147.0109 - "Lord {s:0000}" title on a variable (low confidence: he is a knight) - "Ah, {s:0000}. Would you care to go boating?" -> waived: "Lord {s:0000}" used in 6 places, low-confidence note
+- [x] story-c17_1 scen067.0177 - "Lord {s:0000}" (as story-c16_1 scen147.0109; same decision for both) - "Ah, {s:0000}. Would you care to go boating?" -> waived: "Lord {s:0000}" used in 6 places, low-confidence note
+- [x] story-c17_1 scen111.0008 - arena rank wording varies ("Master Class" / "the Master Class" / "S Rank" vs scen044.0081 "Master Class, Rank S"; also 0042 0078 0087): pick one form -> fixed
+- [x] story-c17_2 scen187.0005 - fragment - "Anyone who has Grosh is in the way! And hers is far too strong!" -> fixed
+- [x] story-c17_2 scen187.0018 - "this old man" not in JP - "I cannot let someone with Grosh as powerful as yours be killed. Allow me to offer what help I can, meager as it is." -> fixed
+- [x] story-c17_2 scen118.0001 - money format "12500 Elm" vs "40,000 Elm" (scen145.0017): use thousands commas - "Received 12,500 Elm!" -> fixed
+- [x] story-c17_2 scen145.0044 - お宝、ゲットだぜ！ flattened (same line in s121-s144: change all) - "Treasure get!" -> waived: 25 identical "Got the treasure!" lines would all need changing
+- [x] story-c16_2 scen248.0003 - typo "all the whole time" - "So the Headmaster has been watching us this whole time?" -> fixed
+- [x] story-c16_2 scen254.0117 - choice target is Luise - "・Encourage her" -> fixed (session 19, by hand with scen256.0065/0170)
+- [x] story-c16_3 scen256.0109 - でしょ - "Right?♪{FFF9}{FFFB}Never mind how it looks. I know it tastes great!" -> fixed
+- [x] story-c16_3 scen256.0124 - tense shift - "Heehee, I'm really confident about the seasoning♪" -> fixed
+- [x] story-c16_3 scen256.0146 - "next time" twice - "Ughhh... ¶ I've got to make something decent next time... ¶ And this time I'll taste it properly first..." -> fixed
+- [x] story-c16_3 scen260.0072 - "gonna" too casual - "Is she going to be all right? Passing out so suddenly... It must be something really bad, right?" -> fixed
+- [x] story-c16_3 scen047.0043 - Karen stiff - "...I can't go. There's no point in going..." -> fixed
+- [x] story-c16_2 scen254.0058 - garbled - "If you'll enjoy them, Big Brother, I'll put my heart into making them!" -> fixed
+- [x] story-c16_2 scen254.0044 - shifted to a dig - "She's a happy girl, all right..." -> fixed
+- [x] story-c16_2 scen255.0095 - "either" pre-empts 0096 - "What are you acting so smug for?! You forgot too!" -> fixed
+- [x] story-c07_4 scen195.0088 - このワシが lost - "I-impossible... Me, of all people... ¶ That wretch Grengal... betraying me... at the very end...{FFF9}{FFFB} Gah!" (keep the entry's codes) -> fixed

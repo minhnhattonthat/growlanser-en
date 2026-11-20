@@ -75,7 +75,7 @@
   {
    "id": "scen106.0011",
    "jp": "{v:0015}その賞品がコムスプリングスへの旅券なんです。{n}一緒に行きませんか？",
-   "en": "{v:0015}The prize was a travel permit for Comsprings. Would{n}you like to come with us?",
+   "en": "{v:0015}The prize was a Travel Voucher for Comsprings. Would{n}you like to come with us?",
    "term": "end"
   },
   {
@@ -710,7 +710,7 @@
   {
    "id": "scen106.0116",
    "jp": "{v:0017}簡単に言うと、そういうことだな。",
-   "en": "{v:0017}That's the short of it.",
+   "en": "{v:0017}Simply put, that's about the size of it.",
    "term": "end"
   },
   {

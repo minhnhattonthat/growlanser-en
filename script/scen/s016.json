@@ -360,7 +360,7 @@
   {
    "id": "scen016.0058",
    "jp": "{v:003A}では、『{FFEF}発生の元となる現象{FFF1}』とは何だと思いますか？",
-   "en": "{v:003A}So, what is '{FFEF}the phenomenon behind them{FFF1}'?",
+   "en": "{v:003A}What is '{FFEF}the phenomenon that gives rise to Growsians{FFF1}'?",
    "term": "end"
   },
   {
@@ -846,7 +846,7 @@
   {
    "id": "scen016.0138",
    "jp": "‥‥{v:00B7}がーん‥ムシされた‥‥。",
-   "en": "...{v:00B7}Ouch... Brushed off like a bug...",
+   "en": "...{v:00B7}Ouch... Ignored, like I'm some bug...",
    "term": "end"
   },
   {
@@ -1028,7 +1028,7 @@
   {
    "id": "scen016.0167",
    "jp": "・優しく抱きしめる",
-   "en": "・Hold her tenderly.",
+   "en": "・Hold her tenderly",
    "term": "end",
    "unref": true
   },
@@ -1151,7 +1151,7 @@
   {
    "id": "scen016.0187",
    "jp": "{v:0073}妹君のことが気にかかるのはわかります。{n}ですが、あなたの体はあなた１人のものでは{n}ないことを自覚して下さい。{p}{FC00}{v:0074}まだゲヴェルの脅威は去っておりません。{n}厳しいことを言うようですが、{n}ご自分をしっかり持って頂きたいのです。",
-   "en": "{v:0073}I understand your concern for your sister. But you{n}must remember that you have more than yourself to{n}think of when it comes to your health.{p}{FC00}{v:0074}Gevel still threatens us. This may sound harsh, but I{n}ask that you remain strong.",
+   "en": "{v:0073}I understand your concern for your sister. But please{n}remember that your body is not yours alone.{p}{FC00}{v:0074}Gevel's threat has not yet passed. This may sound{n}harsh, but I ask that you hold yourself together.",
    "term": "end"
   },
   {
@@ -1176,7 +1176,7 @@
   {
    "id": "scen016.0191",
    "jp": "・心配をかけたことをわびる",
-   "en": "・Apologize for worrying him",
+   "en": "・Apologize for worrying her",
    "term": "end",
    "unref": true
   },

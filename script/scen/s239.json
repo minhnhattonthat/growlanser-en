@@ -279,13 +279,13 @@
   {
    "id": "scen239.0045",
    "jp": "オレンジの花言葉って『寛大』なんですよ。{n}昔は食べるものとしか思っていなかったけど、{n}よく見ると花もかわいいんですよね。",
-   "en": "Orange blossoms mean 'generosity' in the language of{n}flowers. I used to think oranges were just something{n}to eat, but the flowers are cute too, if you look{p}closely.",
+   "en": "Orange blossoms mean 'generosity' in the language{n}of flowers.{p}I used to think oranges were just something to eat,{n}but the flowers are cute too, if you look closely.",
    "term": "end"
   },
   {
    "id": "scen239.0046",
    "jp": "同じ花でも色によって花言葉は違うんですよ。{n}黄色いキクは『高潔』、赤なら『真の愛』{n}白は『真実』なんです。",
-   "en": "Even the same flower means different things{n}depending on its color. Yellow chrysanthemums mean{n}'nobility,' red ones mean 'true love,' and white ones{p}mean 'truth.'",
+   "en": "Even the same flower means different things{n}depending on its color.{p}Yellow chrysanthemums mean 'nobility,' red ones mean{n}'true love,' and white ones mean 'truth.'",
    "term": "end"
   },
   {

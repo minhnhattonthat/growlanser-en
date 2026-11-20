@@ -291,7 +291,7 @@
   {
    "id": "scen041.0047",
    "jp": "ここの家に住んでいる兄妹の妹さんは、{n}{s:003A}顔負けの薬草の知識があるのよ。",
-   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put {s:003A}{n}to shame.",
+   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put any {s:003A}{n}to shame.",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen041.0058",
    "jp": "{v:003A}ところで{s:0008}、本当に迷いはなくなったの？",
-   "en": "{v:003A}So, {s:0008}, are you really sure of{n}yourself now?",
+   "en": "{v:003A}By the way, {s:0008}, have you really left{n}your doubts behind?",
    "term": "end"
   },
   {
@@ -420,13 +420,13 @@
   {
    "id": "scen041.0068",
    "jp": "‥‥{v:0042}冗談じゃなく、本気だぞ？",
-   "en": "...{v:0042}I am not joking. I mean it, you know?",
+   "en": "...{v:0042}I am not joking. I mean it.",
    "term": "end"
   },
   {
    "id": "scen041.0069",
    "jp": "{v:0043}がんばってね、{s:0008}さん！",
-   "en": "{v:0043}Good luck, {s:0008} -san!",
+   "en": "{v:0043}Good luck, {s:0008}!",
    "term": "end"
   },
   {
@@ -516,7 +516,7 @@
   {
    "id": "scen041.0084",
    "jp": "そこの建物は、コロシアムの運営事務所よ。{n}今は闘技大会の受付をしているわ。",
-   "en": "That building is the Coliseum management office. They're{n}taking tournament registrations now.",
+   "en": "That building is the Coliseum administration office.{n}They're taking tournament registrations now.",
    "term": "end"
   },
   {
@@ -558,7 +558,7 @@
   {
    "id": "scen041.0091",
    "jp": "そこの建物は、コロシアムの運営事務所よ。{n}闘技大会が始まる頃には、そこで受付を行うから{n}私はかっこいい戦士さまを探すつもりなの{FFF0}♥{FFF1}",
-   "en": "That building is the Coliseum management office. They'll{n}take registrations there when the tournament is{n}about to begin, so I'll be on the lookout for handsome{p}warriors{FFF0}♥{FFF1}",
+   "en": "That building is the Coliseum administration office.{p}They'll take registrations there when the tournament{n}is about to begin, so I'll be on the lookout for{n}handsome warriors{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
@@ -892,13 +892,13 @@
   {
    "id": "scen041.0144",
    "jp": "{v:005D}ありがとう、{s:0008}さん。",
-   "en": "{v:005D}Thank you, {s:0008} -san.",
+   "en": "{v:005D}Thank you, {s:0008}.",
    "term": "end"
   },
   {
    "id": "scen041.0145",
    "jp": "{v:005E}ねぇ、{s:0008}さんはどんな誓いをたてるの？",
-   "en": "{v:005E}So, {s:0008} -san, what kind of vow will{n}you make?",
+   "en": "{v:005E}So, {s:0008}, what kind of vow will{n}you make?",
    "term": "end"
   },
   {
@@ -1070,7 +1070,7 @@
   {
    "id": "scen041.0173",
    "jp": "{v:0077}さて、今度こそ戻らなくてはならないから。{n}次に会うときまでにナイトになれるように、{n}がんばるよ。",
-   "en": "{v:0077}Well, I really must get back this time. I'll work hard to{n}become a knight before we meet again.",
+   "en": "{v:0077}Well, I really must get back this time. I will work hard to{n}become a knight before we meet again.",
    "term": "end"
   },
   {
@@ -1082,7 +1082,7 @@
   {
    "id": "scen041.0175",
    "jp": "{v:0079}がんばってね、{s:0008}さん！",
-   "en": "{v:0079}Good luck, {s:0008} -san!",
+   "en": "{v:0079}Good luck, {s:0008}!",
    "term": "end"
   },
   {
@@ -1094,7 +1094,7 @@
   {
    "id": "scen041.0177",
    "jp": "{v:007B}さ、お兄ちゃん。{n}わたし達も行きましょ。{n}{s:0002}さんが待ってるよ！",
-   "en": "{v:007B}Come on, Big Brother. Let's go, too. {s:0002}{n}-san is waiting!",
+   "en": "{v:007B}Come on, Big Brother. Let's go, too. {s:0002}{n}is waiting!",
    "term": "end"
   },
   {
@@ -1226,13 +1226,13 @@
   {
    "id": "scen041.0198",
    "jp": "{v:003E}{s:0002}さんも出たことがあるの？",
-   "en": "{v:003E}Have you competed here too, {s:0002} -san?",
+   "en": "{v:003E}Have you competed here too, {s:0002}?",
    "term": "end"
   },
   {
    "id": "scen041.0199",
    "jp": "{v:003F}かなり昔のことだがな。{n}あの頃は両{s:0127}も右腕も自前だった。",
-   "en": "{v:003F}A long time ago. Back then, my left and right eyes{n}and my right arm were still my own.",
+   "en": "{v:003F}A long time ago. Back when both eyes and my right arm{n}were my own.",
    "term": "end"
   },
   {
@@ -1514,7 +1514,7 @@
   {
    "id": "scen041.0246",
    "jp": "{v:000F}妹の{s:0001}さんと２人だね。{p}{v:0010}はい。登録したよ。{p}{v:0011}もう始まるから、急いでコロシアムに{n}行ったほうがいいよ。",
-   "en": "{v:000F}You and your sister, {s:0001} -san, then.{p}{v:0010}There. You're registered.{p}{v:0011}It's about to begin, so you'd better hurry to{n}the Coliseum.",
+   "en": "{v:000F}You and your sister, {s:0001}, then.{p}{v:0010}There. You're registered.{p}{v:0011}It's about to begin, so you'd better hurry to{n}the Coliseum.",
    "term": "end"
   },
   {
@@ -1526,7 +1526,7 @@
   {
    "id": "scen041.0248",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region. Then King '{FFEF}Granbas{FFF1}',{n}renowned as a legendary martial artist, united the{p}region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year. Today,{n}it is one of the continent's most famous international{p}competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the{n}challenge yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region.{p}Then King '{FFEF}Granbas{FFF1}', renowned as a legendary martial{n}artist, united the region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year.{p}Today, it is one of the continent's most famous{n}international competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the{n}challenge yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
    "term": "end"
   },
   {
@@ -1654,7 +1654,7 @@
   {
    "id": "scen041.0269",
    "jp": "{v:002C}{s:0007}さん、かわいそう‥‥。",
-   "en": "{v:002C}Poor {s:0007} -san...",
+   "en": "{v:002C}Poor {s:0007}...",
    "term": "end"
   },
   {
@@ -1684,7 +1684,7 @@
   {
    "id": "scen041.0274",
    "jp": "{v:0031}犯人は王都の西で{s:0007}さんを襲ったあいつだよ。{n}ねぇ、何か心当たりはないの？",
-   "en": "{v:0031}It was the same guy who attacked {s:0007}{n}-san west of the royal capital. Hey, do you have any{n}idea what this could be about?",
+   "en": "{v:0031}It was the same guy who attacked {s:0007}{n}west of the royal capital. Hey, do you have any idea{n}what this could be about?",
    "term": "end"
   },
   {
@@ -1696,7 +1696,7 @@
   {
    "id": "scen041.0276",
    "jp": "{v:0033}{s:0005}さん‥‥。",
-   "en": "{v:0033}{s:0005} -san...",
+   "en": "{v:0033}{s:0005}...",
    "term": "end"
   },
   {
@@ -1726,13 +1726,13 @@
   {
    "id": "scen041.0281",
    "jp": "{s:0005}さん、いないね？{n}闘技大会は終わったのに‥‥。",
-   "en": "{s:0005} -san isn't here, is he? But the{n}tournament's over...",
+   "en": "{s:0005} isn't here, is he? But the{n}tournament's over...",
    "term": "end"
   },
   {
    "id": "scen041.0282",
    "jp": "{s:0007}さんもいないよ！？",
-   "en": "{s:0007} -san isn't here either?!",
+   "en": "{s:0007} isn't here either?!",
    "term": "end"
   },
   {
@@ -1750,7 +1750,7 @@
   {
    "id": "scen041.0285",
    "jp": "早く元気になってね、{s:0007}さん。",
-   "en": "Get well soon, {s:0007} -san.",
+   "en": "Get well soon, {s:0007}.",
    "term": "end"
   },
   {
@@ -1774,13 +1774,13 @@
   {
    "id": "scen041.0289",
    "jp": "{v:0037}これ、{s:0007}さんのだよね？{n}長い髪が残ってる‥‥。",
-   "en": "{v:0037}This belongs to {s:0007} -san, right? There{n}are some long hairs still in it...",
+   "en": "{v:0037}This belongs to {s:0007}, right? There{n}are some long hairs still in it...",
    "term": "end"
   },
   {
    "id": "scen041.0290",
    "jp": "{v:0038}この髪で{s:0007}さんの呪いが解けるのね？",
-   "en": "{v:0038}We can use this hair to lift {s:0007} -san's{n}curse, right?",
+   "en": "{v:0038}We can use this hair to lift {s:0007}'s{n}curse, right?",
    "term": "end"
   },
   {

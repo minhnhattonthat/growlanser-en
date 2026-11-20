@@ -168,7 +168,7 @@
   {
    "id": "scen028.0025",
    "jp": "{FFEB}エルムだ。",
-   "en": "{FFEB}Elm.",
+   "en": "{FFEB} Elm.",
    "term": "end"
   },
   {
@@ -655,7 +655,7 @@
   {
    "id": "scen028.0101",
    "jp": "グローシアンは元々特別な存在ではなかった。{n}言いかえれば、誰しもがグローシアンであった。{p}だが、我々がこの世界にやって来て以来、{n}強力な魔法は封じられ、ごく希に、{n}以前同様の魔力を使える存在が生まれる。{n}これがグローシアンである。{p}この世界は不安定な重なりの上になりたっており、{n}もとの世界の影響が強くなる時がある。{n}この時、決まって日食や月食と言った現象が{n}確認される。{p}この間に生まれた者は本能的に元の世界と波長が合い、{n}元の世界の魔素であるグローシュを持ち出す事が{n}出来る。{p}基本的に日食時に生まれたグローシアンの方が{n}月食時に生まれた者より、{n}強いグローシュを持つことが確認されている。{p}特に皆既日食時に生まれたグローシアンは{n}想像を絶する潜在能力を持ち、{n}通常の人間がどのような修練を積もうが{n}この能力に到達することは不可能である。{p}マクスウェル魔法学院長　著{n}『グローシアンの発生』",
-   "en": "Growsians were not originally exceptional beings. In{n}other words, everyone was a Growsian.{p}However, since we came to this world, powerful magic{n}has been sealed away. Only very rarely is someone born{n}who can wield the same magic as before. Such{p}individuals are Growsians.{p}This world rests upon an unstable overlap, and there{n}are times when the influence of our original world grows{n}stronger. These periods invariably coincide with{p}phenomena such as solar and lunar eclipses.{p}Those born during these periods are instinctively{n}attuned to the original world and can draw upon its{n}magical essence, Grosh.{p}It has been established that, in general, Growsians born{n}during solar eclipses possess stronger Grosh than{n}those born during lunar eclipses.{p}In particular, Growsians born during total solar eclipses{n}possess unimaginable potential. No amount of training{n}can enable an ordinary human to attain such power.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Emergence of Growsians'",
+   "en": "Growsians were not originally exceptional beings. In{n}other words, everyone was a Growsian.{p}However, since we came to this world, powerful magic{n}has been sealed away. Only very rarely is someone born{n}who can wield the same magic as before.{p}Such individuals are Growsians.{p}This world rests upon an unstable overlap, and there{n}are times when the influence of our original world{n}grows stronger.{p}These periods invariably coincide with phenomena such{n}as solar and lunar eclipses.{p}Those born during these periods are instinctively{n}attuned to the original world and can draw upon its{n}magical essence, Grosh.{p}It has been established that, in general, Growsians born{n}during solar eclipses possess stronger Grosh than{n}those born during lunar eclipses.{p}In particular, Growsians born during total solar eclipses{n}possess unimaginable potential. No amount of training{n}can enable an ordinary human to attain such power.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Emergence of Growsians'",
    "term": "end"
   },
   {
@@ -667,7 +667,7 @@
   {
    "id": "scen028.0103",
    "jp": "元々は『偉大な力（グローシュ）を有する者』という{n}語意から発生した言葉であり、その名の通り、{n}グローシアンは人間の魔力を越えた{n}強大な魔力を有する。{p}その全ての能力はいまだ明かされてはいないが、{n}人間が持つ最高位呪文のテレポートを例に{n}その説明を行う。{p}人間の場合、術者のみが有視界内でのテレポートを{n}行うことが限界と言われており、{n}この距離を伸ばそうとした場合、{n}サポート用の魔水晶を大量に必要とする。{p}しかし皆既日食のグローシアンならば、{n}１０人程度の人員を、既知の場所へ任意に{n}転送することが、独力で可能である。{n}しかも、この魔法詠唱の時間はきわめて短い。{p}現在の研究では、グローシアンの魔力波長には、{n}人間にはない成分が含まれることが観測されている。{p}マクスウェル魔法学院長　著{n}『グローシアンの特殊能力』",
-   "en": "The term originally meant 'one who possesses great{n}power (Grosh).' As the name suggests, Growsians{n}possess immense magical power surpassing that of{p}humans.{p}The full extent of their abilities remains unknown, but{n}the following explanation uses Teleport, the{n}highest-level spell available to humans, as an example.{p}Humans are said to be limited to teleporting only{n}themselves, and only within their field of vision.{n}Extending this range requires the support of a large{p}quantity of magic crystals.{p}A Growsian born during a total solar eclipse, however,{n}can single-handedly transport around ten people to any{n}known location at will. Furthermore, the chanting time{p}for this spell is extremely short.{p}Current research has observed components in the{n}wavelengths of Growsian magic that are absent from{n}human magic.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
+   "en": "The term originally meant 'one who possesses great{n}power (Grosh).'{p}As the name suggests, Growsians possess immense{n}magical power surpassing that of humans.{p}The full extent of their abilities remains unknown, but{n}the following explanation uses Teleport, the{n}highest-level spell available to humans, as an example.{p}Humans are said to be limited to teleporting only{n}themselves, and only within their field of vision.{p}Extending this range requires the support of a large{n}quantity of magic crystals.{p}A Growsian born during a total solar eclipse, however,{n}can single-handedly transport around ten people to any{n}known location at will.{p}Furthermore, the chanting time for this spell is{n}extremely short.{p}Current research has observed components in the{n}wavelengths of Growsian magic that are absent from{n}human magic.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
    "term": "end"
   },
   {
@@ -679,7 +679,7 @@
   {
    "id": "scen028.0105",
    "jp": "この学院より北東に位置する山の中、{n}巨大な水晶の鉱脈が見つかった。{n}しかし最初に見つかった横穴は、{n}とある事故のため現在は封じられている。{p}現在では露天掘りを用いた掘削法に{n}切り替えられているが、これは測定の結果、{n}水晶が巨大なピラミッド型であることが{n}分かったためである。{p}この鉱山で産出される魔水晶は、{n}他の地域で発見される魔水晶より、多くの魔力を{n}含有していることが特徴であり、現在は悪用を{n}避けるため、魔法学院が管理を行っている。",
-   "en": "A vast crystal vein was discovered within a mountain{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed following a certain accident.{p}Mining has since shifted to open-pit excavation, as{n}measurements revealed that the crystal forms an{n}enormous pyramid.{p}The magic crystals produced by this mine are{n}distinguished by their greater magical energy compared{n}with those found elsewhere. The Magic Academy{p}currently oversees the mine to prevent their misuse.",
+   "en": "A vast crystal vein was discovered within a mountain{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed following a certain accident.{p}Mining has since shifted to open-pit excavation, as{n}measurements revealed that the crystal forms an{n}enormous pyramid.{p}The magic crystals produced by this mine are{n}distinguished by their greater magical energy compared{n}with those found elsewhere.{p}The Magic Academy currently oversees the mine to{n}prevent their misuse.",
    "term": "end"
   },
   {
@@ -691,7 +691,7 @@
   {
    "id": "scen028.0107",
    "jp": "１００年前、人間とグローシアンの間に{n}戦争が起こった。{n}だがどこからか現れた化け物のため、{n}人間の人口は激減、戦争は中断された。{p}その際、数人のグローシアンが人間のために{n}化け物と命をかけて戦い、互いに姿を消した。{p}だが時を同じくして、全てのグローシアンも姿を消し、{n}彼らの支配は消えてしまった。{p}なぜ支配を行っていたグローシアンがいなくなったか、{n}化け物の正体は何だったのか、{n}いまだ真実は解明されていない。",
-   "en": "A hundred years ago, war broke out between humans{n}and Growsians. However, a monster of unknown origin{n}appeared, drastically reducing the human population{p}and bringing the war to a halt.{p}Several Growsians risked their lives fighting the{n}monster for humanity's sake, and both they and the{n}monster vanished.{p}At the same time, however, all other Growsians also{n}disappeared, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth remains unknown.",
+   "en": "A hundred years ago, war broke out between humans{n}and Growsians.{p}However, a monster of unknown origin appeared,{n}drastically reducing the human population and bringing{n}the war to a halt.{p}Several Growsians risked their lives fighting the{n}monster for humanity's sake, and both they and the{n}monster vanished.{p}At the same time, however, all other Growsians also{n}disappeared, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth remains unknown.",
    "term": "end"
   },
   {
@@ -715,7 +715,7 @@
   {
    "id": "scen028.0111",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members: Nicola C.; Maxwell J.; Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted) However, upon the expedition's{n}entry, the ceiling suddenly collapsed.{p}The collapse completely blocked the tunnel beyond that{n}point, restricting the investigation to the area around{n}the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members: Nicola C.; Maxwell J.; Prokins A....",
    "term": "end"
   },
   {
@@ -727,7 +727,7 @@
   {
    "id": "scen028.0113",
    "jp": "はるか昔、フェザリアンが巨大地下洞窟を{n}作ったとする伝承がある。{p}その洞窟は、常に形を変え続けるという{n}不思議な仕掛けが施されており、{n}しかも地下１０階層以上もあると言う。{n}そこに潜むモンスターは危険なものが多く、{n}地下深くには、未知のモンスターもいるらしい。{p}だが伝承によれば、この洞窟には{n}手つかずの素晴らしい財宝が数多く眠っている。{n}我々はこの洞窟のありかを探すべく、調査を進めた。{n}そこで、１つの貴重な情報を手に入れた。{p}この洞窟へ行くには、とある人物の力を借りなければ{n}ダメだという情報だ。{n}さらにその人物とは、フェザリアンに{n}洞窟の管理を任された一族のことを意味する。{p}我々は各地をさまよったあげく、{n}洞窟管理者の一族と思われる人物を{n}シュッツベルグで見つけることができた。{p}彼は洞窟を探索したいという我々の申し出を{n}簡単には受け入れてくれなかったが、{n}フェザリアン本に記してあったある言葉を伝えると、{n}ようやく彼は、洞窟への案内を約束してくれた。{p}そこで次の章は、この洞窟の探索記録を{n}記していこうと思う。",
-   "en": "Legend tells of an enormous underground cave built{n}long ago by the Featherians.{p}The cave is said to contain a mysterious mechanism{n}that constantly changes its shape, and to extend{n}more than ten levels underground. Many dangerous{p}monsters lurk within, and unknown creatures are said{n}to inhabit its depths.{p}According to legend, however, countless magnificent{n}treasures lie untouched within this cave. We began{n}investigating its whereabouts and obtained one{p}valuable piece of information.{p}To reach the cave, one must enlist the aid of a certain{n}person. More specifically, someone belonging to the{n}family entrusted by the Featherians with the cave's{p}care.{p}After wandering far and wide, we found a man in{n}Schutzberg whom we believed to be a member of this{n}family of caretakers.{p}He was reluctant to grant our request to explore the{n}cave. However, when we repeated certain words{n}recorded in a book on Featherians, he finally agreed to{p}guide us there.{p}In the next chapter, I shall recount our exploration of{n}this cave.",
+   "en": "Legend tells of an enormous underground cave built{n}long ago by the Featherians.{p}The cave is said to contain a mysterious mechanism{n}that constantly changes its shape, and to extend{n}more than ten levels underground.{p}Many dangerous monsters lurk within, and unknown{n}creatures are said to inhabit its depths.{p}According to legend, however, countless magnificent{n}treasures lie untouched within this cave.{p}We began investigating its whereabouts and obtained{n}one valuable piece of information.{p}To reach the cave, one must enlist the aid of a{n}certain person.{p}More specifically, someone belonging to the family{n}entrusted by the Featherians with the cave's care.{p}After wandering far and wide, we found a man in{n}Schutzberg whom we believed to be a member of this{n}family of caretakers.{p}He was reluctant to grant our request to explore{n}the cave.{p}However, when we repeated certain words recorded in{n}a book on Featherians, he finally agreed to guide{n}us there.{p}In the next chapter, I shall recount our exploration of{n}this cave.",
    "term": "end"
   },
   {
@@ -745,7 +745,7 @@
   {
    "id": "scen028.0116",
    "jp": "ラージン砦の南東部に広がる、迷いの森。{n}我々は、その名の由来となった装置の調査、{n}‥‥グローシアンが造った遺跡にあるとされる、{n}森にいる者の方向感覚を狂わす装置の{n}捜索と調査を行った。{p}遺跡内部の防衛機能は働いていたが、{n}マスター・ガーディアンの自己再生能力を解除。{n}安全が確保された時点で、{n}遺跡最深部にある装置の調査を開始。{p}装置自体の動力は切れていたため、{n}魔水晶による起動を行う。{n}結果、実際に迷いの森を発生させる機能があると判明。{n}装置起動中、グローシアン以外の知的生物は{n}遺跡に近づくことができなかった。{p}学院教授会は、悪用の危険があると判断。{n}我々はガーディアンの防衛機能を修復し、{n}かつ遺跡の入り口を封印。{n}ラージン砦の管理者がその鍵を持つこととなった。",
-   "en": "The Lost Forest stretches southeast of Fort Rajin. We{n}sought to locate and investigate the device from which{n}it takes its name... a device said to lie within ruins built{p}by the Growsians, which disrupts the sense of{n}direction of those in the forest.{p}The ruins' defenses remained active, but we disabled{n}the Master Guardian's regenerative ability. Once the{n}site was secure, we began investigating the device in{p}the deepest part of the ruins.{p}The device's power supply was depleted, so we{n}activated it using a magic crystal. We confirmed that it{n}could indeed produce the Lost Forest's disorienting{p}effect. While the device was active, no intelligent beings{n}other than Growsians could approach the ruins.{p}The Academy's faculty council deemed the risk of{n}misuse too great. We restored the Guardian's{n}defenses and sealed the entrance to the ruins. The key{p}was entrusted to the commander of Fort Rajin.",
+   "en": "The Lost Forest stretches southeast of Fort Rajin. We{n}sought to locate and investigate the device from which{n}it takes its name...{p}a device said to lie within ruins built by the Growsians,{n}which disrupts the sense of direction of those in{n}the forest.{p}The ruins' defenses remained active, but we disabled{n}the Master Guardian's regenerative ability.{p}Once the site was secure, we began investigating the{n}device in the deepest part of the ruins.{p}The device's power supply was depleted, so we{n}activated it using a magic crystal.{p}We confirmed that it could indeed produce the Lost{n}Forest's disorienting effect.{p}While the device was active, no intelligent beings other{n}than Growsians could approach the ruins.{p}The Academy's faculty council deemed the risk of{n}misuse too great. We restored the Guardian's{n}defenses and sealed the entrance to the ruins.{p}The key was entrusted to the commander of{n}Fort Rajin.",
    "term": "end"
   },
   {
@@ -1099,7 +1099,7 @@
   {
    "id": "scen028.0173",
    "jp": "背中に翼を持つフェザリアンは、有翼人とも呼ばれ、{n}我々人間とは別の種族である。{p}彼らは我々よりも精神的に進化した姿であり、{n}全てにおいて合理的である。{p}また彼らの知識は、最盛期のグローシアンを{n}凌駕しているのだが、これも合理さを求めることで{n}得られる物なのだろうか？{p}または全く別の理由があるのだろうか？{p}私は彼らの生態を調べる事をライフワークとしており、{n}この本に書ききれなかったこともまだまだある。{n}それらについては次巻を待たれたし。",
-   "en": "Featherians, also known as the winged folk for the{n}wings upon their backs, are a race distinct from{n}us humans.{p}They are more mentally evolved than we are, and{n}rational in all things.{p}Their knowledge surpasses even that of the Growsians{n}at their peak. Could this, too, be a result of their{n}pursuit of rationality?{p}Or is there an entirely different reason?{p}I have devoted my life's work to studying their biology,{n}and much remains that I could not include in this book.{n}For those findings, I ask readers to await the next{p}volume.",
+   "en": "Featherians, also known as the winged folk for the{n}wings upon their backs, are a race distinct from{n}us humans.{p}They are more mentally evolved than we are, and{n}rational in all things.{p}Their knowledge surpasses even that of the Growsians{n}at their peak. Could this, too, be a result of their{n}pursuit of rationality?{p}Or is there an entirely different reason?{p}I have devoted my life's work to studying their biology,{n}and much remains that I could not include in this book.{p}For those findings, I ask readers to await the{n}next volume.",
    "term": "end"
   },
   {

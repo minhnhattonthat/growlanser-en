@@ -605,7 +605,7 @@
   {
    "id": "scen018.0088",
    "jp": "途中データを使って、過去や未来へ行くのは{n}フラグが変になるので無理です。{n}ただし、{FFF0}ＦＣチェックモードの直後に、{n}このイベントチェックを行えば{FFF1}{n}実際のプレイと同様のフラグ立てが可能です。{n}ただし、ＦＣ休暇数とここでの休暇数を{FFF0}同数{FFF1}にしてね。{p}またＦＣチェックと連動する場合、{n}ここで一時フラグの全初期化をした方が無難です。{n}ちなみに全初期化をすると、途中データから{n}未来へ行くことも、大丈夫だと思います。{n}このモードを使ってバグが出た場合、{n}『{FFEE}イベントチェック全初期化使用{FFF1}』と記入して下さい。",
-   "en": "You cannot use a save from midway through the game{n}to jump backward or forward, as this messes up the{n}flags. However, {FFF0}if you run this event check immediately{p}after FC Check Mode,{FFF1} you can set the flags as they{n}would be in normal play. Just make sure the leave{n}number in FC and the one here are {FFF0}the same{FFF1}.{p}When using this together with FC Check, it is also safer{n}to reset all temporary flags here. Incidentally, I think{n}resetting them all should also let you jump forward from{p}a mid-game save. If you encounter a bug while using{n}this mode, please write: '{FFEE}Event Check: Full Reset Used{FFF1}'.",
+   "en": "You cannot use a save from midway through the game{n}to jump backward or forward, as this messes up{n}the flags.{p}However, {FFF0}if you run this event check immediately after{n}FC Check Mode,{FFF1} you can set the flags as they would be{n}in normal play.{p}Just make sure the leave number in FC and the one{n}here are {FFF0}the same{FFF1}.{p}When using this together with FC Check, it is also safer{n}to reset all temporary flags here.{p}Incidentally, I think resetting them all should also let you{n}jump forward from a mid-game save.{p}If you encounter a bug while using this mode, please{n}write: '{FFEE}Event Check: Full Reset Used{FFF1}'.",
    "term": "end"
   },
   {

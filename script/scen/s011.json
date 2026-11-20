@@ -393,7 +393,7 @@
   {
    "id": "scen011.0064",
    "jp": "{v:0238}お兄ちゃんと‥‥恋人になれますようにって‥‥。{n}願い‥‥かなったよね‥‥？{p}{v:0239}わたし、大きすぎる幸せなんていらない。{n}ただお兄ちゃんと、{n}ずっと、ずっと一緒にいられればいい‥‥。{p}{v:023A}小さい願いだけど、{n}わたしにはそれが何よりの幸せだもの‥‥。",
-   "en": "{v:0238}I wished that you and I could be... lovers... My wish...{n}came true, didn't it...?{p}{v:0239}I don't need anything grand to make me happy. I just{n}want to be with you, Big Brother, forever and ever...{p}{v:023A}It's a little wish, but nothing could make me happier...",
+   "en": "{v:0238}I wished that you and I could be... sweethearts... My{n}wish... came true, didn't it...?{p}{v:0239}I don't need anything grand to make me happy. I just{n}want to be with you, Big Brother, forever and ever...{p}{v:023A}It's a little wish, but nothing could make me happier...",
    "term": "end"
   },
   {
@@ -405,14 +405,14 @@
   {
    "id": "scen011.0066",
    "jp": "・任せてくれ",
-   "en": "・You can count on me.",
+   "en": "・You can count on me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0067",
    "jp": "・約束するよ",
-   "en": "・I promise.",
+   "en": "・I promise",
    "term": "end",
    "unref": true
   },
@@ -455,14 +455,14 @@
   {
    "id": "scen011.0074",
    "jp": "・いや、別に",
-   "en": "・No, not really.",
+   "en": "・No, not really",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0075",
    "jp": "・待ちくたびれたよ",
-   "en": "・I was getting tired of waiting.",
+   "en": "・I was getting tired of waiting",
    "term": "end",
    "unref": true
   },
@@ -535,14 +535,14 @@
   {
    "id": "scen011.0087",
    "jp": "・今来たんだよ",
-   "en": "・I just got here.",
+   "en": "・I just got here",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0088",
    "jp": "・さっきからずっとね",
-   "en": "・I've been here for a while.",
+   "en": "・I've been here for a while",
    "term": "end",
    "unref": true
   },
@@ -579,14 +579,14 @@
   {
    "id": "scen011.0094",
    "jp": "・そっと抱きしめる",
-   "en": "・Hold her gently.",
+   "en": "・Hold her gently",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0095",
    "jp": "・優しく抱きしめる",
-   "en": "・Hold her tenderly.",
+   "en": "・Hold her tenderly",
    "term": "end",
    "unref": true
   },
@@ -629,14 +629,14 @@
   {
    "id": "scen011.0102",
    "jp": "・もう平気さ",
-   "en": "・I'm fine now.",
+   "en": "・I'm fine now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0103",
    "jp": "・心配かけたな",
-   "en": "・Sorry I worried you.",
+   "en": "・Sorry I worried you",
    "term": "end",
    "unref": true
   },
@@ -685,7 +685,7 @@
   {
    "id": "scen011.0111",
    "jp": "{v:00E9}もうあれから数ヶ月か‥‥。{n}時間が経つのは早いものだな。{p}{v:00EA}確かこの村だったな、俺とお前が出会ったのは。{n}お前はサンドラ様の使いで、俺にこの義眼を届けて{n}くれた。{p}{v:00EB}今でもあの時のことはよく覚えている。{n}それまで闇の中に生きてきた俺に、突如光が戻った{n}からな‥‥。",
-   "en": "{v:00E9}A few months already, eh...? Time flies.{p}{v:00EA}This was the village where we met, wasn't it?{n}Sandra-sama sent you to deliver this artificial eye{n}to me.{p}{v:00EB}I still remember it well. I'd been living in darkness until{n}then. Suddenly, there was light again...",
+   "en": "{v:00E9}A few months already... Time flies.{p}{v:00EA}This was the village where we met, wasn't it?{n}Sandra-sama sent you to deliver this artificial eye{n}to me.{p}{v:00EB}I still remember it well. I'd been living in darkness until{n}then. Suddenly, there was light again...",
    "term": "end"
   },
   {
@@ -734,7 +734,7 @@
   {
    "id": "scen011.0119",
    "jp": "・それほどでも",
-   "en": "・Oh, it wasn't that much.",
+   "en": "・Oh, it wasn't that much",
    "term": "end",
    "unref": true
   },
@@ -813,14 +813,14 @@
   {
    "id": "scen011.0132",
    "jp": "・すまない",
-   "en": "・I'm sorry.",
+   "en": "・I'm sorry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0133",
    "jp": "・今度からもっと寄るようにするよ",
-   "en": "・I'll visit more often from now on.",
+   "en": "・I'll visit more often from now on",
    "term": "end",
    "unref": true
   },
@@ -944,7 +944,7 @@
   {
    "id": "scen011.0153",
    "jp": "・蹴られ癖がついただけだよ",
-   "en": "・I just got used to being kicked.",
+   "en": "・I just got used to being kicked",
    "term": "end",
    "unref": true
   },
@@ -1050,7 +1050,7 @@
   {
    "id": "scen011.0170",
    "jp": "・お前が好きだったんだ",
-   "en": "・I've been in love with you.",
+   "en": "・I've been in love with you",
    "term": "end",
    "unref": true
   },
@@ -1094,14 +1094,14 @@
   {
    "id": "scen011.0177",
    "jp": "・可愛いよ",
-   "en": "・You're cute.",
+   "en": "・You're cute",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0178",
    "jp": "・もっと抱きしめさせてくれ",
-   "en": "・Let me hold you a little longer.",
+   "en": "・Let me hold you a little longer",
    "term": "end",
    "unref": true
   },

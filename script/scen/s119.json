@@ -21,7 +21,7 @@
   {
    "id": "scen119.0002",
    "jp": "時空制御塔・Ａブロック",
-   "en": "Space-Time Control Tower - Block A",
+   "en": "Space-Time Control Tower, Block A",
    "term": "end"
   },
   {
@@ -39,7 +39,7 @@
   {
    "id": "scen119.0005",
    "jp": "時空制御装置へ向かえ！",
-   "en": "Head for the Space-Time Control Device!",
+   "en": "Head for the space-time control device!",
    "term": "end"
   },
   {
@@ -280,7 +280,7 @@
   {
    "id": "scen119.0044",
    "jp": "いろいろご心配をおかけしましたが、{n}もう大丈夫です。",
-   "en": "I'm sorry to have worried you so much, but I'm all{n}right now.",
+   "en": "I've caused you so much worry, but I'm all right now.",
    "term": "end"
   },
   {
@@ -330,7 +330,7 @@
   {
    "id": "scen119.0052",
    "jp": "がんばって下さいね。",
-   "en": "Do your best, okay?",
+   "en": "Please do your best.",
    "term": "end"
   },
   {

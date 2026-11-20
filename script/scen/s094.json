@@ -225,7 +225,7 @@
   {
    "id": "scen094.0036",
    "jp": "{v:002B}早とちりしないでくれ！{p}{v:002C}バーンシュタイン王国とローランディア王国が{n}やばそうだって話だから、仕入れた武器を{n}高く売るつもりで来ただけだ。",
-   "en": "{v:002B}Don't jump to conclusions!{p}{v:002C}We heard things were getting tense between the{n}Kingdom of Burnstein and the Kingdom of Rolandia. We{n}just came to sell the weapons we bought at a good{p}profit.",
+   "en": "{v:002B}Don't jump to conclusions!{p}{v:002C}We heard things were getting tense between the{n}Kingdom of Burnstein and the Kingdom of Rolandia.{p}We just came to sell the weapons we bought at a{n}good profit.",
    "term": "end"
   },
   {

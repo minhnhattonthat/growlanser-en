@@ -39,7 +39,7 @@
   {
    "id": "scen187.0005",
    "jp": "{v:004A}グローシュを持つ者はな！{n}とくにヤツの持つグローシュは強すぎる！",
-   "en": "{v:004A}All who possess Grosh are! And hers is far too strong!",
+   "en": "{v:004A}Anyone with Grosh is in the way! And hers is far{n}too strong!",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen187.0018",
    "jp": "{v:0051}お前ほどのグローシュを持つ者を{n}殺させるわけにはいかん。{n}及ばずながら手助けさせてもらうぞ。",
-   "en": "{v:0051}I cannot let someone with Grosh as powerful as yours{n}be killed. Allow this old man to offer what help he can.",
+   "en": "{v:0051}I cannot let someone with Grosh as powerful as yours{n}be killed. Allow me to offer what help I can, meager as{n}it is.",
    "term": "end"
   },
   {

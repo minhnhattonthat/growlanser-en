@@ -315,28 +315,28 @@
   {
    "id": "scen070.0051",
    "jp": "・あきらめているだけ",
-   "en": "・You're simply giving up.",
+   "en": "・You're simply giving up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0052",
    "jp": "・弱い生き方",
-   "en": "・That's a weak way to live.",
+   "en": "・That's a weak way to live",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0053",
    "jp": "・否定はしない",
-   "en": "・I won't reject your views.",
+   "en": "・I won't reject your views",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0054",
    "jp": "・何も思わない",
-   "en": "・I have no opinion.",
+   "en": "・I have no opinion",
    "term": "end",
    "unref": true
   },
@@ -415,7 +415,7 @@
   {
    "id": "scen070.0067",
    "jp": "{v:005D}歩き出す前からあきらめるのは、愚か者のする事だ。{n}この世界に生まれた以上、向かい風でもくじけず歩け。{p}{v:005E}父の言葉です。",
-   "en": "{v:005D}\"Only a fool gives up before taking the first step. You{n}were born into this world, so keep walking, undaunted,{n}even against the wind.\"{p}{v:005E}Those were my father's words.",
+   "en": "{v:005D}'Only a fool gives up before taking the first step. You{n}were born into this world, so keep walking, undaunted,{n}even against the wind.'{p}{v:005E}Those were my father's words.",
    "term": "end"
   },
   {
@@ -801,28 +801,28 @@
   {
    "id": "scen070.0129",
    "jp": "・ユングの巣がある",
-   "en": "・A Jung nest.",
+   "en": "・A Jung nest",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0130",
    "jp": "・ユングが好むものがある",
-   "en": "・Something the Jung like.",
+   "en": "・Something the Jung like",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0131",
    "jp": "・ゲヴェルの邪魔になるものがある",
-   "en": "・Something that gets in Gevel's way.",
+   "en": "・Something that gets in Gevel's way",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen070.0132",
    "jp": "・想像もつかない",
-   "en": "・I can't even guess.",
+   "en": "・I can't even guess",
    "term": "end",
    "unref": true
   },
@@ -1189,7 +1189,7 @@
   {
    "id": "scen070.0193",
    "jp": "‥‥装置は順調に動いている。{n}おかげでゲヴェルたちも下民どもを殺しまくっている。{p}確かに我々は人間に比べて数が少ない。{n}だがこの偉大な力がある。{p}たいした力を持たない下民が、{n}我々グローシアンにたてつくとは愚の骨頂だ。{p}それにしても気にかかるのは、{n}グローシアンでありながら{n}下民に味方しようとする連中の存在だ。{p}奴らはゲヴェルが我々の前では{n}真の力を発揮できないことを知っている。{n}これを逆手に取られたら‥‥。{p}すぐにでも新型を完成させなければならない‥‥。",
-   "en": "...The device is functioning smoothly. Thanks to it, the{n}Gevel creatures are slaughtering the lowborn{n}in droves.{p}It is true that we are fewer in number than humans.{n}But we possess this magnificent power.{p}For powerless lowborn to defy us Growsians is folly of{n}the highest order.{p}Still, one thing troubles me: those who would side with{n}the lowborn despite being Growsians themselves.{p}They know that Gevel cannot unleash its true power in{n}our presence. If they were to turn that against us...{p}We must complete the new model without delay...",
+   "en": "...The device is operating smoothly. Thanks to it, Gevel{n}and the others are slaughtering the rabble.{p}It is true that humans outnumber us. But we possess{n}this tremendous power.{p}For the rabble, with their meager power, to defy us{n}Growsians is the height of folly.{p}What concerns me, however, is the existence of those{n}who would side with the rabble despite being{n}Growsians themselves.{p}They know that Gevel cannot unleash his true power in{n}our presence. If they were to use that against us...{p}We must complete the new model at once...",
    "term": "end"
   },
   {

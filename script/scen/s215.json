@@ -105,7 +105,7 @@
   {
    "id": "scen215.0016",
    "jp": "{v:0041}そうかな？{n}そいつは我に操られたことがなかったか？{p}{v:0042}我が声や、他の私兵の声を聞いたことがなかったか？{p}{v:0043}それが我と精神的なつながりがあるという{n}証拠だと思わんか？",
-   "en": "{v:0041}Am I? Has he never fallen under my control?{p}{v:0042}Has he never heard my voice, or the voices of my{n}other soldiers?{p}{v:0043}Do you not think that proves his mind is linked to mine?",
+   "en": "{v:0041}Is that so? Has he never fallen under my control?{p}{v:0042}Has he never heard my voice, or the voices of my{n}other soldiers?{p}{v:0043}Do you not think that proves his mind is linked to mine?",
    "term": "end"
   },
   {

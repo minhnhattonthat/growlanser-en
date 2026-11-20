@@ -294,7 +294,7 @@
   {
    "id": "scen040.0047",
    "jp": "それでは、あらためまして。{FFFB}{n}これからも、よろしくお願いします。",
-   "en": "Well, let me say this again.{FFFB} I hope we'll stay close.",
+   "en": "Well then, let me say this properly.{FFFB} I hope we'll keep{n}getting along from now on.",
    "term": "end"
   },
   {
@@ -1606,7 +1606,7 @@
   {
    "id": "scen040.0264",
    "jp": "{v:0030}だとしたら、フェザリアンはどうしたんだ？{n}唯一の武器であるゲヴェルを奪われちまったんだろ？",
-   "en": "{v:0030}Then what did the Featherians do? They'd taken Gevel,{n}your only weapon, hadn't they?",
+   "en": "{v:0030}Then what did the Featherians do? Gevel was your{n}only weapon, and it was taken from you, wasn't it?",
    "term": "end"
   },
   {

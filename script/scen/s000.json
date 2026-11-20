@@ -515,7 +515,7 @@
   {
    "id": "scen000.0082",
    "jp": "{v:004A}あなたは昔から奇妙な夢ばかり見ていましたね。{n}外の世界など知らないはずなのに、{n}隣の国だとしか思えない場所を見たり。{p}{v:004B}今回はどこを見たのですか？",
-   "en": "{v:004A}You have always had strange dreams. Though you{n}should know nothing of the outside world, you have{n}dreamed of places that could only be in the neighboring{p}country.{p}{v:004B}What place did you see this time?",
+   "en": "{v:004A}You have always had strange dreams.{p}Though you should know nothing of the outside world,{n}you have dreamed of places that could only be in the{n}neighboring country.{p}{v:004B}What place did you see this time?",
    "term": "end"
   },
   {

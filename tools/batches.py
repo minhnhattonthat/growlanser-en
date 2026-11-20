@@ -5,6 +5,7 @@
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the wrapped English into script/
     python -X utf8 tools/batches.py wrap ID "English"     show how the wrapper lays out one line (dry-run fitter)
     python -X utf8 tools/batches.py edges [--write]       copy the JP's edge blanks / {n} into English that lost them
+    python -X utf8 tools/batches.py choices [--write]     drop a final period from '・' choice lines (the JP has none)
 
 Copied from the skill's assets/batches.py; ADAPTER fitted to Growlanser (script/*.json, {code} tokens, VWF budgets
 from tools/fit.py). Translators write paragraphs: the wrapper adds {n} (and {p} in dialogue) by pixel width, so the
@@ -46,7 +47,7 @@ EDGE_FREE = {  # skill rank labels "　１".."　９Ｂ": the MSYS packer (msysp
     **{"msys.skills.%04d" % i: "MSYS packer: no full-width blank" for i in range(123, 133)},
     "scen014.0185": "blanks centre the English line (vqa ev_battle001 f2640: 7 left it 17 px off centre)",
 }
-_SILENT = r"\{(?!F4[0-9A-F]{2}\}|s:|FFE[89A]\})[^}\n]*\}"  # codes that draw nothing (not dictionary/name/item vars)
+_SILENT = r"\{(?!F4[0-9A-F]{2}\}|s:|FFE[89AB]\})[^}\n]*\}"  # codes that draw nothing (not dictionary/name/item/number vars)
 LEAD = re.compile(r"^(?:%s|[ 　])*" % _SILENT)
 TRAIL = re.compile(r"(?:%s|[ 　])*$" % _SILENT)
 
@@ -137,6 +138,9 @@ def wrap(entry, en):
         return en
     pages = []
     for page in en.split("{p}"):
+        if b[0] == "scen" and "{n}" not in page and "　" not in page and not page.startswith(" "):
+            pages += page_flow(page.split(), b, b[3])
+            continue
         lines = []
         for hard in page.split("{n}"):
             body = hard.lstrip(" ")
@@ -158,6 +162,43 @@ def wrap(entry, en):
         else:
             pages.append("{n}".join(lines))
     return widows(entry, "{p}".join(pages))
+
+
+SENT_END = re.compile(r"[.!?…♪][\"')]*$")
+NOT_END = {"Mr.", "Mrs.", "Ms.", "Dr.", "St."}
+
+
+def sentence_end(word):
+    return bool(SENT_END.search(word)) and word not in NOT_END
+
+
+def page_flow(words, b, per_page):
+    """Greedy lines, per_page a page; a page that would end mid-sentence ends at its last sentence end instead
+    ("...overrun us in no{p}time." -> the whole sentence on the next page). A sentence longer than a page still
+    breaks where the page fills."""
+    pages, i = [], 0
+    while i < len(words):
+        lines, cur, j, cut = [], "", i, None
+        while j < len(words):
+            cand = f"{cur} {words[j]}" if cur else words[j]
+            if cur and not fits(cand, b):
+                lines.append(cur)
+                cur = ""
+                if len(lines) == per_page:
+                    break
+                continue
+            cur = cand
+            if sentence_end(words[j]) and j + 1 < len(words):
+                cut = (j, len(lines), cur)
+            j += 1
+        else:
+            lines.append(cur)
+        if cur == "" and j < len(words) and cut and not sentence_end(words[j - 1]):
+            j, n, cur = cut
+            lines, j = lines[:n] + [cur], j + 1
+        pages.append("{n}".join(lines))
+        i = j
+    return pages
 
 
 def widows(entry, en):
@@ -192,6 +233,37 @@ def fix_widows(write):
         if touched and write:
             path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(f"widows: {fixed} fixed{'' if write else ' (dry run: --write)'}")
+    return 0
+
+
+CHOICE_END = re.compile(r"^([ 　]*・.*[^.])\.$")
+
+
+def choice_period(entry, en):
+    """en with the final period dropped from each '・' choice line whose JP line has no 。 (lines paired by {n}/{p})."""
+    jp, parts = re.split(r"\{[np]\}", entry["jp"]), re.split(r"(\{[np]\})", en)
+    if len(jp) * 2 - 1 != len(parts):
+        return en
+    for i, line in enumerate(parts[::2]):
+        if not jp[i].rstrip().endswith("。"):
+            parts[2 * i] = CHOICE_END.sub(r"\1", line)
+    return "".join(parts)
+
+
+def fix_choice_periods(write):
+    fixed = 0
+    for path, doc, entries in docs():
+        touched = False
+        for e in entries:
+            if not e.get("en") or e["id"] in KEEP_JP:
+                continue
+            new = choice_period(e, e["en"])
+            if new != e["en"]:
+                fixed += 1
+                e["en"], touched = new, True
+        if touched and write:
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(f"choice periods: {fixed} fixed{'' if write else ' (dry run: --write)'}")
     return 0
 
 
@@ -260,6 +332,8 @@ def problems(entry, en, terms):
         return ["empty English"]
     out = []
     plain = TOKEN.sub("", en)
+    if choice_period(entry, en) != en:
+        out.append("choice line ends with a period (the JP's has none): drop it")
     if bad := sorted({c for c in plain if not encodable(c)}):
         out.append(f"unencodable characters {bad} (font has ASCII letters/punctuation and é … — ♪ ♥ only)")
     if re.search(r"\\u[0-9a-fA-F]{4}", en) or "\t" in en or "\\n" in en:
@@ -447,6 +521,8 @@ def main(argv):
         return fix_edges("--write" in args)
     if cmd == "widows":
         return fix_widows("--write" in args)
+    if cmd == "choices":
+        return fix_choice_periods("--write" in args)
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()

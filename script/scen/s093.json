@@ -99,7 +99,7 @@
   {
    "id": "scen093.0015",
    "jp": "がんばろうね、お兄ちゃん。{n}絶対、ぜったい、勝とうね？",
-   "en": "Let's do our best, Big Brother. Let's win, no matter{n}what... Promise?",
+   "en": "Let's do our best, Big Brother. We'll win for sure...{n}absolutely for sure, okay?",
    "term": "end"
   },
   {
@@ -801,7 +801,7 @@
   {
    "id": "scen093.0130",
    "jp": "{v:002F}本当はもっと、お兄ちゃんに抱きしめて欲しいけど、{n}あんまり遅くなるとみんなも心配しちゃうから。{p}{v:0030}それに、お兄ちゃんが助かれば、{n}いつだって抱きしめてもらえるから。{FFF9}{FFFB}{n}{v:0031}うふふ‥‥{FFF0}♥{FFF1}",
-   "en": "{v:002F}I really want you to hold me a little longer, Big Brother,{n}but everyone will worry if we're too late.{p}{v:0030}Besides, once you're better, you can hold me whenever{n}I want.{FFF9}{FFFB}{v:0031}Hee hee...{FFF0}♥{FFF1}",
+   "en": "{v:002F}I really want you to hold me a little longer, Big Brother,{n}but everyone will worry if we're too late.{p}{v:0030}Besides, once you're better, you can hold me{n}anytime.{FFF9}{FFFB}{v:0031}Hee hee...{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
@@ -1398,7 +1398,7 @@
   {
    "id": "scen093.0226",
    "jp": "・負けられないからな",
-   "en": "・I can't afford to lose.",
+   "en": "・I can't afford to lose",
    "term": "end",
    "unref": true
   },
@@ -1465,7 +1465,7 @@
   {
    "id": "scen093.0237",
    "jp": "・やってみせると答える",
-   "en": "・Say you'll do it.",
+   "en": "・Say you'll do it",
    "term": "end",
    "unref": true
   },
@@ -1558,21 +1558,21 @@
   {
    "id": "scen093.0252",
    "jp": "・頼もしいな",
-   "en": "・That's reassuring.",
+   "en": "・That's reassuring",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen093.0253",
    "jp": "・頼りにしてるぞ",
-   "en": "・I'm counting on you.",
+   "en": "・I'm counting on you",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen093.0254",
    "jp": "・俺の背は広いぞ",
-   "en": "・I've got a broad back.",
+   "en": "・I've got a broad back",
    "term": "end",
    "unref": true
   },
@@ -1591,7 +1591,7 @@
   {
    "id": "scen093.0257",
    "jp": "{v:0011}言ってくれるじゃねぇか。{p}{v:0012}だが、どんなになっても必ずお前は守ってみせるさ。",
-   "en": "{v:0011}You've got some nerve!{p}{v:0012}But no matter what happens, I'll protect you.",
+   "en": "{v:0011}Listen to you!{p}{v:0012}But no matter what happens, I'll protect you.",
    "term": "end"
   },
   {
@@ -1657,7 +1657,7 @@
   {
    "id": "scen093.0268",
    "jp": "・それほどのものじゃないさ",
-   "en": "・I'm not that remarkable.",
+   "en": "・I'm not that remarkable",
    "term": "end",
    "unref": true
   },
@@ -1683,7 +1683,7 @@
   {
    "id": "scen093.0272",
    "jp": "{v:000C}あなたは僕にないものをたくさん持っているんです。{p}{v:000D}勇気、{FFF9}{FFFB}{v:000E}自信、{FFF9}{FFFB}{v:000F}実行力‥‥。{FFF9}{FFFB}{n}{v:0010}僕はそんなあなたを見ながら、{n}あなたの良いところを取り入れようとしました。{p}{v:0011}全部が全部出来たわけでは無いですが、{n}それでも徐々に自分のものになっていきました。{p}{v:0012}でも、僕が１歩前進すると、{n}あなたは２歩も３歩も先へ進んでいる‥‥。{FFF9}{FFFB}{n}{v:0013}いたちごっこですね。{p}{v:0014}でもいつかきっとあなたを越えてみせます。{n}その時まで、僕を導いてください。{FFF9}{FFFB}{n}{v:0015}兄のように、やさしく‥‥。{p}‥‥{v:0016}あ、そろそろみんなの所へ戻らないと。",
-   "en": "{v:000C}You have so many qualities I lack.{p}{v:000D}Courage,{FFF9}{FFFB}{v:000E}confidence,{FFF9}{FFFB}{v:000F}the ability to act...{FFF9}{FFFB}{v:0010}As I watched{n}you, I tried to learn from those strengths.{p}{v:0011}I haven't managed to learn everything, but little by{n}little, those qualities became part of me.{p}{v:0012}Yet whenever I take one step forward, you take two{n}or three...{FFF9}{FFFB}{v:0013}I'm always trying to catch up.{p}{v:0014}But one day, I promise I'll surpass you. Until then,{n}please keep guiding me.{FFF9}{FFFB}{v:0015}Gently, like an older brother...{p}...{v:0016}Oh, we should get back to the others.",
+   "en": "{v:000C}You have so many qualities I lack.{p}{v:000D}Courage,{FFF9}{FFFB}{v:000E}confidence,{FFF9}{FFFB}{v:000F}the ability to act...{FFF9}{FFFB}{v:0010}As I watched{n}you, I tried to learn from those strengths.{p}{v:0011}I haven't managed to learn everything, but little by{n}little, those qualities became part of me.{p}{v:0012}Yet whenever I take one step forward, you take two{n}or three...{FFF9}{FFFB}{v:0013}It's an endless game of catch-up.{p}{v:0014}But one day, I promise I'll surpass you. Until then,{n}please keep guiding me.{FFF9}{FFFB}{v:0015}Gently, like an older brother...{p}...{v:0016}Oh, we should get back to the others.",
    "term": "end"
   },
   {

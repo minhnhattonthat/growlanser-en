@@ -275,7 +275,7 @@
   {
    "id": "scen056.0043",
    "jp": "エリオット様が王位を取り戻す戦いで、{n}我らが領主、ダグラス卿が大活躍したんだ。{n}領民として、鼻が高いよね。",
-   "en": "Our lord, Lord Douglas, played a major part in{n}Elliot-sama's fight to reclaim the throne. Makes you{n}proud to be one of his people, doesn't it?",
+   "en": "Our own Lord Douglas played a major part in{n}Elliot-sama's fight to reclaim the throne. Makes you{n}proud to be one of his people, doesn't it?",
    "term": "end"
   },
   {
@@ -287,7 +287,7 @@
   {
    "id": "scen056.0045",
    "jp": "ジュリア様のことは、みんなで秘密にしてたんだけど、{n}まさか自分から女性だと明かすなんて驚いたわ。{n}それに女ナイツまで認めさせるなんて‥‥。{p}やっぱりあのお方は凄いわ。{n}同じ女性として尊敬しちゃうな。",
-   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she chose to reveal she was a woman. And{n}she even got them to accept women as Imperial{p}Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
+   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she chose to reveal she was a woman.{p}And she even got them to accept women as{n}Imperial Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
    "term": "end"
   },
   {
@@ -787,21 +787,21 @@
   {
    "id": "scen056.0127",
    "jp": "・しっかり覚えている",
-   "en": "・I remember clearly.",
+   "en": "・I remember clearly",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen056.0128",
    "jp": "・なんとなく覚えている",
-   "en": "・I vaguely remember.",
+   "en": "・I vaguely remember",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen056.0129",
    "jp": "・最近会っていないので、不安がある",
-   "en": "・It's been a while. I'm not sure.",
+   "en": "・It's been a while. I'm not sure",
    "term": "end",
    "unref": true
   },
@@ -880,14 +880,14 @@
   {
    "id": "scen056.0142",
    "jp": "・秘密を知っている",
-   "en": "・I know the secret.",
+   "en": "・I know the secret",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen056.0143",
    "jp": "・秘密など知らない",
-   "en": "・I don't know any secret.",
+   "en": "・I don't know any secret",
    "term": "end",
    "unref": true
   },

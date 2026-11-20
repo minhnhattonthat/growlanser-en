@@ -444,7 +444,7 @@
   {
    "id": "scen255.0070",
    "jp": "そいつは、突然物陰から飛び出して、{n}短剣一本で隊長に向かってきたんだ。{n}近隣に名声が響き渡る傭兵部隊の隊長にだぜ。{p}もちろん、隊長はその一撃をかわした。{n}そして、あっと言う間にそいつを切り伏せた。{p}隊長は虫の息のそいつに{n}『俺に勝てると思ったか？』って問いかけた。{p}暗殺者は『今まで、どんな強い奴でも短剣一本で{n}しとめてきた。』と答えて息を引き取った。{p}‥‥暗殺者には暗殺者の誇りがあるってことさ。{n}騎士には騎士の、{n}傭兵には傭兵の誇りがあるようにな‥‥。",
-   "en": "The fellow jumped out of the shadows and went at the{n}captain with a single dagger. The captain of a{n}mercenary company famous throughout the region, mind{p}you.{p}Of course, the captain dodged the blow. Then he cut{n}the fellow down in an instant.{p}As the fellow lay dying, the captain asked, 'Did you think{n}you could beat me?'{p}The assassin answered, 'Until now, a single dagger was{n}all I needed to kill anyone, however strong.' Then he{n}breathed his last.{p}...An assassin has his pride. Just as a knight has his,{n}and a mercenary has his...",
+   "en": "The fellow jumped out of the shadows and went at the{n}captain with a single dagger.{p}The captain of a mercenary company famous{n}throughout the region, mind you.{p}Of course, the captain dodged the blow. Then he cut{n}the fellow down in an instant.{p}As the fellow lay dying, the captain asked, 'Did you think{n}you could beat me?'{p}The assassin answered, 'Until now, a single dagger was{n}all I needed to kill anyone, however strong.' Then he{n}breathed his last.{p}...An assassin has his pride. Just as a knight has his,{n}and a mercenary has his...",
    "term": "end"
   },
   {
@@ -600,7 +600,7 @@
   {
    "id": "scen255.0095",
    "jp": "{v:00C0}アンタ、なに偉そうにしてるのよ！{n}忘れてるくせに！",
-   "en": "{v:00C0}What are you acting so smug for?! You don't{n}remember either!",
+   "en": "{v:00C0}What are you acting so smug for?! You don't{n}even remember!",
    "term": "end"
   },
   {

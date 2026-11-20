@@ -99,7 +99,7 @@
   {
    "id": "scen053.0015",
    "jp": "{v:0016}こんな顔した奴、どこにでもいますって★",
-   "en": "{v:0016}Oh, you see guys with faces like his everywhere!",
+   "en": "{v:0016}Oh, guys with faces like his are everywhere, ya know!",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen053.0060",
    "jp": "{v:0021}２０年近く会ってないって言ったけど、{n}この間、会ってたモン。",
-   "en": "{v:0021}He said they hadn't met in nearly twenty years, but{n}they met just the other day!",
+   "en": "{v:0021}He said they hadn't met in nearly twenty years, but{n}they did meet, just the other day!",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen053.0154",
    "jp": "{v:00A1}シャドー・ナイツは私が先の王に進言して{n}作ったものだ。{n}もっとも、半分はゲヴェルに命じられたのだがな。{p}{v:00A2}そして私が初代マスターの座に就いていたからだ。",
-   "en": "{v:00A1}I advised the previous king to establish the Shadow{n}Knights. Though I was acting partly on Gevel's orders.{p}{v:00A2}And I served as their first Master.",
+   "en": "{v:00A1}Because I was the one who advised the previous king{n}to create the Shadow Knights. Though, truth be told,{n}half of that was on Gevel's orders.{p}{v:00A2}And because I served as their first Master.",
    "term": "end"
   },
   {

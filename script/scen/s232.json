@@ -59,7 +59,7 @@
   {
    "id": "scen232.0008",
    "jp": "△ボタンを押せば、仲間の一覧メニューが出るよね？{n}そこでアイテムを使わせる人を選べば、{n}命令指示メニューが表示されるでしょ？{p}あとは『{FFEE}ＩＴＥＭ{FFF1}』ってのを選ぶと{n}持っているアイテムが表示されるから{n}使いたいアイテムを選べばいいのよ。{p}ここで装備を変えたりもできるしね。{n}ただ、使っても効果がないアイテムもあるけど[01BE]{p}それとアイテムを選んでいる時、{n}右側に『{FFEE}ＣＴ{FFF1}（カウント）』という単位で{n}数字が出てると思うけど‥‥。{p}これはアイテムを使ったり、装備した時にかかる{n}時間の長さだよ。",
-   "en": "Pressing the Triangle button brings up the party list,{n}right? Pick the person you want to use an item, and{n}the command menu appears.{p}Then pick '{FFEE}ITEM{FFF1}' to see the items you're carrying. Just{n}choose the one you want to use!{p}You can change equipment here, too. Some items won't{n}do anything even if you use them, though...[01BE]{p}When you're choosing an item, you'll also see a number{n}on the right measured in '{FFEE}CT{FFF1}' (counts).{p}That's how long it takes to use or equip that item.",
+   "en": "Pressing the Triangle button brings up the party list,{n}right? Pick the person you want to use an item, and{n}the command menu appears.{p}Then pick '{FFEE}ITEM{FFF1}' to see the items you're carrying. Just{n}choose the one you want to use!{p}You can change equipment here, too.{p}Some items won't do anything even if you use them,{n}though...[01BE] When you're choosing an item, you'll also see{n}a number on the right measured in '{FFEE}CT{FFF1}' (counts).{p}That's how long it takes to use or equip that item.",
    "term": "end"
   },
   {

@@ -317,7 +317,7 @@
   {
    "id": "scen007.0051",
    "jp": "・ま、当然かな？",
-   "en": "・Well, I certainly deserved it.",
+   "en": "・Well, I certainly deserved it",
    "term": "end",
    "unref": true
   },
@@ -330,7 +330,7 @@
   {
    "id": "scen007.0053",
    "jp": "がんばるって、何を？",
-   "en": "Give what your all?",
+   "en": "Give it your all at what?",
    "term": "end"
   },
   {
@@ -426,7 +426,7 @@
   {
    "id": "scen007.0069",
    "jp": "{v:0001}おお、無事に戻ってきてくれて何より。",
-   "en": "{v:0001}Ah, it is good indeed that you have returned safely.",
+   "en": "{v:0001}Ah, we are most glad that you have returned safely.",
    "term": "end"
   },
   {

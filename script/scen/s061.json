@@ -593,14 +593,14 @@
   {
    "id": "scen061.0097",
    "jp": "・我々に協力して欲しい",
-   "en": "・We want your help.",
+   "en": "・We want your help",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0098",
    "jp": "・お前は間違っている",
-   "en": "・You're wrong.",
+   "en": "・You're wrong",
    "term": "end",
    "unref": true
   },
@@ -704,7 +704,7 @@
   {
    "id": "scen061.0115",
    "jp": "{v:0023}{s:0004}陛下！",
-   "en": "{v:0023}Your Majesty, King {s:0004}!",
+   "en": "{v:0023}King {s:0004}!",
    "term": "end"
   },
   {
@@ -926,21 +926,21 @@
   {
    "id": "scen061.0152",
    "jp": "・人の意志の力を結晶化したもの",
-   "en": "・Human willpower in crystal form.",
+   "en": "・Human willpower in crystal form",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0153",
    "jp": "・不思議な宝石",
-   "en": "・A mysterious jewel.",
+   "en": "・A mysterious jewel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen061.0154",
    "jp": "・因果律を歪めて超常現象を起こすもの",
-   "en": "・It warps causality to cause supernatural phenomena.",
+   "en": "・It warps causality to cause supernatural phenomena",
    "term": "end",
    "unref": true
   },
@@ -1115,7 +1115,7 @@
   {
    "id": "scen061.0183",
    "jp": "{FFEE}{v:000A}　　　愚かな人間どもよ！{n}　　　よく聞くがいい！{p}{v:000B}　　　私は今まで{s:0059}や魔法使い以外には{n}　　　攻撃を仕掛けなかった。{n}　　　それは来たるべき我が支配のためだ。{n}　　　だが一部の愚か者のために、{n}　　　私の気が変わりかけている。{p}{v:000C}　　　そうだ。{n}　　　これからは無差別に人間を殺す。{FFF1}",
-   "en": "{FFEE}{v:000A}　　　Foolish humans! Listen well!{p}{v:000B}Until now, I have attacked only those who serve in the{n}{s:0059} ranks or practice magic. This was{n}for the sake of my coming reign. But certain fools are{p}beginning to change my mind.{p}{v:000C}Yes. From now on, I shall kill humans indiscriminately.{FFF1}",
+   "en": "{FFEE}{v:000A}　　　Foolish humans! Listen well!{p}{v:000B}Until now, I have attacked only those who serve in the{n}{s:0059} ranks or practice magic. This was{n}for the sake of my coming reign.{p}But certain fools are beginning to change my mind.{p}{v:000C}Yes. From now on, I shall kill humans indiscriminately.{FFF1}",
    "term": "end"
   },
   {

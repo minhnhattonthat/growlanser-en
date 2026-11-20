@@ -192,7 +192,7 @@
   {
    "id": "scen060.0030",
    "jp": "{v:0016}何？{p}{FC04}{v:0017}よし、向こうで詳しい話を聞かせてもらおうか。",
-   "en": "{v:0016}What?{p}{FC04}{v:0017}Come, let us go over there. I want to hear everything.",
+   "en": "{v:0016}What?{p}{FC04}{v:0017}All right, let's go over there. I want to hear everything.",
    "term": "end"
   },
   {
@@ -288,7 +288,7 @@
   {
    "id": "scen060.0046",
    "jp": "{v:0001}なーに、その幸せいっぱいそうな顔は？",
-   "en": "{v:0001}Well, what's got you looking so happy?",
+   "en": "{v:0001}Whaaat's with that super happy look on your face?",
    "term": "end"
   },
   {
@@ -326,7 +326,7 @@
   {
    "id": "scen060.0052",
    "jp": "{v:0006}でも、わたしががんばれたのは、{n}お兄ちゃんがいたからだもん。",
-   "en": "{v:0006}But I only managed to try so hard because you were{n}there, Big Brother.",
+   "en": "{v:0006}But I was only able to do my best because you were{n}there, Big Brother.",
    "term": "end"
   },
   {
@@ -464,7 +464,7 @@
   {
    "id": "scen060.0075",
    "jp": "{v:0033}いまさら恥ずかしがることないでしょ？",
-   "en": "{v:0033}Bit late to be embarrassed now, isn't it?",
+   "en": "{v:0033}Aww, it's a bit late to be embarrassed now, don't{n}you think?",
    "term": "end"
   },
   {
@@ -761,7 +761,7 @@
   {
    "id": "scen060.0124",
    "jp": "{v:0053}コイツ、ウソ教えたわね‥‥。",
-   "en": "{v:0053}You gave her bogus advice, didn't you...",
+   "en": "{v:0053}This guy gave you bogus advice, didn't he...",
    "term": "end"
   },
   {
@@ -1085,7 +1085,7 @@
   {
    "id": "scen060.0178",
    "jp": "{v:00A6}あまり羽{s:0127}を外してはダメですよ。",
-   "en": "{v:00A6}Keep a watchful eye on yourselves. Do{n}not get too carried away.",
+   "en": "{v:00A6}Do not get too carried away, now.",
    "term": "end"
   },
   {
@@ -1115,7 +1115,7 @@
   {
    "id": "scen060.0183",
    "jp": "{v:00B1}それは私の方が聞きたいよ。{n}{s:0001}君はどうやってグローシュを取り戻したんだね？",
-   "en": "{v:00B1}I would like to know that myself. How did {s:0001}{n}regain her Grosh?",
+   "en": "{v:00B1}That is what I should be asking you. How did {s:0001}{n}regain her Grosh?",
    "term": "end"
   },
   {
@@ -1163,7 +1163,7 @@
   {
    "id": "scen060.0191",
    "jp": "‥‥{v:00B9}まあな。{p}{v:00BA}だが、気にしないでくれ。{n}{s:001B}様が昔のように戻られただけで十分だ。",
-   "en": "...{v:00B9}Yes, it was.{p}{v:00BA}But do not concern yourselves. It is enough that Lord{n}{s:001B} is himself again.",
+   "en": "...{v:00B9}I suppose it was.{p}{v:00BA}But do not concern yourselves. It is enough that Lord{n}{s:001B} is himself again.",
    "term": "end"
   },
   {

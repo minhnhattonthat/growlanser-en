@@ -93,7 +93,7 @@
   {
    "id": "scen024.0014",
    "jp": "{v:0003}知識の独占を防ぐためだって言ってたよ。{n}魔法は便利だけど、危険なものだから、{n}それを集中して管理するのがこの学院の目的なの。",
-   "en": "{v:0003}They said it was to keep either country from{n}monopolizing knowledge. Magic is useful, but it's{n}dangerous, too. The Academy's purpose is to manage it{p}all in one place.",
+   "en": "{v:0003}They said it was to keep either country from{n}monopolizing knowledge. Magic is useful, but it's{n}dangerous, too.{p}The Academy's purpose is to manage it all in one place.",
    "term": "end"
   },
   {
@@ -399,7 +399,7 @@
   {
    "id": "scen024.0065",
    "jp": "魔法エフェクトは{FFEE}✕ボタン{FFF1}で早送りが出来て、{n}さらに{FFEE}○ボタン{FFF1}でスキップが可能‥‥。{p}魔法には{FFEF}属性{FFF1}があり、対象の魔法耐性によっては{n}{FFF0}攻撃魔法で、より多くのダメージを与える{FFF1}{n}{FFF0}攻撃魔法を吸収し、ＨＰを回復させる{FFF1}などがある。{p}例をあげると、ヘルハウンドに炎属性の魔法は厳禁。{n}逆にアンデッドには炎属性が有効‥‥‥。{p}‥‥はあ、魔導書の丸暗記だけは出来るんだけどなぁ。{n}いざ戦闘となると忘れちゃうんだろうなぁ‥‥。",
-   "en": "You can speed up spell effects with the {FFEE}X button{FFF1}, or{n}skip them with the {FFEE}Circle button{FFF1}...{p}Spells have {FFEF}elemental attributes{FFF1}. Depending on the{n}target's magic resistance, {FFF0}attack spells may deal extra{n}damage{FFF1}, or {FFF0}be absorbed to restore HP{FFF1}, among other{p}effects.{p}For example, never use fire spells on a Hellhound. Fire{n}is effective against the undead, however...{p}...*sigh* I can memorize a spellbook word for word, at{n}least. I'll probably forget it all when I'm actually{n}in battle...",
+   "en": "You can speed up spell effects with the {FFEE}X button{FFF1}, or{n}skip them with the {FFEE}Circle button{FFF1}...{p}Spells have {FFEF}elemental attributes{FFF1}.{p}Depending on the target's magic resistance, {FFF0}attack{n}spells may deal extra damage{FFF1}, or {FFF0}be absorbed to{n}restore HP{FFF1}, among other effects.{p}For example, never use fire spells on a Hellhound. Fire{n}is effective against the undead, however...{p}...*sigh* I can memorize a spellbook word for word, at{n}least. I'll probably forget it all when I'm actually{n}in battle...",
    "term": "end"
   },
   {
@@ -977,7 +977,7 @@
   {
    "id": "scen024.0160",
    "jp": "まぁ、そうじゃな。{p}この辺りでは、北に行くほどグローシュが多く、{n}南に行くほどグローシュが少ない。{n}つまり北ほど時空の狭間が大きいということじゃ。{p}そしてその隙間は、同じ場所でも微妙に変化する。{n}つまりグローシュの量も、{n}わずかだが日によって違うのじゃ。",
-   "en": "Well, yes, they are.{p}Around here, the farther north you go, the more{n}Grosh there is. The farther south you go, the less{n}there is. In other words, the gap in space-time grows{p}wider to the north, you see.{p}And that gap changes slightly, even in the same place.{n}So the amount of Grosh varies a little from day to{n}day, too.",
+   "en": "Well, yes, they are.{p}Around here, the farther north you go, the more{n}Grosh there is. The farther south you go, the less{n}there is.{p}In other words, the gap in space-time grows wider to{n}the north, you see.{p}And that gap changes slightly, even in the same place.{n}So the amount of Grosh varies a little from day to{n}day, too.",
    "term": "end"
   },
   {
@@ -1033,7 +1033,7 @@
   {
    "id": "scen024.0169",
    "jp": "グローシュを溜めておける方法は、{n}サンドラ先生が研究しておったりするが‥‥。{p}今の所はこうやって送魔線で集め続けるしかない。{n}だから、この送魔線の設置場所、{n}その中身の回路の出来がじゃな‥‥。",
-   "en": "Sandra-sensei is researching ways to store Grosh,{n}mind you...{p}For now, all we can do is keep gathering it through{n}mana lines like this. So, where we install these mana{n}lines, and the quality of the circuitry inside them, you{p}see...",
+   "en": "Sandra-sensei is researching ways to store Grosh,{n}mind you...{p}For now, all we can do is keep gathering it through{n}mana lines like this.{p}So, where we install these mana lines, and the quality{n}of the circuitry inside them, you see...",
    "term": "end"
   },
   {

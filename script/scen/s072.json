@@ -987,7 +987,7 @@
   {
    "id": "scen072.0162",
    "jp": "{v:004E}いや、その判断は間違えていない。{p}{v:004F}もし橋を奪うつもりで戦っていたら、{n}敵はいつまで経っても、橋の周囲から兵を引かず、{n}その間に姫は監獄へ移されてしまっただろう。",
-   "en": "{v:004E}No, that was the right decision.{p}{v:004F}Had you fought to capture the bridge, the enemy{n}would never have withdrawn its troops from the area.{n}Meanwhile, the princess would have been taken to the{p}prison.",
+   "en": "{v:004E}No, that was the right decision.{p}{v:004F}Had you fought to take the bridge, the enemy would{n}never have withdrawn from around it. Meanwhile, the{n}princess would have been moved to the prison.",
    "term": "end"
   },
   {

@@ -463,7 +463,7 @@
   {
    "id": "scen059.0075",
    "jp": "{v:0025}これがリシャールのしていた腕輪です。{n}本来であれば、王家のしきたりに従い、{n}内側に宮廷魔術師の名前が彫り込まれているはず。{p}{v:0026}王子が生まれた時、私の他に２人の宮廷魔術師が{n}この腕輪作りに参加しました。",
-   "en": "{v:0025}This is the bracelet Richard wore. According to royal{n}custom, the Court Magician's name should be engraved{n}on the inside.{p}{v:0026}When the prince was born, two other Court Magicians{n}joined me in making this bracelet.",
+   "en": "{v:0025}This is the bracelet Richard wore. According to royal{n}custom, the Court Magicians' names should be{n}engraved on the inside.{p}{v:0026}When the prince was born, two other Court Magicians{n}joined me in making this bracelet.",
    "term": "end"
   },
   {
@@ -1153,7 +1153,7 @@
   {
    "id": "scen059.0190",
    "jp": "{v:0028}頼む。{n}その代わり、君たちはリシャール王を！",
-   "en": "{v:0028}Please. You must deal with King Richard!",
+   "en": "{v:0028}Please. In return, you must deal with King Richard!",
    "term": "end"
   },
   {

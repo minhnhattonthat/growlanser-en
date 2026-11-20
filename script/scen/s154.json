@@ -339,7 +339,7 @@
   {
    "id": "scen154.0054",
    "jp": "{v:00DC}いやぁ、馬子にも衣装って言葉、思い出しちゃってさ。{n}あのジュリアンも‥‥。",
-   "en": "{v:00DC}Oh, I was just thinking how anyone can look good in{n}the right clothes. Even Julian...",
+   "en": "{v:00DC}Oh, I was just reminded of that saying, 'Even a{n}scarecrow looks fine in fine clothes.' Even Julian...",
    "term": "end"
   },
   {
@@ -1255,7 +1255,7 @@
   {
    "id": "scen154.0205",
    "jp": "{v:00C7}もう、いいじゃないの。{n}{FC00}ま、でも今日はごちそうさま。{n}またごちそうしてね{FFF0}♥{FFF1}",
-   "en": "{v:00C7}Oh, let me have that, will you? {FC00}Anyway, thanks for the{n}meal today. You'll cook for us again, right{FFF0}♥{FFF1}",
+   "en": "{v:00C7}Oh, come on, who cares? {FC00}Anyway, thanks for the meal{n}today. You'll cook for us again, right{FFF0}♥{FFF1}",
    "term": "end"
   },
   {

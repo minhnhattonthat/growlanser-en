@@ -2,8 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (session 18). **Next:** finish the story pass, merge polish batches, global
-  system-message pass, re-tour/waive, cover rerun, then `tools/release.py`.
+- **Phase:** 9. Release in progress (session 19). **Next:** build, re-tour + stress on the new build, vqa the changed
+  sheets, cover rerun, then `tools/release.py`.
+- **Phase 9 session 19 (2026-11-21): story pass done, polish done.** Story gate green: `qa_gate check
+  work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0 (40/40; work/qa/story/verdicts/final_s19.tsv). c06-c17
+  story-reviewed (plugin reviewer agents), c01-c05 diff-reviewed after polish round 1 (new tools/story_diff.py: changed
+  lines since a commit, `--ctx N`), then all 40 diff-reviewed after round 2 (vs 12990ab). Fixed: 1 Critical + more
+  Julian pronoun leaks (077.0111, 260.0072, 016.0191), Importants (030.0258, 037.0115, 040.0264, 059.0049, 153.0062,
+  191.0025, 198.0038). Polish round 2 p12-p15 (221 ids: 197 fixed, 24 waived) merged; docs/polish.md has no open line.
+  Global fixes: 117 choice lines lost their final period (`batches.py choices`, now a problems() check too); dialogue
+  pages break at sentence ends (batches.page_flow in the wrapper; `rewrap.py --pages` re-paged ~100 entries; runs with a
+  hand-made {n} layout are skipped: a first pass flattened the scen001.0174 legend, restored); Misha's お兄さま = "Big
+  Brother" everywhere; " -san" after name variables dropped (s041); skill trigger labels "On normal attacks.";
+  bookshelf titles one per line (s069); "{FFEB} Elm." (FFEB prints a number; batches' edge lint treated it as silent,
+  fixed). Colon glyph polish line waived (same dot as "."). Build before the last hand fixes: disc 1 4e5b4bd2, smoke ok;
+  REBUILD before touring. Text changes invalidate the tour/stress manifests (build hash) and cover hashes: re-tour
+  (`tools/debug/warp_all.py --cue build/... --out work/qa/tour` per the s17 notes), `qa_gate init` + vqa changed sheets,
+  stress warps the same, cover.py rerun (or `textcover --runs-for` on the changed ids), then `tools/release.py`.
+  Open, non-blocking: "Rolandia army" vs "Rolandian army" (s103 uses the adjective); arena rank wording (s111) left as is.
 - **Phase 9 session 18 (2026-11-21).** New: `tools/story.py` (chapter files from docs/synopsis.md, 40 parts in
   work/qa/story/chapters; manifest work/qa/story/manifest.tsv), `docs/story-reviewer-brief.md` (plugin reviewer
   agents, one per part; Minors -> docs/polish.md "Story pass Minors"), `tools/polish.py` (split open polish lines

@@ -219,7 +219,7 @@
   {
    "id": "scen006.0035",
    "jp": "現在、国王は取り込み中だ。{n}別の機会にせよ。",
-   "en": "The King is occupied at present. Return another time.",
+   "en": "The king is occupied at present. Return another time.",
    "term": "end"
   },
   {
@@ -423,7 +423,7 @@
   {
    "id": "scen006.0069",
    "jp": "{v:0008}国王、放心している暇はありません。{n}すぐにバーンシュタイン王国が攻めてきそうな場所に兵を配しなければ、{n}あっという間に攻め込まれてしまいます。",
-   "en": "{v:0008}Your Majesty, there is no time to sit in shock. We must{n}immediately station troops wherever the Kingdom of{n}Burnstein is likely to strike, or they will overrun us in no{p}time.",
+   "en": "{v:0008}Your Majesty, there is no time to sit in shock.{p}We must immediately station troops wherever the{n}Kingdom of Burnstein is likely to strike, or they will{n}overrun us in no time.",
    "term": "end"
   },
   {
@@ -603,7 +603,7 @@
   {
    "id": "scen006.0099",
    "jp": "{v:000C}休暇の日数は、こなした任務とその成果から{n}判断されることになる。{p}{v:000D}また休暇を過ごす先は随時増えて行くが、{n}ここで予定した行き先通りに、休暇を取ってもらう。{p}{v:000E}休暇日数が２日以上の場合、１日ごとに行き先を{n}ここで選ぶ。何かあった場合、連絡が取れないと{n}困るのでな、これは徹底してもらう。",
-   "en": "{v:000C}The length of your leave will be determined by the{n}mission you have completed and its results.{p}{v:000D}More destinations will become available over time, but{n}you must spend your leave at the destinations you{n}select here.{p}{v:000E}If you have two or more days of leave, select a{n}destination here for each day. We must be able to{n}reach you should anything happen. You are to follow{p}this rule without exception.",
+   "en": "{v:000C}The length of your leave will be determined by the{n}mission you have completed and its results.{p}{v:000D}More destinations will become available over time, but{n}you must spend your leave at the destinations you{n}select here.{p}{v:000E}If you have two or more days of leave, choose a{n}destination here for each day.{p}We must be able to reach you if anything happens, so{n}follow this rule without exception.",
    "term": "end"
   },
   {

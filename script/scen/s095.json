@@ -657,7 +657,7 @@
   {
    "id": "scen095.0106",
    "jp": "{v:005F}う～ん、よく休めたぜ。{FFF9}{FFFB}{n}{v:0060}それじゃ今度は俺とルイセで見張る番だな。",
-   "en": "{v:005F}Ahh, slept like a log.{FFF9}{FFFB}{v:0060}Now it's my turn to keep watch{n}with Luise.",
+   "en": "{v:005F}Ahh, that was a good rest.{FFF9}{FFFB}{v:0060}Now it's my turn to keep{n}watch with Luise.",
    "term": "end"
   },
   {
@@ -849,7 +849,7 @@
   {
    "id": "scen095.0138",
    "jp": "{v:00AC}それじゃ、この作戦自体が成り立たないじゃない！",
-   "en": "{v:00AC}Then our whole plan falls apart!",
+   "en": "{v:00AC}Then the whole plan falls apart!",
    "term": "end"
   },
   {
@@ -1056,7 +1056,7 @@
   {
    "id": "scen095.0172",
    "jp": "{v:0024}この馬鹿者がっ！{n}敵の接近に気づかんとは！",
-   "en": "{v:0024}You idiots! You didn't even notice the enemy coming!",
+   "en": "{v:0024}You idiot! You didn't even notice the enemy coming!",
    "term": "end"
   },
   {
@@ -1344,7 +1344,7 @@
   {
    "id": "scen095.0220",
    "jp": "{v:0010}そんな‥‥。",
-   "en": "{v:0010}Oh, we...",
+   "en": "{v:0010}Oh, no, not at all...",
    "term": "end"
   },
   {

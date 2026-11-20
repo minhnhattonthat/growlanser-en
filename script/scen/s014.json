@@ -355,7 +355,7 @@
   {
    "id": "scen014.0057",
    "jp": "{v:001A}ね、マスター！{n}その研究書にはどんなことが書かれているの？",
-   "en": "{v:001A}Hey, Master! What does that research book say?",
+   "en": "{v:001A}Hey, Master! What's written in those research notes?",
    "term": "end"
   },
   {
@@ -433,7 +433,7 @@
   {
    "id": "scen014.0070",
    "jp": "{v:002F}それが日食や月食として見えるのですが、{n}この時に生まれた者は、無意識にこの時の{n}空間の歪みを記憶し、自分の中に向こうの世界との{n}チャンネルを開けるようになるのです。{p}{v:0030}ルイセたちグローシアンは、{n}このチャンネルを利用して、{n}向こうの世界のグローシュを使うことが{n}出来るのです。{p}{v:0031}ですからグローシアンは、{n}精神力だけを利用する私たちと比べて、{n}はるかに強力な魔法を使う事ができるのです。",
-   "en": "{v:002F}We see it as a solar or lunar eclipse. Those born during{n}an eclipse unconsciously remember the spatial distortion{n}at that moment, allowing them to open a channel to the{p}other world within themselves.{p}{v:0030}Growsians like Luise can use this channel to draw upon{n}the Grosh in the other world.{p}{v:0031}That is why Growsians can use far more powerful{n}magic than those of us who rely solely on{n}spiritual energy.",
+   "en": "{v:002F}We see it as a solar or lunar eclipse.{p}Those born during an eclipse unconsciously remember{n}the spatial distortion at that moment, allowing them to{n}open a channel to the other world within themselves.{p}{v:0030}Growsians like Luise can use this channel to draw upon{n}the Grosh in the other world.{p}{v:0031}That is why Growsians can use far more powerful{n}magic than those of us who rely solely on{n}spiritual energy.",
    "term": "end"
   },
   {

@@ -159,21 +159,21 @@
   {
    "id": "scen067.0025",
    "jp": "・必ずみんなの候補から選ぶ",
-   "en": "・Promise to use one of their suggestions.",
+   "en": "・Promise to use one of their suggestions",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0026",
    "jp": "・とりあえず、みんなの意見を聞く",
-   "en": "・Hear their suggestions first.",
+   "en": "・Hear their suggestions first",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen067.0027",
    "jp": "・断固、自分で決める",
-   "en": "・Insist on choosing it yourself.",
+   "en": "・Insist on choosing it yourself",
    "term": "end",
    "unref": true
   },
@@ -362,7 +362,7 @@
   {
    "id": "scen067.0056",
    "jp": "・自分で考える",
-   "en": "・Think of a name yourself.",
+   "en": "・Think of a name yourself",
    "term": "end",
    "unref": true
   },
@@ -804,7 +804,7 @@
   {
    "id": "scen067.0126",
    "jp": "ダンジョンは次のような構造になっている。{n}・４×４の部屋でつくられたフロアを５回。{n}・５×５の部屋でつくられたフロアを４回。{n}・６×６の部屋でつくられたフロアを５回。{n}計１４フロアを駆け抜けて、ダンジョン制覇だ！{p}ちなみにダンジョンはランダムで選ばれ、{n}また君たちが出現する部屋の位置もランダムだ。{p}またダンジョン内で手に入れたアイテムは、{n}何が出るかわからない。{n}すでに９個持っていた場合は増えない。{n}またお金が手にはいることもあるからな。{n}何も増えていないからといって慌てるなよ。{p}次にモンスターとの戦いだが、{n}彼らも、いつ、どこに出現するかわからない。{n}上手くいけば一度も戦わずに宝をゲットできる。{n}また、あるモンスターは倒さずにいると{n}すぐに逃げ出してしまうらしい。",
-   "en": "The dungeon is laid out as follows: five floors of 4 by 4{n}rooms, four floors of 5 by 5 rooms, and five floors of{n}6 by 6 rooms. Race through all 14 floors to conquer{p}the dungeon!{p}The dungeon is chosen at random, as is the room{n}where you appear.{p}You never know what items you will find inside. If you{n}already have nine of an item, you will not gain another.{n}You may also receive money, so do not panic if your item{p}count has not gone up.{p}As for fighting monsters, there is no telling when or{n}where they will appear, either. With luck, you can get{n}treasure without fighting even once. I also hear that{p}certain monsters will quickly flee if you do not{n}defeat them.",
+   "en": "The dungeon is laid out as follows: five floors of 4 by 4{n}rooms, four floors of 5 by 5 rooms, and five floors of{n}6 by 6 rooms.{p}Race through all 14 floors to conquer the dungeon!{p}The dungeon is chosen at random, as is the room{n}where you appear.{p}You never know what items you will find inside. If you{n}already have nine of an item, you will not gain another.{p}You may also receive money, so do not panic if your item{n}count has not gone up.{p}As for fighting monsters, there is no telling when or{n}where they will appear, either. With luck, you can get{n}treasure without fighting even once. I also hear that{p}certain monsters will quickly flee if you do not{n}defeat them.",
    "term": "end"
   },
   {

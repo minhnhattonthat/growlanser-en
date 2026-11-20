@@ -8,97 +8,97 @@
   {
    "id": "msys.skills.0000",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率{F4BE}わずかだが上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "Targets enemy weak points more efficiently, slightly{n}raising the critical hit rate. Activation: Normal attacks.",
+   "en": "Targets enemy weak points more efficiently, slightly{n}raising the critical hit rate. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0001",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率が上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate. Activation: Normal attacks.",
+   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0002",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率が{F4DF}上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate further. Activation: Normal attacks.",
+   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate further. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0003",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in poison. Attacks have a small{n}chance to poison the target. Activation: Normal attacks.",
+   "en": "Coats the weapon in poison. Attacks have a small{n}chance to poison the target. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0004",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in poison. Attacks have a chance to{n}poison the target. Activation: Normal attacks.",
+   "en": "Coats the weapon in poison. Attacks have a chance to{n}poison the target. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0005",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in poison. Attacks have a high chance{n}to poison the target. Activation: Normal attacks.",
+   "en": "Coats the weapon in poison. Attacks have a high chance{n}to poison the target. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0006",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in venom. Attacks have a small{n}chance to inflict venom on the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in venom. Attacks have a small{n}chance to inflict venom on the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0007",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in venom. Attacks have a chance to{n}inflict venom on the target. Activation: Normal attacks.",
+   "en": "Coats the weapon in venom. Attacks have a chance to{n}inflict venom on the target. On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0008",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in venom. Attacks have a high{n}chance to inflict venom on the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in venom. Attacks have a high{n}chance to inflict venom on the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0009",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}small chance to paralyze the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}small chance to paralyze the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0010",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}chance to paralyze the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}chance to paralyze the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0011",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}high chance to paralyze the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}high chance to paralyze the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0012",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}small chance to petrify the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}small chance to petrify the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0013",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}chance to petrify the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}chance to petrify the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0014",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}high chance to petrify the target.{n}Activation: Normal attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}high chance to petrify the target.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0015",
    "jp": "{F4D5}の利き腕をマヒさせ、{F4C3}{F4C2}奪う{F41C}{F4BA}{F440}対象の{F4C3}{F4C2}低下{F48B}{F4BA}発動：通常{F4C3}時／{F4F4}：アタック",
-   "en": "Paralyzes the target's dominant arm, lowering attack{n}power for a while. Activation: Normal attacks.{n}Recovery: Attack.",
+   "en": "Paralyzes the target's dominant arm, lowering attack{n}power for a while. On normal attacks.{n}Recovery: Attack.",
    "term": "null"
   },
   {
@@ -428,7 +428,7 @@
   {
    "id": "msys.skills.0070",
    "jp": "ミーシャの愛情{n}～お兄さまを支えます～",
-   "en": "Misha's Love -- I'll stand by you, Dear Brother.",
+   "en": "Misha's Love -- I'll stand by you, Big Brother.",
    "term": "null"
   },
   {

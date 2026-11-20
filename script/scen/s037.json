@@ -378,7 +378,7 @@
   {
    "id": "scen037.0061",
    "jp": "おさげ髪の女の子？{n}ああ、その子なら村の外へ出ていったよ。{p}何か思い詰めた表情していたけど、{n}ご家族が病気か何かで保養所にでもいるのかい？",
-   "en": "A girl with braids? Oh, she left the village.{p}She looked awfully troubled. Is someone in her family ill{n}at the sanatorium or something?",
+   "en": "A girl with pigtails? Oh, she left the village.{p}She looked awfully troubled. Is someone in her family ill{n}at the sanatorium or something?",
    "term": "end"
   },
   {
@@ -706,13 +706,13 @@
   {
    "id": "scen037.0115",
    "jp": "{v:0029}決まりね！{n}それじゃルイセちゃんお願い。",
-   "en": "{v:0029}It's settled, then! Luise-chan, would you do the honors?",
+   "en": "{v:0029}It's settled! Okay, Luise-chan, you do it!",
    "term": "end"
   },
   {
    "id": "scen037.0116",
    "jp": "{v:002A}え、わたしぃっ！？",
-   "en": "{v:002A}Huh? Mee?!",
+   "en": "{v:002A}Huh? Meee?!",
    "term": "end"
   },
   {
@@ -838,7 +838,7 @@
   {
    "id": "scen037.0137",
    "jp": "{v:0036}もう、ミーシャったら、そそっかしいんだから！",
-   "en": "{v:0036}Oh, Misha! You're always rushing into things!",
+   "en": "{v:0036}Oh, Misha! You're such a scatterbrain!",
    "term": "end"
   },
   {
@@ -968,7 +968,7 @@
   {
    "id": "scen037.0158",
    "jp": "{v:004D}何事も急いじゃダメよ。{n}急いだって、何にもならないんだから。",
-   "en": "{v:004D}You mustn't rush things. Rushing won't get{n}you anywhere.",
+   "en": "{v:004D}Don't rush into anything. Rushing won't get you{n}anywhere, you know.",
    "term": "end"
   },
   {

@@ -231,7 +231,7 @@
   {
    "id": "scen260.0036",
    "jp": "{v:006F}私も、そんな風に父に誉めて貰いたくてな。{n}それからも血のにじむような努力をして剣術を鍛えた。{n}強くなれば、また父が優しくしてくれると思ったのだ。{p}{FC00}{v:0070}おそらく父に喜んで貰いたい一心が効いたのだろうな。{n}それまでのスランプがまるで嘘のように{n}腕が上がっていった。",
-   "en": "{v:006F}I wanted my father to praise me like that, too. So I{n}kept honing my swordsmanship, pushing myself to my{n}limits. I thought that if I grew stronger, he would be{p}kind to me again.{p}{FC00}{v:0070}Perhaps my single-minded wish to make him happy was{n}what did it. My skill began to improve as though I had{n}never struggled at all.",
+   "en": "{v:006F}I wanted my father to praise me like that, too. So I{n}kept honing my swordsmanship, pushing myself to{n}my limits.{p}I thought that if I grew stronger, he would be kind to{n}me again.{p}{FC00}{v:0070}Perhaps my single-minded wish to make him happy was{n}what did it. My skill began to improve as though I had{n}never struggled at all.",
    "term": "end"
   },
   {
@@ -453,7 +453,7 @@
   {
    "id": "scen260.0072",
    "jp": "{v:0026}大丈夫かなぁ？{n}いきなり意識を失うくらいでしょ？{n}すごく悪いんじゃないかなぁ？",
-   "en": "{v:0026}Is everything gonna be okay? Passing out just like{n}that... It must be something really bad, right?",
+   "en": "{v:0026}Is Julian going to be all right? Passing out so{n}suddenly... It must be something really bad, right?",
    "term": "end"
   },
   {

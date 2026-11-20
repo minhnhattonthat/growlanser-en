@@ -321,13 +321,13 @@
   {
    "id": "scen064.0052",
    "jp": "{v:0031}人間には正しい記録が残っていないようであるな。{p}{v:0032}その昔、我々の世界の太陽に異変が起こったという。{n}そこでフェザリアンの科学力と、人間の持つ魔力とを{n}合わせて、{FFEF}時空制御装置{FFF1}を造ったのだ。",
-   "en": "{v:0031}It seems no accurate records have survived{n}among humans.{p}{v:0032}It is said that long ago, something went wrong with{n}the sun in our world. So Featherian science and human{n}magic were combined to create the {FFEF}Space-Time Control{p}Device{FFF1}.",
+   "en": "{v:0031}It seems no accurate records have survived{n}among humans.{p}{v:0032}It is said that long ago, something went wrong with{n}the sun in our world.{p}So Featherian science and human magic were combined{n}to create the {FFEF}Space-Time Control Device{FFF1}.",
    "term": "end"
   },
   {
    "id": "scen064.0053",
    "jp": "{v:0033}時空制御装置！？{n}その装置を使って、２つの世界を重ねているのか‥‥。",
-   "en": "{v:0033}A Space-Time Control Device?! So that device keeps the{n}two worlds overlapping...",
+   "en": "{v:0033}A space-time control device?! So that device keeps the{n}two worlds overlapping...",
    "term": "end"
   },
   {
@@ -351,7 +351,7 @@
   {
    "id": "scen064.0057",
    "jp": "{v:0037}時空制御装置は、塔のように巨大な物。{n}運搬のため、浮遊する土台の上に造られたという。{p}{v:0038}だがそれがアダとなり、グローシアンに奪われたのだ。",
-   "en": "{v:0037}The Space-Time Control Device is an immense structure,{n}much like a tower. It is said to have been built on a{n}floating platform so it could be moved.{p}{v:0038}But that proved its undoing, allowing the Growsians to{n}seize it.",
+   "en": "{v:0037}The space-time control device is an immense structure,{n}much like a tower. It is said to have been built on a{n}floating platform so it could be moved.{p}{v:0038}But that proved its undoing, allowing the Growsians to{n}seize it.",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen064.0060",
    "jp": "{v:003C}母が？",
-   "en": "{v:003C}Mother does?",
+   "en": "{v:003C}My mother?",
    "term": "end"
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "scen064.0072",
    "jp": "{v:004B}命の供給源を絶つことだ！{n}絶つことだ！{n}絶つことだ！",
-   "en": "{v:004B}The source of your life will be cut off! Cut off! Cut off!",
+   "en": "{v:004B}To cut off the source of your life! Cut it off! Cut{n}it off!",
    "term": "end"
   },
   {
@@ -489,21 +489,21 @@
   {
    "id": "scen064.0080",
    "jp": "・ただの立ちくらみ",
-   "en": "・I just got a little lightheaded.",
+   "en": "・I just got a little lightheaded",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen064.0081",
    "jp": "・ティピのせいではない",
-   "en": "・It's not your fault, Tippi.",
+   "en": "・It's not your fault, Tippi",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen064.0082",
    "jp": "・冗談",
-   "en": "・It was a joke.",
+   "en": "・It was a joke",
    "term": "end",
    "unref": true
   },
@@ -540,7 +540,7 @@
   {
    "id": "scen064.0088",
    "jp": "‥‥{v:005B}お兄ちゃん、やっぱり‥‥。",
-   "en": "...{v:005B}Big Brother, it really is...",
+   "en": "...{v:005B}Big Brother, I knew it...",
    "term": "end"
   },
   {
@@ -924,7 +924,7 @@
   {
    "id": "scen064.0152",
    "jp": "{v:004D}パワーストーンは持っていますね？{n}ならば、それほど難しいことではありません。{p}{v:004E}肝心なのは、周囲の者も同じ気持ちで強く念じること。{n}その時に、パワーストーンを持つ者が、目標の側で、{n}制御装置のスイッチを押すのです。",
-   "en": "{v:004D}You have the Power Stone, yes? Then it is not{n}particularly difficult.{p}{v:004E}What matters is that everyone nearby shares the same{n}wish and concentrates on it intensely. At that moment,{n}the person holding the Power Stone must press the{p}control unit's switch while near the target.",
+   "en": "{v:004D}You have the Power Stone, yes? Then it is not{n}particularly difficult.{p}{v:004E}What matters is that everyone nearby shares the same{n}wish and concentrates on it intensely.{p}At that moment, the person holding the Power Stone{n}must press the control unit's switch while near{n}the target.",
    "term": "end"
   },
   {
@@ -1044,14 +1044,14 @@
   {
    "id": "scen064.0172",
    "jp": "・幽霊にもらった",
-   "en": "・A ghost gave it to me.",
+   "en": "・A ghost gave it to me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen064.0173",
    "jp": "・ある人にもらった",
-   "en": "・Someone gave it to me.",
+   "en": "・Someone gave it to me",
    "term": "end",
    "unref": true
   },
@@ -1088,7 +1088,7 @@
   {
    "id": "scen064.0179",
    "jp": "{v:0023}不思議なこともあるのですね。{p}{v:0024}そのパワーストーンについて、{n}もう少し詳しく話しておきましょう。{p}{v:0025}元々パワーストーンは{n}時空制御装置を動かす要として作られ、{n}その組成は大量のグローシュで出来ています。",
-   "en": "{v:0023}Strange things do happen, do they not?{p}{v:0024}Let me tell you a little more about that Power Stone.{p}{v:0025}The Power Stone was originally created as the{n}essential component for operating the space-time{n}control device. It is made of an enormous quantity of{p}Grosh.",
+   "en": "{v:0023}Strange things do happen, do they not?{p}{v:0024}Let me tell you a little more about that Power Stone.{p}{v:0025}The Power Stone was originally created as the{n}essential component for operating the space-time{n}control device.{p}It is made of an enormous quantity of Grosh.",
    "term": "end"
   },
   {

@@ -896,21 +896,21 @@
   {
    "id": "scen107.0145",
    "jp": "・なかなか寝付けなくて遊びに来た",
-   "en": "・I couldn't sleep, so I came to visit.",
+   "en": "・I couldn't sleep, so I came to visit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen107.0146",
    "jp": "・アリオストに会いに来た",
-   "en": "・I came to see Ariost.",
+   "en": "・I came to see Ariost",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen107.0147",
    "jp": "・これといって用はない",
-   "en": "・No particular reason.",
+   "en": "・No particular reason",
    "term": "end",
    "unref": true
   },
@@ -935,14 +935,14 @@
   {
    "id": "scen107.0151",
    "jp": "・いい感じ",
-   "en": "・It feels good.",
+   "en": "・It feels good",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen107.0152",
    "jp": "・まだ実感がない",
-   "en": "・It hasn't sunk in yet.",
+   "en": "・It hasn't sunk in yet",
    "term": "end",
    "unref": true
   },
@@ -1009,14 +1009,14 @@
   {
    "id": "scen107.0163",
    "jp": "・なかなか寝付けなくて話しかけた",
-   "en": "・I couldn't sleep, so I wanted to talk.",
+   "en": "・I couldn't sleep, so I wanted to talk",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen107.0164",
    "jp": "・ウォレスは寝ないのかたずねる",
-   "en": "・Ask if Wallace is going to bed.",
+   "en": "・Ask if Wallace is going to bed",
    "term": "end",
    "unref": true
   },

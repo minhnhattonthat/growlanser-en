@@ -302,7 +302,7 @@
   {
    "id": "scen008.0048",
    "jp": "{v:0017}それは‥‥どっちの意味？{p}{v:0018}ルイセちゃんがいるから満足？{n}それとも煩わしいからいらないってこと？",
-   "en": "{v:0017}And what's THAT supposed to mean?{p}{v:0018}You're happy because you have Luise-chan? Or she's{n}enough of a nuisance that you don't want{n}another sibling?",
+   "en": "{v:0017}And which way do you mean THAT?{p}{v:0018}Are you happy because you have Luise-chan? Or is she{n}such a pain that you don't want another sibling?",
    "term": "end"
   },
   {
@@ -538,7 +538,7 @@
   {
    "id": "scen008.0087",
    "jp": "{v:0016}何かと思えば。{p}{v:0017}ルイセがいるじゃないですか。{n}あなた達は一度ガルアオス監獄へ行ったことが{n}あるのではないですか？",
-   "en": "{v:0016}Oh, is that all?{p}{v:0017}You have Luise with you. Have you not already been to{n}Garuaos Prison once?",
+   "en": "{v:0016}Oh, is that all?{p}{v:0017}You have Luise, do you not? Have you not already{n}been to Garuaos Prison once?",
    "term": "end"
   },
   {
@@ -568,7 +568,7 @@
   {
    "id": "scen008.0092",
    "jp": "気を付けて行くがよい。",
-   "en": "Go safely.",
+   "en": "Take care on your way.",
    "term": "end"
   },
   {
@@ -604,7 +604,7 @@
   {
    "id": "scen008.0098",
    "jp": "{v:0003}我々は彼の見た夢と、自分が腕を切り落とされた{n}場所を手がかりに調査を行いました。{p}{v:0004}そしてバーンシュタイン王国内の滝の裏に作られた、{n}ゲヴェルの卵が並ぶ場所へ行ったのです。{p}{v:0005}その辺りでは最近、人が行方不明になるとの事でした。{n}調査をすると、捕らえた人間を食料として、{n}小型の異形を繁殖させる場所だったのです。",
-   "en": "{v:0003}We based our investigation on his dream and the place{n}where my arm was cut off.{p}{v:0004}That led us to a place built behind a waterfall in the{n}Kingdom of Burnstein, where rows of Gevel eggs lay.{p}{v:0005}We heard that people had been disappearing in the area{n}recently. Our investigation revealed that the place was{n}used to breed smaller abominations, with captured{p}humans as food.",
+   "en": "{v:0003}We based our investigation on his dream and the place{n}where my arm was cut off.{p}{v:0004}That led us to a place built behind a waterfall in the{n}Kingdom of Burnstein, where rows of Gevel eggs lay.{p}{v:0005}We heard that people had been disappearing in the{n}area recently.{p}Our investigation revealed that the place was used to{n}breed smaller abominations, with captured humans{n}as food.",
    "term": "end"
   },
   {
@@ -622,7 +622,7 @@
   {
    "id": "scen008.0101",
    "jp": "{v:000B}それはどこにもいませんでした。{p}{v:000C}いたのは、お母さんを襲ったあの仮面を着けた男と、{n}ユングって呼ばれた小さな異形だけで‥‥。{p}{v:000D}あ、それと、その側の小さな村で聞いた情報だけど、{n}バーンシュタイン王国内でグローシアンが{n}いなくなったり、変死したりしているらしいんです。{p}{v:000E}それでわたし達が洞窟を調査している間に、{n}グローシアンだった村長さんが殺されてしまって‥‥。",
-   "en": "{v:000B}He was nowhere to be found.{p}{v:000C}The only ones there were that masked man who{n}attacked Mother, and the little abominations{n}called Jung...{p}{v:000D}Oh, and we heard something in a small village nearby.{n}Apparently, Growsians in the Kingdom of Burnstein have{n}been disappearing or dying under mysterious{p}circumstances.{p}{v:000E}And while we were investigating the cave, the village{n}chief, who was a Growsian, was murdered...",
+   "en": "{v:000B}He was nowhere to be found.{p}{v:000C}The only ones there were that masked man who{n}attacked Mother, and the little abominations{n}called Jung...{p}{v:000D}Oh, and we heard something in a small village nearby.{p}Apparently, Growsians in the Kingdom of Burnstein have{n}been disappearing or dying under{n}mysterious circumstances.{p}{v:000E}And while we were investigating the cave, the village{n}chief, who was a Growsian, was murdered...",
    "term": "end"
   },
   {
@@ -1165,7 +1165,7 @@
   {
    "id": "scen008.0189",
    "jp": "・見当もつかない",
-   "en": "・I haven't a clue",
+   "en": "・I have no idea",
    "term": "end",
    "unref": true
   },
@@ -1256,7 +1256,7 @@
   {
    "id": "scen008.0204",
    "jp": "‥‥あの学院長がお花をくれても、{n}あんまりいい思い出って感じがしないけど‥‥。",
-   "en": "...Getting flowers from that Headmaster doesn't sound{n}like much of a happy memory to me...",
+   "en": "...Flowers from that Headmaster? Doesn't sound like a{n}happy memory to me...",
    "term": "end"
   },
   {

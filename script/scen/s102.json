@@ -21,7 +21,7 @@
   {
    "id": "scen102.0002",
    "jp": "　{n}　　　　　{FFEF}バーンシュタイン王都入り口{FFF1}",
-   "en": "　{n}　　　　　{FFEF}Entrance to Burnstein's Royal Capital{FFF1}",
+   "en": "　{n}　　　　　{FFEF}Burnstein Royal Capital Entrance{FFF1}",
    "term": "end"
   },
   {
@@ -170,7 +170,7 @@
   {
    "id": "scen102.0026",
    "jp": "　北　　：　クレイン村{n}　北東　：　バーンシュタイン王都方面{n}　東　　：　王国直轄地",
-   "en": "　North: Crane Village{n}Northeast: Toward Burnstein's Royal Capital{n}East: Crown Lands",
+   "en": "　North: Crane Village{n}Northeast: Toward the Burnstein Royal Capital{n}East: Crown Lands",
    "term": "end"
   },
   {

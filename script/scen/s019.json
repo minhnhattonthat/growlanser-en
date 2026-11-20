@@ -400,14 +400,14 @@
   {
    "id": "scen019.0065",
    "jp": "・しっかりしていて、崩れる気配はなかった",
-   "en": "・It was solid. No sign of collapse.",
+   "en": "・It was solid. No sign of collapse",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen019.0066",
    "jp": "・よく覚えていない",
-   "en": "・I don't really remember.",
+   "en": "・I don't really remember",
    "term": "end",
    "unref": true
   },
@@ -438,7 +438,7 @@
   {
    "id": "scen019.0071",
    "jp": "{v:0038}十数年前、ゲヴェルが出現した直後の調査と、{n}最近の調査、どちらも調査隊が入った直後に{n}崩落事故が起こっています。",
-   "en": "{v:0038}There were two investigations: one just after Gevel{n}appeared over ten years ago, and another recently.{n}Both times, a cave-in occurred shortly after the{p}investigation team entered.",
+   "en": "{v:0038}There were two investigations: one just after Gevel{n}appeared over ten years ago, and another recently.{p}Both times, a cave-in occurred shortly after the{n}investigation team entered.",
    "term": "end"
   },
   {
@@ -531,7 +531,7 @@
   {
    "id": "scen019.0086",
    "jp": "十数年前、ゲヴェルが出現した直後の調査と、{n}最近の調査、どちらも調査隊が入った直後に{n}崩落事故が起こっています。{p}そしてこの両方の調査に参加しているのは、{n}ただ１人‥‥。{p}その人物は今の学院長です。",
-   "en": "There were two investigations: one just after Gevel{n}appeared over ten years ago, and another recently.{n}Both times, a cave-in occurred shortly after the{p}investigation team entered.{p}And only one person took part in both investigations...{p}The person in question is the current Headmaster.",
+   "en": "There were two investigations: one just after Gevel{n}appeared over ten years ago, and another recently.{p}Both times, a cave-in occurred shortly after the{n}investigation team entered.{p}And only one person took part in both investigations...{p}The person in question is the current Headmaster.",
    "term": "end"
   },
   {
@@ -1179,7 +1179,7 @@
   {
    "id": "scen019.0193",
    "jp": "{v:0033}さすが皆既日食のグローシアン。{n}この装置の限界量まで抽出できるとはな。{n}だが、これだけあれば我が真の力を取り戻すには十分。",
-   "en": "{v:0033}Just what I would expect of a Growsian born during a{n}total solar eclipse! To think I could extract enough to{n}fill this device to its limit. Still, this is enough to{p}restore my true power.",
+   "en": "{v:0033}Just what I would expect of a Growsian born during a{n}total solar eclipse! To think I could extract enough to{n}fill this device to its limit.{p}Still, this is enough to restore my true power.",
    "term": "end"
   },
   {
@@ -1425,7 +1425,7 @@
   {
    "id": "scen019.0234",
    "jp": "{v:002B}日食や月食の期間に生まれた者は、{n}特別な魔力が宿るのです。{n}その能力を宿した者をグローシアンと呼びます。{p}{v:002C}その能力は月食、日食、皆既月食、皆既日食の順に{n}強くなります。{n}ルイセは皆既日食に生まれたグローシアン。{n}一番強い魔力を秘めているのです。",
-   "en": "{v:002B}Those born during a solar or lunar eclipse possess{n}special magical power. People with this ability are{n}called Growsians.{p}{v:002C}Their power increases in this order: lunar eclipse, solar{n}eclipse, total lunar eclipse, and total solar eclipse. Luise{n}is a Growsian born during a total solar eclipse. She holds{p}the greatest magical power of all.",
+   "en": "{v:002B}Those born during a solar or lunar eclipse possess{n}special magical power. People with this ability are{n}called Growsians.{p}{v:002C}Their power increases in this order: lunar eclipse, solar{n}eclipse, total lunar eclipse, and total solar eclipse. Luise{n}is a Growsian born during a total solar eclipse.{p}She holds the greatest magical power of all.",
    "term": "end"
   },
   {

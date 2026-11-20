@@ -22,6 +22,21 @@ class Batches(unittest.TestCase):
         self.assertEqual([m for e, m in fit.lint(out, fit.budget(DLG["id"], {**DLG, "en": out})) if e], [])
         self.assertEqual(batches.wrap(DLG, out), out)  # idempotent on stored English
 
+    def test_page_breaks_at_sentence_end(self):
+        e = {"id": "scen006.0069", "jp": "ア", "term": "end"}
+        en = ("Your Majesty, there is no time to sit in shock. We must immediately station troops wherever the "
+              "Kingdom of Burnstein is likely to strike, or they will overrun us in no time.")
+        pages = batches.wrap(e, en).split("{p}")
+        self.assertEqual(pages[0], "Your Majesty, there is no time to sit in shock.")  # not "...in no{p}time."
+        long = "word " * 60 + "end."  # one sentence over a page still breaks where the page fills
+        self.assertTrue(all(p.count("{n}") == 2 for p in batches.wrap(e, long).split("{p}")[:-1]))
+
+    def test_choice_period(self):
+        e = {"id": "scen002.0181", "jp": "・アルカディウス王の命令だから", "term": "end"}
+        self.assertEqual(batches.choice_period(e, "・King Alcadius ordered us to."), "・King Alcadius ordered us to")
+        self.assertEqual(batches.choice_period(e, "・Well..."), "・Well...")
+        self.assertTrue(batches.problems(e, "・King Alcadius ordered us to.", []))
+
     def test_problems(self):
         ok = "{v:0019}Not yet?{p}{FC00}{v:001A}I'm Tippi-chan. Nice to meet you."
         names = [(["ティピ"], ["Tippi"], [])]

@@ -100,7 +100,7 @@
   {
    "id": "scen075.0015",
    "jp": "・あの人数なら、自分たちで倒せる",
-   "en": "・We can take that many ourselves.",
+   "en": "・We can take that many ourselves",
    "term": "end",
    "unref": true
   },
@@ -306,7 +306,7 @@
   {
    "id": "scen075.0049",
    "jp": "{v:00A4}昔の友は、今日の敵‥‥か。",
-   "en": "{v:00A4}Yesterday's friends, today's enemies... eh?",
+   "en": "{v:00A4}Yesterday's friends, today's enemies... huh.",
    "term": "end"
   },
   {
@@ -330,7 +330,7 @@
   {
    "id": "scen075.0053",
    "jp": "お約束はしないの！",
-   "en": "No tired old gags!",
+   "en": "We're not doing that old routine!",
    "term": "end"
   },
   {

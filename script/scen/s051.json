@@ -320,7 +320,7 @@
   {
    "id": "scen051.0050",
    "jp": "{v:0017}まず、このお方を紹介する。",
-   "en": "{v:0017}First, allow me to introduce this person.",
+   "en": "{v:0017}First, allow me to introduce this distinguished person.",
    "term": "end"
   },
   {
@@ -374,7 +374,7 @@
   {
    "id": "scen051.0059",
    "jp": "{v:0021}あ、あの‥‥。{n}僕は今まで自分が王となる人間だなんて、{n}知らないで育ってきました。{p}{FC02}{v:0022}ですが今の王は世界征服を企む悪者の手先なのです！{n}このままではバーンシュタイン王国だけでなく、{n}世界中にゲヴェルの魔手が及ぶでしょう。{p}{v:0023}僕はそれをくい止めたい！{n}この大陸の人々を救いたい！{p}{v:0024}お願いです。{n}みなさんの力を貸して下さい！",
-   "en": "{v:0021}U-um... I grew up without ever knowing I was meant to{n}become king.{p}{FC02}{v:0022}But the current king serves an evil being who plans to{n}conquer the world! If this continues, Gevel's evil grasp{n}will reach beyond the Kingdom of Burnstein to the{p}whole world.{p}{v:0023}I want to stop that! I want to save the people of{n}this continent!{p}{v:0024}Please. Lend me your strength!",
+   "en": "{v:0021}U-um... I grew up without ever knowing I was meant to{n}become king.{p}{FC02}{v:0022}But the current king serves an evil being who plans to{n}conquer the world!{p}If this continues, Gevel's evil grasp will reach beyond{n}the Kingdom of Burnstein to the whole world.{p}{v:0023}I want to stop that! I want to save the people of{n}this continent!{p}{v:0024}Please. Lend me your strength!",
    "term": "end"
   },
   {
@@ -888,42 +888,42 @@
   {
    "id": "scen051.0144",
    "jp": "・エリオットは王の器がある",
-   "en": "・Elliot has the makings of a king.",
+   "en": "・Elliot has the makings of a king",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0145",
    "jp": "・エリオットならやれる",
-   "en": "・Elliot can do it.",
+   "en": "・Elliot can do it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0146",
    "jp": "・心配するほどじゃない",
-   "en": "・There's no need to worry so much.",
+   "en": "・There's no need to worry so much",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0147",
    "jp": "・たぶん大丈夫",
-   "en": "・It'll probably be fine.",
+   "en": "・It'll probably be fine",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0148",
    "jp": "・ちょっと心配",
-   "en": "・I'm a little worried.",
+   "en": "・I'm a little worried",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0149",
    "jp": "・無理",
-   "en": "・He can't do it.",
+   "en": "・He can't do it",
    "term": "end",
    "unref": true
   },
@@ -1206,14 +1206,14 @@
   {
    "id": "scen051.0196",
    "jp": "・ティピがいるから",
-   "en": "・Because Tippi is with us.",
+   "en": "・Because Tippi is with us",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen051.0197",
    "jp": "・エリオットがいるから",
-   "en": "・Because Elliot is with us.",
+   "en": "・Because Elliot is with us",
    "term": "end",
    "unref": true
   },

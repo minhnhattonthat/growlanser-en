@@ -313,7 +313,7 @@
   {
    "id": "scen010.0050",
    "jp": "隣の魚だけど、毎日新鮮なものになっているんだよ。{n}ずっと同じ魚を置いてあるわけじゃないのよ。{n}迷ったあげく、結局はソテーにしちゃうのよね[01BE]",
-   "en": "That fish over there is replaced with a fresh one{n}every day, you know. We don't leave the same fish{n}sitting there forever. After all my dithering, I always{p}end up sautéing it.[01BE]",
+   "en": "That fish over there is replaced with a fresh one{n}every day, you know. We don't leave the same fish{n}sitting there forever.{p}After all my dithering, I always end up sautéing it.[01BE]",
    "term": "end"
   },
   {
@@ -581,7 +581,7 @@
   {
    "id": "scen010.0094",
    "jp": "{v:000C}アンタ、どうしてこの状況で、{n}安心なんて言ってられるの！？",
-   "en": "{v:000C}How can you tell anyone to rest assured at a time{n}like this?!",
+   "en": "{v:000C}Hey, you! How can you tell anyone to rest easy at a time{n}like this?!",
    "term": "end"
   },
   {
@@ -673,7 +673,7 @@
   {
    "id": "scen010.0109",
    "jp": "・答える元気もない",
-   "en": "・You haven't the strength to answer",
+   "en": "・Lack the strength to answer",
    "term": "end",
    "unref": true
   },
@@ -1267,7 +1267,7 @@
   {
    "id": "scen010.0204",
    "jp": "・ジュリアン軍本陣（本日のみ）",
-   "en": "・Julian's Main Camp (Today Only)",
+   "en": "・Julian's main camp (today only)",
    "term": "end",
    "unref": true
   },

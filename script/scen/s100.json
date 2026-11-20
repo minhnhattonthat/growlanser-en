@@ -285,7 +285,7 @@
   {
    "id": "scen100.0046",
    "jp": "こちらのことは私に任せて、{n}君たちは{s:0004}様と行動を共にしてくれ。",
-   "en": "Leave matters here to me. You should accompany Lord{n}{s:0004}.",
+   "en": "Leave matters here to me. You should accompany{n}{s:0004}.",
    "term": "end"
   },
   {
@@ -431,7 +431,7 @@
   {
    "id": "scen100.0070",
    "jp": "{v:002E}王位についてからの彼は今までとはまったく{n}変わってしまいました。{p}{v:002F}しかし、それまでの１４年間はまぎれもなく{n}親子だったのです。{p}{v:0030}そこへ本当の息子という{s:0004}が現れ、{n}{s:001B}を倒すべく、{s:011B}と兵を起こした。{n}そして自分もそこに身を置いているなんて‥‥。{p}{v:0031}誰かに騙されているようにも、長くて悪い夢を{n}見ているように思うときもあります。",
-   "en": "{v:002E}Since taking the throne, he has become an entirely{n}different person.{p}{v:002F}But for the fourteen years before that, we were truly{n}mother and son.{p}{v:0030}Then {s:0004} appeared, said to be my true{n}son, and raised an army with {s:011B} to{n}defeat {s:001B}. And now I find myself{p}among them...{p}{v:0031}At times, I feel as though someone is deceiving me, or{n}that I am trapped in a long, terrible dream.",
+   "en": "{v:002E}Since taking the throne, he has become an entirely{n}different person.{p}{v:002F}But for the fourteen years before that, we were truly{n}mother and son.{p}{v:0030}Then {s:0004} appeared, said to be my true{n}son, and raised an army with {s:011B} to{n}defeat {s:001B}.{p}And now I find myself among them...{p}{v:0031}At times, I feel as though someone is deceiving me, or{n}that I am trapped in a long, terrible dream.",
    "term": "end"
   },
   {
@@ -593,7 +593,7 @@
   {
    "id": "scen100.0097",
    "jp": "{v:0069}ふわぁ～、ヒドイ{s:0127}にあったわ。",
-   "en": "{v:0069}Whew... We really looked death in the{n}eye there.",
+   "en": "{v:0069}Whew... That was awful!",
    "term": "end"
   },
   {
@@ -1042,7 +1042,7 @@
   {
    "id": "scen100.0171",
    "jp": "{v:002D}僕は国王に忠誠を誓う騎士だ。{n}偽王にではなく、ね。{p}{v:002E}これが答えじゃ不満かい？",
-   "en": "{v:002D}I am a knight sworn to serve the King. Not{n}an impostor.{p}{v:002E}Is that not answer enough?",
+   "en": "{v:002D}I am a knight sworn to serve the King--not a false{n}one, mind you.{p}{v:002E}Is that not answer enough?",
    "term": "end"
   },
   {
@@ -1108,7 +1108,7 @@
   {
    "id": "scen100.0182",
    "jp": "{v:003B}ただ温泉に来てただけかも知れないけど。{n}だとしたらかなりの温泉好きなんだね。",
-   "en": "{v:003B}Perhaps he was simply visiting the hot springs. If so,{n}he must be very fond of them.",
+   "en": "{v:003B}Maybe he just came for the hot springs. If so, he must{n}really love them.",
    "term": "end"
   },
   {

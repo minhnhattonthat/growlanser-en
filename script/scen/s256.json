@@ -411,7 +411,7 @@
   {
    "id": "scen256.0065",
    "jp": "・はげます",
-   "en": "・Encourage him",
+   "en": "・Encourage her",
    "term": "end",
    "unref": true
   },
@@ -684,7 +684,7 @@
   {
    "id": "scen256.0109",
    "jp": "{v:01F4}でしょ♪{FFF9}{FFFB}{n}{v:01F5}形はともかく、味には自信があるんだ★",
-   "en": "{v:01F4}Isn't it?♪{FFF9}{FFFB}{v:01F5}Never mind how it looks. I know it{n}tastes great!",
+   "en": "{v:01F4}Right?♪{FFF9}{FFFB}{v:01F5}Never mind how it looks. I know it{n}tastes great!",
    "term": "end"
   },
   {
@@ -778,7 +778,7 @@
   {
    "id": "scen256.0124",
    "jp": "{v:0200}えへへ、{n}味付けには自信があるんだ♪",
-   "en": "{v:0200}Heehee, I knew I'd gotten the flavor right♪",
+   "en": "{v:0200}Heehee, I'm really confident about the seasoning♪",
    "term": "end"
   },
   {
@@ -915,7 +915,7 @@
   {
    "id": "scen256.0146",
    "jp": "{v:0211}うぅぅ‥‥。{p}{v:0212}次は絶対にまともなのを作らなきゃ‥‥。{p}{v:0213}今度はちゃんと味見しようっと‥‥。",
-   "en": "{v:0211}Ughhh...{p}{v:0212}I've got to make something decent next time...{p}{v:0213}I'd better taste it first next time...",
+   "en": "{v:0211}Ughhh...{p}{v:0212}I've got to make something decent next time...{p}{v:0213}And this time I'll taste it properly first...",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen256.0170",
    "jp": "・はげます",
-   "en": "・Encourage him",
+   "en": "・Encourage her",
    "term": "end",
    "unref": true
   },

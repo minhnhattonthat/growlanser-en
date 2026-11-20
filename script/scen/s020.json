@@ -354,7 +354,7 @@
   {
    "id": "scen020.0057",
    "jp": "・悲しいな",
-   "en": "・That's so sad.",
+   "en": "・That's so sad",
    "term": "end",
    "unref": true
   },
@@ -445,14 +445,14 @@
   {
    "id": "scen020.0072",
    "jp": "・覚えている",
-   "en": "・I remember.",
+   "en": "・I remember",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen020.0073",
    "jp": "・忘れた",
-   "en": "・I forgot.",
+   "en": "・I forgot",
    "term": "end",
    "unref": true
   },
@@ -827,7 +827,7 @@
   {
    "id": "scen020.0135",
    "jp": "・優しく抱きしめる",
-   "en": "・Hold her tenderly.",
+   "en": "・Hold her tenderly",
    "term": "end",
    "unref": true
   },
@@ -901,7 +901,7 @@
   {
    "id": "scen020.0147",
    "jp": "{v:00A7}やはり、光が点滅するようにしか見えんな‥‥。{p}{v:00A8}だが腹の底に響くこの音が心地良い。{n}この力強い音が、俺には民衆の活気づいた勢いに{n}思えてな‥‥。{p}{v:00A9}ふっ、やる気が出てきたぜ。{n}あとはヴェンツェルを倒すだけだ！{p}{v:00AA}その時には俺を頼りにしてくれ。{n}この剣にかけて、必ずヤツを討ち倒す！",
-   "en": "{v:00A7}Just flashes of light to me, as I thought...{p}{v:00A8}But I like that sound. Feel it deep in your gut. To me,{n}that powerful rumble is the sound of the people{n}finding their spirit again...{p}{v:00A9}Heh. Gets my blood up. All that's left is to{n}defeat Wenzel!{p}{v:00AA}Count on me when the time comes. I swear on this{n}sword, I'll bring him down!",
+   "en": "{v:00A7}Just flashes of light to me, as I thought...{p}{v:00A8}But that sound rumbling deep in my gut feels good. To{n}me, that powerful rumble is the sound of the people{n}finding their spirit again...{p}{v:00A9}Heh. Gets my blood up. All that's left is to{n}defeat Wenzel!{p}{v:00AA}Count on me when the time comes. I swear on this{n}sword, I'll bring him down!",
    "term": "end"
   },
   {

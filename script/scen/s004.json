@@ -561,7 +561,7 @@
   {
    "id": "scen004.0090",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
+   "en": "　　　　　　Magic Academy pass rate: 60%!{n}　　　A trusted prep school with a proven record:{n}　　　　　　　　'LLM Magic School'",
    "term": "end"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "scen004.0108",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "Monsters have been appearing lately, so we're{n}on patrol.{p}We've repeatedly spotted a suspicious mage who seems{n}to be controlling them, but by the time the soldiers{n}arrive, he's vanished.",
+   "en": "Monsters have been appearing lately, so we're{n}on patrol.{p}We've repeatedly spotted a suspicious magician who{n}seems to be controlling them, but by the time the{n}soldiers arrive, he's vanished.",
    "term": "end"
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "scen004.0122",
    "jp": "{v:0032}アタシ、パーティーなんて初めてだよ！{n}なんだか、緊張する～！",
-   "en": "{v:0032}I've never been to a party before! Ooh, I'm{n}getting nervous!",
+   "en": "{v:0032}I've never been in a party before! Ooh, I'm{n}getting nervous!",
    "term": "end"
   },
   {

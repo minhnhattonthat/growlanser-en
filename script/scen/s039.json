@@ -649,7 +649,7 @@
   {
    "id": "scen039.0106",
    "jp": "・その通りだ",
-   "en": "・That's right.",
+   "en": "・That's right",
    "term": "end",
    "unref": true
   },
@@ -705,7 +705,7 @@
   {
    "id": "scen039.0115",
    "jp": "ああ‥‥。{n}勝手な話だけど、ミラのこと‥‥よろしく頼むよ。",
-   "en": "Yes... I know it's selfish of me, but please... Take care{n}of Mira.",
+   "en": "Yes... I know it's selfish of me, but please... Find Mira{n}for me.",
    "term": "end"
   },
   {

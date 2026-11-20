@@ -403,7 +403,7 @@
   {
    "id": "scen042.0063",
    "jp": "{v:0004}私はこの街の市長をしている者だ。{n}アンタに話がある。{n}ちょっと来てくれんか。",
-   "en": "{v:0004}I am this town's mayor. I have something to discuss{n}with you. Come with me for a moment, will you?",
+   "en": "{v:0004}I'm the mayor of this town. I've got something to say{n}to you. Come with me a moment, would you?",
    "term": "end"
   },
   {
@@ -643,21 +643,21 @@
   {
    "id": "scen042.0102",
    "jp": "・何も心配しなくていい",
-   "en": "・You don't need to worry about anything.",
+   "en": "・You don't need to worry about anything",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen042.0103",
    "jp": "・自分に出来る最良の事をすればいい",
-   "en": "・Do the best you can.",
+   "en": "・Do the best you can",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen042.0104",
    "jp": "・別にない",
-   "en": "・Nothing in particular.",
+   "en": "・Nothing in particular",
    "term": "end",
    "unref": true
   },
@@ -844,7 +844,7 @@
   {
    "id": "scen042.0135",
    "jp": "{v:000D}ちゃんと１人で来たようだな。{p}{v:000E}今日こそは言いたいことを言わせてもらうとしようか。",
-   "en": "{v:000D}So you came alone, as instructed.{p}{v:000E}Today, I intend to say everything I have been wanting{n}to say.",
+   "en": "{v:000D}So you came alone, as I told you.{p}{v:000E}Today I'll say everything I've been wanting to say.",
    "term": "end"
   },
   {
@@ -1063,7 +1063,7 @@
   {
    "id": "scen042.0171",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "　{n}　　　　　　　{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here. Then King '{FFEF}Granbas{FFF1}', famed as a{n}legendary martial artist, united this region and founded{p}a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year. Today, it is one of the continent's most{p}famous international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
+   "en": "　{n}　　　　　　　{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here.{p}Then King '{FFEF}Granbas{FFF1}', famed as a legendary martial{n}artist, united this region and founded a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year.{p}Today, it is one of the continent's most famous{n}international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
    "term": "end"
   },
   {
@@ -1192,7 +1192,7 @@
   {
    "id": "scen042.0192",
    "jp": "・今はメンバーに加えない",
-   "en": "・Don't add anyone for now",
+   "en": "・Don't add Xenos for now",
    "term": "end",
    "unref": true
   },

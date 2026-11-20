@@ -45,7 +45,7 @@
   {
    "id": "scen228.0006",
    "jp": "{FFF0}注意{FFF1}{n}{FFEE}{s:0000}とゼノスは{n}放送装置につくと、一時的にＮＰＣとなります。{n}パワーストーン精製完了後は、元の扱いにもどります。{FFF1}",
-   "en": "{FFF0}Caution{FFF1} {FFEE}{s:0000} and Xenos temporarily{n}become NPCs when they take their places at the{n}broadcast device. They return to normal control once{p}the Power Stone is fully refined.{FFF1}",
+   "en": "{FFF0}Caution{FFF1} {FFEE}{s:0000} and Xenos temporarily{n}become NPCs when they take their places at the{n}broadcast device.{p}They return to normal control once the Power Stone is{n}fully refined.{FFF1}",
    "term": "end"
   },
   {

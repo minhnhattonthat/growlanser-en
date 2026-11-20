@@ -159,7 +159,7 @@
   {
    "id": "scen017.0025",
    "jp": "{v:0016}ひょっとして、わたしを助けたから？{n}わたしのグローシュが戻ったから？{p}{v:0017}だったら、こんな力、いらないよぉ！",
-   "en": "{v:0016}Could it be because he saved me? Because my Grosh{n}came back?{p}{v:0017}If that's why, I don't want this power!",
+   "en": "{v:0016}Could it be because Big Brother saved me? Because my{n}Grosh came back?{p}{v:0017}If that's why, I don't want this power!",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen017.0033",
    "jp": "‥‥{v:0021}アタシもヤだよ‥‥。{p}{v:0022}マスターに作られた目的が、{n}こいつを監視することだって知ったときには、{n}ちょっと面倒だと思った。{p}{v:0023}だけど、一緒にいるうちに、{n}けっこう気に入ってたんだ。{p}{v:0024}マスターに感謝したい気持ちになってたのに‥‥。{n}それなのにぃ‥‥。",
-   "en": "...{v:0021}I don't want this either...{p}{v:0022}When I found out Master had made me to keep an eye{n}on him, I thought it'd be a bit of a pain.{p}{v:0023}But after spending all that time together, I grew pretty{n}fond of him.{p}{v:0024}I'd even started wanting to thank Master... And{n}now this...",
+   "en": "...{v:0021}I don't want this either...{p}{v:0022}When I found out Master had made me to keep an eye{n}on this guy, I thought it'd be a bit of a pain.{p}{v:0023}But after spending all that time together, I grew pretty{n}fond of him.{p}{v:0024}I'd even started wanting to thank Master... And{n}now this...",
    "term": "end"
   },
   {
@@ -371,7 +371,7 @@
   {
    "id": "scen017.0059",
    "jp": "{v:0077}お兄ちゃんの体の調子がおかしいのは、{n}やっぱりあのゲヴェルを倒したせいなんだよね‥‥。{p}{v:0078}こんな事になるなら、{n}あいつを倒さなければよかった‥‥。",
-   "en": "{v:0077}You're ill because we defeated Gevel, aren't you,{n}Big Brother...?{p}{v:0078}If this is what it leads to, I wish we'd never{n}defeated him...",
+   "en": "{v:0077}You're ill because we defeated Gevel, aren't you,{n}Big Brother...?{p}{v:0078}If this is what it leads to, I wish we'd never defeated{n}that monster...",
    "term": "end"
   },
   {
@@ -470,7 +470,7 @@
   {
    "id": "scen017.0075",
    "jp": "{v:008C}お兄さま‥‥。{p}{v:008D}アタシ結局お兄さまに{n}なにもしてあげられなかった‥‥。{p}{v:008E}ルイセちゃんの時だってそう。{n}結局お兄さまがルイセちゃんを元に戻すまで、{n}アタシは何にもしてあげられなかった。{p}{v:008F}アタシって、結局なんにもできない{n}役立たずだよね‥‥。{p}{v:0090}大好きな人を助けることもできないなんて{n}最低だよ‥‥。{p}{v:0091}こんな出来損ないのアタシに、{n}お兄さまを好きになる資格なんてないよね‥‥。",
-   "en": "{v:008C}Big Brother...{p}{v:008D}In the end, I couldn't do a single thing for you...{p}{v:008E}It was the same with Luise-chan. Until you finally{n}brought her back to normal, I couldn't do anything for{n}her, either.{p}{v:008F}I'm just useless, aren't I...? I can't do anything...{p}{v:0090}I can't even help the person I love most. I'm{n}the worst...{p}{v:0091}A failure like me has no right to love you, does she,{n}Big Brother...?",
+   "en": "{v:008C}Big Brother...{p}{v:008D}In the end, I couldn't do a single thing for you...{p}{v:008E}It was the same with Luise-chan. Until you finally{n}brought her back to normal, I couldn't do anything for{n}her, either.{p}{v:008F}I'm just useless, aren't I...? I can't do anything...{p}{v:0090}I can't even help the person I love most. I'm{n}the worst...{p}{v:0091}A failure like me has no right to love you, do I,{n}Big Brother...?",
    "term": "end"
   },
   {

@@ -303,7 +303,7 @@
   {
    "id": "scen110.0049",
    "jp": "対する赤コーナーは王都ローザリア出身の兄妹チーム。{n}兄妹ならではの、息の合ったコンビプレイで、{n}ここまで勝ち上がってきました。{p}共に実力者同士のこの準決勝。{n}果たして、どういった展開を見せるのでしょうか！？{p}準決勝戦Ａグループ、試合開始です！",
-   "en": "Facing them in the red corner is the{n}brother-and-sister team from Royal Capital Rosaria!{n}They've fought their way here with the perfect{p}coordination only siblings can share!{p}Both sides in this semifinal are formidable competitors.{n}Just how will this match unfold?!{p}Let Group A's semifinal match begin!",
+   "en": "Facing them in the red corner is the{n}brother-and-sister team from the royal{n}capital, Rosaria!{p}They've fought their way here with the perfect{n}coordination only siblings can share!{p}Both sides in this semifinal are formidable competitors.{n}Just how will this match unfold?!{p}Let Group A's semifinal match begin!",
    "term": "end"
   },
   {
@@ -501,7 +501,7 @@
   {
    "id": "scen110.0082",
    "jp": "{v:002B}久々に会えたんだ。{n}外でゆっくり話さないか？{p}{v:002C}コロシアムの入り口で待っているよ。",
-   "en": "{v:002B}It's been so long since we last met. Shall we go outside{n}and have a proper chat?{p}{v:002C}I'll be waiting at the Coliseum entrance.",
+   "en": "{v:002B}It has been so long since we last met. Shall we go{n}outside and have a proper chat?{p}{v:002C}I will be waiting at the Coliseum entrance.",
    "term": "end"
   },
   {

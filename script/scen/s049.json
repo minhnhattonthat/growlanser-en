@@ -870,7 +870,7 @@
   {
    "id": "scen049.0143",
    "jp": "{v:00C6}かつての友とは言え、{n}お前は団長なき傭兵団を見捨てて、{n}自分のために生きた男だ。{p}{v:00C7}あれから俺が部下を養うためにした苦労など、{n}想像も出来んだろうな。",
-   "en": "{v:00C6}We may have been friends once, but you abandoned our{n}mercenary band when we lost our captain and went off{n}to live for yourself.{p}{v:00C7}You couldn't begin to imagine what I went through to{n}keep my men fed after that.",
+   "en": "{v:00C6}We may have been friends once, but you abandoned our{n}mercenary company when we lost our captain and{n}went off to live for yourself.{p}{v:00C7}You couldn't begin to imagine what I went through to{n}keep my men fed after that.",
    "term": "end"
   },
   {
@@ -1504,7 +1504,7 @@
   {
    "id": "scen049.0246",
    "jp": "{v:0033}ああ。{n}傭兵団には、俺の他にも２人の副団長がいた。{n}その１人がウェーバーだ。{p}{v:0034}奴は団長がいなくなると、残った部下を養うため、{n}ランザック王国と独占的な契約を結び、{n}そのまま正規軍になった。",
-   "en": "{v:0033}Yeah. Our mercenary company had two other deputy{n}commanders besides me. Weber was one of them.{p}{v:0034}When our commander disappeared, he signed an{n}exclusive contract with the Kingdom of Ranzak to{n}support the men who were left. They went on to{p}become part of the regular army.",
+   "en": "{v:0033}Yeah. Our mercenary company had two other deputy{n}commanders besides me. Weber was one of them.{p}{v:0034}When our captain disappeared, he signed an exclusive{n}contract with the Kingdom of Ranzak to support the{n}remaining men, and they joined the regular army.",
    "term": "end"
   },
   {
@@ -1576,7 +1576,7 @@
   {
    "id": "scen049.0258",
    "jp": "{v:0040}あり得るな。{p}{v:0041}確かにガムランは団長の失踪と同時に、{n}傭兵団を抜けた男だ。{n}その後バーンシュタイン王国に渡って、仕官した。{p}{v:0042}そして俺たちのように同盟を取り付けるため、{n}旧友ウェーバーを頼った。",
-   "en": "{v:0040}Could be.{p}{v:0041}Gamlan did leave the mercenary company when our{n}commander disappeared. After that, he went to the{n}Kingdom of Burnstein and entered its service.{p}{v:0042}Then he turned to his old friend Weber to secure an{n}alliance. Same thing we're after.",
+   "en": "{v:0040}Could be.{p}{v:0041}Gamlan did leave the mercenary company when our{n}captain disappeared. After that, he went to the{n}Kingdom of Burnstein and entered its service.{p}{v:0042}Then he turned to his old friend Weber to secure an{n}alliance. Same thing we're after.",
    "term": "end"
   },
   {

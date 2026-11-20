@@ -489,7 +489,7 @@
   {
    "id": "scen046.0078",
    "jp": "{v:0017}お若いのに感心なことじゃ。{n}立ち話も何だから、ささ、中へ入ってくれ。",
-   "en": "{v:0017}Admirable in one so young. No sense standing about to{n}talk. Come, come, do step inside.",
+   "en": "{v:0017}Admirable in one so young. No sense standing about to{n}talk, eh? Come, come, step inside.",
    "term": "end"
   },
   {
@@ -842,7 +842,7 @@
   {
    "id": "scen046.0136",
    "jp": "{v:0083}お兄さま、しばらくのお別れですぅ★",
-   "en": "{v:0083}Dear Brother, we must part for a little whiiile!",
+   "en": "{v:0083}Big Brother, we must part for a little whiiile!",
    "term": "end"
   },
   {
@@ -1109,7 +1109,7 @@
   {
    "id": "scen046.0179",
    "jp": "{v:00AA}そんなことないよぉ。{n}ルイセちゃんだって‥‥。{FFFB}{n}‥{FE1E}‥{FE1E}{v:00AB}あはは‥‥なんでもない‥‥[01BE]",
-   "en": "{v:00AA}Oh, they're not that big. Yours are too,{n}Luise-chan...{FFFB}...{FE1E}...{FE1E}{v:00AB}Ahaha... Never mind...[01BE]",
+   "en": "{v:00AA}Oh, they're not that big. Luise-chan's are...{FFFB}...{FE1E}...{FE1E}{v:00AB}Ahaha...{n}Never mind...[01BE]",
    "term": "end"
   },
   {
@@ -1145,7 +1145,7 @@
   {
    "id": "scen046.0185",
    "jp": "{v:00B2}お兄さま達が待ってるもんね★",
-   "en": "{v:00B2}Dear Brother and the others are waiting for us!",
+   "en": "{v:00B2}Big Brother and the others are waiting for us!",
    "term": "end"
   },
   {
@@ -1469,7 +1469,7 @@
   {
    "id": "scen046.0239",
    "jp": "{v:0038}そんな考え方を持った彼らだ。{n}自分勝手に生きる人間を元々見下していただろうね。{p}{v:0039}それにみんなが一丸となって目的に当たるから、{n}１つの技術を極めることもできる。{n}結果として、高い知識と技術を持つにいたった。{p}{v:003A}だから彼らの技術を見てみたまえ。{n}どうでもいいようなものなど何一つない。",
-   "en": "{v:0038}With that way of thinking, they probably looked down{n}on humans for living as they pleased even before{n}the revolt.{p}{v:0039}And because they all work together toward a common{n}goal, they can perfect a particular technology. That is{n}how they attained such advanced knowledge and{p}technology.{p}{v:003A}Just look at their technology. You won't find a single{n}frivolous invention.",
+   "en": "{v:0038}With that way of thinking, they probably looked down{n}on humans for living as they pleased even before{n}the revolt.{p}{v:0039}And because they all work together toward a common{n}goal, they can master a single technology. As a result,{n}they attained advanced knowledge and technology.{p}{v:003A}Just look at their technology. You won't find a single{n}frivolous invention.",
    "term": "end"
   },
   {

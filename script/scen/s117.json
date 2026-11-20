@@ -39,7 +39,7 @@
   {
    "id": "scen117.0005",
    "jp": "{v:0003}ここね？{n}この中にパワーストーンの制御装置があるのね？",
-   "en": "{v:0003}This is the place, right? The Power Stone's control{n}device is in here?",
+   "en": "{v:0003}This is the place, right? The Power Stone's control unit{n}is in here?",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen117.0017",
    "jp": "送魔線を引くことが出来る人間はどうした？{p}最深部まで行くには魔法が必要だ。{n}送魔線技師を連れてから、もう一度来るがよい。",
-   "en": "Where is the human who can lay a mana line?{p}You will need magic to reach the deepest chamber.{n}Return with a Mana Line Engineer.",
+   "en": "Where is the human who can lay a mana line?{p}You will need magic to reach the deepest chamber.{n}Return with a mana line engineer.",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen117.0019",
    "jp": "パワーストーンの制御装置を入手できたようだな。{n}早くジーナの元へ行き、{n}操作方法を教えてもらうが良い。{p}ここは再び閉鎖しておく。",
-   "en": "I see you have obtained the Power Stone's control{n}device. Go to Gina at once and have her teach you how{n}to operate it.{p}I shall seal this place again.",
+   "en": "I see you have obtained the Power Stone's control{n}unit. Go to Gina at once and have her teach you how to{n}operate it.{p}I shall seal this place again.",
    "term": "end"
   },
   {
@@ -398,7 +398,7 @@
   {
    "id": "scen117.0064",
    "jp": "{v:0041}ア、アタシですかぁ！",
-   "en": "{v:0041}M-me?!",
+   "en": "{v:0041}M-meee?!",
    "term": "end"
   },
   {
@@ -482,7 +482,7 @@
   {
    "id": "scen117.0078",
    "jp": "{v:0043}ありがとね、おじちゃん！",
-   "en": "{v:0043}Thanks, old-timer!",
+   "en": "{v:0043}Thanks, mister!",
    "term": "end"
   },
   {
@@ -530,7 +530,7 @@
   {
    "id": "scen117.0086",
    "jp": "{v:0047}これがパワーストーンの制御装置ね？",
-   "en": "{v:0047}So this is the Power Stone's control device?",
+   "en": "{v:0047}So this is the Power Stone's control unit?",
    "term": "end"
   },
   {
@@ -554,7 +554,7 @@
   {
    "id": "scen117.0090",
    "jp": "制御装置の使い方",
-   "en": "How to Use the Control Device",
+   "en": "How to Use the Control Unit",
    "term": "end"
   },
   {

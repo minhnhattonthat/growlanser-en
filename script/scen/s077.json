@@ -231,7 +231,7 @@
   {
    "id": "scen077.0037",
    "jp": "話は済んだのか？",
-   "en": "Have we finished here?",
+   "en": "Are you finished talking?",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen077.0041",
    "jp": "どうしたんですか、お兄さま？",
-   "en": "What's the matter, dear Brother?",
+   "en": "What's the matter, Big Brother?",
    "term": "end"
   },
   {
@@ -303,7 +303,7 @@
   {
    "id": "scen077.0049",
    "jp": "{v:009F}インペリアル・ナイツは心技体すべてを兼ね備えた{n}『男』であること。私が性別を偽っていたことが{n}明るみに出ればダグラス家もただではすまされない。{p}{FFF6}{v:00A0}私と縁を切るのは、家を守るために仕方ない処置だ。",
-   "en": "{v:009F}To join the Imperial Knights, one must be a 'man'{n}accomplished in mind, skill, and body. If my deception{n}about my sex came to light, House Douglas would not{p}escape the consequences.{p}{FFF6}{v:00A0}He had no choice but to sever ties with me to protect{n}the family.",
+   "en": "{v:009F}To join the Imperial Knights, one must be a 'man'{n}accomplished in mind, skill, and body.{p}If my deception about my sex came to light, House{n}Douglas would not escape the consequences.{p}{FFF6}{v:00A0}He had no choice but to sever ties with me to protect{n}the family.",
    "term": "end"
   },
   {
@@ -327,21 +327,21 @@
   {
    "id": "scen077.0053",
    "jp": "・冷静さを欠いていた",
-   "en": "・You weren't thinking clearly.",
+   "en": "・You weren't thinking clearly",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0054",
    "jp": "・追いつめられている",
-   "en": "・You're backed into a corner.",
+   "en": "・You're backed into a corner",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0055",
    "jp": "・自業自得",
-   "en": "・You brought it on yourself.",
+   "en": "・You brought it on yourself",
    "term": "end",
    "unref": true
   },
@@ -426,21 +426,21 @@
   {
    "id": "scen077.0069",
    "jp": "・なんとなく",
-   "en": "・Just a feeling.",
+   "en": "・Just a feeling",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0070",
    "jp": "・性別はどうしようもない",
-   "en": "・You can't change your sex.",
+   "en": "・You can't change your sex",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0071",
    "jp": "・父の胸中を考えればわかる",
-   "en": "・Think how your father must have felt.",
+   "en": "・Think how your father must have felt",
    "term": "end",
    "unref": true
   },
@@ -597,21 +597,21 @@
   {
    "id": "scen077.0097",
    "jp": "・自信を持ってやればできる",
-   "en": "・Believe in yourself. You can do it.",
+   "en": "・Believe in yourself. You can do it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0098",
    "jp": "・ジュリアンの実力なら十分",
-   "en": "・Julian, your skill is more than enough.",
+   "en": "・Julian, your skill is more than enough",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen077.0099",
    "jp": "・認めない奴は俺が倒す",
-   "en": "・I'll defeat anyone who won't accept it.",
+   "en": "・I'll defeat anyone who won't accept it",
    "term": "end",
    "unref": true
   },
@@ -684,7 +684,7 @@
   {
    "id": "scen077.0111",
    "jp": "{v:00E1}ジュリアンさん、{n}なんだかすっごくいい顔してたよ？",
-   "en": "{v:00E1}Julian-san looked really happy, didn't she?",
+   "en": "{v:00E1}Julian-san looked really happy just now, you know?",
    "term": "end"
   },
   {

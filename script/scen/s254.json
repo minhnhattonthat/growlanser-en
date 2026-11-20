@@ -278,7 +278,7 @@
   {
    "id": "scen254.0044",
    "jp": "{v:00B2}幸せな娘よねぇ‥‥。",
-   "en": "{v:00B2}She's easy to please, isn't she...?",
+   "en": "{v:00B2}She's a happy girl, all right...",
    "term": "end"
   },
   {
@@ -365,7 +365,7 @@
   {
    "id": "scen254.0058",
    "jp": "お兄ちゃんが喜んでくれるなら{n}はりきって作っちゃう！",
-   "en": "If they'll make you happy, Big Brother, I'll put my heart{n}into them!",
+   "en": "If you'll enjoy them, Big Brother, I'll put my heart into{n}making them!",
    "term": "end"
   },
   {
@@ -437,7 +437,7 @@
   {
    "id": "scen254.0070",
    "jp": "どれどれ、アタシも‥‥。{p}もぐもぐ‥‥{p}おいし～！",
-   "en": "Let's see, I'll have one too...{p}*munch, munch*{p}Sooo good!",
+   "en": "Let's see, I'll have one too...{p}*munch, munch* Sooo good!",
    "term": "end"
   },
   {
@@ -726,7 +726,7 @@
   {
    "id": "scen254.0117",
    "jp": "・はげます",
-   "en": "・Encourage him",
+   "en": "・Encourage her",
    "term": "end",
    "unref": true
   },

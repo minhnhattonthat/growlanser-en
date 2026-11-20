@@ -759,7 +759,7 @@
   {
    "id": "scen002.0123",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "　　　　　　A 60% acceptance rate at the Magic{n}Academy! A{n}trusted preparatory school with a proven record: 'LLM{p}Magic School'",
+   "en": "　　　　　　Magic Academy pass rate: 60%!{n}　　　A trusted prep school with a proven record:{n}　　　　　　　　'LLM Magic School'",
    "term": "end"
   },
   {
@@ -1107,21 +1107,21 @@
   {
    "id": "scen002.0181",
    "jp": "・アルカディウス王に命じられたから",
-   "en": "・King Alcadius ordered us to.",
+   "en": "・King Alcadius ordered us to",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0182",
    "jp": "・国の主を助けるのは、国民の義務だから",
-   "en": "・Citizens have a duty to aid their ruler.",
+   "en": "・Citizens have a duty to aid their ruler",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0183",
    "jp": "・友達を助けるのは当然のことだから",
-   "en": "・Of course we'd help a friend.",
+   "en": "・Of course we'd help a friend",
    "term": "end",
    "unref": true
   },
@@ -1344,7 +1344,7 @@
   {
    "id": "scen002.0220",
    "jp": "{v:0027}待つのはそっちよ！",
-   "en": "{v:0027}You're the ones who should stop!",
+   "en": "{v:0027}Hey, YOU'RE the ones who'd better stop!",
    "term": "end"
   },
   {
@@ -1494,7 +1494,7 @@
   {
    "id": "scen002.0245",
    "jp": "{v:0072}似ているのです。{n}バーンシュタイン王国の王子‥‥{n}‥‥いいえ、新しい王、リシャールに。",
-   "en": "{v:0072}He resembles the prince of Burnstein... No, its new{n}king, Richard.",
+   "en": "{v:0072}He resembles the prince of Burnstein... No, Burnstein's{n}new king, Richard.",
    "term": "end"
   },
   {
@@ -1506,42 +1506,42 @@
   {
    "id": "scen002.0247",
    "jp": "・他人のそら似",
-   "en": "・A chance resemblance.",
+   "en": "・A chance resemblance",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0248",
    "jp": "・双子",
-   "en": "・They're twins.",
+   "en": "・They're twins",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0249",
    "jp": "・同一人物",
-   "en": "・They're the same person.",
+   "en": "・They're the same person",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0250",
    "jp": "・彼が本物、むこうは影武者",
-   "en": "・He's real. The other is a body double.",
+   "en": "・He's real. The other is a body double",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0251",
    "jp": "・むこうが本物、彼は影武者",
-   "en": "・The other is real. He's a body double.",
+   "en": "・The other is real. He's a body double",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0252",
    "jp": "・全然似ていない",
-   "en": "・They look nothing alike.",
+   "en": "・They look nothing alike",
    "term": "end",
    "unref": true
   },
