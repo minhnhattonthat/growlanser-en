@@ -22,9 +22,29 @@ local function stats()
       m[s - 0x80000000 + 0x19] = 99; m[s - 0x80000000 + 0x20] = 199
       for off, v in pairs({ [0x1A] = 999, [0x1C] = 999, [0x22] = 65535, [0x24] = 9999, [0x30] = 999, [0x32] = 999,
                             [0x34] = 999, [0x36] = 999 }) do w16(s + off, v) end
+      -- Full spell lists: known = signed byte > 0 at record + 0x3C + spell id (64 ids; list builder 0x80095180).
+      -- Ids 0-33 = player spells (exe.magic); the rest are enemy-only names.
+      for id = 0, SPELL_MAX or 33 do
+        local b = s - 0x80000000 + 0x3C + id
+        if m[b] == 0 or m[b] >= 0x80 then m[b] = 1 end
+      end
+      -- Full skill lists (status screen, after the spells): byte at record + 0x7C + skill id (exe.skills, 64 ids;
+      -- 0 = not listed, 0x80+ = learning: the hero's 0x90/0xC0 drew 2/5 cost circles). 0xF0 = most circles.
+      for id = 0, SKILL_MAX or 62 do
+        local b = s - 0x80000000 + 0x7C + id
+        if m[b] == 0 then m[b] = 0xF0 end
+      end
     end
   end
 end
+-- The field spell screen lists only spell types 3-4 minus Raise (mode word sp+0xD8 = 0: Teleport + 5 heals, all
+-- Luise knows already). Mode 1 (types 0-3, the battle filter) at the loop head shows the 33 battle spells in the
+-- same widget. Type byte = 0x80011BB8 + 12 * id + 8.
+L.on_exec(0x80095178, function()
+  if L.frame < at then return end
+  local sp = (PCSX.getRegisters().GPR.n.sp + 0xD8) % 0x200000  -- sp is in the 0x807Fxxxx mirror of 2 MB RAM
+  m[sp] = 1; m[sp + 1] = 0; m[sp + 2] = 0; m[sp + 3] = 0
+end)
 local done = false
 L.on_frame(function(f)
   if f < at then return end

@@ -130,7 +130,15 @@ Older notes:
   codes, FFFF end; name-entry field = 8 cells). Poking that buffer, or either EXE table copy (names 0x800F2B74,
   units 0x800F32CC), does not change "PLAYER" in the field menu, and read hooks saw no menu reads of any of them:
   the menu's copy is still unknown. Long names in dialogue are covered by the lint (fit.SUB_PX = 96 = 8 cells).
-- Still unmapped for stress cases: the menu's hero name copy, spell-known flags (full spell lists), party size (status "right" stays on the hero).
+- Spells/skills (session 14): unit record + 0x3C + spell id (64 ids, exe.magic) = signed byte, > 0 known; + 0x7C +
+  skill id (64, exe.skills) = 0 not listed, 0x80+ learning (cost circles). Unit getter 0x8002B598 returns record +
+  0x14. Spell list builder loop 0x80095180-0x80095508 (rows u16 -> 0x801E3610); filter = word sp+0xD8: 0 (field
+  spell screen and the battle Triangle menu) = type 3-4 minus Raise (Teleport + 5 heals), 1 = type 0-3; type byte
+  0x80011BB8 + 12 * id + 8. stress.lua forces 1 so the spell screen pages all 33 battle spells. Status -> down ->
+  Circle opens a sub-list: every spell then every skill. Skills 59-62 (dev only) show the next table's strings as
+  descriptions, JP too (完全攻撃 -> "兄妹 ～二人とも気をつけてね～").
+- Still unmapped for stress cases: the menu's hero name copy; party size (this debug state's field-menu party is the
+  hero alone; check menu 9 "units" is a unit viewer, not party add).
 
 ## Text coverage (tools/debug/cover.py, phase 8 session 10)
 - `msgforce.lua` replaces each scene-message printer call with the next message of the section and loops the VM on

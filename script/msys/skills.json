@@ -44,7 +44,7 @@
   {
    "id": "msys.skills.0006",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in venom. Attacks have a small{n}chance to inflict venom on the target. Activation:{n}Normal attacks.",
+   "en": "Coats the weapon in venom. Attacks have a small{n}chance to inflict venom on the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
@@ -56,55 +56,55 @@
   {
    "id": "msys.skills.0008",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in venom. Attacks have a high{n}chance to inflict venom on the target. Activation:{n}Normal attacks.",
+   "en": "Coats the weapon in venom. Attacks have a high{n}chance to inflict venom on the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0009",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}small chance to paralyze the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}small chance to paralyze the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0010",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}chance to paralyze the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}chance to paralyze the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0011",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in paralytic poison. Attacks have a{n}high chance to paralyze the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}high chance to paralyze the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0012",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}small chance to petrify the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}small chance to petrify the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0013",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}chance to petrify the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}chance to petrify the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0014",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "Coats the weapon in petrifying poison. Attacks have a{n}high chance to petrify the target. Activation: Normal{n}attacks.",
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}high chance to petrify the target.{n}Activation: Normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0015",
    "jp": "{F4D5}の利き腕をマヒさせ、{F4C3}{F4C2}奪う{F41C}{F4BA}{F440}対象の{F4C3}{F4C2}低下{F48B}{F4BA}発動：通常{F4C3}時／{F4F4}：アタック",
-   "en": "Paralyzes the target's dominant arm, lowering attack{n}power for a while. Activation: Normal attacks. Recovery:{n}Attack.",
+   "en": "Paralyzes the target's dominant arm, lowering attack{n}power for a while. Activation: Normal attacks.{n}Recovery: Attack.",
    "term": "null"
   },
   {
    "id": "msys.skills.0016",
    "jp": "{F4C3}に{F4E7}気を乗せ、対象の{F4F9}にも{F478}{F4CA}{F496}{F41C}。ＭＰ{F478}は通常{F478}の１０％{F4BA}発動：通常{F4C3}時",
-   "en": "Channels potent fighting spirit into attacks to harm the{n}mind, too. MP damage is 10% of normal damage. On{n}normal attacks.",
+   "en": "Channels potent fighting spirit into attacks to harm the{n}mind, too. MP damage is 10% of normal damage.{n}On normal attacks.",
    "term": "null"
   },
   {
@@ -140,13 +140,13 @@
   {
    "id": "msys.skills.0022",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}技にみがきをか{F4DE}{F4BB}{F4C1}{F4DF}良い物を盗み出す{F4BA}発動：通常{F4C3}時",
-   "en": "Steals an item through an opening while attacking.{n}Refined technique yields better items. On{n}normal attacks.",
+   "en": "Steals an item through an opening while attacking.{n}Refined technique yields better items.{n}On normal attacks.",
    "term": "null"
   },
   {
    "id": "msys.skills.0023",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}技を極める{F4BB}{F4C1}さらに良い物を盗み出す{F4BA}発動：通常{F4C3}時",
-   "en": "Steals an item through an opening while attacking.{n}Perfected technique yields even better items. On{n}normal attacks.",
+   "en": "Steals an item through an opening while attacking.{n}Perfected technique yields even better items.{n}On normal attacks.",
    "term": "null"
   },
   {
@@ -278,7 +278,7 @@
   {
    "id": "msys.skills.0045",
    "jp": "飛行{F41C}{F4BA}あちこち移動出来{F4CC}{n}敵専用",
-   "en": "Flight. Allows movement all over the place. Enemies{n}only.",
+   "en": "Flight. Allows movement all over the place.{n}Enemies only.",
    "term": "null"
   },
   {

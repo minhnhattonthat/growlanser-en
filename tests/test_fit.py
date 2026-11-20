@@ -49,6 +49,21 @@ class Fit(unittest.TestCase):
                     bad.append(e["id"])
         self.assertEqual(bad, [])
 
+    def test_description_widows(self):
+        # item/spell/skill help text is hand-wrapped: no last line of one word ("attacks.", "ally.", "+5%.")
+        import json
+        LABELS = ("Attribute:", "Target:", "Recovery:", "Removed by:", "Activation:", "Duration:", " On")
+        bad = []
+        for t in ("items", "magic", "skills"):
+            f = Path(__file__).resolve().parents[1] / "script" / "msys" / f"{t}.json"
+            for e in json.loads(f.read_text(encoding="utf-8"))["entries"]:
+                ls = (e.get("en") or "").split("{n}")
+                if len(ls) > 1 and len(ls[-1].split()) == 1 or any(
+                        l.rstrip().endswith(LABELS) for l in ls[:-1]) or any(  # label cut from its value
+                        l.rstrip().endswith(" Removed") for l in ls[:-1]):
+                    bad.append(e["id"])
+        self.assertEqual(bad, [])
+
 
 if __name__ == "__main__":
     unittest.main()

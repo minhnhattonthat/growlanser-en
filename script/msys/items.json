@@ -260,7 +260,7 @@
   {
    "id": "msys.items.0042",
    "jp": "穂先に炎を{F49E}た魔槍。戦いを求めてさま{F4C8}とも{F4C0}戦いを引き寄せるとも伝え{F4EC}{F45E}{n}炎{F4DA}・{F43E}５％",
-   "en": "A magic spear with a flaming tip, said to wander in{n}search of battle or draw battle to itself. Fire; critical{n}+5%.",
+   "en": "A magic spear with a flaming tip, said to wander in{n}search of battle or draw battle to itself.{n}Fire; critical +5%.",
    "term": "null"
   },
   {
@@ -272,7 +272,7 @@
   {
    "id": "msys.items.0044",
    "jp": "{F488}精霊が描{F49F}、{F450}{F4DB}カード{F4BA}触媒{F47B}使う{F4BB}{F4C1}{F4BF}{F439}{F4BA}{F43E}６％",
-   "en": "A mithril silver card depicting a beautiful spirit. Used as{n}a catalyst, it can manifest that spirit's power. Critical{n}+6%.",
+   "en": "A mithril silver card depicting a beautiful spirit. Used as{n}a catalyst, it can manifest that spirit's power.{n}Critical +6%.",
    "term": "null"
   },
   {

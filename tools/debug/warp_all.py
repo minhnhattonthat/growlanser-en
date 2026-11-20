@@ -80,8 +80,8 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1,
     if name in JUMP:
         cmd += ["--script", str(ROOT / "tools" / "debug" / "vmjump.lua"), "--var", f"ENTRY={JUMP[name][0]}",
                 "--var", f"OFF={JUMP[name][1]}", "--var", "AT=1600"]
-    if probes or name in JUMP:
-        cmd.append("--debugger")  # probes use L.on_exec
+    if probes or name in JUMP or name in STRESS:
+        cmd.append("--debugger")  # probes, vmjump and stress.lua (spell filter) use L.on_exec
     if states:
         cmd += ["--state-out", str(ROOT / "work" / "states" / f"{name}.sstate")]
     p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")

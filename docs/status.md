@@ -2,10 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 13: stress gate green, `qa_gate check
-  work/qa/stress/manifest.tsv work/qa/stress/verdicts` exit 0, 58 sheets on 32c60d51; tour gate stale).
-  **Next:** stress gaps (full spell lists: spell-known flags; party > 1 on status; field-menu hero name copy),
+- **Phase:** 8. QA in the emulator, in progress (session 14: full spell + skill lists done, stress gate 74 sheets
+  on 32b9b1c8; tour gate stale). **Next:** stress gaps left (party > 1 on status; field-menu hero name copy),
   then re-tour + qa_gate init + vqa + textcover on the final build (both gates must match one build).
+- **Phase 8 session 14 (2026-11-20): stress spells + skills.** Spell/skill known bytes mapped (debug.md
+  "Inventory": record + 0x3C + spell id, + 0x7C + skill id; list builder filter word sp+0xD8). The field spell
+  screen (and battle Triangle menu) only ever lists Teleport + 5 heals; stress.lua now gives every unit all 34
+  spells + 63 skills and forces the battle filter, so stress_spell pages all 33 battle spells. New warp
+  stress_skills (status -> down -> Circle sub-list: spells then skills; 13400 frames). warp_all adds --debugger for
+  stress warps. Skills 59-62 show next-table strings as descriptions: JP same, not a bug. vqa (3 chunks, plugin
+  agents): description breaks fixed, no one-word last line and no label cut from its value (msys.magic 0004 0006
+  0007 0010 0011 0013 0015 0016 0018 0019 0021 0024 0025 0029 0031 0033, skills 0006-0016 0024 0025 0045, items
+  0042 0044) + new test test_fit.test_description_widows. Build disc 1 bc3d97dd88f3c6c30e6640696788aa8b0d95d263,
+  disc 2 T1 69b54a5d6f359a3608d6e306736465a0d964fb5c. Stress gate: 74 sheets, init on bc3d97dd (stress_itemdesc
+  etc. not re-run: their sheets show no changed text). Party > 1: this debug state's field party is the hero alone
+  (check menu 9 = unit viewer); still open, with the field-menu hero name copy. Init gotcha: `qa_gate init` with
+  several dirs keys ids to the first dir; use `init M work/qa/stress --glob "stress_*/*sheet*.png"`.
+  **Next:** party > 1 (a story save or party list RAM), then re-tour + qa_gate + vqa + textcover on the final build.
 - **Phase 8 session 13 (2026-11-20): stress saves, part 1.** Phase 8 gate items left: stress cases (this),
   re-tour + vqa + textcover on the final build. RAM mapped (docs/re/debug.md "Inventory"): item lists per
   category, quantities, money. New tools/debug/stress.lua (warp keyword `stress`, warp_all adds it): every item

@@ -32,7 +32,7 @@
   {
    "id": "msys.magic.0004",
    "jp": "無数の稲妻を指先{F4C7}放つ{F4C3}{F4D1}。術者を一端と{F4BC}射線上に{F4E2}を及ぼす{F4BB}が特徴{F4C1}{F4F5}も{F4C4}{F4BA}{F4DA}：雷／目標：術者を一端と{F4BC}射線上の敵",
-   "en": "Powerful attack magic that fires countless bolts of{n}lightning from the fingertips along a line. Attribute:{n}Lightning. Target: Enemies in a line from caster.",
+   "en": "Powerful attack magic firing countless lightning bolts{n}from the fingertips along a line. Attribute: Lightning.{n}Target: Enemies in a line from caster.",
    "term": "null"
   },
   {
@@ -44,13 +44,13 @@
   {
    "id": "msys.magic.0006",
    "jp": "邪悪な者に有害な、聖{F4EB}光を浴びせる{F4C3}{F4D1}{F4BA}{F47D}{F4E2}範囲が十字型を{F4CE}いる事が特徴{F4BA}{F4DA}：聖／目標：十字の型を{F4BC}範囲内にいる敵",
-   "en": "Attack magic that bathes the wicked in harmful holy{n}light over a cross-shaped area. Attribute: Holy. Target:{n}Enemies in cross-shaped area.",
+   "en": "Attack magic that bathes the wicked in harmful holy{n}light over a cross-shaped area. Attribute: Holy.{n}Target: Enemies in cross-shaped area.",
    "term": "null"
   },
   {
    "id": "msys.magic.0007",
    "jp": "目標{F4C7}ＭＰを奪い取{F4DC}術{F4EA}ＭＰを{F4F4}{F4BD}{F4C0}特殊な{F4C3}{F4D1}{F4BA}{F4DA}：闇／目標：敵１体",
-   "en": "Special attack magic that steals the target's MP to{n}restore the caster's MP. Attribute: Dark. Target: 1{n}enemy.",
+   "en": "Special attack magic that steals the target's MP to{n}restore the caster's own. Attribute: Dark.{n}Target: 1 enemy.",
    "term": "null"
   },
   {
@@ -68,13 +68,13 @@
   {
    "id": "msys.magic.0010",
    "jp": "高度に練り上げた{F48A}物質化し、目標を破壊{F4BD}{n}{F4C3}{F4D1}。最強の{F49B}{F482}{F4BA}{F4DA}：物／目標：敵１体",
-   "en": "Attack magic solidifies highly refined magic to destroy a{n}target. Unmatched destructive power. Attribute:{n}Physical. Target: 1 enemy.",
+   "en": "Attack magic solidifies highly refined magic to destroy a{n}target. Unmatched destructive power.{n}Attribute: Physical. Target: 1 enemy.",
    "term": "null"
   },
   {
    "id": "msys.magic.0011",
    "jp": "星界に{F4C4}隕石を召喚し、目標地点に落下{F48B}{n}究極の{F4C3}{F4D1}{F4BA}{F4DA}：物／目標：範囲内の敵",
-   "en": "Ultimate attack magic summoning a meteor from the{n}astral realm to strike the target point. Attribute:{n}Physical. Target: Enemies in area.",
+   "en": "Ultimate attack magic summoning a meteor from the{n}astral realm to strike the target point.{n}Attribute: Physical. Target: Enemies in area.",
    "term": "null"
   },
   {
@@ -86,7 +86,7 @@
   {
    "id": "msys.magic.0013",
    "jp": "大気の振動を止める{F4BB}{F4C1}対象の{F46F}{F4CA}妨害{F4BD}補助{F4D1}{F4BA}{F4DA}：精／目標：敵１体／{F4F4}：ファイン、自然{F4F4}",
-   "en": "Support magic that stops vibrations in the air to{n}disrupt spellcasting. Attribute: Mental. Target: 1{n}enemy. Recovery: Fine, time.",
+   "en": "Support magic that stops vibrations in the air to{n}disrupt spellcasting. Attribute: Mental.{n}Target: 1 enemy. Recovery: Fine, time.",
    "term": "null"
   },
   {
@@ -98,13 +98,13 @@
   {
    "id": "msys.magic.0015",
    "jp": "運動神経に{F478}を与え、軽いマヒを起こ{F48B}{n}補助{F4D1}。足下の自由を奪い、移動不能に{F4BD}{F4BA}{F4DA}：物／目標：範囲内の敵／{F4F4}：自然{F4F4}",
-   "en": "Support magic that damages motor nerves, causing{n}mild paralysis that prevents movement. Attribute:{n}Physical. Target: Enemies in area. Recovery: Time.",
+   "en": "Support magic that damages motor nerves, causing{n}mild paralysis. Prevents movement. Attribute: Physical.{n}Target: Enemies in area. Recovery: Time.",
    "term": "null"
   },
   {
    "id": "msys.magic.0016",
    "jp": "対象が{F4FF}{F4E9}を鈍化{F48B}補助{F4D1}{F4BA}長期間、対象の直接{F4C3}{F478}を３０％低下{F48B}{F4BA}{F4DA}：物／目標：敵１体／{F4F4}：アタック系",
-   "en": "Support magic that dulls the target's weapon, reducing{n}direct attack damage by 30% for a long time. Attribute:{n}Physical. Target: 1 enemy. Recovery: Attack spells.",
+   "en": "Support magic dulling the target's weapon: direct attack{n}damage -30% for a long time. Attribute: Physical.{n}Target: 1 enemy. Recovery: Attack spells.",
    "term": "null"
   },
   {
@@ -116,13 +116,13 @@
   {
    "id": "msys.magic.0018",
    "jp": "恐怖を与えて混乱させ、{F4D1}耐性を下げる補助{F4D1}{F4BA}長期間、{F4C3}{F47D}{F478}を３０％増加{F47A}{F4BA}{F4DA}：－／目標：敵１体／{F4F4}：レジスト系",
-   "en": "Support magic scares and confuses, lowering magic{n}resistance. Attack spell damage taken +30%, long-term.{n}None; 1 enemy; cured by Resist spells.",
+   "en": "Support magic that scares and confuses, lowering{n}magic resistance. Attack spell damage taken +30%,{n}long-term. Target: 1 enemy. Recovery: Resist spells.",
    "term": "null"
   },
   {
    "id": "msys.magic.0019",
    "jp": "対象{F4EA}{F4C3}{F4C2}、一時的に増加{F48B}補助{F4D1}{F4BA}直接{F4C3}{F478}を３０％増加{F4BD}{F4BA}目標：味方１体／消滅：ルスト／時間：長",
-   "en": "Support magic that temporarily raises attack power.{n}Direct attack damage +30%. Target: 1 ally. Removed by:{n}Rust. Duration: Long.",
+   "en": "Support magic that temporarily raises attack power.{n}Direct attack damage +30%. Target: 1 ally.{n}Removed by: Rust. Duration: Long.",
    "term": "null"
   },
   {
@@ -134,7 +134,7 @@
   {
    "id": "msys.magic.0021",
    "jp": "対象の身の回り{F4D7}{F4FD}の防壁を{F4B5}す補助{F4D1}{F4BA}対象が受{F4DE}直接{F4C3}{F478}を３０％軽減{F4BD}{F4BA}目標：味方１体／消滅：ウィークネス／時間：長",
-   "en": "Support magic forms a barrier around the target.{n}Direct attack damage taken -30%. Target: 1 ally. Removed{n}by: Weakness. Duration: Long.",
+   "en": "Support magic forms a barrier around the target.{n}Direct attack damage taken -30%. Target: 1 ally.{n}Removed by: Weakness. Duration: Long.",
    "term": "null"
   },
   {
@@ -152,13 +152,13 @@
   {
    "id": "msys.magic.0024",
    "jp": "味方１グループの生体エネルギーを活性化{F48B}{n}補助{F4D1}{F4C1}{F4A3}よる{F478}を３０％軽減{F4BD}{F4BA}目標：味方１グループ／消滅：フィア／時間：長",
-   "en": "Support magic that activates a group of allies' life{n}energy, reducing magic damage taken by 30%. Target: 1{n}ally group. Removed by: Fear. Duration: Long.",
+   "en": "Support magic that activates a group of allies' life{n}energy, reducing magic damage taken by 30%.{n}Target: 1 ally group. Removed by: Fear. Duration: Long.",
    "term": "null"
   },
   {
    "id": "msys.magic.0025",
    "jp": "姿を消す{F4BB}{F4C1}敵{F4C7}{F4C3}を受け{F4D8}{F4C8}に{F4BD}補{n}助{F4D1}。{F4AD}範囲{F4D1}{F4C3}による{F478}は不可避{F4BA}目標：術者／時間：短",
-   "en": "Support magic that hides the caster from enemy{n}attacks. Area attack magic still deals damage. Target:{n}Caster. Duration: Short.",
+   "en": "Support magic that hides the caster from enemy{n}attacks. Area attack magic still deals damage.{n}Target: Caster. Duration: Short.",
    "term": "null"
   },
   {
@@ -182,7 +182,7 @@
   {
    "id": "msys.magic.0029",
    "jp": "術{F4EA}{F4FA}、強力な癒しの{F4C2}{F4B5}す{F4F4}{F4D1}{F4BA}奇跡の力{F4C1}{F467}傷を完治{F4BD}{F4BA}目標：味方１体",
-   "en": "Healing magic that fills the caster's hand with potent{n}healing power, miraculously curing all wounds. Target: 1{n}ally.",
+   "en": "Healing magic that fills the caster's hand with potent{n}healing power, miraculously curing all wounds.{n}Target: 1 ally.",
    "term": "null"
   },
   {
@@ -194,7 +194,7 @@
   {
    "id": "msys.magic.0031",
    "jp": "{F4FC}の{F4FF}癒しの{F4C2}、極限まで高めて利用{F4BD}{n}{F4F4}{F4D1}。味方のＨＰを全{F4F4}{F47A}{F4BA}目標：味方１グループ",
-   "en": "Healing magic that draws the utmost from the earth's{n}healing power to fully restore allies' HP. Target: 1{n}ally group.",
+   "en": "Healing magic that draws the utmost from the earth's{n}healing power to fully restore allies' HP.{n}Target: 1 ally group.",
    "term": "null"
   },
   {
@@ -206,7 +206,7 @@
   {
    "id": "msys.magic.0033",
    "jp": "天への祈り{F475}、奇跡の{F4C2}呼び起こす{F4F4}{F4D1}{F4BA}戦闘不能状態{F4C7}の{F4F4}が可能{F4BA}目標：味方１体",
-   "en": "Healing magic that invokes a miracle through prayer to{n}the heavens, restoring those unable to fight. Target: 1{n}ally.",
+   "en": "Healing magic that invokes a miracle through prayer to{n}the heavens, restoring those unable to fight.{n}Target: 1 ally.",
    "term": "null"
   },
   {
