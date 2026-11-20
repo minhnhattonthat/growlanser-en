@@ -2,8 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 16: pen-gap bug fixed, full tour + stress vqa done on
-  6a97dc86, one text fix since). **Next:** see session 16 below.
+- **Phase:** 9. Release, not started (phase 8 done session 17). **Next (phase 9, skill table + pipeline.md
+  §Release):** story pass per chapter (work/qa/story/manifest.tsv, translation.md §Review; none yet); docs/polish.md
+  has 490 unticked lines (reviewer Minors + owner polish candidates: tick or fix each); write tools/release.py (none
+  yet: build, tests, smoke, jp_left, qa_gate on every work/qa/**/manifest.tsv, textcover, polish, README
+  placeholders, debug off, xdelta per .bin -B, re-apply + compare, zip patch + README); README filled from template.
+  Codex out of credits until 2026-11-26 (reviews: own read-only pass).
+- **Phase 8 session 17 (2026-11-21): phase 8 gate green.** Build disc 1 a5c879ef57e23f55c749741ccbbef7456ee4e690,
+  disc 2 T1 0742c53077f3bca40565943f6d4776a378ac7fc9, T2 485017be606e6b517760076c9b05ceba89f5cdba; smoke ok;
+  check.py 52 tests OK. scen014.0185 "Take it" centring committed (batches.EDGE_FREE entry). Re-tour 84/84 (credits
+  alone) on a5c879ef: `qa_gate check work/qa/tour/manifest.tsv work/qa/tour/verdicts` exit 0 (303 sheets; 5
+  changed: ev_battle001/sheet_2 centred, inkbox 112/113; gear_equip = NPC timing; verdicts/recheck_5.tsv). Stress
+  10/10: all 46 non-boot-identical sheets changed (field NPCs move run to run), reviewed by hand, all ok
+  (work/qa/stress/verdicts/recheck_s17.tsv); `qa_gate check work/qa/stress/...` exit 0. Text coverage: cover.py
+  scene 14 rerun + x18 (13 reruns) + x279 (7) into work/qa/cov; exe.items.0084 "Hammer" waived like its neighbours
+  (it used to match a scene string's hash); `textcover.py work/qa/cov build/strings.tsv --waive
+  docs/text_unshown.tsv` exit 0 (22248 shown, 1823 waived). work/qa/tour_prev/manifest.tsv renamed .retired.
+  Gotcha: check.py takes ~15 min and batches check ~10 min now; a background run was reaped once on low memory.
 - **Phase 8 session 16 (2026-11-21): pen gap fixed, final tour vqa.** (a) **Bug fixed (asm/vwf.asm):** a dialogue
   message prints its first code alone (print wrapper called from 0x80065E5C), then the rest from the page path
   (wrapper calls at 0x80065630 / 0x80065AF4), again after each wait code; the new-string flag resynced the pen to
