@@ -2,7 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 12: tour gate green; next: the rest of the phase 8 gate list).
+- **Phase:** 8. QA in the emulator, in progress (session 13: stress cases started; tour gate stale again).
+- **Phase 8 session 13 (2026-11-20): stress saves, part 1.** Phase 8 gate items left: stress cases (this),
+  re-tour + vqa + textcover on the final build. RAM mapped (docs/re/debug.md "Inventory"): item lists per
+  category, quantities, money. New tools/debug/stress.lua (warp keyword `stress`, warp_all adds it): every item
+  list filled with its category's ids, x9 (menu draws 1 digit: 99 showed "x9"), money 999999. Warps stress_menu, stress_items (pages every list),
+  stress_itemdesc; manifest work/qa/stress/manifest.tsv (chunk 000 verdicts: 9 ok, 3 issue). **Bug fixed:** the
+  item description's name tag clipped by code count ("Broadswo"): exe.items added to insert.TAG_POOLS (zero-width
+  pad codes, as name tags); shot work/qa/stress_fix/stress_itemdesc. Build disc 1 32cd282d9c0826fc5965dd2d9b683bcb1a9201c4, disc 2 T1
+  51961cca4d8506716371458d68bbf8956c20f10e, smoke ok. **Next:** re-run stress warps on this build, qa_gate init,
+  vqa both chunks; then the rest of the stress list: max stats/level/HP (unit
+  records 0x801929CC are battle copies; find the persistent party data), name cases (max-length hero name via
+  name_entry), full spell lists, save/load screen with stress data. Then re-tour + qa_gate + textcover (final).
 - **Phase 8 session 12 (2026-11-20): vqa on re-tour 6.** Re-tour 6 (84 warps, build e694af15, work/qa/tourbuild)
   -> qa_gate init -> 18 chunks of 12 by plugin visual-qa agents one at a time: 210 ok, 3 issue, all fixed
   (verdicts/recheck_4.tsv); `qa_gate check` exit 0. Fixes (build ab9f96a84322c9abbfdcf5171415a17dbd935b1e, disc 2

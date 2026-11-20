@@ -37,6 +37,8 @@ def scenes():
         k = re.search(r"\bkill\s+(\d+)", body)
         if k:
             KILL[name] = int(k.group(1))
+        if re.search(r"\bstress\b", body):
+            STRESS.add(name)
         out.append((name, int(m.group(1)) if m else 4500, 2 if re.search(r"\bdisc\s+2\b", body) else 1,
                     bool(re.search(r"\bcard\b", body))))
     return out
@@ -45,6 +47,7 @@ def scenes():
 CARD = ROOT / "work" / "states" / "save1.mcd"  # memory card with one save: `warp_all.py card_save` writes it
 JUMP = {}  # name -> (SCEN entry, script offset): "jump E:0xOFF" runs tools/debug/vmjump.lua after landing
 KILL = {}  # name -> frame: "kill F" runs tools/debug/kill.lua (hero HP held at 1 from frame F)
+STRESS = set()  # "stress": tools/debug/stress.lua fills every item list (full lists, x9, max money)
 
 
 def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1, card=False):
@@ -70,6 +73,8 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1,
         cmd += ["--sav", str(ROOT / "tools" / "pcsx" / "memcard1.mcd")]
     if name in KILL:  # hold the hero's HP at 1 so the next hit is a defeat (game over screen)
         cmd += ["--script", str(ROOT / "tools" / "debug" / "kill.lua"), "--var", f"KILL_AT={KILL[name]}"]
+    if name in STRESS:
+        cmd += ["--script", str(ROOT / "tools" / "debug" / "stress.lua")]
     for p in probes:
         cmd += ["--script", str(Path(p).resolve())]
     if name in JUMP:

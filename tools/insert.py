@@ -50,7 +50,7 @@ HEAP_MAX = 0x80149778
 MSYS_NSLOT = 16
 # fit.BUDGETS rows whose frame is sized by code count (docs/windows.md "Name tag"; place popup: 12 px x codes at
 # 0x8006BC94)
-TAG_POOLS = ("scen.name", "exe.names", "exe.places")
+TAG_POOLS = ("scen.name", "exe.names", "exe.places", "exe.items")  # items: the description's name tag
 # The place popup and the field-menu bubbles (same routine 0x8006BA48, the bubble has a tail) are sized to the
 # text's pixel width by asm/vwf.asm popup_width: nothing to do in the text.
 # Scene captions ("　The next day　"): code-count frame too; text starts 15 px in (blank incl.), and the ink ends 4 px

@@ -114,6 +114,17 @@ Older notes:
 - Title warps: `pick 2` fires before the title menu takes input (it opens LOAD); the title_appendix route recovers
   with cross / down / circle.
 
+## Inventory (stress saves, tools/debug/stress.lua, phase 8 session 13; verified by read/write hooks + pokes)
+- Party inventory = one u16 item-id list per field-menu category (-1 = empty). u32 list pointers at 0x8010D740:
+  0 weapon 0x801DDD06 (104 slots), 1 armor 0x801DDDD6 (47), 2 accessory 0x801DDE34 (40), 3 goods 0x801DDE84 (139),
+  4 key items/USERS 0x801DDF9A (capacity unknown; other data may follow). Count per category: u16 at 0x801DE22E.
+- Quantity: byte at 0x801DDA90 + 2 * id (high byte = flags, e.g. 0x80), ids < 0x13B only (reader 0x8008A4F8).
+- Item names: EXE table at file 0xE55BC (RAM 0x800F4DBC), name getter 0x80070D30 (via 0x8008BAEC); menu row list
+  builder 0x80086E80-0x80087150 (rows -> 0x801D7D10). Item data 28 bytes per id at 0x801024A0 (fields not mapped).
+  exe.items json index = game id for id <= 93, ids 94-96 share entry 93, then json = id - 3.
+- Money (ELM): u32 0x80194304 (poke shown in the field menu; 1234567 drew "234567": 6 digits, game max unknown).
+- Still unmapped for stress cases: character stats/levels outside battle, hero/party name buffers.
+
 ## Text coverage (tools/debug/cover.py, phase 8 session 10)
 - `msgforce.lua` replaces each scene-message printer call with the next message of the section and loops the VM on
   the op that printed it (LOOP), so mashing Circle shows the whole section. Warping to `scene N` directly fails for
