@@ -63,7 +63,7 @@
   {
    "id": "scen017.0009",
    "jp": "{v:0038}こんな時に！{p}{v:0039}おい、案内しろ！",
-   "en": "{v:0038}Of all the times!{p}{v:0039}Hey, lead the way!",
+   "en": "{v:0038}Now, of all times!{p}{v:0039}Hey, lead the way!",
    "term": "end"
   },
   {
@@ -371,7 +371,7 @@
   {
    "id": "scen017.0059",
    "jp": "{v:0077}お兄ちゃんの体の調子がおかしいのは、{n}やっぱりあのゲヴェルを倒したせいなんだよね‥‥。{p}{v:0078}こんな事になるなら、{n}あいつを倒さなければよかった‥‥。",
-   "en": "{v:0077}You're ill because we defeated Gevel, aren't you,{n}Big Brother...?{p}{v:0078}If I'd known this would happen, I wish we'd never{n}defeated him...",
+   "en": "{v:0077}You're ill because we defeated Gevel, aren't you,{n}Big Brother...?{p}{v:0078}If this is what it leads to, I wish we'd never{n}defeated him...",
    "term": "end"
   },
   {

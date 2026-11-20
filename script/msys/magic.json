@@ -8,7 +8,7 @@
   {
    "id": "msys.magic.0000",
    "jp": "力{F4C4}{F44B}のみが{F4D2}{F47A}{F451}{n}転移{F4D1}{F4C1}術者が行{F4CF}{F4BB}の{F4C4}街や{F4C0}ダンジョンなどの出口へ瞬時に移動{F47A}。",
-   "en": "A teleportation spell said to be usable only by powerful{n}Growsians. Instantly travels to previously visited towns{n}or exits of dungeons and other places.",
+   "en": "A teleportation spell said to be usable only by powerful{n}Growsians. Allows instant travel to towns the caster{n}has visited or to exits of dungeons and other places.",
    "term": "null"
   },
   {
@@ -170,7 +170,7 @@
   {
    "id": "msys.magic.0027",
    "jp": "神経を極限まで研ぎ澄ませる{F4BB}{F4C1}{F467}行動{F4CA}機敏に{F4BD}補助{F4D1}{F4BA}目標：味方１体／消滅：スロー／時間：短",
-   "en": "Support magic that hones the nerves to their utmost,{n}quickening all actions. Target: 1 ally. Removed by: Slow.{n}Duration: Short.",
+   "en": "Support magic that hones the senses to the limit,{n}quickening all actions. Target: 1 ally. Removed by: Slow.{n}Duration: Short.",
    "term": "null"
   },
   {

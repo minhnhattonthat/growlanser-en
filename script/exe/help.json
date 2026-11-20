@@ -207,7 +207,7 @@
   {
    "id": "exe.help.0033",
    "jp": "例えば『{FFEF}キュア{FFF1}』を修得{F4BD}{F483}{FFEE}修得{F419}{FFF1}{F4FB}{FFF0}３{F419}{FFF1}必要になり{F41B}",
-   "en": "For example, learning '{FFEF}Cure{FFF1}' costs {FFEE}learning points{FFF1}: {FFF0}3{n}points{FFF1}.",
+   "en": "For example, learning '{FFEF}Cure{FFF1}' requires {FFF0}3{FFF1} {FFEE}learning points{FFF1}.",
    "term": "null"
   },
   {

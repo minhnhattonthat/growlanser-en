@@ -201,7 +201,7 @@
   {
    "id": "scen026.0032",
    "jp": "元々別の世界を、無理矢理重ねている世界だからな。{n}このような状況も予想はされるのだが‥‥。",
-   "en": "Our world is made of separate worlds forcibly{n}overlapped, after all. A situation like this is to be{n}expected, but...",
+   "en": "Our world was made by forcing separate worlds to{n}overlap, after all. A situation like this is to be{n}expected, but...",
    "term": "end"
   },
   {
@@ -225,7 +225,7 @@
   {
    "id": "scen026.0036",
    "jp": "人間の力なんて、ちっぽけなものね‥‥。",
-   "en": "Human power is such a tiny thing...",
+   "en": "Human strength counts for so little...",
    "term": "end"
   },
   {
@@ -543,7 +543,7 @@
   {
    "id": "scen026.0089",
    "jp": "た、助かった‥‥。",
-   "en": "I-I'm saved...",
+   "en": "I-I'm safe...",
    "term": "end"
   },
   {
@@ -771,7 +771,7 @@
   {
    "id": "scen026.0127",
    "jp": "{v:0025}はい。{n}正直に言って、打つ手がありません。",
-   "en": "{v:0025}Yes. To be honest, we have no way to act.",
+   "en": "{v:0025}Yes. To be honest, there is nothing we can do.",
    "term": "end"
   },
   {
@@ -825,7 +825,7 @@
   {
    "id": "scen026.0136",
    "jp": "{v:0032}しかし、そなたらがフェザーランドに来てから、{n}我々は今まで見ようとはしなかった{n}人間を見る機会を得られた。{p}{v:0033}そして人間の素晴らしさに、気づくことができたのだ。",
-   "en": "{v:0032}Yet your arrival in Featherland gave us a chance to{n}see the humanity we had always refused to look upon.{p}{v:0033}And we came to recognize its greatness.",
+   "en": "{v:0032}Yet since you came to Featherland, we have had the{n}chance to see the humans we had always refused to{n}look upon.{p}{v:0033}And we have come to realize how wonderful{n}humans are.",
    "term": "end"
   },
   {

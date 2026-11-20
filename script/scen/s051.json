@@ -338,7 +338,7 @@
   {
    "id": "scen051.0053",
    "jp": "‥‥{v:001A}あの傲慢な陛下が、どうして‥‥？",
-   "en": "...{v:001A}His Majesty is so arrogant. Why would he...?",
+   "en": "...{v:001A}His Majesty is usually so arrogant. Why is he acting{n}like this...?",
    "term": "end"
   },
   {
@@ -492,7 +492,7 @@
   {
    "id": "scen051.0078",
    "jp": "‥‥{v:0031}そうか？{n}我が国の将軍、特にインペリアル・ナイトならば{n}当然だぞ。",
-   "en": "...{v:0031}You think so? It is only to be expected of our{n}nation's generals, especially an Imperial Knight.",
+   "en": "...{v:0031}You think so? It is only to be expected of one of our{n}nation's generals, especially an Imperial Knight.",
    "term": "end"
   },
   {
@@ -732,7 +732,7 @@
   {
    "id": "scen051.0118",
    "jp": "{FFEC}{v:0045}アンタって男は～っ！{FFED}{n}人を困らせてどうすんの～！",
-   "en": "{FFEC}{v:0045}You are UNBELIEVABLE!{FFED} What good does making trouble{n}for people do?!",
+   "en": "{FFEC}{v:0045}You are UNBELIEVABLE!{FFED} Why do you have to go making{n}trouble for people?!",
    "term": "end"
   },
   {

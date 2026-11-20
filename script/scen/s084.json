@@ -296,7 +296,7 @@
   {
    "id": "scen084.0047",
    "jp": "‥‥{v:0085}コイツらとは一緒にいられねぇ。{n}騙されていたとはいえ、{n}ローランディア王国には迷惑かけちまったからな。{p}{v:0086}かといって、バーンシュタイン王国にもいられねぇ。{n}とりあえず、自分の家に戻るさ。",
-   "en": "...{v:0085}I can't stay with this lot. Even if I was tricked, I still{n}caused trouble for the Kingdom of Rolandia.{p}{v:0086}But I can't stay in the Kingdom of Burnstein, either. I'll{n}head home for now.",
+   "en": "...{v:0085}I can't stay with this lot. Even though I was tricked, I{n}still caused trouble for the Kingdom of Rolandia.{p}{v:0086}But I can't stay in the Kingdom of Burnstein, either. I'll{n}head home for now.",
    "term": "end"
   },
   {
@@ -494,13 +494,13 @@
   {
    "id": "scen084.0080",
    "jp": "『{FFEF}秘伝書{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Secret Manual{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Secret Manual{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen084.0081",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　　Received a '{FFEF}Secret Manual{FFF1}'!",
+   "en": "　{n}　　　　　　Received '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {

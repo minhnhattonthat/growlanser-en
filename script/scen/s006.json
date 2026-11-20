@@ -423,7 +423,7 @@
   {
    "id": "scen006.0069",
    "jp": "{v:0008}国王、放心している暇はありません。{n}すぐにバーンシュタイン王国が攻めてきそうな場所に兵を配しなければ、{n}あっという間に攻め込まれてしまいます。",
-   "en": "{v:0008}Your Majesty, there is no time to stand stunned. We{n}must immediately station troops wherever the Kingdom{n}of Burnstein is likely to strike, or they will overrun us{p}in no time.",
+   "en": "{v:0008}Your Majesty, there is no time to sit in shock. We must{n}immediately station troops wherever the Kingdom of{n}Burnstein is likely to strike, or they will overrun us in no{p}time.",
    "term": "end"
   },
   {
@@ -783,7 +783,7 @@
   {
    "id": "scen006.0129",
    "jp": "{v:0025}行き先は南にある砦の先だ。{n}そこで先方から、{FFEF}インペリアル・ナイツ{FFF1}の騎士が{n}出迎えに来ることになっている。",
-   "en": "{v:0025}Your destination lies beyond the fort to the south. A{n}knight of their {FFEF}Imperial Knights{FFF1} will meet you there.",
+   "en": "{v:0025}Your destination lies beyond the fort to the south. One{n}of their {FFEF}Imperial Knights{FFF1} will meet you there.",
    "term": "end"
   },
   {

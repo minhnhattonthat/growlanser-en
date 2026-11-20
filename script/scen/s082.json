@@ -105,7 +105,7 @@
   {
    "id": "scen082.0016",
    "jp": "『{FFEF}リーヴバングル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Lif Bangle{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Lif Bangle{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen082.0018",
    "jp": "‥‥{v:002F}この人、本当にあの大鷲だけは‥‥。",
-   "en": "...{v:002F}To him, that Giant Eagle really was...",
+   "en": "...{v:002F}This man... that Giant Eagle, at least, he truly...",
    "term": "end"
   },
   {

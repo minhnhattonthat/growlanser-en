@@ -339,7 +339,7 @@
   {
    "id": "scen107.0055",
    "jp": "{v:002D}ハウエル家だと？{n}あの、紡績商のハウエルか？",
-   "en": "{v:002D}The Howell family? Those Howell textile merchants?",
+   "en": "{v:002D}The Howell family? You mean those Howells, the{n}textile merchants?",
    "term": "end"
   },
   {
@@ -836,7 +836,7 @@
   {
    "id": "scen107.0135",
    "jp": "{v:00A3}そうなの？{n}もっと劇的な心境の変化とかあると思ったのに‥‥。",
-   "en": "{v:00A3}Really? I thought you'd feel some dramatic change{n}deep inside...",
+   "en": "{v:00A3}Really? I thought you'd go through some dramatic{n}change of heart or something...",
    "term": "end"
   },
   {
@@ -1155,7 +1155,7 @@
   {
    "id": "scen107.0187",
    "jp": "{v:0043}我々の計画にはお前が邪魔なんだよ。{n}お前さえいなくなれば、{n}我々の計画の障害はなくなる‥‥。{p}{v:0044}おとなしく死ね！",
-   "en": "{v:0043}You're in the way of our plans. Once you're gone,{n}nothing will stand in our way...{p}{v:0044}Now die without a fuss!",
+   "en": "{v:0043}You're in the way of our plans. Once you're gone,{n}nothing will stand in our way...{p}{v:0044}Now hold still and die!",
    "term": "end"
   },
   {

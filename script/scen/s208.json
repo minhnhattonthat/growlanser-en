@@ -345,7 +345,7 @@
   {
    "id": "scen208.0056",
    "jp": "{v:0060}リシャール陛下！",
-   "en": "{v:0060}Your Majesty Richard!",
+   "en": "{v:0060}King Richard!",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen208.0060",
    "jp": "{v:0064}あいつらは‥‥！",
-   "en": "{v:0064}Those are...!",
+   "en": "{v:0064}It's them...!",
    "term": "end"
   },
   {
@@ -405,7 +405,7 @@
   {
    "id": "scen208.0066",
    "jp": "‥{v:0088}申し訳ありません、リシャール陛下‥‥。",
-   "en": "...{v:0088}Forgive me, Your Majesty Richard...",
+   "en": "...{v:0088}Forgive me, King Richard...",
    "term": "end"
   },
   {

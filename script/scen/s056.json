@@ -287,7 +287,7 @@
   {
    "id": "scen056.0045",
    "jp": "ジュリア様のことは、みんなで秘密にしてたんだけど、{n}まさか自分から女性だと明かすなんて驚いたわ。{n}それに女ナイツまで認めさせるなんて‥‥。{p}やっぱりあのお方は凄いわ。{n}同じ女性として尊敬しちゃうな。",
-   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she revealed she was a woman herself. And{n}she even got them to accept women as Imperial{p}Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
+   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she chose to reveal she was a woman. And{n}she even got them to accept women as Imperial{p}Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
    "term": "end"
   },
   {
@@ -604,7 +604,7 @@
   {
    "id": "scen056.0097",
    "jp": "{v:0014}ここに宮廷魔術師であったヴェンツェルからの{n}手紙があります。{n}これを元に詳しく話しましょう。",
-   "en": "{v:0014}I have a letter here from Wenzel, the former Court{n}Magician. Let me use it to explain in detail.",
+   "en": "{v:0014}I have a letter here from Wenzel, the former Court{n}Magician. Allow me to explain in detail based on{n}its contents.",
    "term": "end"
   },
   {
@@ -775,7 +775,7 @@
   {
    "id": "scen056.0125",
    "jp": "{v:0034}君は闘技大会で一度、{n}ジュリアンと手合わせをしているはず。{n}顔は知っているだろう？",
-   "en": "{v:0034}You fought Julian once in the tournament, did you not?{n}You should recognize the face.",
+   "en": "{v:0034}You fought Julian once in the tournament, did you not?{n}Surely you know his face.",
    "term": "end"
   },
   {
@@ -900,7 +900,7 @@
   {
    "id": "scen056.0145",
    "jp": "{v:0048}隠す必要はない。",
-   "en": "{v:0048}There is no need to conceal it.",
+   "en": "{v:0048}There is no need to hide that you know.",
    "term": "end"
   },
   {

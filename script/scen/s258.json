@@ -57,7 +57,7 @@
   {
    "id": "scen258.0008",
    "jp": "‥‥わたし、時々ここに来るんです。{n}お花畑の中にひっそりと生えている薬草を採りに。{p}ここで、色々な事を考えました。{n}みんなの事、兄さんの事‥‥。{FFFB}{n}{FC04}そして‥‥、{FE1E}あなたの事を。",
-   "en": "...I come here sometimes, to gather the medicinal herbs{n}growing tucked away among the flowers.{p}I've thought about so many things here. About{n}everyone, about my brother...{FFFB} {FC04}And...{FE1E} about you.",
+   "en": "...I come here sometimes to gather medicinal herbs{n}hidden among the flowers.{p}I've thought about so many things here. About{n}everyone, about my brother...{FFFB} {FC04}And...{FE1E} about you.",
    "term": "end"
   },
   {
@@ -138,7 +138,7 @@
   {
    "id": "scen258.0021",
    "jp": "{v:00B7}えっ！？{n}兄妹はちょっとヤバイよ！",
-   "en": "{v:00B7}What?! But he's your brother! That's trouble!",
+   "en": "{v:00B7}What?! But he's your brother! That's kinda dicey!",
    "term": "end"
   },
   {

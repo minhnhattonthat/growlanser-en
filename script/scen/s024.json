@@ -369,7 +369,7 @@
   {
    "id": "scen024.0060",
    "jp": "{v:007F}今の歌がどうかしたのか？",
-   "en": "{v:007F}Something about that song bother you?",
+   "en": "{v:007F}That song mean something to you?",
    "term": "end"
   },
   {
@@ -607,7 +607,7 @@
   {
    "id": "scen024.0099",
    "jp": "{v:0049}さっきのアタシみたく捕まって、{n}あんな事やこんな事‥‥。",
-   "en": "{v:0049}You could get caught like I did earlier, and have this and{n}that done to you...",
+   "en": "{v:0049}You could get caught like I did earlier, and then he'd do{n}all sorts of things to you...",
    "term": "end"
   },
   {
@@ -1315,7 +1315,7 @@
   {
    "id": "scen024.0216",
    "jp": "{FB00}{v:0085}だ、大丈夫って‥‥。",
-   "en": "{FB00}{v:0085}F-fine, you say...",
+   "en": "{FB00}{v:0085}Wh-what do you mean, fine...?",
    "term": "end"
   },
   {
@@ -1393,7 +1393,7 @@
   {
    "id": "scen024.0229",
    "jp": "{v:005C}そいつに会えば、もっと詳しいことが{n}わかるんじゃないかと思うんだ。",
-   "en": "{v:005C}I reckon we could learn more if we went to see him.",
+   "en": "{v:005C}I think we could learn a lot more if we went to see him.",
    "term": "end"
   },
   {

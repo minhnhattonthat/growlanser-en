@@ -257,7 +257,7 @@
   {
    "id": "scen103.0041",
    "jp": "{v:0022}また俺たちを狙いに来たのか？",
-   "en": "{v:0022}You here to come after us again?",
+   "en": "{v:0022}You here to attack us again?",
    "term": "end"
   },
   {
@@ -593,7 +593,7 @@
   {
    "id": "scen103.0097",
    "jp": "{v:0002}監獄のそばの橋で、敵の妨害を受けていた。{n}そいつらも倒してきたから、{n}明日くらいには合流できるだろう。",
-   "en": "{v:0002}The enemy was holding them up at the bridge near the{n}prison. We took care of them, so the reinforcements{n}should join you around tomorrow.",
+   "en": "{v:0002}The enemy was holding them up at the bridge near the{n}prison. We took care of them, so the reinforcements{n}should join you sometime tomorrow.",
    "term": "end"
   },
   {
@@ -623,7 +623,7 @@
   {
    "id": "scen103.0102",
    "jp": "{v:0056}戦を前にして少し神経が高ぶっているようなのでな、{n}それを鎮めようと散歩をしていた。{p}{v:0057}しかし、お前たちと出会ってから色々な事があったな。{p}{v:0058}自分の進むべき道を見失っていた時、{n}お前たちと一緒にいて、もう一度{n}道を見つける事が出来た。{p}{FC03}{v:0059}もっともそのおかげで、{n}皮肉な再会となってしまったがな。",
-   "en": "{v:0056}I seem to be a little on edge with battle approaching,{n}so I was taking a walk to calm my nerves.{p}{v:0057}So much has happened since I met you all.{p}{v:0058}When I had lost sight of the path I should follow, being{n}with you helped me find my way again.{p}{FC03}{v:0059}Though, ironically, that led to the way we next met.",
+   "en": "{v:0056}I seem to be a little on edge with battle approaching,{n}so I was taking a walk to calm my nerves.{p}{v:0057}So much has happened since I met you all.{p}{v:0058}When I had lost sight of the path I should follow, being{n}with you helped me find my way again.{p}{FC03}{v:0059}Though that is what made our reunion so ironic.",
    "term": "end"
   },
   {

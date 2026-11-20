@@ -105,7 +105,7 @@
   {
    "id": "scen068.0016",
    "jp": "{v:0007}彼らは{FFEF}フェザリアン{FFF1}。{n}あまり地上に降りてこないからね、{n}知らなくても無理はない。",
-   "en": "{v:0007}They are {FFEF}Featherians{FFF1}. They rarely come down to the{n}surface, so it is understandable that you do not know{n}of them.",
+   "en": "{v:0007}They're {FFEF}Featherians{FFF1}. They rarely come down to the{n}surface, so it's no wonder you don't know about them.",
    "term": "end"
   },
   {
@@ -291,7 +291,7 @@
   {
    "id": "scen068.0047",
    "jp": "{v:002E}そろそろアタシ達も帰りましょ？",
-   "en": "{v:002E}Shall we head home too?",
+   "en": "{v:002E}Let's head home too, okay?",
    "term": "end"
   },
   {
@@ -725,13 +725,13 @@
   {
    "id": "scen068.0118",
    "jp": "『{FFEF}回復薬{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}healing potion{FFF1}', but you can't carry any more...",
+   "en": "Found '{FFEF}healing potion{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen068.0119",
    "jp": "　{n}　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　Obtained a '{FFEF}healing potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}healing potion{FFF1}'!",
    "term": "end"
   }
  ]

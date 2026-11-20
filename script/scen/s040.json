@@ -105,7 +105,7 @@
   {
    "id": "scen040.0016",
    "jp": "{v:0005}大丈夫だよ、ルイセちゃん？{p}{FFF3}‥{FE1E}‥{FE1E}{FFF4}{v:0006}アンタも一緒に行くしかないわね。",
-   "en": "{v:0005}It's all right, Luise-chan, okay?{p}{FFF3}...{FE1E}...{FE1E}{FFF4}{v:0006}Looks like you'll have to go with her.",
+   "en": "{v:0005}It's all right, Luise-chan.{p}{FFF3}...{FE1E}...{FE1E}{FFF4}{v:0006}Looks like you'll have to go with her.",
    "term": "end"
   },
   {
@@ -1186,7 +1186,7 @@
   {
    "id": "scen040.0194",
    "jp": "‥‥私、ちょっと、ショックを受けてます。{n}まさかあの患者さんが、お父さんだったなんて。{p}お父さんはまだ私が２つか３つの頃に家を出て、{n}帰らなくなったと母から聞きました。{p}その母も私が１０才の時に亡くなり、{n}それからは、兄が私を育ててくれたんです。{p}兄が傭兵をはじめると言い出したときは、{n}すごく反対しました。{p}だって、お父さんも傭兵をしていて、{n}行方不明になったと聞かされていましたから。{p}もしお父さんが『ベルガー』という自分の名前を{n}思い出してくれれば、もっと早く気づけたのですが、{n}私はお父さんの顔を覚えていなかったので‥‥。",
-   "en": "...I'm still a little shocked. I never imagined that patient{n}was my father.{p}Mother told me he left home when I was only two or{n}three and never came back.{p}Mother died when I was ten, and my brother raised me{n}after that.{p}When my brother said he was going to become a{n}mercenary, I was terribly against it.{p}You see, I'd been told that Father was a mercenary{n}too, and that he'd gone missing.{p}If Father had remembered his own name, 'Berger,' I{n}could have realized sooner. But I didn't remember{n}his face...",
+   "en": "...I'm still a little shocked. I never imagined that patient{n}was my father.{p}Mother told me he left home when I was only two or{n}three and never came back.{p}Mother died when I was ten, and my brother raised me{n}after that.{p}When my brother said he was going to become a{n}mercenary, I was strongly opposed to it.{p}You see, I'd been told that Father was a mercenary{n}too, and that he'd gone missing.{p}If Father had remembered his own name, 'Berger,' I{n}could have realized sooner. But I didn't remember{n}his face...",
    "term": "end"
   },
   {

@@ -385,7 +385,7 @@
   {
    "id": "scen028.0059",
    "jp": "この前、三つ編みの女の子にぶつかられてさ、{n}１００エルム入った財布を落としちゃった。{n}‥‥とほほ。",
-   "en": "The other day, a girl with braids bumped into me, and I{n}dropped my wallet with 100 Elm in it. ...Just my luck.",
+   "en": "The other day, a girl with pigtails bumped into me, and{n}I dropped my wallet with 100 Elm in it. ...Just my luck.",
    "term": "end"
   },
   {
@@ -601,7 +601,7 @@
   {
    "id": "scen028.0092",
    "jp": "すまないが、本を調べるのは君たちに任せるよ。",
-   "en": "I'm sorry, but I'll have to leave searching the books{n}to you.",
+   "en": "I'm sorry, but I'll have to leave checking the books{n}to you.",
    "term": "end"
   },
   {
@@ -715,7 +715,7 @@
   {
    "id": "scen028.0111",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed. The collapse completely blocked the{n}tunnel beyond that point, restricting the investigation{p}to the area around the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members: Nicola C.; Maxwell J.; Prokins A....",
    "term": "end"
   },
   {
@@ -838,7 +838,7 @@
   {
    "id": "scen028.0131",
    "jp": "{v:0016}ああっ！{n}お兄さま♪",
-   "en": "{v:0016}Ah! Dear Brother♪",
+   "en": "{v:0016}Ah! Big Brother♪",
    "term": "end"
   },
   {
@@ -868,7 +868,7 @@
   {
    "id": "scen028.0136",
    "jp": "{v:001B}ここって奥だから、呼んでも誰も気づかなくて。{p}{v:001C}それで、何とかしなきゃって思ってたんだけど、{n}重くて動けなくて、{n}そのうち疲れちゃって‥‥。",
-   "en": "{v:001B}It's so far back here that nobody noticed, even when I{n}called for help.{p}{v:001C}So I kept thinking I had to do something, but the books{n}were too heavy for me to move. Then I got tired...",
+   "en": "{v:001B}It's so far back here that nobody noticed, even when I{n}called for help.{p}{v:001C}So I kept thinking I had to do something, but the books{n}were so heavy I couldn't move. Then I got tired...",
    "term": "end"
   },
   {
@@ -1189,7 +1189,7 @@
   {
    "id": "scen028.0188",
    "jp": "面倒くさいなぁ。",
-   "en": "What a pain.",
+   "en": "Ugh, what a paaain.",
    "term": "end"
   },
   {
@@ -1519,7 +1519,7 @@
   {
    "id": "scen028.0240",
    "jp": "仕方ないよ。{n}学院長先生は忙しい方だから。",
-   "en": "We can't help it. The Headmaster is very busy.",
+   "en": "It can't be helped. The Headmaster is very busy.",
    "term": "end"
   },
   {
@@ -1579,7 +1579,7 @@
   {
    "id": "scen028.0250",
    "jp": "{v:005B}そうですか。{n}実は副学院長は今、研究室の方にいっており、{n}不在だったので。",
-   "en": "{v:005B}I see. The Vice Headmaster is actually away at his{n}laboratory at the moment.",
+   "en": "{v:005B}I see. It's just that the Vice Headmaster is away at his{n}laboratory at the moment.",
    "term": "end"
   },
   {
@@ -1747,7 +1747,7 @@
   {
    "id": "scen028.0278",
    "jp": "{v:006E}どうして母さんが父さんと結ばれたか、{n}知りたくないかい？{p}{v:006F}そういうわけだから、一緒に村に行って欲しいんだ。",
-   "en": "{v:006E}Wouldn't you like to know how my mother and father{n}came to be together?{p}{v:006F}That's why I'd like you to come to the village with me.",
+   "en": "{v:006E}Wouldn't you like to know why my mother ended up{n}with my father?{p}{v:006F}That's why I'd like you to come to the village with me.",
    "term": "end"
   },
   {

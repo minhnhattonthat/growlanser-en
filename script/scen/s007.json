@@ -189,7 +189,7 @@
   {
    "id": "scen007.0030",
    "jp": "だって、ほら！{n}仕官するのはお兄さまとルイセちゃんだし、アタシっ{n}てば、ウォレスさんみたく、ちゃんとしてないし‥‥。",
-   "en": "Well, see! You're the ones entering royal service, Big{n}Brother, you and Luise-chan. And I'm not as proper{n}as Wallace-san...",
+   "en": "Well, see! It's you and Luise-chan who are entering{n}royal service, Big Brother. And I'm not as proper{n}as Wallace-san...",
    "term": "end"
   },
   {
@@ -348,7 +348,7 @@
   {
    "id": "scen007.0056",
    "jp": "コイツったら、照れてるだけよ！",
-   "en": "Oh, he's just being bashful!",
+   "en": "Ha! This guy's just being bashful!",
    "term": "end"
   },
   {
@@ -372,7 +372,7 @@
   {
    "id": "scen007.0060",
    "jp": "くすくすっ★{n}ウォレスさんって、お父さんみたいだね？",
-   "en": "Heehee! Wallace-san, you sound just like a father,{n}don't you?",
+   "en": "Heehee! Wallace-san, you sound just like a dad!",
    "term": "end"
   },
   {
@@ -426,7 +426,7 @@
   {
    "id": "scen007.0069",
    "jp": "{v:0001}おお、無事に戻ってきてくれて何より。",
-   "en": "{v:0001}Ah, above all, we are glad you have returned safely.",
+   "en": "{v:0001}Ah, it is good indeed that you have returned safely.",
    "term": "end"
   },
   {

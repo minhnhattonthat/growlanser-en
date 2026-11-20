@@ -1378,7 +1378,7 @@
   {
    "id": "scen032.0214",
    "jp": "学院長が死んでからまだ中の調査が終わっていません。{n}関係者以外立入禁止となっています。",
-   "en": "The investigation inside has not yet been completed{n}since the headmaster's death. Only authorized{n}personnel may enter.",
+   "en": "Since the headmaster's death, the investigation inside{n}has yet to be completed. Only authorized personnel{n}may enter.",
    "term": "end"
   },
   {

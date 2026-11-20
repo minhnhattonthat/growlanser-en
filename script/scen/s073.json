@@ -159,7 +159,7 @@
   {
    "id": "scen073.0025",
    "jp": "{v:0044}せっかく、あそこまで追いつめながら‥‥。",
-   "en": "{v:0044}After we had him so thoroughly cornered...",
+   "en": "{v:0044}And after we had him cornered like that...",
    "term": "end"
   },
   {
@@ -474,7 +474,7 @@
   {
    "id": "scen073.0077",
    "jp": "{v:001C}さぁ、もう話すことはない。{n}ここで死ね！",
-   "en": "{v:001C}Now, there is nothing more to discuss. Die here!",
+   "en": "{v:001C}Now, there is nothing more to discuss. This is where{n}you die!",
    "term": "end"
   },
   {
@@ -540,7 +540,7 @@
   {
    "id": "scen073.0088",
    "jp": "{v:0051}この砦の南東部には迷いの森と呼ばれる場所がある。{n}と言っても、今では普通の森と変わらないけどね。{p}{v:0052}その昔、グローシアンが{n}人間の方向感覚を狂わせる装置を動かしていたから{n}そう呼ばれているんだ。{p}{v:0053}今でもその装置は地下遺跡にあるけど、{n}もう動いてないから、影響を受けることはないよ。",
-   "en": "{v:0051}Southeast of this fort is a place called the Lost{n}Forest. These days, though, it's no different from any{n}other forest.{p}{v:0052}It got that name because long ago, the Growsians{n}operated a device there that confused people's sense{n}of direction.{p}{v:0053}The device is still in the underground ruins, but it no{n}longer works, so it won't affect you.",
+   "en": "{v:0051}Southeast of this fort is a place called the Lost{n}Forest. These days, though, it's no different from any{n}other forest.{p}{v:0052}It got that name because long ago, the Growsians{n}operated a device there that confused people's sense{n}of direction.{p}{v:0053}The device is still in the underground ruins, but it isn't{n}running anymore, so it won't affect you.",
    "term": "end"
   },
   {
@@ -576,7 +576,7 @@
   {
    "id": "scen073.0094",
    "jp": "初めて君たちと会ったときは、{n}なんて兵士らしくない男だと思ったよ。{p}だが今では君たちの力を信頼している。{n}頑張ってくれ！",
-   "en": "When I first met you all, I thought you were the least{n}soldierly man I had ever seen.{p}But now I have faith in your strength. Give it your all!",
+   "en": "When I first met you all, I thought, 'What an{n}unsoldierly man.'{p}But now I have faith in your strength. Give it your all!",
    "term": "end"
   },
   {
@@ -879,7 +879,7 @@
   {
    "id": "scen073.0143",
    "jp": "{v:0020}ちぇ、いい案だと思ったんだけどな。{n}{FC02}アンタも黙ってないでなんか案を出しなさいよ！",
-   "en": "{v:0020}Aw, I thought it was a good idea. {FC02}And you! Quit keeping{n}quiet and come up with something!",
+   "en": "{v:0020}Aw, I thought it was a good idea. {FC02}And you! Don't just{n}sit there saying nothing. Come up with something!",
    "term": "end"
   },
   {

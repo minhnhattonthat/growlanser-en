@@ -219,7 +219,7 @@
   {
    "id": "scen070.0035",
    "jp": "『{FFEF}スタデッドレザー{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Studded Leather{FFF1}', but you cannot carry{n}any more...",
+   "en": "Found '{FFEF}Studded Leather{FFF1}', but you can't carry{n}any more...",
    "term": "end"
   },
   {
@@ -657,7 +657,7 @@
   {
    "id": "scen070.0105",
    "jp": "　{n}　　　　　　６５０エルムを手に入れた！",
-   "en": "　{n}　　　　　　Obtained 650 Elm!",
+   "en": "　{n}　　　　　　Received 650 Elm!",
    "term": "end"
   },
   {
@@ -759,7 +759,7 @@
   {
    "id": "scen070.0122",
    "jp": "{v:0034}この辺りは人工的に作られた部分だね。",
-   "en": "{v:0034}This part was artificially constructed.",
+   "en": "{v:0034}This part here is man-made.",
    "term": "end"
   },
   {

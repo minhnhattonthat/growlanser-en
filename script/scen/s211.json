@@ -129,7 +129,7 @@
   {
    "id": "scen211.0020",
    "jp": "{v:0032}うをっ？{p}{v:0033}これは‥‥。{p}{v:0034}うをおおぉぉっ！",
-   "en": "{v:0032}Whoa?!{p}{v:0033}This is...{p}{v:0034}Uooooooh!",
+   "en": "{v:0032}Whoa?!{p}{v:0033}This is...{p}{v:0034}Raaaaagh!",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen211.0030",
    "jp": "{v:003E}この人がお父さん？",
-   "en": "{v:003E}This man is Father?",
+   "en": "{v:003E}Is this man my father?",
    "term": "end"
   },
   {

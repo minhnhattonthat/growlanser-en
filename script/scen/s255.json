@@ -39,7 +39,7 @@
   {
    "id": "scen255.0005",
    "jp": "俺はそろそろ上がるぜ。{n}入れ違いですまんな。",
-   "en": "I'm about to get out. Sorry we just missed each other.",
+   "en": "I'm about to get out. Sorry to leave just as you're{n}getting in.",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen255.0144",
    "jp": "こいつの教訓は、{n}休暇中でも浮かれ過ぎるなってことだ。{p}常に適度な緊張を保っておけ。{n}それが戦士の勤めだ。{p}ま、堅くなる必要はない。{n}要は自分自身を把握できるようにしろってことだ。{n}がんばれよ。",
-   "en": "The lesson is, don't get too carried away, even{n}on leave.{p}Always keep your guard up a little. That's a{n}warrior's duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in hand. You'll get there.",
+   "en": "The lesson is, don't get too carried away, even{n}on leave.{p}Always keep your guard up a little. That's a{n}warrior's duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in check. You'll get there.",
    "term": "end"
   },
   {
@@ -1183,7 +1183,7 @@
   {
    "id": "scen255.0189",
    "jp": "強かったぜ‥‥{FE1E}心も剣もな。{p}なんせ、誰ともつるまなかった俺が部隊に入ったのは{n}その背中にならついていってもいい‥‥{n}{FE1E}そう思ったからだ。",
-   "en": "He was strong...{FE1E}in spirit and with a sword.{p}I never ran with anyone. But I joined his unit because I{n}figured he was a man I could follow...{FE1E}That's what{n}I thought.",
+   "en": "He was strong...{FE1E}in spirit and with a sword.{p}I never ran with anyone. But I joined his unit because I{n}figured...{FE1E}he was a man I could follow.",
    "term": "end"
   },
   {

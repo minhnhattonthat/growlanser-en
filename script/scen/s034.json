@@ -1174,7 +1174,7 @@
   {
    "id": "scen034.0183",
    "jp": "{v:000D}いや、涙にそんな効果はないだろう。{n}涙というものは実は常に流れているものなんだよ。{n}それが多くなり、あふれたときに目からこぼれる。{p}{v:000E}もし彼が涙を流すだけでいいのなら、{n}もっと早くルイセ君が戻っていただろう。",
-   "en": "{v:000D}No, I doubt tears have any such effect. Tears are{n}actually flowing all the time, you see. When there's too{n}much and they overflow, they spill from the eyes.{p}{v:000E}If all he needed to do was shed tears, Luise-kun would{n}have recovered much sooner.",
+   "en": "{v:000D}No, I doubt tears have any such effect. Tears are{n}actually flowing all the time, you see. When they build up{n}and overflow, they spill from the eyes.{p}{v:000E}If all he needed to do was shed tears, Luise-kun would{n}have recovered much sooner.",
    "term": "end"
   },
   {
@@ -1570,7 +1570,7 @@
   {
    "id": "scen034.0246",
    "jp": "{FFF0}○{FFEE}ボタン連打に集中しろ！{FFF1}",
-   "en": "{FFF0}Circle{FFEE} button: focus on pressing it rapidly!{FFF1}",
+   "en": "{FFF0}Circle{FFEE} button! Focus on pressing it rapidly!{FFF1}",
    "term": "end"
   },
   {

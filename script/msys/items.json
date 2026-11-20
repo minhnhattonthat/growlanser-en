@@ -74,7 +74,7 @@
   {
    "id": "msys.items.0011",
    "jp": "鋼{F4DF}堅い鱗に覆{F4F8}た邪竜でさえ、一刀両断に{F4BC}{n}{F492}名剣。{F4BF}真の力{F4C6}モンスターに{F49D}{n}振る{F4F8}たときに発揮{F486}{F4EE}い{F4F8}{F45E}",
-   "en": "A legendary sword that cleaved even an evil dragon{n}with scales harder than steel in two. Its true power is{n}said to emerge against monsters.",
+   "en": "A legendary sword that cleaved in two even an evil{n}dragon whose scales were harder than steel. Its true{n}power is said to emerge against monsters.",
    "term": "null"
   },
   {
@@ -314,7 +314,7 @@
   {
    "id": "msys.items.0051",
    "jp": "二振{F4F0}ブロードソードをつなぎ合わせた大型{F4E9}{F4BA}高速回転させながら投げつ{F4DE}事{F4C1}重量{F452}{n}遠心力のスピードを活か{F4BC}{F4C3}が{F4B2}。",
-   "en": "Two joined broadswords form this large weapon.{n}Thrown in a fast spin, it attacks with its weight and{n}the speed of centrifugal force.",
+   "en": "A large weapon of two joined broadswords. Thrown in{n}a fast spin, it strikes with both its weight and{n}centrifugal force.",
    "term": "null"
   },
   {
@@ -332,7 +332,7 @@
   {
    "id": "msys.items.0054",
    "jp": "光の{F4E0}を{F4B5}す{F4D1}剣を{F46C}{F441}{n}{F4BF}光の刃{F4C6}鋼すらやすやすと断ち切る{F452}{F4C0}大幅な軽量化につなが{F4DC}扱いやすさも向上{F4CE}い{F4CC}",
-   "en": "Joined magic swords form a throwing weapon with light{n}blades. They cut steel with ease and weigh far less,{n}making it easier to wield.",
+   "en": "A throwing weapon of joined magic swords that form{n}blades of light. These cut steel with ease and weigh far{n}less, making it easier to wield.",
    "term": "null"
   },
   {
@@ -398,7 +398,7 @@
   {
    "id": "msys.items.0065",
    "jp": "１０００年に１度、降るかどうか{F479}、未知{F4CB}{F4E1}を含{F4ED}隕石で{F45F}、{F48E}珍しいこて{F4BA}会心の一撃を放{F4CF}時、{F4BF}真価が発揮{F486}{F479}。",
-   "en": "Rare gauntlets of meteorite bearing unknown metal,{n}falling once a millennium, if at all. Critical hits are said{n}to reveal their true worth.",
+   "en": "Extremely rare gauntlets made from a meteorite of{n}unknown metal, of a kind that falls once in a thousand{n}years, if at all. Critical hits reveal their true worth.",
    "term": "null"
   },
   {
@@ -482,7 +482,7 @@
   {
    "id": "msys.items.0079",
    "jp": "『大力無双の{F4E4}』{F457}、{F4D1}強化{F47C}{n}エストック。長所、短所もエストックと同じだ{F4BE}{n}{F4BF}貫通力{F4C6}{F4AB}最強{F461}{F45E}",
-   "en": "An enchanted estoc, 'Peerless in Might.' With the{n}estoc's strengths and weaknesses, it is said to pierce{n}best of all slender swords.",
+   "en": "An enchanted estoc called 'Peerless in Might.' It shares{n}the estoc's strengths and weaknesses, but is said to{n}pierce better than any slender sword.",
    "term": "null"
   },
   {
@@ -800,13 +800,13 @@
   {
    "id": "msys.items.0132",
    "jp": "{F4A5}{F4C2}宿す{F4C8}{F4D7}新月の夜に儀式を行{F4CF}{F4E4}{F4BA}上質の絹のローブを銀皿の聖水に浸し、１２人{F4CB}{F4B9}祈りを捧げる{F4BB}{F4C1}{F4A0}す{F4BB}が{F47A}。",
-   "en": "A robe imbued with sacred power through a{n}new-moon ritual.{p}It is made by soaking a fine silk robe in holy water on{n}a silver dish while twelve maidens offer prayers.",
+   "en": "A robe imbued with sacred power through a{n}new-moon ritual.{p}It is made by soaking a fine silk robe in holy water in a{n}silver dish while twelve maidens offer prayers.",
    "term": "null"
   },
   {
    "id": "msys.items.0133",
    "jp": "大自然の{F4C2}宿{F4BC}、淡い白光{F49A}{F46B}{n}北方の森に住んで{F4CD}シャーマン達の長{F4BE}{n}代々受け継いできた{F4E4}だ{F461}{F45E}",
-   "en": "A robe imbued with nature's power, glowing pale white.{p}It is said to have passed down through generations of{n}leaders of the shamans who lived in the{n}northern forests.",
+   "en": "A robe imbued with nature's power, glowing pale white.{p}It is said to have been passed down through{n}generations of leaders of the shamans who lived in the{n}northern forests.",
    "term": "null"
   },
   {
@@ -980,7 +980,7 @@
   {
    "id": "msys.items.0162",
    "jp": "戦{F4B9}勇者と認めた人間に{F49D}、貸し{F496}と{n}い{F4F8}る乙女像のペンダント。動体視力、反応速度{F4FB}高ま{F4DC}{F45A}{F4C3}を狙い{F4AF}{F4EB}{F479}。",
-   "en": "A maiden pendant a Valkyrie is said to lend to worthy{n}heroes. Sharpens sight for moving targets and{n}reflexes, easing counterattacks.",
+   "en": "A maiden pendant a Valkyrie is said to lend to worthy{n}heroes. Improves tracking of movement and quickens{n}reflexes, easing counterattacks.",
    "term": "null"
   },
   {
@@ -998,7 +998,7 @@
   {
    "id": "msys.items.0165",
    "jp": "戦乙女を閉じこめ{F499}茨で{F45F}首飾り。身{F4C9}つ{F4DE}と強烈な眠気に襲{F4F8}、身体が鉛の{F4C8}に重く{n}{F4EB}。{F4E7}{F4F9}{F4C2}もつ苦行者が荒行に{F4F1}る{F479}。",
-   "en": "A necklace of thorns that held a Valkyrie captive.{n}Causes deep drowsiness and a leaden body. Said to{n}serve strong-willed ascetics in harsh training.",
+   "en": "A necklace of thorns that held a Valkyrie captive.{n}Wearing it brings deep drowsiness and makes the body{n}heavy as lead.{p}Said to serve strong-willed ascetics in harsh training.",
    "term": "null"
   },
   {
@@ -1094,7 +1094,7 @@
   {
    "id": "msys.items.0181",
    "jp": "不死の薬の研究中に発明{F47C}{F479}、貴重な石{F4BA}{F4E7}生命{F4E8}秘め{F4EC}{F480}、{F4BF}{F4C2}解放す{F485}{n}まわ{F4F0}者たちの傷{F4BE}瞬時に{F4F4}{F4BD}{F479}。",
-   "en": "A precious stone said to come from immortality elixir{n}research. Unleashing its potent life force is said to heal{n}nearby wounds at once.",
+   "en": "A precious stone said to have been invented in{n}research into an elixir of immortality.{p}Releasing its potent life force instantly heals the{n}wounds of those nearby.",
    "term": "null"
   },
   {
@@ -1508,7 +1508,7 @@
   {
    "id": "msys.items.0250",
    "jp": "{F408}",
-   "en": "A travel permit issued by Ranzak's government to{n}Rolandia's envoys visiting that government. Allows{n}passage as far as Ranzak's capital.",
+   "en": "A travel permit issued by Ranzak's government to{n}Rolandia's envoys bound for it. Allows passage as far as{n}Ranzak's capital.",
    "term": "null"
   },
   {

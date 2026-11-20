@@ -105,7 +105,7 @@
   {
    "id": "scen078.0016",
    "jp": "{v:0008}それまでは知らん。",
-   "en": "{v:0008}That much I don't know.",
+   "en": "{v:0008}That, I don't know.",
    "term": "end"
   },
   {
@@ -279,25 +279,25 @@
   {
    "id": "scen078.0045",
    "jp": "『{FFEF}秘伝書{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Secret Manual{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Secret Manual{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen078.0046",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　　Received a '{FFEF}Secret Manual{FFF1}'!",
+   "en": "　{n}　　　　　　Received '{FFEF}Secret Manual{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen078.0047",
    "jp": "『{FFEF}生命のリンゴ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Life Apple{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Life Apple{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen078.0048",
    "jp": "　{n}　　　　『{FFEF}生命のリンゴ{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　Received a '{FFEF}Life Apple{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Life Apple{FFF1}'!",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen078.0056",
    "jp": "『{FFEF}ネクタル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Nectar{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Nectar{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
@@ -363,7 +363,7 @@
   {
    "id": "scen078.0059",
    "jp": "『{FFEF}バフコート{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Buff Coat{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Buff Coat{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {

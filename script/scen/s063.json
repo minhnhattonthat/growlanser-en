@@ -189,7 +189,7 @@
   {
    "id": "scen063.0030",
    "jp": "{v:0023}もう、この娘はすぐに悪い方へ考えるんだから！",
-   "en": "{v:0023}Honestly! You always jump straight to the worst!",
+   "en": "{v:0023}Honestly! You always assume the worst!",
    "term": "end"
   },
   {
@@ -658,7 +658,7 @@
   {
    "id": "scen063.0108",
    "jp": "・気にしすぎないよう慰める",
-   "en": "・Reassure him not to worry so much",
+   "en": "・Tell him not to worry so much",
    "term": "end",
    "unref": true
   },
@@ -822,7 +822,7 @@
   {
    "id": "scen063.0135",
    "jp": "どうした？{n}精神力が切れて、地上に帰れなくなったのか？",
-   "en": "What is wrong? Have you exhausted your mental energy{n}and cannot return to the surface?",
+   "en": "What is wrong? Has your mental energy run out, leaving{n}you unable to return to the surface?",
    "term": "end"
   },
   {

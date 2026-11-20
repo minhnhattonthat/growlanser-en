@@ -81,7 +81,7 @@
   {
    "id": "scen004.0012",
    "jp": "入隊希望者",
-   "en": "Recruit Applicant",
+   "en": "Prospective Recruit",
    "term": "null"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen004.0032",
    "jp": "はぁ‥‥。子供の頃が懐かしいわね‥‥。{n}岬ではるか遠くを飛ぶフェザリアンを見た日も、{n}こんな晴れた空だったわ‥‥",
-   "en": "Ah... I miss my childhood... The sky was clear like this the{n}day I saw a Featherian flying far off in the distance{n}from the cape...",
+   "en": "Ah... I miss my childhood... The day I stood on the cape{n}and saw a Featherian flying far off in the distance, the{n}sky was clear like this, too...",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen004.0043",
    "jp": "うぅ‥‥。{n}なんか寂しいよ‥‥。",
-   "en": "Ugh... I feel so lonely...",
+   "en": "Oh... I feel so lonely...",
    "term": "end"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "scen004.0108",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "Monsters have been appearing lately, so we're{n}on patrol.{p}We've spotted a suspicious mage who seems to be{n}controlling them several times, but by the time the{n}soldiers arrive, he's vanished.",
+   "en": "Monsters have been appearing lately, so we're{n}on patrol.{p}We've repeatedly spotted a suspicious mage who seems{n}to be controlling them, but by the time the soldiers{n}arrive, he's vanished.",
    "term": "end"
   },
   {
@@ -1002,7 +1002,7 @@
   {
    "id": "scen004.0163",
    "jp": "{v:000D}エリオット君の偽者と、{n}インペリアル・ナイトの人だ‥‥。",
-   "en": "{v:000D}It's Elliot-kun's impostor and that Imperial Knight...",
+   "en": "{v:000D}It's the impostor posing as Elliot-kun and that{n}Imperial Knight...",
    "term": "end"
   },
   {
@@ -1284,7 +1284,7 @@
   {
    "id": "scen004.0210",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was{n}just a manhole cover!",
+   "en": "　{n}Obtained '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {

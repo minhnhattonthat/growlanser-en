@@ -182,7 +182,7 @@
   {
    "id": "scen120.0028",
    "jp": "{v:001D}どうやらここで、グローシアンが{n}死んじまったようだな。",
-   "en": "{v:001D}Looks like this is where the Growsians died.",
+   "en": "{v:001D}Looks like the Growsians died at this point.",
    "term": "end"
   },
   {
@@ -251,7 +251,7 @@
   {
    "id": "scen120.0039",
    "jp": "{v:0026}子供にも時空を操る能力がある。{n}つまり、その子供は‥‥。",
-   "en": "{v:0026}His children can manipulate space-time too. And his{n}child is...",
+   "en": "{v:0026}His child can manipulate space-time too. Which means{n}that child is...",
    "term": "end"
   },
   {
@@ -509,7 +509,7 @@
   {
    "id": "scen120.0082",
    "jp": "{v:0045}実は隊長が、ヴェンツェルの行った融合実験の{n}試験体だとわかったんだ。{p}{v:0046}つまり隊長も、{n}ゲヴェルとの融合実験をされていたんだ！",
-   "en": "{v:0045}We found out the captain was a test subject in{n}Wenzel's fusion experiments.{p}{v:0046}In other words, they experimented on fusing the{n}captain with Gevel, too!",
+   "en": "{v:0045}We found out the captain was a test subject in{n}Wenzel's fusion experiments.{p}{v:0046}In other words, they tried to fuse the captain with{n}Gevel, too!",
    "term": "end"
   },
   {
@@ -649,7 +649,7 @@
   {
    "id": "scen120.0105",
    "jp": "同行者としてパーティーに加えます。",
-   "en": "Will join the party as a companion.",
+   "en": "Added to the party as a companion.",
    "term": "end"
   },
   {
@@ -1339,7 +1339,7 @@
   {
    "id": "scen120.0218",
    "jp": "‥‥{v:0009}まだ、生きていた‥‥。",
-   "en": "...{v:0009}He was still alive...",
+   "en": "...{v:0009}He's still alive...",
    "term": "end"
   },
   {

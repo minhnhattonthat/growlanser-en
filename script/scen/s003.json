@@ -879,7 +879,7 @@
   {
    "id": "scen003.0143",
    "jp": "{v:0016}ああ、ウソウソ、じょ～だん！{n}蹴り心地も同じかなって、思ったから‥‥。",
-   "en": "{v:0016}Oh, kidding, kidding! Just a joke! I was wondering if{n}you'd feel the same to kick, too...",
+   "en": "{v:0016}Oh, kidding, kidding! Just a joke! I just wondered if{n}kicking you would feel the same, too...",
    "term": "end"
   },
   {
@@ -1248,7 +1248,7 @@
   {
    "id": "scen003.0204",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was{n}just a manhole cover!",
+   "en": "　{n}Obtained '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {

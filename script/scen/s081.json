@@ -105,7 +105,7 @@
   {
    "id": "scen081.0016",
    "jp": "『{FFEF}スヴェル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Svel{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Svel{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
@@ -237,7 +237,7 @@
   {
    "id": "scen081.0038",
    "jp": "『{FFEF}忍耐のリンゴ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Endurance Apple{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Endurance Apple{FFF1}', but you can't carry{n}any more...",
    "term": "end"
   },
   {

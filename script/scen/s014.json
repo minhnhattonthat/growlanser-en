@@ -355,7 +355,7 @@
   {
    "id": "scen014.0057",
    "jp": "{v:001A}ね、マスター！{n}その研究書にはどんなことが書かれているの？",
-   "en": "{v:001A}Hey, Master! What's written in that research?",
+   "en": "{v:001A}Hey, Master! What does that research book say?",
    "term": "end"
   },
   {
@@ -670,7 +670,7 @@
   {
    "id": "scen014.0109",
    "jp": "ベッドに寝かせた方がいいだろうな‥‥。",
-   "en": "We should get them into bed...",
+   "en": "We should get her into bed...",
    "term": "end"
   },
   {
@@ -1000,7 +1000,7 @@
   {
    "id": "scen014.0164",
    "jp": "{v:0035}残念ですが、効果が不完全です。{n}進行を遅らせる事しかできません‥‥。",
-   "en": "{v:0035}Unfortunately, its effect is incomplete. It can only slow{n}the poison's progress...",
+   "en": "{v:0035}Unfortunately, it is not fully effective. It can only slow{n}the poison's progress...",
    "term": "end"
   },
   {

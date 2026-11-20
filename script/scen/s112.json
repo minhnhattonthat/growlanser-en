@@ -529,7 +529,7 @@
   {
    "id": "scen112.0084",
    "jp": "お互い、ちゃんと納得したいから、{n}その理由を聞かせてくれないか？",
-   "en": "We both want to be satisfied with this, so could you{n}tell us your reasoning?",
+   "en": "We both want to properly understand, so could you{n}tell us why?",
    "term": "end"
   },
   {
@@ -641,7 +641,7 @@
   {
    "id": "scen112.0102",
    "jp": "　{n}　『{FFEF}グラディウス{FFF1}』と『{FFEF}クロース{FFF1}』を{n}　受け取った！",
-   "en": "　{n}　Received a '{FFEF}Gladius{FFF1}' and '{FFEF}Cloth{FFF1}'!",
+   "en": "　{n}　Received '{FFEF}Gladius{FFF1}' and '{FFEF}Cloth{FFF1}'!",
    "term": "end"
   },
   {
@@ -749,7 +749,7 @@
   {
    "id": "scen112.0120",
    "jp": "　{n}　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　Obtained a '{FFEF}healing potion{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}healing potion{FFF1}'!",
    "term": "end"
   },
   {
@@ -1470,19 +1470,19 @@
   {
    "id": "scen112.0236",
    "jp": "衛兵のヤツら、ホネ抜きにしてやるぜ！",
-   "en": "I'll make those guards go weak at the knees!",
+   "en": "I'll take all the fight out of those guards!",
    "term": "end"
   },
   {
    "id": "scen112.0237",
    "jp": "衛兵が集まる所に、ヒントがある。",
-   "en": "There's a hint where the guards gather.",
+   "en": "There's a clue where the guards gather.",
    "term": "end"
   },
   {
    "id": "scen112.0238",
    "jp": "張り紙、見たか？{n}あれ以上のヒントはないぞ？",
-   "en": "Seen the notice? You won't find a better hint{n}than that.",
+   "en": "Seen the notice? You won't find a better clue{n}than that.",
    "term": "end"
   },
   {
@@ -1506,7 +1506,7 @@
   {
    "id": "scen112.0242",
    "jp": "くっそう！{n}僕が最初に見つかったんだ。{n}悔しいなぁ‥‥。",
-   "en": "Darn it! I was the first one you found. No fair...",
+   "en": "Darn it! I was the first one you found. Aw, man...",
    "term": "end"
   },
   {
@@ -1632,7 +1632,7 @@
   {
    "id": "scen112.0263",
    "jp": "３だろ、お前‥‥。",
-   "en": "It's 3, you...",
+   "en": "It's 3, come on...",
    "term": "end"
   },
   {

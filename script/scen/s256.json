@@ -399,7 +399,7 @@
   {
    "id": "scen256.0063",
    "jp": "{FFF5}アタシ‥‥勉強できなくて‥‥。{n}学院では下から数えた方が早いし‥‥。{p}アタシもそれでいいと思ってたんだ。{p}でも‥‥お兄さまと会ってからは変わったの。{FFFB}{n}この人の迷惑にならないように、{n}一生懸命頑張ろう‥‥って。{p}だから、おじさまやルイセちゃんに無理を言って{n}特別に教えて貰ってたんですけど‥‥。{p}はあ‥‥やっぱりダメなのかな‥‥。",
-   "en": "{FFF5}I'm... no good at studying... It's quicker to count up from{n}the bottom to find my rank at the Academy...{p}And I used to think that was fine.{p}But... that changed when I met you, Big Brother.{FFFB} I{n}thought, \"I'll work really hard so I won't be a burden{n}to him.\"{p}So I begged my uncle and Luise-chan to give me{n}extra lessons...{p}*sigh*... Maybe I'm just hopeless after all...",
+   "en": "{FFF5}I'm... no good at studying... I'm near the bottom of my{n}class at the Academy...{p}And I used to think that was fine.{p}But... that changed when I met you, Big Brother.{FFFB} I{n}thought, \"I'll work really hard so I won't be a burden{n}to him.\"{p}So I begged my uncle and Luise-chan to give me{n}extra lessons...{p}*sigh*... Maybe I'm just hopeless after all...",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen256.0148",
    "jp": "{v:0216}すごい味だったな‥‥。{FFF9}{FFFB}{n}{v:0217}早く何かで口直ししないと‥‥。",
-   "en": "{v:0216}What a taste that was...{FFF9}{FFFB}{v:0217}I need something to get it{n}out of my mouth, quickly...",
+   "en": "{v:0216}What a taste that was...{FFF9}{FFFB}{v:0217}I need something to get rid{n}of that taste, quickly...",
    "term": "end"
   },
   {

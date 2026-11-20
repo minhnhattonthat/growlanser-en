@@ -229,7 +229,7 @@
   {
    "id": "scen195.0036",
    "jp": "‥‥{v:006E}仕方ないわね。{n}アタシ達だけで戦いましょ。",
-   "en": "...{v:006E}Well, that settles it. We'll have to fight without her.",
+   "en": "...{v:006E}Oh, fine. We'll just have to fight on our own, then.",
    "term": "end"
   },
   {
@@ -493,7 +493,7 @@
   {
    "id": "scen195.0080",
    "jp": "{v:0095}アイリーンさん、今助けるからね！",
-   "en": "{v:0095}Irene-san, I'll help you right now!",
+   "en": "{v:0095}Hang on, Irene-san! I'm coming!",
    "term": "end"
   },
   {
@@ -517,7 +517,7 @@
   {
    "id": "scen195.0084",
    "jp": "{v:00A5}あなたは、アイリーンさんの‥‥！{n}どうしてここへ？",
-   "en": "{v:00A5}You're Irene-san's...! What brings you here?",
+   "en": "{v:00A5}You're Irene-san's...! What are you doing here?",
    "term": "end"
   },
   {

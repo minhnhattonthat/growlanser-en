@@ -111,7 +111,7 @@
   {
    "id": "scen111.0016",
    "jp": "『{FFEF}フェアリーカード{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Fairy Card{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Fairy Card{FFF1}'.",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen111.0018",
    "jp": "『{FFEF}修羅の拳{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Asura Fist{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Asura Fist{FFF1}'.",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen111.0020",
    "jp": "『{FFEF}祝福の鐘{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Bell of Blessing{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Bell of Blessing{FFF1}'.",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen111.0022",
    "jp": "『{FFEF}エンジェルリング{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Angel Ring{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Angel Ring{FFF1}'.",
    "term": "end"
   },
   {
@@ -159,7 +159,7 @@
   {
    "id": "scen111.0024",
    "jp": "『{FFEF}苦行者の首飾り{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Ascetic's Necklace{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Ascetic's Necklace{FFF1}'.",
    "term": "end"
   },
   {
@@ -312,7 +312,7 @@
   {
    "id": "scen111.0047",
    "jp": "『{FFEF}グラム{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Gram{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Gram{FFF1}'.",
    "term": "end"
   },
   {
@@ -324,7 +324,7 @@
   {
    "id": "scen111.0049",
    "jp": "『{FFEF}ヘルブリンディ{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Helblindi{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Helblindi{FFF1}'.",
    "term": "end"
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "scen111.0056",
    "jp": "『{FFEF}オーラプレート{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Aura Plate{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Aura Plate{FFF1}'.",
    "term": "end"
   },
   {
@@ -381,7 +381,7 @@
   {
    "id": "scen111.0058",
    "jp": "『{FFEF}ペガサスの翼{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Pegasus Wing{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Pegasus Wing{FFF1}'.",
    "term": "end"
   },
   {
@@ -426,7 +426,7 @@
   {
    "id": "scen111.0065",
    "jp": "『{FFEF}暗黒の戦斧{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Dark Battle Axe{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Dark Battle Axe{FFF1}'.",
    "term": "end"
   },
   {
@@ -438,7 +438,7 @@
   {
    "id": "scen111.0067",
    "jp": "『{FFEF}デュエルガード{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Duel Guard{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Duel Guard{FFF1}'.",
    "term": "end"
   },
   {
@@ -483,7 +483,7 @@
   {
    "id": "scen111.0074",
    "jp": "『{FFEF}シャドーブレイド{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Shadow Blade{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Shadow Blade{FFF1}'.",
    "term": "end"
   },
   {
@@ -495,7 +495,7 @@
   {
    "id": "scen111.0076",
    "jp": "『{FFEF}漆黒の鎧{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Jet-Black Armor{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Jet-Black Armor{FFF1}'.",
    "term": "end"
   },
   {
@@ -540,7 +540,7 @@
   {
    "id": "scen111.0083",
    "jp": "『{FFEF}妖魔刀{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Demon Blade{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Demon Blade{FFF1}'.",
    "term": "end"
   },
   {
@@ -552,7 +552,7 @@
   {
    "id": "scen111.0085",
    "jp": "『{FFEF}ニュートラライズ{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Neutralize{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Neutralize{FFF1}'.",
    "term": "end"
   },
   {
@@ -597,7 +597,7 @@
   {
    "id": "scen111.0092",
    "jp": "『{FFEF}バトルアックス{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Battle Axe{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Battle Axe{FFF1}'.",
    "term": "end"
   },
   {
@@ -609,7 +609,7 @@
   {
    "id": "scen111.0094",
    "jp": "『{FFEF}チェーンウィップ{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Chain Whip{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Chain Whip{FFF1}'.",
    "term": "end"
   },
   {
@@ -654,7 +654,7 @@
   {
    "id": "scen111.0101",
    "jp": "『{FFEF}フランベルジュ{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Flamberge{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Flamberge{FFF1}'.",
    "term": "end"
   },
   {
@@ -666,7 +666,7 @@
   {
    "id": "scen111.0103",
    "jp": "『{FFEF}ブレストプレート{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Breastplate{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Breastplate{FFF1}'.",
    "term": "end"
   },
   {
@@ -711,7 +711,7 @@
   {
    "id": "scen111.0110",
    "jp": "『{FFEF}破魔の拳{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Demonbane Fist{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Demonbane Fist{FFF1}'.",
    "term": "end"
   },
   {
@@ -723,7 +723,7 @@
   {
    "id": "scen111.0112",
    "jp": "『{FFEF}聖母の首飾り{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Madonna Necklace{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Madonna Necklace{FFF1}'.",
    "term": "end"
   },
   {
@@ -768,7 +768,7 @@
   {
    "id": "scen111.0119",
    "jp": "『{FFEF}ブラッディクロス{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Bloody Cross{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Bloody Cross{FFF1}'.",
    "term": "end"
   },
   {
@@ -780,7 +780,7 @@
   {
    "id": "scen111.0121",
    "jp": "『{FFEF}神聖のルーン{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Holy Rune{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Holy Rune{FFF1}'.",
    "term": "end"
   },
   {
@@ -825,7 +825,7 @@
   {
    "id": "scen111.0128",
    "jp": "『{FFEF}クロスボウ{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Crossbow{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Crossbow{FFF1}'.",
    "term": "end"
   },
   {
@@ -837,7 +837,7 @@
   {
    "id": "scen111.0130",
    "jp": "『{FFEF}ハイドロゲン{FFF1}』を{n}これ以上持つことはできません。",
-   "en": "You cannot carry any more '{FFEF}Hydrogen{FFF1}'.",
+   "en": "You cannot carry another '{FFEF}Hydrogen{FFF1}'.",
    "term": "end"
   },
   {
@@ -963,7 +963,7 @@
   {
    "id": "scen111.0150",
    "jp": "次の試合も、期待しているぞ。",
-   "en": "I look forward to seeing you in the next match, too.",
+   "en": "I'm expecting great things from you in the next{n}match, too.",
    "term": "end"
   },
   {

@@ -397,7 +397,7 @@
   {
    "id": "scen031.0061",
    "jp": "そう言えばさ、{n}よくこの学院で見かける格好いい人‥{FE14}‥{FE14}、{FE14}{n}の横を飛んでる虫。",
-   "en": "You know that handsome man we often see around the{n}Academy..{FE14}.{FE14}?{FE14} That bug flying beside him.",
+   "en": "You know that handsome man we often see around the{n}Academy..{FE14}.{FE14}?{FE14} I mean the bug flying beside him.",
    "term": "end"
   },
   {
@@ -1255,7 +1255,7 @@
   {
    "id": "scen031.0196",
    "jp": "{v:001A}副学院長に会いたいんだけど？",
-   "en": "{v:001A}We'd like to see the Vice Headmaster?",
+   "en": "{v:001A}Could we see the Vice Headmaster?",
    "term": "end"
   },
   {
@@ -1827,7 +1827,7 @@
   {
    "id": "scen031.0288",
    "jp": "{v:005E}逆に怪しい‥‥？",
-   "en": "{v:005E}That's what makes you suspicious...?",
+   "en": "{v:005E}That's what makes him suspicious...?",
    "term": "end"
   },
   {

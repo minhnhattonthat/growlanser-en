@@ -21,7 +21,7 @@
   {
    "id": "scen232.0002",
    "jp": "それじゃ、戦い方の説明をするわよ！{n}アンタはまだ魔法使えないから、{n}基本的な攻撃方法からね。{p}まずメニューが表示されたら、{n}次の流れで命令をしていけば大丈夫だよ。{p}{FFEE}１{FFF1}－{FFEF}命令内容を選ぶ{FFF0}♥{FFF1}{n}　　って{FFEE}ＡＴＴＡＣＫ{FFF1}（攻撃）か{FFEE}ＭＯＶＥ{FFF1}（移動）{n}　　くらいしか、今はやれないんだけど‥‥。{p}{FFEE}２{FFF1}－{FFEF}目標を選ぶ{FFF0}♥{FFF1}{n}　　攻撃するときは攻撃目標を選択。{n}　　移動するときは移動したい場所を選んでね。{p}あとは勝手に動き出すはずだから、{n}さっそく始めてみて！",
-   "en": "Okay, I'll explain how to fight! You can't use magic yet,{n}so we'll start with the basics of attacking.{p}Once the menu appears, just follow these steps to{n}give orders.{p}{FFEE}1{FFF1}--{FFEF}Choose a command{FFF0}♥{FFF1} Though right now, you can{n}pretty much only use {FFEE}ATTACK{FFF1} (attack) or {FFEE}MOVE{FFF1}{n}(move)...{p}{FFEE}2{FFF1}--{FFEF}Choose a target{FFF0}♥{FFF1} When attacking, choose your{n}attack target. When moving, choose the spot you want{n}to move to.{p}After that, you should start moving on your own, so go{n}ahead and give it a try!",
+   "en": "Okay, I'll explain how to fight! You can't use magic yet,{n}so we'll start with the basics of attacking.{p}Once the menu appears, just follow these steps to{n}give orders.{p}{FFEE}1{FFF1}--{FFEF}Choose a command{FFF0}♥{FFF1} Though right now, you can{n}pretty much only use {FFEE}ATTACK{FFF1} or {FFEE}MOVE{FFF1}...{p}{FFEE}2{FFF1}--{FFEF}Choose a target{FFF0}♥{FFF1} When attacking, choose your{n}attack target. When moving, choose the spot you want{n}to move to.{p}After that, you should start moving on your own, so go{n}ahead and give it a try!",
    "term": "end"
   },
   {

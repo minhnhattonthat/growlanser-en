@@ -883,7 +883,7 @@
   {
    "id": "scen033.0136",
    "jp": "うむっ！",
-   "en": "Indeed!",
+   "en": "Right!",
    "term": "end"
   },
   {
@@ -1252,7 +1252,7 @@
   {
    "id": "scen033.0196",
    "jp": "{v:0019}実はそのことで、頼みがあってきたんです。",
-   "en": "{v:0019}Actually, that's why we've come to ask you a favor.",
+   "en": "{v:0019}Actually, we came to ask you a favor about that.",
    "term": "end"
   },
   {
@@ -1288,7 +1288,7 @@
   {
    "id": "scen033.0202",
    "jp": "‥‥{v:001F}むぅ。{n}こんなペンダントにそれほどの力があるようには{n}思えんが‥‥。{p}{v:0020}何しろ今はワラにでもすがりたい気持ちだ。{n}調べてみよう。{p}{v:0021}しかし、これで１つだけ謎が解けたよ。",
-   "en": "...{v:001F}Hmm. I find it hard to believe a pendant like this could{n}possess such power...{p}{v:0020}Still, I'm ready to grasp at any straw. I'll examine it.{p}{v:0021}But that does solve one mystery.",
+   "en": "...{v:001F}Hmm. I find it hard to believe a pendant like this could{n}possess such power...{p}{v:0020}Still, at this point I'm desperate enough to try{n}anything. I'll examine it.{p}{v:0021}But that does solve one mystery.",
    "term": "end"
   },
   {
@@ -1864,7 +1864,7 @@
   {
    "id": "scen033.0295",
    "jp": "　{n}{v:006A}『{FFEF}グローシュとは誰しもが持っていたはずの能力{FFF1}』{p}{v:006B}『{FFEF}真のグローシュの発現の鍵は、{n}　グローシアンの発生の元となる現象{FFF1}』{p}　{n}{v:006C}『{FFEF}グローシアンは時空の歪みの祝福を受けている{FFF1}』",
-   "en": "　{n}{v:006A}'{FFEF}Grosh is an ability everyone should once have{n}possessed.{FFF1}'{p}{v:006B}'{FFEF}The key to manifesting true Grosh lies in the{n}phenomenon that gives rise to Growsians.{FFF1}'{p}{v:006C}'{FFEF}Growsians are blessed by distortions in space-time.{FFF1}'",
+   "en": "{v:006A}　{n}'{FFEF}Grosh is an ability everyone must once have{n}possessed.{FFF1}'{p}{v:006B}'{FFEF}The key to manifesting true Grosh lies in the{n}phenomenon that gives rise to Growsians.{FFF1}'{p}{v:006C}'{FFEF}Growsians are blessed by distortions in space-time.{FFF1}'",
    "term": "end"
   },
   {

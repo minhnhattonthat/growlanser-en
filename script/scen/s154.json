@@ -453,7 +453,7 @@
   {
    "id": "scen154.0073",
    "jp": "{v:00CA}今日こうして私が王位を取り戻すことができたのも、{n}ここに集まって頂いた皆様方のおかげです。{p}{v:00CB}まだ王の職務になれておりませんが、{n}皆様のご助言を頂きながら、{n}よりよい政治を執り行って行きたいと思います。{p}{v:00CC}どうかこれからも、よろしくお願いします。",
-   "en": "{v:00CA}That I have been able to reclaim the throne today is{n}thanks to all of you gathered here.{p}{v:00CB}I am still unfamiliar with my duties as king, but with{n}your counsel, I hope to govern this kingdom better.{p}{v:00CC}I ask for your continued support.",
+   "en": "{v:00CA}I owe my return to the throne today to all of you{n}gathered here.{p}{v:00CB}I am still unfamiliar with my duties as king, but with{n}your counsel, I hope to govern this kingdom better.{p}{v:00CC}I ask for your continued support.",
    "term": "end"
   },
   {
@@ -567,7 +567,7 @@
   {
    "id": "scen154.0092",
    "jp": "うちの坊ちゃんはしばらく前に家を{n}飛び出したっきり戻られなくて‥‥。{p}このままでは豪商といわれたハウエル家も‥‥。",
-   "en": "Our young master ran away from home some time ago{n}and has not returned...{p}At this rate, even the Howell family, once renowned{n}for its merchant wealth...",
+   "en": "Our young master ran away from home some time ago{n}and has not returned...{p}At this rate, even the Howell family, once renowned as{n}great merchants...",
    "term": "end"
   },
   {
@@ -986,7 +986,7 @@
   {
    "id": "scen154.0161",
    "jp": "・チャレンジする",
-   "en": "・Accept the challenge",
+   "en": "・Take on the champion",
    "term": "end",
    "unref": true
   },
@@ -1207,7 +1207,7 @@
   {
    "id": "scen154.0197",
    "jp": "{v:00BF}まったく、うまいと分かったら途端にこれだ。{n}{FC04}ほら、ゆっくり食え。{n}飯は逃げたりしないからな。",
-   "en": "{v:00BF}Sheesh, the moment you find out it's good, you start{n}doing this. {FC04}Hey, slow down. The food's not{n}going anywhere.",
+   "en": "{v:00BF}Sheesh, one taste and now you can't get enough. {FC04}Hey,{n}slow down. The food's not going anywhere.",
    "term": "end"
   },
   {
@@ -1249,7 +1249,7 @@
   {
    "id": "scen154.0204",
    "jp": "{v:00C6}誰が乙女だ‥‥[01BE]",
-   "en": "{v:00C6}Who's a maiden...?[01BE]",
+   "en": "{v:00C6}Maiden, my foot...[01BE]",
    "term": "end"
   },
   {

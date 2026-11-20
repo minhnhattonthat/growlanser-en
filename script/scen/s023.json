@@ -255,7 +255,7 @@
   {
    "id": "scen023.0041",
    "jp": "{v:0026}アリオスト。{n}あなたはあの人の息子なのですよ。{n}最後まであきらめないで。",
-   "en": "{v:0026}Ariost. You are his son, after all. Do not give up before{n}the very end.",
+   "en": "{v:0026}Ariost. You are his son, after all. See it through to the{n}very end.",
    "term": "end"
   },
   {
@@ -345,7 +345,7 @@
   {
    "id": "scen023.0056",
    "jp": "{v:0005}いつもすまねぇな。{n}これでまた村が豊かになるさ。",
-   "en": "{v:0005}Always helping us out, eh? This'll make the village that{n}much better off.",
+   "en": "{v:0005}You're always helpin' us out. Much obliged. This'll make{n}the village that much better off.",
    "term": "end"
   },
   {
@@ -459,7 +459,7 @@
   {
    "id": "scen023.0075",
    "jp": "ん？{n}１人多くねぇか？",
-   "en": "Hm? Ain't there one too many of us?",
+   "en": "Hm? Ain't there one too many of you?",
    "term": "end"
   },
   {
@@ -939,7 +939,7 @@
   {
    "id": "scen023.0155",
    "jp": "こらこら、けんかはいけないよ。{n}子供のうちはしっかり遊んで体を鍛えるのも大切さ。",
-   "en": "Now, now, no fighting. When you're children, playing and{n}building your strength is important, too.",
+   "en": "Now, now, no fighting. While you're young, playing and{n}building your strength is important, too.",
    "term": "end"
   },
   {
@@ -1133,7 +1133,7 @@
   {
    "id": "scen023.0187",
    "jp": "ごゆっくりお休み下さい。",
-   "en": "Please enjoy your rest.",
+   "en": "Please rest well.",
    "term": "end"
   },
   {

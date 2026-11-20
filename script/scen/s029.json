@@ -246,7 +246,7 @@
   {
    "id": "scen029.0039",
    "jp": "{v:0032}ほら、賛成多数だからね。{n}１人だけ反対してもダメだよ！",
-   "en": "{v:0032}See? Most of us say yes. One vote against us won't{n}change that!",
+   "en": "{v:0032}See? Most of us say yes. One person saying no{n}doesn't count!",
    "term": "end"
   },
   {
@@ -306,7 +306,7 @@
   {
    "id": "scen029.0049",
    "jp": "この学院に入って３年ちょっとになるけど、{n}学生って気楽よね。{n}卒業なんかしたくないな‥‥。",
-   "en": "I've been at this Academy for just over three years,{n}and being a student is so carefree, you know. I don't{n}ever want to graduate...",
+   "en": "I've been at this Academy for just over three years.{n}Student life is so carefree, isn't it? I don't ever want{n}to graduate...",
    "term": "end"
   },
   {
@@ -634,7 +634,7 @@
   {
    "id": "scen029.0100",
    "jp": "この人が可愛いって言ったからわかんないだろうけど、{n}アンタのこと言ってんのよ！",
-   "en": "You probably didn't realize it because he said \"cute,\" but{n}he's talking about YOU!",
+   "en": "He called her cute, so you probably didn't catch on, but{n}he's talking about YOU!",
    "term": "end"
   },
   {
@@ -1603,7 +1603,7 @@
   {
    "id": "scen029.0254",
    "jp": "{v:0057}仕方ないよ。{n}学院長先生は忙しい方だから。",
-   "en": "{v:0057}We can't help it. The Headmaster is very busy.",
+   "en": "{v:0057}It can't be helped. The Headmaster is very busy.",
    "term": "end"
   },
   {
@@ -1810,7 +1810,7 @@
   {
    "id": "scen029.0288",
    "jp": "{v:0034}そんなの軽い、軽い！{n}まーかせて！",
-   "en": "{v:0034}Easy, easy! Leave it to us!",
+   "en": "{v:0034}Piece of cake! Leave it to us!",
    "term": "end"
   },
   {
@@ -1858,7 +1858,7 @@
   {
    "id": "scen029.0296",
    "jp": "{v:0038}そんな、お兄ちゃん！？",
-   "en": "{v:0038}But, Big Brother?!",
+   "en": "{v:0038}Big Brother, you can't mean that?!",
    "term": "end"
   },
   {
@@ -1936,7 +1936,7 @@
   {
    "id": "scen029.0309",
    "jp": "{v:0048}おじさま、太っ腹！",
-   "en": "{v:0048}Oh, sir, you're so generous!",
+   "en": "{v:0048}Uncle, you're so generous!",
    "term": "end"
   },
   {

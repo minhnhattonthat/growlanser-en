@@ -39,13 +39,13 @@
   {
    "id": "scen157.0005",
    "jp": "ふん、ノロマな奴め！{n}そこで遊んでいるがいい！",
-   "en": "Hmph, you slowpoke! Stay there and play!",
+   "en": "Hmph, you slowpoke! Have fun playing back there!",
    "term": "end"
   },
   {
    "id": "scen157.0006",
    "jp": "この研究書は確かにいただいたぞ！",
-   "en": "This research is mine now!",
+   "en": "These research notes are mine now!",
    "term": "end"
   },
   {
@@ -63,7 +63,7 @@
   {
    "id": "scen157.0009",
    "jp": "{v:0012}泥棒のくせに何言ってんのよ！{n}マスターの研究書を返しなさいよ！",
-   "en": "{v:0012}You're a thief! Who are you to talk?! Give back{n}Master's research!",
+   "en": "{v:0012}Who do you think you are, you thief?! Give back{n}Master's research notes!",
    "term": "end"
   },
   {

@@ -159,7 +159,7 @@
   {
    "id": "scen041.0025",
    "jp": "{v:001A}へぇ、温泉ねぇ。{p}{v:001B}そういえば、{s:0007}さんは元気？",
-   "en": "{v:001A}Ooh, hot springs.{p}{v:001B}Speaking of which, how's {s:0007}?",
+   "en": "{v:001A}Ooh, hot springs.{p}{v:001B}By the way, how's {s:0007}?",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen041.0027",
    "jp": "{v:0023}そういえば、{s:0007}さんは元気？",
-   "en": "{v:0023}Speaking of which, how's {s:0007}?",
+   "en": "{v:0023}By the way, how's {s:0007}?",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen041.0032",
    "jp": "{v:0022}ふ～ん。{p}{v:0023}そういえば、{s:0007}さんは元気？",
-   "en": "{v:0022}Hmm.{p}{v:0023}Speaking of which, how's {s:0007}?",
+   "en": "{v:0022}Hmm.{p}{v:0023}By the way, how's {s:0007}?",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen041.0061",
    "jp": "・諦めずにがんばるよう励ます",
-   "en": "・Encourage perseverance",
+   "en": "・Encourage them not to give up",
    "term": "end",
    "unref": true
   },
@@ -982,7 +982,7 @@
   {
    "id": "scen041.0159",
    "jp": "{v:006D}やっぱり、変かな‥‥？",
-   "en": "{v:006D}Is it strange after all...?",
+   "en": "{v:006D}Maybe it's strange after all...?",
    "term": "end"
   },
   {
@@ -1220,7 +1220,7 @@
   {
    "id": "scen041.0197",
    "jp": "{v:003D}そりゃ、大陸中の猛者たちが集まるんだからな。",
-   "en": "{v:003D}Well, the toughest fighters on the continent{n}gather here.",
+   "en": "{v:003D}Well, the toughest fighters from all over the continent{n}gather here.",
    "term": "end"
   },
   {
@@ -1298,7 +1298,7 @@
   {
    "id": "scen041.0210",
    "jp": "もうじき闘技大会か‥‥。{n}次こそは、上位に‥‥。",
-   "en": "The tournament's almost here... This time, I'll{n}place higher...",
+   "en": "The tournament's almost here... This time, I'll finish{n}near the top...",
    "term": "end"
   },
   {

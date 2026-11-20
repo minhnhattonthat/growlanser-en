@@ -255,7 +255,7 @@
   {
    "id": "scen016.0041",
    "jp": "{v:0026}副学院長がいろいろ調べてくれているが、{n}これっていう決め手がない。{p}{v:0027}だが手がかりになりそうなのが３つほどあって、{n}え～と‥‥{n}『グローシアンは時空の歪みの祝福を受けている』{p}{v:0028}『グローシュとは誰しもが持っていたはずの能力』{FFF9}{FFFB}{n}{v:0029}それから『真のグローシュの発現の鍵は‥‥』{n}何だったっけな？",
-   "en": "{v:0026}The Vice Headmaster's looking into all sorts of things,{n}but there's nothing conclusive.{p}{v:0027}We've got three possible leads, though. Let's see...{n}'Growsians are blessed by distortions in space-time.'{p}{v:0028}'Grosh is an ability everyone should once have{n}possessed.'{FFF9}{FFFB} {v:0029}Then there's 'The key to awakening true{n}Grosh is...' How did the rest go?",
+   "en": "{v:0026}The Vice Headmaster's looking into all sorts of things,{n}but there's nothing conclusive.{p}{v:0027}We've got three possible leads, though. Let's see...{n}'Growsians are blessed by distortions in space-time.'{p}{v:0028}'Grosh is an ability everyone must once have{n}possessed.'{FFF9}{FFFB} {v:0029}Then there's 'The key to awakening true{n}Grosh is...' How did the rest go?",
    "term": "end"
   },
   {
@@ -1121,7 +1121,7 @@
   {
    "id": "scen016.0182",
    "jp": "{v:006C}そうですよね。{n}私たちが信じなくては、治るものも治りませんよね。",
-   "en": "{v:006C}You're right. If we don't have faith, she won't recover{n}even if she could.",
+   "en": "{v:006C}You're right. If we don't believe she'll recover, she{n}never will.",
    "term": "end"
   },
   {
@@ -1287,7 +1287,7 @@
   {
    "id": "scen016.0209",
    "jp": "{v:009A}とにかく、あまり無理はしない方がいい。{n}疲れた状態じゃ、いい考えは生まれないからね。{p}{v:009B}きっと治療法があるはずだ。{n}だから最後まで諦めちゃいけない。{FFF9}{FFFB}{n}{v:009C}そうだろう？",
-   "en": "{v:009A}In any case, you shouldn't push yourself too hard.{n}Good ideas don't come easily when you're exhausted.{p}{v:009B}There must be a cure. So we mustn't give up, right to{n}the very end.{FFF9}{FFFB}{v:009C}Wouldn't you agree?",
+   "en": "{v:009A}In any case, you shouldn't push yourself too hard.{n}Good ideas don't come easily when you're exhausted.{p}{v:009B}There must be a cure. So we mustn't give up until the{n}very end.{FFF9}{FFFB}{v:009C}Wouldn't you agree?",
    "term": "end"
   },
   {

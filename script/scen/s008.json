@@ -416,7 +416,7 @@
   {
    "id": "scen008.0067",
    "jp": "{v:005F}王都の西側につなごうとしている道だよね。{n}そろそろ完成してもいい頃だよ。",
-   "en": "{v:005F}That's the road they're connecting to the west side of{n}the capital, right? It ought to be finished soon.",
+   "en": "{v:005F}That's the road they're connecting to the west side of{n}the capital, right? It ought to be about done by now.",
    "term": "end"
   },
   {
@@ -766,7 +766,7 @@
   {
    "id": "scen008.0125",
    "jp": "{v:0052}先を越されたようです。",
-   "en": "{v:0052}It seems they have acted ahead of us.",
+   "en": "{v:0052}It seems they have beaten us to it.",
    "term": "end"
   },
   {
@@ -1238,7 +1238,7 @@
   {
    "id": "scen008.0201",
    "jp": "うん★{n}アタシの生まれた村だよ。{p}本当に何もない所なんだけど、{n}自然に恵まれてるから、薬草とかいっぱい採れるんだ。{n}あとお気に入りのお花畑があるの！",
-   "en": "Yep! That's where I was born.{p}There really isn't much there, but there's lots of{n}nature, so you can gather all sorts of herbs. And{n}there's my favorite flower meadow!",
+   "en": "Yep! That's where I was born.{p}There really isn't much there, but it's surrounded by{n}nature, so you can gather all sorts of herbs. And{n}there's my favorite flower meadow!",
    "term": "end"
   },
   {

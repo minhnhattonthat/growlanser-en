@@ -376,7 +376,7 @@
   {
    "id": "scen100.0061",
    "jp": "・{s:0001}がどうかしたかたずねる",
-   "en": "・Ask what about {s:0001}",
+   "en": "・Ask what's wrong with {s:0001}",
    "term": "end",
    "unref": true
   },
@@ -653,7 +653,7 @@
   {
    "id": "scen100.0107",
    "jp": "{v:0077}言っただろ？{n}『ワナにはまった』ってな‥‥。",
-   "en": "{v:0077}I told you, didn't I? I \"fell into his trap\"...",
+   "en": "{v:0077}I told you, didn't I? I 'fell into his trap'...",
    "term": "end"
   },
   {
@@ -689,7 +689,7 @@
   {
    "id": "scen100.0113",
    "jp": "‥‥{v:007D}俺のせいで{s:0007}が‥‥。",
-   "en": "...{v:007D}It's my fault {s:0007}...",
+   "en": "...{v:007D}Because of me, {s:0007}...",
    "term": "end"
   },
   {
@@ -827,13 +827,13 @@
   {
    "id": "scen100.0136",
    "jp": "{v:0018}あとはアタシたちが何とかしますから、{n}アンジェラ様はお休みになってください。",
-   "en": "{v:0018}We'll figure out the rest, so please get some{n}rest, Angela-sama.",
+   "en": "{v:0018}We'll take care of things from here, so please{n}rest, Angela-sama.",
    "term": "end"
   },
   {
    "id": "scen100.0137",
    "jp": "{v:0019}あとのことは我々に任せて、{n}アンジェラ様はお休みください。",
-   "en": "{v:0019}Leave the rest to us and please get some{n}rest, Angela-sama.",
+   "en": "{v:0019}Leave everything else to us, and please{n}rest, Angela-sama.",
    "term": "end"
   },
   {
@@ -1306,7 +1306,7 @@
   {
    "id": "scen100.0215",
    "jp": "{v:001B}先ほどの無礼をお許し下さい。{p}{v:001C}私、{s:0019}。{n}騎士の名に賭けて、忠誠を尽くすのは{n}真の王のみでございます。{p}{v:001D}あなた様の協力をさせていただきたく存じます。",
-   "en": "{v:001B}Please forgive my earlier discourtesy.{p}{v:001C}I, {s:0019}, swear upon my honor as a{n}knight that my loyalty belongs only to the true King.{p}{v:001D}I humbly ask to lend you my aid.",
+   "en": "{v:001B}Please forgive my earlier discourtesy.{p}{v:001C}I, {s:0019}, swear upon my honor as a{n}knight that my loyalty belongs only to the true King.{p}{v:001D}I humbly ask that you allow me to assist you.",
    "term": "end"
   },
   {
@@ -1444,7 +1444,7 @@
   {
    "id": "scen100.0238",
    "jp": "　{n}　　　　　驚いていただけました？",
-   "en": "　{n}　　　　　Did I give you a surprise?",
+   "en": "　{n}　　　　　Did I surprise you?",
    "term": "end"
   },
   {

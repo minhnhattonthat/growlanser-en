@@ -171,7 +171,7 @@
   {
    "id": "scen072.0027",
    "jp": "{v:003B}いいえ。{n}危ないところを助けていただき、{n}ありがとうございました。",
-   "en": "{v:003B}There is no need to apologize. Thank you for coming to{n}our aid when we were in danger.",
+   "en": "{v:003B}No, not at all. Thank you for saving us when we were{n}in danger.",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen072.0034",
    "jp": "{v:0006}どうしようって‥‥。",
-   "en": "{v:0006}What do we do...?",
+   "en": "{v:0006}What do you mean, 'what do we do'...?",
    "term": "end"
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "scen072.0048",
    "jp": "{v:0017}この殺気‥‥違うと思うぜ。{p}{v:0018}隠れてないで、出てこい！",
-   "en": "{v:0017}With that killing intent...? I doubt it.{p}{v:0018}Quit hiding and come out!",
+   "en": "{v:0017}Not with bloodlust like this, I'd say.{p}{v:0018}Quit hiding and come out!",
    "term": "end"
   },
   {

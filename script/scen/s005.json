@@ -87,7 +87,7 @@
   {
    "id": "scen005.0013",
    "jp": "{v:0035}こいつが犯人‥‥って事はねぇだろうな‥‥。",
-   "en": "{v:0035}This guy's the culprit... No, that doesn't seem likely...",
+   "en": "{v:0035}This guy couldn't be the culprit... could he?",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen005.0022",
    "jp": "　{n}　　　　　『{FFEF}赤いピアス{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　Obtained a '{FFEF}Red Earring{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Red Earring{FFF1}'!",
    "term": "end"
   },
   {
@@ -207,14 +207,14 @@
   {
    "id": "scen005.0033",
    "jp": "・学院長があやしい",
-   "en": "・The Headmaster is suspicious",
+   "en": "・I suspect the Headmaster",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen005.0034",
    "jp": "・副学院長があやしい",
-   "en": "・The Vice Headmaster is suspicious",
+   "en": "・I suspect the Vice Headmaster",
    "term": "end",
    "unref": true
   },

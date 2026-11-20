@@ -57,7 +57,7 @@
   {
    "id": "scen217.0008",
    "jp": "{v:0034}お、やっと魔力の反応があったぞ！{n}あと一息じゃ！",
-   "en": "{v:0034}Oh, finally a magical response! Just a little more, eh!",
+   "en": "{v:0034}Ah, finally a magical response! Just a little more now!",
    "term": "end"
   },
   {
@@ -135,7 +135,7 @@
   {
    "id": "scen217.0021",
    "jp": "{v:0014}アタシ達との違いは‥‥。{p}{FC02}{v:0015}やっぱり、あの匂い袋のせいだよ！",
-   "en": "{v:0014}What's different from the rest of us...?{p}{FC02}{v:0015}I knew it! It's that scent pouch!",
+   "en": "{v:0014}What makes them different from the rest of us...?{p}{FC02}{v:0015}I knew it! It's that scent pouch!",
    "term": "end"
   },
   {
@@ -816,7 +816,7 @@
   {
    "id": "scen217.0134",
    "jp": "‥‥{v:0035}これでいいはずじゃ。{n}スイッチ、オン！",
-   "en": "...{v:0035}That should do it, then. Switch on!",
+   "en": "...{v:0035}That should do it, then. Switching it on!",
    "term": "end"
   }
  ]

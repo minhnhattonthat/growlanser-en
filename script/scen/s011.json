@@ -243,7 +243,7 @@
   {
    "id": "scen011.0039",
    "jp": "{v:0023}２人とも、お幸せに～～★",
-   "en": "{v:0023}You two be happy together!",
+   "en": "{v:0023}Wishing you two all the happiness in the wooorld!",
    "term": "end"
   },
   {
@@ -285,7 +285,7 @@
   {
    "id": "scen011.0046",
    "jp": "{v:002F}そう言えば、{n}来月、アリオストさんと結婚するみたいです。{n}２人とも、幸せになってね★",
-   "en": "{v:002F}Oh, right! Apparently, she's marrying Ariost-san next{n}month. You two be happy together!",
+   "en": "{v:002F}Oh, right! Apparently, she's marrying Ariost-san next{n}month. Wishing you both every happiness!",
    "term": "end"
   },
   {
@@ -462,7 +462,7 @@
   {
    "id": "scen011.0075",
    "jp": "・待ちくたびれたよ",
-   "en": "・I'm tired of waiting.",
+   "en": "・I was getting tired of waiting.",
    "term": "end",
    "unref": true
   },
@@ -579,7 +579,7 @@
   {
    "id": "scen011.0094",
    "jp": "・そっと抱きしめる",
-   "en": "・Hold her softly.",
+   "en": "・Hold her gently.",
    "term": "end",
    "unref": true
   },
@@ -753,7 +753,7 @@
   {
    "id": "scen011.0122",
    "jp": "{v:00F6}実際、君の考え方や行動は本当に面白い。{n}見ていて飽きると言うことがないからね。{p}{v:00F7}だから君は、僕の興味をひくんだろうな。{n}じっくりと時間をかけて、観察してみたくなったよ。{p}{v:00F8}きっとそこに、僕の知らない何かがあるはずだ。{n}だから、もっともっと君のことを知りたい。{p}{FC05}{v:00F9}そうだね‥‥、{n}君の研究観察を僕のライフワークにさせてもらうよ。{p}{v:00FA}ちょくちょく君を調べに寄らせてもらうから、{n}覚悟しておいてくれよ？",
-   "en": "{v:00F6}The way you think and act really is fascinating. I never{n}tire of watching you.{p}{v:00F7}I suppose that's why you intrigue me. I've come to{n}want to observe you at length, taking my time.{p}{v:00F8}I'm certain there's something there I have yet to{n}discover. That's why I want to learn more and more{n}about you.{p}{FC05}{v:00F9}Yes... I think I'll make studying you my life's work.{p}{v:00FA}I'll be dropping by often to examine you, so{n}be prepared!",
+   "en": "{v:00F6}The way you think and act really is fascinating. I never{n}tire of watching you.{p}{v:00F7}I suppose that's why you intrigue me. Now I'd like to{n}take my time observing you.{p}{v:00F8}I'm certain there's something there I have yet to{n}discover. That's why I want to learn more and more{n}about you.{p}{FC05}{v:00F9}Yes... I think I'll make studying you my life's work.{p}{v:00FA}I'll be dropping by often to examine you, so{n}be prepared!",
    "term": "end"
   },
   {

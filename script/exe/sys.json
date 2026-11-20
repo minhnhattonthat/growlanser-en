@@ -723,7 +723,7 @@
   {
    "id": "exe.sys.0119",
    "jp": "また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "Come back, all right?{n}I'll be waiting with a lovely smile.",
+   "en": "Come back, all right?{n}I'll have a lovely smile waiting for you.",
    "term": "null"
   },
   {
@@ -735,7 +735,7 @@
   {
    "id": "exe.sys.0121",
    "jp": "サウンド{n}ＢＧＭ{n}効果音{n}メニュー音声{n}メッセージ音声{n}メッセージ速度{n}コマンド説明表示{n}戦闘時範囲確認{n}ティピの可能性",
-   "en": "Sound{n}Background Music{n}Sound Effects{n}Menu Voices{n}Dialogue Voices{n}Text Speed{n}Command Help{n}Confirm Range{n}Tippi's Potential",
+   "en": "Sound{n}Background Music{n}Sound Effects{n}Menu Voices{n}Dialogue Voices{n}Text Speed{n}Command Help{n}Battle Range{n}Tippi's Potential",
    "term": "null"
   },
   {
@@ -1137,7 +1137,7 @@
   {
    "id": "exe.sys.0188",
    "jp": "少し男前になった！！",
-   "en": "Became a little more handsome!!",
+   "en": "You've become a little more handsome!!",
    "term": "null"
   },
   {

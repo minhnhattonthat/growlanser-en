@@ -171,7 +171,7 @@
   {
    "id": "scen101.0026",
    "jp": "いらっしゃいませ。{n}アクセサリーはいかがですか？{p}若手の細工師が練習のために造った物なので、{n}正規の商品より多少質は落ちますが、{n}その分、セットでお安くなっております。",
-   "en": "Welcome. Would you care for some accessories?{p}Young artisans made these for practice, so the quality{n}is a little below our regular goods. In return, we offer{n}them in inexpensive sets.",
+   "en": "Welcome. Would you care for some accessories?{p}Young artisans made these for practice, so the quality{n}is a little below our regular goods. To make up for it, we{n}sell them in sets at a lower price.",
    "term": "end"
   },
   {
@@ -730,7 +730,7 @@
   {
    "id": "scen101.0116",
    "jp": "{v:0058}そうかなぁ‥‥。{n}普通だと思うけど‥‥。",
-   "en": "{v:0058}Do I...? I thought I was normal...",
+   "en": "{v:0058}Do I...? I think it's pretty normal...",
    "term": "end"
   },
   {
@@ -1174,7 +1174,7 @@
   {
    "id": "scen101.0188",
    "jp": "これからのつけ物石は、{n}こう、ファッショナブルでないとね。",
-   "en": "From now on, even the stones we weigh down pickles{n}with need to be fashionable like this.",
+   "en": "From now on, even pickle weights have to be{n}fashionable, like this.",
    "term": "end"
   },
   {

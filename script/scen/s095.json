@@ -789,7 +789,7 @@
   {
    "id": "scen095.0128",
    "jp": "{v:0074}ああ、馬車がこっちまで来ない！？",
-   "en": "{v:0074}Oh no, the carriage isn't coming this far?!",
+   "en": "{v:0074}Oh no! The carriage isn't coming our way?!",
    "term": "end"
   },
   {
@@ -1338,7 +1338,7 @@
   {
    "id": "scen095.0219",
    "jp": "{v:000F}君たちはすごいな。この戦争を終わらせる、{n}最大の要因は君たち自身だよ。",
-   "en": "{v:000F}You're remarkable. You yourselves will be the greatest{n}force in bringing this war to an end.",
+   "en": "{v:000F}You're remarkable. More than anything else, it's you who{n}will bring this war to an end.",
    "term": "end"
   },
   {

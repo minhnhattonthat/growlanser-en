@@ -873,7 +873,7 @@
   {
    "id": "scen025.0143",
    "jp": "ホント、人間ってうわべだけで信じちゃだめね。",
-   "en": "Really, you can't trust people just because of how{n}they seem on the surface.",
+   "en": "Really, you just can't trust people on{n}appearances alone.",
    "term": "end"
   },
   {
@@ -1173,7 +1173,7 @@
   {
    "id": "scen025.0193",
    "jp": "{v:0081}おじさま達。{n}つまり、学院長と副学院長のことだよ。",
-   "en": "{v:0081}Uncle and the other one. I mean, the Headmaster and{n}Vice Headmaster.",
+   "en": "{v:0081}Uncle and his colleague. I mean, the Headmaster and{n}Vice Headmaster.",
    "term": "end"
   },
   {
@@ -1434,7 +1434,7 @@
   {
    "id": "scen025.0236",
    "jp": "{v:004B}さっきの話が本当だったら、お兄さまも‥‥。",
-   "en": "{v:004B}If what we just heard is true, then Big Brother is...",
+   "en": "{v:004B}If what we just heard is true, then Big Brother, too...",
    "term": "end"
   },
   {

@@ -987,7 +987,7 @@
   {
    "id": "scen052.0161",
    "jp": "{v:0011}そうか、とうとう動き出すのか。{n}ならば追撃を行わないよう私から王に進言しておこう。{p}{v:0012}却下される心配はない。{n}すぐにでも、引き上げの準備をさせるがよい。",
-   "en": "{v:0011}I see. So you are finally making your move. Then I shall{n}advise the king against pursuing them.{p}{v:0012}There is no fear of him refusing. Have them begin{n}preparations to withdraw at once.",
+   "en": "{v:0011}I see. So you are finally making your move. Then I shall{n}advise the king against pursuing them.{p}{v:0012}You need not worry that he will refuse. Have them{n}begin preparations to withdraw at once.",
    "term": "end"
   },
   {

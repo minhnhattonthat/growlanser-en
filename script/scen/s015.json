@@ -147,7 +147,7 @@
   {
    "id": "scen015.0023",
    "jp": "{v:003A}この子が夢で見た異形にですか？",
-   "en": "{v:003A}As the monstrosity my son saw in his dream?",
+   "en": "{v:003A}You mean it resembled the monstrosity my son saw in{n}his dream?",
    "term": "end"
   },
   {
@@ -249,7 +249,7 @@
   {
    "id": "scen015.0040",
    "jp": "{v:0056}くっ！{p}{v:0057}調べてみたいのはやまやまだが、この体じゃ‥‥。",
-   "en": "{v:0056}Damn!{p}{v:0057}I'd like nothing better than to investigate, but with my{n}body like this...",
+   "en": "{v:0056}Damn!{p}{v:0057}I'd like nothing better than to investigate, but I'm in no{n}shape for it...",
    "term": "end"
   },
   {
@@ -669,13 +669,13 @@
   {
    "id": "scen015.0110",
    "jp": "{v:0012}さて、俺たちも少し休むとしようか。{n}いろいろと疲れたしな。",
-   "en": "{v:0012}Well, we should get some rest too. It's been a{n}tiring time.",
+   "en": "{v:0012}Well, we should get some rest too. We've been through{n}a lot.",
    "term": "end"
   },
   {
    "id": "scen015.0111",
    "jp": "{v:0013}ルイセちゃん、一緒に寝よう♪",
-   "en": "{v:0013}Luise-chan, let's sleep together♪",
+   "en": "{v:0013}Luise-chan, let's share a bed♪",
    "term": "end"
   },
   {

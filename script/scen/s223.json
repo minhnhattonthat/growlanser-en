@@ -105,7 +105,7 @@
   {
    "id": "scen223.0016",
    "jp": "{v:002F}アンタ、ヴェンツェルに騙されてるだけよ！{n}アタシ達は最後まであきらめないんだから！",
-   "en": "{v:002F}Wenzel's just fooling you! We're not giving up, right to{n}the very end!",
+   "en": "{v:002F}Wenzel's just fooling you! We'll never give up, not till the{n}very end!",
    "term": "end"
   },
   {
@@ -201,7 +201,7 @@
   {
    "id": "scen223.0032",
    "jp": "{v:0046}ヴェンツェルはあなたを利用しているだけよ。{n}それに気づいて！",
-   "en": "{v:0046}Wenzel is only using you. Please see that!",
+   "en": "{v:0046}Wenzel is only using you. Please, open your eyes!",
    "term": "end"
   },
   {

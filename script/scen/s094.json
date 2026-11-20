@@ -159,7 +159,7 @@
   {
    "id": "scen094.0025",
    "jp": "{v:0020}薬草売りか‥‥。{n}俺は健康だから、縁があるのは傷薬ぐらいだな。",
-   "en": "{v:0020}Herb sellers, eh...? I'm healthy, so wound medicine is{n}about all I ever need.",
+   "en": "{v:0020}Herb sellers, eh...? I'm healthy, so something for cuts{n}and scrapes is about all I ever need.",
    "term": "end"
   },
   {
@@ -406,7 +406,7 @@
   {
    "id": "scen094.0066",
    "jp": "・文句を言い返す",
-   "en": "・Complain back",
+   "en": "・Talk back",
    "term": "end",
    "unref": true
   },

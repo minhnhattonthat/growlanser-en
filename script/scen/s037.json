@@ -306,7 +306,7 @@
   {
    "id": "scen037.0049",
    "jp": "{v:0022}どんな秘密があるのか知らないけど。{n}何かあったら、頼むわよ。{p}{v:0023}親友ってのは、強いんだから！",
-   "en": "{v:0022}Who knows what she's hiding? But if anything{n}happens, we're counting on you.{p}{v:0023}Being best friends gives you strength!",
+   "en": "{v:0022}Who knows what she's hiding? But if anything{n}happens, we're counting on you.{p}{v:0023}Never underestimate a best friend!",
    "term": "end"
   },
   {
@@ -1028,7 +1028,7 @@
   {
    "id": "scen037.0168",
    "jp": "{v:0059}ああ。{n}お前はこうしてここにいる。{p}{v:005A}過去がなんだ。{n}今があるじゃないか！",
-   "en": "{v:0059}Yeah. You're right here, aren't you?{p}{v:005A}Who cares about the past? You've got the present!",
+   "en": "{v:0059}Yeah. You're right here, aren't you?{p}{v:005A}Who cares about the past? What matters is the here{n}and now!",
    "term": "end"
   },
   {

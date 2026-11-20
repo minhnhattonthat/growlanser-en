@@ -243,7 +243,7 @@
   {
    "id": "scen147.0039",
    "jp": "弾かせますか？",
-   "en": "Allow the violin performance?",
+   "en": "Let them play the violin?",
    "term": "end"
   },
   {
@@ -255,7 +255,7 @@
   {
    "id": "scen147.0041",
    "jp": "曲は、ラフカーントの{n}『ヴァイオリン独奏曲第４番』で‥‥。",
-   "en": "The piece is Rafkant's 'Solo Violin No. 4'...",
+   "en": "The piece is Rafkant's 'Violin Solo No. 4'...",
    "term": "end"
   },
   {
@@ -327,7 +327,7 @@
   {
    "id": "scen147.0053",
    "jp": "いいですね、とても。",
-   "en": "It's lovely. Very much so.",
+   "en": "It's lovely. Really lovely.",
    "term": "end"
   },
   {

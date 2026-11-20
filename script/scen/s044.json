@@ -327,7 +327,7 @@
   {
    "id": "scen044.0053",
    "jp": "ああ、ちょうど君の順番だよ。{n}悔いがないようにがんばってきなさい。",
-   "en": "Ah, it's just your turn. Give it your all so you won't{n}have any regrets.",
+   "en": "Ah, it's your turn now. Give it your all so you won't have{n}any regrets.",
    "term": "end"
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "scen044.0063",
    "jp": "俺が１番強そうだな‥‥。",
-   "en": "I look like the strongest one here...",
+   "en": "Looks like I'm the strongest one here...",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen044.0106",
    "jp": "緊張してしまって、{n}どうしても試合で実力を出せないんだ‥‥。",
-   "en": "I get so nervous, I can never fight my best in{n}a match...",
+   "en": "I get so nervous, I can never fight at my best in{n}a match...",
    "term": "end"
   },
   {

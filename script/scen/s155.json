@@ -175,7 +175,7 @@
   {
    "id": "scen155.0027",
    "jp": "バーンシュタインの人間同士で{n}戦争をしなければならないのだぞ？",
-   "en": "We must wage war against our fellow people of{n}Burnstein. Do you understand?",
+   "en": "We will have to wage war, Burnstein against Burnstein.{n}Do you understand?",
    "term": "end"
   },
   {
@@ -556,7 +556,7 @@
   {
    "id": "scen155.0088",
    "jp": "僕は自分が戦いたくないんじゃない。{n}ただ、人間同士が争うのが嫌なだけなんだ。",
-   "en": "It's not that I don't want to fight myself. I just hate{n}seeing people fight one another.",
+   "en": "It's not that I'm unwilling to fight. I just hate seeing{n}people fight one another.",
    "term": "end"
   },
   {
@@ -838,7 +838,7 @@
   {
    "id": "scen155.0134",
    "jp": "せっかく来ていただいたのに申し訳ありません。{n}また、夕方にでも。",
-   "en": "I'm sorry, after you came all this way. Perhaps we can{n}talk again this evening.",
+   "en": "I'm sorry to cut this short after you came all this way.{n}Perhaps we can talk again this evening.",
    "term": "end"
   },
   {
@@ -913,7 +913,7 @@
   {
    "id": "scen155.0146",
    "jp": "お前にそう言われると照れるな。{n}そうであって欲しいものだが。",
-   "en": "You embarrass me, saying that. I would like to believe{n}it is true.",
+   "en": "You flatter me. I would like to believe it is true.",
    "term": "end"
   },
   {

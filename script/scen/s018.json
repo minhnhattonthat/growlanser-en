@@ -555,7 +555,7 @@
   {
    "id": "scen018.0080",
    "jp": "ゲヴェルを倒した直後、パーティーは解散しますが、{n}ミーシャがパーティーにいた場合のみ、残ります。",
-   "en": "The party disbands immediately after defeating Gevel.{n}Misha stays behind only if she was in the party.",
+   "en": "The party disbands immediately after defeating Gevel.{n}Misha remains with you only if she was in the party.",
    "term": "end"
   },
   {
@@ -798,7 +798,7 @@
   {
    "id": "scen018.0119",
    "jp": "この時、ミーシャはいません。{n}またアリオストかカレンから{n}誰か{FFF0}１人だけ{FFF1}選択できます。",
-   "en": "Misha is not here at this point. You may choose {FFF0}only one{FFF1}{n}of Ariost and Karen.",
+   "en": "Misha is not here at this point. You may choose {FFF0}only{n}one{FFF1}: Ariost or Karen.",
    "term": "end"
   },
   {
@@ -2762,7 +2762,7 @@
   {
    "id": "scen018.0423",
    "jp": "{FFF3}‥‥フッフッフッ、わかる？{n}アタシのこの余裕が‥‥。",
-   "en": "{FFF3}...Heh heh heh. You noticed? How very calm I am...",
+   "en": "{FFF3}...Heh heh heh. Can you tell? Just how cool and collected{n}I am...",
    "term": "end"
   },
   {
@@ -2792,7 +2792,7 @@
   {
    "id": "scen018.0428",
    "jp": "で、いったいどうしたのよ？",
-   "en": "So, what happened already?",
+   "en": "So what on earth happened?",
    "term": "end"
   },
   {
@@ -2810,7 +2810,7 @@
   {
    "id": "scen018.0431",
    "jp": "その時に、その方が優しくアタシの手を取って、{p}{FC02}{FFEE}やぁ、キュートなお嬢さん。{n}お怪我はありませんか？{FFF1}{FFFB}{n}{FC06}‥‥だって！",
-   "en": "Then he gently took my hand and said...{p}{FC02}{FFEE}\"Hello, you cute young lady. Are you hurt?\"{FFF1}{FFFB}{FC06}...Can you{n}believe it?!",
+   "en": "Then he gently took my hand and said...{p}{FC02}{FFEE}\"Hello there, lovely young lady. Are you hurt?\"{FFF1}{FFFB}{FC06}...Can{n}you believe it?!",
    "term": "end"
   },
   {

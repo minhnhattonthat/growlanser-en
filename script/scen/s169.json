@@ -87,7 +87,7 @@
   {
    "id": "scen169.0013",
    "jp": "{v:002F}まだ、未完成品なんだ。{p}{v:0030}確かにこの装置を動かせば、{n}術者の掛けたスペルを探し出して、{n}時間を遅らせることができる。{p}{v:0031}けれど、探査の最中に{n}ものすごい衝撃波が発生するんだよ。{n}できれば、あの痛みは味わいたくないんだけど‥‥。",
-   "en": "{v:002F}It isn't finished yet.{p}{v:0030}It can indeed locate the spell cast by the caster and{n}slow down time when activated.{p}{v:0031}But it generates an enormous shock wave while{n}searching. I'd rather not endure that pain if I can{n}help it...",
+   "en": "{v:002F}It isn't finished yet.{p}{v:0030}When activated, this device can locate the caster's{n}spell and slow down time.{p}{v:0031}But it generates an enormous shock wave while{n}searching. I'd rather not endure that pain if I can{n}help it...",
    "term": "end"
   },
   {
@@ -365,25 +365,25 @@
   {
    "id": "scen169.0057",
    "jp": "『{FFEF}かなづち{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Hammer{FFF1}', but you can't carry any more...",
+   "en": "Found '{FFEF}Hammer{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen169.0058",
    "jp": "　{n}　　　　　『{FFEF}かなづち{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　Obtained a '{FFEF}Hammer{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Hammer{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen169.0059",
    "jp": "『{FFEF}ブラスターハンド{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Blaster Hand{FFF1}', but you can't carry any more...",
+   "en": "Found '{FFEF}Blaster Hand{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen169.0060",
    "jp": "　{n}　　　『{FFEF}ブラスターハンド{FFF1}』を手に入れた！",
-   "en": "　{n}　　　Obtained a '{FFEF}Blaster Hand{FFF1}'!",
+   "en": "　{n}　　　Obtained '{FFEF}Blaster Hand{FFF1}'!",
    "term": "end"
   },
   {

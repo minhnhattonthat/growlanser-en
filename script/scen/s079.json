@@ -201,7 +201,7 @@
   {
    "id": "scen079.0032",
    "jp": "{v:0025}そういえば、学院で透明になる薬を研究してる人が{n}いるよ。",
-   "en": "{v:0025}Come to think of it, someone at the Academy is{n}researching an invisibility medicine.",
+   "en": "{v:0025}Come to think of it, someone at the Academy is{n}researching a medicine that makes you invisible.",
    "term": "end"
   },
   {
@@ -408,7 +408,7 @@
   {
    "id": "scen079.0066",
    "jp": "{v:0021}間違いないよ！",
-   "en": "{v:0021}There's no mistake!",
+   "en": "{v:0021}No doubt about it!",
    "term": "end"
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "scen079.0114",
    "jp": "{v:0054}何だか俺たちのことを探ってる奴らが{n}いるらしいからな。",
-   "en": "{v:0054}Sounds like someone's been snooping around after us.",
+   "en": "{v:0054}Sounds like someone's been nosing around in{n}our business.",
    "term": "end"
   },
   {
@@ -867,7 +867,7 @@
   {
    "id": "scen079.0142",
    "jp": "{v:007A}さすが！{n}昔ここの警備をしていただけのことはあるね？",
-   "en": "{v:007A}Nice! You really did guard this place back in the{n}day, huh?",
+   "en": "{v:007A}Nice! All that time guarding this place sure paid{n}off, huh?",
    "term": "end"
   },
   {

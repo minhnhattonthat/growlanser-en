@@ -105,7 +105,7 @@
   {
    "id": "scen049.0016",
    "jp": "まだ屋敷を調べてませんけど？",
-   "en": "We haven't searched the mansion yet, though?",
+   "en": "But we haven't searched the mansion yet...?",
    "term": "end"
   },
   {
@@ -672,7 +672,7 @@
   {
    "id": "scen049.0110",
    "jp": "{v:009F}どうも、お疲れさまです‥‥。",
-   "en": "{v:009F}Hello. You must be tired from all your hard work...",
+   "en": "{v:009F}Hello. Thank you for all your hard work...",
    "term": "end"
   },
   {
@@ -708,7 +708,7 @@
   {
    "id": "scen049.0116",
    "jp": "‥‥{v:00A5}すみません、宿まで肩を貸して{n}いただけないでしょうか‥‥。",
-   "en": "...{v:00A5}I'm sorry, but could you lend me your shoulder and{n}help me back to the inn...?",
+   "en": "...{v:00A5}I'm sorry, but could you help me walk back to{n}the inn...?",
    "term": "end"
   },
   {
@@ -1420,7 +1420,7 @@
   {
    "id": "scen049.0232",
    "jp": "{v:00D5}こっちは収穫なしだよぉ。",
-   "en": "{v:00D5}I didn't find anything ooout.",
+   "en": "{v:00D5}No luuuck on my end.",
    "term": "end"
   },
   {
@@ -1492,13 +1492,13 @@
   {
    "id": "scen049.0244",
    "jp": "{v:0031}ウェーバーは俺の傭兵仲間だった‥‥。",
-   "en": "{v:0031}Weber was a mercenary comrade of mine...",
+   "en": "{v:0031}Weber and I were mercenaries together...",
    "term": "end"
   },
   {
    "id": "scen049.0245",
    "jp": "{v:0032}ウォレスさんの傭兵仲間？",
-   "en": "{v:0032}A mercenary comrade of yours, Wallace-san?",
+   "en": "{v:0032}He was a mercenary with you, Wallace-san?",
    "term": "end"
   },
   {

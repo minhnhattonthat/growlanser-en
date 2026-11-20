@@ -93,7 +93,7 @@
   {
    "id": "scen075.0014",
    "jp": "・あの人数なら、橋の完成まで時間がかかる",
-   "en": "・So few men will take time to finish the bridge",
+   "en": "・With so few men, the bridge will take a while",
    "term": "end",
    "unref": true
   },
@@ -390,7 +390,7 @@
   {
    "id": "scen075.0063",
    "jp": "{v:00B2}それじゃ、魔力は回復させておいた方がいいね。{n}向こうにテレポートでいける、{n}目印のポイントがあるかどうかもわからないし‥‥。",
-   "en": "{v:00B2}Then you'd better recover your magic first. We don't{n}even know whether there's a landmark over there you{n}can Teleport to...",
+   "en": "{v:00B2}Then you'd better replenish your magic first. We don't{n}even know whether there's a landmark over there you{n}can Teleport to...",
    "term": "end"
   },
   {

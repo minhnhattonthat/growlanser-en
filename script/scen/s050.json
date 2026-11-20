@@ -719,7 +719,7 @@
   {
    "id": "scen050.0117",
    "jp": "ランザック王国がバーンシュタイン軍の侵略を{n}受けているので、援軍に来たのだが‥‥。{p}国境にあるガラシールズが、{n}バーンシュタイン軍に制圧されていて、{n}先へ進めんのだ。",
-   "en": "The Kingdom of Ranzak is under invasion by the{n}Burnstein army. We came to reinforce them, but...{p}The Burnstein army has taken Galashiels on the border,{n}and we cannot advance.",
+   "en": "The Kingdom of Ranzak is being invaded by the{n}Burnstein army. We came to reinforce them, but...{p}The Burnstein army has taken Galashiels on the border,{n}and we cannot advance.",
    "term": "end"
   },
   {

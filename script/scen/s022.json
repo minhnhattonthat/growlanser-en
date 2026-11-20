@@ -99,7 +99,7 @@
   {
    "id": "scen022.0015",
    "jp": "{v:007A}いいかい。{n}ここに手紙をしたためておいたから、{n}ちゃんとお渡しするんだよ。",
-   "en": "{v:007A}Now, listen. I've written a letter here. Be sure to{n}deliver it properly.",
+   "en": "{v:007A}Now, listen. I've written a letter here. Make sure you{n}hand it over, all right?",
    "term": "end"
   },
   {
@@ -171,7 +171,7 @@
   {
    "id": "scen022.0027",
    "jp": "　{n}　　　　　『{FFEF}バンダナ{FFF1}』を受け取った！",
-   "en": "　{n}　　　　　Received a '{FFEF}Bandana{FFF1}'!",
+   "en": "　{n}　　　　　Received '{FFEF}Bandana{FFF1}'!",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen022.0030",
    "jp": "　{n}　　　　『{FFEF}グラディウス{FFF1}』を受け取った！",
-   "en": "　{n}　　　　Received a '{FFEF}Gladius{FFF1}'!",
+   "en": "　{n}　　　　Received '{FFEF}Gladius{FFF1}'!",
    "term": "end"
   },
   {
@@ -257,7 +257,7 @@
   {
    "id": "scen022.0041",
    "jp": "{v:007F}うふふっ♪{n}感謝の宴ってより、村のみんなが{n}騒ぎたいだけみたいだけど、なんだか楽しいね！",
-   "en": "{v:007F}Hehehe♪ Seems like everyone just wanted an excuse to{n}party, more than a feast to thank us. Still, this is fun!",
+   "en": "{v:007F}Hehehe♪ This is less a feast to thank us than an{n}excuse for the whole village to party. Still, it's fun!",
    "term": "end"
   },
   {
@@ -709,7 +709,7 @@
   {
    "id": "scen022.0114",
    "jp": "{v:0008}くっ！{n}しつこい連中だ！{n}エリオット、お前は早く逃げろ！",
-   "en": "{v:0008}Damn! They just won't give up! Elliot, get out of here!",
+   "en": "{v:0008}Ngh! They just won't give up! Elliot, get out of here!",
    "term": "end"
   },
   {
@@ -805,7 +805,7 @@
   {
    "id": "scen022.0130",
    "jp": "{v:0004}つまらぬ話だが、黙って聞いて欲しい。",
-   "en": "{v:0004}It is a dull tale, but I ask that you hear me out.",
+   "en": "{v:0004}It is a dull tale, but I ask that you hear me out{n}in silence.",
    "term": "end"
   },
   {
@@ -1044,7 +1044,7 @@
   {
    "id": "scen022.0169",
    "jp": "{v:000C}どうして、マスターの危機が夢でわかったんだろう？{p}{FC02}{v:000D}って、そんなことは後でいいわ！{n}アタシ、みんなを呼んでくる！",
-   "en": "{v:000C}How did you know Master was in danger from{n}a dream?{p}{FC02}{v:000D}Wait, that can wait! I'll go get everyone!",
+   "en": "{v:000C}How did you know from a dream that Master was{n}in danger?{p}{FC02}{v:000D}Ugh, never mind that now! I'll go get everyone!",
    "term": "end"
   },
   {
@@ -1123,7 +1123,7 @@
   {
    "id": "scen022.0182",
    "jp": "・あの親子を助けた時を思い出すように言う",
-   "en": "・Recall when you helped that family",
+   "en": "・Remind Julian of saving that family",
    "term": "end",
    "unref": true
   },

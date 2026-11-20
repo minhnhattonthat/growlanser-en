@@ -21,7 +21,7 @@
   {
    "id": "scen159.0002",
    "jp": "{v:000C}おい！{n}奴はお前たちで歯の立つ相手ではないぞ。{p}{v:000D}私が直接戦う！{n}お前たちは援護を頼む！",
-   "en": "{v:000C}Listen! He is beyond your ability to defeat.{p}{v:000D}I shall fight him directly! Give me your support!",
+   "en": "{v:000C}Listen! You are no match for him.{p}{v:000D}I shall fight him myself! Give me your support!",
    "term": "end"
   },
   {
@@ -109,7 +109,7 @@
   {
    "id": "scen159.0016",
    "jp": "{v:0016}お前の相手など、私一人で十分だ！",
-   "en": "{v:0016}I am more than enough to deal with you alone!",
+   "en": "{v:0016}I alone am more than enough to deal with you!",
    "term": "end"
   },
   {
@@ -139,7 +139,7 @@
   {
    "id": "scen159.0021",
    "jp": "{v:001B}うおぉ‥‥。",
-   "en": "{v:001B}Uooh...",
+   "en": "{v:001B}Urgh...",
    "term": "end"
   },
   {

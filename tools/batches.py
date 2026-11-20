@@ -368,7 +368,7 @@ def split(size, only):
 
 def check_batch(batch, entries, terms):
     want = [r[0] for r in read_tsv(TL / f"{batch}.tsv")]
-    rows = [(r[0], "\t".join(r[1:]).strip()) for r in read_tsv(TL / f"{batch}.out.tsv")]
+    rows = [(r[0], "\t".join(r[1:]).strip(" \r\n")) for r in read_tsv(TL / f"{batch}.out.tsv")]  # keeps U+3000 edges
     bad = []
     if [r[0] for r in rows] != want:
         got = [r[0] for r in rows]

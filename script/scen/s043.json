@@ -624,7 +624,7 @@
   {
    "id": "scen043.0102",
    "jp": "{v:0028}ああ、ちょうど君たちの順番だよ。{n}悔いがないようにがんばってきなさい。",
-   "en": "{v:0028}Ah, it's just your turn. Give it your best, so you'll have{n}no regrets.",
+   "en": "{v:0028}Ah, it's your turn now. Give it your best, so you'll have{n}no regrets.",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen043.0121",
    "jp": "{v:0033}予選は勝ち抜いたようだな。{n}まずはおめでとう。{p}{v:0034}俺と戦いたかったら、{n}決勝まであがって来るんだな。",
-   "en": "{v:0033}Looks like you made it through the preliminaries.{n}Congratulations, for now.{p}{v:0034}If you want to fight me, you'll have to make it to{n}the final.",
+   "en": "{v:0033}Looks like you made it through the preliminaries. First{n}off, congratulations.{p}{v:0034}If you want to fight me, you'll have to make it to{n}the final.",
    "term": "end"
   },
   {
@@ -990,7 +990,7 @@
   {
    "id": "scen043.0163",
    "jp": "エキスパート出場者専用受付",
-   "en": "Expert Contestants Only: Registration",
+   "en": "Expert Contestant Registration",
    "term": "end"
   },
   {

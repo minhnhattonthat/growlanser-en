@@ -273,7 +273,7 @@
   {
    "id": "scen064.0044",
    "jp": "{v:001E}その通りだ。{p}{v:001F}これはグローシアンが、{n}小規模ながら時空を操っていることを意味しておる。{p}{v:0020}そして皆既日食のグローシアンは、{n}その力が最も強いと言える。",
-   "en": "{v:001E}Precisely.{p}{v:001F}This means that Growsians manipulate space-time,{n}albeit on a small scale.{p}{v:0020}And those born during a total solar eclipse possess{n}the greatest strength in this power.",
+   "en": "{v:001E}Precisely.{p}{v:001F}This means that Growsians manipulate space-time,{n}albeit on a small scale.{p}{v:0020}And that power is strongest in Growsians born during a{n}total solar eclipse.",
    "term": "end"
   },
   {
@@ -1352,7 +1352,7 @@
   {
    "id": "scen064.0223",
    "jp": "{v:0010}これで野菜スープ作ってもらうんだ！",
-   "en": "{v:0010}We're going to have someone make vegetable soup{n}with these!",
+   "en": "{v:0010}We're gonna get them to make vegetable soup{n}with these!",
    "term": "end"
   },
   {
@@ -1406,7 +1406,7 @@
   {
    "id": "scen064.0232",
    "jp": "{v:001C}それから私は彼のしていること、{n}そしてその結果を見守りました。{p}{v:001D}そして分かったのです。{n}人間には、フェザリアンにない物がある。{p}{v:001E}それは、あきらめない心。{p}{v:001F}私たちはいつしか愛し合い、そこでアリオスト。{n}お前が生まれたのです。",
-   "en": "{v:001C}After that, I watched what he did and the results{n}it brought.{p}{v:001D}And then I understood. Humans possess something that{n}we Featherians lack.{p}{v:001E}A heart that will not give up.{p}{v:001F}In time, we fell in love. And there, Ariost, you{n}were born.",
+   "en": "{v:001C}After that, I watched what he did and the results{n}it brought.{p}{v:001D}And then I understood. Humans possess something that{n}we Featherians lack.{p}{v:001E}A heart that will not give up.{p}{v:001F}In time, we fell in love, and then, Ariost... you{n}were born.",
    "term": "end"
   },
   {

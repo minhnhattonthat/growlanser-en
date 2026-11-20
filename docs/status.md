@@ -2,12 +2,33 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release, not started (phase 8 done session 17). **Next (phase 9, skill table + pipeline.md
-  §Release):** story pass per chapter (work/qa/story/manifest.tsv, translation.md §Review; none yet); docs/polish.md
-  has 490 unticked lines (reviewer Minors + owner polish candidates: tick or fix each); write tools/release.py (none
-  yet: build, tests, smoke, jp_left, qa_gate on every work/qa/**/manifest.tsv, textcover, polish, README
-  placeholders, debug off, xdelta per .bin -B, re-apply + compare, zip patch + README); README filled from template.
-  Codex out of credits until 2026-11-26 (reviews: own read-only pass).
+- **Phase:** 9. Release in progress (session 18). **Next:** finish the story pass, merge polish batches, global
+  system-message pass, re-tour/waive, cover rerun, then `tools/release.py`.
+- **Phase 9 session 18 (2026-11-21).** New: `tools/story.py` (chapter files from docs/synopsis.md, 40 parts in
+  work/qa/story/chapters; manifest work/qa/story/manifest.tsv), `docs/story-reviewer-brief.md` (plugin reviewer
+  agents, one per part; Minors -> docs/polish.md "Story pass Minors"), `tools/polish.py` (split open polish lines
+  into work/tl/pNN.tsv for translator agents per `docs/polish-brief.md`; `merge pNN` = batches merge + tick),
+  `tools/release.py` (all gates -> xdelta per changed .bin + re-apply check -> release/Growlanser_EN_vX.Y.zip with
+  docs/release-readme.txt), README.md filled (base hashes, status table). jp_left byte scan is noise here (u16 glyph
+  text, packed English): release.py checks the script instead (leftover_jp) + textcover for runtime.
+  Story verdicts so far: see work/qa/story/verdicts (c01_1..c03_6 done; Importants fixed: scen019.0192 "My
+  teacher?!", scen029.0309 "Uncle, ..."; c03_4's "-san after {s:} variable" Important overruled by glossary rule).
+  Polish: first round p01-p08 (435 ids, the lines open before the story pass) by plugin translator agents, merged
+  with `polish.py merge` (p01-p04: 223 fixed, 16 waived); p09 = global system-message pass (tools/sysmsg.py, 62
+  lines); p10 = c05_1's 3 Importants. batches.py check_batch no longer strips U+3000 (edge "　{n}" lines failed).
+  Polish round 1 done: p01-p08 all merged (~430 fixed, ~25 waived, reasons on the ticked lines); p11 = 2 lint fixes
+  (scen113.0108 choice prompt, msys.magic.0027 widow). `batches.py check`: 27177 entries, 0 problems; test_fit OK.
+  49 polish lines open (story Minors, p08 siblings, 3 id-less). Story reviews done on the PRE-polish text: c01_1
+  c01_2 c02_1 c02_2 c03_1..c03_6 c04 c05_1 c05_2 (13/40; Importants fixed), verdicts moved to
+  work/qa/story/verdicts_pre_polish/ because the polish merges changed 39/40 chapter files (manifest re-inited on
+  the current text). **Next:** for those 13, a diff review (old text: `git worktree add ../gl-old 40db776`, copy
+  tools/story.py into it (40db776 predates it), run `python -X utf8 tools/story.py` there -> ../gl-old/work/qa/story/chapters; diff per chapter; a reviewer
+  agent checks only the changed lines in context; write `fixed`/`ok` verdicts into work/qa/story/verdicts) or a plain
+  re-review; then review c06_1..c17_2 (27 left, 4 at a time, docs/story-reviewer-brief.md); then a second polish round
+  for the "Story pass Minors" section (`polish.py split` numbers on from p11; tools/polish.py ids for id-less lines:
+  vqa-s15 msys.skills trigger label, vqa-s15 font colon, story-c01_2 cipher check); recurring mid-sentence page
+  breaks in story Minors: consider a wrapper rule (prefer a page break at a sentence end). Text changes invalidate tour/stress manifests (--build hash) and cover hashes: re-tour changed
+  scenes or `qa_gate waive`, and rerun cover.py before release.py.
 - **Phase 8 session 17 (2026-11-21): phase 8 gate green.** Build disc 1 a5c879ef57e23f55c749741ccbbef7456ee4e690,
   disc 2 T1 0742c53077f3bca40565943f6d4776a378ac7fc9, T2 485017be606e6b517760076c9b05ceba89f5cdba; smoke ok;
   check.py 52 tests OK. scen014.0185 "Take it" centring committed (batches.EDGE_FREE entry). Re-tour 84/84 (credits

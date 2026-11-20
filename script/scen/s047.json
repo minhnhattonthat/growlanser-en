@@ -39,7 +39,7 @@
   {
    "id": "scen047.0005",
    "jp": "{v:0013}おい、誰か、あのカレンとかいう娘を！",
-   "en": "{v:0013}Hey, someone! That girl, Karen or whatever her{n}name is!",
+   "en": "{v:0013}Hey! Someone deal with that girl, Karen or whatever{n}her name is!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen047.0054",
    "jp": "ごめんなさい‥‥。{n}私のせいで、みなさんまで危険な目に{n}あわせてしまって‥‥。",
-   "en": "I'm sorry... I've put all of you in danger because{n}of me...",
+   "en": "I'm sorry... Because of me, all of you are in{n}danger, too...",
    "term": "end"
   },
   {
@@ -435,7 +435,7 @@
   {
    "id": "scen047.0071",
    "jp": "『{FFEF}ヴィンダル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Vindar{FFF1}', but can't carry any more...",
+   "en": "Found '{FFEF}Vindar{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {

@@ -103,13 +103,13 @@
   {
    "id": "scen190.0015",
    "jp": "{v:0036}そんな！？",
-   "en": "{v:0036}No?!",
+   "en": "{v:0036}Impossible!",
    "term": "end"
   },
   {
    "id": "scen190.0016",
    "jp": "{v:0037}目的は達成した！{n}退却するぞ！",
-   "en": "{v:0037}Our objective is complete! Retreat!",
+   "en": "{v:0037}Objective achieved! Retreat!",
    "term": "end"
   },
   {

@@ -87,7 +87,7 @@
   {
    "id": "scen093.0013",
    "jp": "{v:0001}ちょっと向こうまで来てくれるかな？",
-   "en": "{v:0001}Could you come over there with me for a moment?",
+   "en": "{v:0001}Could you step over there with me for a moment?",
    "term": "end"
   },
   {
@@ -243,7 +243,7 @@
   {
    "id": "scen093.0039",
    "jp": "最初に出会った時から感じてはいたのだが、{n}本当に、お前は大した奴だな。{p}この戦い、負けられぬぞ？{n}絶対に勝とうな！",
-   "en": "I have felt it since we first met, but you truly{n}are remarkable.{p}We cannot afford to lose this battle. Let us be sure{n}to win!",
+   "en": "I have felt it since we first met, but you truly{n}are remarkable.{p}We cannot afford to lose this battle. We must win, no{n}matter what!",
    "term": "end"
   },
   {
@@ -721,7 +721,7 @@
   {
    "id": "scen093.0117",
    "jp": "{v:0014}わたし、お兄ちゃんが好き。{FFF9}{FFFB}{n}{v:0015}妹としてじゃなく、１人の女として、好き。{p}{v:0016}本当の兄妹だったら、恋愛は出来ないけど、{n}本当のお兄ちゃんじゃないから、結婚もできる。{p}{v:0017}あの涙が止まってから、わたしの夢はお兄ちゃんの{n}お嫁さんになることだったの。",
-   "en": "{v:0014}I love you, Big Brother.{FFF9}{FFFB} {v:0015}Not as your sister. I love you{n}as a woman.{p}{v:0016}If we were brother and sister by blood, we couldn't be{n}lovers. But since we aren't, we could even get married.{p}{v:0017}Ever since those tears stopped, I've dreamed of{n}becoming your bride.",
+   "en": "{v:0014}I love you, Big Brother.{FFF9}{FFFB} {v:0015}Not as your sister. I love you{n}the way a woman loves a man.{p}{v:0016}If we were brother and sister by blood, we couldn't be{n}lovers. But since we aren't, we could even get married.{p}{v:0017}Ever since those tears stopped, I've dreamed of{n}becoming your bride.",
    "term": "end"
   },
   {
@@ -1516,7 +1516,7 @@
   {
    "id": "scen093.0245",
    "jp": "{v:0003}ああ、お前はいい。{n}ちょっとコイツにだけの話なんで席を外してくれ。",
-   "en": "{v:0003}No, you stay here. This is just between me and him, so{n}give us some room.",
+   "en": "{v:0003}Nah, not you. This is just between me and him, so give{n}us some room.",
    "term": "end"
   },
   {

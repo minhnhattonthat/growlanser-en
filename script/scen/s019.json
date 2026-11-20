@@ -393,7 +393,7 @@
   {
    "id": "scen019.0064",
    "jp": "・今にも崩れそうだった",
-   "en": "・It looked ready to collapse.",
+   "en": "・It looked ready to collapse",
    "term": "end",
    "unref": true
   },
@@ -444,7 +444,7 @@
   {
    "id": "scen019.0072",
    "jp": "{v:0039}まさか、サンドラ様‥‥。",
-   "en": "{v:0039}Surely you don't mean, Sandra-sama...",
+   "en": "{v:0039}Sandra-sama, surely you don't mean...",
    "term": "end"
   },
   {
@@ -519,13 +519,13 @@
   {
    "id": "scen019.0084",
    "jp": "{v:0043}学院長はグローシアンの研究をしているし‥‥。",
-   "en": "{v:0043}And the Headmaster does research Growsians...",
+   "en": "{v:0043}And the Headmaster researches the Growsians...",
    "term": "end"
   },
   {
    "id": "scen019.0085",
    "jp": "{v:0044}可能性はあるということです。",
-   "en": "{v:0044}Then it is a possibility.",
+   "en": "{v:0044}So there is a possibility, yes.",
    "term": "end"
   },
   {
@@ -924,7 +924,7 @@
   {
    "id": "scen019.0151",
    "jp": "バーンシュタイン王国軍にも協力してもらわないと{n}我が軍だけでは無理かも知れませんね。",
-   "en": "Our army alone may not be enough. We may need the{n}assistance of the Kingdom of Burnstein's army.",
+   "en": "Our army alone may not be enough. We may need the{n}help of Burnstein's army as well.",
    "term": "end"
   },
   {
@@ -1044,7 +1044,7 @@
   {
    "id": "scen019.0171",
    "jp": "{v:0019}ほほぅ。そこまで知っているのか。{p}{FFF3}‥‥{FFF4}{v:001A}そうか。{n}マクスウェルの話を聞いたのだな？",
-   "en": "{v:0019}Ho! So you know that much already.{p}{FFF3}...{FFF4}{v:001A}I see. You heard what Maxwell had to say, then?",
+   "en": "{v:0019}Oho! So you know that much already.{p}{FFF3}...{FFF4}{v:001A}I see. You heard what Maxwell had to say, then?",
    "term": "end"
   },
   {
@@ -1119,7 +1119,7 @@
   {
    "id": "scen019.0183",
    "jp": "{v:0024}やはりそうか。ならば話は早い。{p}{v:0025}確かに魔水晶に含まれるグローシュは{n}燃えカスの様なものだ。{p}{v:0026}だが漠然と燃えカスと言っても、{n}どのように成分が違うのかはわかっていない。{p}{v:0027}そこでルイセのグローシュ波動との{n}比較をしてみたいのだ。",
-   "en": "{v:0024}Just as I thought. That will simplify matters.{p}{v:0025}Indeed, the Grosh within magic crystals is something{n}like burnt-out embers.{p}{v:0026}But that is only a vague comparison. We do not yet{n}know how its composition differs.{p}{v:0027}That is why I wish to compare it with Luise's{n}Grosh waves.",
+   "en": "{v:0024}Just as I thought. That will simplify matters.{p}{v:0025}Indeed, the Grosh within magic crystals is something{n}like ashes.{p}{v:0026}But that is only a vague comparison. We do not yet{n}know how its composition differs.{p}{v:0027}That is why I wish to compare it with Luise's{n}Grosh waves.",
    "term": "end"
   },
   {
@@ -1173,13 +1173,13 @@
   {
    "id": "scen019.0192",
    "jp": "{v:0032}御師様！？",
-   "en": "{v:0032}Master?!",
+   "en": "{v:0032}My teacher?!",
    "term": "end"
   },
   {
    "id": "scen019.0193",
    "jp": "{v:0033}さすが皆既日食のグローシアン。{n}この装置の限界量まで抽出できるとはな。{n}だが、これだけあれば我が真の力を取り戻すには十分。",
-   "en": "{v:0033}Worthy of a Growsian born during a total solar eclipse.{n}To think I could extract enough to fill this device to its{n}limit. This will be enough to restore my true power.",
+   "en": "{v:0033}Just what I would expect of a Growsian born during a{n}total solar eclipse! To think I could extract enough to{n}fill this device to its limit. Still, this is enough to{p}restore my true power.",
    "term": "end"
   },
   {
@@ -1227,7 +1227,7 @@
   {
    "id": "scen019.0201",
    "jp": "　{n}　　　『{FFEF}マジックジャマー{FFF1}』を受け取った！",
-   "en": "　{n}　　　Received a '{FFEF}Magic Jammer{FFF1}'!",
+   "en": "　{n}　　　Received '{FFEF}Magic Jammer{FFF1}'!",
    "term": "end"
   },
   {

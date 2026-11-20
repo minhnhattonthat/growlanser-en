@@ -135,7 +135,7 @@
   {
    "id": "scen076.0021",
    "jp": "{v:0009}たしかグローシアンと一緒なら、{n}その影響を受けないみたいだけど。{p}{v:000A}普通の人には全く違う地形に見えるそうだ。{n}特にこのあたりには近づけないみたいだよ。",
-   "en": "{v:0009}If I remember correctly, it doesn't affect you if you're{n}with a Growsian.{p}{v:000A}Apparently, ordinary people see completely different{n}terrain. They can't even get near this area{n}in particular.",
+   "en": "{v:0009}If I remember correctly, it doesn't affect you if you're{n}with a Growsian.{p}{v:000A}Apparently, ordinary people see completely different{n}terrain. It seems they can't get near this particular{n}area at all.",
    "term": "end"
   },
   {
@@ -291,13 +291,13 @@
   {
    "id": "scen076.0047",
    "jp": "『{FFEF}浄化のリボン{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Purifying Ribbon{FFF1}', but you can't carry{n}any more...",
+   "en": "Found '{FFEF}Purifying Ribbon{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen076.0048",
    "jp": "　{n}　　　　『{FFEF}浄化のリボン{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　Obtained a '{FFEF}Purifying Ribbon{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Purifying Ribbon{FFF1}'!",
    "term": "end"
   },
   {
@@ -555,7 +555,7 @@
   {
    "id": "scen076.0091",
    "jp": "『{FFEF}グリトニル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Glitnir{FFF1}', but you cannot carry any more...",
+   "en": "Found '{FFEF}Glitnir{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {

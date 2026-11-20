@@ -194,7 +194,7 @@
   {
    "id": "scen119.0030",
    "jp": "援護は任せてくれ。",
-   "en": "Leave the support to me.",
+   "en": "I'll cover you.",
    "term": "end"
   },
   {
@@ -330,7 +330,7 @@
   {
    "id": "scen119.0052",
    "jp": "がんばって下さいね。",
-   "en": "Please do your best.",
+   "en": "Do your best, okay?",
    "term": "end"
   },
   {
@@ -378,7 +378,7 @@
   {
    "id": "scen119.0060",
    "jp": "『{FFEF}ヴィーザルブーツ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found '{FFEF}Vidar Boots{FFF1}', but you cannot carry any more...",
+   "en": "Found '{FFEF}Vidar Boots{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
@@ -396,13 +396,13 @@
   {
    "id": "scen119.0063",
    "jp": "『{FFEF}白銀のティアラ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "Found a '{FFEF}Silver Tiara{FFF1}', but you can't carry any more...",
+   "en": "Found '{FFEF}Silver Tiara{FFF1}', but you can't carry any more...",
    "term": "end"
   },
   {
    "id": "scen119.0064",
    "jp": "　{n}　　　　『{FFEF}白銀のティアラ{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　Obtained a '{FFEF}Silver Tiara{FFF1}'!",
+   "en": "　{n}　　　　Obtained '{FFEF}Silver Tiara{FFF1}'!",
    "term": "end"
   },
   {
@@ -450,7 +450,7 @@
   {
    "id": "scen119.0072",
    "jp": "　{n}　　　　　３１０００エルムを手に入れた！",
-   "en": "　{n}　　　　　Obtained 31000 Elm!",
+   "en": "　{n}　　　　　Received 31000 Elm!",
    "term": "end"
   },
   {

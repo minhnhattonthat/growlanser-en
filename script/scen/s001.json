@@ -605,7 +605,7 @@
   {
    "id": "scen001.0098",
    "jp": "かわいい妖精ちゃん、お元気？",
-   "en": "How are you, little fairy cutie?",
+   "en": "How are you, you adorable little fairy?",
    "term": "end"
   },
   {
@@ -687,7 +687,7 @@
   {
    "id": "scen001.0111",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was{n}just a manhole cover!",
+   "en": "　{n}Obtained '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {
@@ -741,7 +741,7 @@
   {
    "id": "scen001.0120",
    "jp": "デリス村の村長は私の叔父なのよ。{n}今でこそ、ぼ～っとして見えてるけど{n}昔はけっこう強かったらしいわ。",
-   "en": "The Village Chief of Delis Village is my uncle. He may look{n}rather absentminded now, but apparently he was quite{n}strong in his younger days.",
+   "en": "The village chief of Delis is my uncle. He may look rather{n}absentminded now, but apparently he was quite strong{n}in his younger days.",
    "term": "end"
   },
   {
@@ -777,7 +777,7 @@
   {
    "id": "scen001.0126",
    "jp": "決まりだな。{n}魔法学院はデリス村の先にあるブローニュ村から、{n}さらに東へ行ったところだ。",
-   "en": "That's settled, then. The Magic Academy is farther{n}east from Boulogne Village, which is past Delis Village.",
+   "en": "That's settled, then. The Magic Academy lies further{n}east beyond Boulogne Village, which is past Delis Village.",
    "term": "end"
   },
   {
@@ -967,7 +967,7 @@
   {
    "id": "scen001.0157",
    "jp": "　第２４回闘技大会開催の案内{n}　　～詳しくはグランシル市にて～",
-   "en": "　Announcing the 24th Combat Tournament! Inquire in{n}Grancil for details.",
+   "en": "　Announcing the 24th Tournament! Inquire in Grancil{n}for details.",
    "term": "end"
   },
   {
@@ -1033,7 +1033,7 @@
   {
    "id": "scen001.0168",
    "jp": "あなたも聞きたい？",
-   "en": "Would you like to hear, too?",
+   "en": "Would you like to hear it, too?",
    "term": "end"
   },
   {
@@ -1367,7 +1367,7 @@
   {
    "id": "scen001.0223",
    "jp": "アリガトね、おばちゃん！",
-   "en": "Thanks, ma'am!",
+   "en": "Thanks, Auntie!",
    "term": "end"
   }
  ]

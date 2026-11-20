@@ -51,7 +51,7 @@
   {
    "id": "scen106.0007",
    "jp": "{v:000F}それじゃさ～。{n}コムスプリングスへ行こうよ！",
-   "en": "{v:000F}Then heyyy! Let's go to Comsprings!",
+   "en": "{v:000F}Well theeen! Let's go to Comsprings!",
    "term": "end"
   },
   {
@@ -123,7 +123,7 @@
   {
    "id": "scen106.0019",
    "jp": "{v:002A}それに、以前言っていたな。{n}母親がフェザリアンだって。",
-   "en": "{v:002A}You mentioned before that your mother was a{n}Featherian, too.",
+   "en": "{v:002A}And you mentioned before that your mother was{n}a Featherian.",
    "term": "end"
   },
   {
@@ -147,7 +147,7 @@
   {
    "id": "scen106.0023",
    "jp": "{v:002F}僕の祖父は若い頃、孤児たちを引き取って、{n}ここに村を作った。{p}{v:0030}孤児たちを養うために畑を作り、{n}出来た物を売って暮らしの必需品を買った。{n}それがこの村のはじまりだ。{p}{v:0031}最初は養われることに甘えていた孤児たちだったけど、{n}そのうち、自然と畑仕事を手伝うように{n}なったそうだよ。{p}{v:0032}僕の父も孤児の１人だった。",
-   "en": "{v:002F}When my grandfather was young, he took in orphans{n}and founded a village here.{p}{v:0030}He planted fields to feed them and sold the crops to{n}buy everyday necessities. That was how this{n}village began.{p}{v:0031}At first, the orphans took being cared for for{n}granted. But in time, they began helping in the fields of{n}their own accord.{p}{v:0032}My father was one of those orphans.",
+   "en": "{v:002F}When my grandfather was young, he took in orphans{n}and founded a village here.{p}{v:0030}He planted fields to feed them and sold the crops to{n}buy everyday necessities. That was how this{n}village began.{p}{v:0031}At first, the orphans took his care for granted. But in{n}time, they began helping in the fields of their{n}own accord.{p}{v:0032}My father was one of those orphans.",
    "term": "end"
   },
   {
@@ -450,7 +450,7 @@
   {
    "id": "scen106.0073",
    "jp": "焼き物が並んでいる。{n}人の感性とはどこか違う気がする‥‥。",
-   "en": "Pottery is arranged here. Something about it seems{n}different from human tastes...",
+   "en": "Pottery is lined up here. Its sense of beauty feels{n}somehow unlike a human's...",
    "term": "end"
   },
   {
@@ -776,7 +776,7 @@
   {
    "id": "scen106.0127",
    "jp": "　　　　　{v:0025}{FFEF}奴の能力が弱っている今なら{n}　　　　　この念波を遮るものはない。{n}　　　　　　さぁ、使命を果たすのだ。{FFF1}",
-   "en": "　　　　　{v:0025}{FFEF}Now that those powers have weakened,{n}nothing can{n}block this telepathic signal. Now, fulfill your mission.{FFF1}",
+   "en": "　　　　　{v:0025}{FFEF}Now that her powers have weakened,{n}nothing can block this telepathic signal. Now, fulfill your{n}mission.{FFF1}",
    "term": "end"
   },
   {

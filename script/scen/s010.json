@@ -289,7 +289,7 @@
   {
    "id": "scen010.0046",
    "jp": "{v:002E}だらしないなぁ！{n}ここのところ怠けてたからでしょ？{p}{FC02}{v:002F}ほら、きりきり歩く！{n}パーティーくらいなら体力も使わないでしょ？",
-   "en": "{v:002E}Oh, get it together! This is what happens when you{n}laze around all the time!{p}{FC02}{v:002F}Come on, get moving! A party's hardly going to wear{n}you out, is it?",
+   "en": "{v:002E}Oh, get it together! This is what happens when you've{n}been lazing around lately!{p}{FC02}{v:002F}Come on, get moving! A party's hardly going to wear{n}you out, is it?",
    "term": "end"
   },
   {
@@ -313,7 +313,7 @@
   {
    "id": "scen010.0050",
    "jp": "隣の魚だけど、毎日新鮮なものになっているんだよ。{n}ずっと同じ魚を置いてあるわけじゃないのよ。{n}迷ったあげく、結局はソテーにしちゃうのよね[01BE]",
-   "en": "That fish over there is replaced with a fresh one{n}every day, you know. It's not the same fish sitting{n}there all this time. After all my dithering, I always end{p}up sautéing it.[01BE]",
+   "en": "That fish over there is replaced with a fresh one{n}every day, you know. We don't leave the same fish{n}sitting there forever. After all my dithering, I always{p}end up sautéing it.[01BE]",
    "term": "end"
   },
   {
@@ -779,7 +779,7 @@
   {
    "id": "scen010.0126",
    "jp": "{v:001E}ええと、ヴェンツェルはわたし達が倒したゲヴェルと、{n}グローシアンとを融合した存在なんです。{p}{v:001F}そして、時空を自由に操る能力まで持っている{n}らしいんです。",
-   "en": "{v:001E}Um, Wenzel is a fusion of the Gevel we defeated and{n}a Growsian.{p}{v:001F}And apparently, he can even manipulate space and time{n}at will.",
+   "en": "{v:001E}Um, Wenzel is a fusion of Gevel, whom we defeated, and{n}a Growsian.{p}{v:001F}And apparently, he can even manipulate space and time{n}at will.",
    "term": "end"
   },
   {
@@ -1614,7 +1614,7 @@
   {
    "id": "scen010.0260",
    "jp": "私たちの戦いは、あなた達とは違うけど、{n}心は一緒よね！？",
-   "en": "Our fight may be different from yours, but our hearts{n}are together, aren't they?!",
+   "en": "Our fight may be different from yours, but we're{n}united in spirit, aren't we?!",
    "term": "end"
   },
   {

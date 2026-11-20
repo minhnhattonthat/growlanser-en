@@ -201,7 +201,7 @@
   {
    "id": "scen021.0032",
    "jp": "{v:004E}あなたの哮は子供の頃に良く聞いた。",
-   "en": "{v:004E}I heard a great deal about you as a child.",
+   "en": "{v:004E}I heard a great deal about you when I was a child.",
    "term": "end"
   },
   {
@@ -213,7 +213,7 @@
   {
    "id": "scen021.0034",
    "jp": "{v:0050}２年ほど前になるか。{n}旅の最中で賊に会い、腕と眼を奪われた。{n}これはアイツの母親に作ってもらったものだ。",
-   "en": "{v:0050}About two years ago, I reckon. Ran into bandits on the{n}road. They took my arm and my eyes. That one's{n}mother made these for me.",
+   "en": "{v:0050}About two years ago, I reckon. Ran into bandits on the{n}road. They took my arm and my eyes. This kid's mother{n}made these for me.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen021.0050",
    "jp": "‥‥{v:0037}何だ、お前たちか。",
-   "en": "...{v:0037}Oh, it's you lot.",
+   "en": "...{v:0037}Oh. It's you.",
    "term": "end"
   },
   {
@@ -357,7 +357,7 @@
   {
    "id": "scen021.0058",
    "jp": "{v:0041}うるさいな！{n}１人にしてくれないか！",
-   "en": "{v:0041}Be quiet! Can you not leave me alone?!",
+   "en": "{v:0041}Be quiet! Just leave me alone, will you?!",
    "term": "end"
   },
   {
@@ -675,7 +675,7 @@
   {
    "id": "scen021.0109",
    "jp": "何事も、ほどほどが一番じゃ。{n}そうは思いませんかな？",
-   "en": "Moderation in all things is best. Wouldn't you{n}agree, eh?",
+   "en": "Moderation in all things, I always say. Wouldn't{n}you agree?",
    "term": "end"
   },
   {

@@ -509,7 +509,7 @@
   {
    "id": "scen000.0081",
    "jp": "‥‥{v:0049}そうですね。",
-   "en": "...{v:0049}Yes, that is true.",
+   "en": "...{v:0049}Indeed.",
    "term": "end"
   },
   {
@@ -557,7 +557,7 @@
   {
    "id": "scen000.0089",
    "jp": "{v:0051}いいなぁ‥‥。{p}{v:0052}ねぇ、わたしも一緒に行っていい？",
-   "en": "{v:0051}That sounds so nice...{p}{v:0052}May I go along too?",
+   "en": "{v:0051}That sounds so nice...{p}{v:0052}Hey, can I come along too?",
    "term": "end"
   },
   {
@@ -673,7 +673,7 @@
   {
    "id": "scen000.0108",
    "jp": "　{n}　　　　『{FFEF}シビレ玉{FFF1}』を２個手に入れた！",
-   "en": "　{n}　　　　Received 2 '{FFEF}Paralysis Orb{FFF1}' items!",
+   "en": "　{n}　　　　Received 2 '{FFEF}Paralysis Orbs{FFF1}'!",
    "term": "end"
   },
   {
@@ -961,7 +961,7 @@
   {
    "id": "scen000.0156",
    "jp": "{v:0037}あ、一応たとえ話だからね。{n}念のため言っとかないと、{n}アンタならやりかねないからさ。",
-   "en": "{v:0037}Oh, that's just a figure of speech, okay? I'd better say{n}so, just in case. With you, I wouldn't put it past you to{n}actually try!",
+   "en": "{v:0037}Oh, that's just a figure of speech, okay? I'd better say{n}so, just in case. Knowing you, you might actually try it!",
    "term": "end"
   },
   {
@@ -973,7 +973,7 @@
   {
    "id": "scen000.0158",
    "jp": "{v:003C}優等生って言ってもいいんじゃないかな？",
-   "en": "{v:003C}I guess you could call yourself a model student!",
+   "en": "{v:003C}I guess we could call you a model student!",
    "term": "end"
   },
   {

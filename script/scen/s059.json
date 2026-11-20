@@ -403,7 +403,7 @@
   {
    "id": "scen059.0065",
    "jp": "{v:0016}自分のことだ、知っていたさ‥‥。{p}{v:0017}私の頭の中に、あの声が響き始めてから、{n}私の心は２つになってしまった。{p}{v:0018}ゲヴェルに作られた自分‥‥。{n}人としての自分‥‥。{p}{v:0019}どちらが本来の自分だかわからぬが‥‥{n}ゲヴェルの支配はあまりにも強かった。{n}次第に自分が自分でなくなり‥‥。",
-   "en": "{v:0016}It was my own nature. Of course I knew...{p}{v:0017}Ever since that voice began echoing in my head, my{n}mind has been divided in two.{p}{v:0018}The self that Gevel created... And my human self...{p}{v:0019}I do not know which was my true self... but Gevel's hold{n}was far too strong. Little by little, I ceased to{n}be myself...",
+   "en": "{v:0016}Of course I knew the truth about myself...{p}{v:0017}Ever since that voice began echoing in my head, my{n}mind has been divided in two.{p}{v:0018}The self that Gevel created... And my human self...{p}{v:0019}I do not know which was my true self... but Gevel's hold{n}was far too strong. Little by little, I ceased to{n}be myself...",
    "term": "end"
   },
   {
@@ -817,7 +817,7 @@
   {
    "id": "scen059.0134",
    "jp": "{v:006C}君が女であることを必死で隠しているようだから、{n}みんなで気づかないフリをしていようってね、{n}アーネストが‥‥。",
-   "en": "{v:006C}You seemed so determined to hide the fact that you{n}were a woman, Ernest suggested we all pretend not{n}to notice...",
+   "en": "{v:006C}Since you seemed so determined to hide the fact that{n}you were a woman, Ernest suggested we all pretend{n}not to notice...",
    "term": "end"
   },
   {
@@ -1051,7 +1051,7 @@
   {
    "id": "scen059.0173",
    "jp": "‥‥{v:0001}長かったね‥‥。",
-   "en": "...{v:0001}It's been so long...",
+   "en": "...{v:0001}It was such a long road...",
    "term": "end"
   },
   {

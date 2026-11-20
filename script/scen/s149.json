@@ -99,7 +99,7 @@
   {
    "id": "scen149.0015",
    "jp": "{v:0010}それでいいだろう。{n}それじゃ、解散だ。",
-   "en": "{v:0010}Sounds good. All right, break up.",
+   "en": "{v:0010}Sounds good. All right, let's split up.",
    "term": "end"
   },
   {
@@ -677,7 +677,7 @@
   {
    "id": "scen149.0110",
    "jp": "わしも打ち上げ花火のように{n}派手な魔法を使いたいのう‥‥。",
-   "en": "I wish I could cast magic as flashy as those{n}fireworks, eh...",
+   "en": "Ah, if only I too could cast magic as flashy as{n}those fireworks...",
    "term": "end"
   },
   {
@@ -785,7 +785,7 @@
   {
    "id": "scen149.0128",
    "jp": "ここのところ、化け物が出没するので、{n}巡回をしているところです。{p}化け物を操っているらしい、{n}怪しい魔法使いの姿は何度も見かけるのですが、{n}兵が詰めかける頃には消え失せてしまうのです。",
-   "en": "Monsters have been appearing lately, so we're out{n}on patrol.{p}We've spotted a suspicious magician who seems to be{n}controlling them several times, but he vanishes by the{n}time our troops converge on him.",
+   "en": "Monsters have been appearing lately, so we're out{n}on patrol.{p}We've repeatedly spotted a suspicious magician who{n}seems to be controlling them, but he vanishes by the{n}time our troops converge on him.",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen149.0151",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "　{n}Obtained a '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was{n}just a manhole cover!",
+   "en": "　{n}Obtained '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
    "term": "end"
   },
   {

@@ -518,7 +518,7 @@
   {
    "id": "scen113.0080",
    "jp": "俺の大切なメモ。{n}踊り場に落としちまった。",
-   "en": "I dropped my precious memo on the stair landing.",
+   "en": "I dropped my precious note on the stair landing.",
    "term": "end"
   },
   {
@@ -686,7 +686,7 @@
   {
    "id": "scen113.0108",
    "jp": "それでもあげるって言うなら、止めないけど？",
-   "en": "Still, if you insist on giving it to him, I won't stop you.",
+   "en": "If you REALLY wanna give it to him, fine by me!",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen113.0116",
    "jp": "　{n}　　　　　『{FFEF}青銅の剣{FFF1}』を手に入れた！",
-   "en": "　{n}　　　　　Obtained a '{FFEF}Bronze Sword{FFF1}'!",
+   "en": "　{n}　　　　　Obtained '{FFEF}Bronze Sword{FFF1}'!",
    "term": "end"
   },
   {
@@ -831,7 +831,7 @@
   {
    "id": "scen113.0131",
    "jp": "ちょっと！{n}そんなに熱くなってどうするのよ！{n}もっと落ち着いてよ！",
-   "en": "Hey! What's getting all worked up going to solve?! Calm{n}down!",
+   "en": "Hey! What good is getting so worked up?! Calm down!",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen113.0142",
    "jp": "そうか！{n}お前のせいだ！{n}お前が告白するようにけしかけたからだ！{p}おかげで俺たちは、こんな惨めな思いをする{n}はめになった！{n}この責任、どうとってくれる！",
-   "en": "That's it! It's your fault! You're the one who egged us{n}on to tell them how we felt!{p}Now look how miserable we are! How are you going to{n}make this up to us?!",
+   "en": "That's it! It's your fault! You're the one who egged us{n}on to confess!{p}Now look how miserable we are! How are you going to{n}make this up to us?!",
    "term": "end"
   },
   {
@@ -983,7 +983,7 @@
   {
    "id": "scen113.0156",
    "jp": "　{n}『快適なプレイのために、一度はコンフィグを！{n}　　　　　　　　タイトル画面から選べます。』",
-   "en": "　{n}'For a more comfortable playing experience, try Config{n}at least once! You can select it from the title screen.'",
+   "en": "　{n}'For smoother play, check Config at least once! You can{n}select it from the title screen.'",
    "term": "end"
   },
   {
@@ -995,13 +995,13 @@
   {
    "id": "scen113.0158",
    "jp": "お、おい！{n}そこの女兵士、めちゃくちゃカッコ良くないか？",
-   "en": "H-hey! Isn't that woman soldier over there{n}incredibly cool?",
+   "en": "H-hey! Isn't that female soldier over there{n}incredibly cool?",
    "term": "end"
   },
   {
    "id": "scen113.0159",
    "jp": "う～ん‥‥。{n}お前が邪魔でよく見えないが‥‥。{p}なんか良さそうな雰囲気だな。",
-   "en": "Hmm... You're in the way, so I can't see her very well...{p}But she seems pretty nice.",
+   "en": "Hmm... You're in the way, so I can't see her very well...{p}But she looks pretty great.",
    "term": "end"
   }
  ]

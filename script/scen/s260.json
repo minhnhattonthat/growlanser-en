@@ -237,7 +237,7 @@
   {
    "id": "scen260.0037",
    "jp": "{v:0071}それじゃ、弟さんには？",
-   "en": "{v:0071}Then, against your brother...?",
+   "en": "{v:0071}Then... did you beat your brother?",
    "term": "end"
   },
   {
@@ -262,7 +262,7 @@
   {
    "id": "scen260.0041",
    "jp": "・ひどい父親だと同情する",
-   "en": "・Sympathize that her father was cruel",
+   "en": "・Pity her for her cruel father",
    "term": "end",
    "unref": true
   },
