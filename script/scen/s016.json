@@ -360,7 +360,7 @@
   {
    "id": "scen016.0058",
    "jp": "{v:003A}では、『{FFEF}発生の元となる現象{FFF1}』とは何だと思いますか？",
-   "en": "{v:003A}Now, what do you think '{FFEF}the phenomenon that gives rise{n}to them{FFF1}' might be?",
+   "en": "{v:003A}So, what is '{FFEF}the phenomenon behind them{FFF1}'?",
    "term": "end"
   },
   {
@@ -1583,7 +1583,7 @@
   {
    "id": "scen016.0256",
    "jp": "{v:00D7}ねぇ‥‥絶対にルイセちゃんを元に戻してあげようね。",
-   "en": "{v:00D7}Hey... we're going to get Luise-chan back to normal, no{n}matter what. Right?",
+   "en": "{v:00D7}Hey... we'll get Luise-chan back to normal. Right?",
    "term": "end"
   },
   {

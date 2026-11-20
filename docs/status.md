@@ -2,7 +2,21 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 11: graphics + coverage done; next: re-tour for the gate).
+- **Phase:** 8. QA in the emulator, in progress (session 12: tour gate green; next: the rest of the phase 8 gate list).
+- **Phase 8 session 12 (2026-11-20): vqa on re-tour 6.** Re-tour 6 (84 warps, build e694af15, work/qa/tourbuild)
+  -> qa_gate init -> 18 chunks of 12 by plugin visual-qa agents one at a time: 210 ok, 3 issue, all fixed
+  (verdicts/recheck_4.tsv); `qa_gate check` exit 0. Fixes (build ab9f96a84322c9abbfdcf5171415a17dbd935b1e, disc 2
+  T1 07e4918eaf320505a7af8d9ba102792ead1fc60f; smoke ok, check.py 46 tests OK; work/qa/fix9):
+  (a) choice prompts that wrapped to 2 lines where JP is 1 (option scrolled out of the 3-row box): 24 shortened
+  to one line (s008 s016 s018 s019 s038 s067 s069 s070 s112 s113 s120 s169 s213); new test
+  test_fit.test_choice_prompts (prompts before "・" options only; built-in Yes/No dev prompts in scen018 not
+  covered: none left with {n}). (b) scen001.0174/0176/0179 re-paged: pages end at sentence ends.
+  Gate caveat: the tour ran on e694af15; current build differs by those text entries only. Re-tour (or `qa_gate
+  waive` with reason) on the final build before release.
+  Polish candidates (original Latin art, not bugs; ask owner): spell-screen nameplate art "RUISE" vs glossary
+  Luise; item screen art "ACCESORIES"; field menu art SPELL/TACTICS vs our popups "Magic"/"Strategy".
+  Non-bugs seen: captions mid-open/close ("Dutside tne...Cacin" = closing frame, work/qa/cap_bandits f002270
+  reads right), name tag box before text, "NOW LOA" sweep, battle ring labels overlapping mid-rotation.
 - **Phase 8 session 11 (2026-11-20): G5b + "morth".** (a) G5b done: credits cast line now "Player / PLAYER"
   (D17: default hero name kept full-width ＰＬＡＹＥＲ via KEEP_JP; atlas block lettered, credits.py player_label;
   graphics.md G5b; shot work/qa/g5b/run f011400). Hero name now shows in full-width glyphs everywhere (as a typed

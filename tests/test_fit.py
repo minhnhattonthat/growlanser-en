@@ -34,6 +34,21 @@ class Fit(unittest.TestCase):
                for err, m in fit.lint(e["en"], fit.budget(e["id"], e), font, codec)]
         self.assertEqual(bad, [])  # warnings too: an unmeasured guess must still hold (fit the JP's own bound)
 
+    def test_choice_prompts(self):
+        # a prompt shares the 3-row box with its "・" options: an extra EN line scrolls an option out of view
+        # shortcut: only prompts followed by "・" entries; built-in Yes/No prompts (scen018 dev menu) are not marked
+        import json
+        import re
+        lines = lambda s: len(re.split(r"\{n\}|\n", s.split("{p}")[-1]))
+        bad = []
+        for f in sorted((Path(__file__).resolve().parents[1] / "script" / "scen").glob("*.json")):
+            es = json.loads(f.read_text(encoding="utf-8"))["entries"]
+            for e, nx in zip(es, es[1:]):
+                if nx["jp"].startswith("・") and not e["jp"].startswith("・") and e["en"] \
+                        and lines(e["en"]) > lines(e["jp"]):
+                    bad.append(e["id"])
+        self.assertEqual(bad, [])
+
 
 if __name__ == "__main__":
     unittest.main()

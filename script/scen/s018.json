@@ -673,25 +673,25 @@
   {
    "id": "scen018.0099",
    "jp": "ミーシャに花冠をもらったことにする？？",
-   "en": "Set yourself as having received a Flower Crown{n}from Misha??",
+   "en": "Set yourself as given Misha's Flower Crown??",
    "term": "end"
   },
   {
    "id": "scen018.0100",
    "jp": "花畑が村にないことを聞いた事にする？",
-   "en": "Set yourself as having heard there is no flower field in{n}the village?",
+   "en": "Set yourself as told the village has no flower field?",
    "term": "end"
   },
   {
    "id": "scen018.0101",
    "jp": "ＢＣ密談イベント、アリオスト連れて失敗扱いする？",
-   "en": "Mark the BC secret meeting event as failed because you{n}brought Ariost?",
+   "en": "Fail the BC secret meeting (brought Ariost)?",
    "term": "end"
   },
   {
    "id": "scen018.0102",
    "jp": "Ｃ国関所を通行する時の職業は？",
-   "en": "What occupation did you claim when passing through{n}Country C's checkpoint?",
+   "en": "Your cover job at Country C's checkpoint?",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen018.0109",
    "jp": "ミーシャを逃走させず、うまく慰めた？",
-   "en": "Did you comfort Misha successfully and keep her from{n}running away?",
+   "en": "Comforted Misha and kept her from running away?",
    "term": "end"
   },
   {
@@ -750,7 +750,7 @@
   {
    "id": "scen018.0111",
    "jp": "洞窟にて、ジュリアンに父の行為を納得させた？",
-   "en": "In the cave, did you convince Julian to accept what{n}Julian's father had done?",
+   "en": "In the cave, did Julian accept his father's deed?",
    "term": "end"
   },
   {
@@ -2479,7 +2479,7 @@
   {
    "id": "scen018.0380",
    "jp": "先に変更数値を指定して～。上限下限に注意してね。",
-   "en": "First, pick how much to change it by! Watch those{n}upper and lower limits.",
+   "en": "First, pick how much to change it by! Mind the limits.",
    "term": "end"
   },
   {

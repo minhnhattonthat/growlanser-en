@@ -1003,7 +1003,7 @@
   {
    "id": "scen112.0162",
    "jp": "じゃあさ、これからの冒険、何を楽しみにしてる？",
-   "en": "So, what are you looking forward to on{n}our adventure?",
+   "en": "What are you looking forward to on our adventure?",
    "term": "end"
   },
   {
@@ -1050,7 +1050,7 @@
   {
    "id": "scen112.0169",
    "jp": "あと‥‥、冒険に出るための特訓とかしてたの？",
-   "en": "And... did you do any special training to get ready for{n}our adventure?",
+   "en": "And... any special training for our adventure?",
    "term": "end"
   },
   {
@@ -1668,7 +1668,7 @@
   {
    "id": "scen112.0269",
    "jp": "左から順に、どう並んでいると思う？",
-   "en": "What order do you think they're in, starting from{n}the left?",
+   "en": "What order do you think they're in, from the left?",
    "term": "end"
   },
   {

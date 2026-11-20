@@ -534,7 +534,7 @@
   {
    "id": "scen067.0082",
    "jp": "劇場をつくるには１２００エルム必要になりますが？",
-   "en": "Building a theater will cost 1,200 Elm. Is{n}that acceptable?",
+   "en": "A theater will cost 1,200 Elm. Is that acceptable?",
    "term": "end"
   },
   {
@@ -560,7 +560,7 @@
   {
    "id": "scen067.0086",
    "jp": "展示場をつくるには１２００エルム必要になりますが？",
-   "en": "Building an exhibition hall will cost 1,200 Elm. Is{n}that acceptable?",
+   "en": "An exhibition hall will cost 1,200 Elm. Acceptable?",
    "term": "end"
   },
   {
