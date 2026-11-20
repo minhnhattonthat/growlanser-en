@@ -123,7 +123,14 @@ Older notes:
   builder 0x80086E80-0x80087150 (rows -> 0x801D7D10). Item data 28 bytes per id at 0x801024A0 (fields not mapped).
   exe.items json index = game id for id <= 93, ids 94-96 share entry 93, then json = id - 3.
 - Money (ELM): u32 0x80194304 (poke shown in the field menu; 1234567 drew "234567": 6 digits, game max unknown).
-- Still unmapped for stress cases: character stats/levels outside battle, hero/party name buffers.
+- Party stats (stress.lua, verified on the status/equip/spell screens): unit records 0x801929CC + k*0xE4 are live
+  in the field too: +0x19 LV, +0x1A AT, +0x1C DF, +0x20 MV, +0x22 EXP, +0x24 NEXT, +0x30/32 HP, +0x34/36 MP. HP/MP
+  draw 3 digits (9999 showed 999); on-screen STR/INT are derived (showed 255 at any poke).
+- Hero name: New Game copies the default from names slot 0 (EXE 0x800F2B74) to 0x8019431A at f796 (full-width
+  codes, FFFF end; name-entry field = 8 cells). Poking that buffer, or either EXE table copy (names 0x800F2B74,
+  units 0x800F32CC), does not change "PLAYER" in the field menu, and read hooks saw no menu reads of any of them:
+  the menu's copy is still unknown. Long names in dialogue are covered by the lint (fit.SUB_PX = 96 = 8 cells).
+- Still unmapped for stress cases: the menu's hero name copy, spell-known flags (full spell lists), party size (status "right" stays on the hero).
 
 ## Text coverage (tools/debug/cover.py, phase 8 session 10)
 - `msgforce.lua` replaces each scene-message printer call with the next message of the section and loops the VM on

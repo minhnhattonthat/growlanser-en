@@ -58,6 +58,20 @@ class Vwf(unittest.TestCase):
         _, got = self.run_text(text, col=3, row=1, big=True)
         self.assertEqual(got, expected(text, enfont.width(text) + 2))
 
+    def test_new_string_resyncs(self):
+        """Item list: the right name prints at col 8 on the row where the left name ended in cell 8. The printer
+        entry (0x8006E794 -> vwf_newstr) flags a new string, so the right name starts at 96 px, not at 90."""
+        e, c = self.emu, self.codec
+        left = "Boomerang Sword"
+        self.assertTrue(84 < enfont.width(left) < 96)
+        e.clear()
+        end = e.draw(c.encode(left))
+        self.assertEqual(end, 8)
+        e.write(e.sym["vwf_state"] + 12, vwfemu.struct.pack("<I", 1))  # what vwf_newstr stores (sp)
+        e.draw(c.encode("Double"), end, 0)
+        self.assertEqual(e.grid(96, 13), expected(left, 96))  # nothing of "Double" left of its column
+        self.assertEqual(e.grid(enfont.width("Double") + 2, 13, x0=96), expected("Double", enfont.width("Double") + 2))
+
     def test_interleaved_windows(self):
         """A typewriter line drawn a word at a time, with another window drawn between: no gap, no overlap."""
         e, c = self.emu, self.codec

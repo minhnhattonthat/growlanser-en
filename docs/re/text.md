@@ -91,7 +91,10 @@
     0x984-0x996.
 - asm/vwf.asm hooks both jals: pair codes (tools/enfont.py, PAIR 0x800 + i<<7 + j) are drawn as two proportional
   glyphs from font/en12.txt, game glyphs 12 px wide; the printer gets back s6 = ceil(x / 12). The texel x resyncs
-  to col*12 when the column, row or canvas changes. Code + English font sit in font cells 0x6A0-0x7CA.
+  to col*12 when the column, row or canvas changes, and at every printer entry (hook 0x8006E794 sets a new-string
+  flag, phase 8 session 13): the item list prints the right column's name at col 8 on the same row and canvas, so a
+  left name ending in cell 8 ("Boomerang Sword", 90 px) used to hand its pen to the right name ("...SwordD" /
+  "ouble Edge"). Code + English font sit in font cells 0x6A0-0x7CA.
 - **Typewriter** (verified, `tools/debug/vwflog.lua` exec hooks): dialogue goes through the print wrapper
   0x8006777C (a0 x col, a1 y row, a2 width, a3 height, stack: &dx, &dy, ...). With gp+0x87E = 1 (set at
   0x80065120) the caller at 0x800654B4 (and its twin after 0x800658E8) prints ONE code per frame into a 1x1-column

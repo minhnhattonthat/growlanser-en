@@ -292,6 +292,7 @@ HOOKS = {
     0x80070F18: "211062001400bf8f", 0x80070F84: "211062001400bf8f", 0x80070FF0: "211062001400bf8f",  # MSYS getters
     0x800710F4: "211062001400bf8f", 0x80071160: "211062001400bf8f", 0x800711CC: "211062001400bf8f",
     0x8006BBB8: "23108500c21f02002110430043a00200", 0x8006BCA0: "80200200",  # place popup frame width
+    0x8006E794: "80ffbd275800b0af",  # printer entry: new-string flag
 }
 _ASM = (ROOT / "asm" / "vwf.asm").read_text(encoding="utf-8")
 FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).group(1), 16) - RAM

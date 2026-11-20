@@ -69,7 +69,7 @@ def run(cue, out, name, frames, states, probes=(), every=500, then=None, disc=1,
         if not CARD.exists():
             return name, False, -1, "-", f"no {CARD.name}: run warp_all.py card_save first"
         cmd += ["--sav", str(CARD)]
-    elif name == "card_save":  # a blank formatted card in, the saved card copied out to CARD
+    elif name in ("card_save", "stress_save"):  # routes that save: a fresh copy of the blank card, never the shared one
         cmd += ["--sav", str(ROOT / "tools" / "pcsx" / "memcard1.mcd")]
     if name in KILL:  # hold the hero's HP at 1 so the next hit is a defeat (game over screen)
         cmd += ["--script", str(ROOT / "tools" / "debug" / "kill.lua"), "--var", f"KILL_AT={KILL[name]}"]

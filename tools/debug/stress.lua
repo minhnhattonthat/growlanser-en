@@ -1,4 +1,4 @@
--- Stress case "full lists" (debug only, phase 8 stress saves): at frame STRESS_AT (default 5000) fill every item
+-- Stress cases "full lists" + "max numbers" (debug only, phase 8): at frame STRESS_AT (default 5000) fill every item
 -- list of the field menu, each with its category's item ids in order, so every item name shows on some page and
 -- the scroll arrows, page counts and last rows are drawn. Run after a gear_* warp (the check menu gives the gear
 -- first, then the field menu opens at ~f5300):
@@ -12,9 +12,24 @@ local at = STRESS_AT or 5000
 local CATS = { {0, 99}, {100, 152}, {153, 178, 267, 359}, {179, 245}, {246, 266} }
 local function u32(a) a = a - 0x80000000; return m[a] + m[a + 1] * 256 + m[a + 2] * 65536 + m[a + 3] * 16777216 end
 local function w16(a, v) a = a - 0x80000000; v = v % 65536; m[a] = v % 256; m[a + 1] = math.floor(v / 256) end
+-- Max numbers: party unit records 0x801929CC + k * 0xE4 (live in the field menu too) held every 30 frames:
+-- +0x19 LV, +0x1A AT, +0x1C DF, +0x20 MV, +0x22 EXP, +0x24 NEXT, +0x30/+0x32 HP, +0x34/+0x36 MP (u16 but the
+-- status screen draws 3 digits: 9999 showed 999). STR/INT on screen are derived (they showed 255).
+local function stats()
+  for k = 0, 5 do
+    local s = 0x801929CC + k * 0xE4
+    if m[s - 0x80000000 + 0x19] ~= 0 then
+      m[s - 0x80000000 + 0x19] = 99; m[s - 0x80000000 + 0x20] = 199
+      for off, v in pairs({ [0x1A] = 999, [0x1C] = 999, [0x22] = 65535, [0x24] = 9999, [0x30] = 999, [0x32] = 999,
+                            [0x34] = 999, [0x36] = 999 }) do w16(s + off, v) end
+    end
+  end
+end
 local done = false
 L.on_frame(function(f)
-  if done or f < at then return end
+  if f < at then return end
+  if f % 30 == 0 then stats() end
+  if done then return end
   done = true
   local money = MONEY or 999999  -- u32 0x80194304; the field menu shows 6 digits (1234567 drew "234567")
   for i = 0, 3 do m[0x194304 + i] = math.floor(money / 256 ^ i) % 256 end

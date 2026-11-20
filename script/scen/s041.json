@@ -886,7 +886,7 @@
   {
    "id": "scen041.0143",
    "jp": "　{n}　　{s:0001}は『{FFEF}プロミス[028B][028C][028D][028E]{FFF1}』を貰った！",
-   "en": "　{n}　　{s:0001} received a '{FFEF}Promise[028B][028C][028D][028E]{FFF1}'!",
+   "en": "　{n}　　{s:0001} received a '{FFEF}Promise Pendant{FFF1}'!",
    "term": "end"
   },
   {

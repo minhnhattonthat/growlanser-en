@@ -103,10 +103,24 @@ DICT       equ 0x4800            ; codes DICT + i = dictionary entry i (tools/di
 .org 0x8006BCA0
     move    a0, s4               ; was sll a0, v0, 2 (v0 = 3 * s4)
 
+; Printer entry: flag a new string (vwf_state+12), so its first glyph starts at its own column. Without it a
+; second string on the same row (item list right column, start col 8) continued from the first one's pen when
+; that one ended in its last cell ("Boomerang SwordD" / "ouble Edge").
+.org 0x8006E794
+    j       vwf_newstr
+    addiu   sp, sp, -0x80        ; the printer's first instruction, run in the delay slot
+
 .org FREE_START
+vwf_newstr:
+    sw      s0, 0x58(sp)         ; was at 0x8006E798
+    lui     s0, hi(vwf_state + 12)
+    sw      sp, lo(vwf_state + 12)(s0)
+    j       0x8006E7A0
+    lw      s0, 0xB8(sp)         ; was at 0x8006E79C
+
 ; Windows draw interleaved (typewriter text beside a name tag), so the x is kept per canvas: 4 slots of
 ; (canvas base1, texel x, last col returned, last row), replaced round-robin.
-vwf_state:                       ; 0 scale, 4 y0, 8 next slot to replace, 12 -, 16 slots
+vwf_state:                       ; 0 scale, 4 y0, 8 next slot to replace, 12 new-string flag, 16 slots
     .word 1, 0, 0, 0
     .word 0, 0, -1, -1
     .word 0, 0, -1, -1
@@ -130,6 +144,8 @@ vwf_draw:
     sw      s2, 0x18(sp)
     sw      s3, 0x1C(sp)
     la      s3, vwf_state
+    lw      t3, 12(s3)           ; new string: resync below
+    sw      zero, 12(s3)
     sw      a3, 0(s3)
     sll     t1, a1, 4
     addu    t1, t1, t0
@@ -157,6 +173,7 @@ vwf_draw:
     b       @@resync
     nop
 @@found:
+    bnez    t3, @@resync
     lw      t1, 8(t4)
     lw      t2, 12(t4)
     lw      s0, 4(t4)

@@ -2,7 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 13: stress cases started; tour gate stale again).
+- **Phase:** 8. QA in the emulator, in progress (session 13: stress gate green, `qa_gate check
+  work/qa/stress/manifest.tsv work/qa/stress/verdicts` exit 0, 58 sheets on 32c60d51; tour gate stale).
+  **Next:** stress gaps (full spell lists: spell-known flags; party > 1 on status; field-menu hero name copy),
+  then re-tour + qa_gate init + vqa + textcover on the final build (both gates must match one build).
 - **Phase 8 session 13 (2026-11-20): stress saves, part 1.** Phase 8 gate items left: stress cases (this),
   re-tour + vqa + textcover on the final build. RAM mapped (docs/re/debug.md "Inventory"): item lists per
   category, quantities, money. New tools/debug/stress.lua (warp keyword `stress`, warp_all adds it): every item
@@ -10,10 +13,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
   stress_itemdesc; manifest work/qa/stress/manifest.tsv (chunk 000 verdicts: 9 ok, 3 issue). **Bug fixed:** the
   item description's name tag clipped by code count ("Broadswo"): exe.items added to insert.TAG_POOLS (zero-width
   pad codes, as name tags); shot work/qa/stress_fix/stress_itemdesc. Build disc 1 32cd282d9c0826fc5965dd2d9b683bcb1a9201c4, disc 2 T1
-  51961cca4d8506716371458d68bbf8956c20f10e, smoke ok. **Next:** re-run stress warps on this build, qa_gate init,
-  vqa both chunks; then the rest of the stress list: max stats/level/HP (unit
-  records 0x801929CC are battle copies; find the persistent party data), name cases (max-length hero name via
-  name_entry), full spell lists, save/load screen with stress data. Then re-tour + qa_gate + textcover (final).
+  51961cca4d8506716371458d68bbf8956c20f10e, smoke ok. Part 2: stats held at max too (unit records are live in the
+  field; debug.md "Inventory"); warps stress_status, stress_equip, stress_spell. Stress run on 32cd282d: 48
+  sheets in work/qa/stress/manifest.tsv, 14 ok (chunk bf72..._000), chunks de96..._000-002 to verdict (one
+  visual-qa agent at a time). Names: not on screen (the field menu's hero-name copy is unknown, debug.md);
+  dialogue covered by the lint (fit.SUB_PX 96 = 8 cells). **Next:** finish the stress verdicts; open: full spell
+  lists (spell-known flags), party > 1 on status, save/load screen with stress data. Then re-tour + qa_gate +
+  textcover on the final build.
+  Part 3: vqa found (a) item list long left names carried the right column's first letter ("Boomerang SwordD /
+  ouble Edge"): pre-existing (same on an unpadded build), VWF pen continued across strings; fixed in asm/vwf.asm
+  (printer-entry hook, docs/re/text.md); 8 regression warps pixel-identical to the tour except st_vac01 (sprite
+  area only). (b) exe.items.0233 + scen041 kept JP glyph codes "Promise[028B..028E]" -> "Promise Pendant"
+  (glossary). New warp stress_save (save screen after saving with stress data; no `card` keyword: it breaks the
+  New Game landing). Build disc 1 32c60d517bd88e8decc40754b333e0bf5e37b598, disc 2 T1
+  8e2f5c82fb8bf7d21fa50ea94ac39876e3660ecb. Stress chunks 0275..._000/001: 24 ok. New test
+  test_vwf.test_new_string_resyncs. stress_save runs on a fresh copy of the blank card (warp_all, like card_save):
+  a save without --sav landed in the shared tools/pcsx/memcard1.mcd once this session and broke landing (restored
+  from work/states/blank.mcd; bad card in work/mcd_backup/memcard1_s13.mcd).
 - **Phase 8 session 12 (2026-11-20): vqa on re-tour 6.** Re-tour 6 (84 warps, build e694af15, work/qa/tourbuild)
   -> qa_gate init -> 18 chunks of 12 by plugin visual-qa agents one at a time: 210 ok, 3 issue, all fixed
   (verdicts/recheck_4.tsv); `qa_gate check` exit 0. Fixes (build ab9f96a84322c9abbfdcf5171415a17dbd935b1e, disc 2
