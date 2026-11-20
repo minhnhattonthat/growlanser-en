@@ -94,8 +94,7 @@ def lint(text, b, font=None, codec=None):
             probs.append((True, "dictionary code {%04X} (writes Japanese): spell the word out" % w))
             continue
         elif w in WAITS:
-            x = -(-x // 12) * 12  # printing resumes at the next column, not the pixel (docs/re/text.md)
-            waited = True
+            waited = True  # the pen continues (vwf_newstr continuation flag), but the wrap rule changes below
             continue
         elif w >= 0xF000:
             continue

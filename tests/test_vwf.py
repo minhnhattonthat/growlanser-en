@@ -72,6 +72,33 @@ class Vwf(unittest.TestCase):
         self.assertEqual(e.grid(96, 13), expected(left, 96))  # nothing of "Double" left of its column
         self.assertEqual(e.grid(enfont.width("Double") + 2, 13, x0=96), expected("Double", enfont.width("Double") + 2))
 
+    def test_continuation_keeps_pen(self):
+        """dn_mystery: a message's first code is printed alone, then the page path resumes at its column (and after a
+        wait code on a moved row origin). Flag -1 (continuation): no gap ("We  lcome"), unlike a new string."""
+        e, c = self.emu, self.codec
+        words = c.encode("Welcome to")
+        e.clear()
+        col = e.draw(words[:1])
+        e.write(e.sym["vwf_state"] + 12, vwfemu.struct.pack("<i", -1))
+        e.draw(words[1:], col, 0)
+        text = "Welcome to"
+        self.assertEqual(e.grid(enfont.width(text) + 2, 13), expected(text, enfont.width(text) + 2))
+
+    def test_newstr_flags(self):
+        """vwf_newstr: -1 for the page path's continuation callers of the print wrapper, nonzero (sp) otherwise."""
+        uc, e = self.emu.uc, self.emu
+        from unicorn.mips_const import UC_MIPS_REG_RA, UC_MIPS_REG_SP
+        for ra, caller, want in ((0x800677FC, 0x80065638, -1), (0x800677FC, 0x80065AFC, -1),
+                                 (0x800677FC, 0x80065E64, None), (0x800709A0, 0x80065638, None)):
+            sp = 0x801FFE00
+            e.write(sp + 0x40, vwfemu.struct.pack("<I", caller))  # wrapper frame; vwf_newstr runs with sp - 0x80
+            uc.reg_write(UC_MIPS_REG_SP, sp - 0x80)
+            uc.reg_write(UC_MIPS_REG_RA, ra)
+            uc.emu_start(e.sym["vwf_newstr"], 0x8006E7A0, count=100)
+            got = vwfemu.struct.unpack("<i", e.read(e.sym["vwf_state"] + 12, 4))[0]
+            self.assertEqual(got, want if want is not None else vwfemu.struct.unpack("<i", vwfemu.struct.pack(
+                "<I", sp - 0x80))[0], hex(caller))
+
     def test_interleaved_windows(self):
         """A typewriter line drawn a word at a time, with another window drawn between: no gap, no overlap."""
         e, c = self.emu, self.codec

@@ -110,11 +110,27 @@ DICT       equ 0x4800            ; codes DICT + i = dictionary entry i (tools/di
     j       vwf_newstr
     addiu   sp, sp, -0x80        ; the printer's first instruction, run in the delay slot
 
+; A message's print is split: 0x80065E64 prints its first code alone, then the page-at-once path (print wrapper
+; called from 0x80065630 or 0x80065AF4) prints the rest, and again after each wait code. Those continuations flag -1
+; instead: vwf_draw keeps the pen if they resume at the column the last glyph ended in ("We  lcome" otherwise).
 .org FREE_START
 vwf_newstr:
     sw      s0, 0x58(sp)         ; was at 0x8006E798
+    move    t9, sp               ; new string (nonzero)
+    li      t8, 0x800677FC       ; return address in the print wrapper 0x8006777C
+    bne     ra, t8, @@flag
+    lw      t8, 0xC0(sp)         ; the wrapper's caller (its frame 0x48, ra at +0x40; ours 0x80 below)
+    li      t7, 0x80065638
+    beq     t8, t7, @@cont
+    nop
+    li      t7, 0x80065AFC
+    bne     t8, t7, @@flag
+    nop
+@@cont:
+    li      t9, -1
+@@flag:
     lui     s0, hi(vwf_state + 12)
-    sw      sp, lo(vwf_state + 12)(s0)
+    sw      t9, lo(vwf_state + 12)(s0)
     j       0x8006E7A0
     lw      s0, 0xB8(sp)         ; was at 0x8006E79C
 
@@ -173,10 +189,19 @@ vwf_draw:
     b       @@resync
     nop
 @@found:
-    bnez    t3, @@resync
     lw      t1, 8(t4)
     lw      t2, 12(t4)
     lw      s0, 4(t4)
+    addiu   t5, t3, 1
+    bnez    t5, @@notcont
+    nop
+    beq     t1, a0, @@go         ; continuation at the last glyph's column (its row origin may have moved)
+    nop
+    b       @@resync
+    nop
+@@notcont:
+    bnez    t3, @@resync
+    nop
     bne     t1, a0, @@resync
     nop
     beq     t2, a1, @@go

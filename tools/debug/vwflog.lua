@@ -5,7 +5,7 @@ local mem = PCSX.getMemPtr()
 local function u8(a) return mem[a % 0x200000] end
 local function u16(a) return u8(a) + u8(a + 1) * 256 end
 local function u32(a) return u16(a) + u16(a + 2) * 65536 end
-local addr = VWF_DRAW or 0x800FF56C
+local addr = VWF_DRAW or 0x800FF5B8
 local state = addr - 0x64                       -- vwf_state sits 0x64 before vwf_draw
 local n = 0
 L.on_exec(addr, function()

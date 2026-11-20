@@ -29,12 +29,12 @@ class Fit(unittest.TestCase):
         self.assertTrue(errors("exe.items.0001", "{F401}"))  # dictionary codes write Japanese
 
     def test_wait_codes(self):
-        # in game (tour dn_glocian f2400) this line wrapped before " a": waits snap the pen to a column and the
-        # resumed print wraps on a code's end
+        # in game (work/qa/waitwrap.tsv, warp dn_glocian f2464) the pen continues across waits and the resumed print
+        # wraps on a code's end: "... Such a fra" / "il, sorrowful voice."
         line = ("{v:0001}...Hmm. Yes.{FFF9}{FFFB} {v:0003}It's faint, but I can hear singing...{FFF9}{FFFB} "
-                "{v:0004}Such a")
+                "{v:0004}Such a frail")
         self.assertTrue(errors("scen070.0017", line))
-        self.assertEqual(errors("scen070.0017", line[:-2]), [])
+        self.assertEqual(errors("scen070.0017", line[:-6]), [])
 
     def test_script(self):
         font, codec = fit.enfont.load(), fit.enfont.EnCodec()

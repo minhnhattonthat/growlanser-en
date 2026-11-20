@@ -94,7 +94,12 @@
   to col*12 when the column, row or canvas changes, and at every printer entry (hook 0x8006E794 sets a new-string
   flag, phase 8 session 13): the item list prints the right column's name at col 8 on the same row and canvas, so a
   left name ending in cell 8 ("Boomerang Sword", 90 px) used to hand its pen to the right name ("...SwordD" /
-  "ouble Edge"). Code + English font sit in font cells 0x6A0-0x7CA.
+  "ouble Edge"). Exception (session 16): a dialogue message is printed in parts, its first code alone from
+  0x80065E64, then the rest by the page path (wrapper called at 0x80065630 / 0x80065AF4), again after each wait
+  code (FFFB resumes with a moved row origin: row 0 of a window 1 line lower). For those two callers the hook sets
+  the flag to -1 and vwf_draw keeps the pen when the column equals the last glyph's ("We  lcome to", the wait gap,
+  fixed; tests/test_vwf test_continuation_keeps_pen, test_newstr_flags). The resumed print still wraps on a
+  code's end, not its start (fit.py `waited`). Code + English font sit in font cells 0x6A0-0x7CA.
 - **Typewriter** (verified, `tools/debug/vwflog.lua` exec hooks): dialogue goes through the print wrapper
   0x8006777C (a0 x col, a1 y row, a2 width, a3 height, stack: &dx, &dy, ...). With gp+0x87E = 1 (set at
   0x80065120) the caller at 0x800654B4 (and its twin after 0x800658E8) prints ONE code per frame into a 1x1-column
