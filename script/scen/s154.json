@@ -111,7 +111,7 @@
   {
    "id": "scen154.0017",
    "jp": "{v:009D}お前に少し頼みたいことがある。{n}実は今日の宴は、私のお披露目でもあるのだ‥‥。{p}{v:009E}どうも男として暮らすのが長かったせいか、{n}そういった感覚にうとくてな。{p}{v:009F}私はこの格好でもかまわないのだが、{n}陛下がぜひにというのだ‥‥。{p}{v:00A0}だから‥‥少しつき合ってもらえるか‥‥？{FFF9}{FFFB}{n}{v:00A1}アンジェラ様が私に服を譲って下さったので、{n}それを仕立屋で手直ししたいのだ。{p}{v:00A2}それに‥‥この服が似合うかどうか、{n}皆に見せる前に見てもらいたい。",
-   "en": "{v:009D}I have a small favor to ask of you. Tonight's banquet is{n}also to be my formal debut...{p}{v:009E}Perhaps I have lived as a man for too long. I have little{n}sense for such things.{p}{v:009F}I would be content to wear what I have on, but His{n}Majesty insists...{p}{v:00A0}So... would you accompany me for a while...?{FFF9}{FFFB}{v:00A1}Angela-sama{n}has given me a dress, and I would like to have a tailor{n}alter it.{p}{v:00A2}And... before everyone else sees me, I would like you to{n}tell me whether it suits me.",
+   "en": "{v:009D}I have a small favor to ask of you. Tonight's banquet is{n}also to be my formal debut...{p}{v:009E}Perhaps I have lived as a man for too long. I have little{n}sense for such things.{p}{v:009F}I would be content to wear what I have on, but His{n}Majesty insists...{p}{v:00A0}So... would you accompany me for a{n}while...?{FFF9}{FFFB}{v:00A1}Angela-sama has given me a dress, and I{n}would like to have a tailor alter it.{p}{v:00A2}And... before everyone else sees me, I would like you to{n}tell me whether it suits me.",
    "term": "end"
   },
   {

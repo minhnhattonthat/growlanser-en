@@ -27,7 +27,7 @@
   {
    "id": "scen260.0003",
    "jp": "{v:0037}お前達か‥‥。{p}{v:0038}その事で少し聞きたいことがある‥‥。{FFF9}{FFFB}{n}{v:0039}その‥‥見たのか？",
-   "en": "{v:0037}Oh, it is you...{p}{v:0038}There is something I wish to ask you about that...{FFF9}{FFFB}{v:0039}Well...{n}did you see?",
+   "en": "{v:0037}Oh, it is you...{p}{v:0038}There is something I wish to ask you about{n}that...{FFF9}{FFFB}{v:0039}Well... did you see?",
    "term": "end"
   },
   {

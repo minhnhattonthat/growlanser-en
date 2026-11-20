@@ -411,7 +411,7 @@
   {
    "id": "scen158.0067",
    "jp": "{v:0037}こんなに追っ手がいたなんて‥‥。{FFF9}{FFFB}{n}{v:0038}もうダメだ‥‥。",
-   "en": "{v:0037}I never knew so many people were after us...{FFF9}{FFFB}{v:0038}There's{n}no hope...",
+   "en": "{v:0037}I never knew so many people were after{n}us...{FFF9}{FFFB}{v:0038}There's no hope...",
    "term": "end"
   },
   {

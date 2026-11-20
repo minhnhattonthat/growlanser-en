@@ -28,6 +28,14 @@ class Fit(unittest.TestCase):
         self.assertTrue(errors("scen000.0186", "a{n}b{n}c{n}d"))
         self.assertTrue(errors("exe.items.0001", "{F401}"))  # dictionary codes write Japanese
 
+    def test_wait_codes(self):
+        # in game (tour dn_glocian f2400) this line wrapped before " a": waits snap the pen to a column and the
+        # resumed print wraps on a code's end
+        line = ("{v:0001}...Hmm. Yes.{FFF9}{FFFB} {v:0003}It's faint, but I can hear singing...{FFF9}{FFFB} "
+                "{v:0004}Such a")
+        self.assertTrue(errors("scen070.0017", line))
+        self.assertEqual(errors("scen070.0017", line[:-2]), [])
+
     def test_script(self):
         font, codec = fit.enfont.load(), fit.enfont.EnCodec()
         bad = [(e["id"], m) for e in fit.entries([])

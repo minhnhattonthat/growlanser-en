@@ -219,13 +219,13 @@
   {
    "id": "scen194.0035",
    "jp": "{v:006A}因果なものだな。{n}戦争などなければ、{n}お前とはいい友になれたかもしれん‥‥。{p}{v:006B}だが、ここは戦場で、お前と私は敵同士だ‥‥。{FFF9}{FFFB}{n}{FC02}{v:006C}生き残りたければ‥‥私を越えて行け！",
-   "en": "{v:006A}What cruel fate. Were it not for this war, you and I{n}might have been good friends...{p}{v:006B}But this is a battlefield, and you and I are enemies...{FFF9}{FFFB} {FC02}{v:006C}If{n}you wish to survive... you must defeat me!",
+   "en": "{v:006A}What cruel fate. Were it not for this war, you and I{n}might have been good friends...{p}{v:006B}But this is a battlefield, and you and I are enemies...{FFF9}{FFFB}{n}{FC02}{v:006C}If you wish to survive... you must defeat me!",
    "term": "end"
   },
   {
    "id": "scen194.0036",
    "jp": "{v:0067}以前にも増して腕を上げたか‥‥。{FFF9}{FFFB}{n}{v:0068}出来ればもっと別の形で力を競ってみたかったな‥‥。",
-   "en": "{v:0067}Your skill has improved yet again...{FFF9}{FFFB} {v:0068}I wish we could have{n}tested our strength under different circumstances...",
+   "en": "{v:0067}Your skill has improved yet again...{FFF9}{FFFB} {v:0068}I wish we could{n}have tested our strength under{n}different circumstances...",
    "term": "end"
   },
   {

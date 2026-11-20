@@ -111,7 +111,7 @@
   {
    "id": "scen070.0017",
    "jp": "{v:0001}‥‥‥うむ。{FFF9}{FFFB}{n}{v:0003}微かだが、歌声が聞こえるな‥‥。{FFF9}{FFFB}{n}{v:0004}か細く、悲しそうな声だ。",
-   "en": "{v:0001}...Hmm. Yes.{FFF9}{FFFB} {v:0003}It's faint, but I can hear singing...{FFF9}{FFFB} {v:0004}Such a{n}frail, sorrowful voice.",
+   "en": "{v:0001}...Hmm. Yes.{FFF9}{FFFB} {v:0003}It's faint, but I can hear singing...{FFF9}{FFFB} {v:0004}Such{n}a frail, sorrowful voice.",
    "term": "end"
   },
   {

@@ -570,7 +570,7 @@
   {
    "id": "scen119.0092",
    "jp": "{FFEE}{v:006E}　　　　勇ましいことだな。{FFF9}{FFFB}{n}{v:006F}　　　　だが裏切り者を生かしておくほど、{n}　　　　私は寛容ではない。{FFF9}{FFFB}{n}{v:0070}　　　　死ぬがいい！{FFF1}",
-   "en": "{FFEE}{v:006E}　　　　How valiant.{FFF9}{FFFB}{v:006F}But I am not so merciful as to let{n}a traitor{n}live.{FFF9}{FFFB}{v:0070}Die!{FFF1}",
+   "en": "{FFEE}{v:006E}　　　　How valiant.{FFF9}{FFFB}{v:006F}But I am not so merciful as to{n}let a traitor live.{FFF9}{FFFB}{v:0070}Die!{FFF1}",
    "term": "end"
   },
   {

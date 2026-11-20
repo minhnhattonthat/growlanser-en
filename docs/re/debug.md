@@ -137,8 +137,13 @@ Older notes:
   0x80011BB8 + 12 * id + 8. stress.lua forces 1 so the spell screen pages all 33 battle spells. Status -> down ->
   Circle opens a sub-list: every spell then every skill. Skills 59-62 (dev only) show the next table's strings as
   descriptions, JP too (完全攻撃 -> "兄妹 ～二人とも気をつけてね～").
-- Still unmapped for stress cases: the menu's hero name copy; party size (this debug state's field-menu party is the
-  hero alone; check menu 9 "units" is a unit viewer, not party add).
+- Party > 1 (session 15): story point vac07 (dbg 3 -> 7) has 5 units in the field-menu party; warp stress_party
+  (stress.lua maxes every unit record) pages status with Right. The status nameplates ("PLAYER", "RUISE") are
+  Latin-letter art per unit, not the name buffer: that is why name pokes never changed "PLAYER" there.
+- Long names (session 15): warp stress_name types the hero name to 8 cells (PLAYERああ) in dbg 11, confirms
+  (Start -> OK, Circle, Up = Yes, Circle), then the territory name screen (default ＭＹ[01C2]ＣＩＴＹ, D18), then
+  New Game's first scene. Glyph 01C2 (blank) was in insert.FONT_FREE and drew heap bytes: now kept out
+  (test_insert.test_raw_codes_not_reused).
 
 ## Text coverage (tools/debug/cover.py, phase 8 session 10)
 - `msgforce.lua` replaces each scene-message printer call with the next message of the section and loops the VM on

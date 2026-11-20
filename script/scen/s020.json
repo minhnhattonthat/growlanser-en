@@ -279,7 +279,7 @@
   {
    "id": "scen020.0045",
    "jp": "{v:001B}わぁ‥‥綺麗‥‥{FFF2}。{FFF9}{FFFB}{n}{FFF4}{v:001C}アタシ、花火見るのは生まれて初めてなんだ‥‥。",
-   "en": "{v:001B}Wow... So pretty...{FFF2}.{FFF9}{FFFB} {FFF4}{v:001C}I've never seen fireworks before in{n}my life...",
+   "en": "{v:001B}Wow... So pretty...{FFF2}.{FFF9}{FFFB} {FFF4}{v:001C}I've never seen fireworks before{n}in my life...",
    "term": "end"
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "scen020.0114",
    "jp": "{v:0079}しばらくこのままいさせてください‥‥。{FFF9}{FFFB}{n}{v:007A}あなたの存在を確かめていたいから‥‥。",
-   "en": "{v:0079}Please let me stay like this a little longer...{FFF9}{FFFB}{v:007A}I want to feel{n}that you're really here...",
+   "en": "{v:0079}Please let me stay like this a little longer...{FFF9}{FFFB}{v:007A}I want to{n}feel that you're really here...",
    "term": "end"
   },
   {

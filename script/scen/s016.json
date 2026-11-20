@@ -1089,7 +1089,7 @@
   {
    "id": "scen016.0177",
    "jp": "{FFF3}‥‥。{p}{FFF4}{v:0069}ごめんなさい‥‥。{FFF9}{FFFB}{n}{v:006A}あなたを慰めるつもりが、{n}逆に慰められたみたいね‥‥。",
-   "en": "{FFF3}...{p}{FFF4}{v:0069}I'm sorry...{FFF9}{FFFB}{v:006A}I came to comfort you, but it seems you've{n}ended up comforting me...",
+   "en": "{FFF3}...{p}{FFF4}{v:0069}I'm sorry...{FFF9}{FFFB}{v:006A}I came to comfort you, but it seems{n}you've ended up comforting me...",
    "term": "end"
   },
   {
@@ -1127,7 +1127,7 @@
   {
    "id": "scen016.0183",
    "jp": "{v:006D}それではお休みなさい。{FFF9}{FFFB}{n}{v:006E}あまり無理をしないでくださいね。",
-   "en": "{v:006D}Good night, then.{FFF9}{FFFB}{v:006E}Please don't push yourself too hard.",
+   "en": "{v:006D}Good night, then.{FFF9}{FFFB}{v:006E}Please don't push yourself{n}too hard.",
    "term": "end"
   },
   {

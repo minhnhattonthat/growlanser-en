@@ -74,6 +74,8 @@ KEEP_JP |= {"exe.sys.%04d" % i for i in range(70, 100)}
 # Default hero name ＰＬＡＹＥＲ: a typed name is full-width codes too (D14), and the credits player line and the
 # name-entry field take one code per letter; English pairs drew nothing there (D17)
 KEEP_JP |= {"exe.names.0000", "exe.units.0000"}
+# Default territory name ＭＹ ＣＩＴＹ: the same name-entry field (pairs drew "MY ※CI TY"), D18
+KEEP_JP |= {"exe.names.0012", "exe.units.0012"}
 # exe.sys.0069 (name-entry title + labels) is printed as one line and cut into fixed pixel slices: title 60 px,
 # blank 12, then 24 px per label. English: "Title　Label Label ..", each field centred in its slice (Encoder.slots).
 SLOTS = {"exe.sys.0069": (60, 12, 24, 24, 24, 24, 24)}
@@ -242,8 +244,9 @@ def scen_dat(data, sections, strict=True):
 
 FONT = 0xE85C8  # game font, 18 bytes per glyph
 # kanji cells free once the script is English (0x11C-0x69F; 0x6A0 on holds asm/vwf.asm), minus cells used as
-# icons or symbols: 01BE flourish, 028B-028E ペンダント, 0298 / 02A4 key items, 03AD 0571 0643 0644 buttons, 0530 heart
-FONT_FREE = [(0x11C, 0x1BE), (0x1BF, 0x28B), (0x28F, 0x298), (0x299, 0x2A4), (0x2A5, 0x3AD), (0x3AE, 0x530),
+# icons or symbols: 01BE flourish, 01C2 blank (ＭＹ ＣＩＴＹ, KEEP_JP), 028B-028E ペンダント, 0298 / 02A4 key items,
+# 03AD 0571 0643 0644 buttons, 0530 heart (test_insert.test_raw_codes_not_reused)
+FONT_FREE = [(0x11C, 0x1BE), (0x1BF, 0x1C2), (0x1C3, 0x28B), (0x28F, 0x298), (0x299, 0x2A4), (0x2A5, 0x3AD), (0x3AE, 0x530),
              (0x531, 0x571), (0x572, 0x643), (0x645, 0x6A0)]
 
 

@@ -2,9 +2,36 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 14: full spell + skill lists done, stress gate 74 sheets
-  on 32b9b1c8; tour gate stale). **Next:** stress gaps left (party > 1 on status; field-menu hero name copy),
-  then re-tour + qa_gate init + vqa + textcover on the final build (both gates must match one build).
+- **Phase:** 8. QA in the emulator, in progress (session 15: stress cases complete, stress gate green on
+  7521ea80; tour vqa in progress on 7521ea80, a text fix since). **Next:** finish tour vqa (chunks
+  chunk_f92c052b7d20_NNN, dispatch context work/qa/tour/dispatch_s15.md, one visual-qa agent at a time), collect
+  fixes, rebuild, re-tour all 84 (deterministic: only changed sheets need new verdicts) + stress warps, qa_gate
+  init both, vqa the changed sheets, full cover.py rerun + textcover (coverage hashes stale: 11715 failing).
+- **Phase 8 session 15 (2026-11-21): stress complete, final tour.** (a) Party > 1: warp stress_party (story point
+  vac07, 5 units, status paged). Menu nameplates are art (debug.md "Inventory"), so no "hero name copy" exists.
+  (b) Long names: warp stress_name (8-cell hero name + territory name screen). **Bug fixed:** default territory
+  name drew "MY ※CI TY": now full-width ＭＹ ＣＩＴＹ (D18, KEEP_JP) and glyph 01C2 kept out of insert.FONT_FREE;
+  scen120.0001 "DATA[0793]BANK" -> "DATA BANK" (0793 is a vwf.asm cell); new test
+  test_insert.test_raw_codes_not_reused. Build 7521ea80081d577e93a8a53af97845cf5ce7321d (disc 2 T1
+  2408c74ca461e87130b03329b20fc750c52a18e5): stress gate 90 sheets ok; tour run (credits warp times out under
+  CPU load: run it alone). (c) **Bug fixed (tour chunk 004):** wait codes mid-line: the resumed print snaps to a
+  column and wraps on a code's end (scen070.0017 left "a" alone on line 2). fit.lint models it (test_fit
+  test_wait_codes); new tools/rewrap.py re-flowed 66 entries; scen093.0181 rewritten with waits at line ends.
+  Polish added: skill trigger label wording, colon glyph. Built: disc 1 4c647f4ca917183e61acd1ef619b264b26e74c73,
+  disc 2 T1 559f33299192429a665b065dd90c5f4cf9d84a9d, smoke ok (not yet toured; tour + stress sheets are on
+  7521ea80). Tour vqa so far: chunks 000-005 verdicted (2 issues: 004 dn_glocian/sheet_2 = the wait wrap, fixed
+  above; 005 dn_mystery/sheet_2 = open bug below). Tour sheets are deterministic (same build -> same sha1).
+  **Open bug (engine, asm/vwf.asm): pen gap after a message's first code.** scen018.0134 (Dungeon Man, warp
+  dn_mystery f2040) drew "Welcome   to" (dictionary word "Welcome" 41 px, then the pen snapped to col 4 = 48 px).
+  Repro build: `build.py --qa work/qa/dictgap.tsv --out work/qa/bdict --disc 1` + warp dn_mystery: "We  lcome to
+  my labyrinth." (gap after the first pair; lines 2-3 of the same message fine). Cause (inferred): the printer
+  (0x8006E794) is entered twice for this message (first code, then the rest), and vwf_newstr's new-string flag
+  makes vwf_draw resync x to col*12; the wait-code gap is the same mechanism. Most dialogue doesn't show it
+  ("...Hmm" and "Surprised" fine): find which caller prints the first code alone (exec hook on 0x8006E794, log ra
+  per call in dn_mystery), then skip the flag for that continuation (keep it for the item-list case, test_vwf
+  test_new_string_resyncs). After the fix the wait snap may go too: then drop fit.WAITS' column snap.
+  **Next after that:** finish tour vqa chunks 006-023 (re-init after the re-tour first: changed sheets only).
+  Credits warp: a re-run was in flight on 7521ea80 at hand-back; rerun it alone in the re-tour.
 - **Phase 8 session 14 (2026-11-20): stress spells + skills.** Spell/skill known bytes mapped (debug.md
   "Inventory": record + 0x3C + spell id, + 0x7C + skill id; list builder filter word sp+0xD8). The field spell
   screen (and battle Triangle menu) only ever lists Teleport + 5 heals; stress.lua now gives every unit all 34

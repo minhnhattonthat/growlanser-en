@@ -715,7 +715,7 @@
   {
    "id": "scen093.0116",
    "jp": "{v:000D}お兄ちゃんが、本当のお兄ちゃんじゃないって{n}知ったとき、悲しくて、いっぱい泣いちゃったって{n}話はしたことあったよね。{p}{v:000E}あのお話には続きがあるんだ。{p}{FC03}{v:000F}わたしね、泣きながらあることに気づいたの。{FFF9}{FFFB}{n}{v:0010}悲しくて泣いているのに、{n}心のどこかではほっとしてたことに。{p}{FFF5}{v:0011}最初は自分でもわからなかった。{FFF9}{FFFB}{n}{v:0012}それで、本当は冷たい子なんじゃないかって思えて、{n}それで余計に泣いちゃった。{p}{FC04}{v:0013}でもね、どうしてほっとしていたかわかったから、{n}涙も止まったの。",
-   "en": "{v:000D}I told you how sad I was when I learned you weren't my{n}brother by blood, and how much I cried, didn't I?{p}{v:000E}There's more to that story.{p}{FC03}{v:000F}While I was crying, I realized something.{FFF9}{FFFB} {v:0010}Even though I{n}was crying because I was sad, part of me{n}felt relieved.{p}{FFF5}{v:0011}At first, I didn't understand it myself.{FFF9}{FFFB} {v:0012}I started to think{n}I must really be a coldhearted girl, and that made me{n}cry even more.{p}{FC04}{v:0013}But then I understood why I felt relieved, and my{n}tears stopped.",
+   "en": "{v:000D}I told you how sad I was when I learned you weren't my{n}brother by blood, and how much I cried, didn't I?{p}{v:000E}There's more to that story.{p}{FC03}{v:000F}While I was crying, I realized something.{FFF9}{FFFB} {v:0010}Even though{n}I was crying because I was sad, part of me{n}felt relieved.{p}{FFF5}{v:0011}At first, I didn't understand it myself.{FFF9}{FFFB} {v:0012}I started to{n}think I must really be a coldhearted girl, and that made{n}me cry even more.{p}{FC04}{v:0013}But then I understood why I felt relieved, and my{n}tears stopped.",
    "term": "end"
   },
   {
@@ -733,7 +733,7 @@
   {
    "id": "scen093.0119",
    "jp": "{v:001A}わたしはグローシアン。{FFF9}{FFFB}{n}{v:001B}他の人より強い魔力を持ってる。{p}{FFF5}{v:001C}なのに、お兄ちゃんの命も救えないの！？{FFF9}{FFFB}{n}{FC02}{v:001D}愛する人を救うこともできないの！？{FFF9}{FFFB}{n}{FFF5}{v:001E}こんな力‥‥{FFF9}{FFFB}{v:001F}何の役にも立たないよ‥‥。",
-   "en": "{v:001A}I'm a Growsian.{FFF9}{FFFB} {v:001B}My magic is stronger than{n}other people's.{p}{FFF5}{v:001C}So why can't I even save your life, Big Brother?!{FFF9}{FFFB} {FC02}{v:001D}Why{n}can't I save the person I love?!{FFF9}{FFFB} {FFF5}{v:001E}This power...{FFF9}{FFFB}{v:001F}It's no use{n}at all...",
+   "en": "{v:001A}I'm a Growsian.{FFF9}{FFFB} {v:001B}My magic is stronger than{n}other people's.{p}{FFF5}{v:001C}So why can't I even save your life, Big Brother?!{FFF9}{FFFB} {FC02}{v:001D}Why{n}can't I save the person I love?!{FFF9}{FFFB} {FFF5}{v:001E}This power...{FFF9}{FFFB}{v:001F}It's no{n}use at all...",
    "term": "end"
   },
   {
@@ -843,7 +843,7 @@
   {
    "id": "scen093.0137",
    "jp": "{v:0006}結局アタシ、お兄さまのために何も出来なかった‥‥。{p}{v:0007}今お兄さまがこうしていられるのも、{n}アタシが何かしたからじゃない。{n}他の誰かが頑張ったからだもの。{p}{v:0008}アタシなんかいてもいなくても同じ‥‥。{FFF9}{FFFB}{n}{v:0009}こんな出来損ないのホムンクルスだもの、{n}当たり前だよね‥‥。",
-   "en": "{v:0006}In the end, I couldn't do anything for you,{n}Big Brother...{p}{v:0007}You're still here with us, but it wasn't because of{n}anything I did. It was because someone else worked{n}so hard.{p}{v:0008}It wouldn't make any difference if I weren't here...{FFF9}{FFFB}{v:0009}I'm{n}such a failure of a homunculus. What else could{n}I expect...?",
+   "en": "{v:0006}In the end, I couldn't do anything for you,{n}Big Brother...{p}{v:0007}You're still here with us, but it wasn't because of{n}anything I did. It was because someone else worked{n}so hard.{p}{v:0008}It wouldn't make any difference if I weren't{n}here...{FFF9}{FFFB}{v:0009}I'm such a failure of a homunculus. What else{n}could I expect...?",
    "term": "end"
   },
   {
@@ -983,7 +983,7 @@
   {
    "id": "scen093.0159",
    "jp": "‥‥‥‥。{p}‥‥{v:001A}お兄さまってなんだか暖かい‥‥。{FFF9}{FFFB}{n}{v:001B}抱かれていると、{n}今まで悩んでたのが嘘みたいにとけていく‥‥。{p}‥‥‥‥。",
-   "en": "...{p}...{v:001A}You're so warm, Big Brother...{FFF9}{FFFB}{v:001B}When you hold me, all my{n}worries melt away, as if they were never there...{p}...",
+   "en": "...{p}...{v:001A}You're so warm, Big Brother...{FFF9}{FFFB}{v:001B}When you hold me, all{n}my worries melt away, as if they were never there...{p}...",
    "term": "end"
   },
   {
@@ -1105,7 +1105,7 @@
   {
    "id": "scen093.0179",
    "jp": "{v:0014}優しい声‥‥。{FFF9}{FFFB}{n}{v:0015}自信に満ちていて、私を包み込んでくれる声‥。",
-   "en": "{v:0014}Such a gentle voice...{FFF9}{FFFB}{v:0015}So full of confidence, a voice that{n}envelops me...",
+   "en": "{v:0014}Such a gentle voice...{FFF9}{FFFB}{v:0015}So full of confidence, a voice{n}that envelops me...",
    "term": "end"
   },
   {
@@ -1117,7 +1117,7 @@
   {
    "id": "scen093.0181",
    "jp": "{v:0017}この力強い腕は、父親のものじゃない。{FFF9}{FFFB}{n}{v:0018}私を‥愛してくれる‥愛しい人のもの‥‥。{p}{v:0019}このぬくもりを思い出したとき、わかったんです。{FFF9}{FFFB}{n}{v:001A}私、本当にあなたを愛していると！{p}{v:001B}だから、もしあなたと父の関係を知らなくても{n}好きになれた。{FFF9}{FFFB}{n}{v:001C}同じ存在と知っていても、やっぱり好きになった。",
-   "en": "{v:0017}These strong arms aren't a father's arms.{FFF9}{FFFB}{v:0018}They belong{n}to... the man I love... who loves me...{p}{v:0019}When I remembered this warmth, I understood.{FFF9}{FFFB}{v:001A}I truly{n}love you!{p}{v:001B}I would have fallen in love with you even without{n}knowing your connection to my father.{FFF9}{FFFB}{v:001C}Even if I'd known{n}you were the same as him from the start, I would still{p}have fallen in love with you.",
+   "en": "{v:0017}These strong arms aren't a father's arms.{FFF9}{FFFB}{n}{v:0018}They belong to... the man I love... who loves me...{p}{v:0019}When I remembered this warmth, I understood.{FFF9}{FFFB}{n}{v:001A}I truly love you!{p}{v:001B}I would have fallen in love with you even without{n}knowing your connection to my father.{FFF9}{FFFB}{n}{v:001C}And knowing you're the same, I still fell for you.",
    "term": "end"
   },
   {
@@ -1319,7 +1319,7 @@
   {
    "id": "scen093.0213",
    "jp": "{v:001C}お願いがあります。{FFF9}{FFFB}{n}{v:001D}このまま私の手の届かない所へ{n}行ってしまわないで下さい！{p}{v:001E}絶対に死なないでください！{FFF9}{FFFB}{n}{v:001F}あなたが助かるなら、{n}この命だって惜しくはありません！{p}{v:0020}だから‥‥{FFF9}{FFFB}{n}{v:0021}だから私を１人にしないで下さい‥‥。",
-   "en": "{v:001C}I have a request.{FFF9}{FFFB}{v:001D}Please do not go where I can no{n}longer reach you!{p}{v:001E}Please, you must not die!{FFF9}{FFFB}{v:001F}I would gladly give my own life{n}if it would save yours!{p}{v:0020}So...{FFF9}{FFFB}{v:0021}So please do not leave me alone...",
+   "en": "{v:001C}I have a request.{FFF9}{FFFB}{v:001D}Please do not go where I can no{n}longer reach you!{p}{v:001E}Please, you must not die!{FFF9}{FFFB}{v:001F}I would gladly give my own{n}life if it would save yours!{p}{v:0020}So...{FFF9}{FFFB}{v:0021}So please do not leave me alone...",
    "term": "end"
   },
   {
@@ -1373,7 +1373,7 @@
   {
    "id": "scen093.0222",
    "jp": "{v:000B}だが、ここから先に待っている奴は、{n}そのお前をも凌駕するほどの奴だ。{p}{v:000C}正直に言えば、全盛期の俺でも勝てる気がしない。{FFF9}{FFFB}{n}{v:000D}だが、最初から勝てないと決めてかかれば、{n}どんな戦も勝つことはできない。{p}{v:000E}例え相手がどんなに強くても、{n}必ず勝つつもりでかかっていけ。",
-   "en": "{v:000B}But the one waiting up ahead is stronger even{n}than you.{p}{v:000C}Truth is, I doubt I could beat him even in my prime.{FFF9}{FFFB}{v:000D}But{n}if you decide you can't win before you start, you'll{n}never win any battle.{p}{v:000E}No matter how strong your enemy is, go in intending{n}to win.",
+   "en": "{v:000B}But the one waiting up ahead is stronger even{n}than you.{p}{v:000C}Truth is, I doubt I could beat him even in my{n}prime.{FFF9}{FFFB}{v:000D}But if you decide you can't win before you{n}start, you'll never win any battle.{p}{v:000E}No matter how strong your enemy is, go in intending{n}to win.",
    "term": "end"
   },
   {
@@ -1411,7 +1411,7 @@
   {
    "id": "scen093.0228",
    "jp": "{v:0011}そう、負けられない戦だ。{FFF9}{FFFB}{n}{v:0012}だが、お前の背中は俺がきっちり守ってやるから{n}安心して戦え。{p}{v:0013}戦友を信じろ！",
-   "en": "{v:0011}Right. This is a battle we can't afford to lose.{FFF9}{FFFB}{v:0012}But I'll be{n}watching your back. You can fight without worrying.{p}{v:0013}Trust your comrade!",
+   "en": "{v:0011}Right. This is a battle we can't afford to lose.{FFF9}{FFFB}{v:0012}But I'll{n}be watching your back. You can fight without worrying.{p}{v:0013}Trust your comrade!",
    "term": "end"
   },
   {
@@ -1453,7 +1453,7 @@
   {
    "id": "scen093.0235",
    "jp": "{v:0007}君に話しておきたいことというのは他でもない。{n}これから先のことさ。{p}{v:0008}ここから先に待ち受けている敵は、{n}これまでとは比較にならないくらい強い。{FFF9}{FFFB}{n}{v:0009}僕たちの力なんて、小さな水滴みたいなものだ。{p}{v:000A}だけど、こんな事をしっているかい？{FFF9}{FFFB}{n}{v:000B}１滴の水滴も、なんども同じ所へ落ちることで{n}硬い岩に穴をあける事が出来る。{p}{v:000C}僕たちもこれと同じさ。{FFF9}{FFFB}{n}{v:000D}諦めずに立ち向かっていくことで、{n}必ず敵を倒すことが出来るはずだ。{p}{v:000E}君と、僕たちならね。",
-   "en": "{v:0007}What I wanted to talk to you about is, of course, what{n}lies ahead.{p}{v:0008}The enemy waiting for us is incomparably stronger than{n}any we've faced before.{FFF9}{FFFB}{v:0009}Our strength is like a tiny drop{n}of water.{p}{v:000A}But did you know this?{FFF9}{FFFB}{v:000B}Even drops of water can bore a{n}hole through solid rock by falling on the same spot over{n}and over.{p}{v:000C}The same is true of us.{FFF9}{FFFB}{v:000D}If we keep fighting without{n}giving up, I'm certain we can defeat our enemy.{p}{v:000E}You and all of us together, that is.",
+   "en": "{v:0007}What I wanted to talk to you about is, of course, what{n}lies ahead.{p}{v:0008}The enemy waiting for us is incomparably stronger than{n}any we've faced before.{FFF9}{FFFB}{v:0009}Our strength is like a tiny{n}drop of water.{p}{v:000A}But did you know this?{FFF9}{FFFB}{v:000B}Even drops of water can bore{n}a hole through solid rock by falling on the same spot{n}over and over.{p}{v:000C}The same is true of us.{FFF9}{FFFB}{v:000D}If we keep fighting without{n}giving up, I'm certain we can defeat our enemy.{p}{v:000E}You and all of us together, that is.",
    "term": "end"
   },
   {
@@ -1510,7 +1510,7 @@
   {
    "id": "scen093.0244",
    "jp": "{v:0017}さて、そろそろ彼らの所へもどろうか。{FFF9}{FFFB}{n}{v:0018}僕が言いたいことは言ったしね。",
-   "en": "{v:0017}Well, shall we head back to the others?{FFF9}{FFFB}{v:0018}I've said what I{n}wanted to say.",
+   "en": "{v:0017}Well, shall we head back to the others?{FFF9}{FFFB}{v:0018}I've said what{n}I wanted to say.",
    "term": "end"
   },
   {
@@ -1677,7 +1677,7 @@
   {
    "id": "scen093.0271",
    "jp": "{v:000A}ご自分の事に気づかれなかったんですか？{FFF9}{FFFB}{n}{v:000B}ふふ、あなたらしいですね。",
-   "en": "{v:000A}You hadn't realized that about yourself?{FFF9}{FFFB}{v:000B}Hehe, that's{n}just like you.",
+   "en": "{v:000A}You hadn't realized that about yourself?{FFF9}{FFFB}{v:000B}Hehe,{n}that's just like you.",
    "term": "end"
   },
   {

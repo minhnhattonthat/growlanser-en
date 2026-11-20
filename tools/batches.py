@@ -33,6 +33,7 @@ DICT = re.compile(r"\{F4([0-9A-F]{2})\}")  # dictionary words: shown expanded to
 VARIABLE = r"\{s:[0-9A-F]{4}\}"  # a name the game draws: no suffix glued on
 GLYPH_VARS = {"{s:0127}"}  # 目 drawn from the names table (exe.names "Eye"), a kanji not a name: English spells the word
 GLYPH_VARS |= {"[028B]", "[028C]", "[028D]", "[028E]"}  # ペンダント squeezed into 4 font cells: English spells "Pendant"
+GLYPH_VARS |= {"[0793]"}  # blank glyph in ＤＡＴＡ[0793]ＢＡＮＫ: its cell holds asm/vwf.asm now, English writes a space
 HONORIFICS = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun"}  # D1: honorifics kept
 from insert import KEEP_JP, needs_english  # noqa: E402  the one keep-list, shared with the inserter
 WRAPPED = ("scen", "exe.help", "msys")  # multi-line boxes the wrapper lays out; {p} only added in scen dialogue

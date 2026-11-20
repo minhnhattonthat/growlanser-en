@@ -49,6 +49,20 @@ class Layout(unittest.TestCase):
         self.assertEqual(sum(map(enc.advance, w)), sum(insert.SLOTS["exe.sys.0069"]))
         self.assertEqual(enc.en.decode(w), "Enter NameHiraKataABCDelOK")
 
+    def test_raw_codes_not_reused(self):
+        """A raw [XXXX] game glyph the build writes must not sit in a font cell the build reuses (FONT_FREE: string
+        heap; 0x6A0-0x7CA: asm/vwf.asm). ＭＹ[01C2]ＣＩＴＹ drew vwf bytes as a glyph in the name-entry field."""
+        import re
+        import insert
+        reused = insert.FONT_FREE + [(0x6A0, 0x7CB)]
+        bad = []
+        for doc in insert.docs():
+            for e in doc["entries"]:
+                text = e["jp"] if e["id"] in insert.KEEP_JP or not e.get("en") else e["en"]
+                bad += [(e["id"], c) for c in re.findall(r"\[([0-9A-F]{4})\]", text or "")
+                        if any(a <= int(c, 16) < b for a, b in reused)]
+        self.assertEqual(bad, [])
+
 
 @unittest.skipUnless(HAVE, "needs work/disc1/tree and armips")
 class English(unittest.TestCase):

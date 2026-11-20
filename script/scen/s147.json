@@ -147,19 +147,19 @@
   {
    "id": "scen147.0023",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『犬も歩けば散歩忘れず』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "Heh heh heh...{FFFB} 'Every dog has its walk.'{FFFB} I am the famed{n}{FFF0}Dungeon Man{FFF1}!",
+   "en": "Heh heh heh...{FFFB} 'Every dog has its walk.'{FFFB} I am the{n}famed {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen147.0024",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『サルも木から降ず、カッパの皮算用』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "Heh heh heh...{FFFB} 'Even monkeys fall up trees. Don't count{n}your turtles before they hatch.'{FFFB} I am the famed{n}{FFF0}Dungeon Man{FFF1}!",
+   "en": "Heh heh heh...{FFFB} 'Even monkeys fall up trees. Don't{n}count your turtles before they hatch.'{FFFB} I am the{n}famed {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen147.0025",
    "jp": "ふっふっふっ‥‥。{FFFB}{n}『あなたのハートに迷宮の罠』{FFFB}{n}私がウワサの{FFF0}ダンジョンマン{FFF1}だ！",
-   "en": "Heh heh heh...{FFFB} 'A labyrinth's trap for your heart.'{FFFB} I am{n}the famed {FFF0}Dungeon Man{FFF1}!",
+   "en": "Heh heh heh...{FFFB} 'A labyrinth's trap for your heart.'{FFFB} I{n}am the famed {FFF0}Dungeon Man{FFF1}!",
    "term": "end"
   },
   {

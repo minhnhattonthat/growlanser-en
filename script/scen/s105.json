@@ -105,7 +105,7 @@
   {
    "id": "scen105.0016",
    "jp": "{v:0053}バカ！{FFF9}{FFFB}{n}{v:0054}自分が何言ってるかわかってるの？{FFF9}{FFFB}{n}{v:0055}それにコイツがそんなこと望むと思ってんの？",
-   "en": "{v:0053}You idiot!{FFF9}{FFFB} {v:0054}Do you even hear what you're saying?!{FFF9}{FFFB} {v:0055}And do{n}you really think this guy wants that?!",
+   "en": "{v:0053}You idiot!{FFF9}{FFFB} {v:0054}Do you even hear what you're saying?!{FFF9}{FFFB} {v:0055}And{n}do you really think this guy wants that?!",
    "term": "end"
   },
   {
@@ -198,7 +198,7 @@
   {
    "id": "scen105.0031",
    "jp": "{v:0044}改めて礼を言おう。{FFF9}{FFFB}{n}{v:0045}君たちのおかげで王都の民が救われた。",
-   "en": "{v:0044}Allow me to thank you again.{FFF9}{FFFB} {v:0045}Thanks to you, the people{n}of the royal capital are safe.",
+   "en": "{v:0044}Allow me to thank you again.{FFF9}{FFFB} {v:0045}Thanks to you, the{n}people of the royal capital are safe.",
    "term": "end"
   },
   {

@@ -748,7 +748,7 @@
   {
    "id": "scen037.0122",
    "jp": "‥‥{v:0027}あらぁ‥‥。{FFF9}{FFFB}{n}{v:0028}しばらく来なかったら、お花畑がなくなってる‥‥。",
-   "en": "...{v:0027}Oh...?{FFF9}{FFFB}{v:0028}I haven't been here in a while, and now the flower{n}field's gone...",
+   "en": "...{v:0027}Oh...?{FFF9}{FFFB}{v:0028}I haven't been here in a while, and now the{n}flower field's gone...",
    "term": "end"
   },
   {
@@ -1034,7 +1034,7 @@
   {
    "id": "scen037.0169",
    "jp": "‥‥{v:005B}ごめんね、みんな‥‥。{n}確かに今のアタシはここにいるよ？{p}{v:005C}でも、過去のアタシの積み重ねが{n}今のアタシなの‥‥。{FFF9}{FFFB}{n}{v:005D}過去が違ってたら、今のアタシだって違っちゃうよ！",
-   "en": "...{v:005B}I'm sorry, everyone... Yes, I'm here now.{p}{v:005C}But everything I've been through made me who I am...{FFF9}{FFFB}{v:005D}If{n}my past is different, then who I am now is{n}different, too!",
+   "en": "...{v:005B}I'm sorry, everyone... Yes, I'm here now.{p}{v:005C}But everything I've been through made me who I{n}am...{FFF9}{FFFB}{v:005D}If my past is different, then who I am now is{n}different, too!",
    "term": "end"
   },
   {
@@ -1373,7 +1373,7 @@
   {
    "id": "scen037.0225",
    "jp": "アンタ、こんな物に興味があるの！？{FFFB}{n}{FB00}趣味を疑っちゃうわ‥‥。",
-   "en": "You're interested in THIS sort of thing?!{FFFB} {FB00}I'm starting to{n}question your taste...",
+   "en": "You're interested in THIS sort of thing?!{FFFB} {FB00}I'm starting{n}to question your taste...",
    "term": "end"
   },
   {

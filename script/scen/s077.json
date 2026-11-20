@@ -660,7 +660,7 @@
   {
    "id": "scen077.0107",
    "jp": "{v:00DA}うふふっ♪{FFF9}{FFFB}{n}{v:00DB}なんだか、ふっきれたみたいだね★",
-   "en": "{v:00DA}Heehee♪{FFF9}{FFFB} {v:00DB}Looks like you've gotten that off your chest!",
+   "en": "{v:00DA}Heehee♪{FFF9}{FFFB} {v:00DB}Looks like you've gotten that off{n}your chest!",
    "term": "end"
   },
   {

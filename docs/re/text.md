@@ -103,7 +103,9 @@
   rest of the page at once (0x800655C8 / 0x80065A4C: x = window left, width = whole window, dx = &gp+0x838).
   vwf.asm branches both typewriters to the page-at-once path: text appears a page, or up to the next wait code, at
   a time (the message-speed option no longer changes anything). A wait code mid-line resumes at the column, not the
-  pixel (up to 11 px gap): keep waits at line ends in the English.
+  pixel (up to 11 px gap), and the resumed print wraps on a code's end, not its start (scen070.0017: " a" at x
+  267-277 wrapped in a 24-cell box). fit.lint models both (fit.WAITS, test_fit.test_wait_codes); tools/rewrap.py
+  re-flowed the 66 entries it caught (session 15). Prefer waits at line ends in the English, as the JP does.
 - EXE string tables: the u16 arrays and getters stay; strings go in a heap (tools/insert.py `Heap`: the original
   string blocks plus free kanji cells 0x11C-0x69F minus the icon/button cells), anywhere within 128 KB above the
   table's base (u16 word offsets).

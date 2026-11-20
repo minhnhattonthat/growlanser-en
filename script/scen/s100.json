@@ -599,7 +599,7 @@
   {
    "id": "scen100.0098",
    "jp": "{v:006A}あなた達がいなかったらと思うと‥‥。{FFF9}{FFFB}{n}{v:006B}ありがとうございました。",
-   "en": "{v:006A}To think what might have happened without you...{FFF9}{FFFB}{v:006B}Thank{n}you so much.",
+   "en": "{v:006A}To think what might have happened without{n}you...{FFF9}{FFFB}{v:006B}Thank you so much.",
    "term": "end"
   },
   {
@@ -1072,7 +1072,7 @@
   {
    "id": "scen100.0176",
    "jp": "{v:0034}彼女の居場所を知りたいんです！{FFF9}{FFFB}{n}{v:0035}{s:0007}さんの居場所を知りませんか？",
-   "en": "{v:0034}We need to find her!{FFF9}{FFFB}{v:0035}Do you know where {s:0007}{n}is?",
+   "en": "{v:0034}We need to find her!{FFF9}{FFFB}{v:0035}Do you know where{n}{s:0007} is?",
    "term": "end"
   },
   {

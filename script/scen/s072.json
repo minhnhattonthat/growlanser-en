@@ -57,7 +57,7 @@
   {
    "id": "scen072.0008",
    "jp": "{v:0039}東にはバーンシュタイン王国。{n}南にランザック王国。{FFF9}{FFFB}{n}{v:003A}つまりここは、３つの国の接点だ。{p}{v:003B}そして軍隊が通れるような太い道もある。{n}重要な防衛拠点だ。",
-   "en": "{v:0039}The Kingdom of Burnstein lies to the east. The Kingdom{n}of Ranzak to the south.{FFF9}{FFFB} {v:003A}In other words, this is where{n}three countries meet.{p}{v:003B}There's also a road wide enough for an army to march{n}through. It's a key defensive position.",
+   "en": "{v:0039}The Kingdom of Burnstein lies to the east. The Kingdom{n}of Ranzak to the south.{FFF9}{FFFB} {v:003A}In other words, this is{n}where three countries meet.{p}{v:003B}There's also a road wide enough for an army to march{n}through. It's a key defensive position.",
    "term": "end"
   },
   {
@@ -267,7 +267,7 @@
   {
    "id": "scen072.0043",
    "jp": "{v:0010}森の緑、そして静けさ‥‥。{FFF9}{FFFB}{n}{v:0011}かすかな虫の音‥‥。{p}{v:0012}そして‥‥。",
-   "en": "{v:0010}The green of the forest, and its stillness...{FFF9}{FFFB} {v:0011}The faint{n}chirping of insects...{p}{v:0012}And...",
+   "en": "{v:0010}The green of the forest, and its stillness...{FFF9}{FFFB} {v:0011}The{n}faint chirping of insects...{p}{v:0012}And...",
    "term": "end"
   },
   {
@@ -933,7 +933,7 @@
   {
    "id": "scen072.0153",
    "jp": "{v:0040}バーンシュタイン王国内に侵入させた者からの{n}緊急報告が入りました。{p}{v:0041}姫を乗せた馬車が、監禁場所から出たとの事です。{n}そして護送先は‥‥、{FFF9}{FFFB}{n}{v:0042}ガルアオス監獄です。",
-   "en": "{v:0040}An urgent report has arrived from our agent{n}inside Burnstein.{p}{v:0041}A carriage carrying the princess has left the place{n}where she was being held. Her destination is...{FFF9}{FFFB}{v:0042}Garuaos{n}Prison.",
+   "en": "{v:0040}An urgent report has arrived from our agent{n}inside Burnstein.{p}{v:0041}A carriage carrying the princess has left the place{n}where she was being held. Her destination{n}is...{FFF9}{FFFB}{v:0042}Garuaos Prison.",
    "term": "end"
   },
   {

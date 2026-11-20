@@ -489,7 +489,7 @@
   {
    "id": "scen026.0080",
    "jp": "{v:003E}よくも、アタシの学校を‥‥！{FFF9}{FFFB}{n}{v:003F}よくも、アタシの友達を‥‥！",
-   "en": "{v:003E}How dare you do this to my school...!{FFF9}{FFFB}{v:003F}How dare you hurt{n}my friends...!",
+   "en": "{v:003E}How dare you do this to my school...!{FFF9}{FFFB}{v:003F}How dare you{n}hurt my friends...!",
    "term": "end"
   },
   {

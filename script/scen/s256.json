@@ -474,7 +474,7 @@
   {
    "id": "scen256.0075",
    "jp": "さあミーシャ！　{FE1E}今から猛勉強よ！{FFFB}{n}{FC00}じゃ、お兄さま♪　またね★",
-   "en": "Come on, Misha! {FE1E}Time to hit the books!{FFFB} {FC00}Well, Big Brother♪{n}See you!",
+   "en": "Come on, Misha! {FE1E}Time to hit the books!{FFFB} {FC00}Well, Big{n}Brother♪ See you!",
    "term": "end"
   },
   {
@@ -927,7 +927,7 @@
   {
    "id": "scen256.0148",
    "jp": "{v:0216}すごい味だったな‥‥。{FFF9}{FFFB}{n}{v:0217}早く何かで口直ししないと‥‥。",
-   "en": "{v:0216}What a taste that was...{FFF9}{FFFB}{v:0217}I need something to get it out{n}of my mouth, quickly...",
+   "en": "{v:0216}What a taste that was...{FFF9}{FFFB}{v:0217}I need something to get it{n}out of my mouth, quickly...",
    "term": "end"
   },
   {

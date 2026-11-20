@@ -823,7 +823,7 @@
   {
    "id": "scen027.0129",
    "jp": "{v:00BA}う～ん、否定は出来ないけど‥‥。{FFF9}{FFFB}{n}{v:00BB}もうちょっと、まともだったような気が‥‥。",
-   "en": "{v:00BA}Well, I can't really say she isn't...{FFF9}{FFFB}{v:00BB}But I thought she was{n}a little more sensible...",
+   "en": "{v:00BA}Well, I can't really say she isn't...{FFF9}{FFFB}{v:00BB}But I thought she{n}was a little more sensible...",
    "term": "end"
   },
   {
@@ -1556,7 +1556,7 @@
   {
    "id": "scen027.0246",
    "jp": "{v:0059}あ、いえ‥‥。{FFF9}{FFFB}{n}{v:005A}お兄ちゃんたちに学内を案内しているだけですので。",
-   "en": "{v:0059}Oh, um...{FFF9}{FFFB} {v:005A}I'm just showing Big Brother and the others{n}around the Academy.",
+   "en": "{v:0059}Oh, um...{FFF9}{FFFB} {v:005A}I'm just showing Big Brother and the{n}others around the Academy.",
    "term": "end"
   },
   {

@@ -428,7 +428,7 @@
   {
    "id": "scen017.0068",
    "jp": "{FFF5}{v:0081}うぅ‥‥。{n}ありがとう、お兄ちゃん。{FFF9}{FFFB}{n}{v:0082}でもわたしが励まされてちゃ、だめだよね。{p}{v:0083}お兄ちゃん、死なないでね‥‥。",
-   "en": "{FFF5}{v:0081}Uuh... Thank you, Big Brother.{FFF9}{FFFB} {v:0082}But I shouldn't be the one{n}being comforted, should I?{p}{v:0083}Please don't die, Big Brother...",
+   "en": "{FFF5}{v:0081}Uuh... Thank you, Big Brother.{FFF9}{FFFB} {v:0082}But I shouldn't be the{n}one being comforted, should I?{p}{v:0083}Please don't die, Big Brother...",
    "term": "end"
   },
   {
@@ -546,7 +546,7 @@
   {
    "id": "scen017.0087",
    "jp": "{v:00A3}お目覚めですか？{FFF9}{FFFB}{n}{v:009A}あなたが倒れた時には、とっても驚きました。{p}{v:009B}何かお薬を作ろうと思ったのですが、{n}材料の持ち合わせがなくて‥‥。{FFF9}{FFFB}{n}{v:009C}こんな時に、お役に立てなくてごめんなさい。",
-   "en": "{v:00A3}Are you awake?{FFF9}{FFFB} {v:009A}You gave me such a fright when{n}you collapsed.{p}{v:009B}I wanted to make you some medicine, but I didn't have{n}the ingredients...{FFF9}{FFFB} {v:009C}I'm sorry I can't be of any help when{n}you need it most.",
+   "en": "{v:00A3}Are you awake?{FFF9}{FFFB} {v:009A}You gave me such a fright when{n}you collapsed.{p}{v:009B}I wanted to make you some medicine, but I didn't have{n}the ingredients...{FFF9}{FFFB} {v:009C}I'm sorry I can't be of any help{n}when you need it most.",
    "term": "end"
   },
   {

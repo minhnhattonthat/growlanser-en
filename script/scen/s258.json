@@ -45,7 +45,7 @@
   {
    "id": "scen258.0006",
    "jp": "{v:00E3}何度も自分に言い聞かせて、{n}いい思い出にしようと‥‥。{p}{v:00E4}諦めようと思ったのに‥‥。{p}‥‥{v:00E5}それでもあなたをあきらめられない！{FFF9}{FFFB}{n}{v:00E6}私、どうすればいいの！？",
-   "en": "{v:00E3}I kept telling myself to let it become a happy memory...{p}{v:00E4}I was going to give up on you...{p}...{v:00E5}But I still can't let you go!{FFF9}{FFFB} {v:00E6}What am I supposed to do?!",
+   "en": "{v:00E3}I kept telling myself to let it become a happy memory...{p}{v:00E4}I was going to give up on you...{p}...{v:00E5}But I still can't let you go!{FFF9}{FFFB} {v:00E6}What am I supposed{n}to do?!",
    "term": "end"
   },
   {
@@ -308,7 +308,7 @@
   {
    "id": "scen258.0049",
    "jp": "{v:002C}そ、そうですよ！{FFF9}{FFFB}{n}{v:002D}だからあなたもルイセちゃんに{n}心配かけちゃいけませんよ？",
-   "en": "{v:002C}Y-yes, exactly!{FFF9}{FFFB} {v:002D}And you mustn't make Luise-chan worry{n}either, all right?",
+   "en": "{v:002C}Y-yes, exactly!{FFF9}{FFFB} {v:002D}And you mustn't make Luise-chan{n}worry either, all right?",
    "term": "end"
   },
   {
@@ -487,7 +487,7 @@
   {
    "id": "scen258.0078",
    "jp": "{v:0085}護る義務！？{FFF9}{FFFB}{n}{v:0086}私は、もう自分で決められるわ！{n}いつまで子供扱いする気なのよ！",
-   "en": "{v:0085}Your duty to protect me?!{FFF9}{FFFB} {v:0086}I can make my own decisions{n}now! How long are you going to treat me like a child?!",
+   "en": "{v:0085}Your duty to protect me?!{FFF9}{FFFB} {v:0086}I can make my own{n}decisions now! How long are you going to treat me like{n}a child?!",
    "term": "end"
   },
   {

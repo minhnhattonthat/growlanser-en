@@ -125,5 +125,10 @@ stress_skills    scene 18 area 2 sub 1 frames 13400 stress then 300 -;pick 0;300
 stress_equip     scene 18 area 2 sub 1 frames 7600 stress then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 2;150 -;6 circle;150 -;6 down*12/10
 stress_spell     scene 18 area 2 sub 1 frames 9400 stress then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 5;6 circle*60;6 select;150 -;pick 0;300 -;6 down*34/60;300 -;6 right;300 -
 stress_save      scene 18 area 2 sub 1 frames 9000 stress then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 5;150 -;6 circle;500 -;6 circle;200 -;6 up;60 -;6 circle;900 -;6 circle;600 -
+# party > 1: story point vac07 (dbg 3 -> 7) has the party; status pages every unit with Right
+stress_party     scene 18 area 2 sub 1 frames 9000 stress then 300 -;pick 3;pick 7;6 circle*100;300 -;6 select;150 -;pick 3;150 -;6 right*8/150
+# longest hero name (8 cells: PLAYERああ) + its Yes/No box, then the territory name screen (default ＭＹ ＣＩＴＹ, D18).
+# Menu nameplates (status "PLAYER", "RUISE") are art, not the name buffer; dialogue names are fit-linted (fit.SUB_PX)
+stress_name      scene 18 area 2 sub 1 frames 5200 then 300 -;pick 11;6 circle*10;6 start;120 -;6 circle;150 -;6 up;60 -;6 circle;300 -;6 start;120 -;6 circle;300 -;6 up;60 -;6 circle;300 -
 stress_itemdesc  scene 18 area 2 sub 1 frames 7600 stress then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 select;150 -;pick 1;150 -;6 down;60 -;6 square;200 -
 gear_spell      scene 18 area 2 sub 1 frames 6800 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 5;6 circle*60;6 select;150 -;pick 0;300 -;6 right;300 -

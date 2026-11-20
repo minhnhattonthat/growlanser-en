@@ -19,7 +19,8 @@ import enfont  # noqa: E402
 import gltext  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-SUB_PX = 96  # shortcut: a {s:XXXX} name counts 8 cells (the longest name we allow); measure names when translated
+WAITS = (0xFFF9, 0xFFFA, 0xFFFB)  # wait codes: the page-at-once printer stops there (scen070.0017 wrapped early)
+SUB_PX = 96 # shortcut: a {s:XXXX} name counts 8 cells (the longest name we allow); measure names when translated
 
 # (id prefix, kind, columns or px, lines per page, measured). First match wins; scen entries are split further below.
 BUDGETS = [
@@ -70,7 +71,7 @@ def lint(text, b, font=None, codec=None):
         words = codec.encode(text)
     except ValueError as e:
         return [(True, str(e))]
-    x, line, page_lines, i = 0, 1, 1, 0
+    x, line, page_lines, i, waited = 0, 1, 1, 0, False
     limit = 12 * (size - 1)
     while i < len(words):
         w = words[i]
@@ -78,7 +79,7 @@ def lint(text, b, font=None, codec=None):
         if w in (0xFFFC, 0xFFFD):
             if kind == "clip":
                 probs.append((True, "line break in a one-line field"))
-            x, line = 0, line + 1
+            x, line, waited = 0, line + 1, False
             page_lines = 1 if w == 0xFFFD else page_lines + 1
             if page_lines > lines:
                 probs.append((measured, "line %d: more than %d lines on a page (add {p})" % (line, lines)))
@@ -92,6 +93,10 @@ def lint(text, b, font=None, codec=None):
         elif 0xF400 <= w < 0xF500:
             probs.append((True, "dictionary code {%04X} (writes Japanese): spell the word out" % w))
             continue
+        elif w in WAITS:
+            x = -(-x // 12) * 12  # printing resumes at the next column, not the pixel (docs/re/text.md)
+            waited = True
+            continue
         elif w >= 0xF000:
             continue
         elif w >= enfont.PAIR:
@@ -99,8 +104,10 @@ def lint(text, b, font=None, codec=None):
             adv = font[codec.rev[a]][2] + (font[codec.rev[c]][2] if c else 0)
         else:
             adv = 12
-        if kind == "wrap" and x > limit:
-            probs.append((measured, "line %d: auto-wraps at %d px (budget %d cells = %d px)" % (line, x, size, 12 * size)))
+        # after a wait the resumed print wraps on a code's end, not its start (scen070.0017: " a" at 267-277 wrapped)
+        if kind == "wrap" and (x > limit or waited and x + adv > limit):
+            probs.append((measured, "line %d: auto-wraps at %d px (budget %d cells = %d px%s)"
+                          % (line, x, size, 12 * size, ", after a wait code" if waited else "")))
             x = 0
         x += adv
         if kind == "clip" and x > size:

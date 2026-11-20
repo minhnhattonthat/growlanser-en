@@ -491,3 +491,5 @@ Minor review findings, one per line; tick each `[x]` (fixed or `waived: reason`)
 - [ ] b203 scen279.0017 - 「操られ」 means “being controlled/manipulated” - “Under control” can suggest composure rather than involuntary control - Special 1 -- being controlled
 - [ ] b203 scen279.0018 - 「操られの苦しい」 means suffering while being controlled - Clarify the same passive meaning here - Special 2 -- in pain while being controlled
 - [ ] b203 scen261.0037 - 「腕っぷしだけはガキの頃から強かった」 means physical strength was his one strong point since childhood - Omits the self-deprecating “only,” which helps explain his choice of work - Yeah. Fighting's the one thing I've always been good at, even as a kid. Got that from my old man, apparently.
+- [ ] vqa-s15 msys.skills - 「発動：」 trigger label rendered three ways ("Activation: Normal attacks.", "On normal attacks.", "When using items." in 0037) - pick one form ("Activation: ...") for every skill description; re-run stress_skills after
+- [ ] vqa-s15 font - VWF ":" with its drop shadow reads like ";" in descriptions ("Attribute: Wind") - consider a colon with the dots 3 rows apart or no lower shadow; check font/en12.txt line 84

@@ -400,7 +400,7 @@
   {
    "id": "scen022.0064",
    "jp": "{v:0090}子供のくせに、何だかしっかりしてるわねぇ‥‥。{FFF9}{FFFB}{n}{v:0091}もっと子供らしく、くだけた口調で話しなさいよ。",
-   "en": "{v:0090}You're awfully proper for a kid...{FFF9}{FFFB}{v:0091}Loosen up! Talk like a kid{n}your age!",
+   "en": "{v:0090}You're awfully proper for a kid...{FFF9}{FFFB}{v:0091}Loosen up! Talk like a{n}kid your age!",
    "term": "end"
   },
   {
@@ -460,7 +460,7 @@
   {
    "id": "scen022.0074",
    "jp": "{v:009F}ですから、屋敷の中だけだったんです。{p}{v:00A0}屋敷の中だけが僕の世界の全てだった‥‥。{FFF9}{FFFB}{n}{v:00A1}だから、こんな大勢の人に囲まれている自分が{n}信じられませんよ。{p}{v:00A2}いいですよね、こういうのって。",
-   "en": "{v:009F}As I said, I never left the estate.{p}{v:00A0}Everything within its walls was my entire world...{FFF9}{FFFB}{v:00A1}So I can{n}hardly believe I'm surrounded by so many people now.{p}{v:00A2}This sort of thing is lovely, isn't it?",
+   "en": "{v:009F}As I said, I never left the estate.{p}{v:00A0}Everything within its walls was my entire world...{FFF9}{FFFB}{v:00A1}So I{n}can hardly believe I'm surrounded by so many{n}people now.{p}{v:00A2}This sort of thing is lovely, isn't it?",
    "term": "end"
   },
   {
