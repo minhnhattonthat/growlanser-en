@@ -2,11 +2,21 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (session 15: stress cases complete, stress gate green on
-  7521ea80; tour vqa in progress on 7521ea80, a text fix since). **Next:** finish tour vqa (chunks
-  chunk_f92c052b7d20_NNN, dispatch context work/qa/tour/dispatch_s15.md, one visual-qa agent at a time), collect
-  fixes, rebuild, re-tour all 84 (deterministic: only changed sheets need new verdicts) + stress warps, qa_gate
-  init both, vqa the changed sheets, full cover.py rerun + textcover (coverage hashes stale: 11715 failing).
+- **Phase:** 8. QA in the emulator, in progress (session 16: pen-gap bug fixed, full tour + stress vqa done on
+  6a97dc86, one text fix since). **Next:** see session 16 below.
+- **Phase 8 session 16 (2026-11-21): pen gap fixed, final tour vqa.** (a) **Bug fixed (asm/vwf.asm):** a dialogue
+  message prints its first code alone (print wrapper called from 0x80065E5C), then the rest from the page path
+  (wrapper calls at 0x80065630 / 0x80065AF4), again after each wait code; the new-string flag resynced the pen to
+  col*12 ("We  lcome"). vwf_newstr now flags those two callers -1 and vwf_draw keeps the pen when the column matches
+  (row ignored: FFFB resumes one line lower with row 0). fit.py no longer snaps x at wait codes (the resumed print
+  still wraps on a code's end: "Such a fra/il", work/qa/waitwrap.tsv). Tests test_vwf test_continuation_keeps_pen,
+  test_newstr_flags; docs/re/text.md. Commit 7a86fe9. (b) Build 6a97dc86acd5f9f76f6923c92bc8173e9c51dc9d (disc 2 T1
+  3b54023b80c9f8b8b31dd2acc0885f3089ab7f0b): re-tour 84/84 + 10 stress warps, qa_gate init both; vqa (plugin
+  visual-qa agents; codex out of credits until 2026-11-26) of all 214 tour + 3 stress sheets without a verdict:
+  1 issue: ev_battle001/sheet_2 f2640 scen014.0185 "...Take it..." 17 px left of centre -> fixed in script (8
+  full-width spaces + 1 space; only that string's hash changes, checked with build --out work/qa/bnew). (c) Full
+  cover.py rerun on 6a97dc86 into work/qa/cov (old run moved to work/qa/cov_s15; dictionary re-encoding had made
+  17133 hashes stale).
 - **Phase 8 session 15 (2026-11-21): stress complete, final tour.** (a) Party > 1: warp stress_party (story point
   vac07, 5 units, status paged). Menu nameplates are art (debug.md "Inventory"), so no "hero name copy" exists.
   (b) Long names: warp stress_name (8-cell hero name + territory name screen). **Bug fixed:** default territory

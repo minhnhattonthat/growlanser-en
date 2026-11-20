@@ -44,6 +44,7 @@ _font, _codec, _dict = None, None, None
 EDGE_FREE = {  # skill rank labels "　１".."　９Ｂ": the MSYS packer (msyspack.events) takes no raw word < 0x80, so
     # no full-width blank; the blank only right-aligned a 12 px digit
     **{"msys.skills.%04d" % i: "MSYS packer: no full-width blank" for i in range(123, 133)},
+    "scen014.0185": "blanks centre the English line (vqa ev_battle001 f2640: 7 left it 17 px off centre)",
 }
 _SILENT = r"\{(?!F4[0-9A-F]{2}\}|s:|FFE[89A]\})[^}\n]*\}"  # codes that draw nothing (not dictionary/name/item vars)
 LEAD = re.compile(r"^(?:%s|[ 　])*" % _SILENT)
