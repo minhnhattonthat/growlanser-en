@@ -68,7 +68,7 @@
   {
    "id": "msys.magic.0010",
    "jp": "高度に練り上げた{F48A}物質化し、目標を破壊{F4BD}{n}{F4C3}{F4D1}。最強の{F49B}{F482}{F4BA}{F4DA}：物／目標：敵１体",
-   "en": "Attack magic solidifies highly refined magic to destroy a{n}target. Unmatched destructive power.{n}Attribute: Physical. Target: 1 enemy.",
+   "en": "Attack magic that solidifies refined magic to destroy a{n}target. Unmatched destructive power.{n}Attribute: Physical. Target: 1 enemy.",
    "term": "null"
   },
   {
@@ -110,7 +110,7 @@
   {
    "id": "msys.magic.0017",
    "jp": "活{F4C2}奪い、防御能{F4C2}落とす補助{F4D1}。長期間{F4C0}対象に{F496}直接{F4C3}{F478}を３０％増加{F47A}{F4BA}{F4DA}：物／目標：敵１体／{F4F4}：プロテクト系",
-   "en": "Support magic saps vigor and defense: direct attack{n}damage taken +30%, long-term. Attribute: Physical.{n}Target: 1 enemy. Recovery: Protect spells.",
+   "en": "Support magic that saps vigor and defense long-term:{n}direct attack damage taken +30%. Attribute: Physical.{n}Target: 1 enemy. Recovery: Protect spells.",
    "term": "null"
   },
   {
@@ -134,13 +134,13 @@
   {
    "id": "msys.magic.0021",
    "jp": "対象の身の回り{F4D7}{F4FD}の防壁を{F4B5}す補助{F4D1}{F4BA}対象が受{F4DE}直接{F4C3}{F478}を３０％軽減{F4BD}{F4BA}目標：味方１体／消滅：ウィークネス／時間：長",
-   "en": "Support magic forms a barrier around the target.{n}Direct attack damage taken -30%. Target: 1 ally.{n}Removed by: Weakness. Duration: Long.",
+   "en": "Support magic that forms a barrier around a target.{n}Direct attack damage taken -30%. Target: 1 ally.{n}Removed by: Weakness. Duration: Long.",
    "term": "null"
   },
   {
    "id": "msys.magic.0022",
    "jp": "味方１グループの回りに{F4FD}による防壁を{F4B5}す{n}補助{F4D1}。直接{F4C3}{F478}を３０％軽減{F4BD}{F4BA}目標：グループ／消滅：ウィークネス／時間：長",
-   "en": "Support magic forms a barrier around a group of{n}allies. Direct attack damage taken -30%. Target: Group.{n}Removed by: Weakness. Duration: Long.",
+   "en": "Support magic that forms a barrier around a group of{n}allies. Direct attack damage taken -30%.{n}Target: Group. Removed by: Weakness. Duration: Long.",
    "term": "null"
   },
   {

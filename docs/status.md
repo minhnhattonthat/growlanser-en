@@ -2,8 +2,21 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (session 19). **Next:** build, re-tour + stress on the new build, vqa the changed
-  sheets, cover rerun, then `tools/release.py`.
+- **Phase:** 9. Release in progress (session 20). **Next:** `tools/release.py` (all QA gates green on build 8528a8c2).
+- **Phase 9 session 20 (2026-11-21): release-candidate QA.** Build disc 1 8528a8c29559426023a9fc2564f9321275274779,
+  disc 2 T1 cb1fd0d5833de94407760f9c3572d73af7a5f9a2, T2 485017be (unchanged), copied to work/qa/tourbuild.
+  Re-tour 83/83 + credits alone (exit 124 at its frame cap after the roll, as in s17) and stress 10/10 on b9fad4d1;
+  275 tour + 43 stress sheets changed, all re-verdicted by plugin visual-qa agents (codex out of credits until
+  11-26), dispatch work/qa/dispatch_s20.md. 1 issue: msys.magic.0010/0017/0021/0022 lacked "that" ("Attack magic
+  solidifies...") -> reworded, refit (3 lines each), rebuilt; stress_skills/stress_spell re-run on the fix, ok. Only
+  MSYS.DAT + its EXE tables changed after the tour (SCEN/MAP identical, build/strings.tsv differs in those 4 ids
+  only), so the tour sheets stand; manifests re-inited with --build on 8528a8c2. 44 stale stress sheets from the s15
+  run (longer runs, old verdicts) moved to work/qa/stress_stale_s15 and dropped from the manifest. Cover: full
+  cover.py rerun into work/qa/cov (old in cov_s17; hashes had all moved), `textcover` exit 0 (22249 shown, 1822
+  waived). Gotcha: cover.py 0-279 at --jobs 4 took ~1 h per 45 scenes; three range processes in parallel finish in
+  ~1 h. Not fixed (cosmetic, noted by vqa): name tags sit left in their box (code-count width, accepted since s2);
+  "Target: Group." on Grow Protect vs "1 ally group" elsewhere (JP says グループ); scen018 dev-menu row with "-" vs
+  "--"; scen018.0099 "??" (JP too).
 - **Phase 9 session 19 (2026-11-21): story pass done, polish done.** Story gate green: `qa_gate check
   work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0 (40/40; work/qa/story/verdicts/final_s19.tsv). c06-c17
   story-reviewed (plugin reviewer agents), c01-c05 diff-reviewed after polish round 1 (new tools/story_diff.py: changed
