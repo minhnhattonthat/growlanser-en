@@ -2,7 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (session 20). **Next:** `tools/release.py` (all QA gates green on build 8528a8c2).
+- **Phase:** 9. Release built and verified (session 20): release/Growlanser_EN_v1.0.zip (sha1
+  fc524d4ce04d64c7e7f00f62f9c20d80688d0d0b, 5223911 bytes: 2 xdelta + README.txt), every release.py gate ok, patches
+  re-applied to the clean dumps and sha1-matched. **Next:** the owner decides on publishing (never `gh release
+  create` without them); nothing else open.
+- **Release run (session 20):** `tools/release.py --version 1.0`: build + check.py ok, then it crashed at the smoke
+  step (SKILL is a str from skill.py: now wrapped in Path) and failed "debug tool off" on a vwf.asm comment naming
+  tools/debug/heapwatch.lua (asm comments now stripped before the check). Re-run with `--skip-build --skip-tests` on
+  the same build (8528a8c2, check.py had just passed on it): all gates ok, zip written. Patched CRC32s: disc 1
+  EAFC8A87, disc 2 T1 ADE14326.
 - **Phase 9 session 20 (2026-11-21): release-candidate QA.** Build disc 1 8528a8c29559426023a9fc2564f9321275274779,
   disc 2 T1 cb1fd0d5833de94407760f9c3572d73af7a5f9a2, T2 485017be (unchanged), copied to work/qa/tourbuild.
   Re-tour 83/83 + credits alone (exit 124 at its frame cap after the roll, as in s17) and stress 10/10 on b9fad4d1;

@@ -25,6 +25,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from skill import SKILL  # noqa: E402
 
+SKILL = Path(SKILL)  # skill.py gives a str
+
 PY = [sys.executable, "-X", "utf8"]
 DISCS = {1: ["Growlanser (Japan) (Disc 1).bin"],
          2: ["Growlanser (Japan) (Disc 2) (Track 1).bin", "Growlanser (Japan) (Disc 2) (Track 2).bin"]}
@@ -83,7 +85,7 @@ def placeholders():
 def debug_in_build():
     """The debug tool is Lua run by emu.py (tools/debug/*.lua); nothing of it may be assembled into the build."""
     return [p.name for p in (ROOT / "asm").glob("*.asm")
-            if re.search(r"tools/debug|\bwarp|cheat", p.read_text(encoding="utf-8"), re.I)]
+            if re.search(r"tools/debug|\bwarp|cheat", re.sub(r"(;|//).*", "", p.read_text(encoding="utf-8")), re.I)]
 
 
 def main():
