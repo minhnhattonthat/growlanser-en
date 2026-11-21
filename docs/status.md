@@ -6,7 +6,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   fc524d4ce04d64c7e7f00f62f9c20d80688d0d0b, 5223911 bytes: 2 xdelta + README.txt), every release.py gate ok, patches
   re-applied to the clean dumps and sha1-matched. **Published 2026-11-21** with the owner's OK: GitHub release v1.0
   (tag on 212e7a0, notes = the zip's README.txt), https://github.com/minhnhattonthat/growlanser-en/releases/tag/v1.0.
-  The repo is still PRIVATE: making it public is the owner's call. Next: player bug reports (`gh issue list --label bug`).
+  Repo made PUBLIC the same day (owner's request). Next: player bug reports (`gh issue list --label bug`).
 - **Release run (session 20):** `tools/release.py --version 1.0`: build + check.py ok, then it crashed at the smoke
   step (SKILL is a str from skill.py: now wrapped in Path) and failed "debug tool off" on a vwf.asm comment naming
   tools/debug/heapwatch.lua (asm comments now stripped before the check). Re-run with `--skip-build --skip-tests` on

@@ -22,4 +22,7 @@ sys.exit('pre-commit: NUL byte in ' + ', '.join(bad) + ' (mangled escape?)' if b
 " $src || exit 1
 fi
 
+# Docs-only commits (status, decisions) can't break the build or text: skip the slow check.
+if [ -z "$(git diff --cached --name-only | grep -v '\.md$')" ]; then exit 0; fi
+
 sh -c "$CHECK" || { echo "pre-commit: check failed: $CHECK"; exit 1; }
